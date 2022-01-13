@@ -5,6 +5,7 @@ from glob import glob
 import stanza
 from stanza.utils.conll import CoNLL
 
+from utils import read_txt_file, write_parsed_file, write_tokenized_file, get_basename
 
 
 def set_up_nlp(has_gold_tokens=True, has_gold_sentences=True, use_onto_trained=True):
@@ -28,21 +29,6 @@ def parse_sentence(nlp, sentence):
 	conllu = "\n".join(['\t'.join(x) for x in conllu[0]])
 	return tokens, conllu
 
-
-def read_txt_file(txt_file):
-	with io.open(txt_file, "r", encoding="utf8") as f_txt:
-		txt_lines = f_txt.read().strip().split("\n")
-	txt_lines = [x for x in txt_lines if not x.startswith("<") or not re.match(r"^\s*$", x)]
-	return txt_lines
-
-def write_parsed_file(output_parse, parsed_file):
-	with io.open(parsed_file, "w", encoding="utf8") as f_parsed:
-		f_parsed.write("\n\n".join(output_parse) + "\n\n")
-
-def write_tokenized_file(output_token, tokenized_file):
-	with io.open(tokenized_file, "w", encoding="utf8") as f_tokenized:
-		f_tokenized.write("\n".join(output_token) + "\n")
-
 def parse_documents(parsed_output_dir, mode="gold_token", use_onto_trained=True, replace_existing = False):
 	# Set up nlp
 	if mode == "gold_token":
@@ -64,7 +50,7 @@ def parse_documents(parsed_output_dir, mode="gold_token", use_onto_trained=True,
 	# Iterate through documents
 	docs = sorted(list(glob(input_dir + "gum_zh_*.txt", recursive=False)))
 	for doc in docs:
-		basename = os.path.splitext(os.path.basename(doc))[0]
+		basename = get_basename(doc)
 		parsed_doc = parsed_output_dir + basename + ".conllu"
 		if mode == "raw_text":
 			tokenized_doc = tokenized_output_dir + basename + ".txt"
@@ -93,8 +79,6 @@ def parse_documents(parsed_output_dir, mode="gold_token", use_onto_trained=True,
 			write_parsed_file(conllu_list, parsed_doc)
 			
 			print("o Done with parsing: ", basename)
-
-
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
