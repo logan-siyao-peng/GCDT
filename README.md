@@ -17,7 +17,8 @@ A GUM-like RST dataset for Chinese
 ## Preprocessing Steps
 - XML and metadata annotations (gold)
 - Paragraph and sentence splits (gold)
-- Tokenization and dependency parses (predicted by stanza)
+- Tokenization (gold) 
+- Dependency parses (predicted by stanza)
 
 ## RST annotations
 Guideline: see https://docs.google.com/document/d/1OmeqkDIYg5IM_pmULMzDJi__FAe7kzJmMdLtZxxd1LE/edit?usp=sharing
