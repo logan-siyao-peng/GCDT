@@ -53,7 +53,6 @@ if __name__ == '__main__':
 		basename = get_basename(edu_file)
 		gold_token_file = args.gold_token_dir + basename + ".txt"
 		align_edus_to_gold_tokens(edu_file, gold_token_file)
-	
 	print("o ALL DONE!")
 		
 		
