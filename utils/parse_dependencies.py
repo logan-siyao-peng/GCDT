@@ -5,7 +5,7 @@ from glob import glob
 import stanza
 from stanza.utils.conll import CoNLL
 
-from utils import read_txt_file, write_parsed_file, write_tokenized_file, get_basename
+from utils import read_text_file, write_parsed_file, write_text_file, get_basename
 
 
 def set_up_nlp(has_gold_tokens=True, has_gold_sentences=True, use_onto_trained=True):
@@ -60,7 +60,7 @@ def parse_documents(parsed_output_dir, mode="gold_token", use_onto_trained=True,
 			print("o Skipping %s since it already exists" % basename)
 			continue
 		else:
-			lines = read_txt_file(doc)
+			lines = read_text_file(doc)
 			tokens_list = []
 			conllu_list = []
 			for line in lines:
@@ -70,7 +70,7 @@ def parse_documents(parsed_output_dir, mode="gold_token", use_onto_trained=True,
 			
 			# Write or assert tokens
 			if mode == "raw_text":
-				write_tokenized_file(tokens_list, tokenized_doc)
+				write_text_file(tokens_list, tokenized_doc)
 			elif mode == "gold_token":
 				mismatches = [(idx, lines[idx], tokens_list[idx]) for idx in range(len(tokens_list)) if lines[idx]!=tokens_list[idx]]
 				assert tokens_list == lines
@@ -84,7 +84,7 @@ if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--mode", choices=["raw_text", "gold_token"], default="gold_token")
 	parser.add_argument("--parsed_dir", default="../data/parsed/stanza/")
-	parser.add_argument("--replace_existing", choices=[True, False], default=False)
+	parser.add_argument("--replace_existing", choices=[True, False], default=True)
 	parser.add_argument("--use_onto_trained", choices=[True, False], default=True)
 	args = parser.parse_args()
 	

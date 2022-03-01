@@ -31,11 +31,17 @@ def align_edus_to_gold_tokens(edu_file, gold_token_file):
 			gold_charid = 0
 	
 	if edus == aligned_edus:
-		print("o Edu file is already gold tokenized, no need to align: ", edu_file)
+		# print("o Edu file is already gold tokenized, no need to align: ", edu_file)
+		print(end="")
 	else:
-		aligned_edu_file = edu_file + ".aligned"
-		write_text_file(aligned_edus, aligned_edu_file)
-		print('o Done with aligning: ', aligned_edu_file)
+		assert len(edus) == len(aligned_edus)
+		for edu_id in range(len(edus)):
+			if edus[edu_id] != aligned_edus[edu_id]:
+				print(gold_token_file, edus[edu_id], aligned_edus[edu_id], sep="\n")
+				# assert False
+		# aligned_edu_file = edu_file + ".aligned"
+		# write_text_file(aligned_edus, aligned_edu_file)
+		# print('o Done with aligning: ', aligned_edu_file)
 		
 	
 
@@ -43,8 +49,8 @@ def align_edus_to_gold_tokens(edu_file, gold_token_file):
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--gold_token_dir", default="../data/tokenized/gold/")
-	parser.add_argument("--edu_dir", default="../data/edu/")
-	parser.add_argument("--annotator", choices=["logan", "janet"], default="janet")
+	parser.add_argument("--edu_dir", default="../data/rs3/")
+	parser.add_argument("--annotator", choices=["logan", "janet"], default="logan")
 	args = parser.parse_args()
 	
 	edu_files = sorted(glob(args.edu_dir + args.annotator + os.sep + "*.edu"))

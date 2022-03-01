@@ -793,17 +793,19 @@
 6	回来	回来	VV	VV	_	0	root	_	start_char=12|end_char=14
 7	了	了	AS	AS	_	6	aux:asp	_	start_char=15|end_char=16
 8	，	，	PU	PU	_	6	punct	_	start_char=17|end_char=18
-9	神速	神速	NN	NN	_	6	dobj	_	start_char=19|end_char=21
-10	！	！	PU	PU	_	6	punct	_	start_char=22|end_char=23
+9	神	神	NN	NN	_	10	nsubj	_	start_char=19|end_char=20
+10	速	速	VV	VV	_	6	conj	_	start_char=21|end_char=22
+11	！	！	PU	PU	_	6	punct	_	start_char=23|end_char=24
 
 1	d)	d)	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	又要	又要	AD	AD	_	3	advmod	_	start_char=3|end_char=5
-3	交	交	VV	VV	_	0	root	_	start_char=6|end_char=7
+3	交	交	VV	VV	_	8	dep	_	start_char=6|end_char=7
 4	作业	作业	NN	NN	_	3	dobj	_	start_char=8|end_char=10
 5	了	了	SP	SP	_	3	discourse	_	start_char=11|end_char=12
-6	，	，	PU	PU	_	3	punct	_	start_char=13|end_char=14
-7	神烦	神烦	VV	VV	_	3	conj	_	start_char=15|end_char=17
-8	。	。	PU	PU	_	3	punct	_	start_char=18|end_char=19
+6	，	，	PU	PU	_	8	punct	_	start_char=13|end_char=14
+7	神	神	NN	NN	_	8	nsubj	_	start_char=15|end_char=16
+8	烦	烦	VA	VA	_	0	root	_	start_char=17|end_char=18
+9	。	。	PU	PU	_	3	punct	_	start_char=19|end_char=20
 
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	神	神	NN	NN	_	5	nmod:assmod	_	start_char=2|end_char=3

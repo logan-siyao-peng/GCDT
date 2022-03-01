@@ -534,29 +534,28 @@
 
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	植物	植物	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
-3	长到	长到	VV	VV	_	19	nmod:prep	_	start_char=5|end_char=7
+3	长到	长到	VV	VV	_	18	nmod:prep	_	start_char=5|end_char=7
 4	几	几	CD	CD	_	6	nummod	_	start_char=8|end_char=9
-5	厘	厘	M	M	_	4	mark:clf	_	start_char=10|end_char=11
-6	米	米	NN	NN	_	7	nsubj	_	start_char=12|end_char=13
-7	高	高	VA	VA	_	3	conj	_	start_char=14|end_char=15
-8	，	，	PU	PU	_	19	punct	_	start_char=16|end_char=17
-9	叶子	叶子	NN	NN	_	12	nsubj	_	start_char=18|end_char=20
-10	也	也	AD	AD	_	12	advmod	_	start_char=21|end_char=22
-11	逐渐	逐渐	AD	AD	_	12	advmod	_	start_char=23|end_char=25
-12	成熟	成熟	VA	VA	_	19	advcl:loc	_	start_char=26|end_char=28
-13	时	时	LC	LC	_	3	case	_	start_char=29|end_char=30
-14	，	，	PU	PU	_	19	punct	_	start_char=31|end_char=32
-15	就	就	AD	AD	_	19	advmod	_	start_char=33|end_char=34
-16	可以	可以	VV	VV	_	19	aux:modal	_	start_char=35|end_char=37
-17	把	把	BA	BA	_	19	aux:ba	_	start_char=38|end_char=39
-18	罗勒	罗勒	NR	NR	_	19	dep	_	start_char=40|end_char=42
-19	移到	移到	VV	VV	_	25	dep	_	start_char=43|end_char=45
-20	大	大	VA	VA	_	22	amod	_	start_char=46|end_char=47
-21	的	的	DEG	DEG	_	20	case	_	start_char=48|end_char=49
-22	容器	容器	NN	NN	_	19	advmod:loc	_	start_char=50|end_char=52
-23	里	里	LC	LC	_	22	case	_	start_char=53|end_char=54
-24	了	了	SP	SP	_	25	discourse	_	start_char=55|end_char=56
-25	。	。	PU	PU	_	0	root	_	start_char=57|end_char=58
+5	厘米	厘米	M	M	_	4	mark:clf	_	start_char=10|end_char=12
+6	高	高	VA	VA	_	3	conj	_	start_char=13|end_char=14
+7	，	，	PU	PU	_	18	punct	_	start_char=15|end_char=16
+8	叶子	叶子	NN	NN	_	11	nsubj	_	start_char=17|end_char=19
+9	也	也	AD	AD	_	11	advmod	_	start_char=20|end_char=21
+10	逐渐	逐渐	AD	AD	_	11	advmod	_	start_char=22|end_char=24
+11	成熟	成熟	VA	VA	_	18	advcl:loc	_	start_char=25|end_char=27
+12	时	时	LC	LC	_	11	case	_	start_char=28|end_char=29
+13	，	，	PU	PU	_	18	punct	_	start_char=30|end_char=31
+14	就	就	AD	AD	_	18	advmod	_	start_char=32|end_char=33
+15	可以	可以	VV	VV	_	18	aux:modal	_	start_char=34|end_char=36
+16	把	把	BA	BA	_	18	aux:ba	_	start_char=37|end_char=38
+17	罗勒	罗勒	NR	NR	_	18	dep	_	start_char=39|end_char=41
+18	移到	移到	VV	VV	_	24	dep	_	start_char=42|end_char=44
+19	大	大	VA	VA	_	21	amod	_	start_char=45|end_char=46
+20	的	的	DEG	DEG	_	19	case	_	start_char=47|end_char=48
+21	容器	容器	NN	NN	_	18	advmod:loc	_	start_char=49|end_char=51
+22	里	里	LC	LC	_	21	case	_	start_char=52|end_char=53
+23	了	了	SP	SP	_	24	discourse	_	start_char=54|end_char=55
+24	。	。	PU	PU	_	0	root	_	start_char=56|end_char=57
 
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
@@ -1221,8 +1220,9 @@
 
 1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
 
-1	冰冻罗勒	冰冻罗勒	VV	VV	_	0	root	_	start_char=0|end_char=4
-2	。	。	PU	PU	_	1	punct	_	start_char=5|end_char=6
+1	冰冻	冰冻	VV	VV	_	0	root	_	start_char=0|end_char=2
+2	罗勒	罗勒	NR	NR	_	1	dobj	_	start_char=3|end_char=5
+3	。	。	PU	PU	_	1	punct	_	start_char=6|end_char=7
 
 1	直接	直接	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	把	把	BA	BA	_	5	aux:ba	_	start_char=3|end_char=4

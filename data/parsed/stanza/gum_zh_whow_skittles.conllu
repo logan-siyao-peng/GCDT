@@ -227,13 +227,14 @@
 1	不停	不停	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	摇晃	摇晃	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	酒杯	酒杯	NN	NN	_	2	dobj	_	start_char=6|end_char=8
-4	直至	直至	VV	VV	_	2	conj	_	start_char=9|end_char=11
-5	彩虹糖	彩虹糖	NN	NN	_	7	conj	_	start_char=12|end_char=15
-6	和	和	CC	CC	_	7	cc	_	start_char=16|end_char=17
-7	伏特加	伏特加	NN	NN	_	4	dobj	_	start_char=18|end_char=21
-8	几近	几近	AD	AD	_	9	advmod	_	start_char=22|end_char=24
-9	溶合	溶合	VV	VV	_	4	ccomp	_	start_char=25|end_char=27
-10	。	。	PU	PU	_	2	punct	_	start_char=28|end_char=29
+4	直	直	AD	AD	_	2	nmod:prep	_	start_char=9|end_char=10
+5	至	至	VV	VV	_	2	conj	_	start_char=11|end_char=12
+6	彩虹糖	彩虹糖	NN	NN	_	8	conj	_	start_char=13|end_char=16
+7	和	和	CC	CC	_	8	cc	_	start_char=17|end_char=18
+8	伏特加	伏特加	NR	NR	_	10	nmod:prep	_	start_char=19|end_char=22
+9	几近	几近	AD	AD	_	10	advmod	_	start_char=23|end_char=25
+10	溶合	溶合	VV	VV	_	2	conj	_	start_char=26|end_char=28
+11	。	。	PU	PU	_	2	punct	_	start_char=29|end_char=30
 
 1	糖果	糖果	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4

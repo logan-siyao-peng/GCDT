@@ -1270,13 +1270,11 @@
 15	是	是	VC	VC	_	16	cop	_	start_char=34|end_char=35
 16	让	让	VV	VV	_	10	ccomp	_	start_char=36|end_char=37
 17	事实	事实	NN	NN	_	16	dobj	_	start_char=38|end_char=40
-18	看	看	VV	VV	_	16	ccomp	_	start_char=41|end_char=42
-19	起来	起来	VV	VV	_	18	advmod:rcomp	_	start_char=43|end_char=45
-20	尽	尽	VV	VV	_	23	xcomp	_	start_char=46|end_char=47
-21	可能	可能	VV	VV	_	23	advmod:dvp	_	start_char=48|end_char=50
-22	的	的	DEV	DEV	_	21	mark	_	start_char=51|end_char=52
-23	好	好	VA	VA	_	10	ccomp	_	start_char=53|end_char=54
-24	。	。	PU	PU	_	10	punct	_	start_char=55|end_char=56
+18	看起来	看起来	AD	AD	_	21	advmod	_	start_char=41|end_char=44
+19	尽可能	尽可能	AD	AD	_	21	advmod:dvp	_	start_char=45|end_char=48
+20	的	的	DEV	DEV	_	19	mark	_	start_char=49|end_char=50
+21	好	好	VA	VA	_	16	ccomp	_	start_char=51|end_char=52
+22	。	。	PU	PU	_	10	punct	_	start_char=53|end_char=54
 
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	6	advmod	_	start_char=2|end_char=3

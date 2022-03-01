@@ -79,17 +79,16 @@
 13	的	的	DEG	DEG	_	12	case	_	start_char=31|end_char=32
 14	青睐	青睐	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 15	，	，	PU	PU	_	6	punct	_	start_char=36|end_char=37
-16	尤其	尤其	AD	AD	_	25	advmod	_	start_char=38|end_char=40
-17	是	是	VC	VC	_	25	cop	_	start_char=41|end_char=42
-18	看重	看重	VV	VV	_	25	acl	_	start_char=43|end_char=45
-19	其	其	PN	PN	_	22	compound:nn	_	start_char=46|end_char=47
-20	高	高	JJ	JJ	_	22	amod	_	start_char=48|end_char=49
-21	蛋白	蛋白	NN	NN	_	22	compound:nn	_	start_char=50|end_char=52
-22	含量	含量	NN	NN	_	18	dobj	_	start_char=53|end_char=55
-23	的	的	DEC	DEC	_	18	mark	_	start_char=56|end_char=57
-24	素食	素食	NN	NN	_	25	compound:nn	_	start_char=58|end_char=60
-25	主义者	主义者	NN	NN	_	6	conj	_	start_char=61|end_char=64
-26	。	。	PU	PU	_	6	punct	_	start_char=65|end_char=66
+16	尤其是	尤其是	AD	AD	_	17	advmod	_	start_char=38|end_char=41
+17	看重	看重	VV	VV	_	11	conj	_	start_char=42|end_char=44
+18	其	其	PN	PN	_	21	compound:nn	_	start_char=45|end_char=46
+19	高	高	JJ	JJ	_	21	amod	_	start_char=47|end_char=48
+20	蛋白	蛋白	NN	NN	_	21	compound:nn	_	start_char=49|end_char=51
+21	含量	含量	NN	NN	_	24	nmod:assmod	_	start_char=52|end_char=54
+22	的	的	DEG	DEG	_	21	case	_	start_char=55|end_char=56
+23	素食	素食	NN	NN	_	24	compound:nn	_	start_char=57|end_char=59
+24	主义者	主义者	NN	NN	_	17	dobj	_	start_char=60|end_char=63
+25	。	。	PU	PU	_	6	punct	_	start_char=64|end_char=65
 
 1	素材	素材	NN	NN	_	0	root	_	start_char=0|end_char=2
 
@@ -320,9 +319,8 @@
 10	会	会	VV	VV	_	12	aux:modal	_	start_char=22|end_char=23
 11	继续	继续	VV	VV	_	12	xcomp	_	start_char=24|end_char=26
 12	煮	煮	VV	VV	_	0	root	_	start_char=27|end_char=28
-13	一	一	CD	CD	_	14	dep	_	start_char=29|end_char=30
-14	会	会	NN	NN	_	12	dobj	_	start_char=31|end_char=32
-15	。	。	PU	PU	_	12	punct	_	start_char=33|end_char=34
+13	一会	一会	NN	NN	_	12	dobj	_	start_char=29|end_char=31
+14	。	。	PU	PU	_	12	punct	_	start_char=32|end_char=33
 
 1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
 
@@ -360,23 +358,22 @@
 7	藜麦	藜麦	NR	NR	_	6	dobj	_	start_char=16|end_char=18
 8	。	。	PU	PU	_	1	punct	_	start_char=19|end_char=20
 
-1	藜麦	藜麦	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
-2	应该	应该	VV	VV	_	3	aux:modal	_	start_char=3|end_char=5
-3	看	看	VV	VV	_	0	root	_	start_char=6|end_char=7
-4	起来	起来	VV	VV	_	3	advmod:rcomp	_	start_char=8|end_char=10
-5	蓬松	蓬松	VA	VA	_	3	ccomp	_	start_char=11|end_char=13
-6	轻盈	轻盈	VA	VA	_	5	compound:vc	_	start_char=14|end_char=16
-7	，	，	PU	PU	_	3	punct	_	start_char=17|end_char=18
-8	你	你	PN	PN	_	11	nsubj	_	start_char=19|end_char=20
-9	应该	应该	VV	VV	_	11	aux:modal	_	start_char=21|end_char=23
-10	可以	可以	VV	VV	_	11	aux:modal	_	start_char=24|end_char=26
-11	看到	看到	VV	VV	_	3	conj	_	start_char=27|end_char=29
-12	胚芽	胚芽	NN	NN	_	14	conj	_	start_char=30|end_char=32
-13	与	与	CC	CC	_	14	cc	_	start_char=33|end_char=34
-14	籽粒	籽粒	NN	NN	_	15	nsubj	_	start_char=35|end_char=37
-15	剥离	剥离	VV	VV	_	11	ccomp	_	start_char=38|end_char=40
-16	了	了	SP	SP	_	15	discourse	_	start_char=41|end_char=42
-17	。	。	PU	PU	_	3	punct	_	start_char=43|end_char=44
+1	藜麦	藜麦	NR	NR	_	4	nsubj	_	start_char=0|end_char=2
+2	应该	应该	VV	VV	_	4	aux:modal	_	start_char=3|end_char=5
+3	看起来	看起来	AD	AD	_	4	advmod	_	start_char=6|end_char=9
+4	蓬松	蓬松	VA	VA	_	0	root	_	start_char=10|end_char=12
+5	轻盈	轻盈	VA	VA	_	4	compound:vc	_	start_char=13|end_char=15
+6	，	，	PU	PU	_	4	punct	_	start_char=16|end_char=17
+7	你	你	PN	PN	_	10	nsubj	_	start_char=18|end_char=19
+8	应该	应该	VV	VV	_	10	aux:modal	_	start_char=20|end_char=22
+9	可以	可以	VV	VV	_	10	aux:modal	_	start_char=23|end_char=25
+10	看到	看到	VV	VV	_	4	conj	_	start_char=26|end_char=28
+11	胚芽	胚芽	NN	NN	_	13	conj	_	start_char=29|end_char=31
+12	与	与	CC	CC	_	13	cc	_	start_char=32|end_char=33
+13	籽粒	籽粒	NN	NN	_	14	nsubj	_	start_char=34|end_char=36
+14	剥离	剥离	VV	VV	_	10	ccomp	_	start_char=37|end_char=39
+15	了	了	SP	SP	_	14	discourse	_	start_char=40|end_char=41
+16	。	。	PU	PU	_	4	punct	_	start_char=42|end_char=43
 
 1	6	6	CD	CD	_	0	root	_	start_char=0|end_char=1
 
