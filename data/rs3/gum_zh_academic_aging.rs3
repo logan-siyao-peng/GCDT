@@ -1,0 +1,467 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="436" relname="organization-heading">老龄化 对 言语 感知 的 影响</segment>
+		<segment id="2" parent="251" relname="organization-heading">1. 引言</segment>
+		<segment id="3" parent="4" relname="context-background">随着 科技 和 医疗 卫生 事业 的 发展 进步 ，</segment>
+		<segment id="4" parent="223" relname="span">人口 老龄化 进程 在 世界 范围 内 急剧 发展 ，</segment>
+		<segment id="5" parent="224" relname="span">老龄化 问题 日益 成为 社会 热点 。</segment>
+		<segment id="6" parent="225" relname="joint-list">中国 人口 老龄化 增速 快于 世界 ，</segment>
+		<segment id="7" parent="225" relname="joint-list">老龄化 进程 正在 加速 发展 。</segment>
+		<segment id="8" parent="9" relname="context-background">随着 年龄 增长 ，</segment>
+		<segment id="9" parent="228" relname="span">老年人 在 身体 机能 、 神经 系统 各 方面 出现 一定 的 退化 和 功能性 障碍 ，</segment>
+		<segment id="10" parent="229" relname="span">对 老年人 的 生活 带来 很 大 影响 ，</segment>
+		<segment id="11" parent="231" relname="same-unit">其中 老年人</segment>
+		<segment id="12" parent="13" relname="elaboration-attribute">在 言语 交际 能力 方面 存在 的</segment>
+		<segment id="13" parent="230" relname="span">问题 尤为 显著 。</segment>
+		<segment id="14" parent="235" relname="same-unit">语言 是 人类 最 重要 的 交际 工具 ，</segment>
+		<segment id="15" parent="234" relname="same-unit">是</segment>
+		<segment id="16" parent="17" relname="purpose-attribute">人们 进行 沟通 的</segment>
+		<segment id="17" parent="233" relname="span">主要 表达 方式 。</segment>
+		<segment id="18" parent="236" relname="span">老年人 在 言语 交流 上 存在 困难 ，</segment>
+		<segment id="19" parent="18" relname="elaboration-additional">尤其是 言语 感知 上 存在 困难 ，</segment>
+		<segment id="20" parent="240" relname="same-unit">导致</segment>
+		<segment id="21" parent="22" relname="context-circumstance">与 他人 交流 时</segment>
+		<segment id="22" parent="239" relname="span">有 障碍 ，</segment>
+		<segment id="23" parent="241" relname="joint-list">影响 老年人 的 身心 健康 。</segment>
+		<segment id="24" parent="245" relname="same-unit">因此 ， 研究 老年人 言语 感知 特点 和 探索 老年人 言语 感知 策略 ， 能</segment>
+		<segment id="25" parent="26" relname="purpose-goal">为 提高 老年人 言语 感知 能力</segment>
+		<segment id="26" parent="244" relname="span">提供 参考 ，</segment>
+		<segment id="27" parent="246" relname="joint-list">也 能 对 老年人 言语 感知 障碍 的 临床 诊断 治疗 、 老年人 助听器 的 研发 提供 新 思路 ，</segment>
+		<segment id="28" parent="29" relname="purpose-goal">对于 促进 老年人 与 他人 之间 的 交流 沟通</segment>
+		<segment id="29" parent="247" relname="span">有 着 重要 作用 。</segment>
+		<segment id="30" parent="248" relname="span">本 文 将 综述 老年人 在 不同 层面 的 言语 感知 和 理解 中 的 困难 以及 相关 影响 因素 ，</segment>
+		<segment id="31" parent="30" relname="purpose-goal">以期 引起 学界 重视 。</segment>
+		<segment id="32" parent="438" relname="organization-heading">2. 老年人 言语 感知 障碍 的 特征</segment>
+		<segment id="33" parent="252" relname="span">语音 结构 包括 音段 结构</segment>
+		<segment id="34" parent="33" relname="restatement-partial">( segmental structure )</segment>
+		<segment id="35" parent="253" relname="span">和 超音段 结构</segment>
+		<segment id="36" parent="35" relname="restatement-partial">( suprasegmental structure ) 。</segment>
+		<segment id="37" parent="257" relname="same-unit">音段 指</segment>
+		<segment id="38" parent="39" relname="mode-manner">根据 线性 组合 的 先后 顺序</segment>
+		<segment id="39" parent="255" relname="span">切分 出来 的</segment>
+		<segment id="40" parent="256" relname="span">语音 单位 ，</segment>
+		<segment id="41" parent="257" relname="elaboration-additional">各 占 一定 的 时间 段落 。</segment>
+		<segment id="42" parent="260" relname="causal-cause">语流 中 最 小 的 音段 是 音位 ，</segment>
+		<segment id="43" parent="260" relname="span">因此 音位 也 称 音段 音位</segment>
+		<segment id="44" parent="261" relname="restatement-repetition">( segmental phonemes ) ，</segment>
+		<segment id="45" parent="261" relname="restatement-repetition">即 元音 和 辅音 。</segment>
+		<segment id="46" parent="264" relname="same-unit">超音段 特征 指</segment>
+		<segment id="47" parent="48" relname="elaboration-attribute">语音 问题 中 涉及 超出 单音 音段 以上 的</segment>
+		<segment id="48" parent="263" relname="span">方面 ，</segment>
+		<segment id="49" parent="265" relname="joint-list">超音段 特征 主要 有 音节 、 重音 、 声调 和 语调</segment>
+		<segment id="50" parent="265" relname="explanation-evidence">[ 1 ] 。</segment>
+		<segment id="51" parent="270" relname="span">下文 将 依次 介绍 老年人 在 音段 、 超音段 和 噪音 背景 下 三 个 方面 言语 感知 的 表现 和 特点 。</segment>
+		<segment id="52" parent="435" relname="organization-heading">2.1. 音段 感知</segment>
+		<segment id="53" parent="272" relname="same-unit">元音 方面 ， 衰老 影响 了</segment>
+		<segment id="54" parent="55" relname="elaboration-attribute">元音 边界 和 元音 中心 对于 识别 元音 的</segment>
+		<segment id="55" parent="271" relname="span">作用 。</segment>
+		<segment id="56" parent="274" relname="same-unit">衰老 降低 了</segment>
+		<segment id="57" parent="58" relname="context-circumstance">元音 识别 时</segment>
+		<segment id="58" parent="273" relname="span">对 快速 变化 线索 的 处理 能力 。</segment>
+		<segment id="59" parent="278" relname="same-unit">相比</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">位于 元音 边缘 的</segment>
+		<segment id="61" parent="277" relname="span">共振峰 转移 ，</segment>
+		<segment id="62" parent="275" relname="same-unit">老年人 可能 更 依赖</segment>
+		<segment id="63" parent="64" relname="elaboration-attribute">位于 元音 中心 的</segment>
+		<segment id="64" parent="276" relname="span">准稳态 线索 。</segment>
+		<segment id="65" parent="280" relname="span">Donaldson 等 人</segment>
+		<segment id="66" parent="65" relname="explanation-evidence">[ 2 ]</segment>
+		<segment id="67" parent="281" relname="same-unit">的 研究 对比 了 老年人</segment>
+		<segment id="68" parent="69" relname="context-circumstance">在 识别 元音 时</segment>
+		<segment id="69" parent="282" relname="span">分别 使用 元音 边界 和 元音 中心 的</segment>
+		<segment id="70" parent="283" relname="span">不同 。</segment>
+		<segment id="71" parent="292" relname="attribution-positive">结果 表明 ，</segment>
+		<segment id="72" parent="285" relname="same-unit">当 只 提供</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">来自 元音 中心 简短 的</segment>
+		<segment id="74" parent="284" relname="span">声学 信息 时 ，</segment>
+		<segment id="75" parent="286" relname="span">老年人 比 年轻人 在 声音 感知 上 有 更 多 的 困难 。</segment>
+		<segment id="76" parent="77" relname="context-circumstance">然而 ， 当 为 老年人 提供 元音 中心 的 较长 时长 或 元音 边界 的 不同 时长 时 ，</segment>
+		<segment id="77" parent="287" relname="span">老年人 的 表现 和 年轻人 相似 。</segment>
+		<segment id="78" parent="290" relname="same-unit">此外 ， 衰老 还 影响 老年人</segment>
+		<segment id="79" parent="80" relname="context-circumstance">感知 元音 音质 时</segment>
+		<segment id="80" parent="289" relname="span">处理 动态 感知 线索 的</segment>
+		<segment id="81" parent="291" relname="span">能力 。</segment>
+		<segment id="82" parent="294" relname="span">Fox 等 人</segment>
+		<segment id="83" parent="82" relname="explanation-evidence">[ 3 ]</segment>
+		<segment id="84" parent="295" relname="same-unit">研究 了</segment>
+		<segment id="85" parent="296" relname="span">处理 动态 信息</segment>
+		<segment id="86" parent="85" relname="purpose-goal">以 识别 元音 音质 的 年龄 相关 差异 。</segment>
+		<segment id="87" parent="298" relname="same-unit">该 研究 检查 了</segment>
+		<segment id="88" parent="89" relname="elaboration-attribute">使用 动态 声学 信息 的</segment>
+		<segment id="89" parent="297" relname="span">年龄 相关 差异 ，</segment>
+		<segment id="90" parent="299" relname="span">以 识别 CVC</segment>
+		<segment id="91" parent="90" relname="restatement-partial">( 辅音 + 元音 + 辅音 )</segment>
+		<segment id="92" parent="300" relname="same-unit">中 的 元音 音质 。</segment>
+		<segment id="93" parent="304" relname="same-unit">实验 刺激 是 61 个</segment>
+		<segment id="94" parent="302" relname="joint-list">自然 产生 的 、</segment>
+		<segment id="95" parent="302" relname="joint-list">经常 使用 的</segment>
+		<segment id="96" parent="303" relname="span">单音节 英语 单词 的 两 个 版本 ：</segment>
+		<segment id="97" parent="308" relname="span">对照 版本</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">( 未 修改 的</segment>
+		<segment id="99" parent="305" relname="span">整个 单词 )</segment>
+		<segment id="100" parent="307" relname="span">和 中间 无声段 的 版本</segment>
+		<segment id="101" parent="100" relname="restatement-partial">( 其中 大约 62% 的 中间 元音 被 静音 取代 ) 。</segment>
+		<segment id="102" parent="312" relname="span">正常 听力 的 年轻人</segment>
+		<segment id="103" parent="102" relname="restatement-partial">( 19 ~ 25 岁 )</segment>
+		<segment id="104" parent="311" relname="span">和 老年人</segment>
+		<segment id="105" parent="104" relname="restatement-partial">( 61 ~ 75 岁 )</segment>
+		<segment id="106" parent="313" relname="same-unit">识别 这些 语音 。</segment>
+		<segment id="107" parent="317" relname="attribution-positive">发现</segment>
+		<segment id="108" parent="317" relname="same-unit">老年人</segment>
+		<segment id="109" parent="314" relname="joint-list">在 识别 中间 元音</segment>
+		<segment id="110" parent="314" relname="joint-list">以及 在 听 中间 无声段 的 声音 时</segment>
+		<segment id="111" parent="112" relname="elaboration-attribute">识别 初始 辅音 和 结尾 辅音 的</segment>
+		<segment id="112" parent="315" relname="span">表现 都 明显 比 年轻人 差 。</segment>
+		<segment id="113" parent="321" relname="same-unit">这些 结果 支持 了</segment>
+		<segment id="114" parent="115" relname="context-circumstance">在 感知 元音 音质 时</segment>
+		<segment id="115" parent="319" relname="span">处理 动态 感知 线索 的</segment>
+		<segment id="116" parent="320" relname="span">能力</segment>
+		<segment id="117" parent="118" relname="contingency-condition">随着 年龄 增长</segment>
+		<segment id="118" parent="322" relname="span">而 降低 的</segment>
+		<segment id="119" parent="323" relname="span">假设 。</segment>
+		<segment id="120" parent="325" relname="span">辅音 方面 ， Slawinski 等 人</segment>
+		<segment id="121" parent="120" relname="explanation-evidence">[ 4 ]</segment>
+		<segment id="122" parent="326" relname="same-unit">研究 了</segment>
+		<segment id="123" parent="124" relname="elaboration-attribute">与 年龄 相关 的</segment>
+		<segment id="124" parent="327" relname="span">闭塞音 范畴性 感知 变化 。</segment>
+		<segment id="125" parent="331" relname="same-unit">该 研究 的 重点 是</segment>
+		<segment id="126" parent="127" relname="contingency-condition">伴随 年龄 增长 和 听力 状态 变化</segment>
+		<segment id="127" parent="328" relname="span">而 带来 的</segment>
+		<segment id="128" parent="329" relname="joint-list">位于 单词 词首 闭塞音 的</segment>
+		<segment id="129" parent="330" relname="span">范畴性 感知 变化 。</segment>
+		<segment id="130" parent="131" relname="elaboration-attribute">发声 和 发音 位置 不同 的</segment>
+		<segment id="131" parent="335" relname="span">单词 词首 闭塞音 的 识别 依赖 于 多 个 声学 线索 ， 如 嗓音 起始 时间</segment>
+		<segment id="132" parent="335" relname="restatement-partial">( voice onset time , VOT ) 、</segment>
+		<segment id="133" parent="333" relname="same-unit">第二 和 第三 共振峰 转折 的 起始 频率 和 方向 ，</segment>
+		<segment id="134" parent="338" relname="span">其中 嗓音 起始 时间 是 一 种 时长 线索 ，</segment>
+		<segment id="135" parent="337" relname="same-unit">指 的 是</segment>
+		<segment id="136" parent="137" relname="elaboration-attribute">破裂音 除阻 到 声带 振动 起始点 之间 经历 的</segment>
+		<segment id="137" parent="336" relname="span">时间 。</segment>
+		<segment id="138" parent="340" relname="span">四百 名 受 试者 ， 分为 四 个 年龄组</segment>
+		<segment id="139" parent="138" relname="restatement-partial">( 20 ~ 85 岁 )</segment>
+		<segment id="140" parent="341" relname="same-unit">和 三 个 听力组 ，</segment>
+		<segment id="141" parent="345" relname="same-unit">参加 了</segment>
+		<segment id="142" parent="343" relname="same-unit">需要 识别</segment>
+		<segment id="143" parent="144" relname="elaboration-attribute">音节 [ ba ] 或 [ pa ] 和 [ ba ] 、 [ da ] 或 [ ga ] 合成 的</segment>
+		<segment id="144" parent="342" relname="span">连续统 的</segment>
+		<segment id="145" parent="344" relname="span">实验 。</segment>
+		<segment id="146" parent="348" relname="attribution-positive">结果 表明 ，</segment>
+		<segment id="147" parent="348" relname="same-unit">[ ba - pa ] 连续统 的 音素 边界</segment>
+		<segment id="148" parent="149" relname="contingency-condition">随着 年龄 增长 和 听力 水平 的 退化</segment>
+		<segment id="149" parent="347" relname="span">而 向 更 长 的 VOT 移动 。</segment>
+		<segment id="150" parent="353" relname="same-unit">这 种 变化 可能 是 由于</segment>
+		<segment id="151" parent="152" relname="purpose-attribute">老年人 分析 简短 的 声音 信号 的</segment>
+		<segment id="152" parent="350" relname="span">能力 以及</segment>
+		<segment id="153" parent="154" relname="purpose-attribute">整合 多 个 声学 线索 的</segment>
+		<segment id="154" parent="351" relname="span">能力 都</segment>
+		<segment id="155" parent="156" relname="contingency-condition">随着 年龄 增长</segment>
+		<segment id="156" parent="352" relname="span">而 降低 。</segment>
+		<segment id="157" parent="354" relname="span">Gelfand 等 人</segment>
+		<segment id="158" parent="157" relname="explanation-evidence">[ 5 ]</segment>
+		<segment id="159" parent="356" relname="span">使用 无 意义 音节 测试</segment>
+		<segment id="160" parent="159" relname="restatement-partial">( nonsense syllable test , NST )</segment>
+		<segment id="161" parent="355" relname="joint-list">进行 安静 条件 下 的 辅音 识别 ，</segment>
+		<segment id="162" parent="355" relname="purpose-goal">来 探究 衰老 对 正常 听力者 识别 辅音 的 影响 。</segment>
+		<segment id="163" parent="361" relname="organization-preparation">有 三 个 听力 水平 ，</segment>
+		<segment id="164" parent="361" relname="joint-list">即 最 舒适 水平 、</segment>
+		<segment id="165" parent="361" relname="joint-list">高于 最 舒适 水平 8 dB 、</segment>
+		<segment id="166" parent="361" relname="joint-list">低于 最 舒适 水平 8 dB 。</segment>
+		<segment id="167" parent="363" relname="context-background">20 岁 到 65 岁 的 正常 听力者 参加 实验 。</segment>
+		<segment id="168" parent="169" relname="causal-cause">因为 被试 是 正常 听力者 ，</segment>
+		<segment id="169" parent="363" relname="span">所以 整体 的 辅音 识别 性能 很 高 ，</segment>
+		<segment id="170" parent="365" relname="adversative-contrast">但是 年龄 对 表现 水平 的 影响 是 显著 的 。</segment>
+		<segment id="171" parent="412" relname="attribution-positive">这些 研究 结果 表明 ，</segment>
+		<segment id="172" parent="367" relname="same-unit">辅音 识别 表现</segment>
+		<segment id="173" parent="174" relname="contingency-condition">随 年龄 的 增长</segment>
+		<segment id="174" parent="366" relname="span">而 降低 ，</segment>
+		<segment id="175" parent="367" relname="context-circumstance">特别是 声音 低于 最 舒适 听力 水平 时 。</segment>
+		<segment id="176" parent="411" relname="span">辨音 混淆 在 不同 级别 和 年龄组 中 是 相似 的 。</segment>
+		<segment id="177" parent="369" relname="adversative-contrast">正常 听力 的 老年人 在 安静 条件 下 的 辅音 识别 能力</segment>
+		<segment id="178" parent="179" relname="contingency-condition">随 年龄 增长</segment>
+		<segment id="179" parent="370" relname="span">而 降低 ，</segment>
+		<segment id="180" parent="371" relname="span">但 他们 识别 辅音 与 年轻人 有 相似 的 混淆 错误 。</segment>
+		<segment id="181" parent="372" relname="span">在 Gelfand 等 人</segment>
+		<segment id="182" parent="181" relname="explanation-evidence">[ 6 ]</segment>
+		<segment id="183" parent="373" relname="same-unit">后续 的 研究 中 ， 再 一 次 验证 了 这 一 结论 。</segment>
+		<segment id="184" parent="374" relname="span">21 ~ 68 岁 的 基本上 正常 听力者 参与 了 无意义 音节 测试 ，</segment>
+		<segment id="185" parent="184" relname="purpose-goal">用以 研究 安静 和 噪声 环境 下 的 辅音 识别 。</segment>
+		<segment id="186" parent="381" relname="attribution-positive">研究 结果 表明 ，</segment>
+		<segment id="187" parent="376" relname="same-unit">基本上 ， 正常 的 老年人</segment>
+		<segment id="188" parent="189" relname="context-circumstance">在 安静 和 嘈杂 的 环境 下</segment>
+		<segment id="189" parent="378" relname="span">辅音 识别 能力</segment>
+		<segment id="190" parent="191" relname="contingency-condition">随着 年龄 增长</segment>
+		<segment id="191" parent="375" relname="span">而 降低 ，</segment>
+		<segment id="192" parent="381" relname="adversative-contrast">但 他们 音素 混淆 的 情况 与 年轻人 相似 。</segment>
+		<segment id="193" parent="383" relname="span">Helfer 等 人</segment>
+		<segment id="194" parent="193" relname="explanation-evidence">[ 7 ]</segment>
+		<segment id="195" parent="384" relname="same-unit">测试 无意义 音节 测试 的 识别 准确度 和 错误 模式 。</segment>
+		<segment id="196" parent="389" relname="span">三 组 受试者</segment>
+		<segment id="197" parent="198" relname="elaboration-attribute">( 正常 听力 的</segment>
+		<segment id="198" parent="385" relname="span">年轻人 ，</segment>
+		<segment id="199" parent="200" relname="elaboration-attribute">听力 受损 的</segment>
+		<segment id="200" parent="387" relname="span">老年人 ，</segment>
+		<segment id="201" parent="202" relname="elaboration-attribute">听力 损失 较小 的</segment>
+		<segment id="202" parent="388" relname="span">老年人 )</segment>
+		<segment id="203" parent="390" relname="same-unit">参加 了 实验 ，</segment>
+		<segment id="204" parent="205" relname="context-circumstance">在 安静 、 噪音 、 混响 和 混响 加 噪音 四 种 情况 下</segment>
+		<segment id="205" parent="391" relname="span">双耳 识别 刺激音 。</segment>
+		<segment id="206" parent="406" relname="attribution-positive">结果 表明 ，</segment>
+		<segment id="207" parent="394" relname="same-unit">老年 受试者</segment>
+		<segment id="208" parent="209" relname="context-circumstance">在 识别 辅音</segment>
+		<segment id="209" parent="395" relname="span">遇到 的</segment>
+		<segment id="210" parent="396" relname="span">一些 困难 与 听力 损失 的 程度 有关 。</segment>
+		<segment id="211" parent="398" relname="same-unit">辅音 识别 困难</segment>
+		<segment id="212" parent="213" relname="context-circumstance">在 不同 听力 条件 下</segment>
+		<segment id="213" parent="397" relname="span">也 会 有所 不同 ， 特别是 对于 鼻音 和 半元音 的 识别 。</segment>
+		<segment id="214" parent="401" relname="same-unit">总体 来看 ， 在 音段 感知 方面 ，</segment>
+		<segment id="215" parent="216" relname="purpose-attribute">老年人 分析 简短 的 声音 信号 的</segment>
+		<segment id="216" parent="399" relname="span">能力</segment>
+		<segment id="217" parent="218" relname="contingency-condition">随着 年龄 增长</segment>
+		<segment id="218" parent="400" relname="span">而 降低 。</segment>
+		<segment id="219" parent="403" relname="same-unit">衰老 降低 了 老年人</segment>
+		<segment id="220" parent="221" relname="context-circumstance">元音 识别 时</segment>
+		<segment id="221" parent="402" relname="span">对 快速 变化 线索 的 处理 能力 ，</segment>
+		<segment id="222" parent="404" relname="joint-list">也 降低 了 其 辅音 识别 能力 。</segment>
+		<group id="223" type="span" parent="5" relname="causal-cause"/>
+		<group id="224" type="span" parent="226" relname="span"/>
+		<group id="225" type="multinuc" parent="224" relname="explanation-justify"/>
+		<group id="226" type="span" parent="250" relname="joint-other"/>
+		<group id="228" type="span" parent="10" relname="causal-cause"/>
+		<group id="229" type="span" parent="232" relname="span"/>
+		<group id="230" type="span" parent="231" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="229" relname="explanation-evidence"/>
+		<group id="232" type="span" parent="250" relname="joint-other"/>
+		<group id="233" type="span" parent="234" relname="same-unit"/>
+		<group id="234" type="multinuc" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="243" relname="joint-other"/>
+		<group id="236" type="span" parent="241" relname="causal-cause"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="241" relname="joint-list"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="242" type="span" parent="243" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="246" relname="explanation-justify"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="246" relname="joint-list"/>
+		<group id="246" type="multinuc" parent="249" relname="span"/>
+		<group id="247" type="span" parent="246" relname="joint-list"/>
+		<group id="248" type="span" parent="251" relname="span"/>
+		<group id="249" type="span" parent="250" relname="joint-other"/>
+		<group id="250" type="multinuc" parent="248" relname="context-background"/>
+		<group id="251" type="span" parent="422" relname="span"/>
+		<group id="252" type="span" parent="254" relname="same-unit"/>
+		<group id="253" type="span" parent="254" relname="same-unit"/>
+		<group id="254" type="multinuc" parent="268" relname="organization-preparation"/>
+		<group id="255" type="span" parent="40" relname="elaboration-attribute"/>
+		<group id="256" type="span" parent="257" relname="same-unit"/>
+		<group id="257" type="multinuc" parent="258" relname="span"/>
+		<group id="258" type="span" parent="267" relname="span"/>
+		<group id="260" type="span" parent="262" relname="span"/>
+		<group id="261" type="multinuc" parent="43" relname="restatement-partial"/>
+		<group id="262" type="span" parent="258" relname="elaboration-additional"/>
+		<group id="263" type="span" parent="264" relname="same-unit"/>
+		<group id="264" type="multinuc" parent="265" relname="joint-list"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="268" relname="joint-list"/>
+		<group id="267" type="span" parent="268" relname="joint-list"/>
+		<group id="268" type="multinuc" parent="269" relname="span"/>
+		<group id="269" type="span" parent="51" relname="context-background"/>
+		<group id="270" type="span" parent="438" relname="span"/>
+		<group id="271" type="span" parent="272" relname="same-unit"/>
+		<group id="272" type="multinuc" parent="423" relname="organization-preparation"/>
+		<group id="273" type="span" parent="274" relname="same-unit"/>
+		<group id="274" type="multinuc" parent="423" relname="span"/>
+		<group id="275" type="multinuc" parent="279" relname="span"/>
+		<group id="276" type="span" parent="275" relname="same-unit"/>
+		<group id="277" type="span" parent="278" relname="same-unit"/>
+		<group id="278" type="multinuc" parent="275" relname="adversative-antithesis"/>
+		<group id="279" type="span" parent="274" relname="elaboration-additional"/>
+		<group id="280" type="span" parent="281" relname="same-unit"/>
+		<group id="281" type="multinuc" parent="421" relname="span"/>
+		<group id="282" type="span" parent="70" relname="elaboration-attribute"/>
+		<group id="283" type="span" parent="281" relname="same-unit"/>
+		<group id="284" type="span" parent="285" relname="same-unit"/>
+		<group id="285" type="multinuc" parent="75" relname="context-circumstance"/>
+		<group id="286" type="span" parent="288" relname="adversative-contrast"/>
+		<group id="287" type="span" parent="288" relname="adversative-contrast"/>
+		<group id="288" type="multinuc" parent="292" relname="joint-list"/>
+		<group id="289" type="span" parent="81" relname="elaboration-attribute"/>
+		<group id="290" type="multinuc" parent="292" relname="joint-list"/>
+		<group id="291" type="span" parent="290" relname="same-unit"/>
+		<group id="292" type="multinuc" parent="293" relname="span"/>
+		<group id="293" type="span" parent="281" relname="elaboration-additional"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="295" type="multinuc" parent="419" relname="span"/>
+		<group id="296" type="span" parent="295" relname="same-unit"/>
+		<group id="297" type="span" parent="298" relname="same-unit"/>
+		<group id="298" type="multinuc" parent="301" relname="span"/>
+		<group id="299" type="span" parent="300" relname="same-unit"/>
+		<group id="300" type="multinuc" parent="298" relname="purpose-goal"/>
+		<group id="301" type="span" parent="295" relname="elaboration-additional"/>
+		<group id="302" type="multinuc" parent="96" relname="elaboration-attribute"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="310" relname="span"/>
+		<group id="305" type="span" parent="97" relname="restatement-partial"/>
+		<group id="307" type="span" parent="309" relname="joint-list"/>
+		<group id="308" type="span" parent="309" relname="joint-list"/>
+		<group id="309" type="multinuc" parent="304" relname="elaboration-additional"/>
+		<group id="310" type="span" parent="418" relname="joint-other"/>
+		<group id="311" type="span" parent="313" relname="same-unit"/>
+		<group id="312" type="span" parent="313" relname="same-unit"/>
+		<group id="313" type="multinuc" parent="418" relname="joint-other"/>
+		<group id="314" type="multinuc" parent="315" relname="context-circumstance"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="same-unit"/>
+		<group id="317" type="multinuc" parent="318" relname="span"/>
+		<group id="318" type="span" parent="418" relname="joint-other"/>
+		<group id="319" type="span" parent="116" relname="elaboration-attribute"/>
+		<group id="320" type="span" parent="324" relname="same-unit"/>
+		<group id="321" type="multinuc" parent="432" relname="span"/>
+		<group id="322" type="span" parent="324" relname="same-unit"/>
+		<group id="323" type="span" parent="321" relname="same-unit"/>
+		<group id="324" type="multinuc" parent="119" relname="elaboration-attribute"/>
+		<group id="325" type="span" parent="326" relname="same-unit"/>
+		<group id="326" type="multinuc" parent="417" relname="span"/>
+		<group id="327" type="span" parent="326" relname="same-unit"/>
+		<group id="328" type="span" parent="329" relname="joint-list"/>
+		<group id="329" type="multinuc" parent="129" relname="elaboration-attribute"/>
+		<group id="330" type="span" parent="331" relname="same-unit"/>
+		<group id="331" type="multinuc" parent="326" relname="elaboration-additional"/>
+		<group id="333" type="multinuc" parent="339" relname="span"/>
+		<group id="334" type="span" parent="333" relname="same-unit"/>
+		<group id="335" type="span" parent="334" relname="span"/>
+		<group id="336" type="span" parent="337" relname="same-unit"/>
+		<group id="337" type="multinuc" parent="134" relname="restatement-partial"/>
+		<group id="338" type="span" parent="333" relname="elaboration-additional"/>
+		<group id="339" type="span" parent="416" relname="joint-other"/>
+		<group id="340" type="span" parent="341" relname="same-unit"/>
+		<group id="341" type="multinuc" parent="346" relname="joint-list"/>
+		<group id="342" type="span" parent="343" relname="same-unit"/>
+		<group id="343" type="multinuc" parent="145" relname="elaboration-attribute"/>
+		<group id="344" type="span" parent="345" relname="same-unit"/>
+		<group id="345" type="multinuc" parent="346" relname="joint-list"/>
+		<group id="346" type="multinuc" parent="416" relname="joint-other"/>
+		<group id="347" type="span" parent="348" relname="same-unit"/>
+		<group id="348" type="multinuc" parent="349" relname="span"/>
+		<group id="349" type="span" parent="415" relname="span"/>
+		<group id="350" type="span" parent="353" relname="same-unit"/>
+		<group id="351" type="span" parent="353" relname="same-unit"/>
+		<group id="352" type="span" parent="353" relname="same-unit"/>
+		<group id="353" type="multinuc" parent="349" relname="explanation-justify"/>
+		<group id="354" type="span" parent="360" relname="same-unit"/>
+		<group id="355" type="multinuc" parent="359" relname="span"/>
+		<group id="356" type="span" parent="360" relname="same-unit"/>
+		<group id="359" type="span" parent="414" relname="joint-other"/>
+		<group id="360" type="multinuc" parent="355" relname="joint-list"/>
+		<group id="361" type="multinuc" parent="362" relname="span"/>
+		<group id="362" type="span" parent="414" relname="joint-other"/>
+		<group id="363" type="span" parent="364" relname="span"/>
+		<group id="364" type="span" parent="365" relname="adversative-contrast"/>
+		<group id="365" type="multinuc" parent="414" relname="joint-other"/>
+		<group id="366" type="span" parent="367" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="368" relname="span"/>
+		<group id="368" type="span" parent="412" relname="joint-list"/>
+		<group id="369" type="multinuc" parent="180" relname="adversative-concession"/>
+		<group id="370" type="span" parent="369" relname="adversative-contrast"/>
+		<group id="371" type="span" parent="176" relname="explanation-justify"/>
+		<group id="372" type="span" parent="373" relname="same-unit"/>
+		<group id="373" type="multinuc" parent="409" relname="span"/>
+		<group id="374" type="span" parent="380" relname="context-background"/>
+		<group id="375" type="span" parent="376" relname="same-unit"/>
+		<group id="376" type="multinuc" parent="381" relname="adversative-contrast"/>
+		<group id="378" type="span" parent="376" relname="same-unit"/>
+		<group id="380" type="span" parent="382" relname="span"/>
+		<group id="381" type="multinuc" parent="380" relname="span"/>
+		<group id="382" type="span" parent="373" relname="elaboration-additional"/>
+		<group id="383" type="span" parent="384" relname="same-unit"/>
+		<group id="384" type="multinuc" parent="410" relname="span"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="196" relname="elaboration-additional"/>
+		<group id="387" type="span" parent="386" relname="same-unit"/>
+		<group id="388" type="span" parent="386" relname="same-unit"/>
+		<group id="389" type="span" parent="390" relname="same-unit"/>
+		<group id="390" type="multinuc" parent="392" relname="joint-list"/>
+		<group id="391" type="span" parent="392" relname="joint-list"/>
+		<group id="392" type="multinuc" parent="408" relname="joint-other"/>
+		<group id="394" type="multinuc" parent="210" relname="elaboration-attribute"/>
+		<group id="395" type="span" parent="394" relname="same-unit"/>
+		<group id="396" type="span" parent="406" relname="joint-list"/>
+		<group id="397" type="span" parent="398" relname="same-unit"/>
+		<group id="398" type="multinuc" parent="406" relname="joint-list"/>
+		<group id="399" type="span" parent="401" relname="same-unit"/>
+		<group id="400" type="span" parent="401" relname="same-unit"/>
+		<group id="401" type="multinuc" parent="405" relname="joint-list"/>
+		<group id="402" type="span" parent="403" relname="same-unit"/>
+		<group id="403" type="multinuc" parent="404" relname="joint-list"/>
+		<group id="404" type="multinuc" parent="405" relname="joint-list"/>
+		<group id="405" type="multinuc" parent="435" relname="span"/>
+		<group id="406" type="multinuc" parent="407" relname="span"/>
+		<group id="407" type="span" parent="408" relname="joint-other"/>
+		<group id="408" type="multinuc" parent="384" relname="elaboration-additional"/>
+		<group id="409" type="span" parent="431" relname="joint-other"/>
+		<group id="410" type="span" parent="431" relname="joint-other"/>
+		<group id="411" type="span" parent="412" relname="joint-list"/>
+		<group id="412" type="multinuc" parent="413" relname="span"/>
+		<group id="413" type="span" parent="433" relname="span"/>
+		<group id="414" type="multinuc" parent="429" relname="joint-other"/>
+		<group id="415" type="span" parent="416" relname="joint-other"/>
+		<group id="416" type="multinuc" parent="417" relname="elaboration-additional"/>
+		<group id="417" type="span" parent="428" relname="span"/>
+		<group id="418" type="multinuc" parent="419" relname="elaboration-additional"/>
+		<group id="419" type="span" parent="420" relname="span"/>
+		<group id="420" type="span" parent="425" relname="joint-other"/>
+		<group id="421" type="span" parent="425" relname="joint-other"/>
+		<group id="422" type="span" parent="436" relname="joint-other"/>
+		<group id="423" type="span" parent="424" relname="span"/>
+		<group id="424" type="span" parent="426" relname="span"/>
+		<group id="425" type="multinuc" parent="427" relname="span"/>
+		<group id="426" type="span" parent="321" relname="explanation-evidence"/>
+		<group id="427" type="span" parent="424" relname="explanation-evidence"/>
+		<group id="428" type="span" parent="429" relname="joint-other"/>
+		<group id="429" type="multinuc" parent="413" relname="explanation-evidence"/>
+		<group id="431" type="multinuc" parent="434" relname="joint-other"/>
+		<group id="432" type="span" parent="434" relname="joint-other"/>
+		<group id="433" type="span" parent="434" relname="joint-other"/>
+		<group id="434" type="multinuc" parent="405" relname="explanation-evidence"/>
+		<group id="435" type="span" parent="437" relname="span"/>
+		<group id="436" type="multinuc" />
+		<group id="437" type="span" parent="270" relname="elaboration-additional"/>
+		<group id="438" type="span" parent="439" relname="span"/>
+		<group id="439" type="span" parent="436" relname="joint-other"/>
+	</body>
+</rst>

@@ -15,26 +15,26 @@ def write_parsed_file(output_parse, parsed_file):
 	with io.open(parsed_file, "w", encoding="utf8") as f_parsed:
 		f_parsed.write("\n\n".join(output_parse) + "\n\n")
 		
-def write_text_file(output_text, text_file):
+def write_lines_file(output_lines, lines_file):
 	"""
 	Include .txt, .edu files (raw, tokenized, and edu)
 	:param output_text:
 	:param text_file:
 	:return:
 	"""
-	with io.open(text_file, "w", encoding="utf8") as f_text:
-		f_text.write("\n".join(output_text) + "\n")
+	with io.open(lines_file, "w", encoding="utf8") as f_lines:
+		f_lines.write("\n".join(output_lines) + "\n")
 
 
-def read_rs3_file(rs3_file):
+def read_lines_file(lines_file):
 	"""
 	Code partially borrowed from: https://github.com/amir-zeldes/gum/blob/dev/_build/utils/rst2dis.py
 	:param rs3_file:
 	:return:
 	"""
-	with io.open(rs3_file, "r", encoding="utf8") as f_rs3:
-		rs3_lines = f_rs3.read().strip().split("\n")
-	return rs3_lines
+	with io.open(lines_file, "r", encoding="utf8") as f_lines:
+		input_lines = f_lines.read().strip().split("\n")
+	return input_lines
 
 def get_basename(filepath):
 	return os.path.splitext(os.path.basename(filepath))[0]
