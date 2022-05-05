@@ -1,0 +1,349 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="310" relname="organization-heading">“ 云 ” 在 网络 语言 中 的 副词化 特征 // The Adverbialization Feature of " Cloud " in Internet Language</segment>
+		<segment id="2" parent="210" relname="organization-heading">1. 引言 // 1 Introduction</segment>
+		<segment id="3" parent="163" relname="joint-list">“ 云 ” 这 一 汉字 的 词义 丰富 ， // The Chinese character "cloud" has rich meanings.</segment>
+		<segment id="4" parent="163" relname="joint-list">词性 多样 。 // Diverse vocabulary.</segment>
+		<segment id="5" parent="164" relname="span">《 现代 汉语 词典 》 // " modern Chinese dictionary "</segment>
+		<segment id="6" parent="5" relname="elaboration-additional">( 第7 版 ) // (7th edition)</segment>
+		<segment id="7" parent="165" relname="same-unit">中 ， “ 云 ” 作为 汉语 常用 字 ， 最早 来源于 甲骨文 ， // As a common Chinese word, "cloud" originated from oracle bone inscriptions.</segment>
+		<segment id="8" parent="171" relname="span">多 用于 名词 ， // Mostly used for nouns,</segment>
+		<segment id="9" parent="169" relname="same-unit">意 为 // means</segment>
+		<segment id="10" parent="167" relname="joint-list">悬浮 在 空中 // suspended in the air</segment>
+		<segment id="11" parent="167" relname="joint-list">由 大量 水滴 、 冰晶 或 兼由 两者 组成 // consists of a large number of water droplets , ice crystals , or both</segment>
+		<segment id="12" parent="167" relname="joint-list">可 见 的 // visible</segment>
+		<segment id="13" parent="168" relname="span">聚合 体 。 // aggregate.</segment>
+		<segment id="14" parent="170" relname="span">比如 ， “ 朝 辞 白帝 彩云 间 ” // For example, "Courtesy of the White Emperor in the Clouds"</segment>
+		<segment id="15" parent="14" relname="explanation-evidence">( 《 早 发 白帝城 》 李白 ) 。 // ( "Early Hair White Emperor City" by Li Bai).</segment>
+		<segment id="16" parent="173" relname="joint-list">后来 由 此 引申 出 盛 、 多 的 意义 ， // Later, the meaning of prosperous and many was derived from this.</segment>
+		<segment id="17" parent="173" relname="joint-list">作 形容词 。 // as an adjective.</segment>
+		<segment id="18" parent="174" relname="joint-list">比如 ， “ 齐子 归止 ， // For example, "Qi Zi returns to the end,</segment>
+		<segment id="19" parent="174" relname="joint-list">其 从 如 云 ” // its like a cloud"</segment>
+		<segment id="20" parent="174" relname="explanation-evidence">( 《 诗·齐风·敝笱 》 ) ， // ("Poetry, Qi Feng, Dixie"),</segment>
+		<segment id="21" parent="176" relname="adversative-contrast">这里 的 云 是 “ 多 ” 的 意思 ， // The cloud here means "a lot",</segment>
+		<segment id="22" parent="177" relname="span">“ 云涛 ” ， 形容 云起 盛多 // "Yuntao", describing the rise of clouds and the abundance of prosperity</segment>
+		<segment id="23" parent="22" relname="mode-manner">如 波涛 汹涌 。 // like turbulent waves.</segment>
+		<segment id="24" parent="181" relname="span">同时 ， 云 也 常 做 语气 助词 ， 动词 ， 以及 代词 ， // At the same time, clouds are often used as modal particles, verbs, and pronouns.</segment>
+		<segment id="25" parent="180" relname="adversative-contrast">多 用于 古代 汉语 ， // Mostly used in ancient Chinese,</segment>
+		<segment id="26" parent="180" relname="adversative-contrast">现代 汉语 并不 常见 。 // Modern Chinese is not common.</segment>
+		<segment id="27" parent="28" relname="causal-cause">近年 来 ， 随着 计算机 技术 的 兴起 ， 互联网 的 广泛 应用 ， // In recent years , with the rise of computer technology and the wide application of the Internet ,</segment>
+		<segment id="28" parent="182" relname="span">“ 云 ” 的 语义 和 语用 发生 了 变化 ， // The semantics and pragmatics of " cloud " have changed ,</segment>
+		<segment id="29" parent="184" relname="context-background">起先 ， 在 专业 计算机 领域 中 ， 我们 常常 看到 “ 云 计算 ” ， “ 云 存储 ” ， “ 云 管家 ” 这 类 专业 名词 。 // At first, in the professional computer field, we often see such professional terms as "cloud computing", "cloud storage" and "cloud housekeeper".</segment>
+		<segment id="30" parent="183" relname="adversative-antithesis">“ 云 ” 在 这里 的 词义 不同于 以往 ， // The meaning of "cloud" here is different from the past.</segment>
+		<segment id="31" parent="183" relname="joint-list">“ 云 ” 意 为 虚拟化 资源 的 集合 ， // "Cloud" means a collection of virtualized resources,</segment>
+		<segment id="32" parent="183" relname="joint-list">用作 副词 ， // used as an adverb,</segment>
+		<segment id="33" parent="183" relname="joint-list">成为 互联网 ， 网络 的 一 种 比喻 说法 。 // Be the internet, a metaphor for the web.</segment>
+		<segment id="34" parent="186" relname="joint-list">后来 ， 该 用法 不断 泛化 ， // Later , the usage continued to generalize ,</segment>
+		<segment id="35" parent="186" relname="joint-list">成为 网络 上 的 一 种 常见 用法 ， // become a common usage on the web,</segment>
+		<segment id="36" parent="187" relname="span">我们 可以 在 网络 上 看到 “ 云 追星 ” ， “ 云 吸猫 ” ， “ 云 吃饭 ” 等等 一些 流行 网络语 ， // We can see some popular Internet phrases such as "cloud chasing stars", "cloud sucking cats", "cloud eating" and so on on the Internet.</segment>
+		<segment id="37" parent="36" relname="evaluation-comment">它们 是 互联网 时代 的 产物 。 // They are a product of the internet age .</segment>
+		<segment id="38" parent="191" relname="organization-preparation">例如 ： // E.g :</segment>
+		<segment id="39" parent="188" relname="span">乌有 之 猫 ， 云 吸猫 ， 迷群 的 认同 与 幻想 。 // A cat that doesn't exist, the cloud sucks a cat, the identity and fantasy of the fans.</segment>
+		<segment id="40" parent="39" relname="explanation-evidence">( 出 自 硕士 论文 题目 ) // ( From the title of the master thesis )</segment>
+		<segment id="41" parent="189" relname="joint-list">好 饿 ， // so hungry,</segment>
+		<segment id="42" parent="189" relname="joint-list">让 我们 一起 云 吃饭 吧 ！ // Let's have a cloud dinner together!</segment>
+		<segment id="43" parent="189" relname="explanation-evidence">( 微博 话题 ， 配图 为 菜肴 图片 ) // ( Weibo topic , with pictures of dishes )</segment>
+		<segment id="44" parent="192" relname="span">今日 的 云 吸猫 ， 安排 上 了 。 // Today's cloud sucking cat is arranged.</segment>
+		<segment id="45" parent="44" relname="explanation-evidence">( 微博 ， 配图 为 猫咪 照片 ) // ( Weibo , with pictures of cats )</segment>
+		<segment id="46" parent="193" relname="span">我 要 脱离 云 追星 了 ， // I'm going to get out of the clouds and chase the stars,</segment>
+		<segment id="47" parent="46" relname="causal-cause">每天 这样 太 耽误 时间 了 。 // It's such a waste of time every day.</segment>
+		<segment id="48" parent="193" relname="explanation-evidence">( 微博 ， 无 配图 ) // ( Weibo , without pictures )</segment>
+		<segment id="49" parent="202" relname="joint-list">互联网 和 大数据 时代 不仅 改变 了 我们 的 生活 方式 ， // The era of the Internet and big data has not only changed our way of life,</segment>
+		<segment id="50" parent="202" relname="joint-list">还 改变 了 我们 的 说话 方式 ， 语言 方式 ， // also changed the way we speak, the way we speak,</segment>
+		<segment id="51" parent="52" relname="adversative-concession">“ 云 ” 这 一 字 不再 单纯 地 表示 天上 的 云朵 ， // The word "cloud" no longer simply means the clouds in the sky.</segment>
+		<segment id="52" parent="203" relname="span">而 是 衍生 出 了 更 多 的 意义 。 // Instead, more meanings are derived.</segment>
+		<segment id="53" parent="207" relname="joint-list">在 互联网 时代 中 ， “ 云 ” 的 分布 搭配 ， 语义 特征 ， 语用 功能 已 呈现 出 副词化 特征 。 // In the Internet age , the distribution and collocation of " cloud " , semantic features and pragmatic functions have shown adverbialized features .</segment>
+		<segment id="54" parent="204" relname="joint-list">本 文 拟 借鉴 语言 模因论 ， // This article intends to draw on linguistic memetics,</segment>
+		<segment id="55" parent="204" relname="joint-list">从 全新 的 角度 ， 对 “ 云 ” 这 一 词汇 新 的 语义 特征 ， 语用 功能 的 生成 机制 进行 详细 的 阐释 ， // From a new angle , this paper gives a detailed explanation of the new semantic features of the word " cloud " and the generation mechanism of pragmatic functions .</segment>
+		<segment id="56" parent="204" relname="purpose-goal">从而 有助于 总结 流行语 发展 和 变化 的 规律 。 // It will help to summarize the rules of the development and change of buzzwords .</segment>
+		<segment id="57" parent="205" relname="elaboration-additional">本 文 的 语料 来源于 北大 语料库 ， 及 各 大 门户 网站 ， 新浪 微博 等 新 媒体 平台 。 // The corpus of this article comes from the corpus of Peking University, as well as major portal websites, Sina Weibo and other new media platforms.</segment>
+		<segment id="58" parent="308" relname="organization-heading">2. 副词化 现象 // 2. Adverbialization Phenomenon</segment>
+		<segment id="59" parent="213" relname="same-unit">所谓 副词化 ， 是 指 // The so-called adverbialization means</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">原本 不 具有 副词 属性 的 // Originally without adverbial attributes</segment>
+		<segment id="61" parent="212" relname="span">汉字 在 特定 的 语言 环境 下 可以 做 副词 使用 ， // Chinese characters can be used as adverbs in a specific language environment .</segment>
+		<segment id="62" parent="214" relname="joint-list">修饰 动词 短语 或 形容词 ， // Modifies a verb phrase or adjective ,</segment>
+		<segment id="63" parent="215" relname="span">目前 ， 汉语 中 有 字词 如 “ 果断 ” 已 呈现 “ 副词化 ” 特征 // At present , some Chinese words such as "decisive" have shown the feature of "adverbization"</segment>
+		<segment id="64" parent="63" relname="explanation-evidence">( 方艳 ， 2019 ) // ( Fang Yan , 2019 )</segment>
+		<segment id="65" parent="215" relname="explanation-evidence">[ 1 ] ， // [ 1 ] ,</segment>
+		<segment id="66" parent="217" relname="joint-list">主要 用作 状语 修饰 动词 和 动词 短语 。 // Mainly used as adverbial modifiers of verbs and verb phrases .</segment>
+		<segment id="67" parent="223" relname="organization-heading">试 比较 ： // Try to compare:</segment>
+		<segment id="68" parent="222" relname="organization-heading">果断 // decisive</segment>
+		<segment id="69" parent="221" relname="same-unit">a) // a)</segment>
+		<segment id="70" parent="71" relname="context-circumstance">刚 工作 了 两 个 月 ， // Just worked for two months.</segment>
+		<segment id="71" parent="220" relname="span">果断 买 了 这 辆 奔驰 车 。 // Decided to buy this Mercedes Benz.</segment>
+		<segment id="72" parent="218" relname="joint-list">b) 抚 将士 有 恩 ， // b) The generals and soldiers are gracious,</segment>
+		<segment id="73" parent="218" relname="joint-list">而 明察 果断 ， // And wise and decisive,</segment>
+		<segment id="74" parent="218" relname="joint-list">用法 严峻 // usage grim</segment>
+		<segment id="75" parent="218" relname="explanation-evidence">( 宋 《 资治 通鉴 》 ) // ( Song "Zizhi Tongjian")</segment>
+		<segment id="76" parent="225" relname="joint-list">从 古代 汉语 到 现代 汉语 ， 果断 这 一 词语 常规 用作 形容词 ， // From ancient Chinese to modern Chinese , the word decisive is routinely used as an adjective ,</segment>
+		<segment id="77" parent="226" relname="joint-list">意 为 “ 有 决断 ， // Means "to decide,</segment>
+		<segment id="78" parent="226" relname="joint-list">不 犹豫 ” ， // don't hesitate",</segment>
+		<segment id="79" parent="227" relname="span">“ 果断 ” 这 一 词语 主要 用来 充当 谓语 和 定语 // The word "decisive" is mainly used as a predicate and attributive</segment>
+		<segment id="80" parent="79" relname="explanation-evidence">( 如 2b ) 。 // (as in 2b).</segment>
+		<segment id="81" parent="228" relname="joint-list">但是 ， 近年 来 ， “ 果断 ” 作 状语 的 搭配 用法 占 主导 趋势 ， // However , in recent years , the collocation of "decisive" as an adverbial has dominated the trend.</segment>
+		<segment id="82" parent="228" relname="joint-list">其 语义 分布 和 搭配 以及 语用 功能 已经 呈现 出 副词化 特征 // Its semantic distribution and collocation and pragmatic function have shown adverbialization features</segment>
+		<segment id="83" parent="228" relname="adversative-antithesis">( 方艳 ， 2019 ) // ( Fang Yan , 2019 )</segment>
+		<segment id="84" parent="229" relname="explanation-evidence">[ 1 ] 。 // [ 1 ] .</segment>
+		<segment id="85" parent="232" relname="same-unit">除此以外 ， // Apart from that,</segment>
+		<segment id="86" parent="87" relname="elaboration-attribute">“ 神 ” 作为 修饰语 的 // " god " as a modifier</segment>
+		<segment id="87" parent="231" relname="span">搭配 用法 呈现 出 不断 扩展 的 趋势 ， // The collocation usage shows a trend of continuous expansion.</segment>
+		<segment id="88" parent="233" relname="span">在 新 时代 下 ， 它 在 网络 用语 和 日常 生活 中 ， 用法 已经 慢慢 呈现 出 程度化 和 请状化 的 副词化 特征 // In the new era , its usage in network terms and daily life has gradually shown the adverb-based features of degree and petition</segment>
+		<segment id="89" parent="88" relname="explanation-evidence">( 方艳 ， 2017 ) // ( Fang Yan , 2017 )</segment>
+		<segment id="90" parent="233" relname="explanation-evidence">[ 2 ] 。 // [ 2 ] .</segment>
+		<segment id="91" parent="237" relname="organization-preparation">试 比较 ： // Try to compare:</segment>
+		<segment id="92" parent="235" relname="span">c) 这么 快 你 就 回来 了 ， // c) you came back so soon,</segment>
+		<segment id="93" parent="92" relname="evaluation-comment">神 速 ！ // Godly speed!</segment>
+		<segment id="94" parent="95" relname="causal-cause">d) 又要 交 作业 了 ， // d) I have to hand in my homework again,</segment>
+		<segment id="95" parent="236" relname="span">神 烦 。 // God is annoying.</segment>
+		<segment id="96" parent="241" relname="span">“ 神 ” 的 本义 是 “ 与 凡人 相反 ， // The original meaning of "God" is "as opposed to mortals,</segment>
+		<segment id="97" parent="240" relname="same-unit">神仙 ， 具有 // fairy, having</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">凡人 无法 拥有 的 // What mortals can't have</segment>
+		<segment id="99" parent="239" relname="span">能力 。 ” // ability . "</segment>
+		<segment id="100" parent="243" relname="same-unit">后来 引申 出 // It was later extended</segment>
+		<segment id="101" parent="102" relname="elaboration-attribute">“ 高超 ， 惊人 的 ” // "Superb, Amazing"</segment>
+		<segment id="102" parent="242" relname="span">这 一 形容词 语义 ， // The meaning of this adjective,</segment>
+		<segment id="103" parent="245" relname="same-unit">在 “ 神 ” + 形容词类 新词 中 ， “ 神 ” 又 引申 出 // In "God" + adjective new words, "God" is extended to</segment>
+		<segment id="104" parent="105" relname="elaboration-attribute">表示 “ 程度 高 ” 的 // means "high"</segment>
+		<segment id="105" parent="244" relname="span">副词性 语义 。 // Adverbial Semantics.</segment>
+		<segment id="106" parent="247" relname="organization-preparation">如 此 可 见 ， // so it can be seen,</segment>
+		<segment id="107" parent="247" relname="joint-list">网络 用语 中 的 越来越 多 词汇 创新 导致 了 语法 层面 上 的 创新 ， // The increasing number of lexical innovations in Internet language has led to innovations at the grammatical level,</segment>
+		<segment id="108" parent="247" relname="joint-list">不同 词汇 在 使用 上 呈现 出 了 副词化 的 特征 ， // The use of different words shows adverbialization characteristics ,</segment>
+		<segment id="109" parent="110" relname="attribution-positive">陈新仁 ( 2017 ) 提出 // Presented by Chen Xinren ( 2017 )</segment>
+		<segment id="110" parent="261" relname="span">对于 词汇 ， 语法 创新 ， 我们 可以 从 模因论 视角 来 解读 ， // For vocabulary and grammatical innovations , we can interpret them from the perspective of memetics ,</segment>
+		<segment id="111" parent="249" relname="joint-list">本 文 试 从 模因论 理论 出发 ， // This article tries to start from the theory of memetics,</segment>
+		<segment id="112" parent="249" relname="joint-list">解读 网络 语言 中 “ 云 ” 的 副词化 特征 。 // Interpretation of the adverbialization features of " cloud " in Internet language .</segment>
+		<segment id="113" parent="114" relname="organization-preparation">“ 云 ” 的 语义 演变 // The Semantic Evolution of " Cloud "</segment>
+		<segment id="114" parent="277" relname="span">—— 副词化 // - adverbialization</segment>
+		<segment id="115" parent="304" relname="context-background">从 古代 汉语 到 现代 汉语 ， “ 云 ” 字 的 含义 丰富 且 稳定 。 // From ancient Chinese to modern Chinese, the meaning of the word "cloud" is rich and stable.</segment>
+		<segment id="116" parent="263" relname="organization-preparation">比较 常见 的 用法 有 ： // The more common usages are:</segment>
+		<segment id="117" parent="269" relname="attribution-positive">表示 // express</segment>
+		<segment id="118" parent="269" relname="joint-list">说话 ， // say ,</segment>
+		<segment id="119" parent="269" relname="joint-list">引文 // Citation</segment>
+		<segment id="120" parent="270" relname="explanation-evidence">( 如 2e ) ； // (eg 2e);</segment>
+		<segment id="121" parent="263" relname="joint-list">用作 文言 助词 ； // used as an auxiliary word in classical Chinese;</segment>
+		<segment id="122" parent="265" relname="attribution-positive">以及 表示 // and means</segment>
+		<segment id="123" parent="265" relname="joint-sequence">水汽 上升 // water vapor rises</segment>
+		<segment id="124" parent="125" relname="context-circumstance">遇冷 // cold</segment>
+		<segment id="125" parent="266" relname="span">凝聚 成 微小 的 水珠 集合 。 // Coagulates into tiny collections of water droplets .</segment>
+		<segment id="126" parent="272" relname="span">e) 云 ， 山川 气 也 。 // e) Clouds, mountains and rivers are also breathable.</segment>
+		<segment id="127" parent="126" relname="explanation-evidence">—— 《 说文 》 // —— "Said the text"</segment>
+		<segment id="128" parent="274" relname="joint-list">同时 ， 云 也 可 做 形容词 ， // At the same time, cloud can also be used as an adjective,</segment>
+		<segment id="129" parent="274" relname="joint-list">比喻 甚 多 ， 比如 ： // There are many metaphors, such as:</segment>
+		<segment id="130" parent="275" relname="joint-list">f) 齐子 归止 ， // f) Qi Zi returns,</segment>
+		<segment id="131" parent="275" relname="joint-list">其 从 如 云 。 // Its from like a cloud.</segment>
+		<segment id="132" parent="275" relname="attribution-positive">—— 《 诗·齐风·敞简 》 // —— "Poetry, Qi Feng, Open Slips"</segment>
+		<segment id="133" parent="281" relname="context-circumstance">后来 ， 随着 互联网 兴起 ， // Later , with the rise of the Internet ,</segment>
+		<segment id="134" parent="279" relname="span">计算机 工作者 开始 用 “ 云 ” 的 形状 // Computer workers began to use the shape of "cloud"</segment>
+		<segment id="135" parent="134" relname="purpose-goal">来 表示 电信 网络 ， // to represent a telecommunications network,</segment>
+		<segment id="136" parent="281" relname="joint-disjunction">或是 用来 表示 互联网 和 底层 基础 设施 的 抽象 。 // Or an abstraction used to represent the internet and the underlying infrastructure .</segment>
+		<segment id="137" parent="282" relname="adversative-contrast">“ 云 ” 本来 是 “ 小 水滴 的 集合 ” ， // "Cloud" was originally "a collection of small water droplets",</segment>
+		<segment id="138" parent="282" relname="adversative-contrast">而 这里 ， 将 它 转喻 为 “ 虚拟 资源 的 集合 ” 。 // And here, it is metonymized as "a collection of virtual resources".</segment>
+		<segment id="139" parent="284" relname="same-unit">在 这里 // it's here</segment>
+		<segment id="140" parent="141" relname="mode-means">通过 转喻 ， // Through metonymy,</segment>
+		<segment id="141" parent="283" relname="span">赋予 “ 云 ” 新 的 语义 ， // Endow " cloud " with new semantics ,</segment>
+		<segment id="142" parent="285" relname="joint-list">形象 ， 生动 地 表达 了 计算机 领域 的 概念 。 // The image vividly expresses the concept of the computer field.</segment>
+		<segment id="143" parent="288" relname="organization-preparation">比如 ： // for example :</segment>
+		<segment id="144" parent="288" relname="joint-list">g) 云 服务 是 基于 “ 云 计算 ” 技术 ， // g) The cloud service is based on "cloud computing" technology,</segment>
+		<segment id="145" parent="288" relname="joint-list">实现 各 种 终端 设备 之间 的 互联 互通 。 // Realize the interconnection and intercommunication between various terminal equipments .</segment>
+		<segment id="146" parent="147" relname="context-circumstance">随着 互联网 信息 时代 的 兴起 ， // With the rise of the Internet information age ,</segment>
+		<segment id="147" parent="290" relname="span">云 的 语义 再一次 被 网民们 赋予 了 新 的 意义 。 // The semantics of cloud has been given new meaning by netizens again .</segment>
+		<segment id="148" parent="292" relname="span">“ 云 ” 从 “ 虚拟 资源 的 集合 ” 转化 为 “ 线上 ” ， // "Cloud" is transformed from "collection of virtual resources" to "online",</segment>
+		<segment id="149" parent="291" relname="joint-list">此时 ， “ 云 ” 的 语义 顺应 外部 条件 的 变化 ， // At this time , the semantics of " cloud " conforms to the changes of external conditions ,</segment>
+		<segment id="150" parent="291" relname="joint-list">被 赋予 了 新 的 语义 特征 ， // is endowed with new semantic features,</segment>
+		<segment id="151" parent="291" relname="joint-list">“ 云 ” 在 网络 语言 中 被 副词化 ， // "Cloud" is adverbized in Internet language,</segment>
+		<segment id="152" parent="291" relname="joint-list">从 专业 领域 进入 到 人们 的 日常 生活 当中 。 // From the professional field into people's daily life.</segment>
+		<segment id="153" parent="294" relname="span">让 我们 一起 云 追星 吧 ！ // Let's chase the stars together!</segment>
+		<segment id="154" parent="153" relname="elaboration-additional">( 微博 话题 ， 配图 为 菜肴 图片 ) // ( Weibo topic , with pictures of dishes )</segment>
+		<segment id="155" parent="295" relname="span">今日 的 云 吸猫 ， 安排 上 了 。 // Today's cloud sucking cat is arranged.</segment>
+		<segment id="156" parent="155" relname="elaboration-additional">( 微博 ， 配图 为 猫咪 照片 ) // ( Weibo , with pictures of cats )</segment>
+		<segment id="157" parent="298" relname="joint-list">总的来说 ， 结合 当今 网络 信息 时代 来看 ， // In general , in view of today's network information age ,</segment>
+		<segment id="158" parent="298" relname="joint-list">“ 云 ” 的 使用 情况 来看 ， // In terms of the usage of "cloud",</segment>
+		<segment id="159" parent="300" relname="joint-list">“ 云 ” 的 语义 已经 发生 了 一定 的 变化 。 // The semantics of " cloud " has changed to some extent .</segment>
+		<segment id="160" parent="300" relname="joint-list">语义 的 变化 导致 了 语法 ， 词汇 属性 的 变化 。 // Changes in semantics lead to changes in grammatical, lexical properties.</segment>
+		<segment id="161" parent="299" relname="span">“ 云 ” 在 网络 语言 和 专有 领域 里 出现 了 副词化 特征 。 // ' Cloud ' has emerged as an adverbialized feature in web language and proprietary spheres .</segment>
+		<segment id="162" parent="161" relname="explanation-evidence">从 “ 云 计算 ” 到 “ 云 服务 ” 这 类 计算机 专有 领域 发展 到 “ 云 聊天 ” ， “ 云 追星 ” 这些 网络 用语 ， 都 已经 呈现 出 了 “ 云 ” 的 副词化 特征 。 // From " cloud computing " to " cloud service " such as computer proprietary fields to " cloud chat " , " cloud chasing stars " these network terms , have shown the adverbial features of " cloud " .</segment>
+		<group id="163" type="multinuc" parent="166" relname="organization-preparation"/>
+		<group id="164" type="span" parent="165" relname="same-unit"/>
+		<group id="165" type="multinuc" parent="166" relname="joint-list"/>
+		<group id="166" type="multinuc" parent="201" relname="span"/>
+		<group id="167" type="multinuc" parent="13" relname="elaboration-attribute"/>
+		<group id="168" type="span" parent="169" relname="same-unit"/>
+		<group id="169" type="multinuc" parent="172" relname="span"/>
+		<group id="170" type="span" parent="169" relname="explanation-evidence"/>
+		<group id="171" type="span" parent="166" relname="joint-list"/>
+		<group id="172" type="span" parent="8" relname="elaboration-additional"/>
+		<group id="173" type="multinuc" parent="179" relname="span"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="175" type="span" parent="178" relname="span"/>
+		<group id="176" type="multinuc" parent="175" relname="elaboration-additional"/>
+		<group id="177" type="span" parent="176" relname="adversative-contrast"/>
+		<group id="178" type="span" parent="173" relname="explanation-evidence"/>
+		<group id="179" type="span" parent="166" relname="joint-list"/>
+		<group id="180" type="multinuc" parent="24" relname="elaboration-additional"/>
+		<group id="181" type="span" parent="166" relname="joint-list"/>
+		<group id="182" type="span" parent="198" relname="context-background"/>
+		<group id="183" type="multinuc" parent="184" relname="span"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="198" relname="joint-sequence"/>
+		<group id="186" type="multinuc" parent="196" relname="context-background"/>
+		<group id="187" type="span" parent="196" relname="span"/>
+		<group id="188" type="span" parent="191" relname="joint-list"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="joint-list"/>
+		<group id="191" type="multinuc" parent="195" relname="span"/>
+		<group id="192" type="span" parent="191" relname="joint-list"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="191" relname="joint-list"/>
+		<group id="195" type="span" parent="187" relname="explanation-evidence"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="198" relname="joint-sequence"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="200" relname="joint-other"/>
+		<group id="200" type="multinuc" parent="209" relname="explanation-evidence"/>
+		<group id="201" type="span" parent="200" relname="joint-other"/>
+		<group id="202" type="multinuc" parent="207" relname="context-background"/>
+		<group id="203" type="span" parent="207" relname="joint-list"/>
+		<group id="204" type="multinuc" parent="205" relname="span"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" parent="209" relname="span"/>
+		<group id="207" type="multinuc" parent="208" relname="span"/>
+		<group id="208" type="span" parent="206" relname="context-background"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="310" relname="joint-list"/>
+		<group id="212" type="span" parent="213" relname="same-unit"/>
+		<group id="213" type="multinuc" parent="214" relname="joint-list"/>
+		<group id="214" type="multinuc" parent="217" relname="context-background"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="joint-list"/>
+		<group id="217" type="multinuc" parent="255" relname="span"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="222" relname="joint-list"/>
+		<group id="220" type="span" parent="221" relname="same-unit"/>
+		<group id="221" type="multinuc" parent="222" relname="joint-list"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="252" relname="explanation-evidence"/>
+		<group id="225" type="multinuc" parent="252" relname="joint-sequence"/>
+		<group id="226" type="multinuc" parent="225" relname="joint-list"/>
+		<group id="227" type="span" parent="225" relname="joint-list"/>
+		<group id="228" type="multinuc" parent="229" relname="span"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="252" relname="joint-sequence"/>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="234" relname="context-background"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="258" relname="span"/>
+		<group id="235" type="span" parent="237" relname="adversative-contrast"/>
+		<group id="236" type="span" parent="237" relname="adversative-contrast"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="246" relname="explanation-evidence"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="96" relname="causal-cause"/>
+		<group id="241" type="span" parent="246" relname="joint-sequence"/>
+		<group id="242" type="span" parent="243" relname="same-unit"/>
+		<group id="243" type="multinuc" parent="246" relname="joint-sequence"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="246" relname="joint-sequence"/>
+		<group id="246" type="multinuc" parent="256" relname="span"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="260" relname="span"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="262" relname="span"/>
+		<group id="252" type="multinuc" parent="253" relname="span"/>
+		<group id="253" type="span" parent="255" relname="elaboration-additional"/>
+		<group id="254" type="span" parent="259" relname="joint-list"/>
+		<group id="255" type="span" parent="254" relname="span"/>
+		<group id="256" type="span" parent="258" relname="elaboration-additional"/>
+		<group id="257" type="span" parent="259" relname="joint-list"/>
+		<group id="258" type="span" parent="257" relname="span"/>
+		<group id="259" type="multinuc" parent="248" relname="context-background"/>
+		<group id="260" type="span" parent="250" relname="context-background"/>
+		<group id="261" type="span" parent="249" relname="context-background"/>
+		<group id="262" type="span" parent="308" relname="joint-other"/>
+		<group id="263" type="multinuc" parent="268" relname="span"/>
+		<group id="265" type="multinuc" parent="267" relname="span"/>
+		<group id="266" type="span" parent="265" relname="joint-sequence"/>
+		<group id="267" type="span" parent="273" relname="span"/>
+		<group id="268" type="span" parent="303" relname="joint-list"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="263" relname="joint-list"/>
+		<group id="272" type="span" parent="267" relname="explanation-evidence"/>
+		<group id="273" type="span" parent="263" relname="joint-list"/>
+		<group id="274" type="multinuc" parent="278" relname="span"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="274" relname="explanation-evidence"/>
+		<group id="277" type="span" parent="306" relname="organization-heading"/>
+		<group id="278" type="span" parent="303" relname="joint-list"/>
+		<group id="279" type="span" parent="281" relname="joint-disjunction"/>
+		<group id="280" type="span" parent="286" relname="context-background"/>
+		<group id="281" type="multinuc" parent="280" relname="span"/>
+		<group id="282" type="multinuc" parent="286" relname="span"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="285" relname="joint-list"/>
+		<group id="285" type="multinuc" parent="282" relname="elaboration-additional"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="302" relname="span"/>
+		<group id="288" type="multinuc" parent="289" relname="span"/>
+		<group id="289" type="span" parent="287" relname="explanation-evidence"/>
+		<group id="290" type="span" parent="292" relname="context-background"/>
+		<group id="291" type="multinuc" parent="148" relname="evaluation-comment"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="297" relname="span"/>
+		<group id="294" type="span" parent="296" relname="joint-list"/>
+		<group id="295" type="span" parent="296" relname="joint-list"/>
+		<group id="296" type="multinuc" parent="293" relname="explanation-evidence"/>
+		<group id="297" type="span" parent="304" relname="joint-sequence"/>
+		<group id="298" type="multinuc" parent="300" relname="organization-preparation"/>
+		<group id="299" type="span" parent="300" relname="joint-list"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="306" relname="span"/>
+		<group id="302" type="span" parent="304" relname="joint-sequence"/>
+		<group id="303" type="multinuc" parent="304" relname="joint-sequence"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="301" relname="explanation-evidence"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="308" relname="joint-other"/>
+		<group id="308" type="multinuc" parent="309" relname="span"/>
+		<group id="309" type="span" parent="310" relname="joint-list"/>
+		<group id="310" type="multinuc" parent="311" relname="span"/>
+		<group id="311" type="span" />
+	</body>
+</rst>

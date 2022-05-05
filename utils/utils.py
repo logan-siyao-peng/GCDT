@@ -41,3 +41,6 @@ def get_basename(filepath):
 
 def string_no_space(string):
 	return re.sub(r'\s+', '', string)
+
+def get_file_modified_time(filepath):
+	return os.path.getctime(filepath)

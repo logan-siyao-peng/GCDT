@@ -1,0 +1,619 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="588" relname="organization-heading">如何 庆祝 感恩节</segment>
+		<segment id="2" parent="309" relname="joint-sequence">1621年 十一月 的 第四 个 星期四 ， 美国人 庆祝 了 他们 的 第一 个 感恩节 ，</segment>
+		<segment id="3" parent="309" relname="joint-sequence">从此以后 ， 感恩节 成 了 美国 的 传统 节日 之一 。</segment>
+		<segment id="4" parent="310" relname="adversative-concession">感恩节 对 不同 的 人 有 着 不同 的 含义 ，</segment>
+		<segment id="5" parent="311" relname="organization-preparation">但 对于 大多数 人 来说 ，</segment>
+		<segment id="6" parent="311" relname="joint-list">感恩节 意味 着 大 吃 一 顿 ，</segment>
+		<segment id="7" parent="311" relname="joint-list">观看 花车 游行 ，</segment>
+		<segment id="8" parent="311" relname="joint-list">看 球赛 ，</segment>
+		<segment id="9" parent="311" relname="joint-list">和 家人 还有 朋友们 欢聚一堂 ，</segment>
+		<segment id="10" parent="311" relname="joint-list">当然 还 有 别具一格 的 感恩节 的 火鸡 大餐 。</segment>
+		<segment id="11" parent="313" relname="joint-list">感恩节 让 人们 和 家人 朋友 相聚 ，</segment>
+		<segment id="12" parent="313" relname="joint-list">彼此 交谈 和 陪伴 。</segment>
+		<segment id="13" parent="14" relname="elaboration-attribute">感恩节 设立 的</segment>
+		<segment id="14" parent="318" relname="span">意义 在于 对 生命 中 美好 的 事物 ， 重要 的 人 表示 感谢 。</segment>
+		<segment id="15" parent="315" relname="attribution-positive">如果 你 想 知道</segment>
+		<segment id="16" parent="315" relname="same-unit">怎样 过 一 个</segment>
+		<segment id="17" parent="18" relname="elaboration-attribute">有 特点 的</segment>
+		<segment id="18" parent="314" relname="span">感恩节 ，</segment>
+		<segment id="19" parent="319" relname="span">来 阅读 下面 的 步骤 吧 。</segment>
+		<segment id="20" parent="21" relname="organization-preparation">方法 1</segment>
+		<segment id="21" parent="316" relname="span">准备 食物</segment>
+		<segment id="22" parent="392" relname="organization-preparation">1 提前 决定 菜单 。</segment>
+		<segment id="23" parent="352" relname="span">传统 的 多人 菜单 包括 烤 火鸡 ， 土豆泥 ， 填料 ， 数 种 蔬菜</segment>
+		<segment id="24" parent="23" relname="elaboration-attribute">包括 甘薯 ， 南瓜 ，</segment>
+		<segment id="25" parent="353" relname="same-unit">小红莓 果酱 ， 许多 种类 的 派 ， 还有 面包 。</segment>
+		<segment id="26" parent="320" relname="same-unit">下面 是 一些</segment>
+		<segment id="27" parent="28" relname="elaboration-attribute">你 需要 准备 的</segment>
+		<segment id="28" parent="321" relname="span">事 ：</segment>
+		<segment id="29" parent="323" relname="same-unit">写下</segment>
+		<segment id="30" parent="31" relname="elaboration-attribute">你 需要 从 超市 购买 的</segment>
+		<segment id="31" parent="322" relname="span">感恩节 大餐 食材 。</segment>
+		<segment id="32" parent="373" relname="span">检查 你 的 储藏室 ，</segment>
+		<segment id="33" parent="326" relname="same-unit">确定</segment>
+		<segment id="34" parent="35" relname="elaboration-attribute">你 还 没 准备 的</segment>
+		<segment id="35" parent="325" relname="span">食材 ，</segment>
+		<segment id="36" parent="328" relname="same-unit">把</segment>
+		<segment id="37" parent="38" relname="elaboration-attribute">你 所 需要 的</segment>
+		<segment id="38" parent="327" relname="span">所有 东西 写在 一 张 单子 上 。</segment>
+		<segment id="39" parent="330" relname="mode-means">去 本地 的 农贸 市场 ， 肉店 ， 超市 还有 面包店 ，</segment>
+		<segment id="40" parent="330" relname="same-unit">买齐</segment>
+		<segment id="41" parent="42" relname="elaboration-attribute">所有 你 需要 的</segment>
+		<segment id="42" parent="329" relname="span">东西 。</segment>
+		<segment id="43" parent="331" relname="same-unit">提前 买好</segment>
+		<segment id="44" parent="45" relname="elaboration-attribute">感恩节 大餐 所 需要 的</segment>
+		<segment id="45" parent="332" relname="span">食材 。</segment>
+		<segment id="46" parent="47" relname="attribution-positive">记得</segment>
+		<segment id="47" parent="356" relname="span">提前 预定 火鸡 ，</segment>
+		<segment id="48" parent="49" relname="context-circumstance">在 感恩节 到来 之前</segment>
+		<segment id="49" parent="357" relname="span">火鸡 和 食材 会 被 抢购一空 。</segment>
+		<segment id="50" parent="335" relname="span">如果 你 可以 冷冻</segment>
+		<segment id="51" parent="50" relname="purpose-goal">保存 食材 ，</segment>
+		<segment id="52" parent="334" relname="same-unit">提前 买好</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">你 所 需要 的</segment>
+		<segment id="54" parent="333" relname="span">东西 ，</segment>
+		<segment id="55" parent="359" relname="span">这样 做 可以 避免 在 最后 一刻 去 超市</segment>
+		<segment id="56" parent="55" relname="purpose-goal">抢购 。</segment>
+		<segment id="57" parent="380" relname="span">烘烤 食品 最好 在 感恩节 那 一 天 购买 ，</segment>
+		<segment id="58" parent="59" relname="contingency-condition">如果 时间 来 不 及 ，</segment>
+		<segment id="59" parent="379" relname="span">你 可以 自己 在家 烤制 。</segment>
+		<segment id="60" parent="383" relname="joint-list">你 应该 提前 给 你 的 客人 打 电话 ，</segment>
+		<segment id="61" parent="383" relname="joint-list">确定 他们 会 按时 到来 。</segment>
+		<segment id="62" parent="63" relname="elaboration-attribute">和 他们 通 电话 的</segment>
+		<segment id="63" parent="384" relname="span">时候 ，</segment>
+		<segment id="64" parent="385" relname="attribution-positive">询问</segment>
+		<segment id="65" parent="66" relname="attribution-positive">他们 是否 想</segment>
+		<segment id="66" parent="385" relname="span">为 感恩节 大 餐 准备 一 道 菜 ，</segment>
+		<segment id="67" parent="68" relname="contingency-condition">如果 他们 愿意 准备 ，</segment>
+		<segment id="68" parent="387" relname="span">你 将 会 轻松 许多 。</segment>
+		<segment id="69" parent="414" relname="organization-preparation">2 选择 你 的 食谱 。</segment>
+		<segment id="70" parent="394" relname="span">提前 了解 你 的 食谱 ，</segment>
+		<segment id="71" parent="337" relname="same-unit">这样 做</segment>
+		<segment id="72" parent="73" relname="elaboration-attribute">你 在 采购 的</segment>
+		<segment id="73" parent="336" relname="span">时候</segment>
+		<segment id="74" parent="360" relname="span">才 不 会 遗忘 任何 一 道 菜 的 原材料 。</segment>
+		<segment id="75" parent="76" relname="elaboration-attribute">了解 制作 每 道 菜 所 需要 的</segment>
+		<segment id="76" parent="344" relname="span">时间 。</segment>
+		<segment id="77" parent="347" relname="same-unit">下面 是</segment>
+		<segment id="78" parent="79" relname="elaboration-attribute">选择 菜单 和 食谱 的</segment>
+		<segment id="79" parent="346" relname="span">一些 建议 ：</segment>
+		<segment id="80" parent="399" relname="span">火鸡 。</segment>
+		<segment id="81" parent="397" relname="joint-list">在 火鸡 里 填上 馅料 ，</segment>
+		<segment id="82" parent="397" relname="joint-list">烤 火鸡 ，</segment>
+		<segment id="83" parent="398" relname="span">制作 出 丰盛 的 火鸡 大餐 。</segment>
+		<segment id="84" parent="401" relname="span">蔬菜 。</segment>
+		<segment id="85" parent="86" relname="organization-preparation">传统 的 菜单 通常 包括 ：</segment>
+		<segment id="86" parent="400" relname="span">豆角 ， 烤 土豆 ， 甘薯 ， 南瓜 汤 ， 牛蒡 和 白萝卜 。</segment>
+		<segment id="87" parent="402" relname="span">装饰 食物 。</segment>
+		<segment id="88" parent="87" relname="elaboration-additional">小红莓 果酱 ， 蔓越橘 和 餐包 。</segment>
+		<segment id="89" parent="406" relname="span">烘焙 食品 。</segment>
+		<segment id="90" parent="404" relname="same-unit">烤 南瓜派 ， 南瓜卷 ，</segment>
+		<segment id="91" parent="92" relname="elaboration-attribute">装饰 花果 的</segment>
+		<segment id="92" parent="403" relname="span">感恩节 席次牌 ， 感恩节 饼干 。</segment>
+		<segment id="93" parent="405" relname="joint-list">你 也 可以 用 南瓜 做成 其他 的 感恩节 甜点 。</segment>
+		<segment id="94" parent="407" relname="organization-preparation">为 素食者 准备 的 食谱 ：</segment>
+		<segment id="95" parent="96" relname="elaboration-attribute">各 种 蔬菜 和 豆腐 做 的</segment>
+		<segment id="96" parent="407" relname="span">素 火鸡 。</segment>
+		<segment id="97" parent="411" relname="span">准备 一些 零食 ， 比如 小菜 ， 糖果 和 三明治 。</segment>
+		<segment id="98" parent="339" relname="same-unit">如果</segment>
+		<segment id="99" parent="100" relname="elaboration-attribute">你 的 感恩节 晚餐 开始 的</segment>
+		<segment id="100" parent="338" relname="span">时间 比较 晚 ，</segment>
+		<segment id="101" parent="408" relname="span">这些 零食 会 让 你 和 你 的 客人 不 感到 饥饿 。</segment>
+		<segment id="102" parent="409" relname="span">你 甚至 可以 做出 一 个 糖果 火鸡 ，</segment>
+		<segment id="103" parent="102" relname="evaluation-comment">孩子们 一定 会 喜欢 它 的 ！</segment>
+		<segment id="104" parent="433" relname="organization-preparation">3 准备 食物 。</segment>
+		<segment id="105" parent="416" relname="adversative-contrast">有些 食物 可以 在 感恩节 前 一 天 准备 好 ， 比如 饼干 和 南瓜派 ，</segment>
+		<segment id="106" parent="416" relname="adversative-contrast">但 有些 食物 比如 火鸡 必须 在 感恩节 这 一 天 制作 。</segment>
+		<segment id="107" parent="417" relname="adversative-concession">无论 你 什么 时候 开始 准备 ，</segment>
+		<segment id="108" parent="109" relname="attribution-positive">都 不 要 害怕</segment>
+		<segment id="109" parent="417" relname="span">寻求 帮助 ，</segment>
+		<segment id="110" parent="419" relname="elaboration-attribute">来自 他人 的</segment>
+		<segment id="111" parent="419" relname="joint-list">帮助 会 使 你 的 准备 更加 充分 ，</segment>
+		<segment id="112" parent="419" relname="joint-list">也 会 让 你 的 节日 更加 快乐 。</segment>
+		<segment id="113" parent="351" relname="span">你 也 可以 简单 地 烤 两 只 小 火鸡</segment>
+		<segment id="114" parent="113" relname="purpose-goal">来 替代 制作 复杂 感恩节 火鸡 。</segment>
+		<segment id="115" parent="350" relname="same-unit">下面 是 一些</segment>
+		<segment id="116" parent="117" relname="context-circumstance">你 准备 节日 晚宴 时</segment>
+		<segment id="117" parent="348" relname="span">需要 做 的</segment>
+		<segment id="118" parent="349" relname="span">事 ：</segment>
+		<segment id="119" parent="341" relname="span">留出 足够 的 时间</segment>
+		<segment id="120" parent="119" relname="purpose-goal">让 火鸡 解冻 。</segment>
+		<segment id="121" parent="342" relname="span">解冻 的 时间</segment>
+		<segment id="122" parent="121" relname="mode-means">根据 火鸡 的 大小 和 重量</segment>
+		<segment id="123" parent="343" relname="same-unit">有所 变化 。</segment>
+		<segment id="124" parent="361" relname="span">提前 一 天 烘焙 南瓜派 或 其他 派 。</segment>
+		<segment id="125" parent="426" relname="span">这样 做 会 给 你 留出 足够 的 时间</segment>
+		<segment id="126" parent="125" relname="purpose-goal">来 制作 感恩节 的 主菜 。</segment>
+		<segment id="127" parent="428" relname="joint-list">烤 火鸡 ，</segment>
+		<segment id="128" parent="429" relname="span">并 在 感恩节 这 一 天 完成 所有 的 准备 工作 。</segment>
+		<segment id="129" parent="427" relname="joint-list">在 感恩节 的 前 一 天 把 火鸡 洗净</segment>
+		<segment id="130" parent="427" relname="joint-list">准备 好 。</segment>
+		<segment id="131" parent="431" relname="same-unit">让</segment>
+		<segment id="132" parent="133" relname="elaboration-attribute">提前 到 的</segment>
+		<segment id="133" parent="430" relname="span">家人 和 朋友 帮 你 准备 感恩节 大餐</segment>
+		<segment id="134" parent="431" relname="purpose-goal">来 减轻 工作量 。</segment>
+		<segment id="135" parent="136" relname="organization-preparation">方法 2</segment>
+		<segment id="136" parent="437" relname="span">度过 一 个 不可思议 的 感恩节</segment>
+		<segment id="137" parent="462" relname="organization-preparation">1 装点 节日 气氛 。</segment>
+		<segment id="138" parent="139" relname="contingency-condition">如果 你 有 分离式 的 餐桌 ，</segment>
+		<segment id="139" parent="440" relname="span">你 就 可以 在 感恩节 的 前 一 天 把 装饰物 放在 桌子 上 ，</segment>
+		<segment id="140" parent="438" relname="contingency-condition">如果 没有 ，</segment>
+		<segment id="141" parent="438" relname="joint-sequence">把 装饰物 提前 准备 出来 ，</segment>
+		<segment id="142" parent="438" relname="joint-sequence">在 第二 天 放在 桌子 上 。</segment>
+		<segment id="143" parent="444" relname="span">让 孩子们 帮 你 装饰 桌子 ，</segment>
+		<segment id="144" parent="443" relname="same-unit">让 他们 参与 到</segment>
+		<segment id="145" parent="146" relname="elaboration-attribute">准备 晚餐 的</segment>
+		<segment id="146" parent="442" relname="span">活动 中 来 。</segment>
+		<segment id="147" parent="446" relname="same-unit">下面 是 一些</segment>
+		<segment id="148" parent="149" relname="elaboration-attribute">让 你 的 桌子 富有 节日 气氛 的</segment>
+		<segment id="149" parent="445" relname="span">好 方法 ：</segment>
+		<segment id="150" parent="151" relname="purpose-goal">为了 创造 出 节日 气氛 ，</segment>
+		<segment id="151" parent="449" relname="span">你 可以 购买 或者 制作 一 个 感恩节 主题 的 中心 装饰品 。</segment>
+		<segment id="152" parent="450" relname="span">你 能 在 任何 一 家 手工店 找到 DIY 工具包</segment>
+		<segment id="153" parent="152" relname="purpose-goal">来 制作 中心 装饰物 。</segment>
+		<segment id="154" parent="155" relname="attribution-positive">孩子们 甚至 无事可做 客人们 都 会 乐于</segment>
+		<segment id="155" parent="451" relname="span">参加 到 装饰物 DIY 活动 中 来 。</segment>
+		<segment id="156" parent="454" relname="joint-list">香味 蜡烛 ， 花果 装饰 ， 一 把 秋天 的 花束 就 是 很 好 的 桌面 中心 装饰物 。</segment>
+		<segment id="157" parent="455" relname="joint-list">你 也 可以 制作 感恩节 的 标志 ，</segment>
+		<segment id="158" parent="455" relname="joint-list">或 把 座次表 做成 火鸡 的 形状 。</segment>
+		<segment id="159" parent="454" relname="joint-list">制作 火鸡 形状 的 餐巾架 。</segment>
+		<segment id="160" parent="456" relname="span">制作 感恩节 花束 。</segment>
+		<segment id="161" parent="160" relname="elaboration-additional">花束 可以 放在 桌子 上 或者 餐具柜 上 。</segment>
+		<segment id="162" parent="461" relname="span">为 你 的 客人 准备 足够 的 座椅 。</segment>
+		<segment id="163" parent="459" relname="contingency-condition">如果 你 的 座椅 不 够 多 ，</segment>
+		<segment id="164" parent="458" relname="same-unit">可以 分出 一 部分 客人</segment>
+		<segment id="165" parent="166" relname="mode-manner">垫 着 枕头</segment>
+		<segment id="166" parent="457" relname="span">坐在 地上 ，</segment>
+		<segment id="167" parent="459" relname="joint-list">在 咖啡桌 上 用餐 。</segment>
+		<segment id="168" parent="487" relname="organization-preparation">2 进行 一些 传统 的 感恩节 活动 。</segment>
+		<segment id="169" parent="170" relname="context-circumstance">你 可以 在 感恩节 晚餐 之前 ， 之中 或 之后</segment>
+		<segment id="170" parent="464" relname="span">进行 这些 活动 。</segment>
+		<segment id="171" parent="466" relname="same-unit">下面 是 一些</segment>
+		<segment id="172" parent="173" relname="elaboration-attribute">倍受 人们 喜爱 的</segment>
+		<segment id="173" parent="465" relname="span">活动 ：</segment>
+		<segment id="174" parent="478" relname="span">一起 看 电视 和 足球赛 。</segment>
+		<segment id="175" parent="469" relname="organization-preparation">对于 很多 足球迷 来说 ，</segment>
+		<segment id="176" parent="468" relname="span">在 感恩节 这 一 天 花上 几 个 小</segment>
+		<segment id="177" parent="176" relname="purpose-goal">来 看 球赛</segment>
+		<segment id="178" parent="469" relname="same-unit">是 一 大 享受 。</segment>
+		<segment id="179" parent="474" relname="same-unit">看 球赛 是</segment>
+		<segment id="180" parent="472" relname="same-unit">消磨</segment>
+		<segment id="181" parent="182" relname="elaboration-attribute">感恩节 晚餐 前 的</segment>
+		<segment id="182" parent="471" relname="span">时间 的</segment>
+		<segment id="183" parent="473" relname="span">好 方法 ，</segment>
+		<segment id="184" parent="475" relname="span">除此之外 ， 你 还 可以 组织 一 场 家人 或 朋友 邻居 之间 后院 球赛 ，</segment>
+		<segment id="185" parent="476" relname="joint-list">来 打发 时间</segment>
+		<segment id="186" parent="476" relname="joint-list">并 享受 运动 的 乐趣 。</segment>
+		<segment id="187" parent="480" relname="same-unit">和 孩子们 一起 看</segment>
+		<segment id="188" parent="189" relname="elaboration-attribute">电视 转播 的</segment>
+		<segment id="189" parent="479" relname="span">梅西 的 感恩节 游行 。</segment>
+		<segment id="190" parent="482" relname="joint-list">这 场 壮观 的 游行 在 纽约 举行 ，</segment>
+		<segment id="191" parent="481" relname="span">受众 广泛 ，</segment>
+		<segment id="192" parent="191" relname="explanation-evidence">每 年 都 有 数百万 的 家庭 收看 转播 。</segment>
+		<segment id="193" parent="194" relname="contingency-condition">如果 时间 允许 ，</segment>
+		<segment id="194" parent="483" relname="span">你 可以 参加 本地 的 感恩节 游行 。</segment>
+		<segment id="195" parent="489" relname="joint-list">3 花 一些 时间</segment>
+		<segment id="196" parent="489" relname="joint-list">思考 感恩节 的 意义 。</segment>
+		<segment id="197" parent="491" relname="same-unit">感恩节 是</segment>
+		<segment id="198" parent="199" relname="context-circumstance">许多 家庭 分开 数 年 后</segment>
+		<segment id="199" parent="490" relname="span">重聚 的 好 时机 ，</segment>
+		<segment id="200" parent="493" relname="span">也 是 反映 你 对 他人 的 爱 的 好 机会 ，</segment>
+		<segment id="201" parent="200" relname="causal-cause">你 可以 在 这 一 天 分享 你 的 感激 之 情 。</segment>
+		<segment id="202" parent="203" relname="mode-means">按照 你 个人 的 家庭 风格</segment>
+		<segment id="203" parent="494" relname="span">来 表达 你 的 感激 ，</segment>
+		<segment id="204" parent="495" relname="joint-disjunction">或者 你 可以 使用 下面 的 建议 ：</segment>
+		<segment id="205" parent="526" relname="span">玩 一 个 家庭 字母 游戏 。</segment>
+		<segment id="206" parent="497" relname="joint-list">让 所有 人 坐在 一起 ，</segment>
+		<segment id="207" parent="497" relname="joint-list">保证 所有 人 能 听到 所有 人 。</segment>
+		<segment id="208" parent="209" relname="mode-means">按照 字母表 的 顺序 ，</segment>
+		<segment id="209" parent="501" relname="span">每 个 人 轮流</segment>
+		<segment id="210" parent="499" relname="same-unit">说出</segment>
+		<segment id="211" parent="212" relname="elaboration-attribute">他 或 她 所 感激 的</segment>
+		<segment id="212" parent="498" relname="span">事物 。</segment>
+		<segment id="213" parent="503" relname="same-unit">比如 ，</segment>
+		<segment id="214" parent="215" relname="elaboration-attribute">第一 个 人 轮到 的</segment>
+		<segment id="215" parent="502" relname="span">字母 是 “ A ” ，</segment>
+		<segment id="216" parent="217" relname="attribution-positive">他 可以 说</segment>
+		<segment id="217" parent="504" relname="span">感谢 我 的 罗娜 阿姨 ，</segment>
+		<segment id="218" parent="219" relname="elaboration-attribute">第二 个人 轮到 的</segment>
+		<segment id="219" parent="506" relname="span">字母 是 “ B ” ，</segment>
+		<segment id="220" parent="221" relname="attribution-positive">他 可以 说</segment>
+		<segment id="221" parent="507" relname="span">感谢 我 的 兄弟们 ，</segment>
+		<segment id="222" parent="509" relname="contingency-condition">第三 个人 轮到 的 是 “ C ” ，</segment>
+		<segment id="223" parent="224" relname="attribution-positive">他 可以 说</segment>
+		<segment id="224" parent="509" relname="span">感谢 我 细心 周到 的 妈妈 。</segment>
+		<segment id="225" parent="512" relname="span">一直 轮 下去 ，</segment>
+		<segment id="226" parent="225" relname="adversative-concession">直 到 二十六 个 字母 都 说完 。</segment>
+		<segment id="227" parent="228" relname="elaboration-attribute">做 游戏 的</segment>
+		<segment id="228" parent="513" relname="span">过程 还 可以 录 下来 ，</segment>
+		<segment id="229" parent="515" relname="same-unit">作为</segment>
+		<segment id="230" parent="231" relname="context-circumstance">未来 回忆 时</segment>
+		<segment id="231" parent="517" relname="span">的</segment>
+		<segment id="232" parent="514" relname="span">温馨 一 幕 。</segment>
+		<segment id="233" parent="521" relname="joint-list">你 可以 创造 一 个 感恩节 新 传统 。</segment>
+		<segment id="234" parent="519" relname="same-unit">这 一 天 是</segment>
+		<segment id="235" parent="236" relname="elaboration-attribute">学会 感恩 的</segment>
+		<segment id="236" parent="518" relname="span">好 时机 ，</segment>
+		<segment id="237" parent="520" relname="joint-list">表达 你 对 每 一 件 美好 事物 或 每 一 个 人 的 感激 之 情 。</segment>
+		<segment id="238" parent="534" relname="organization-preparation">4 在 感恩节 帮助 穷人 。</segment>
+		<segment id="239" parent="240" relname="context-circumstance">在 感恩节 时</segment>
+		<segment id="240" parent="529" relname="span">做 义工 ，</segment>
+		<segment id="241" parent="532" relname="joint-list">在 流浪者 庇护所 提供 食物 ，</segment>
+		<segment id="242" parent="531" relname="same-unit">捐出 多余 的 罐头 和</segment>
+		<segment id="243" parent="244" relname="elaboration-attribute">包装 好 的</segment>
+		<segment id="244" parent="530" relname="span">食物 ，</segment>
+		<segment id="245" parent="532" relname="joint-list">捐献 食物 和 衣服 ，</segment>
+		<segment id="246" parent="532" relname="joint-list">举行 捐款 活动 。</segment>
+		<segment id="247" parent="533" relname="evaluation-comment">这些 活动 可以 教育 你 的 孩子们 有 感恩 之 心 。</segment>
+		<segment id="248" parent="572" relname="organization-preparation">5 计划 晚餐 后 的 活动 。</segment>
+		<segment id="249" parent="250" relname="context-circumstance">吃完 晚饭 后</segment>
+		<segment id="250" parent="536" relname="span">所有 人 多少 有点 昏昏 欲睡 ，</segment>
+		<segment id="251" parent="537" relname="span">这 时候 可以 进行 一些 放松 的 娱乐 项目 ，</segment>
+		<segment id="252" parent="538" relname="span">下面 是 一些 建议 ：</segment>
+		<segment id="253" parent="540" relname="joint-list">全家 人 一起 散步 。</segment>
+		<segment id="254" parent="539" relname="span">不 要 忘记 你 平常 的 遛狗 活动 ，</segment>
+		<segment id="255" parent="254" relname="context-circumstance">尤其是 在 狗狗 吃 了 感恩节 饼干 之后 。</segment>
+		<segment id="256" parent="542" relname="span">娱乐 活动 。</segment>
+		<segment id="257" parent="541" relname="joint-list">玩 字谜 游戏 ，</segment>
+		<segment id="258" parent="541" relname="joint-list">讲 故事 ，</segment>
+		<segment id="259" parent="541" relname="joint-list">分享 照片 ，</segment>
+		<segment id="260" parent="541" relname="joint-list">聊 新闻 等等 。</segment>
+		<segment id="261" parent="549" relname="span">阅读 。</segment>
+		<segment id="262" parent="545" relname="same-unit">你 平时 总 有 一些</segment>
+		<segment id="263" parent="543" relname="adversative-contrast">收集 起来</segment>
+		<segment id="264" parent="543" relname="adversative-contrast">却 没 时间 看 得</segment>
+		<segment id="265" parent="544" relname="span">书 ，</segment>
+		<segment id="266" parent="547" relname="same-unit">现在 就 是</segment>
+		<segment id="267" parent="268" relname="elaboration-attribute">开始 阅读 它们 的</segment>
+		<segment id="268" parent="546" relname="span">好 时候 。</segment>
+		<segment id="269" parent="556" relname="span">看 电影 。</segment>
+		<segment id="270" parent="551" relname="mode-means">浏览 电视 节目表</segment>
+		<segment id="271" parent="551" relname="same-unit">来 寻找</segment>
+		<segment id="272" parent="273" relname="elaboration-attribute">适合 观看 的</segment>
+		<segment id="273" parent="550" relname="span">电影 ，</segment>
+		<segment id="274" parent="553" relname="same-unit">或者 欣赏</segment>
+		<segment id="275" parent="276" relname="elaboration-attribute">你 最 喜欢 的</segment>
+		<segment id="276" parent="552" relname="span">碟片 。</segment>
+		<segment id="277" parent="558" relname="span">玩 棋盘 游戏 。</segment>
+		<segment id="278" parent="279" relname="contingency-condition">如果 孩子们 的 兴致 很 高 ，</segment>
+		<segment id="279" parent="557" relname="span">你 可以 组织 他们 进行 棋盘 游戏 。</segment>
+		<segment id="280" parent="574" relname="same-unit">6</segment>
+		<segment id="281" parent="282" relname="contingency-condition">如果 你 觉得 很 困 ，</segment>
+		<segment id="282" parent="559" relname="span">在 饭后 打 一 个 小盹 。</segment>
+		<segment id="283" parent="563" relname="same-unit">如果</segment>
+		<segment id="284" parent="285" relname="attribution-positive">你 计划</segment>
+		<segment id="285" parent="564" relname="span">参加 下 一 天 的 黑色 星期五 采购 ，</segment>
+		<segment id="286" parent="287" relname="attribution-positive">你 会 觉得</segment>
+		<segment id="287" parent="560" relname="span">这 几 个 小时 的 睡眠 非常 值 。</segment>
+		<segment id="288" parent="568" relname="same-unit">即使</segment>
+		<segment id="289" parent="290" relname="attribution-positive">你 打算</segment>
+		<segment id="290" parent="566" relname="span">明天 哪里 都 不 去 ，</segment>
+		<segment id="291" parent="569" relname="span">在 沙发 上 打 个 盹 也 没 什么 ，</segment>
+		<segment id="292" parent="364" relname="joint-list">这样 做 会 让 你 精力 充沛</segment>
+		<segment id="293" parent="364" relname="joint-list">感觉 更 好 。</segment>
+		<segment id="294" parent="367" relname="same-unit">7 在 下 一 天 充分 利用</segment>
+		<segment id="295" parent="296" relname="elaboration-attribute">感恩节 剩 下来 的</segment>
+		<segment id="296" parent="366" relname="span">食物 。</segment>
+		<segment id="297" parent="368" relname="joint-list">你 的 客人 可以 带走 一 部分 食物 ，</segment>
+		<segment id="298" parent="368" relname="joint-list">但 剩下 的 食物 仍旧 数量 可观 。</segment>
+		<segment id="299" parent="300" relname="context-circumstance">第二 天 ， 你 充分 休息 之后 ，</segment>
+		<segment id="300" parent="576" relname="span">就 该 着手 利用 剩下 的 食物 了 ，</segment>
+		<segment id="301" parent="578" relname="span">下面 是 一些 制作 建议 ：</segment>
+		<segment id="302" parent="579" relname="joint-list">火鸡 和 杂烩</segment>
+		<segment id="303" parent="579" relname="joint-list">火鸡汤</segment>
+		<segment id="304" parent="579" relname="joint-list">火鸡 三明治</segment>
+		<segment id="305" parent="306" relname="elaboration-attribute">裹有 加雪莉酒 的</segment>
+		<segment id="306" parent="580" relname="span">面包屑 的 火鸡</segment>
+		<segment id="307" parent="579" relname="joint-list">碎 火鸡肉</segment>
+		<segment id="308" parent="579" relname="joint-list">在 接下来 的 几 天 处理 火鸡 残余物</segment>
+		<group id="309" type="multinuc" parent="369" relname="context-background"/>
+		<group id="310" type="span" parent="312" relname="span"/>
+		<group id="311" type="multinuc" parent="310" relname="span"/>
+		<group id="312" type="span" parent="369" relname="span"/>
+		<group id="313" type="multinuc" parent="312" relname="evaluation-comment"/>
+		<group id="314" type="span" parent="315" relname="same-unit"/>
+		<group id="315" type="multinuc" parent="317" relname="span"/>
+		<group id="316" type="span" parent="435" relname="organization-heading"/>
+		<group id="317" type="span" parent="19" relname="contingency-condition"/>
+		<group id="318" type="span" parent="313" relname="joint-list"/>
+		<group id="319" type="span" parent="371" relname="span"/>
+		<group id="320" type="multinuc" parent="372" relname="span"/>
+		<group id="321" type="span" parent="320" relname="same-unit"/>
+		<group id="322" type="span" parent="323" relname="same-unit"/>
+		<group id="323" type="multinuc" parent="374" relname="span"/>
+		<group id="324" type="multinuc" parent="323" relname="elaboration-additional"/>
+		<group id="325" type="span" parent="326" relname="same-unit"/>
+		<group id="326" type="multinuc" parent="32" relname="purpose-goal"/>
+		<group id="327" type="span" parent="328" relname="same-unit"/>
+		<group id="328" type="multinuc" parent="324" relname="joint-sequence"/>
+		<group id="329" type="span" parent="330" relname="same-unit"/>
+		<group id="330" type="multinuc" parent="375" relname="span"/>
+		<group id="331" type="multinuc" parent="382" relname="span"/>
+		<group id="332" type="span" parent="331" relname="same-unit"/>
+		<group id="333" type="span" parent="334" relname="same-unit"/>
+		<group id="334" type="multinuc" parent="358" relname="span"/>
+		<group id="335" type="span" parent="334" relname="contingency-condition"/>
+		<group id="336" type="span" parent="74" relname="context-circumstance"/>
+		<group id="337" type="multinuc" parent="70" relname="explanation-motivation"/>
+		<group id="338" type="span" parent="339" relname="same-unit"/>
+		<group id="339" type="multinuc" parent="101" relname="contingency-condition"/>
+		<group id="340" type="span" parent="418" relname="causal-cause"/>
+		<group id="341" type="span" parent="424" relname="span"/>
+		<group id="342" type="span" parent="343" relname="same-unit"/>
+		<group id="343" type="multinuc" parent="341" relname="elaboration-additional"/>
+		<group id="344" type="span" parent="395" relname="joint-list"/>
+		<group id="346" type="span" parent="347" relname="same-unit"/>
+		<group id="347" type="multinuc" parent="396" relname="span"/>
+		<group id="348" type="span" parent="118" relname="elaboration-attribute"/>
+		<group id="349" type="span" parent="350" relname="same-unit"/>
+		<group id="350" type="multinuc" parent="423" relname="span"/>
+		<group id="351" type="span" parent="421" relname="adversative-concession"/>
+		<group id="352" type="span" parent="353" relname="same-unit"/>
+		<group id="353" type="multinuc" parent="320" relname="context-background"/>
+		<group id="356" type="span" parent="377" relname="span"/>
+		<group id="357" type="span" parent="356" relname="causal-cause"/>
+		<group id="358" type="span" parent="378" relname="span"/>
+		<group id="359" type="span" parent="358" relname="explanation-justify"/>
+		<group id="360" type="span" parent="337" relname="same-unit"/>
+		<group id="361" type="span" parent="425" relname="joint-list"/>
+		<group id="364" type="multinuc" parent="569" relname="explanation-motivation"/>
+		<group id="366" type="span" parent="367" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="581" relname="adversative-antithesis"/>
+		<group id="368" type="multinuc" parent="576" relname="context-background"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" parent="319" relname="explanation-motivation"/>
+		<group id="371" type="span" parent="587" relname="context-background"/>
+		<group id="372" type="span" parent="391" relname="organization-preparation"/>
+		<group id="373" type="span" parent="324" relname="joint-sequence"/>
+		<group id="374" type="span" parent="376" relname="joint-sequence"/>
+		<group id="375" type="span" parent="376" relname="joint-sequence"/>
+		<group id="376" type="multinuc" parent="391" relname="joint-list"/>
+		<group id="377" type="span" parent="381" relname="joint-other"/>
+		<group id="378" type="span" parent="381" relname="joint-other"/>
+		<group id="379" type="span" parent="57" relname="adversative-concession"/>
+		<group id="380" type="span" parent="381" relname="joint-other"/>
+		<group id="381" type="multinuc" parent="331" relname="explanation-evidence"/>
+		<group id="382" type="span" parent="391" relname="joint-list"/>
+		<group id="383" type="multinuc" parent="390" relname="span"/>
+		<group id="384" type="span" parent="386" relname="context-circumstance"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" parent="388" relname="span"/>
+		<group id="387" type="span" parent="388" relname="causal-cause"/>
+		<group id="388" type="span" parent="389" relname="span"/>
+		<group id="389" type="span" parent="383" relname="elaboration-additional"/>
+		<group id="390" type="span" parent="391" relname="joint-list"/>
+		<group id="391" type="multinuc" parent="392" relname="span"/>
+		<group id="392" type="span" parent="393" relname="span"/>
+		<group id="393" type="span" parent="435" relname="joint-list"/>
+		<group id="394" type="span" parent="395" relname="joint-list"/>
+		<group id="395" type="multinuc" parent="347" relname="context-background"/>
+		<group id="396" type="span" parent="413" relname="organization-preparation"/>
+		<group id="397" type="multinuc" parent="83" relname="purpose-goal"/>
+		<group id="398" type="span" parent="80" relname="elaboration-additional"/>
+		<group id="399" type="span" parent="413" relname="joint-list"/>
+		<group id="400" type="span" parent="84" relname="elaboration-additional"/>
+		<group id="401" type="span" parent="413" relname="joint-list"/>
+		<group id="402" type="span" parent="413" relname="joint-list"/>
+		<group id="403" type="span" parent="404" relname="same-unit"/>
+		<group id="404" type="multinuc" parent="405" relname="joint-list"/>
+		<group id="405" type="multinuc" parent="89" relname="elaboration-additional"/>
+		<group id="406" type="span" parent="413" relname="joint-list"/>
+		<group id="407" type="span" parent="412" relname="span"/>
+		<group id="408" type="span" parent="410" relname="joint-list"/>
+		<group id="409" type="span" parent="410" relname="joint-list"/>
+		<group id="410" type="multinuc" parent="97" relname="elaboration-additional"/>
+		<group id="411" type="span" parent="413" relname="joint-list"/>
+		<group id="412" type="span" parent="413" relname="joint-list"/>
+		<group id="413" type="multinuc" parent="414" relname="span"/>
+		<group id="414" type="span" parent="415" relname="span"/>
+		<group id="415" type="span" parent="435" relname="joint-list"/>
+		<group id="416" type="multinuc" parent="420" relname="context-background"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="420" relname="span"/>
+		<group id="419" type="multinuc" parent="340" relname="span"/>
+		<group id="420" type="span" parent="421" relname="span"/>
+		<group id="421" type="span" parent="422" relname="span"/>
+		<group id="422" type="span" parent="350" relname="context-background"/>
+		<group id="423" type="span" parent="425" relname="organization-preparation"/>
+		<group id="424" type="span" parent="425" relname="joint-list"/>
+		<group id="425" type="multinuc" parent="433" relname="span"/>
+		<group id="426" type="span" parent="124" relname="causal-cause"/>
+		<group id="427" type="multinuc" parent="128" relname="elaboration-additional"/>
+		<group id="428" type="multinuc" parent="425" relname="joint-list"/>
+		<group id="429" type="span" parent="428" relname="joint-list"/>
+		<group id="430" type="span" parent="431" relname="same-unit"/>
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="432" type="span" parent="425" relname="joint-list"/>
+		<group id="433" type="span" parent="434" relname="span"/>
+		<group id="434" type="span" parent="435" relname="joint-list"/>
+		<group id="435" type="multinuc" parent="436" relname="span"/>
+		<group id="436" type="span" parent="587" relname="joint-list"/>
+		<group id="437" type="span" parent="583" relname="organization-heading"/>
+		<group id="438" type="multinuc" parent="439" relname="span"/>
+		<group id="439" type="span" parent="441" relname="adversative-contrast"/>
+		<group id="440" type="span" parent="441" relname="adversative-contrast"/>
+		<group id="441" type="multinuc" parent="447" relname="joint-other"/>
+		<group id="442" type="span" parent="443" relname="same-unit"/>
+		<group id="443" type="multinuc" parent="143" relname="elaboration-additional"/>
+		<group id="444" type="span" parent="447" relname="joint-other"/>
+		<group id="445" type="span" parent="446" relname="same-unit"/>
+		<group id="446" type="multinuc" parent="448" relname="span"/>
+		<group id="447" type="multinuc" parent="446" relname="context-background"/>
+		<group id="448" type="span" parent="454" relname="organization-preparation"/>
+		<group id="449" type="span" parent="453" relname="span"/>
+		<group id="450" type="span" parent="452" relname="joint-other"/>
+		<group id="451" type="span" parent="452" relname="joint-other"/>
+		<group id="452" type="multinuc" parent="449" relname="elaboration-additional"/>
+		<group id="453" type="span" parent="454" relname="joint-list"/>
+		<group id="454" type="multinuc" parent="462" relname="span"/>
+		<group id="455" type="multinuc" parent="454" relname="joint-list"/>
+		<group id="456" type="span" parent="454" relname="joint-list"/>
+		<group id="457" type="span" parent="458" relname="same-unit"/>
+		<group id="458" type="multinuc" parent="459" relname="joint-list"/>
+		<group id="459" type="multinuc" parent="460" relname="span"/>
+		<group id="460" type="span" parent="162" relname="adversative-concession"/>
+		<group id="461" type="span" parent="454" relname="joint-list"/>
+		<group id="462" type="span" parent="463" relname="span"/>
+		<group id="463" type="span" parent="583" relname="joint-list"/>
+		<group id="464" type="span" parent="466" relname="context-background"/>
+		<group id="465" type="span" parent="466" relname="same-unit"/>
+		<group id="466" type="multinuc" parent="467" relname="span"/>
+		<group id="467" type="span" parent="486" relname="organization-preparation"/>
+		<group id="468" type="span" parent="469" relname="same-unit"/>
+		<group id="469" type="multinuc" parent="470" relname="span"/>
+		<group id="470" type="span" parent="477" relname="joint-other"/>
+		<group id="471" type="span" parent="472" relname="same-unit"/>
+		<group id="472" type="multinuc" parent="183" relname="elaboration-attribute"/>
+		<group id="473" type="span" parent="474" relname="same-unit"/>
+		<group id="474" type="multinuc" parent="477" relname="joint-other"/>
+		<group id="475" type="span" parent="477" relname="joint-other"/>
+		<group id="476" type="multinuc" parent="184" relname="purpose-goal"/>
+		<group id="477" type="multinuc" parent="174" relname="elaboration-additional"/>
+		<group id="478" type="span" parent="486" relname="joint-list"/>
+		<group id="479" type="span" parent="480" relname="same-unit"/>
+		<group id="480" type="multinuc" parent="484" relname="span"/>
+		<group id="481" type="span" parent="482" relname="joint-list"/>
+		<group id="482" type="multinuc" parent="480" relname="elaboration-additional"/>
+		<group id="483" type="span" parent="485" relname="joint-list"/>
+		<group id="484" type="span" parent="485" relname="joint-list"/>
+		<group id="485" type="multinuc" parent="486" relname="joint-list"/>
+		<group id="486" type="multinuc" parent="487" relname="span"/>
+		<group id="487" type="span" parent="488" relname="span"/>
+		<group id="488" type="span" parent="583" relname="joint-list"/>
+		<group id="489" type="multinuc" parent="527" relname="organization-preparation"/>
+		<group id="490" type="span" parent="491" relname="same-unit"/>
+		<group id="491" type="multinuc" parent="492" relname="joint-list"/>
+		<group id="492" type="multinuc" parent="495" relname="context-background"/>
+		<group id="493" type="span" parent="492" relname="joint-list"/>
+		<group id="494" type="span" parent="495" relname="joint-disjunction"/>
+		<group id="495" type="multinuc" parent="496" relname="span"/>
+		<group id="496" type="span" parent="521" relname="organization-preparation"/>
+		<group id="497" type="multinuc" parent="522" relname="joint-sequence"/>
+		<group id="498" type="span" parent="499" relname="same-unit"/>
+		<group id="499" type="multinuc" parent="500" relname="span"/>
+		<group id="500" type="span" parent="523" relname="span"/>
+		<group id="501" type="span" parent="499" relname="mode-manner"/>
+		<group id="502" type="span" parent="503" relname="same-unit"/>
+		<group id="503" type="multinuc" parent="504" relname="contingency-condition"/>
+		<group id="504" type="span" parent="505" relname="span"/>
+		<group id="505" type="span" parent="511" relname="joint-list"/>
+		<group id="506" type="span" parent="507" relname="contingency-condition"/>
+		<group id="507" type="span" parent="508" relname="span"/>
+		<group id="508" type="span" parent="511" relname="joint-list"/>
+		<group id="509" type="span" parent="510" relname="span"/>
+		<group id="510" type="span" parent="511" relname="joint-list"/>
+		<group id="511" type="multinuc" parent="500" relname="explanation-evidence"/>
+		<group id="512" type="span" parent="523" relname="elaboration-additional"/>
+		<group id="513" type="span" parent="516" relname="span"/>
+		<group id="514" type="span" parent="515" relname="same-unit"/>
+		<group id="515" type="multinuc" parent="513" relname="purpose-goal"/>
+		<group id="516" type="span" parent="525" relname="joint-other"/>
+		<group id="517" type="span" parent="232" relname="elaboration-attribute"/>
+		<group id="518" type="span" parent="519" relname="same-unit"/>
+		<group id="519" type="multinuc" parent="520" relname="joint-list"/>
+		<group id="520" type="multinuc" parent="521" relname="joint-list"/>
+		<group id="521" type="multinuc" parent="527" relname="span"/>
+		<group id="522" type="multinuc" parent="525" relname="joint-other"/>
+		<group id="523" type="span" parent="524" relname="span"/>
+		<group id="524" type="span" parent="522" relname="joint-sequence"/>
+		<group id="525" type="multinuc" parent="205" relname="elaboration-additional"/>
+		<group id="526" type="span" parent="521" relname="joint-list"/>
+		<group id="527" type="span" parent="528" relname="span"/>
+		<group id="528" type="span" parent="583" relname="joint-list"/>
+		<group id="529" type="span" parent="533" relname="span"/>
+		<group id="530" type="span" parent="531" relname="same-unit"/>
+		<group id="531" type="multinuc" parent="532" relname="joint-list"/>
+		<group id="532" type="multinuc" parent="529" relname="explanation-evidence"/>
+		<group id="533" type="span" parent="534" relname="span"/>
+		<group id="534" type="span" parent="535" relname="span"/>
+		<group id="535" type="span" parent="583" relname="joint-list"/>
+		<group id="536" type="span" parent="251" relname="context-circumstance"/>
+		<group id="537" type="span" parent="252" relname="context-background"/>
+		<group id="538" type="span" parent="571" relname="organization-preparation"/>
+		<group id="539" type="span" parent="540" relname="joint-list"/>
+		<group id="540" type="multinuc" parent="571" relname="joint-list"/>
+		<group id="541" type="multinuc" parent="256" relname="explanation-evidence"/>
+		<group id="542" type="span" parent="571" relname="joint-list"/>
+		<group id="543" type="multinuc" parent="265" relname="elaboration-attribute"/>
+		<group id="544" type="span" parent="545" relname="same-unit"/>
+		<group id="545" type="multinuc" parent="547" relname="context-background"/>
+		<group id="546" type="span" parent="547" relname="same-unit"/>
+		<group id="547" type="multinuc" parent="548" relname="span"/>
+		<group id="548" type="span" parent="261" relname="elaboration-additional"/>
+		<group id="549" type="span" parent="571" relname="joint-list"/>
+		<group id="550" type="span" parent="551" relname="same-unit"/>
+		<group id="551" type="multinuc" parent="555" relname="span"/>
+		<group id="552" type="span" parent="553" relname="same-unit"/>
+		<group id="553" type="multinuc" parent="554" relname="joint-disjunction"/>
+		<group id="554" type="multinuc" parent="269" relname="elaboration-additional"/>
+		<group id="555" type="span" parent="554" relname="joint-disjunction"/>
+		<group id="556" type="span" parent="571" relname="joint-list"/>
+		<group id="557" type="span" parent="277" relname="elaboration-additional"/>
+		<group id="558" type="span" parent="571" relname="joint-list"/>
+		<group id="559" type="span" parent="574" relname="same-unit"/>
+		<group id="560" type="span" parent="561" relname="span"/>
+		<group id="561" type="span" parent="562" relname="adversative-contrast"/>
+		<group id="562" type="multinuc" parent="584" relname="span"/>
+		<group id="563" type="multinuc" parent="560" relname="contingency-condition"/>
+		<group id="564" type="span" parent="563" relname="same-unit"/>
+		<group id="566" type="span" parent="568" relname="same-unit"/>
+		<group id="568" type="multinuc" parent="291" relname="contingency-condition"/>
+		<group id="569" type="span" parent="570" relname="span"/>
+		<group id="570" type="span" parent="562" relname="adversative-contrast"/>
+		<group id="571" type="multinuc" parent="572" relname="span"/>
+		<group id="572" type="span" parent="573" relname="span"/>
+		<group id="573" type="span" parent="583" relname="joint-list"/>
+		<group id="574" type="multinuc" parent="562" relname="organization-preparation"/>
+		<group id="576" type="span" parent="577" relname="span"/>
+		<group id="577" type="span" parent="301" relname="context-background"/>
+		<group id="578" type="span" parent="579" relname="organization-preparation"/>
+		<group id="579" type="multinuc" parent="581" relname="span"/>
+		<group id="580" type="span" parent="579" relname="joint-list"/>
+		<group id="581" type="span" parent="585" relname="span"/>
+		<group id="583" type="multinuc" parent="586" relname="span"/>
+		<group id="584" type="span" parent="583" relname="joint-list"/>
+		<group id="585" type="span" parent="583" relname="joint-list"/>
+		<group id="586" type="span" parent="587" relname="joint-list"/>
+		<group id="587" type="multinuc" parent="588" relname="span"/>
+		<group id="588" type="span" parent="589" relname="span"/>
+		<group id="589" type="span" />
+	</body>
+</rst>

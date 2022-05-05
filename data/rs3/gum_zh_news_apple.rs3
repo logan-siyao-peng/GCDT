@@ -1,0 +1,348 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="172" relname="span">2021年 Apple 秋季 新品 发布会 ：</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">iPhone 13 系列 等 新 产品 上市</segment>
+		<segment id="3" parent="306" relname="context-circumstance">【 2021年 9月 16日 讯 】</segment>
+		<segment id="4" parent="175" relname="joint-list">2021年 Apple 秋季 新品 发布会 于 美国 西岸 时间 9月 14日 上午 10点 ， 台北 时间 9月 15日 凌晨 1点 举办 。</segment>
+		<segment id="5" parent="174" relname="same-unit">采用</segment>
+		<segment id="6" parent="7" relname="elaboration-attribute">与 去年 相同 的</segment>
+		<segment id="7" parent="173" relname="span">线上 会议 形式 ，</segment>
+		<segment id="8" parent="175" relname="joint-list">正式 发表 新一代 iPhone 13 系列 、 iPad 9 、 iPad mini 6 、 及 Apple Watch Series 7 等 系列 新品 。</segment>
+		<segment id="9" parent="177" relname="same-unit">几 款 新品</segment>
+		<segment id="10" parent="11" relname="context-circumstance">相较 前代 产品</segment>
+		<segment id="11" parent="176" relname="span">均 有 不同 方面 的 提升 ，</segment>
+		<segment id="12" parent="179" relname="same-unit">下面 请 看</segment>
+		<segment id="13" parent="14" relname="elaboration-attribute">记者 总结 的</segment>
+		<segment id="14" parent="178" relname="span">产品 概况 汇总 。</segment>
+		<segment id="15" parent="229" relname="organization-heading">iPhone 13 系列</segment>
+		<segment id="16" parent="182" relname="joint-list">作为 Apple 公司 最新 的 旗舰 智能 手机 系列 ， iPhone 13 全 系列 取消 了 64 GB 内存 版本 ，</segment>
+		<segment id="17" parent="182" relname="joint-list">改以 128 GB 为 最低 内存 版本 。</segment>
+		<segment id="18" parent="19" relname="elaboration-attribute">搭载 5 nm 制程 的</segment>
+		<segment id="19" parent="183" relname="span">A15 仿生 芯片 ， 拥有 近 150亿 个 晶体管 。</segment>
+		<segment id="20" parent="185" relname="attribution-positive">根据 官方 资料 ，</segment>
+		<segment id="21" parent="22" relname="elaboration-attribute">具有 两 个 高性能 内核 和 四 个 高效 内核 的</segment>
+		<segment id="22" parent="184" relname="span">全新 6 核 CPU 比 竞争 对手 快 50% ，</segment>
+		<segment id="23" parent="185" relname="joint-list">而 新 的 4 核 GPU 比 竞争 对手 快 30% 。</segment>
+		<segment id="24" parent="187" relname="span">新 的 16 核 神经 引擎 每 秒 可 进行 15.8万亿 次 运算 ，</segment>
+		<segment id="25" parent="24" relname="causal-result">能 带来 更 快 的 机器 学习 计算 等 功能 。</segment>
+		<segment id="26" parent="190" relname="same-unit">iPhone 13 Pro 的 相机 被 认为 是</segment>
+		<segment id="27" parent="28" relname="elaboration-attribute">iPhone 历代 以来 最大 幅度 的</segment>
+		<segment id="28" parent="189" relname="span">升级 。</segment>
+		<segment id="29" parent="30" relname="adversative-concession">虽然 仍然 是 三 镜头 设计 ，</segment>
+		<segment id="30" parent="191" relname="span">但 每 颗 镜头 都 有 明显 的 进步 。</segment>
+		<segment id="31" parent="193" relname="organization-preparation">首先 介绍 广角 主 镜头 部分 ，</segment>
+		<segment id="32" parent="192" relname="joint-list">全幅 等效 焦距 同样 是 26 mm ，</segment>
+		<segment id="33" parent="192" relname="joint-list">像素 密度 1.9 微米 ，</segment>
+		<segment id="34" parent="194" relname="joint-list">但 光圈 拓展 到 了 史上 最 大 的 f/1.5 ，</segment>
+		<segment id="35" parent="194" relname="joint-list">同时 具备 感光 元件 位移 的 光学式 影像 稳定 功能 。</segment>
+		<segment id="36" parent="196" relname="joint-list">超广角镜 等效 焦距 则 为 13 mm ，</segment>
+		<segment id="37" parent="196" relname="joint-list">光 圈 更 大 达到 f/1.8 ，</segment>
+		<segment id="38" parent="197" relname="span">并 新增 微距 模式 ，</segment>
+		<segment id="39" parent="38" relname="elaboration-additional">最近 对焦 距离 仅 只有 2 cm 。</segment>
+		<segment id="40" parent="199" relname="joint-list">望远 镜头 则 改 为 稍 远 的 77 mm 望远 镜头 ，</segment>
+		<segment id="41" parent="199" relname="joint-list">并 具备 3 倍 光学 变焦 。</segment>
+		<segment id="42" parent="214" relname="span">iPhone 13 也 在 录影 功能 上 加入 了 “ 电影 效果 模式 ” ，</segment>
+		<segment id="43" parent="203" relname="attribution-positive">即是 说</segment>
+		<segment id="44" parent="203" relname="same-unit">手机</segment>
+		<segment id="45" parent="46" relname="context-circumstance">在 录影 时</segment>
+		<segment id="46" parent="202" relname="span">会 记录 更 多 画面 的 深度 资讯 。</segment>
+		<segment id="47" parent="206" relname="context-circumstance">当 画面 中 有 显眼 的 新 的 主体 进入 时 ，</segment>
+		<segment id="48" parent="205" relname="joint-list">手机 会 自动 辨识 ，</segment>
+		<segment id="49" parent="205" relname="joint-list">并 将 焦点 自然 的 转移 到 新 的 主体 上 ，</segment>
+		<segment id="50" parent="205" relname="causal-result">让 画面 变化 更 有 “ 电影感 ” 。</segment>
+		<segment id="51" parent="209" relname="same-unit">除此之外 ，</segment>
+		<segment id="52" parent="53" relname="elaboration-attribute">手机 厉害 之</segment>
+		<segment id="53" parent="208" relname="span">处 还 能</segment>
+		<segment id="54" parent="55" relname="context-circumstance">在 后制 时</segment>
+		<segment id="55" parent="210" relname="span">调整 录影 画面 的 焦点 ，</segment>
+		<segment id="56" parent="211" relname="same-unit">是</segment>
+		<segment id="57" parent="58" relname="elaboration-attribute">目前 市场 上 唯一 支援 拍摄 后 景深 编辑 的</segment>
+		<segment id="58" parent="212" relname="span">手机 。</segment>
+		<segment id="59" parent="219" relname="same-unit">而 两 款 入门版 iPhone 13 系列 手机 ， 分别 为</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">屏幕 5.4 吋 的</segment>
+		<segment id="61" parent="217" relname="span">iPhone 13 mini ， 以及</segment>
+		<segment id="62" parent="63" relname="elaboration-attribute">屏幕 6.1 吋 的</segment>
+		<segment id="63" parent="218" relname="span">iPhone 13 。</segment>
+		<segment id="64" parent="220" relname="joint-list">它们 搭载 A15 Bionic 处理器 ，</segment>
+		<segment id="65" parent="220" relname="joint-list">屏幕 同样 采用 OLED 面版 。</segment>
+		<segment id="66" parent="221" relname="organization-preparation">相较于 上 一 代</segment>
+		<segment id="67" parent="221" relname="joint-list">最大 改变 在于 Face ID 的 浏海 缩小 了 20% 、</segment>
+		<segment id="68" parent="221" relname="joint-list">听筒 位置 也 移到 上方 边缘 ，</segment>
+		<segment id="69" parent="221" relname="joint-list">双镜头组 则 经过 重新 设计 。</segment>
+		<segment id="70" parent="71" relname="elaboration-attribute">去年 iPhone 12 Pro 中 所 搭载 的</segment>
+		<segment id="71" parent="222" relname="span">感光 元件 位移式 稳定 功能 ， 这 次 也 下放 给 iPhone 13 与 iPhone 13 mini ，</segment>
+		<segment id="72" parent="224" relname="same-unit">让</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">手 不 稳 的</segment>
+		<segment id="74" parent="223" relname="span">使用者 也 能 拍出 平稳 画面 。</segment>
+		<segment id="75" parent="243" relname="organization-heading">第九 代 iPad</segment>
+		<segment id="76" parent="231" relname="organization-preparation">Apple 更新 了 入门 等级 的 第九 代 iPad ，</segment>
+		<segment id="77" parent="231" relname="joint-list">搭载 10.2 吋 屏幕</segment>
+		<segment id="78" parent="231" relname="joint-list">且 支援 TureTone 原彩 显示 技术 ，</segment>
+		<segment id="79" parent="231" relname="joint-list">内建 全新 A13 仿生 芯片 ，</segment>
+		<segment id="80" parent="232" relname="span">同时 结合 周边 配件</segment>
+		<segment id="81" parent="80" relname="causal-result">也 可 带给 使用者们 更 好 的 使用 体验 。</segment>
+		<segment id="82" parent="83" relname="elaboration-attribute">采用 了 A13 仿生 芯片 的</segment>
+		<segment id="83" parent="234" relname="span">iPad 9 ，</segment>
+		<segment id="84" parent="85" relname="context-circumstance">相较于 前 一 代 ， A13 仿生 芯片</segment>
+		<segment id="85" parent="235" relname="span">效能 提升 了 20% ，</segment>
+		<segment id="86" parent="237" relname="joint-list">绘图 引擎 和 神经 网络 引擎 也 同步 效能 提升 了 20% 之多 。</segment>
+		<segment id="87" parent="242" relname="joint-list">搭载 800万 画素 主镜头 和 1200万 画素 前置 镜头 ，</segment>
+		<segment id="88" parent="241" relname="span">前 镜头 更 支援 Center Stage ，</segment>
+		<segment id="89" parent="90" relname="context-circumstance">当 视讯 时</segment>
+		<segment id="90" parent="238" relname="span">会 自动 追踪 影像 中 的 人物 ，</segment>
+		<segment id="91" parent="92" relname="adversative-concession">不论 怎么 移动</segment>
+		<segment id="92" parent="239" relname="span">都 会 影像 中 的 人 都 会 居中 。</segment>
+		<segment id="93" parent="257" relname="organization-heading">第六 代 iPad mini</segment>
+		<segment id="94" parent="95" relname="context-background">除 新 发布 的 iPad 9 之外 ，</segment>
+		<segment id="95" parent="245" relname="span">Apple 也 更新 了 iPad mini 产品 系列 。</segment>
+		<segment id="96" parent="249" relname="joint-list">iPad mini 6 采用 了 全新 设计 ，</segment>
+		<segment id="97" parent="247" relname="same-unit">搭载 了</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">与 iPhone 13 系列 相同 的</segment>
+		<segment id="99" parent="246" relname="span">A15 芯片 ，</segment>
+		<segment id="100" parent="247" relname="causal-result">性能 更加 强劲 ，</segment>
+		<segment id="101" parent="249" relname="joint-list">并 有 粉红色 、 星光色 、 紫色 ， 以及 太空 灰色 ， 共 四 种 颜色 可 供 选择 ， ，</segment>
+		<segment id="102" parent="249" relname="joint-list">机身 采用 直角 的 边缘 设计 加 圆润 的 边角 ，</segment>
+		<segment id="103" parent="251" relname="organization-phatic">可以 说</segment>
+		<segment id="104" parent="251" relname="same-unit">是</segment>
+		<segment id="105" parent="106" relname="elaboration-attribute">近来 改变 最 大 的</segment>
+		<segment id="106" parent="250" relname="span">iPad mini 系列 产品 。</segment>
+		<segment id="107" parent="254" relname="joint-list">屏幕 为 Liquid Retina 显示器 ，</segment>
+		<segment id="108" parent="254" relname="joint-list">亮度 为 500 尼特 ，</segment>
+		<segment id="109" parent="254" relname="joint-list">并 具备 P3 广色域 、 原彩 显示 技术 ，</segment>
+		<segment id="110" parent="254" relname="joint-list">并 为 全 平面 贴合 设计 。</segment>
+		<segment id="111" parent="255" relname="joint-list">音效 部分 搭载 立体声 模式 的 全新 扬声器 系统 ，</segment>
+		<segment id="112" parent="255" relname="joint-list">提供 了 更 棒 的 音质 表现 。</segment>
+		<segment id="113" parent="266" relname="organization-heading">Apple Watch Series 7</segment>
+		<segment id="114" parent="260" relname="same-unit">最新款 Apple Watch Series 7 并 不</segment>
+		<segment id="115" parent="116" relname="elaboration-attribute">如 之前 Rumors 所 透露 的</segment>
+		<segment id="116" parent="259" relname="span">具备 方正 设计 ，</segment>
+		<segment id="117" parent="261" relname="joint-list">而 是 仍然 维持 传统 造型 ，</segment>
+		<segment id="118" parent="261" relname="joint-list">且 外型 显得 更加 圆润 了 一些 ，</segment>
+		<segment id="119" parent="263" relname="joint-list">并 强化 耐用性 ，</segment>
+		<segment id="120" parent="263" relname="joint-list">具备 IP6X 防尘 ，</segment>
+		<segment id="121" parent="263" relname="joint-list">采用 新 的 水晶 玻璃 ，</segment>
+		<segment id="122" parent="265" relname="span">此外 ， 它 也 拥有 更 快 的 充电 速度 ，</segment>
+		<segment id="123" parent="264" relname="adversative-contrast">相较 上 一 代 提升 了 33% ，</segment>
+		<segment id="124" parent="264" relname="adversative-contrast">但 续航力 依旧 维持 18 小时 。</segment>
+		<segment id="125" parent="272" relname="span">另 一 项 实用性 方面 的 更新 在于 与 Apple Fitness+ 的 协同 运作 ，</segment>
+		<segment id="126" parent="267" relname="joint-list">当 使用者 戴上 Apple Watch Series 7</segment>
+		<segment id="127" parent="267" relname="joint-list">运动 时 ，</segment>
+		<segment id="128" parent="268" relname="joint-list">可以 将 运动 数据 输出 至 iPhone 上 ，</segment>
+		<segment id="129" parent="268" relname="joint-list">并 用 子母 画面 或是 辅助 数据 的 方式 观看 即时 的 运动 数值 ，</segment>
+		<segment id="130" parent="131" relname="organization-preparation">对于 室内 健身 的 朋友 来说</segment>
+		<segment id="131" parent="269" relname="span">也 更加 方便 。</segment>
+		<segment id="132" parent="303" relname="organization-heading">新品 价格 汇总</segment>
+		<segment id="133" parent="275" relname="same-unit">最后 是</segment>
+		<segment id="134" parent="135" relname="elaboration-attribute">有 记者 整理 的</segment>
+		<segment id="135" parent="274" relname="span">新品 价格 汇总 ：</segment>
+		<segment id="136" parent="278" relname="organization-heading">iPhone 13 Mini</segment>
+		<segment id="137" parent="277" relname="span">售价 从 699 美元</segment>
+		<segment id="138" parent="276" relname="joint-list">（ 约 19,362 新台币 ，</segment>
+		<segment id="139" parent="276" relname="joint-list">台湾 官网 售价 22,900 元 ）</segment>
+		<segment id="140" parent="278" relname="same-unit">起跳 。</segment>
+		<segment id="141" parent="282" relname="organization-heading">iPhone 13</segment>
+		<segment id="142" parent="281" relname="span">售价 从 799 美元</segment>
+		<segment id="143" parent="280" relname="joint-list">（ 约 22,132 新台币 ，</segment>
+		<segment id="144" parent="280" relname="joint-list">台湾 官网 售价 25,900 元 ）</segment>
+		<segment id="145" parent="282" relname="same-unit">起跳 。</segment>
+		<segment id="146" parent="286" relname="organization-heading">iPhone 13 Pro</segment>
+		<segment id="147" parent="285" relname="span">售价 从 999 美元</segment>
+		<segment id="148" parent="284" relname="joint-list">（ 约 27,672 新台币 ，</segment>
+		<segment id="149" parent="284" relname="joint-list">台湾 官网 售价 32,900 元 ）</segment>
+		<segment id="150" parent="286" relname="same-unit">起跳 。</segment>
+		<segment id="151" parent="290" relname="organization-heading">iPhone 13 Pro Max</segment>
+		<segment id="152" parent="289" relname="span">售价 从 1099 美元</segment>
+		<segment id="153" parent="288" relname="joint-list">（ 约 30,442 新台币 ，</segment>
+		<segment id="154" parent="288" relname="joint-list">台湾 官网 售价 36,900 元 ）</segment>
+		<segment id="155" parent="290" relname="same-unit">起跳 。</segment>
+		<segment id="156" parent="294" relname="organization-heading">iPad 9</segment>
+		<segment id="157" parent="292" relname="span">售价 329 美元</segment>
+		<segment id="158" parent="157" relname="elaboration-attribute">（ 约 9,113 新台币 ）</segment>
+		<segment id="159" parent="293" relname="same-unit">起跳 ，</segment>
+		<segment id="160" parent="294" relname="joint-list">台湾 官网 售价 iPad Wi-Fi 机型 售价 新台币 10500 元 起 ，</segment>
+		<segment id="161" parent="294" relname="joint-list">Wi-Fi + 移动 网络 机型 售价 新台币 14,500 元 起 。</segment>
+		<segment id="162" parent="298" relname="organization-heading">iPad mini 6</segment>
+		<segment id="163" parent="296" relname="span">售价 499 美元</segment>
+		<segment id="164" parent="163" relname="elaboration-attribute">（ 约 13,822 新台币 ）</segment>
+		<segment id="165" parent="297" relname="same-unit">起跳 ，</segment>
+		<segment id="166" parent="298" relname="joint-list">台湾 官网 售价 1万4900 元 起 ，</segment>
+		<segment id="167" parent="298" relname="joint-list">Wi-Fi + 移动 网络 机型 售价 1万9400 元 起 。</segment>
+		<segment id="168" parent="300" relname="organization-heading">Apple Watch Series 7</segment>
+		<segment id="169" parent="300" relname="joint-list">起跳价 S3 型 199 美元 、</segment>
+		<segment id="170" parent="300" relname="joint-list">SE 型 279 美元 、</segment>
+		<segment id="171" parent="300" relname="joint-list">S7 型 399 美元 。</segment>
+		<group id="172" type="span" parent="307" relname="organization-heading"/>
+		<group id="173" type="span" parent="174" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="175" relname="joint-list"/>
+		<group id="175" type="multinuc" parent="180" relname="context-background"/>
+		<group id="176" type="span" parent="177" relname="same-unit"/>
+		<group id="177" type="multinuc" parent="179" relname="explanation-motivation"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="179" type="multinuc" parent="180" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="305" relname="context-background"/>
+		<group id="182" type="multinuc" parent="188" relname="joint-list"/>
+		<group id="183" type="span" parent="188" relname="joint-list"/>
+		<group id="184" type="span" parent="185" relname="joint-list"/>
+		<group id="185" type="multinuc" parent="186" relname="span"/>
+		<group id="186" type="span" parent="188" relname="joint-list"/>
+		<group id="187" type="span" parent="188" relname="joint-list"/>
+		<group id="188" type="multinuc" parent="228" relname="joint-other"/>
+		<group id="189" type="span" parent="190" relname="same-unit"/>
+		<group id="190" type="multinuc" parent="201" relname="span"/>
+		<group id="191" type="span" parent="198" relname="organization-preparation"/>
+		<group id="192" type="multinuc" parent="194" relname="adversative-concession"/>
+		<group id="193" type="span" parent="195" relname="span"/>
+		<group id="194" type="multinuc" parent="193" relname="span"/>
+		<group id="195" type="span" parent="198" relname="joint-list"/>
+		<group id="196" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="197" type="span" parent="196" relname="joint-list"/>
+		<group id="198" type="multinuc" parent="200" relname="span"/>
+		<group id="199" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="200" type="span" parent="190" relname="elaboration-additional"/>
+		<group id="201" type="span" parent="228" relname="joint-other"/>
+		<group id="202" type="span" parent="203" relname="same-unit"/>
+		<group id="203" type="multinuc" parent="204" relname="span"/>
+		<group id="204" type="span" parent="42" relname="restatement-partial"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" parent="214" relname="elaboration-additional"/>
+		<group id="208" type="span" parent="209" relname="same-unit"/>
+		<group id="209" type="multinuc" parent="213" relname="span"/>
+		<group id="210" type="span" parent="209" relname="same-unit"/>
+		<group id="211" type="multinuc" parent="209" relname="evaluation-comment"/>
+		<group id="212" type="span" parent="211" relname="same-unit"/>
+		<group id="213" type="span" parent="216" relname="joint-list"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="216" relname="joint-list"/>
+		<group id="216" type="multinuc" parent="228" relname="joint-other"/>
+		<group id="217" type="span" parent="219" relname="same-unit"/>
+		<group id="218" type="span" parent="219" relname="same-unit"/>
+		<group id="219" type="multinuc" parent="227" relname="span"/>
+		<group id="220" type="multinuc" parent="219" relname="elaboration-additional"/>
+		<group id="221" type="multinuc" parent="226" relname="span"/>
+		<group id="222" type="span" parent="225" relname="span"/>
+		<group id="223" type="span" parent="224" relname="same-unit"/>
+		<group id="224" type="multinuc" parent="222" relname="purpose-goal"/>
+		<group id="225" type="span" parent="220" relname="joint-list"/>
+		<group id="226" type="span" parent="220" relname="joint-list"/>
+		<group id="227" type="span" parent="229" relname="joint-list"/>
+		<group id="228" type="multinuc" parent="229" relname="joint-list"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="305" relname="joint-other"/>
+		<group id="231" type="multinuc" parent="233" relname="span"/>
+		<group id="232" type="span" parent="231" relname="joint-list"/>
+		<group id="233" type="span" parent="243" relname="joint-other"/>
+		<group id="234" type="span" parent="236" relname="same-unit"/>
+		<group id="235" type="span" parent="236" relname="same-unit"/>
+		<group id="236" type="multinuc" parent="237" relname="joint-list"/>
+		<group id="237" type="multinuc" parent="243" relname="joint-other"/>
+		<group id="238" type="span" parent="240" relname="span"/>
+		<group id="239" type="span" parent="238" relname="causal-result"/>
+		<group id="240" type="span" parent="88" relname="elaboration-additional"/>
+		<group id="241" type="span" parent="242" relname="joint-list"/>
+		<group id="242" type="multinuc" parent="243" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="244" relname="span"/>
+		<group id="244" type="span" parent="305" relname="joint-other"/>
+		<group id="245" type="span" parent="256" relname="organization-preparation"/>
+		<group id="246" type="span" parent="247" relname="same-unit"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="249" relname="joint-list"/>
+		<group id="249" type="multinuc" parent="253" relname="span"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="249" relname="evaluation-comment"/>
+		<group id="253" type="span" parent="256" relname="joint-other"/>
+		<group id="254" type="multinuc" parent="256" relname="joint-other"/>
+		<group id="255" type="multinuc" parent="256" relname="joint-other"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="305" relname="joint-other"/>
+		<group id="259" type="span" parent="260" relname="same-unit"/>
+		<group id="260" type="multinuc" parent="261" relname="adversative-antithesis"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" parent="263" relname="joint-list"/>
+		<group id="263" type="multinuc" parent="266" relname="joint-other"/>
+		<group id="264" type="multinuc" parent="122" relname="explanation-evidence"/>
+		<group id="265" type="span" parent="266" relname="joint-other"/>
+		<group id="266" type="multinuc" parent="273" relname="span"/>
+		<group id="267" type="multinuc" parent="268" relname="context-circumstance"/>
+		<group id="268" type="multinuc" parent="270" relname="span"/>
+		<group id="269" type="span" parent="271" relname="joint-other"/>
+		<group id="270" type="span" parent="271" relname="joint-other"/>
+		<group id="271" type="multinuc" parent="125" relname="explanation-justify"/>
+		<group id="272" type="span" parent="266" relname="joint-other"/>
+		<group id="273" type="span" parent="305" relname="joint-other"/>
+		<group id="274" type="span" parent="275" relname="same-unit"/>
+		<group id="275" type="multinuc" parent="302" relname="organization-preparation"/>
+		<group id="276" type="multinuc" parent="137" relname="elaboration-attribute"/>
+		<group id="277" type="span" parent="278" relname="same-unit"/>
+		<group id="278" type="multinuc" parent="279" relname="span"/>
+		<group id="279" type="span" parent="302" relname="joint-list"/>
+		<group id="280" type="multinuc" parent="142" relname="elaboration-attribute"/>
+		<group id="281" type="span" parent="282" relname="same-unit"/>
+		<group id="282" type="multinuc" parent="283" relname="span"/>
+		<group id="283" type="span" parent="302" relname="joint-list"/>
+		<group id="284" type="multinuc" parent="147" relname="elaboration-attribute"/>
+		<group id="285" type="span" parent="286" relname="same-unit"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="302" relname="joint-list"/>
+		<group id="288" type="multinuc" parent="152" relname="elaboration-attribute"/>
+		<group id="289" type="span" parent="290" relname="same-unit"/>
+		<group id="290" type="multinuc" parent="291" relname="span"/>
+		<group id="291" type="span" parent="302" relname="joint-list"/>
+		<group id="292" type="span" parent="293" relname="same-unit"/>
+		<group id="293" type="multinuc" parent="294" relname="joint-list"/>
+		<group id="294" type="multinuc" parent="295" relname="span"/>
+		<group id="295" type="span" parent="302" relname="joint-list"/>
+		<group id="296" type="span" parent="297" relname="same-unit"/>
+		<group id="297" type="multinuc" parent="298" relname="joint-list"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="302" relname="joint-list"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="302" relname="joint-list"/>
+		<group id="302" type="multinuc" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="305" relname="joint-other"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" />
+	</body>
+</rst>

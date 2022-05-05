@@ -1,0 +1,435 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="404" relname="organization-heading">哲罗姆 // Jerome</segment>
+		<segment id="2" parent="217" relname="span">哲罗姆 ， // Jerome,</segment>
+		<segment id="3" parent="211" relname="joint-list">天主教 译 圣热罗尼莫 或 圣叶理诺 ， // Catholic translation of San Jeronimo or San Yelino,</segment>
+		<segment id="4" parent="211" relname="joint-list">也 译作 圣杰罗姆 // Also translated as St. Jerome</segment>
+		<segment id="5" parent="211" relname="elaboration-additional">（ 约 342年 － 420年 ； // (about 342 - 420;</segment>
+		<segment id="6" parent="7" relname="organization-preparation">英文 ： // English:</segment>
+		<segment id="7" parent="212" relname="span">Jerome // Jerome</segment>
+		<segment id="8" parent="213" relname="joint-list">（ 以前 叫 Saint Hierom ） ； // (formerly Saint Hierom);</segment>
+		<segment id="9" parent="10" relname="organization-preparation">拉丁文 ： // Latin :</segment>
+		<segment id="10" parent="214" relname="span">Eusebius Sophronius Hieronymus ； // Eusebius Sophronius Hieronymus;</segment>
+		<segment id="11" parent="12" relname="organization-preparation">希腊文 ： // Greek :</segment>
+		<segment id="12" parent="215" relname="span">Εὐσέβιος Σωφρόνιος Ἱερώνυμος ） ， // Εὐσέβιος Σωφρόνιος Ἱερώνυμος ),</segment>
+		<segment id="13" parent="218" relname="same-unit">是 古代 西方 教会 领导 群伦 的 圣经 学者 ， // A biblical scholar who led the group in the ancient Western church ,</segment>
+		<segment id="14" parent="219" relname="joint-list">他 完成 了 圣经 拉丁文 译本 《 武加大 译本 》 。 // He completed the Latin translation of the Bible, the Vulgate.</segment>
+		<segment id="15" parent="220" relname="joint-list">哲罗姆 很 早 就 显露 出 对 藏书 的 热情 ， // Jerome showed a passion for collecting books early on.</segment>
+		<segment id="16" parent="220" relname="joint-list">并 建立 了 古典 晚期 最 卓著 的 私人 图书馆 // And established the most outstanding private library of the late classical period</segment>
+		<segment id="17" parent="221" relname="joint-sequence">（ 由 学生 时代 的 异教 文学 经典 开始 ， // (beginning with pagan literary classics of the student days,</segment>
+		<segment id="18" parent="221" relname="joint-sequence">逐渐 包含 大量 的 基督教 圣经 与 神学 作品 ） ； // gradually included a large number of Christian biblical and theological works);</segment>
+		<segment id="19" parent="224" relname="joint-sequence">他 在 罗马 接受 教育 ， // He was educated in Rome,</segment>
+		<segment id="20" parent="223" relname="span">去 莱茵河 边 // to the Rhine</segment>
+		<segment id="21" parent="20" relname="purpose-goal">寻求 仕途 ， // seek a career,</segment>
+		<segment id="22" parent="226" relname="same-unit">并 // and</segment>
+		<segment id="23" parent="24" relname="context-circumstance">在 皈依 苦修 理念 后 // After taking refuge in the concept of penance</segment>
+		<segment id="24" parent="225" relname="span">前往 叙利亚 的 荒漠 地区 苦行 ， // to go to the desert areas of Syria to do asceticism,</segment>
+		<segment id="25" parent="227" relname="span">晚年 时 // old age</segment>
+		<segment id="26" parent="25" relname="elaboration-additional">（ 386年 － 420年 ） // (386-420)</segment>
+		<segment id="27" parent="228" relname="span">定居于 耶稣 的 出生地 伯利恒 ， // Settled in Bethlehem, the birthplace of Jesus,</segment>
+		<segment id="28" parent="229" relname="joint-list">过 苦修 隐居 的 生活 。 // Live a life of ascetic seclusion .</segment>
+		<segment id="29" parent="230" relname="joint-sequence">在 早期 的 拉丁 教会 他 被 尊 为 四 位 西方 教会 圣师 之一 ， // In the early Latin Church he was revered as one of the four Western Church teachers,</segment>
+		<segment id="30" parent="230" relname="joint-sequence">这 个 约定俗成 的 称号 后来 被 教宗 鲍尼法 八世 列 为 正式 头衔 。 // This customary title was later made official by Pope Boniface VIII .</segment>
+		<segment id="31" parent="304" relname="organization-heading">生平 // life</segment>
+		<segment id="32" parent="236" relname="joint-list">哲罗姆 是 最 有 教养 ， 最 有 学问 古 教父 当中 的 一 位 ， // Jerome was one of the most educated and learned of the ancient godfathers,</segment>
+		<segment id="33" parent="236" relname="joint-list">也可说 是 古代 西方 教会 中 最 伟大 的 学者 // Can also be said to be the greatest scholar in the ancient Western Church .</segment>
+		<segment id="34" parent="233" relname="joint-list">[ 1 ] // [ 1 ]</segment>
+		<segment id="35" parent="233" relname="joint-list">[ 2 ] 。 // [ 2 ] .</segment>
+		<segment id="36" parent="234" relname="span">哲罗姆 约 于 340 // Jerome around 340</segment>
+		<segment id="37" parent="36" relname="adversative-concession">（ 也 有 书 上 写 342 ） // (There are also books written 342)</segment>
+		<segment id="38" parent="235" relname="same-unit">年 生 在 挞马太 司垂登 的 基督徒 家庭 ， // Born in the Christian family of Matthew Stryton,</segment>
+		<segment id="39" parent="238" relname="joint-sequence">在 罗马 成长 和 就学 。 // Raised and educated in Rome.</segment>
+		<segment id="40" parent="242" relname="span">约 360年 教宗 利伯流 为 他 受洗 。 // He was baptized by Pope Liberius around 360.</segment>
+		<segment id="41" parent="40" relname="context-background">父母 都 是 非常 虔诚 的 基督徒 。 // Both parents are very devout Christians .</segment>
+		<segment id="42" parent="240" relname="same-unit">哲罗姆 // Jerome</segment>
+		<segment id="43" parent="44" relname="context-circumstance">年青 时 // young</segment>
+		<segment id="44" parent="239" relname="span">有志于 博览 宗教 方面 的 书籍 ， // Interested in reading books on religion ,</segment>
+		<segment id="45" parent="241" relname="joint-list">并且 遍游 天下 各 地 的 名胜 。 // And travel around the world around the scenic spots .</segment>
+		<segment id="46" parent="47" relname="context-circumstance">自 366 - 370 年间 ， 走遍 西方 所有 的 城市 之后 ， // After traveling all the cities of the West from 366 to 370,</segment>
+		<segment id="47" parent="245" relname="span">他 又 遍游 东方 ， // He traveled all over the East again,</segment>
+		<segment id="48" parent="49" relname="context-circumstance">当 他 到 了 安提阿市 ， // When he came to Antioch,</segment>
+		<segment id="49" parent="244" relname="span">在 安提阿 生 了 一 场 大病 // A serious illness was born in Antioch</segment>
+		<segment id="50" parent="246" relname="explanation-evidence">[ 3 ] 。 // [3].</segment>
+		<segment id="51" parent="52" relname="attribution-positive">有 一 天 在 异象 中 ， 觉得 // One day in a vision, I felt</segment>
+		<segment id="52" parent="248" relname="span">他 到上 了 上帝 的 审判台 前 。 // He went to the judgment seat of God.</segment>
+		<segment id="53" parent="54" relname="context-circumstance">当 他 称 自己 为 基督徒 时 ， // When he called himself a Christian,</segment>
+		<segment id="54" parent="249" relname="span">有 一 声音 说 ： // A voice said:</segment>
+		<segment id="55" parent="258" relname="joint-list">“ 你 说谎 。 // " You are lying .</segment>
+		<segment id="56" parent="254" relname="span">你 是 西塞罗 的 信徒 ， // You are a follower of Cicero,</segment>
+		<segment id="57" parent="56" relname="adversative-antithesis">而 不 是 基督 的 追随者 // rather than a follower of Christ</segment>
+		<segment id="58" parent="254" relname="restatement-partial">( Ciceronianus es , non Christianus ) ， // (Ciceronianus es, non Christianus),</segment>
+		<segment id="59" parent="253" relname="joint-list">因为 你 的 财宝 在 那里 ， // because your treasure is there,</segment>
+		<segment id="60" parent="253" relname="joint-list">你 的 心 也 在 那 ！ ” // Your heart is there too! "</segment>
+		<segment id="61" parent="256" relname="explanation-evidence">[ 4 ] 。 // [4].</segment>
+		<segment id="62" parent="262" relname="span">于 373 - 379年 他 就 到 旷野 // In 373-379 he went to the wilderness</segment>
+		<segment id="63" parent="62" relname="purpose-goal">去 专心 研究 神学 及 圣经 。 // Go focus on theology and the Bible .</segment>
+		<segment id="64" parent="263" relname="joint-list">并且 学习 希伯来文 ， // and learn Hebrew,</segment>
+		<segment id="65" parent="265" relname="same-unit">在 // exist</segment>
+		<segment id="66" parent="67" relname="elaboration-attribute">离 安提阿 不 远 之 // not far from Antioch</segment>
+		<segment id="67" parent="264" relname="span">处 修道 ， // to practice Taoism,</segment>
+		<segment id="68" parent="266" relname="context-circumstance">在 379年 时 // in 379</segment>
+		<segment id="69" parent="266" relname="joint-list">他 到 君士坦丁堡 ， // He went to Constantinople,</segment>
+		<segment id="70" parent="266" relname="joint-list">在 拿先素斯 的 贵格利 的 门下 受教 。 // Taught under Gregory of Nathaniel.</segment>
+		<segment id="71" parent="268" relname="joint-list">382年 回到 罗马 // 382 Back to Rome</segment>
+		<segment id="72" parent="268" relname="joint-list">在 那 宣讲 他 的 主张 及 修道 主义 。 // There he preached his ideas and monasticism.</segment>
+		<segment id="73" parent="269" relname="span">修道 主义 在 西方 仍 有些 人 反对 。 // Monasticism is still opposed by some in the West .</segment>
+		<segment id="74" parent="73" relname="adversative-concession">虽然 在 第四 世纪 末 有 哲罗姆 、 安波罗修 和 希波 的 奥古斯丁 都 提倡 及 传讲 。 // Although at the end of the fourth century there were Jerome, Ambrose and Augustine of Hippo who advocated and preached.</segment>
+		<segment id="75" parent="76" relname="context-circumstance">当 哲罗姆 传讲 修道 主义 优点 时 ， // When Jerome preached the virtues of monasticism,</segment>
+		<segment id="76" parent="270" relname="span">赞成 的 特别是 在 罗马 的 高贵 妇女 为 主 。 // In favor of the noble women especially in Rome.</segment>
+		<segment id="77" parent="273" relname="adversative-contrast">可是 有些 圣职 阶级 的 也 有 反对 的 。 // But some of the clergy also opposed it .</segment>
+		<segment id="78" parent="274" relname="span">385年 ， 哲罗姆 永久 地 离开 罗马 // Jerome left Rome permanently in 385</segment>
+		<segment id="79" parent="78" relname="elaboration-attribute">（ 乃 至 西方 ） ， // (even the West),</segment>
+		<segment id="80" parent="275" relname="joint-sequence">在 耶路撒冷 各 地 朝圣 后 // After a pilgrimage around Jerusalem</segment>
+		<segment id="81" parent="275" relname="joint-sequence">定居 伯利恒 。 // Settled in Bethlehem.</segment>
+		<segment id="82" parent="278" relname="same-unit">后来 他 到 了 // Later he arrived</segment>
+		<segment id="83" parent="84" relname="elaboration-attribute">当年 在 罗马 受 他 感动 的 // I was moved by him in Rome</segment>
+		<segment id="84" parent="276" relname="span">保拉 在 伯利恒 建 的 // Built by Paula in Bethlehem</segment>
+		<segment id="85" parent="277" relname="span">男 修道院 // male convent</segment>
+		<segment id="86" parent="279" relname="joint-list">当 院长 ， // when the dean,</segment>
+		<segment id="87" parent="280" relname="joint-list">一直 到 420年 去世 ， // until his death in 420,</segment>
+		<segment id="88" parent="280" relname="joint-list">享年 约 有 80 岁 // around 80 years old</segment>
+		<segment id="89" parent="281" relname="explanation-evidence">[ 5 ] 。 // [5].</segment>
+		<segment id="90" parent="284" relname="same-unit">410年 8月 24日 西哥特人 阿拉利 在 夜间 // August 24, 410 Visigoth Arali at night</segment>
+		<segment id="91" parent="92" relname="mode-means">用 突击 的 方式 // by assault</segment>
+		<segment id="92" parent="283" relname="span">攻破 了 罗马 ， // smashed Rome,</segment>
+		<segment id="93" parent="284" relname="elaboration-additional">这 是 八百 年 来 罗马 第一 次 被 攻破 ， // This was the first time in 800 years that Rome had been breached.</segment>
+		<segment id="94" parent="95" relname="organization-preparation">在 当时 的 人 来说 ， // For the people of the time,</segment>
+		<segment id="95" parent="285" relname="span">心理 上 的 打击 是 非常 大 的 。 // The psychological blow is very big .</segment>
+		<segment id="96" parent="288" relname="joint-list">当 哲罗姆 时在 伯利恒 修道院 ， // When Jerome was at the Abbey of Bethlehem,</segment>
+		<segment id="97" parent="289" relname="attribution-positive">哭泣 的 说 ： // weeping says:</segment>
+		<segment id="98" parent="99" relname="adversative-concession">“ 征服 了 整个 世界 的 城市 ， // "The cities that conquered the whole world,</segment>
+		<segment id="99" parent="289" relname="span">现在 给 人 征服 了 ！ ” // Conquered now! "</segment>
+		<segment id="100" parent="288" relname="explanation-evidence">[ 6 ] 。 // [6].</segment>
+		<segment id="101" parent="298" relname="joint-list">焦虑 的 无法 工作 ， // Anxious not being able to work,</segment>
+		<segment id="102" parent="103" relname="attribution-positive">并且 相信 // and believe</segment>
+		<segment id="103" parent="292" relname="span">敌基督 将 会 出现 ， // Antichrist will appear,</segment>
+		<segment id="104" parent="295" relname="attribution-positive">因此 悲伤 的 说 ： // So sad to say:</segment>
+		<segment id="105" parent="295" relname="span">“ 世界 恐怕 快 要 毁灭 了 。 // "The world is about to be destroyed.</segment>
+		<segment id="106" parent="296" relname="joint-list">这 伟大 的 城都 ， 罗马 帝国 的 首都 ， 意 付诸一炬 … … // This great city, the capital of the Roman Empire, is set to burn...</segment>
+		<segment id="107" parent="293" relname="attribution-negative">谁 会 料到 ， // Who would have expected,</segment>
+		<segment id="108" parent="109" relname="elaboration-attribute">一度 征服 世界 的 // once conquered the world</segment>
+		<segment id="109" parent="293" relname="span">罗马 帝国 的 基石 ， 竟 会 如此 衰亡 …… ” // The cornerstone of the Roman Empire, how could such a decline..."</segment>
+		<segment id="110" parent="299" relname="explanation-evidence">[ 7 ] // [ 7 ]</segment>
+		<segment id="111" parent="352" relname="organization-heading">神学 贡献 // theological contribution</segment>
+		<segment id="112" parent="345" relname="span">哲罗姆 以 研究 圣经 和 注释 经文 闻名 。 // Jerome was known for his study of the Bible and exegesis of scriptures .</segment>
+		<segment id="113" parent="114" relname="context-circumstance">当 他 住在 安提阿 及 伯利恒 时 ， // When he lived in Antioch and Bethlehem,</segment>
+		<segment id="114" parent="306" relname="span">向 犹太 拉比 学习 希伯来文 ， // Learn Hebrew from the Rabbis,</segment>
+		<segment id="115" parent="308" relname="same-unit">因此 他 可 算 是 // So he can be</segment>
+		<segment id="116" parent="117" relname="elaboration-attribute">拉丁 教会 中 唯一 懂得 希伯来文 的 // The only one in the Latin Church who understands Hebrew</segment>
+		<segment id="117" parent="307" relname="span">人 。 // people .</segment>
+		<segment id="118" parent="310" relname="span">哲罗姆 非常 博学 多闻 ， // Jerome is very knowledgeable,</segment>
+		<segment id="119" parent="118" relname="causal-cause">可能 是 和 他 对 古 文学 的 研究 和 游遍 各 城 有关 。 // It may be related to his study of ancient literature and his travels in various cities .</segment>
+		<segment id="120" parent="121" relname="causal-cause">因为 对 希伯来文 有 研究 ， // Because of the study of Hebrew,</segment>
+		<segment id="121" parent="311" relname="span">所以 在 翻译 圣经 这 件 事 上 ， 就 可以 完全 展现 他 的 才华 。 // Therefore, in translating the Bible, he can fully display his talents.</segment>
+		<segment id="122" parent="313" relname="context-circumstance">在 382年 后 ， 他 出任 罗马 教宗 达玛稣 的 秘书 。 // After 382, ​​he served as secretary to Pope Damasus in Rome.</segment>
+		<segment id="123" parent="313" relname="span">在 罗马 这 段 期间 教宗 请 他 将 圣经 翻译 成 拉丁文 。 // During this time in Rome the Pope asked him to translate the Bible into Latin .</segment>
+		<segment id="124" parent="125" relname="adversative-concession">虽然 当时 已 有 一 部 拉丁文 译文 ， // Although there was already a Latin translation at that time,</segment>
+		<segment id="125" parent="312" relname="span">但 该 部 圣经 相当 的 粗糙 又 错误 繁多 。 // But the Bible is rather crude and full of errors .</segment>
+		<segment id="126" parent="317" relname="context-circumstance">他 翻译 时 // when he translates</segment>
+		<segment id="127" parent="315" relname="span">先 用 旧约 的 希腊文 译本 // First use the Greek translation of the Old Testament</segment>
+		<segment id="128" parent="127" relname="elaboration-attribute">也 就 是 七十士 译本 // That is, the Septuagint</segment>
+		<segment id="129" parent="316" relname="same-unit">和 希腊文 新约 作 基础 ， // and the Greek New Testament as a basis,</segment>
+		<segment id="130" parent="317" relname="joint-sequence">再 译成 拉丁文 的 诗篇 、 旧约 及 四福音书 。 // The Psalms, the Old Testament, and the Four Gospels were then translated into Latin.</segment>
+		<segment id="131" parent="320" relname="attribution-positive">但是 后来 他 发现 // But later he found out</segment>
+		<segment id="132" parent="320" relname="same-unit">要 将 // to be</segment>
+		<segment id="133" parent="134" relname="elaboration-attribute">希伯来 原文 所 蕴藏 的 // contained in the original Hebrew</segment>
+		<segment id="134" parent="319" relname="span">宝库 ， 展现 给 拉丁文 的 读者 。 // A treasure trove for readers of Latin.</segment>
+		<segment id="135" parent="323" relname="same-unit">所以 他 又 // So he again</segment>
+		<segment id="136" parent="137" relname="mode-means">以 希伯来文 旧约 作 基础 ， // Based on the Hebrew Old Testament,</segment>
+		<segment id="137" parent="322" relname="span">重新 翻译 ， // retranslate,</segment>
+		<segment id="138" parent="326" relname="span">他 辛勤 工作 二十三 年 // He worked hard for twenty-three years</segment>
+		<segment id="139" parent="138" relname="elaboration-attribute">（ 382年 － 405年 ） // (382-405)</segment>
+		<segment id="140" parent="327" relname="joint-list">完成 了 拉丁文 圣经 修订本 《 武加大 译本 》 // Completed the Revised Latin Bible, the Vulgate Translation</segment>
+		<segment id="141" parent="328" relname="joint-list">[ 8 ] ， // [ 8 ] ,</segment>
+		<segment id="142" parent="328" relname="joint-list">[ 9 ] ， // [ 9 ] ,</segment>
+		<segment id="143" parent="328" relname="joint-list">[ 10 ] ， // [10],</segment>
+		<segment id="144" parent="330" relname="span">这 也 是 拉丁文 通俗 译本 // This is also a latin colloquial translation</segment>
+		<segment id="145" parent="144" relname="elaboration-additional">（ 包括 一 部 新约 保守性 的 拉丁文 订正本 ） // (including a conservative Latin revision of the New Testament)</segment>
+		<segment id="146" parent="331" relname="explanation-evidence">[ 11 ] 。 // [11].</segment>
+		<segment id="147" parent="338" relname="same-unit">这 也 是 // this is also</segment>
+		<segment id="148" parent="149" relname="elaboration-attribute">西方 教会 所 认定 核可 的 // Approved by the Western Church</segment>
+		<segment id="149" parent="337" relname="span">拉丁文 译本 。 // Latin translation.</segment>
+		<segment id="150" parent="340" relname="joint-sequence">并 在 1546年 的 “ 天特 会议 ” 重新 受到 肯定 。 // And in 1546 "Trent Council" was reaffirmed.</segment>
+		<segment id="151" parent="340" relname="joint-sequence">直 到 今日 这 译本 仍 为 罗马 天主 教会 所 重用 。 // This translation is still used by the Roman Catholic Church to this day.</segment>
+		<segment id="152" parent="153" relname="attribution-positive">由 这 可以 看到 // From this you can see</segment>
+		<segment id="153" parent="341" relname="span">哲罗姆 对 圣经 、 真理 、 学问 的 追求 是 一丝不苟 。 // Jerome was meticulous in his pursuit of the Bible, truth, and learning.</segment>
+		<segment id="154" parent="339" relname="joint-list">[ 12 ] ， // [12],</segment>
+		<segment id="155" parent="339" relname="joint-list">[ 13 ] // [ 13 ]</segment>
+		<segment id="156" parent="348" relname="same-unit">布鲁斯‧A‧德马雷斯特 形容 哲罗姆 是 // Bruce A. Demarest described Jerome as</segment>
+		<segment id="157" parent="158" relname="elaboration-attribute">最 有 教养 、 最 有 学问 的 // The most educated and learned</segment>
+		<segment id="158" parent="347" relname="span">古 教父 之一 ， // One of the ancient godfathers,</segment>
+		<segment id="159" parent="349" relname="joint-list">“ 这 位 伯利恒 的 伟大 隐士 的 才华 不 及 奥古斯丁 ， // "The great hermit of Bethlehem was less talented than Augustine,</segment>
+		<segment id="160" parent="349" relname="joint-list">品格 高超 上 不 及 安波罗修 ， // Not as high in character as Ambrose,</segment>
+		<segment id="161" parent="349" relname="joint-list">在 坚定 的 意志力 不 如 屈梭多模 ， // In firm willpower not as good as Chrysostom,</segment>
+		<segment id="162" parent="350" relname="span">但 在 学识 和 多才多艺 上 ， 上述 没有 一 个 人 能 比 得 上 他 ” 。 // But none of the above can match him in knowledge and versatility."</segment>
+		<segment id="163" parent="401" relname="organization-heading">主要 著作 // Major works</segment>
+		<segment id="164" parent="358" relname="same-unit">哲罗姆 // Jerome</segment>
+		<segment id="165" parent="166" relname="context-background">除了 圣经 的 翻译 ， // In addition to the translation of the Bible ,</segment>
+		<segment id="166" parent="354" relname="span">并且 写 了 许多 圣经 的 注解 ， // and wrote many commentaries on the Bible,</segment>
+		<segment id="167" parent="359" relname="joint-list">在 这 方面 哲罗姆 是 非常 有 天分 。 // Jerome is very talented at this.</segment>
+		<segment id="168" parent="356" relname="joint-list">他 依赖 许多 犹太 传统 ， // He relies on many Jewish traditions,</segment>
+		<segment id="169" parent="356" relname="joint-list">也 大量 引用 早期 教会 权威 的 看法 意见 。 // It also draws heavily on the opinions of early church authorities .</segment>
+		<segment id="170" parent="371" relname="joint-other">他 的 注释 书 的 权威 和 俄利根 及 奥古斯丁 并列 。 // The authority of his commentaries is tied with that of Origen and Augustine.</segment>
+		<segment id="171" parent="357" relname="joint-list">他 又 将 希腊 神学家 的 一些 著作 将 他们 翻成 拉丁文 ， // He also translated into Latin some of the writings of the Greek theologians,</segment>
+		<segment id="172" parent="357" relname="joint-list">而且 喜欢 参与 讨论 。 // And likes to participate in discussions .</segment>
+		<segment id="173" parent="362" relname="same-unit">哲罗姆 的 著作 // Jerome's writings</segment>
+		<segment id="174" parent="361" relname="context-background">除了 武加大 译本 ， 及 许多 圣经 注释 外 ， // In addition to the Vulgate translation, and many Bible commentaries,</segment>
+		<segment id="175" parent="361" relname="span">还 有 续编 了 优西比乌 的 历代志 及 编辑 一 部 名人传 // There is also a sequel to Eusebius' Chronicles and edited a biography</segment>
+		<segment id="176" parent="175" relname="restatement-partial">（ De viris Inlustribus ） ， // (De viris Inlustribus),</segment>
+		<segment id="177" parent="362" relname="same-unit">以及 // as well as</segment>
+		<segment id="178" parent="179" relname="elaboration-attribute">说明 独身 与 修道 生活 的 // Explain celibacy and monastic life</segment>
+		<segment id="179" parent="363" relname="span">许多 论文 及 书 // Many papers and books</segment>
+		<segment id="180" parent="362" relname="explanation-evidence">[ 14 ] 。 // [14].</segment>
+		<segment id="181" parent="368" relname="span">约 15 世纪 的 荷兰 鹿特丹 的 伊拉斯姆 ， 他 编 了 哲罗姆 文集 ， // Erasmus of Rotterdam, Holland, about the 15th century, who compiled Jerome's essays,</segment>
+		<segment id="182" parent="367" relname="joint-list">这 是 一 个 杰出 的 成就 ， // This is an outstanding achievement ,</segment>
+		<segment id="183" parent="367" relname="joint-list">也 可以 看出 哲罗姆 是 非常 多产 且 重要 的 神学家 。 // It can also be seen that Jerome was a very prolific and important theologian .</segment>
+		<segment id="184" parent="368" relname="explanation-evidence">[ 15 ] // [ 15 ]</segment>
+		<segment id="185" parent="374" relname="attribution-positive">哲罗姆 与 安波罗修 ， 相信 // Jerome and Ambrose, believe</segment>
+		<segment id="186" parent="374" relname="joint-list">圣灵 不仅 出于 圣父 ， // The Holy Spirit is not only from the Father,</segment>
+		<segment id="187" parent="374" relname="joint-list">并且 也 出于 圣子 ， // and also of the Son,</segment>
+		<segment id="188" parent="377" relname="same-unit">所以 是 主张 // So it is asserted</segment>
+		<segment id="189" parent="190" relname="elaboration-attribute">圣灵 是 出于 圣父 和 圣子 的 // The Holy Spirit is of the Father and the Son</segment>
+		<segment id="190" parent="376" relname="span">‘ 双出说 ’ ， // 'Double speaking',</segment>
+		<segment id="191" parent="378" relname="evaluation-comment">这 种 的 观念 已 加入 在 亚他拿修 信经 的 当中 。 // This idea has been added to the Athanasian Creed.</segment>
+		<segment id="192" parent="379" relname="explanation-evidence">[ 16 ] // [ 16 ]</segment>
+		<segment id="193" parent="386" relname="span">哲罗姆 对 亚流派 的 思想 是 非常 忧心 的 ， // Jerome was very worried about the idea of ​​the subgenre,</segment>
+		<segment id="194" parent="383" relname="attribution-positive">甚至于 他 写道 // even he wrote</segment>
+		<segment id="195" parent="196" relname="attribution-positive">“ 全 世界 发现 // "The world discovered</segment>
+		<segment id="196" parent="382" relname="span">为 亚流派 所 支配 ， // ruled by the sub-sects,</segment>
+		<segment id="197" parent="381" relname="joint-list">受惊 // frightened</segment>
+		<segment id="198" parent="381" relname="joint-list">而 呻吟 起来 ” ， // and groaned",</segment>
+		<segment id="199" parent="384" relname="evaluation-comment">可 见 他 的 失望 和 沮丧 // You can see his disappointment and frustration</segment>
+		<segment id="200" parent="386" relname="explanation-evidence">[ 17 ] 。 // [17].</segment>
+		<segment id="201" parent="400" relname="span">对于 圣徒 和 殉道 的 膜拜 ， 当时 哲罗姆 、 安波罗修 和 奥古斯丁 都 表示 鼓励 。 // The cult of saints and martyrs was encouraged by Jerome, Ambrose and Augustine.</segment>
+		<segment id="202" parent="394" relname="attribution-positive">并且 哲罗姆 曾 说 ： // And Jerome once said:</segment>
+		<segment id="203" parent="204" relname="adversative-concession">“ 无论 羔羊 往 那里 去 ， // "Wherever the Lamb goes,</segment>
+		<segment id="204" parent="388" relname="span">他们 都 跟 着 祂 。 // They all followed him.</segment>
+		<segment id="205" parent="396" relname="contingency-condition">假如 羔羊 是 各 处 同时 都 在 的 ， // If the Lamb were everywhere at once,</segment>
+		<segment id="206" parent="389" relname="attribution-positive">那么 ， 我们 也 得 相信 // Well, we also have to believe</segment>
+		<segment id="207" parent="208" relname="elaboration-attribute">那些 与 羔羊 同 在 的 // those who are with the lamb</segment>
+		<segment id="208" parent="389" relname="span">人 各 处 同时 都 在 。 ” // People are everywhere at the same time. "</segment>
+		<segment id="209" parent="398" relname="joint-list">并且 他们 在 圣徒 面前 以 点灯 ， 表示 对 圣徒 的 尊敬 。 // And they honored the saints by lighting lamps in their presence.</segment>
+		<segment id="210" parent="398" relname="explanation-evidence">[ 18 ] // [ 18 ]</segment>
+		<group id="211" type="multinuc" parent="216" relname="span"/>
+		<group id="212" type="span" parent="213" relname="joint-list"/>
+		<group id="213" type="multinuc" parent="2" relname="elaboration-attribute"/>
+		<group id="214" type="span" parent="213" relname="joint-list"/>
+		<group id="215" type="span" parent="213" relname="joint-list"/>
+		<group id="216" type="span" parent="213" relname="joint-list"/>
+		<group id="217" type="span" parent="218" relname="same-unit"/>
+		<group id="218" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="219" type="multinuc" parent="231" relname="joint-other"/>
+		<group id="220" type="multinuc" parent="222" relname="span"/>
+		<group id="221" type="multinuc" parent="220" relname="elaboration-additional"/>
+		<group id="222" type="span" parent="231" relname="joint-other"/>
+		<group id="223" type="span" parent="224" relname="joint-sequence"/>
+		<group id="224" type="multinuc" parent="231" relname="joint-other"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="224" relname="joint-sequence"/>
+		<group id="227" type="span" parent="27" relname="context-circumstance"/>
+		<group id="228" type="span" parent="229" relname="joint-list"/>
+		<group id="229" type="multinuc" parent="224" relname="joint-sequence"/>
+		<group id="230" type="multinuc" parent="232" relname="span"/>
+		<group id="231" type="multinuc" parent="230" relname="context-background"/>
+		<group id="232" type="span" parent="403" relname="context-background"/>
+		<group id="233" type="multinuc" parent="236" relname="explanation-evidence"/>
+		<group id="234" type="span" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="238" relname="joint-sequence"/>
+		<group id="236" type="multinuc" parent="237" relname="span"/>
+		<group id="237" type="span" parent="238" relname="context-background"/>
+		<group id="238" type="multinuc" parent="304" relname="span"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="241" relname="joint-list"/>
+		<group id="241" type="multinuc" parent="238" relname="joint-sequence"/>
+		<group id="242" type="span" parent="238" relname="joint-sequence"/>
+		<group id="244" type="span" parent="246" relname="span"/>
+		<group id="245" type="span" parent="244" relname="context-background"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="261" relname="span"/>
+		<group id="248" type="span" parent="259" relname="context-background"/>
+		<group id="249" type="span" parent="258" relname="attribution-positive"/>
+		<group id="253" type="multinuc" parent="255" relname="explanation-justify"/>
+		<group id="254" type="span" parent="255" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="joint-list"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="247" relname="elaboration-additional"/>
+		<group id="261" type="span" parent="238" relname="joint-sequence"/>
+		<group id="262" type="span" parent="263" relname="joint-list"/>
+		<group id="263" type="multinuc" parent="238" relname="joint-sequence"/>
+		<group id="264" type="span" parent="265" relname="same-unit"/>
+		<group id="265" type="multinuc" parent="263" relname="joint-list"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="238" relname="joint-sequence"/>
+		<group id="268" type="multinuc" parent="272" relname="span"/>
+		<group id="269" type="span" parent="271" relname="joint-list"/>
+		<group id="270" type="span" parent="273" relname="adversative-contrast"/>
+		<group id="271" type="multinuc" parent="268" relname="elaboration-additional"/>
+		<group id="272" type="span" parent="238" relname="joint-sequence"/>
+		<group id="273" type="multinuc" parent="271" relname="joint-list"/>
+		<group id="274" type="span" parent="275" relname="joint-sequence"/>
+		<group id="275" type="multinuc" parent="238" relname="joint-sequence"/>
+		<group id="276" type="span" parent="85" relname="elaboration-attribute"/>
+		<group id="277" type="span" parent="278" relname="same-unit"/>
+		<group id="278" type="multinuc" parent="279" relname="joint-list"/>
+		<group id="279" type="multinuc" parent="281" relname="span"/>
+		<group id="280" type="multinuc" parent="279" relname="context-circumstance"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="238" relname="joint-sequence"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="287" relname="span"/>
+		<group id="285" type="span" parent="302" relname="span"/>
+		<group id="287" type="span" parent="285" relname="context-background"/>
+		<group id="288" type="multinuc" parent="291" relname="span"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" parent="288" relname="joint-list"/>
+		<group id="291" type="span" parent="301" relname="joint-list"/>
+		<group id="292" type="span" parent="298" relname="joint-list"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="296" relname="joint-list"/>
+		<group id="295" type="span" parent="297" relname="span"/>
+		<group id="296" type="multinuc" parent="105" relname="elaboration-additional"/>
+		<group id="297" type="span" parent="298" relname="explanation-evidence"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="joint-list"/>
+		<group id="301" type="multinuc" parent="302" relname="explanation-evidence"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="238" relname="joint-sequence"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="403" relname="joint-other"/>
+		<group id="306" type="span" parent="308" relname="causal-cause"/>
+		<group id="307" type="span" parent="308" relname="same-unit"/>
+		<group id="308" type="multinuc" parent="309" relname="span"/>
+		<group id="309" type="span" parent="333" relname="joint-list"/>
+		<group id="310" type="span" parent="333" relname="joint-list"/>
+		<group id="311" type="span" parent="334" relname="span"/>
+		<group id="312" type="span" parent="123" relname="causal-cause"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="335" relname="context-background"/>
+		<group id="315" type="span" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="317" relname="joint-sequence"/>
+		<group id="317" type="multinuc" parent="318" relname="span"/>
+		<group id="318" type="span" parent="325" relname="joint-sequence"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="321" relname="span"/>
+		<group id="321" type="span" parent="323" relname="causal-cause"/>
+		<group id="322" type="span" parent="323" relname="same-unit"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="joint-sequence"/>
+		<group id="325" type="multinuc" parent="332" relname="explanation-evidence"/>
+		<group id="326" type="span" parent="327" relname="joint-list"/>
+		<group id="327" type="multinuc" parent="329" relname="span"/>
+		<group id="328" type="multinuc" parent="327" relname="explanation-evidence"/>
+		<group id="329" type="span" parent="331" relname="span"/>
+		<group id="330" type="span" parent="329" relname="evaluation-comment"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="335" relname="span"/>
+		<group id="333" type="multinuc" parent="311" relname="context-background"/>
+		<group id="334" type="span" parent="112" relname="explanation-justify"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="343" relname="span"/>
+		<group id="337" type="span" parent="338" relname="same-unit"/>
+		<group id="338" type="multinuc" parent="340" relname="joint-sequence"/>
+		<group id="339" type="multinuc" parent="341" relname="explanation-evidence"/>
+		<group id="340" type="multinuc" parent="342" relname="span"/>
+		<group id="341" type="span" parent="344" relname="span"/>
+		<group id="342" type="span" parent="336" relname="evaluation-comment"/>
+		<group id="343" type="span" parent="345" relname="explanation-evidence"/>
+		<group id="344" type="span" parent="340" relname="elaboration-additional"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="352" relname="joint-other"/>
+		<group id="347" type="span" parent="348" relname="same-unit"/>
+		<group id="348" type="multinuc" parent="351" relname="span"/>
+		<group id="349" type="multinuc" parent="162" relname="adversative-concession"/>
+		<group id="350" type="span" parent="348" relname="explanation-evidence"/>
+		<group id="351" type="span" parent="352" relname="joint-other"/>
+		<group id="352" type="multinuc" parent="353" relname="span"/>
+		<group id="353" type="span" parent="403" relname="joint-other"/>
+		<group id="354" type="span" parent="358" relname="same-unit"/>
+		<group id="356" type="multinuc" parent="371" relname="joint-other"/>
+		<group id="357" type="multinuc" parent="371" relname="joint-other"/>
+		<group id="358" type="multinuc" parent="359" relname="joint-list"/>
+		<group id="359" type="multinuc" parent="372" relname="span"/>
+		<group id="361" type="span" parent="365" relname="span"/>
+		<group id="362" type="multinuc" parent="366" relname="span"/>
+		<group id="363" type="span" parent="362" relname="same-unit"/>
+		<group id="365" type="span" parent="362" relname="same-unit"/>
+		<group id="366" type="span" parent="370" relname="span"/>
+		<group id="367" type="multinuc" parent="181" relname="evaluation-comment"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="366" relname="elaboration-additional"/>
+		<group id="370" type="span" parent="372" relname="explanation-evidence"/>
+		<group id="371" type="multinuc" parent="359" relname="elaboration-additional"/>
+		<group id="372" type="span" parent="373" relname="span"/>
+		<group id="373" type="span" parent="401" relname="joint-other"/>
+		<group id="374" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="377" relname="causal-cause"/>
+		<group id="376" type="span" parent="377" relname="same-unit"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="380" relname="span"/>
+		<group id="380" type="span" parent="406" relname="span"/>
+		<group id="381" type="multinuc" parent="382" relname="causal-result"/>
+		<group id="382" type="span" parent="383" relname="span"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" parent="193" relname="explanation-evidence"/>
+		<group id="386" type="span" parent="387" relname="span"/>
+		<group id="387" type="span" parent="407" relname="joint-other"/>
+		<group id="388" type="span" parent="394" relname="span"/>
+		<group id="389" type="span" parent="396" relname="span"/>
+		<group id="394" type="span" parent="395" relname="span"/>
+		<group id="395" type="span" parent="398" relname="joint-list"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" parent="388" relname="elaboration-additional"/>
+		<group id="398" type="multinuc" parent="399" relname="span"/>
+		<group id="399" type="span" parent="201" relname="explanation-evidence"/>
+		<group id="400" type="span" parent="407" relname="joint-other"/>
+		<group id="401" type="multinuc" parent="402" relname="span"/>
+		<group id="402" type="span" parent="403" relname="joint-other"/>
+		<group id="403" type="multinuc" parent="404" relname="span"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" />
+		<group id="406" type="span" parent="401" relname="joint-other"/>
+		<group id="407" type="multinuc" parent="380" relname="elaboration-additional"/>
+	</body>
+</rst>

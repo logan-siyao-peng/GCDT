@@ -166,7 +166,7 @@
 		<segment id="128" parent="329" relname="joint-list">位于 单词 词首 闭塞音 的</segment>
 		<segment id="129" parent="330" relname="span">范畴性 感知 变化 。</segment>
 		<segment id="130" parent="131" relname="elaboration-attribute">发声 和 发音 位置 不同 的</segment>
-		<segment id="131" parent="335" relname="span">单词 词首 闭塞音 的 识别 依赖 于 多 个 声学 线索 ， 如 嗓音 起始 时间</segment>
+		<segment id="131" parent="335" relname="span">单词 词首 闭塞音 的 识别 依赖于 多 个 声学 线索 ， 如 嗓音 起始 时间</segment>
 		<segment id="132" parent="335" relname="restatement-partial">( voice onset time , VOT ) 、</segment>
 		<segment id="133" parent="333" relname="same-unit">第二 和 第三 共振峰 转折 的 起始 频率 和 方向 ，</segment>
 		<segment id="134" parent="338" relname="span">其中 嗓音 起始 时间 是 一 种 时长 线索 ，</segment>
@@ -449,9 +449,8 @@
 		<group id="422" type="span" parent="436" relname="joint-other"/>
 		<group id="423" type="span" parent="424" relname="span"/>
 		<group id="424" type="span" parent="426" relname="span"/>
-		<group id="425" type="multinuc" parent="427" relname="span"/>
+		<group id="425" type="multinuc" parent="424" relname="explanation-evidence"/>
 		<group id="426" type="span" parent="321" relname="explanation-evidence"/>
-		<group id="427" type="span" parent="424" relname="explanation-evidence"/>
 		<group id="428" type="span" parent="429" relname="joint-other"/>
 		<group id="429" type="multinuc" parent="413" relname="explanation-evidence"/>
 		<group id="431" type="multinuc" parent="434" relname="joint-other"/>
@@ -459,9 +458,10 @@
 		<group id="433" type="span" parent="434" relname="joint-other"/>
 		<group id="434" type="multinuc" parent="405" relname="explanation-evidence"/>
 		<group id="435" type="span" parent="437" relname="span"/>
-		<group id="436" type="multinuc" />
+		<group id="436" type="multinuc" parent="440" relname="span"/>
 		<group id="437" type="span" parent="270" relname="elaboration-additional"/>
 		<group id="438" type="span" parent="439" relname="span"/>
 		<group id="439" type="span" parent="436" relname="joint-other"/>
+		<group id="440" type="span" />
 	</body>
 </rst>

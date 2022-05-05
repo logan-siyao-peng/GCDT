@@ -1,0 +1,485 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="464" relname="organization-heading">道家 生态 美学 思想 及 其 当代 价值</segment>
+		<segment id="2" parent="465" relname="organization-heading">2. 自然 生态美 思想</segment>
+		<segment id="3" parent="244" relname="joint-list">道家 的 最高 本体 是 道 ，</segment>
+		<segment id="4" parent="244" relname="joint-list">而 道 又 具有 规律 的 意思 。</segment>
+		<segment id="5" parent="245" relname="span">作为 规律 的 道 主要 是 指 ， 本体 之 道 或 万事 万物 ， 自然而然 的 属性 或 状态 。</segment>
+		<segment id="6" parent="250" relname="organization-preparation">在 道家 看来 ，</segment>
+		<segment id="7" parent="246" relname="joint-disjunction">不管 从 纵 的 时间 的 维度 来看 ，</segment>
+		<segment id="8" parent="246" relname="joint-disjunction">还是 从 横 的 空间 的 维度 来看 ，</segment>
+		<segment id="9" parent="247" relname="joint-list">本体 之 道 都 是 无 ，</segment>
+		<segment id="10" parent="247" relname="joint-list">是 非 存在 ，</segment>
+		<segment id="11" parent="249" relname="span">“ 道 以 无有 为 体 ”</segment>
+		<segment id="12" parent="11" relname="explanation-evidence">( 《 文子·上德 》 ) 。</segment>
+		<segment id="13" parent="278" relname="span">而 这 个 无 、 这 个 非 存在 的 本体 之 道 却 又 是 确确实实 地 存在 着 。</segment>
+		<segment id="14" parent="252" relname="joint-list">它 先于 鬼 神 、</segment>
+		<segment id="15" parent="252" relname="joint-list">先于 上帝 ，</segment>
+		<segment id="16" parent="252" relname="joint-list">是 天地 之 根 、 万物 之 祖 。</segment>
+		<segment id="17" parent="279" relname="span">万事 万物 都 是 由 道 生化 出来 的 。</segment>
+		<segment id="18" parent="268" relname="attribution-positive">“ 夫 道</segment>
+		<segment id="19" parent="253" relname="joint-list">有 情</segment>
+		<segment id="20" parent="253" relname="joint-list">有 信 ，</segment>
+		<segment id="21" parent="254" relname="joint-list">无 为</segment>
+		<segment id="22" parent="254" relname="joint-list">无 形 ；</segment>
+		<segment id="23" parent="255" relname="adversative-contrast">可 传</segment>
+		<segment id="24" parent="255" relname="adversative-contrast">而 不 可 受 ，</segment>
+		<segment id="25" parent="256" relname="adversative-contrast">可 得</segment>
+		<segment id="26" parent="256" relname="adversative-contrast">而 不 可 见 ；</segment>
+		<segment id="27" parent="257" relname="joint-list">自本</segment>
+		<segment id="28" parent="257" relname="joint-list">自根 ，</segment>
+		<segment id="29" parent="258" relname="adversative-contrast">未 有 天地 ，</segment>
+		<segment id="30" parent="31" relname="context-circumstance">自 古</segment>
+		<segment id="31" parent="259" relname="span">以 固存 ；</segment>
+		<segment id="32" parent="266" relname="joint-list">神鬼 神帝 ，</segment>
+		<segment id="33" parent="260" relname="joint-list">生 天</segment>
+		<segment id="34" parent="260" relname="joint-list">生 地 ；</segment>
+		<segment id="35" parent="36" relname="adversative-concession">在 太极 之先</segment>
+		<segment id="36" parent="261" relname="span">而 不 为 高 ，</segment>
+		<segment id="37" parent="38" relname="adversative-concession">在 六极 之下</segment>
+		<segment id="38" parent="262" relname="span">而 不 为 深 ，</segment>
+		<segment id="39" parent="40" relname="adversative-concession">先 天地 生</segment>
+		<segment id="40" parent="263" relname="span">而 不 为 久 ，</segment>
+		<segment id="41" parent="42" relname="adversative-concession">长于 上古</segment>
+		<segment id="42" parent="264" relname="span">而 不 为 老 。 ”</segment>
+		<segment id="43" parent="267" relname="explanation-evidence">( 《 庄子·大宗师 》 )</segment>
+		<segment id="44" parent="280" relname="same-unit">道 化生 出 万物 ，</segment>
+		<segment id="45" parent="271" relname="joint-disjunction">不管是 从 纵 的 时间 的 维度 来看 、</segment>
+		<segment id="46" parent="271" relname="joint-disjunction">还是 从 横 的 空间 的 维度 来看 ，</segment>
+		<segment id="47" parent="272" relname="span">都 使 万物 形成 一 个 有机 联系 的 和谐 整体 。</segment>
+		<segment id="48" parent="273" relname="joint-sequence">“ 道 生 一 ，</segment>
+		<segment id="49" parent="273" relname="joint-sequence">一 生 二 ，</segment>
+		<segment id="50" parent="273" relname="joint-sequence">二 生 三 ，</segment>
+		<segment id="51" parent="273" relname="joint-sequence">三 生 万物 。</segment>
+		<segment id="52" parent="53" relname="contingency-condition">万物 负阴</segment>
+		<segment id="53" parent="282" relname="span">而 抱阳 ，</segment>
+		<segment id="54" parent="55" relname="mode-means">冲气</segment>
+		<segment id="55" parent="275" relname="span">以 为 和 。 ”</segment>
+		<segment id="56" parent="281" relname="explanation-evidence">( 《 道德经 》 第42 章 )</segment>
+		<segment id="57" parent="285" relname="same-unit">是 道家</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">道 生 万物 的</segment>
+		<segment id="59" parent="284" relname="span">典型 模式 。</segment>
+		<segment id="60" parent="286" relname="span">其中 的 “ 一 ” ， 即是 道 ，</segment>
+		<segment id="61" parent="60" relname="elaboration-additional">是 原始 的 精气 ；</segment>
+		<segment id="62" parent="288" relname="same-unit">“ 二 ” 是</segment>
+		<segment id="63" parent="64" relname="elaboration-attribute">由 原始 的 精气 分化 出来 的</segment>
+		<segment id="64" parent="287" relname="span">阴阳 二 气 ；</segment>
+		<segment id="65" parent="292" relname="same-unit">“ 和 ” 是</segment>
+		<segment id="66" parent="67" relname="mode-means">由 阴阳 二 气 合 在 一块</segment>
+		<segment id="67" parent="290" relname="span">而 形成 的</segment>
+		<segment id="68" parent="291" relname="span">和气 。</segment>
+		<segment id="69" parent="296" relname="same-unit">因此 ，</segment>
+		<segment id="70" parent="71" relname="elaboration-attribute">由 道 生出 的</segment>
+		<segment id="71" parent="293" relname="span">每 一 个 事物 都 包含 着 道 ，</segment>
+		<segment id="72" parent="294" relname="joint-list">包含 着 精气 、</segment>
+		<segment id="73" parent="294" relname="joint-list">包含 着 阴阳 二 气 ，</segment>
+		<segment id="74" parent="294" relname="joint-list">包含 着 和气 ，</segment>
+		<segment id="75" parent="295" relname="joint-list">每 个 事物 自身 都 是 和谐 的 ，</segment>
+		<segment id="76" parent="295" relname="joint-list">每 个 事物 和 其他 事物 都 是 平等 的 ，</segment>
+		<segment id="77" parent="295" relname="joint-list">每 个 事物 之间 都 有 交感 的 关系 。</segment>
+		<segment id="78" parent="344" relname="same-unit">具体 地 说 ， 这 种</segment>
+		<segment id="79" parent="80" relname="elaboration-attribute">道 生 万物 的</segment>
+		<segment id="80" parent="297" relname="span">生成 模式 有 以下 几 种 表现 形式 ：</segment>
+		<segment id="81" parent="299" relname="restatement-repetition">第一 ， 由 精气 直接 生出 万事 万物 。</segment>
+		<segment id="82" parent="298" relname="span">“ 精微者 天地 之 始 也 。 ”</segment>
+		<segment id="83" parent="82" relname="explanation-evidence">( 《 鹖冠子·泰录 》 )</segment>
+		<segment id="84" parent="301" relname="causal-cause">这 种 原始 的 精气 本身 是 和谐 的 ，</segment>
+		<segment id="85" parent="301" relname="same-unit">所以 ，</segment>
+		<segment id="86" parent="87" relname="elaboration-attribute">它 生出 的</segment>
+		<segment id="87" parent="300" relname="span">万物 也 是 和谐 的 。</segment>
+		<segment id="88" parent="305" relname="same-unit">第二 ，</segment>
+		<segment id="89" parent="90" relname="mode-means">由 阴阳 二 气 合和</segment>
+		<segment id="90" parent="304" relname="span">而 生出 万事 万物 。</segment>
+		<segment id="91" parent="312" relname="span">“ 天地 之 气 ， 莫 大于 和 。</segment>
+		<segment id="92" parent="306" relname="joint-list">和 者 ， 阴阳 调 ，</segment>
+		<segment id="93" parent="306" relname="joint-list">日夜 分 ，</segment>
+		<segment id="94" parent="95" relname="context-circumstance">故 万物 春分</segment>
+		<segment id="95" parent="307" relname="span">而 生 ，</segment>
+		<segment id="96" parent="97" relname="context-circumstance">秋分</segment>
+		<segment id="97" parent="308" relname="span">而 成 ，</segment>
+		<segment id="98" parent="309" relname="evaluation-comment">生 与 成 ， 必 得 和 之 精 。 ”</segment>
+		<segment id="99" parent="312" relname="explanation-evidence">( 《 文子·上仁 》 )</segment>
+		<segment id="100" parent="314" relname="joint-list">阴阳 二 气 相互 配合 ，</segment>
+		<segment id="101" parent="314" relname="joint-list">达 至 和谐 ，</segment>
+		<segment id="102" parent="315" relname="span">才 能 生出 万物 ，</segment>
+		<segment id="103" parent="315" relname="causal-result">因此 ， 万物 是 和谐 的 。</segment>
+		<segment id="104" parent="326" relname="span">第三 ， 由 阴阳 二 气 的 表现 天地 生出 万物 。</segment>
+		<segment id="105" parent="106" relname="causal-cause">“ 天地 感</segment>
+		<segment id="106" parent="320" relname="span">而 万物 化生 。 ”</segment>
+		<segment id="107" parent="320" relname="explanation-evidence">( 《 周易·咸 》 )</segment>
+		<segment id="108" parent="322" relname="adversative-contrast">天地 也 只有 相互 配合 、</segment>
+		<segment id="109" parent="322" relname="adversative-contrast">相互 交感 ，</segment>
+		<segment id="110" parent="324" relname="joint-list">达 至 和谐 ，</segment>
+		<segment id="111" parent="324" relname="joint-list">才 能 生出 万物 ，</segment>
+		<segment id="112" parent="323" relname="causal-result">因此 ， 万物 是 和谐 的 。</segment>
+		<segment id="113" parent="342" relname="span">第四 ， 由 天地 的 一些 要素 或 力量 而 生出 万物 。</segment>
+		<segment id="114" parent="328" relname="joint-list">“ 故 水 火 相 逮 ，</segment>
+		<segment id="115" parent="328" relname="joint-list">雷 风 不 相 悖 ，</segment>
+		<segment id="116" parent="328" relname="joint-list">山 泽 通气 ，</segment>
+		<segment id="117" parent="328" relname="joint-list">然后 能 变化 ，</segment>
+		<segment id="118" parent="328" relname="causal-result">既 成 万物 也 。 ”</segment>
+		<segment id="119" parent="329" relname="explanation-evidence">( 《 周易·说卦 》 )</segment>
+		<segment id="120" parent="121" relname="contingency-condition">天地 间 的 各 种 要素 很 好 地 协调</segment>
+		<segment id="121" parent="331" relname="span">才 能 使 万物 成长 。</segment>
+		<segment id="122" parent="333" relname="same-unit">总之 ， 由 道 、 精气 、 阴阳 等 的 和谐性 ， 而 致使</segment>
+		<segment id="123" parent="124" relname="elaboration-attribute">它们 生出 的</segment>
+		<segment id="124" parent="332" relname="span">万物 也 具有 和谐性 。</segment>
+		<segment id="125" parent="334" relname="joint-list">万物 是 由 道 生 出来 的 ，</segment>
+		<segment id="126" parent="334" relname="joint-list">万物 内部 都 含有 道 ，</segment>
+		<segment id="127" parent="336" relname="organization-preparation">从 这 个 意义 来说 ，</segment>
+		<segment id="128" parent="335" relname="span">万物 ，</segment>
+		<segment id="129" parent="128" relname="elaboration-attribute">包括 道 ，</segment>
+		<segment id="130" parent="336" relname="same-unit">是 平等 的 。</segment>
+		<segment id="131" parent="132" relname="context-circumstance">道 生出 万物 之后 ，</segment>
+		<segment id="132" parent="338" relname="span">还 要 赋予 万物 以 特性 。</segment>
+		<segment id="133" parent="134" relname="causal-cause">因 道 在 万物 内部 的 存在 形式 、 表现 形式 不同 ，</segment>
+		<segment id="134" parent="339" relname="span">因此 ， 万物 的 特性 也 各 不 相同 。</segment>
+		<segment id="135" parent="355" relname="span">道 赋予 万物 不同 的 特性 ，</segment>
+		<segment id="136" parent="354" relname="joint-list">万物 的 特性 都 是 适于 自己 、 自然而然 、 不 假 人为 、 不 假 外求 的 。</segment>
+		<segment id="137" parent="354" relname="joint-list">且 在 自然 之中 ， 万物 也 都 有 自己 独特 的 存在 价值 ，</segment>
+		<segment id="138" parent="354" relname="joint-list">是 不可或缺 的 。</segment>
+		<segment id="139" parent="356" relname="joint-list">道 生出 万物 、</segment>
+		<segment id="140" parent="356" relname="joint-list">赋予 万物 特性 之后 ，</segment>
+		<segment id="141" parent="358" relname="same-unit">还 要 以</segment>
+		<segment id="142" parent="143" relname="elaboration-attribute">无为 而 无不为 的</segment>
+		<segment id="143" parent="357" relname="span">方式 ， 抚育 万物 、</segment>
+		<segment id="144" parent="359" relname="joint-list">成就 万物 ，</segment>
+		<segment id="145" parent="361" relname="joint-list">而 又 不 把 万物 据 为 己有 、</segment>
+		<segment id="146" parent="361" relname="joint-list">居功 自傲 。</segment>
+		<segment id="147" parent="380" relname="attribution-positive">就 像 佘正荣 所 说 ：</segment>
+		<segment id="148" parent="367" relname="joint-list">“ 故 不仅 天地 万物 是 由 道 的 运作 生成 的 ，</segment>
+		<segment id="149" parent="367" relname="joint-list">而且 宇宙 中 的 一切 实体 、 关系 、 结构 和 秩序 ， 也 是 由 道 的 运作 生成 的 ，</segment>
+		<segment id="150" parent="368" relname="context-circumstance">而 道 创生 了 天地 万物 之后 ，</segment>
+		<segment id="151" parent="369" relname="adversative-antithesis">并 非 就 大功告成 ，</segment>
+		<segment id="152" parent="369" relname="joint-list">它 还 继续 生养 万物 ，</segment>
+		<segment id="153" parent="369" relname="joint-list">运化 万物 ，</segment>
+		<segment id="154" parent="369" relname="joint-list">参与 万物 的 流行 变化 ，</segment>
+		<segment id="155" parent="369" relname="joint-list">养育 和 辅助 万物 的 成长 发育 。</segment>
+		<segment id="156" parent="371" relname="joint-list">但是 ， 道 生养 万物 和 哺育 万物 成长 ， 并 非 出于 有意 的 行为 ，</segment>
+		<segment id="157" parent="371" relname="joint-list">也 不 是 外力 作用 的 结果 ，</segment>
+		<segment id="158" parent="374" relname="same-unit">而 是</segment>
+		<segment id="159" parent="160" relname="elaboration-attribute">固存于 一切 事物 和 过程 中 的</segment>
+		<segment id="160" parent="373" relname="span">自然 趋势 和 结果 。</segment>
+		<segment id="161" parent="376" relname="same-unit">天地 万物</segment>
+		<segment id="162" parent="163" relname="causal-cause">因 其 自然 之 本性</segment>
+		<segment id="163" parent="377" relname="span">而 生成 、</segment>
+		<segment id="164" parent="378" relname="joint-list">运行</segment>
+		<segment id="165" parent="378" relname="joint-list">和 显现 。 ”</segment>
+		<segment id="166" parent="379" relname="explanation-evidence">( [ 1 ] , pp. 73 - 79 ) 。</segment>
+		<segment id="167" parent="168" relname="context-circumstance">道 生出 万物 之后 ，</segment>
+		<segment id="168" parent="382" relname="span">万物 就 有 纵 的 时间 维度 上 的 生成 关系 及 横 的 空间 维度 上 的 相互 作用 关系 。</segment>
+		<segment id="169" parent="390" relname="organization-preparation">从 纵 的 时间 维度 来说 ，</segment>
+		<segment id="170" parent="171" relname="adversative-concession">尽管 从 终极 的 根源 来说 ，</segment>
+		<segment id="171" parent="389" relname="span">万物 都 是 由 道 生 出来 的 ，</segment>
+		<segment id="172" parent="387" relname="span">但 万物 之间 也 有 生成 的 关系 ，</segment>
+		<segment id="173" parent="383" relname="joint-list">动物 、 植物 是 由 它们 的 祖先 繁衍 下来 的 ，</segment>
+		<segment id="174" parent="383" relname="joint-list">人 也 一样 ，</segment>
+		<segment id="175" parent="388" relname="joint-list">且 事物 的 繁衍 、 发展 是 不断 进化 的 。</segment>
+		<segment id="176" parent="394" relname="organization-preparation">从 横 的 空间 的 维度 来说 ，</segment>
+		<segment id="177" parent="393" relname="context-circumstance">道 生出 万物 之后 ，</segment>
+		<segment id="178" parent="393" relname="same-unit">万物 之间 有</segment>
+		<segment id="179" parent="180" relname="elaboration-attribute">相互 作用 的</segment>
+		<segment id="180" parent="392" relname="span">关系 。</segment>
+		<segment id="181" parent="396" relname="joint-list">比如 ， 同类 的 物种 会 聚集 在 一块 ，</segment>
+		<segment id="182" parent="396" relname="joint-list">共同 占据 一 个 生态 领地 ，</segment>
+		<segment id="183" parent="396" relname="joint-list">而 不 让 别 的 物种 侵入 ；</segment>
+		<segment id="184" parent="398" relname="same-unit">同 一 个 物种 之间 及 不同 的 物种 之间</segment>
+		<segment id="185" parent="186" relname="mode-means">通过 生存 竞争 、 优胜 劣汰</segment>
+		<segment id="186" parent="397" relname="span">而 使 物种 得以 不断 进化 。</segment>
+		<segment id="187" parent="400" relname="causal-cause">物种 之间 有 相 食 的 食物 链 的 关系 。</segment>
+		<segment id="188" parent="400" relname="same-unit">保持 物种 平衡 、 生态 平衡 是</segment>
+		<segment id="189" parent="190" relname="elaboration-attribute">保证 自然 生态美 的</segment>
+		<segment id="190" parent="399" relname="span">基本 条件 。</segment>
+		<segment id="191" parent="402" relname="context-background">道 生出 万物 ，</segment>
+		<segment id="192" parent="402" relname="same-unit">万物</segment>
+		<segment id="193" parent="194" relname="causal-cause">因 内部 都 含有 道</segment>
+		<segment id="194" parent="401" relname="span">而 相互 之间 会 有 交感 关系 。</segment>
+		<segment id="195" parent="403" relname="joint-list">这 种 交感 关系 最 能 体现 物 与 物 之间 的 和谐美 ，</segment>
+		<segment id="196" parent="403" relname="joint-list">最能 体现 自然 生态美 。</segment>
+		<segment id="197" parent="198" relname="context-background">总之 ， 道 生出 万物 之后 ，</segment>
+		<segment id="198" parent="408" relname="span">万物 及 整个 世界 就 像 一 张 天网 。</segment>
+		<segment id="199" parent="406" relname="joint-list">每 个 事物 都 像 天网 上 的 一 个 纽结 ，</segment>
+		<segment id="200" parent="406" relname="joint-list">都 在 天网 上 占据 着 自己 的 一定 的 位置 ，</segment>
+		<segment id="201" parent="406" relname="joint-list">和 别 的 纽结 、 别 的 事物 联 在 一起 。</segment>
+		<segment id="202" parent="412" relname="span">整个 世界 就 这样 形成 了 一 个 有机 联系 的 和谐 整体 。</segment>
+		<segment id="203" parent="410" relname="same-unit">这 就 是</segment>
+		<segment id="204" parent="205" relname="attribution-positive">道家 所 说 的</segment>
+		<segment id="205" parent="409" relname="span">“ 天网 恢恢 ， 疏 而 不 失 。 ”</segment>
+		<segment id="206" parent="410" relname="explanation-evidence">( 《 道德经 》 第73 章 )</segment>
+		<segment id="207" parent="416" relname="attribution-positive">道家 认为 ，</segment>
+		<segment id="208" parent="209" relname="elaboration-attribute">由 道 生出 的</segment>
+		<segment id="209" parent="413" relname="span">万事 万物 ，</segment>
+		<segment id="210" parent="413" relname="adversative-concession">即使 是 天地 ，</segment>
+		<segment id="211" parent="415" relname="same-unit">都 不 可能 长久 地 生存 下去 ，</segment>
+		<segment id="212" parent="416" relname="joint-list">都 必然 要 逝去 、</segment>
+		<segment id="213" parent="416" relname="joint-list">消亡 。</segment>
+		<segment id="214" parent="420" relname="same-unit">而 它们 的</segment>
+		<segment id="215" parent="418" relname="joint-list">逝去 、</segment>
+		<segment id="216" parent="418" relname="joint-list">消亡 之</segment>
+		<segment id="217" parent="419" relname="span">处 正 是</segment>
+		<segment id="218" parent="219" relname="elaboration-attribute">生出 它们 的</segment>
+		<segment id="219" parent="421" relname="span">本根 之 道 。</segment>
+		<segment id="220" parent="424" relname="same-unit">我们 人 就 是 要</segment>
+		<segment id="221" parent="222" relname="mode-means">通过 自我 修养</segment>
+		<segment id="222" parent="422" relname="span">而 看到 万物 的</segment>
+		<segment id="223" parent="224" relname="elaboration-attribute">归根 复命 之</segment>
+		<segment id="224" parent="423" relname="span">状 ，</segment>
+		<segment id="225" parent="427" relname="same-unit">并且</segment>
+		<segment id="226" parent="227" relname="context-circumstance">在 自我 的 归根 复命 中 ，</segment>
+		<segment id="227" parent="426" relname="span">使 自己 与 道 融 为 一体 。</segment>
+		<segment id="228" parent="429" relname="same-unit">这 是 一 种</segment>
+		<segment id="229" parent="230" relname="elaboration-attribute">意味 悠长 的</segment>
+		<segment id="230" parent="428" relname="span">生命 体验 、 审美 体验 。</segment>
+		<segment id="231" parent="436" relname="organization-preparation">由 上 可 见 ，</segment>
+		<segment id="232" parent="431" relname="organization-preparation">从 最 形而上 的 层面 来说 ，</segment>
+		<segment id="233" parent="430" relname="span">万事 万物 ，</segment>
+		<segment id="234" parent="233" relname="elaboration-attribute">包括 人 、 人 的 精神 及 社会 等</segment>
+		<segment id="235" parent="431" relname="same-unit">都 是 由 道 衍生 出来 的 。</segment>
+		<segment id="236" parent="237" relname="organization-preparation">但 从 较 形而下 的 层面 来说 ，</segment>
+		<segment id="237" parent="433" relname="span">人 、 人 的 精神 及 社会 等 又 是 由 自然 演化 而 来 的 。</segment>
+		<segment id="238" parent="435" relname="joint-list">因此 ， 人 、 人 的 精神 及 社会 等 从属于 自然 ，</segment>
+		<segment id="239" parent="435" relname="joint-list">是 自然 的 不同 的 表现 形式 ，</segment>
+		<segment id="240" parent="435" relname="joint-list">内蕴 自然 的 本质 与 规律 ，</segment>
+		<segment id="241" parent="435" relname="joint-list">与 自然 具有 高度 的 一致性 ，</segment>
+		<segment id="242" parent="435" relname="joint-list">要 效法 自然 、</segment>
+		<segment id="243" parent="435" relname="joint-list">遵循 自然 的 规律 。</segment>
+		<group id="244" type="multinuc" parent="5" relname="context-background"/>
+		<group id="245" type="span" parent="270" relname="context-background"/>
+		<group id="246" type="multinuc" parent="248" relname="organization-preparation"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="250" relname="span"/>
+		<group id="249" type="span" parent="247" relname="explanation-evidence"/>
+		<group id="250" type="span" parent="270" relname="span"/>
+		<group id="252" type="multinuc" parent="13" relname="elaboration-additional"/>
+		<group id="253" type="multinuc" parent="267" relname="joint-list"/>
+		<group id="254" type="multinuc" parent="267" relname="joint-list"/>
+		<group id="255" type="multinuc" parent="267" relname="joint-list"/>
+		<group id="256" type="multinuc" parent="267" relname="joint-list"/>
+		<group id="257" type="multinuc" parent="258" relname="adversative-contrast"/>
+		<group id="258" type="multinuc" parent="267" relname="joint-list"/>
+		<group id="259" type="span" parent="267" relname="joint-list"/>
+		<group id="260" type="multinuc" parent="266" relname="joint-list"/>
+		<group id="261" type="span" parent="267" relname="joint-list"/>
+		<group id="262" type="span" parent="267" relname="joint-list"/>
+		<group id="263" type="span" parent="267" relname="joint-list"/>
+		<group id="264" type="span" parent="267" relname="joint-list"/>
+		<group id="266" type="multinuc" parent="267" relname="joint-list"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="17" relname="elaboration-additional"/>
+		<group id="270" type="span" parent="350" relname="span"/>
+		<group id="271" type="multinuc" parent="47" relname="organization-preparation"/>
+		<group id="272" type="span" parent="280" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="281" relname="joint-list"/>
+		<group id="275" type="span" parent="276" relname="joint-list"/>
+		<group id="276" type="multinuc" parent="281" relname="joint-list"/>
+		<group id="278" type="span" parent="347" relname="adversative-contrast"/>
+		<group id="279" type="span" parent="348" relname="joint-list"/>
+		<group id="280" type="multinuc" parent="348" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="283" relname="span"/>
+		<group id="282" type="span" parent="276" relname="joint-list"/>
+		<group id="283" type="span" parent="351" relname="span"/>
+		<group id="284" type="span" parent="285" relname="same-unit"/>
+		<group id="285" type="multinuc" parent="283" relname="evaluation-comment"/>
+		<group id="286" type="span" parent="289" relname="joint-list"/>
+		<group id="287" type="span" parent="288" relname="same-unit"/>
+		<group id="288" type="multinuc" parent="289" relname="joint-list"/>
+		<group id="289" type="multinuc" parent="351" relname="elaboration-additional"/>
+		<group id="290" type="span" parent="68" relname="elaboration-attribute"/>
+		<group id="291" type="span" parent="292" relname="same-unit"/>
+		<group id="292" type="multinuc" parent="289" relname="joint-list"/>
+		<group id="293" type="span" parent="296" relname="same-unit"/>
+		<group id="294" type="multinuc" parent="295" relname="joint-list"/>
+		<group id="295" type="multinuc" parent="352" relname="causal-result"/>
+		<group id="296" type="multinuc" parent="294" relname="joint-list"/>
+		<group id="297" type="span" parent="344" relname="same-unit"/>
+		<group id="298" type="span" parent="299" relname="restatement-repetition"/>
+		<group id="299" type="multinuc" parent="303" relname="span"/>
+		<group id="300" type="span" parent="301" relname="same-unit"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="299" relname="elaboration-additional"/>
+		<group id="303" type="span" parent="319" relname="joint-list"/>
+		<group id="304" type="span" parent="305" relname="same-unit"/>
+		<group id="305" type="multinuc" parent="317" relname="span"/>
+		<group id="306" type="multinuc" parent="310" relname="causal-cause"/>
+		<group id="307" type="span" parent="309" relname="joint-list"/>
+		<group id="308" type="span" parent="309" relname="joint-list"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="91" relname="explanation-justify"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="305" relname="explanation-evidence"/>
+		<group id="314" type="multinuc" parent="102" relname="contingency-condition"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="restatement-partial"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="319" relname="joint-list"/>
+		<group id="319" type="multinuc" parent="345" relname="span"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="104" relname="explanation-evidence"/>
+		<group id="322" type="multinuc" parent="324" relname="contingency-condition"/>
+		<group id="323" type="span" parent="325" relname="span"/>
+		<group id="324" type="multinuc" parent="323" relname="span"/>
+		<group id="325" type="span" parent="326" relname="explanation-justify"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="319" relname="joint-list"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="341" relname="span"/>
+		<group id="331" type="span" parent="330" relname="restatement-partial"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="345" relname="evaluation-comment"/>
+		<group id="334" type="multinuc" parent="441" relname="span"/>
+		<group id="335" type="span" parent="336" relname="same-unit"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="337" type="span" parent="334" relname="elaboration-additional"/>
+		<group id="338" type="span" parent="440" relname="span"/>
+		<group id="339" type="span" parent="355" relname="organization-preparation"/>
+		<group id="341" type="span" parent="113" relname="elaboration-additional"/>
+		<group id="342" type="span" parent="319" relname="joint-list"/>
+		<group id="344" type="multinuc" parent="319" relname="organization-preparation"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="353" relname="elaboration-additional"/>
+		<group id="347" type="multinuc" parent="349" relname="span"/>
+		<group id="348" type="multinuc" parent="347" relname="elaboration-additional"/>
+		<group id="349" type="span" parent="452" relname="joint-other"/>
+		<group id="350" type="span" parent="347" relname="adversative-contrast"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="352" type="span" parent="353" relname="span"/>
+		<group id="353" type="span" parent="455" relname="span"/>
+		<group id="354" type="multinuc" parent="135" relname="elaboration-additional"/>
+		<group id="355" type="span" parent="364" relname="span"/>
+		<group id="356" type="multinuc" parent="362" relname="context-circumstance"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="359" relname="joint-list"/>
+		<group id="359" type="multinuc" parent="362" relname="span"/>
+		<group id="361" type="multinuc" parent="359" relname="adversative-antithesis"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="366" relname="joint-sequence"/>
+		<group id="364" type="span" parent="338" relname="elaboration-additional"/>
+		<group id="366" type="multinuc" parent="439" relname="span"/>
+		<group id="367" type="multinuc" parent="379" relname="joint-other"/>
+		<group id="368" type="span" parent="370" relname="span"/>
+		<group id="369" type="multinuc" parent="368" relname="span"/>
+		<group id="370" type="span" parent="379" relname="joint-other"/>
+		<group id="371" type="multinuc" parent="372" relname="adversative-contrast"/>
+		<group id="372" type="multinuc" parent="379" relname="joint-other"/>
+		<group id="373" type="span" parent="374" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="372" relname="adversative-contrast"/>
+		<group id="376" type="multinuc" parent="378" relname="joint-list"/>
+		<group id="377" type="span" parent="376" relname="same-unit"/>
+		<group id="378" type="multinuc" parent="379" relname="joint-other"/>
+		<group id="379" type="multinuc" parent="380" relname="span"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="366" relname="explanation-evidence"/>
+		<group id="382" type="span" parent="446" relname="organization-preparation"/>
+		<group id="383" type="multinuc" parent="172" relname="elaboration-additional"/>
+		<group id="387" type="span" parent="388" relname="joint-list"/>
+		<group id="388" type="multinuc" parent="390" relname="span"/>
+		<group id="389" type="span" parent="388" relname="adversative-concession"/>
+		<group id="390" type="span" parent="391" relname="span"/>
+		<group id="391" type="span" parent="446" relname="joint-list"/>
+		<group id="392" type="span" parent="393" relname="same-unit"/>
+		<group id="393" type="multinuc" parent="394" relname="span"/>
+		<group id="394" type="span" parent="395" relname="span"/>
+		<group id="395" type="span" parent="445" relname="span"/>
+		<group id="396" type="multinuc" parent="442" relname="joint-list"/>
+		<group id="397" type="span" parent="398" relname="same-unit"/>
+		<group id="398" type="multinuc" parent="442" relname="joint-list"/>
+		<group id="399" type="span" parent="400" relname="same-unit"/>
+		<group id="400" type="multinuc" parent="443" relname="span"/>
+		<group id="401" type="span" parent="402" relname="same-unit"/>
+		<group id="402" type="multinuc" parent="404" relname="span"/>
+		<group id="403" type="multinuc" parent="404" relname="evaluation-comment"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" parent="456" relname="joint-list"/>
+		<group id="406" type="multinuc" parent="408" relname="elaboration-additional"/>
+		<group id="407" type="span" parent="448" relname="joint-list"/>
+		<group id="408" type="span" parent="407" relname="span"/>
+		<group id="409" type="span" parent="410" relname="same-unit"/>
+		<group id="410" type="multinuc" parent="411" relname="span"/>
+		<group id="411" type="span" parent="202" relname="elaboration-additional"/>
+		<group id="412" type="span" parent="448" relname="joint-list"/>
+		<group id="413" type="span" parent="414" relname="span"/>
+		<group id="414" type="span" parent="415" relname="same-unit"/>
+		<group id="415" type="multinuc" parent="416" relname="joint-list"/>
+		<group id="416" type="multinuc" parent="417" relname="span"/>
+		<group id="417" type="span" parent="449" relname="joint-list"/>
+		<group id="418" type="multinuc" parent="217" relname="elaboration-attribute"/>
+		<group id="419" type="span" parent="420" relname="same-unit"/>
+		<group id="420" type="multinuc" parent="449" relname="joint-list"/>
+		<group id="421" type="span" parent="420" relname="same-unit"/>
+		<group id="422" type="span" parent="424" relname="same-unit"/>
+		<group id="423" type="span" parent="424" relname="same-unit"/>
+		<group id="424" type="multinuc" parent="425" relname="joint-list"/>
+		<group id="425" type="multinuc" parent="450" relname="span"/>
+		<group id="426" type="span" parent="427" relname="same-unit"/>
+		<group id="427" type="multinuc" parent="425" relname="joint-list"/>
+		<group id="428" type="span" parent="429" relname="same-unit"/>
+		<group id="429" type="multinuc" parent="425" relname="evaluation-comment"/>
+		<group id="430" type="span" parent="431" relname="same-unit"/>
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="432" type="span" parent="434" relname="adversative-contrast"/>
+		<group id="433" type="span" parent="434" relname="adversative-contrast"/>
+		<group id="434" type="multinuc" parent="435" relname="causal-cause"/>
+		<group id="435" type="multinuc" parent="436" relname="span"/>
+		<group id="436" type="span" parent="462" relname="span"/>
+		<group id="439" type="span" parent="456" relname="joint-list"/>
+		<group id="440" type="span" parent="366" relname="joint-sequence"/>
+		<group id="441" type="span" parent="366" relname="joint-sequence"/>
+		<group id="442" type="multinuc" parent="444" relname="span"/>
+		<group id="443" type="span" parent="442" relname="explanation-justify"/>
+		<group id="444" type="span" parent="395" relname="elaboration-additional"/>
+		<group id="445" type="span" parent="446" relname="joint-list"/>
+		<group id="446" type="multinuc" parent="447" relname="span"/>
+		<group id="447" type="span" parent="456" relname="joint-list"/>
+		<group id="448" type="multinuc" parent="456" relname="evaluation-comment"/>
+		<group id="449" type="multinuc" parent="451" relname="joint-other"/>
+		<group id="450" type="span" parent="451" relname="joint-other"/>
+		<group id="451" type="multinuc" parent="452" relname="joint-other"/>
+		<group id="452" type="multinuc" parent="462" relname="explanation-evidence"/>
+		<group id="455" type="span" parent="452" relname="joint-other"/>
+		<group id="456" type="multinuc" parent="457" relname="span"/>
+		<group id="457" type="span" parent="452" relname="joint-other"/>
+		<group id="462" type="span" parent="465" relname="span"/>
+		<group id="463" type="span" />
+		<group id="464" type="span" parent="463" relname="span"/>
+		<group id="465" type="span" parent="464" relname="span"/>
+	</body>
+</rst>Set-Cookie: userid=h____-st_YmY-eFcdlFDYahnVY6XQNYm1nBXcNxzxZt8iXh21uXnc47yZbDs8zeNhnNaaAfwoakdFDczz_CaxAPFm4kiA

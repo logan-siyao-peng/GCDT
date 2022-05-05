@@ -1,0 +1,377 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution-positive">史提芬·沃德 ：</segment>
+		<segment id="2" parent="175" relname="span">人们 开始 生活 在 虚假 的 现实 中</segment>
+		<segment id="3" parent="337" relname="context-circumstance">【 2020年 11月 18日 讯 】</segment>
+		<segment id="4" parent="177" relname="same-unit">地球 上 近 80亿 人 中 的 绝大多数 人 继续</segment>
+		<segment id="5" parent="6" relname="mode-means">通过 媒体 和 社交 网络</segment>
+		<segment id="6" parent="176" relname="span">获得 有关 新冠 病毒 传播 的 讯息 。</segment>
+		<segment id="7" parent="178" relname="joint-list">与此同时 ， 在 世界 不同 地区 ， 当局 、 记者 和 公民 对 大 流行 的 威胁 和 长期 隔离 的 经济 后果 有 不同 的 认识 。</segment>
+		<segment id="8" parent="179" relname="span">加拿大 新闻 学院 院长 、 英属哥伦比亚 大学 教授 史提芬·J·A·沃德</segment>
+		<segment id="9" parent="8" relname="restatement-partial">（ Stephen J. A. Ward ） ，</segment>
+		<segment id="10" parent="180" relname="same-unit">同时 也 是 威斯康星 大学 新闻 伦理 中心 的 创始 主任 ，</segment>
+		<segment id="11" parent="12" relname="context-circumstance">他 在 接受 俄语 维基 新闻 采访 时 ，</segment>
+		<segment id="12" parent="181" relname="span">谈到 了 他 对 当前 新冠 大 流行病 报道 形势 的 看法 。</segment>
+		<segment id="13" parent="185" relname="context-circumstance">在 采访 时 ，</segment>
+		<segment id="14" parent="182" relname="span">作为 前 战地 记者 和 加拿大 记者 协会</segment>
+		<segment id="15" parent="14" relname="restatement-partial">（ CAJ ）</segment>
+		<segment id="16" parent="184" relname="span">道德 委员会 的 负责人 罗马·巴拉宾</segment>
+		<segment id="17" parent="16" relname="restatement-partial">（ Roman Balabin ） ，</segment>
+		<segment id="18" parent="185" relname="span">沃德 教授 评价 了 目前 媒体 对 病毒 的 报道 。</segment>
+		<segment id="19" parent="198" relname="attribution-positive">2017年 ， 你 写道 ：</segment>
+		<segment id="20" parent="196" relname="context-background">“ 互联网 曾经 风靡 一时 ，</segment>
+		<segment id="21" parent="190" relname="attribution-positive">我们 曾 称赞</segment>
+		<segment id="22" parent="190" relname="joint-list">它 ‘ 使 媒体 民主化</segment>
+		<segment id="23" parent="190" relname="joint-list">并 使 “ 我们 人民 ” 一 词 成为 现实 ’</segment>
+		<segment id="24" parent="193" relname="same-unit">一 个 由 巨魔 、 黑客 、 种族 主义者 、 狂热 分子 、 阴谋论者 和 政府</segment>
+		<segment id="25" parent="26" relname="purpose-goal">为 操纵 社交 网络 ，</segment>
+		<segment id="26" parent="192" relname="span">而 创造</segment>
+		<segment id="27" parent="194" relname="joint-list">由 机器人 组成 的 ，</segment>
+		<segment id="28" parent="195" relname="span">喧闹 而 又 经常 危险 的 全球 环境 。 ”</segment>
+		<segment id="29" parent="30" relname="attribution-positive">你 认为</segment>
+		<segment id="30" parent="197" relname="span">从 那 以后 情况 有 变化 吗 ？</segment>
+		<segment id="31" parent="201" relname="joint-list">不 ， 情况 并 没有 改变 ，</segment>
+		<segment id="32" parent="201" relname="joint-list">事实 上 它 已经 变得 更 糟 了 。</segment>
+		<segment id="33" parent="202" relname="span">社会 的 公共 讯息 渠道</segment>
+		<segment id="34" parent="33" relname="elaboration-attribute">── 今天 相当于 他们 与 世界 或 “ 现实 ” 的 接触 被 扭曲 ，</segment>
+		<segment id="35" parent="203" relname="same-unit">意味 着 他们 不仅 会 误解 问题 ，</segment>
+		<segment id="36" parent="204" relname="joint-list">而且 政府 和 其他 虚假 讯息 的 代理人 将 更 有 能力 操纵 他们 和 公众 舆论 。</segment>
+		<segment id="37" parent="207" relname="same-unit">公众 开始 生活 在 一 个</segment>
+		<segment id="38" parent="205" relname="joint-list">由 意识 形态 主义者 、 冒充 民粹 主义者 的</segment>
+		<segment id="39" parent="205" relname="joint-list">暴君 和 极右翼 团体 制造 的</segment>
+		<segment id="40" parent="206" relname="span">虚假 现实 中 。</segment>
+		<segment id="41" parent="210" relname="same-unit">在 一 个</segment>
+		<segment id="42" parent="208" relname="joint-list">如此 相互 联系</segment>
+		<segment id="43" parent="208" relname="joint-list">和 相互 依存 的</segment>
+		<segment id="44" parent="209" relname="span">全球 世界 里 ， 我 想 不 出</segment>
+		<segment id="45" parent="46" relname="elaboration-attribute">比 这 更 危险 的</segment>
+		<segment id="46" parent="211" relname="span">和平 共处 的 发展 了 。</segment>
+		<segment id="47" parent="213" relname="same-unit">只要 看看</segment>
+		<segment id="48" parent="49" relname="elaboration-attribute">围绕 COVID-19 流传 的</segment>
+		<segment id="49" parent="212" relname="span">错误 讯息 的 程度</segment>
+		<segment id="50" parent="214" relname="span">就 知道 了 。</segment>
+		<segment id="51" parent="52" relname="causal-cause">我们 已经 将 我们 的 公共 渠道 “ 政治化 ” ，</segment>
+		<segment id="52" parent="215" relname="span">以 至于 任何 人 都 难以 获得 合理 客观 、 非极化 的 讯息 。</segment>
+		<segment id="53" parent="216" relname="joint-list">维基 新闻 是 一 个 新闻 媒体 项目 ，</segment>
+		<segment id="54" parent="216" relname="joint-list">任何 人 都 可以 编辑 任何 文章 。</segment>
+		<segment id="55" parent="217" relname="span">这 是否 会 给 参与者 带来 任何 特殊 的 道德 问题 ？</segment>
+		<segment id="56" parent="252" relname="organization-preparation">这 个 问题 围绕 着 “ 任何 人 ” 。</segment>
+		<segment id="57" parent="230" relname="mode-manner">就 像 任何 其他 维基 服务 的 用户 一样 ，</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">我 看到 的</segment>
+		<segment id="59" parent="224" relname="span">文章 ，</segment>
+		<segment id="60" parent="224" relname="elaboration-attribute">（ 例如 在 维基 媒体 上 ）</segment>
+		<segment id="61" parent="226" relname="same-unit">是 关于 非 政治 主题 的 ， 例如 ， 哲学家 或 作家 ，</segment>
+		<segment id="62" parent="227" relname="attribution-positive">我 知道</segment>
+		<segment id="63" parent="227" relname="joint-list">这些 文章 是 不 完整 的 ，</segment>
+		<segment id="64" parent="227" relname="joint-list">而且 似乎 是 倾斜 的 ，</segment>
+		<segment id="65" parent="229" relname="adversative-contrast">但 我 并不 感到 惊讶 。</segment>
+		<segment id="66" parent="233" relname="context-circumstance">但 当 涉及 到 新闻 时 ，</segment>
+		<segment id="67" parent="68" relname="elaboration-attribute">管理 维基 新闻 的</segment>
+		<segment id="68" parent="232" relname="span">人 需要 格外 警惕 ，</segment>
+		<segment id="69" parent="234" relname="joint-list">检查 谁 在 写 文章 ，</segment>
+		<segment id="70" parent="236" relname="span">并 透明 地 提供 讯息 ，</segment>
+		<segment id="71" parent="72" relname="attribution-positive">说明</segment>
+		<segment id="72" parent="235" relname="span">为什么 这 个 人 有 能力 写 这 篇 文章 。</segment>
+		<segment id="73" parent="74" relname="attribution-negative">我 不 认为</segment>
+		<segment id="74" parent="238" relname="span">维基 新闻 可以 保证 完全 的 客观性 或 公正性 ，</segment>
+		<segment id="75" parent="238" relname="adversative-concession">无论 这 意味 着 什么 ，</segment>
+		<segment id="76" parent="241" relname="organization-preparation">但 他们 需要 采取 媒体 道德 的 基本 步骤 ：</segment>
+		<segment id="77" parent="241" relname="joint-list">负 责任 、</segment>
+		<segment id="78" parent="241" relname="joint-list">透明 、</segment>
+		<segment id="79" parent="241" relname="joint-list">检查 文章 是否 有 偏见 或 不 完整 ，</segment>
+		<segment id="80" parent="242" relname="span">文章 要 接受 独立 媒体 专家 的 检查</segment>
+		<segment id="81" parent="80" relname="restatement-partial">（ Review ） ，</segment>
+		<segment id="82" parent="241" relname="joint-list">并 明确 阐述 他们 的 道德 准则 ，</segment>
+		<segment id="83" parent="243" relname="elaboration-additional">这 是 强制性 的 。</segment>
+		<segment id="84" parent="245" relname="span">教授 克劳斯·梅耶</segment>
+		<segment id="85" parent="84" relname="restatement-partial">（ Klaus Meyer ）</segment>
+		<segment id="86" parent="246" relname="span">和 温森克·维斯</segment>
+		<segment id="87" parent="86" relname="restatement-partial">（ Vincenz Wyss ）</segment>
+		<segment id="88" parent="247" relname="same-unit">争论 ，</segment>
+		<segment id="89" parent="248" relname="span">在 2月 和 3月 初 ， 有关 COVID-19 流行病 的 新闻 “ 在 科学 估计 中 的 观点 多样性 和 偏见 很 少 得到 体现 ” 。</segment>
+		<segment id="90" parent="249" relname="span">您 是否 同意 这 种 观点 ？</segment>
+		<segment id="91" parent="250" relname="joint-disjunction">覆盖 范围 大 部分 是 关键 的</segment>
+		<segment id="92" parent="250" relname="joint-disjunction">还是 非 关键 的 ？</segment>
+		<segment id="93" parent="257" relname="adversative-concession">报道 科学 上 的 不确定性 总是 一 个 问题 ，</segment>
+		<segment id="94" parent="256" relname="organization-preparation">公平 地 说 ，</segment>
+		<segment id="95" parent="96" relname="elaboration-attribute">今 次 大 流行病 包含 的</segment>
+		<segment id="96" parent="256" relname="span">不确定性 超出 了 常规 。</segment>
+		<segment id="97" parent="259" relname="contingency-condition">即使 是 世界 上 最 伟大 的 流行病 专家 ，</segment>
+		<segment id="98" parent="99" relname="attribution-negative">也 无法 确定</segment>
+		<segment id="99" parent="259" relname="span">未来 会 发生 什么 。</segment>
+		<segment id="100" parent="261" relname="adversative-contrast">这 不 是 因为 缺乏 知识 ，</segment>
+		<segment id="101" parent="263" relname="span">而 是 人类 不 可能 总是 预测 复杂 疾病 的 后果 。</segment>
+		<segment id="102" parent="101" relname="causal-cause">有 这么 多 因素 。</segment>
+		<segment id="103" parent="104" relname="attribution-positive">另 一 个 问题 是 ， 太 多 人 认为</segment>
+		<segment id="104" parent="264" relname="span">科学 是 “ 确定 ” 的 知识 ，</segment>
+		<segment id="105" parent="106" relname="attribution-positive">或者 说</segment>
+		<segment id="106" parent="265" relname="span">是 纯粹 的 事实 ，</segment>
+		<segment id="107" parent="269" relname="same-unit">而 不 是</segment>
+		<segment id="108" parent="109" relname="elaboration-attribute">基于 现有 最佳 证据 和 推理 模型 的</segment>
+		<segment id="109" parent="268" relname="span">可能 知识 。</segment>
+		<segment id="110" parent="111" relname="attribution-positive">所以 ， 当 记者 报道</segment>
+		<segment id="111" parent="270" relname="span">科学家 对 某 件 事情 “ 不 确定 ” 时 ，</segment>
+		<segment id="112" parent="273" relname="same-unit">太 多 人 就 会 得出</segment>
+		<segment id="113" parent="114" relname="attribution-negative">科学家 不 知道</segment>
+		<segment id="114" parent="271" relname="span">自己 在 说 什么 的</segment>
+		<segment id="115" parent="272" relname="span">结论 ，</segment>
+		<segment id="116" parent="274" relname="joint-sequence">并 把 他们 和 非 专家 归 为 同 一 桶 。</segment>
+		<segment id="117" parent="118" relname="attribution-positive">我 赞成</segment>
+		<segment id="118" parent="277" relname="span">对 不确定性 进行 细致 入微 的 报道 ，</segment>
+		<segment id="119" parent="120" relname="attribution-positive">我 知道</segment>
+		<segment id="120" parent="278" relname="span">很多 报道 在 这 件 事 上 没有 做好 。</segment>
+		<segment id="121" parent="122" relname="attribution-positive">这 说明</segment>
+		<segment id="122" parent="279" relname="span">各 大 新闻 单位 需要 在 沟通 风险 和 不确定性 方面 进行 自我 宣传 ，</segment>
+		<segment id="123" parent="281" relname="joint-list">这 是 我 多 年 来 一直 强调 的 。</segment>
+		<segment id="124" parent="281" relname="joint-list">也好 ， 新闻 学院 应该 把 它 作为 教学 的 一 部分 。</segment>
+		<segment id="125" parent="288" relname="attribution-positive">克劳斯·梅耶 和 温森克·维斯 还 表示 ，</segment>
+		<segment id="126" parent="287" relname="context-circumstance">“ 德国 和 瑞士 的 媒体 在 报道 时 ，</segment>
+		<segment id="127" parent="287" relname="span">基本 没有 距离感</segment>
+		<segment id="128" parent="127" relname="explanation-justify">── 他们 的 资讯 与 联邦 和 州 的 官方 讯息 一致 。 ”</segment>
+		<segment id="129" parent="290" relname="span">你 同意 这 个 观点 吗 ？</segment>
+		<segment id="130" parent="291" relname="joint-disjunction">美国 和 加拿大 的 情况 是 相似 ，</segment>
+		<segment id="131" parent="291" relname="joint-disjunction">还是 不同 ？</segment>
+		<segment id="132" parent="312" relname="organization-preparation">这 是 报道 健康 问题 和 严重 事态 发展 的 另 一 个 问题 。</segment>
+		<segment id="133" parent="293" relname="attribution-positive">新闻 媒体 必须 告诉 人们</segment>
+		<segment id="134" parent="293" relname="joint-list">他们 的 政府 和 相关 机构 在 说 什么 ，</segment>
+		<segment id="135" parent="293" relname="joint-list">做 什么 ， 对 事情 。</segment>
+		<segment id="136" parent="295" relname="span">有 一 个 巨大 的 讯息 真空 需要 填补 ，</segment>
+		<segment id="137" parent="136" relname="adversative-antithesis">而 这 个 真空 将 被 恐惧 和 错误 讯息 所 填补 ， 否则 。</segment>
+		<segment id="138" parent="296" relname="adversative-contrast">然而 ， 与 此 同时 ， 至关重要 的 是 ， 媒体 要 批判性 地 对待 官方 讯息 ，</segment>
+		<segment id="139" parent="296" relname="adversative-contrast">而 不 是 简单 地 “ 接受 ” 所有 讯息 。</segment>
+		<segment id="140" parent="296" relname="restatement-partial">他们 需要 进行 自己 的 独立 调查 和 报道 。</segment>
+		<segment id="141" parent="302" relname="span">在 北美 ， 它 的 纪录 好坏 参半 。</segment>
+		<segment id="142" parent="298" relname="same-unit">在 美国 ， 各 大 新闻 机构 都 对 特朗普 总统 及</segment>
+		<segment id="143" parent="144" relname="elaboration-attribute">其 政权 产生 的</segment>
+		<segment id="144" parent="297" relname="span">官方 路线 提出 了 严重 的 质疑 。</segment>
+		<segment id="145" parent="299" relname="span">但 太 多 时候 ， 特朗普 每天 都 在 用 他 那 可笑 的 新闻 发布会</segment>
+		<segment id="146" parent="145" relname="purpose-goal">来 主导 报道 ，</segment>
+		<segment id="147" parent="299" relname="elaboration-additional">病毒 怀疑论 是 主题 。</segment>
+		<segment id="148" parent="303" relname="span">在 加拿大 ， 加拿大 广播 公司</segment>
+		<segment id="149" parent="148" relname="restatement-partial">（ CBC ）</segment>
+		<segment id="150" parent="304" relname="same-unit">在 平衡 官方 和 非 官方 讯息 方面 做 得 很 好 ，</segment>
+		<segment id="151" parent="305" relname="joint-list">各 大 报纸 也 是 如此 。</segment>
+		<segment id="152" parent="306" relname="attribution-positive">加拿大 的 主要 媒体 也 很 好 地 展示 了</segment>
+		<segment id="153" parent="306" relname="joint-list">加拿大 如何 反应 迟缓 ，</segment>
+		<segment id="154" parent="306" relname="joint-list">在 许多 方面 毫无 准备 。</segment>
+		<segment id="155" parent="156" relname="context-background">病死 人数 在 俄罗斯 媒体 上 基本 被 表述 为 “ 真实 事实 ” 。</segment>
+		<segment id="156" parent="317" relname="span">能否 如此 命名 ？</segment>
+		<segment id="157" parent="310" relname="span">不 ， 它们 不 是 “ 真实 的 事实 ” ，</segment>
+		<segment id="158" parent="157" relname="contingency-condition">如果 这 意味 着 不容置疑 或 肯定 的话 。</segment>
+		<segment id="159" parent="330" relname="organization-preparation">人们 为什么 要 接受 这样 的 宣传 ？</segment>
+		<segment id="160" parent="318" relname="same-unit">任何 一 个</segment>
+		<segment id="161" parent="162" relname="elaboration-attribute">有 理智 的</segment>
+		<segment id="162" parent="319" relname="span">人 都 知道 ，</segment>
+		<segment id="163" parent="320" relname="span">现有 的 关于 病毒 和 死亡 人数 等 数据 并不 完整 ，</segment>
+		<segment id="164" parent="321" relname="span">取决于 估计 ，</segment>
+		<segment id="165" parent="164" relname="elaboration-attribute">而 估计 又 取决于 检测 的 多少 。</segment>
+		<segment id="166" parent="167" relname="organization-preparation">而 俄罗斯 或 其他 地方 的 政府 ， 都 有 一 个 利益</segment>
+		<segment id="167" parent="322" relname="span">就 是 让 事实 看起来 尽可能 的 好 。</segment>
+		<segment id="168" parent="324" relname="attribution-positive">这 就 是 为什么 媒体 报道 需要 说</segment>
+		<segment id="169" parent="324" relname="same-unit">这 是</segment>
+		<segment id="170" parent="171" relname="elaboration-attribute">政府 公布 的</segment>
+		<segment id="171" parent="323" relname="span">数据 ，</segment>
+		<segment id="172" parent="325" relname="joint-sequence">然后 继续 指出 任何 不确定 因素 。</segment>
+		<segment id="173" parent="326" relname="adversative-contrast">例如 ， CBC 关于 病毒 的 网站 上 有 很多 关于 疾病 传播 的 图表 ；</segment>
+		<segment id="174" parent="326" relname="adversative-contrast">但是 ， 在 网页 的 开头 ， 它 明确 指出 了 这些 数据 的 局限性 ， 例如 采样 的 测试 次数 。</segment>
+		<group id="175" type="span" parent="338" relname="organization-heading"/>
+		<group id="176" type="span" parent="177" relname="same-unit"/>
+		<group id="177" type="multinuc" parent="178" relname="joint-list"/>
+		<group id="178" type="multinuc" parent="187" relname="context-circumstance"/>
+		<group id="179" type="span" parent="180" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="181" relname="context-background"/>
+		<group id="181" type="span" parent="187" relname="span"/>
+		<group id="182" type="span" parent="183" relname="same-unit"/>
+		<group id="183" type="multinuc" parent="18" relname="context-background"/>
+		<group id="184" type="span" parent="183" relname="same-unit"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="188" relname="elaboration-additional"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="336" relname="context-background"/>
+		<group id="190" type="multinuc" parent="191" relname="span"/>
+		<group id="191" type="span" parent="196" relname="span"/>
+		<group id="192" type="span" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="194" relname="joint-list"/>
+		<group id="194" type="multinuc" parent="28" relname="elaboration-attribute"/>
+		<group id="195" type="span" parent="191" relname="elaboration-additional"/>
+		<group id="196" type="span" parent="198" relname="span"/>
+		<group id="197" type="span" parent="200" relname="span"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="197" relname="context-background"/>
+		<group id="200" type="span" parent="222" relname="topic-question"/>
+		<group id="201" type="multinuc" parent="222" relname="span"/>
+		<group id="202" type="span" parent="203" relname="same-unit"/>
+		<group id="203" type="multinuc" parent="204" relname="joint-list"/>
+		<group id="204" type="multinuc" parent="220" relname="span"/>
+		<group id="205" type="multinuc" parent="40" relname="elaboration-attribute"/>
+		<group id="206" type="span" parent="207" relname="same-unit"/>
+		<group id="207" type="multinuc" parent="210" relname="context-circumstance"/>
+		<group id="208" type="multinuc" parent="44" relname="elaboration-attribute"/>
+		<group id="209" type="span" parent="210" relname="same-unit"/>
+		<group id="210" type="multinuc" parent="218" relname="span"/>
+		<group id="211" type="span" parent="210" relname="same-unit"/>
+		<group id="212" type="span" parent="213" relname="same-unit"/>
+		<group id="213" type="multinuc" parent="50" relname="contingency-condition"/>
+		<group id="214" type="span" parent="219" relname="span"/>
+		<group id="215" type="span" parent="214" relname="explanation-justify"/>
+		<group id="216" type="multinuc" parent="55" relname="context-background"/>
+		<group id="217" type="span" parent="253" relname="topic-question"/>
+		<group id="218" type="span" parent="204" relname="evaluation-comment"/>
+		<group id="219" type="span" parent="220" relname="explanation-evidence"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="201" relname="elaboration-additional"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="223" type="span" parent="336" relname="joint-other"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="229" relname="context-circumstance"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="229" relname="adversative-contrast"/>
+		<group id="229" type="multinuc" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="237" relname="adversative-antithesis"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" parent="237" relname="span"/>
+		<group id="234" type="multinuc" parent="232" relname="mode-means"/>
+		<group id="235" type="span" parent="70" relname="elaboration-additional"/>
+		<group id="236" type="span" parent="234" relname="joint-list"/>
+		<group id="237" type="span" parent="252" relname="span"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="240" relname="adversative-contrast"/>
+		<group id="240" type="multinuc" parent="253" relname="span"/>
+		<group id="241" type="multinuc" parent="243" relname="span"/>
+		<group id="242" type="span" parent="241" relname="joint-list"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="240" relname="adversative-contrast"/>
+		<group id="245" type="span" parent="247" relname="same-unit"/>
+		<group id="246" type="span" parent="247" relname="same-unit"/>
+		<group id="247" type="multinuc" parent="89" relname="attribution-positive"/>
+		<group id="248" type="span" parent="90" relname="context-background"/>
+		<group id="249" type="span" parent="251" relname="joint-list"/>
+		<group id="250" type="multinuc" parent="251" relname="joint-list"/>
+		<group id="251" type="multinuc" parent="285" relname="topic-question"/>
+		<group id="252" type="span" parent="254" relname="span"/>
+		<group id="253" type="span" parent="255" relname="span"/>
+		<group id="254" type="span" parent="240" relname="context-background"/>
+		<group id="255" type="span" parent="336" relname="joint-other"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="262" relname="context-background"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="262" relname="span"/>
+		<group id="261" type="multinuc" parent="260" relname="explanation-justify"/>
+		<group id="262" type="span" parent="284" relname="span"/>
+		<group id="263" type="span" parent="261" relname="adversative-contrast"/>
+		<group id="264" type="span" parent="266" relname="span"/>
+		<group id="265" type="span" parent="264" relname="restatement-partial"/>
+		<group id="266" type="span" parent="267" relname="adversative-contrast"/>
+		<group id="267" type="multinuc" parent="276" relname="span"/>
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="267" relname="adversative-contrast"/>
+		<group id="270" type="span" parent="274" relname="context-circumstance"/>
+		<group id="271" type="span" parent="115" relname="elaboration-attribute"/>
+		<group id="272" type="span" parent="273" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="274" relname="joint-sequence"/>
+		<group id="274" type="multinuc" parent="275" relname="span"/>
+		<group id="275" type="span" parent="267" relname="causal-result"/>
+		<group id="276" type="span" parent="285" relname="joint-other"/>
+		<group id="277" type="span" parent="283" relname="span"/>
+		<group id="278" type="span" parent="280" relname="explanation-evidence"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="282" relname="span"/>
+		<group id="281" type="multinuc" parent="279" relname="elaboration-additional"/>
+		<group id="282" type="span" parent="277" relname="adversative-concession"/>
+		<group id="283" type="span" parent="285" relname="joint-other"/>
+		<group id="284" type="span" parent="285" relname="joint-other"/>
+		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="286" type="span" parent="336" relname="joint-other"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="129" relname="context-background"/>
+		<group id="290" type="span" parent="292" relname="joint-list"/>
+		<group id="291" type="multinuc" parent="292" relname="joint-list"/>
+		<group id="292" type="multinuc" parent="315" relname="topic-question"/>
+		<group id="293" type="multinuc" parent="294" relname="span"/>
+		<group id="294" type="span" parent="311" relname="span"/>
+		<group id="295" type="span" parent="294" relname="elaboration-additional"/>
+		<group id="296" type="multinuc" parent="313" relname="span"/>
+		<group id="297" type="span" parent="298" relname="same-unit"/>
+		<group id="298" type="multinuc" parent="301" relname="adversative-contrast"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="adversative-contrast"/>
+		<group id="301" type="multinuc" parent="141" relname="explanation-evidence"/>
+		<group id="302" type="span" parent="308" relname="joint-list"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="305" relname="joint-list"/>
+		<group id="305" type="multinuc" parent="308" relname="joint-list"/>
+		<group id="306" type="multinuc" parent="307" relname="span"/>
+		<group id="307" type="span" parent="305" relname="joint-list"/>
+		<group id="308" type="multinuc" parent="315" relname="joint-other"/>
+		<group id="310" type="span" parent="334" relname="span"/>
+		<group id="311" type="span" parent="312" relname="joint-list"/>
+		<group id="312" type="multinuc" parent="314" relname="span"/>
+		<group id="313" type="span" parent="312" relname="joint-list"/>
+		<group id="314" type="span" parent="315" relname="joint-other"/>
+		<group id="315" type="multinuc" parent="316" relname="span"/>
+		<group id="316" type="span" parent="336" relname="joint-other"/>
+		<group id="317" type="span" parent="334" relname="topic-question"/>
+		<group id="318" type="multinuc" parent="320" relname="attribution-positive"/>
+		<group id="319" type="span" parent="318" relname="same-unit"/>
+		<group id="320" type="span" parent="330" relname="span"/>
+		<group id="321" type="span" parent="163" relname="elaboration-additional"/>
+		<group id="322" type="span" parent="332" relname="span"/>
+		<group id="323" type="span" parent="324" relname="same-unit"/>
+		<group id="324" type="multinuc" parent="329" relname="span"/>
+		<group id="325" type="multinuc" parent="328" relname="span"/>
+		<group id="326" type="multinuc" parent="325" relname="explanation-evidence"/>
+		<group id="328" type="span" parent="322" relname="causal-result"/>
+		<group id="329" type="span" parent="325" relname="joint-sequence"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="333" relname="joint-list"/>
+		<group id="332" type="span" parent="333" relname="joint-list"/>
+		<group id="333" type="multinuc" parent="310" relname="elaboration-additional"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="336" relname="joint-other"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" />
+	</body>
+</rst>

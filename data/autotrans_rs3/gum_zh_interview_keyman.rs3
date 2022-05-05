@@ -1,0 +1,649 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="317" relname="span">专访 香港 著名 足球 评述员 马启仁 // Interview with famous Hong Kong football commentator Ma Qiren</segment>
+		<segment id="2" parent="1" relname="attribution-positive">【 2007年 1月 5日 讯 】 // 【 News on January 5, 2007 】</segment>
+		<segment id="3" parent="318" relname="organization-preparation">时间 ： // time :</segment>
+		<segment id="4" parent="318" relname="span">2007年 1月 5日 晚上 7:00pm // January 5, 2007 7:00pm</segment>
+		<segment id="5" parent="4" relname="elaboration-additional">（ UTC+8 ） // (UTC+8)</segment>
+		<segment id="6" parent="7" relname="organization-preparation">地点 ： // Place :</segment>
+		<segment id="7" parent="320" relname="span">505 United 香港 足球 发源地 // 505 United Hong Kong Football Birthplace</segment>
+		<segment id="8" parent="9" relname="organization-preparation">人物 ： // figure :</segment>
+		<segment id="9" parent="321" relname="span">马启仁 先生 ， 维基 新闻 记者 Tszkin // Mr. Ma Qiren, Wikinews reporter Tszkin</segment>
+		<segment id="10" parent="11" relname="attribution-positive">今天 十分 荣幸 // Very honored today</segment>
+		<segment id="11" parent="323" relname="span">与 香港 著名 足球 评述员 马启仁 先生 作 访问 。 // An interview with Mr. Ma Qiren, a famous Hong Kong football commentator.</segment>
+		<segment id="12" parent="329" relname="joint-other">马启仁 先生 在 今次 专访 中 ， 回答 了 记者 多 条 问题 。 // In this exclusive interview , Mr. Ma Qiren answered many questions from reporters .</segment>
+		<segment id="13" parent="325" relname="same-unit">原来 马启仁 先生 // It turned out Mr. Ma Qiren</segment>
+		<segment id="14" parent="15" relname="context-circumstance">在 访问 前 // before the visit</segment>
+		<segment id="15" parent="324" relname="span">已 听 过 维基 百科 ， // Have heard Wikipedia,</segment>
+		<segment id="16" parent="326" relname="joint-list">而且 是 一 名 Firefox 支持者 。 // And is a Firefox supporter .</segment>
+		<segment id="17" parent="327" relname="joint-list">以下 以 “ K ” 代表 启仁 先生 ， // Hereinafter, "K" represents Mr. Qi Yan,</segment>
+		<segment id="18" parent="327" relname="joint-list">“ T ” 代表 记者 Tszkin 。 // The "T" stands for journalist Tszkin.</segment>
+		<segment id="19" parent="328" relname="span">Keyman ， 你 好 // Hello Keyman</segment>
+		<segment id="20" parent="19" relname="organization-phatic">（ 握手 ） ， // (handshake),</segment>
+		<segment id="21" parent="22" relname="attribution-positive">很 高兴 // very happy</segment>
+		<segment id="22" parent="330" relname="span">今天 能 跟 阁下 做 访问 。 // I can visit with you today .</segment>
+		<segment id="23" parent="24" relname="organization-phatic">你 好 。 // Hi .</segment>
+		<segment id="24" parent="333" relname="span">这里 是 “ 香港 足球 发源地 ” ！ // This is "the birthplace of Hong Kong football"!</segment>
+		<segment id="25" parent="332" relname="span">这 是 我 的 名片 ， // this is my name card ,</segment>
+		<segment id="26" parent="25" relname="organization-phatic">请 坐 。 // Please take a seat.</segment>
+		<segment id="27" parent="28" relname="attribution-positive">其实 我 想 知道 // Actually I want to know</segment>
+		<segment id="28" parent="334" relname="span">关于 你 多 一点 呢 // a little more about you</segment>
+		<segment id="29" parent="334" relname="organization-phatic">（ 哈哈 ） ！ // ( Ha ha ) !</segment>
+		<segment id="30" parent="339" relname="organization-preparation">这 是 维基 百科 的 网页 ， // This is the Wikipedia page,</segment>
+		<segment id="31" parent="339" relname="joint-list">这里 有 你 的 资料 ， // Here is your information,</segment>
+		<segment id="32" parent="337" relname="same-unit">你 还 可以 搜寻 // You can also search</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">你 心爱 的 // your beloved</segment>
+		<segment id="34" parent="336" relname="span">球队 // team</segment>
+		<segment id="35" parent="336" relname="elaboration-attribute">－ 西汉姆联 。 // - West Ham United.</segment>
+		<segment id="36" parent="341" relname="span">嗯 ， 我 的 资料 有 一 点 错误 ， // Well, there is a little error in my information,</segment>
+		<segment id="37" parent="36" relname="elaboration-additional">我 的 出生 日期 是 1969年 10月 24日 ， // My date of birth is October 24, 1969,</segment>
+		<segment id="38" parent="341" relname="adversative-concession">不过 可以 不 用 改 ． // But you don't have to change it.</segment>
+		<segment id="39" parent="342" relname="explanation-justify">就 当 是 多 送 我 一 份 生日 礼物 吧 。 // Just give me an extra birthday present.</segment>
+		<segment id="40" parent="344" relname="span">而 结婚 年份 是 1997年 ， // And the year of marriage is 1997,</segment>
+		<segment id="41" parent="40" relname="adversative-concession">有些 资料 连 我 自己 都 不 知道 ， // Some information I don't even know myself.</segment>
+		<segment id="42" parent="346" relname="organization-preparation">我 补充 一点 资料 吧 ， // Let me add some information ,</segment>
+		<segment id="43" parent="345" relname="span">我 正 修读 澳大利亚 卧龙岗 大学 的 新闻学 硕士 课程 // I am studying a Masters in Journalism at the University of Wollongong in Australia</segment>
+		<segment id="44" parent="43" relname="restatement-partial">（ Master of Journalism ） ， // (Master of Journalism),</segment>
+		<segment id="45" parent="346" relname="joint-list">我 在 香港 电台 及 商业 电台 工作 。 // I work for RTHK and commercial radio.</segment>
+		<segment id="46" parent="348" relname="span">原来 近来 内容 更新 了 不少 ， // It turns out that the content has been updated a lot recently.</segment>
+		<segment id="47" parent="46" relname="explanation-evidence">连 我 自己 在 平时 打 什么 领带 的 颜色 都 有 ， // I even have the color of what tie I usually wear.</segment>
+		<segment id="48" parent="350" relname="same-unit">看来 // it seems</segment>
+		<segment id="49" parent="50" relname="elaboration-attribute">撰写 这 条 条目 的 // who wrote this entry</segment>
+		<segment id="50" parent="349" relname="span">人 观察 得 十分 细微 。 // People observe very finely.</segment>
+		<segment id="51" parent="355" relname="joint-list">喔 ， 原来 马启仁 先生 是 用 左手 写字 ！ // Oh, it turns out that Mr. Ma Qiren writes with his left hand!</segment>
+		<segment id="52" parent="355" relname="joint-list">多谢 马启仁 先生 补充 和 更正 资料 。 // Many thanks to Mr. Ma Qiren for supplementing and correcting the information .</segment>
+		<segment id="53" parent="359" relname="span">Keyman ， 众所周知 ， 你 是 韦斯咸 和 阿根廷 球迷 ， // Keyman, you are known to be a Westham and Argentina fan,</segment>
+		<segment id="54" parent="357" relname="same-unit">在 评述 关于 // in Review about</segment>
+		<segment id="55" parent="56" relname="elaboration-attribute">你 心爱 的 // your beloved</segment>
+		<segment id="56" parent="356" relname="span">球队 赛事 时 ， // During team matches,</segment>
+		<segment id="57" parent="358" relname="span">会 不 会 有 不 自然 的 感觉 ？ // Will it feel unnatural?</segment>
+		<segment id="58" parent="414" relname="attribution-positive">我 认为 // I think</segment>
+		<segment id="59" parent="362" relname="same-unit">传媒人 最 紧要 做到 // The most important thing for the media</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">保持 中立 // remain neutral</segment>
+		<segment id="61" parent="361" relname="span">这 点 ， // this point ,</segment>
+		<segment id="62" parent="414" relname="joint-list">需要 放下 个人 情感 ， // need to let go of personal emotions,</segment>
+		<segment id="63" parent="367" relname="attribution-positive">但 认为 // but think</segment>
+		<segment id="64" parent="367" relname="adversative-contrast">全 世界 99% 球迷 都 有 自己 的 喜恶 ， // 99% of fans around the world have their own likes and dislikes.</segment>
+		<segment id="65" parent="366" relname="same-unit">但 在 // but in</segment>
+		<segment id="66" parent="67" relname="elaboration-attribute">做 节目 // do show</segment>
+		<segment id="67" parent="365" relname="span">前后 和 平日 就 不 会 掩饰 。 // Before and after peace will not cover up.</segment>
+		<segment id="68" parent="373" relname="attribution-positive">我 认为 // I think</segment>
+		<segment id="69" parent="370" relname="span">做 这 行 应该 跟 观众 的 距离 很 近 ， // Doing this line should be very close to the audience.</segment>
+		<segment id="70" parent="415" relname="span">像 跟 朋友 看 足球 比赛 一样 ， // Like watching a football game with friends,</segment>
+		<segment id="71" parent="72" relname="attribution-positive">不 介意 让 人 知道 // I don't mind letting people know</segment>
+		<segment id="72" parent="371" relname="span">自己 心爱 的 球队 是 哪队 ， // Which team is your favorite team?</segment>
+		<segment id="73" parent="74" relname="context-circumstance">但 在 评述 时 // But when commenting</segment>
+		<segment id="74" parent="372" relname="span">会 收敛 。 // will converge.</segment>
+		<segment id="75" parent="379" relname="span">在 家 和 在 家中 收看 足球 比赛 完全 是 两 个 人 ， // Watching football games at home and watching football at home is completely two people,</segment>
+		<segment id="76" parent="378" relname="adversative-contrast">在 家中 表现 出 真 性情 ， // Show your true temperament at home,</segment>
+		<segment id="77" parent="78" relname="context-circumstance">但 在 评述 时 // But when commenting</segment>
+		<segment id="78" parent="376" relname="span">会 加以 压抑 ， // will be suppressed,</segment>
+		<segment id="79" parent="377" relname="joint-list">用 中肯 态度 于 工作 中 。 // Use a neutral attitude at work.</segment>
+		<segment id="80" parent="380" relname="attribution-positive">但 我 的 拍挡 很 喜欢 // But my partner loves it</segment>
+		<segment id="81" parent="380" relname="span">用 我 来 开 玩笑 ， // use me for a joke,</segment>
+		<segment id="82" parent="81" relname="purpose-goal">为了 保护 自己 ， // To protect myself,</segment>
+		<segment id="83" parent="381" relname="span">陪 他们 玩 ， // play with them,</segment>
+		<segment id="84" parent="83" relname="purpose-goal">只是 搞 气氛 。 // Just messing with the atmosphere.</segment>
+		<segment id="85" parent="86" relname="elaboration-attribute">近来 了 行 这 一 行 的 // Recently, the line of this line</segment>
+		<segment id="86" parent="384" relname="span">人 也 会 像 我 这样 做 。 // People will do the same as I do.</segment>
+		<segment id="87" parent="386" relname="same-unit">如果 // if</segment>
+		<segment id="88" parent="89" relname="elaboration-attribute">自已 心爱 的 // own beloved</segment>
+		<segment id="89" parent="385" relname="span">球队 仅 以 一 球 落败 ， // The team lost by just one goal.</segment>
+		<segment id="90" parent="387" relname="span">会 心生 不忿 ： // Will be resentful:</segment>
+		<segment id="91" parent="388" relname="contingency-condition">如果 球队 大 比数 落败 ， // If the team loses by a large margin,</segment>
+		<segment id="92" parent="93" relname="context-circumstance">评述 时 // When commenting</segment>
+		<segment id="93" parent="388" relname="span">会 比较 轻松 。 // will be easier.</segment>
+		<segment id="94" parent="390" relname="joint-list">但 在 某些 位置 上 ， 不 能 过火 ， // But in some places, you can't go too far,</segment>
+		<segment id="95" parent="390" relname="joint-list">会 适当 地 调节 自己 。 // Will adjust itself properly.</segment>
+		<segment id="96" parent="97" relname="elaboration-attribute">作为 韦斯咸 球迷 的 // as a westham fan</segment>
+		<segment id="97" parent="391" relname="span">你 ， 你 对 // you, you right</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">正在 护级 的 // under protection</segment>
+		<segment id="99" parent="392" relname="span">韦斯咸 今年 有 没有 期望 ？ // Does Westham have any expectations this year?</segment>
+		<segment id="100" parent="423" relname="span">过 保顿 啦 ！ // It's past Baoton!</segment>
+		<segment id="101" parent="100" relname="adversative-concession">没 可能 吧 ！ // Impossible!</segment>
+		<segment id="102" parent="395" relname="organization-preparation">其实 做 韦斯咸 的 球迷 很 有趣 。 // It's actually fun being a Westham fan.</segment>
+		<segment id="103" parent="394" relname="attribution-positive">我 认为 // I think</segment>
+		<segment id="104" parent="394" relname="span">做 球迷 是 一生人 的 ， // Being a fan is lifelong.</segment>
+		<segment id="105" parent="104" relname="adversative-antithesis">不 像 小朋友 两 三 年 就 转 支持 球会 。 // It's not like children who switch to support the club every two or three years.</segment>
+		<segment id="106" parent="399" relname="span">足球 是 公平 的 ， // Football is fair,</segment>
+		<segment id="107" parent="396" relname="joint-list">有 厉害 的 时候 ， // There are great times,</segment>
+		<segment id="108" parent="396" relname="joint-list">又 有 差 的 时候 ， // and bad times,</segment>
+		<segment id="109" parent="397" relname="joint-list">“ 有 赢 // "Have won</segment>
+		<segment id="110" parent="397" relname="joint-list">有 输 ” ， // There is a loss",</segment>
+		<segment id="111" parent="398" relname="evaluation-comment">一定 要 明白 这 个 道理 。 // Must understand this truth .</segment>
+		<segment id="112" parent="113" relname="contingency-condition">只有 赢 // only win</segment>
+		<segment id="113" parent="401" relname="span">才 高兴 ， // just happy,</segment>
+		<segment id="114" parent="115" relname="contingency-condition">输 // lose</segment>
+		<segment id="115" parent="402" relname="span">就 不 高兴 ， // not happy,</segment>
+		<segment id="116" parent="425" relname="span">只 会 令 自己 很 痛苦 。 // It will only make myself miserable.</segment>
+		<segment id="117" parent="460" relname="span">支持 哪队 球队 都 是 公平 的 ， // It's fair to support any team.</segment>
+		<segment id="118" parent="454" relname="span">而 我 支持 韦斯咸 ， // And I support Westham,</segment>
+		<segment id="119" parent="120" relname="contingency-condition">偶尔 有 场 代表作 // Occasional representative works</segment>
+		<segment id="120" parent="426" relname="span">已经 十分 开心 ， // already very happy,</segment>
+		<segment id="121" parent="427" relname="adversative-contrast">不 预计 韦斯咸 会 争夺 锦标 或 前 四 名 。 // Westham is not expected to compete for the trophy or the top four .</segment>
+		<segment id="122" parent="428" relname="context-background">在 今年 曾经 有些 很 言兴 的 地方 ， // In a place that used to be very eloquent this year,</segment>
+		<segment id="123" parent="124" relname="attribution-positive">以为 // Think</segment>
+		<segment id="124" parent="428" relname="span">扩军 能 帮助 球队 ， // Expanding the army can help the team,</segment>
+		<segment id="125" parent="404" relname="attribution-positive">结果 // result</segment>
+		<segment id="126" parent="127" relname="contingency-condition">希望 越 大 // Hope the bigger</segment>
+		<segment id="127" parent="404" relname="span">失望 越 大 ， // The bigger the disappointment,</segment>
+		<segment id="128" parent="407" relname="organization-preparation">从 中 学到 一些 人生 道理 ， // Learn some life lessons from it,</segment>
+		<segment id="129" parent="407" relname="adversative-contrast">有时 有些 东西 不 能 苛求 ， // Sometimes some things can't be demanding,</segment>
+		<segment id="130" parent="408" relname="span">但 不 会 放弃 做人 信念 ， // But will not give up the belief of being a man,</segment>
+		<segment id="131" parent="132" relname="attribution-positive">相信 // Believe</segment>
+		<segment id="132" parent="406" relname="span">韦斯咸 能 护级 成功 ， // Westham can successfully protect the level,</segment>
+		<segment id="133" parent="410" relname="contingency-condition">如果 真的 降班 ， // If you really downgrade,</segment>
+		<segment id="134" parent="409" relname="attribution-positive">只能 说 // can only say</segment>
+		<segment id="135" parent="409" relname="span">是 “ 抵死 ” // is "death"</segment>
+		<segment id="136" parent="135" relname="restatement-partial">（ 活该 ） 。 // (deserved).</segment>
+		<segment id="137" parent="138" relname="contingency-condition">就算 降班 ， // Even if you drop the class,</segment>
+		<segment id="138" parent="412" relname="span">亦 可 卷土重来 ， // can also make a comeback,</segment>
+		<segment id="139" parent="412" relname="mode-manner">如 足总杯 亦 可 越级 挑战 一样 。 // Such as the FA Cup can also leapfrog the same challenge.</segment>
+		<segment id="140" parent="141" relname="context-circumstance">当年 韦斯咸 打 升班 时 // When Westham was promoted</segment>
+		<segment id="141" parent="434" relname="span">的 // of</segment>
+		<segment id="142" parent="435" relname="span">情形 令 我 十分 深刻 ， 十分 刺激 ， // The situation struck me very deeply, very exciting,</segment>
+		<segment id="143" parent="435" relname="mode-manner">像 附加赛 冠军 。 // Like play-off winners.</segment>
+		<segment id="144" parent="437" relname="joint-list">会 保持 支持 韦斯咸 ， // Will keep supporting Westham,</segment>
+		<segment id="145" parent="437" relname="joint-list">不 会 改变 。 // will not change .</segment>
+		<segment id="146" parent="439" relname="organization-preparation">像 世界杯 一样 ， // like the World Cup,</segment>
+		<segment id="147" parent="438" relname="joint-list">32 队 入到 世界杯 ， // 32 teams entered the World Cup,</segment>
+		<segment id="148" parent="438" relname="joint-list">每队 都 有 人 支持 ， // Each team has someone to support,</segment>
+		<segment id="149" parent="439" relname="adversative-contrast">但 只 有 1 队 能 夺 冠军 ， // But only one team can win the championship,</segment>
+		<segment id="150" parent="452" relname="span">球迷 其实 失意 多于 得意 ， // Fans are actually more disappointed than proud.</segment>
+		<segment id="151" parent="152" relname="adversative-concession">其他 落败 球队 的 球迷 ， 一定 很 不 开心 ， // The fans of the other losing teams must be very unhappy ,</segment>
+		<segment id="152" parent="441" relname="span">但 应该 做 个 快乐 的 球迷 ， // But should be a happy fan,</segment>
+		<segment id="153" parent="442" relname="joint-list">如 入 了 球 世界球 、 // If you score the world ball,</segment>
+		<segment id="154" parent="442" relname="joint-list">“ 偷鸡 赢到 场 ” 、 // "Steal the chicken and win the game",</segment>
+		<segment id="155" parent="442" relname="joint-list">晋到 级 // advance to level</segment>
+		<segment id="156" parent="443" relname="adversative-contrast">或者 虽 败 // or fail</segment>
+		<segment id="157" parent="443" relname="adversative-contrast">但 已 尽力 ， // But I have tried my best,</segment>
+		<segment id="158" parent="445" relname="joint-list">如 今晚 十分 专心 看 一 场 足球 比赛 ， // If you concentrate on watching a football game tonight,</segment>
+		<segment id="159" parent="445" relname="joint-list">已 享受 其 过程 。 // have enjoyed the process.</segment>
+		<segment id="160" parent="447" relname="span">很多 事情 而 令 你 开心 ， // many things to make you happy,</segment>
+		<segment id="161" parent="162" relname="contingency-condition">只要 自已 调节 一下 ， // Just adjust it yourself</segment>
+		<segment id="162" parent="446" relname="span">我 没 太 大 问题 ， // I don't have much problem,</segment>
+		<segment id="163" parent="447" relname="elaboration-additional">我 每天 都 会 到 韦斯咸 “ 朝圣 ” 。 // I make a "pilgrimage" to Westham every day.</segment>
+		<segment id="164" parent="470" relname="attribution-positive">听说 // It is said that</segment>
+		<segment id="165" parent="468" relname="span">Keyman 你 亦 有 玩 Football Manager // Keyman, you also play Football Manager</segment>
+		<segment id="166" parent="165" relname="restatement-partial">（ 足球 经理 ） // (Football Manager)</segment>
+		<segment id="167" parent="469" relname="span">和 Winning Eleven // and Winning Eleven</segment>
+		<segment id="168" parent="167" relname="restatement-partial">（ 实况 足球 ） ， // ( Live football ) ,</segment>
+		<segment id="169" parent="472" relname="span">你 对 这些 游戏 有 没有 什么 评价 ？ // Do you have any comments on these games?</segment>
+		<segment id="170" parent="171" relname="organization-preparation">FM 呀 ！ // FM yeah!</segment>
+		<segment id="171" parent="498" relname="span">这 套 游戏 我 都 有 玩 ， // I have played this set of games.</segment>
+		<segment id="172" parent="473" relname="adversative-contrast">但 平时 空闲 的 时间 很 少 ， // But I usually have very little free time.</segment>
+		<segment id="173" parent="174" relname="contingency-condition">而 要 玩 这 只 游戏 // to play this game</segment>
+		<segment id="174" parent="474" relname="span">真的 很 花 时间 ， // It's really time consuming,</segment>
+		<segment id="175" parent="476" relname="same-unit">如果 是 // if</segment>
+		<segment id="176" parent="177" relname="context-circumstance">求学 阶段 时 // During the study period</segment>
+		<segment id="177" parent="475" relname="span">玩 ， // Play ,</segment>
+		<segment id="178" parent="477" relname="span">真的 不得了 ， // really amazing,</segment>
+		<segment id="179" parent="478" relname="span">我 通常 只 玩到 季初 // I usually only play until the beginning of the season</segment>
+		<segment id="180" parent="179" relname="adversative-antithesis">就 没 再 玩 下去 。 // I didn't play any more.</segment>
+		<segment id="181" parent="182" relname="context-circumstance">但是 当 每 出 新版 // But when every new edition comes out</segment>
+		<segment id="182" parent="480" relname="span">我 都 会 立即 购买 ， // I will buy immediately,</segment>
+		<segment id="183" parent="480" relname="explanation-justify">支持 一下 吧 。 // Please support it.</segment>
+		<segment id="184" parent="185" relname="elaboration-attribute">创造 这 只 游戏 的 // who created this game</segment>
+		<segment id="185" parent="482" relname="span">两 兄弟 是 数据库 迷 ， // The two brothers are database junkies,</segment>
+		<segment id="186" parent="494" relname="span">其 FM 现在 还 没 到 最 复杂 阶段 , // Its FM has not yet reached the most complex stage ,</segment>
+		<segment id="187" parent="186" relname="adversative-concession">有些 游戏 连 建 球场 等 东西 都 有 ， // Some games even have things like building a stadium.</segment>
+		<segment id="188" parent="189" relname="attribution-positive">其实 我 认为 // Actually I think</segment>
+		<segment id="189" parent="483" relname="span">简单 一点点 就 可 了 。 // Simple enough.</segment>
+		<segment id="190" parent="191" relname="attribution-positive">据闻 // It is reported that</segment>
+		<segment id="191" parent="486" relname="span">FM 有 手提机 PSP 的 版本 ， // FM has a portable PSP version,</segment>
+		<segment id="192" parent="485" relname="same-unit">但 我 每天 都 要 // But I want it every day</segment>
+		<segment id="193" parent="194" relname="mode-means">驾车 // drive</segment>
+		<segment id="194" parent="484" relname="span">上班 ， // work ,</segment>
+		<segment id="195" parent="488" relname="same-unit">如果 // if</segment>
+		<segment id="196" parent="197" relname="mode-manner">挂 着 // hanging</segment>
+		<segment id="197" parent="487" relname="span">玩 游戏 的话 ， // If you play games,</segment>
+		<segment id="198" parent="489" relname="span">很 易 发生 意外 。 // Accidents can easily happen.</segment>
+		<segment id="199" parent="490" relname="adversative-contrast">Winning 比较 控制 上 的 真实 感 ， // Winning compares the realism on the control,</segment>
+		<segment id="200" parent="490" relname="adversative-contrast">但 弱队 的 数值 比较 低 ， // But weaker teams have lower numbers.</segment>
+		<segment id="201" parent="491" relname="span">可 帮 我 去 反映 一下 吗 ？ // Can you help me report it?</segment>
+		<segment id="202" parent="505" relname="adversative-contrast">足球 的 电玩 及 足球 ， 是 男人 之间 的 电玩 ， // Football video games and football are video games between men,</segment>
+		<segment id="203" parent="204" relname="attribution-negative">女士们 很 难 明白 // It's hard for ladies to understand</segment>
+		<segment id="204" parent="506" relname="span">你 在 球场 干 什么 。 // What are you doing on the field.</segment>
+		<segment id="205" parent="206" relname="attribution-positive">Keyman ， 在 网上 有 不少 人 都 说 // Keyman, there are quite a few people on the internet saying</segment>
+		<segment id="206" parent="507" relname="span">你 其实 是 “ 曼联 球迷 ” ？ // Are you actually a "Manchester United fan"?</segment>
+		<segment id="207" parent="509" relname="context-background">“ 曼联 球迷 ” 这 个 称号 呢 是 很多 年 前 的 啦 。 // The title "Manchester United fan" was many years ago.</segment>
+		<segment id="208" parent="209" relname="context-circumstance">当 我 被 冠上 这 个 称号 时 ， // When I was given this title,</segment>
+		<segment id="209" parent="509" relname="span">我 也 有 想过 这 个 问题 ， // I have also thought about this question,</segment>
+		<segment id="210" parent="510" relname="span">但 我 的确 是 一 名 韦斯咸 球迷 。 // But I am a Westham fan.</segment>
+		<segment id="211" parent="511" relname="joint-list">因为 当年 曼联 “ 三冠王 ” 很 厉害 ， // Because Manchester United's "Triple Crown" was very powerful,</segment>
+		<segment id="212" parent="511" relname="joint-list">不少 行家 亦 会 看好 曼联 一 线 。 // Many experts will also be optimistic about Manchester United's first-line.</segment>
+		<segment id="213" parent="511" relname="explanation-evidence">如 曼联 对 韦斯咸 比起 其他 球队 的 赛事 较 有 触目性 。 // For example, Manchester United's match against Westham is more eye-catching than other teams.</segment>
+		<segment id="214" parent="215" relname="context-circumstance">我 现在 评述 足球 // I am commenting on football now</segment>
+		<segment id="215" parent="513" relname="span">亦 会 保持 中立 。 // will also remain neutral .</segment>
+		<segment id="216" parent="217" relname="attribution-positive">Keyman ， 你 小 时候 有 没有 想过 // Keyman, did you ever think about it when you were a kid?</segment>
+		<segment id="217" parent="518" relname="span">当 一 位 足球 评述员 ？ // To be a football commentator?</segment>
+		<segment id="218" parent="559" relname="span">没有 啦 ！ // No la !</segment>
+		<segment id="219" parent="220" relname="attribution-positive">我 小 时候 其实 想 // When I was a kid, I actually thought</segment>
+		<segment id="220" parent="519" relname="span">做 一些 传媒 的 工作 ， // do some media work ,</segment>
+		<segment id="221" parent="520" relname="span">在 我 当上 第一 份 报纸 // Be in my first newspaper</segment>
+		<segment id="222" parent="221" relname="purpose-attribute">（ 章 ） // ( chapter )</segment>
+		<segment id="223" parent="521" relname="same-unit">的 体育 记者 前 ， // before the sports reporter ,</segment>
+		<segment id="224" parent="525" relname="same-unit">我 都 没有 当过 // I have never been</segment>
+		<segment id="225" parent="523" relname="joint-list">以 足球 做 媒介 // Using football as a medium</segment>
+		<segment id="226" parent="227" relname="mode-manner">令 自己 做到 // make yourself do it</segment>
+		<segment id="227" parent="522" relname="span">想 做 的 // want to do</segment>
+		<segment id="228" parent="524" relname="span">东西 ， // thing ,</segment>
+		<segment id="229" parent="230" relname="context-background">第一 份 关于 体育 的 开始 是 当 华侨 日报 体育报 记者 ， // The first story about sports started as a reporter for the Overseas Chinese Daily Sports News.</segment>
+		<segment id="230" parent="529" relname="span">这 条 路 就 一直 走 下去 ， // This road keeps going,</segment>
+		<segment id="231" parent="528" relname="same-unit">跟 // and</segment>
+		<segment id="232" parent="233" relname="elaboration-attribute">以前 想 的 // previously thought</segment>
+		<segment id="233" parent="527" relname="span">东西 有点 接近 。 // Something a little closer.</segment>
+		<segment id="234" parent="235" relname="attribution-positive">在 小 时候 已 想 // I thought about it when I was a kid</segment>
+		<segment id="235" parent="531" relname="span">做 传媒 ， // do media,</segment>
+		<segment id="236" parent="237" relname="attribution-negative">但 不 知道 // but don't know</segment>
+		<segment id="237" parent="532" relname="span">传媒 是 什么 ， // what is the media</segment>
+		<segment id="238" parent="537" relname="attribution-positive">我 觉得 // I think</segment>
+		<segment id="239" parent="536" relname="joint-list">做 一 个 媒介 ， // be a medium</segment>
+		<segment id="240" parent="536" relname="joint-list">跟 多些 人 接触 ， // get in touch with more people,</segment>
+		<segment id="241" parent="537" relname="span">接触 最 多 人 的 就 是 媒体 。 // It is the media that touches the most people.</segment>
+		<segment id="242" parent="539" relname="adversative-concession">传媒 的 东西 我 很 想 做 ， // I really want to do media stuff.</segment>
+		<segment id="243" parent="244" relname="context-circumstance">但 读 大学 时 ， // But in college,</segment>
+		<segment id="244" parent="539" relname="span">我 不 是 读 传媒 ， // I don't study media,</segment>
+		<segment id="245" parent="246" relname="attribution-positive">一 听到 // one heard</segment>
+		<segment id="246" parent="541" relname="span">有 杂志 或 报纸 征聘 兼职 记者 // There are magazines or newspapers that recruit part-time journalists</segment>
+		<segment id="247" parent="542" relname="same-unit">时 ， // hour ,</segment>
+		<segment id="248" parent="543" relname="span">就 立即 应征 ， // apply now,</segment>
+		<segment id="249" parent="544" relname="joint-list">做 过 很多 报章 、 杂志 的 记者 ， // I have worked as a reporter for many newspapers and magazines.</segment>
+		<segment id="250" parent="544" relname="joint-list">亦 当过 八卦 杂志 的 记者 等 ， // Also worked as a reporter for gossip magazines, etc.</segment>
+		<segment id="251" parent="545" relname="joint-sequence">后来 就 当上 了 全职 记者 。 // Later became a full-time journalist.</segment>
+		<segment id="252" parent="546" relname="context-background">后来 ， 以前 很多 编辑 在 Cable 里 任职 ， // Later , many editors in the past worked at Cable ,</segment>
+		<segment id="253" parent="546" relname="span">就 找 了 我 // just found me</segment>
+		<segment id="254" parent="253" relname="purpose-goal">帮忙 ， // help,</segment>
+		<segment id="255" parent="548" relname="span">就 慢慢 晋身 为 足球 评述员 。 // He slowly became a football commentator.</segment>
+		<segment id="256" parent="551" relname="joint-sequence">由 报章 任职 至 电视台 ， // From newspaper to TV station ,</segment>
+		<segment id="257" parent="551" relname="joint-sequence">再 由 电视台 至 电台 ， // Then from TV to radio,</segment>
+		<segment id="258" parent="551" relname="joint-sequence">做 杂志 和 网站 ， // make magazines and websites ,</segment>
+		<segment id="259" parent="551" relname="evaluation-comment">一直 绕来 绕去 。 // Been going around and around.</segment>
+		<segment id="260" parent="563" relname="joint-list">Keyman ， 你 是 一 位 足球 评述员 ， // Keyman, you're a football commentator,</segment>
+		<segment id="261" parent="563" relname="joint-list">大多数 比赛 在 晚间 进行 ， // Most games are played at night,</segment>
+		<segment id="262" parent="562" relname="same-unit">你 过 着 // you live</segment>
+		<segment id="263" parent="264" relname="elaboration-attribute">日夜 颠倒 的 // Day and night upside down</segment>
+		<segment id="264" parent="561" relname="span">生活 ， // Life ,</segment>
+		<segment id="265" parent="565" relname="span">对 你 日常 生活 会 不 会 受 影响 ？ // Will it affect your daily life?</segment>
+		<segment id="266" parent="593" relname="span">要 有 一 个 好好 的 编排 啦 ！ // There must be a good arrangement!</segment>
+		<segment id="267" parent="571" relname="attribution-positive">我 认为 // I think</segment>
+		<segment id="268" parent="269" relname="context-background">做 一 个 球迷 ， // be a fan</segment>
+		<segment id="269" parent="566" relname="span">都 要 有 好好 的 编排 ， // must have a good arrangement,</segment>
+		<segment id="270" parent="271" relname="context-background">除了 正常 上班 、 家中 生活 外 ， // In addition to normal work and home life ,</segment>
+		<segment id="271" parent="567" relname="span">都 要 看 足球 比赛 啦 ， // All have to watch the football game.</segment>
+		<segment id="272" parent="567" relname="elaboration-additional">足球 比赛 通常 在 深夜 进行 ， // Football games are usually played late at night,</segment>
+		<segment id="273" parent="274" relname="context-background">而 我 以 此 为 工作 ， // And I work on it,</segment>
+		<segment id="274" parent="570" relname="span">我 亦 能 安排 好 ， // I can also arrange it,</segment>
+		<segment id="275" parent="276" relname="causal-cause">以往 的 正职 比较 辛苦 ， // In the past, the full-time job was more difficult.</segment>
+		<segment id="276" parent="575" relname="span">可能 时间 不 够用 ， // Maybe time is not enough,</segment>
+		<segment id="277" parent="278" relname="causal-cause">现在 就 自已 工作 ， // Work on your own now,</segment>
+		<segment id="278" parent="574" relname="span">所以 能够 将就 。 // So it can be done.</segment>
+		<segment id="279" parent="576" relname="same-unit">比起 以前 // than before</segment>
+		<segment id="280" parent="281" relname="elaboration-attribute">做 一 全 正常 时间 的 // do a full normal time</segment>
+		<segment id="281" parent="577" relname="span">工作 跟 现在 ， // work with now,</segment>
+		<segment id="282" parent="283" relname="elaboration-attribute">家中 相处 的 // get along at home</segment>
+		<segment id="283" parent="578" relname="span">时间 不 会 少 了 ， // Time will not be short,</segment>
+		<segment id="284" parent="586" relname="joint-list">没有 太 大 分别 ， // Not much difference,</segment>
+		<segment id="285" parent="588" relname="span">都 要 有 好 的 编排 。 // All have to be well organized.</segment>
+		<segment id="286" parent="581" relname="span">这 是 长途战 ， // This is a long battle,</segment>
+		<segment id="287" parent="580" relname="adversative-contrast">像 打 联赛 ， // like playing a league,</segment>
+		<segment id="288" parent="580" relname="adversative-contrast">不 是 杯赛 ， // not a cup game,</segment>
+		<segment id="289" parent="583" relname="context-background">像 球迷 一样 ， // like fans,</segment>
+		<segment id="290" parent="582" relname="joint-list">只 挂 着 这 两 星期 // Only hang for two weeks</segment>
+		<segment id="291" parent="582" relname="joint-list">看 深夜 足球 比赛 ， // watch a late night football game,</segment>
+		<segment id="292" parent="583" relname="span">第三 个 星期 就 死定 了 ， // Dead in the third week,</segment>
+		<segment id="293" parent="585" relname="span">都 要 自己 懂得 编排 作息 时间 。 // All have to know how to arrange work and rest time by themselves.</segment>
+		<segment id="294" parent="295" relname="attribution-positive">Keyman ， 你 有 没有 想过 // Keyman, have you ever thought about</segment>
+		<segment id="295" parent="595" relname="span">把 你 的 女儿 训练 成为 足球员 或 足球 评述员 ？ // Train your daughter to be a football player or football commentator?</segment>
+		<segment id="296" parent="610" relname="span">当然 没有 啦 ！ // Of course not!</segment>
+		<segment id="297" parent="596" relname="joint-list">但 我 会 带 女儿 到 球场 // But I will take my daughter to the stadium</segment>
+		<segment id="298" parent="596" relname="joint-list">看 足球 比赛 ， // watch soccer game ,</segment>
+		<segment id="299" parent="300" relname="attribution-positive">告诉 她 // tell her</segment>
+		<segment id="300" parent="597" relname="span">这 是 一 场 “ 嘉年华会 ” ， // This is a "carnival",</segment>
+		<segment id="301" parent="599" relname="context-background">她 也 有 十分 开心 ， // She is also very happy,</segment>
+		<segment id="302" parent="598" relname="context-circumstance">每次 在 电视 上 看 次 足球 比赛 时 ， // Every time you watch a football game on TV,</segment>
+		<segment id="303" parent="304" relname="attribution-positive">就 会 大嚷 着 // will yell</segment>
+		<segment id="304" parent="598" relname="span">是 “ 嘉年华会 ” 。 // It's "Carnival".</segment>
+		<segment id="305" parent="600" relname="adversative-contrast">我 并不 会 强迫 她 喜欢 足球 ， // I'm not going to force her to like football,</segment>
+		<segment id="306" parent="307" relname="attribution-positive">但 希望 // but hope</segment>
+		<segment id="307" parent="601" relname="span">她 能 领略 足球 的 乐趣 ， // She can appreciate the fun of football,</segment>
+		<segment id="308" parent="610" relname="elaboration-additional">让 她 自由 选择 吧 。 // Let her choose.</segment>
+		<segment id="309" parent="602" relname="joint-list">祝 马启仁 先生 工作 顺利 ， // I wish Mr. Ma Qiren every success in his work ,</segment>
+		<segment id="310" parent="602" relname="joint-list">今日 的 访问 完毕 ， // Today's visit is over,</segment>
+		<segment id="311" parent="603" relname="span">多谢 马启仁 先生 抽空 // Thank you Mr. Ma Qiren for taking the time</segment>
+		<segment id="312" parent="311" relname="purpose-goal">作 专访 。 // Do an interview.</segment>
+		<segment id="313" parent="605" relname="organization-phatic">多谢 ， // Thanks a lot,</segment>
+		<segment id="314" parent="605" relname="same-unit">现在 很少 记者 会 // There are few press conferences now</segment>
+		<segment id="315" parent="316" relname="context-circumstance">在 访问 完 // After visiting</segment>
+		<segment id="316" parent="604" relname="span">说 这些 祝福语 。 // Say these blessings.</segment>
+		<group id="317" type="span" parent="619" relname="organization-heading"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="322" relname="joint-list"/>
+		<group id="320" type="span" parent="322" relname="joint-list"/>
+		<group id="321" type="span" parent="322" relname="joint-list"/>
+		<group id="322" type="multinuc" parent="618" relname="context-circumstance"/>
+		<group id="323" type="span" parent="329" relname="joint-other"/>
+		<group id="324" type="span" parent="325" relname="same-unit"/>
+		<group id="325" type="multinuc" parent="326" relname="joint-list"/>
+		<group id="326" type="multinuc" parent="329" relname="joint-other"/>
+		<group id="327" type="multinuc" parent="329" relname="joint-other"/>
+		<group id="328" type="span" parent="330" relname="organization-phatic"/>
+		<group id="329" type="multinuc" parent="617" relname="context-background"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="616" relname="span"/>
+		<group id="332" type="span" parent="352" relname="joint-other"/>
+		<group id="333" type="span" parent="352" relname="joint-other"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="352" relname="joint-other"/>
+		<group id="336" type="span" parent="338" relname="span"/>
+		<group id="337" type="multinuc" parent="339" relname="joint-list"/>
+		<group id="338" type="span" parent="337" relname="same-unit"/>
+		<group id="339" type="multinuc" parent="353" relname="span"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="354" relname="joint-other"/>
+		<group id="344" type="span" parent="354" relname="joint-other"/>
+		<group id="345" type="span" parent="346" relname="joint-list"/>
+		<group id="346" type="multinuc" parent="347" relname="span"/>
+		<group id="347" type="span" parent="354" relname="joint-other"/>
+		<group id="348" type="span" parent="351" relname="span"/>
+		<group id="349" type="span" parent="350" relname="same-unit"/>
+		<group id="350" type="multinuc" parent="348" relname="evaluation-comment"/>
+		<group id="351" type="span" parent="354" relname="joint-other"/>
+		<group id="352" type="multinuc" parent="331" relname="evaluation-comment"/>
+		<group id="353" type="span" parent="354" relname="context-background"/>
+		<group id="354" type="multinuc" parent="615" relname="span"/>
+		<group id="355" type="multinuc" parent="53" relname="organization-preparation"/>
+		<group id="356" type="span" parent="357" relname="same-unit"/>
+		<group id="357" type="multinuc" parent="57" relname="context-circumstance"/>
+		<group id="358" type="span" parent="360" relname="span"/>
+		<group id="359" type="span" parent="358" relname="organization-preparation"/>
+		<group id="360" type="span" parent="421" relname="topic-question"/>
+		<group id="361" type="span" parent="362" relname="same-unit"/>
+		<group id="362" type="multinuc" parent="414" relname="joint-list"/>
+		<group id="364" type="span" parent="369" relname="adversative-contrast"/>
+		<group id="365" type="span" parent="366" relname="same-unit"/>
+		<group id="366" type="multinuc" parent="367" relname="adversative-contrast"/>
+		<group id="367" type="multinuc" parent="368" relname="span"/>
+		<group id="368" type="span" parent="369" relname="adversative-contrast"/>
+		<group id="369" type="multinuc" parent="421" relname="span"/>
+		<group id="370" type="span" parent="373" relname="adversative-contrast"/>
+		<group id="371" type="span" parent="70" relname="elaboration-additional"/>
+		<group id="372" type="span" parent="373" relname="adversative-contrast"/>
+		<group id="373" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="416" relname="joint-list"/>
+		<group id="376" type="span" parent="377" relname="joint-list"/>
+		<group id="377" type="multinuc" parent="378" relname="adversative-contrast"/>
+		<group id="378" type="multinuc" parent="75" relname="elaboration-additional"/>
+		<group id="379" type="span" parent="416" relname="joint-list"/>
+		<group id="380" type="span" parent="382" relname="span"/>
+		<group id="381" type="span" parent="417" relname="span"/>
+		<group id="382" type="span" parent="383" relname="span"/>
+		<group id="383" type="span" parent="420" relname="joint-other"/>
+		<group id="384" type="span" parent="381" relname="explanation-justify"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="90" relname="contingency-condition"/>
+		<group id="387" type="span" parent="418" relname="adversative-contrast"/>
+		<group id="388" type="span" parent="389" relname="span"/>
+		<group id="389" type="span" parent="418" relname="adversative-contrast"/>
+		<group id="390" type="multinuc" parent="418" relname="adversative-antithesis"/>
+		<group id="391" type="span" parent="393" relname="same-unit"/>
+		<group id="392" type="span" parent="393" relname="same-unit"/>
+		<group id="393" type="multinuc" parent="466" relname="topic-question"/>
+		<group id="394" type="span" parent="395" relname="span"/>
+		<group id="395" type="span" parent="465" relname="span"/>
+		<group id="396" type="multinuc" parent="398" relname="restatement-repetition"/>
+		<group id="397" type="multinuc" parent="398" relname="restatement-repetition"/>
+		<group id="398" type="multinuc" parent="457" relname="span"/>
+		<group id="399" type="span" parent="459" relname="joint-other"/>
+		<group id="401" type="span" parent="424" relname="adversative-contrast"/>
+		<group id="402" type="span" parent="424" relname="adversative-contrast"/>
+		<group id="404" type="span" parent="405" relname="span"/>
+		<group id="405" type="span" parent="429" relname="adversative-contrast"/>
+		<group id="406" type="span" parent="130" relname="explanation-evidence"/>
+		<group id="407" type="multinuc" parent="433" relname="span"/>
+		<group id="408" type="span" parent="407" relname="adversative-contrast"/>
+		<group id="409" type="span" parent="410" relname="span"/>
+		<group id="410" type="span" parent="411" relname="span"/>
+		<group id="411" type="span" parent="431" relname="joint-list"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="431" relname="joint-list"/>
+		<group id="414" type="multinuc" parent="364" relname="span"/>
+		<group id="415" type="span" parent="69" relname="mode-manner"/>
+		<group id="416" type="multinuc" parent="420" relname="joint-other"/>
+		<group id="417" type="span" parent="382" relname="elaboration-additional"/>
+		<group id="418" type="multinuc" parent="419" relname="span"/>
+		<group id="419" type="span" parent="420" relname="joint-other"/>
+		<group id="420" type="multinuc" parent="369" relname="elaboration-additional"/>
+		<group id="421" type="span" parent="422" relname="span"/>
+		<group id="422" type="span" parent="617" relname="joint-other"/>
+		<group id="423" type="span" parent="466" relname="span"/>
+		<group id="424" type="multinuc" parent="116" relname="context-background"/>
+		<group id="425" type="span" parent="457" relname="adversative-antithesis"/>
+		<group id="426" type="span" parent="427" relname="adversative-contrast"/>
+		<group id="427" type="multinuc" parent="454" relname="adversative-concession"/>
+		<group id="428" type="span" parent="456" relname="span"/>
+		<group id="429" type="multinuc" parent="432" relname="context-background"/>
+		<group id="431" type="multinuc" parent="433" relname="elaboration-additional"/>
+		<group id="432" type="span" parent="461" relname="span"/>
+		<group id="433" type="span" parent="432" relname="span"/>
+		<group id="434" type="span" parent="142" relname="elaboration-attribute"/>
+		<group id="435" type="span" parent="436" relname="span"/>
+		<group id="436" type="span" parent="453" relname="span"/>
+		<group id="437" type="multinuc" parent="436" relname="causal-result"/>
+		<group id="438" type="multinuc" parent="439" relname="adversative-contrast"/>
+		<group id="439" type="multinuc" parent="440" relname="span"/>
+		<group id="440" type="span" parent="150" relname="context-background"/>
+		<group id="441" type="span" parent="448" relname="span"/>
+		<group id="442" type="multinuc" parent="448" relname="explanation-evidence"/>
+		<group id="443" type="multinuc" parent="442" relname="joint-list"/>
+		<group id="445" type="multinuc" parent="442" relname="joint-list"/>
+		<group id="446" type="span" parent="160" relname="explanation-justify"/>
+		<group id="447" type="span" parent="450" relname="span"/>
+		<group id="448" type="span" parent="449" relname="span"/>
+		<group id="449" type="span" parent="451" relname="span"/>
+		<group id="450" type="span" parent="449" relname="evaluation-comment"/>
+		<group id="451" type="span" parent="453" relname="elaboration-additional"/>
+		<group id="452" type="span" parent="441" relname="organization-preparation"/>
+		<group id="453" type="span" parent="462" relname="span"/>
+		<group id="454" type="span" parent="455" relname="span"/>
+		<group id="455" type="span" parent="463" relname="span"/>
+		<group id="456" type="span" parent="429" relname="adversative-contrast"/>
+		<group id="457" type="span" parent="458" relname="span"/>
+		<group id="458" type="span" parent="106" relname="elaboration-additional"/>
+		<group id="459" type="multinuc" parent="117" relname="explanation-justify"/>
+		<group id="460" type="span" parent="118" relname="context-background"/>
+		<group id="461" type="span" parent="455" relname="elaboration-additional"/>
+		<group id="462" type="span" parent="463" relname="restatement-partial"/>
+		<group id="463" type="span" parent="464" relname="span"/>
+		<group id="464" type="span" parent="423" relname="elaboration-additional"/>
+		<group id="465" type="span" parent="459" relname="joint-other"/>
+		<group id="466" type="span" parent="467" relname="span"/>
+		<group id="467" type="span" parent="617" relname="joint-other"/>
+		<group id="468" type="span" parent="470" relname="same-unit"/>
+		<group id="469" type="span" parent="470" relname="same-unit"/>
+		<group id="470" type="multinuc" parent="471" relname="span"/>
+		<group id="471" type="span" parent="169" relname="context-background"/>
+		<group id="472" type="span" parent="508" relname="topic-question"/>
+		<group id="473" type="multinuc" parent="496" relname="span"/>
+		<group id="474" type="span" parent="473" relname="adversative-contrast"/>
+		<group id="475" type="span" parent="476" relname="same-unit"/>
+		<group id="476" type="multinuc" parent="178" relname="contingency-condition"/>
+		<group id="477" type="span" parent="479" relname="span"/>
+		<group id="478" type="span" parent="477" relname="causal-result"/>
+		<group id="479" type="span" parent="496" relname="explanation-evidence"/>
+		<group id="480" type="span" parent="481" relname="span"/>
+		<group id="481" type="span" parent="497" relname="adversative-concession"/>
+		<group id="482" type="span" parent="494" relname="context-background"/>
+		<group id="483" type="span" parent="495" relname="adversative-antithesis"/>
+		<group id="484" type="span" parent="485" relname="same-unit"/>
+		<group id="485" type="multinuc" parent="489" relname="context-circumstance"/>
+		<group id="486" type="span" parent="492" relname="adversative-concession"/>
+		<group id="487" type="span" parent="488" relname="same-unit"/>
+		<group id="488" type="multinuc" parent="198" relname="contingency-condition"/>
+		<group id="489" type="span" parent="492" relname="span"/>
+		<group id="490" type="multinuc" parent="201" relname="explanation-motivation"/>
+		<group id="491" type="span" parent="503" relname="joint-other"/>
+		<group id="492" type="span" parent="493" relname="span"/>
+		<group id="493" type="span" parent="501" relname="joint-other"/>
+		<group id="494" type="span" parent="495" relname="span"/>
+		<group id="495" type="span" parent="500" relname="span"/>
+		<group id="496" type="span" parent="497" relname="span"/>
+		<group id="497" type="span" parent="499" relname="span"/>
+		<group id="498" type="span" parent="473" relname="adversative-concession"/>
+		<group id="499" type="span" parent="502" relname="span"/>
+		<group id="500" type="span" parent="501" relname="joint-other"/>
+		<group id="501" type="multinuc" parent="499" relname="elaboration-additional"/>
+		<group id="502" type="span" parent="503" relname="joint-other"/>
+		<group id="503" type="multinuc" parent="508" relname="span"/>
+		<group id="504" type="span" parent="617" relname="joint-other"/>
+		<group id="505" type="multinuc" parent="503" relname="evaluation-comment"/>
+		<group id="506" type="span" parent="505" relname="adversative-contrast"/>
+		<group id="507" type="span" parent="516" relname="topic-question"/>
+		<group id="508" type="span" parent="504" relname="span"/>
+		<group id="509" type="span" parent="514" relname="span"/>
+		<group id="510" type="span" parent="515" relname="span"/>
+		<group id="511" type="multinuc" parent="512" relname="span"/>
+		<group id="512" type="span" parent="510" relname="elaboration-additional"/>
+		<group id="513" type="span" parent="515" relname="adversative-concession"/>
+		<group id="514" type="span" parent="210" relname="adversative-antithesis"/>
+		<group id="515" type="span" parent="516" relname="span"/>
+		<group id="516" type="span" parent="517" relname="span"/>
+		<group id="517" type="span" parent="617" relname="joint-other"/>
+		<group id="518" type="span" parent="559" relname="topic-question"/>
+		<group id="519" type="span" parent="554" relname="adversative-contrast"/>
+		<group id="520" type="span" parent="521" relname="same-unit"/>
+		<group id="521" type="multinuc" parent="525" relname="context-circumstance"/>
+		<group id="522" type="span" parent="523" relname="joint-list"/>
+		<group id="523" type="multinuc" parent="228" relname="elaboration-attribute"/>
+		<group id="524" type="span" parent="525" relname="same-unit"/>
+		<group id="525" type="multinuc" parent="526" relname="span"/>
+		<group id="526" type="span" parent="554" relname="adversative-contrast"/>
+		<group id="527" type="span" parent="528" relname="same-unit"/>
+		<group id="528" type="multinuc" parent="529" relname="evaluation-comment"/>
+		<group id="529" type="span" parent="530" relname="span"/>
+		<group id="530" type="span" parent="554" relname="causal-result"/>
+		<group id="531" type="span" parent="533" relname="adversative-contrast"/>
+		<group id="532" type="span" parent="533" relname="adversative-contrast"/>
+		<group id="533" type="multinuc" parent="556" relname="joint-list"/>
+		<group id="536" type="multinuc" parent="241" relname="context-background"/>
+		<group id="537" type="span" parent="538" relname="span"/>
+		<group id="538" type="span" parent="556" relname="joint-list"/>
+		<group id="539" type="span" parent="540" relname="span"/>
+		<group id="540" type="span" parent="549" relname="context-circumstance"/>
+		<group id="541" type="span" parent="542" relname="same-unit"/>
+		<group id="542" type="multinuc" parent="248" relname="contingency-condition"/>
+		<group id="543" type="span" parent="544" relname="causal-cause"/>
+		<group id="544" type="multinuc" parent="549" relname="span"/>
+		<group id="545" type="multinuc" parent="553" relname="span"/>
+		<group id="546" type="span" parent="547" relname="span"/>
+		<group id="547" type="span" parent="255" relname="causal-cause"/>
+		<group id="548" type="span" parent="545" relname="joint-sequence"/>
+		<group id="549" type="span" parent="550" relname="span"/>
+		<group id="550" type="span" parent="545" relname="joint-sequence"/>
+		<group id="551" type="multinuc" parent="552" relname="span"/>
+		<group id="552" type="span" parent="545" relname="evaluation-comment"/>
+		<group id="553" type="span" parent="557" relname="span"/>
+		<group id="554" type="multinuc" parent="555" relname="span"/>
+		<group id="555" type="span" parent="558" relname="span"/>
+		<group id="556" type="multinuc" parent="553" relname="context-background"/>
+		<group id="557" type="span" parent="555" relname="explanation-evidence"/>
+		<group id="558" type="span" parent="218" relname="explanation-justify"/>
+		<group id="559" type="span" parent="560" relname="span"/>
+		<group id="560" type="span" parent="617" relname="joint-other"/>
+		<group id="561" type="span" parent="562" relname="same-unit"/>
+		<group id="562" type="multinuc" parent="564" relname="span"/>
+		<group id="563" type="multinuc" parent="562" relname="causal-cause"/>
+		<group id="564" type="span" parent="265" relname="context-background"/>
+		<group id="565" type="span" parent="593" relname="topic-question"/>
+		<group id="566" type="span" parent="569" relname="span"/>
+		<group id="567" type="span" parent="568" relname="span"/>
+		<group id="568" type="span" parent="566" relname="explanation-evidence"/>
+		<group id="569" type="span" parent="570" relname="explanation-justify"/>
+		<group id="570" type="span" parent="571" relname="span"/>
+		<group id="571" type="span" parent="590" relname="span"/>
+		<group id="573" type="multinuc" parent="589" relname="span"/>
+		<group id="574" type="span" parent="573" relname="adversative-contrast"/>
+		<group id="575" type="span" parent="573" relname="adversative-contrast"/>
+		<group id="576" type="multinuc" parent="586" relname="context-background"/>
+		<group id="577" type="span" parent="576" relname="same-unit"/>
+		<group id="578" type="span" parent="586" relname="joint-list"/>
+		<group id="579" type="span" parent="573" relname="explanation-justify"/>
+		<group id="580" type="multinuc" parent="286" relname="mode-manner"/>
+		<group id="581" type="span" parent="587" relname="joint-list"/>
+		<group id="582" type="multinuc" parent="292" relname="causal-cause"/>
+		<group id="583" type="span" parent="584" relname="span"/>
+		<group id="584" type="span" parent="293" relname="explanation-motivation"/>
+		<group id="585" type="span" parent="587" relname="joint-list"/>
+		<group id="586" type="multinuc" parent="579" relname="span"/>
+		<group id="587" type="multinuc" parent="285" relname="explanation-evidence"/>
+		<group id="588" type="span" parent="592" relname="joint-other"/>
+		<group id="589" type="span" parent="590" relname="adversative-concession"/>
+		<group id="590" type="span" parent="591" relname="span"/>
+		<group id="591" type="span" parent="592" relname="joint-other"/>
+		<group id="592" type="multinuc" parent="266" relname="elaboration-additional"/>
+		<group id="593" type="span" parent="594" relname="span"/>
+		<group id="594" type="span" parent="617" relname="joint-other"/>
+		<group id="595" type="span" parent="611" relname="topic-question"/>
+		<group id="596" type="multinuc" parent="608" relname="joint-other"/>
+		<group id="597" type="span" parent="596" relname="joint-list"/>
+		<group id="598" type="span" parent="599" relname="span"/>
+		<group id="599" type="span" parent="607" relname="span"/>
+		<group id="600" type="multinuc" parent="608" relname="explanation-justify"/>
+		<group id="601" type="span" parent="600" relname="adversative-contrast"/>
+		<group id="602" type="multinuc" parent="613" relname="span"/>
+		<group id="603" type="span" parent="602" relname="joint-list"/>
+		<group id="604" type="span" parent="605" relname="same-unit"/>
+		<group id="605" type="multinuc" parent="606" relname="span"/>
+		<group id="606" type="span" parent="602" relname="evaluation-comment"/>
+		<group id="607" type="span" parent="608" relname="joint-other"/>
+		<group id="608" type="multinuc" parent="609" relname="span"/>
+		<group id="609" type="span" parent="296" relname="adversative-concession"/>
+		<group id="610" type="span" parent="611" relname="span"/>
+		<group id="611" type="span" parent="612" relname="span"/>
+		<group id="612" type="span" parent="617" relname="joint-other"/>
+		<group id="613" type="span" parent="617" relname="joint-other"/>
+		<group id="615" type="span" parent="617" relname="joint-other"/>
+		<group id="616" type="span" parent="617" relname="joint-other"/>
+		<group id="617" type="multinuc" parent="618" relname="span"/>
+		<group id="618" type="span" parent="619" relname="span"/>
+		<group id="619" type="span" parent="620" relname="span"/>
+		<group id="620" type="span" />
+	</body>
+</rst>

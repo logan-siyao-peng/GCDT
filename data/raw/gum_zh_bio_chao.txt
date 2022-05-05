@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_chao" author="Wikipedia, The Free Encyclopedia" dateCreated="XXXX-XX-XX" dateCollected="2021-12-04" dateModified="2021-12-03" shortTitle="chao" sourceURL="https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%85%83%E4%BB%BB" speakerCount="0" speakerList="none" title="赵元任" type="bio">
+<text id="gum_zh_bio_chao" author="Wikipedia, The Free Encyclopedia" dateCreated="XXXX-XX-XX" dateCollected="2021-12-04" dateModified="2021-12-03" shortTitle="chao" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%B5%B5%E5%85%83%E4%BB%BB&oldid=68901642" speakerCount="0" speakerList="none" title="赵元任" type="bio">
 
 赵元任
 

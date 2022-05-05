@@ -1,0 +1,474 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="444" relname="organization-heading">埃瓦里斯特·伽罗瓦</segment>
+		<segment id="2" parent="234" relname="span">埃瓦里斯特·伽罗瓦</segment>
+		<segment id="3" parent="231" relname="span">（ 法语 ：</segment>
+		<segment id="4" parent="3" relname="elaboration-attribute">Évariste Galois ，</segment>
+		<segment id="5" parent="232" relname="same-unit">1811年 10月 25日 － 1832年 5月 31日 ，</segment>
+		<segment id="6" parent="233" relname="span">法语 发音 ：</segment>
+		<segment id="7" parent="6" relname="elaboration-attribute">[ evaʁist ɡalwa ] ） ，</segment>
+		<segment id="8" parent="235" relname="same-unit">著名 法国 数学家 。</segment>
+		<segment id="9" parent="237" relname="same-unit">在</segment>
+		<segment id="10" parent="11" relname="elaboration-attribute">他 还 只有 十几 岁 的</segment>
+		<segment id="11" parent="236" relname="span">时候 ，</segment>
+		<segment id="12" parent="239" relname="same-unit">他 就 发现 了</segment>
+		<segment id="13" parent="14" relname="elaboration-attribute">n次 多项式 可以 用 根式 解 的</segment>
+		<segment id="14" parent="238" relname="span">充要 条件 ，</segment>
+		<segment id="15" parent="241" relname="same-unit">解决 了</segment>
+		<segment id="16" parent="17" relname="elaboration-attribute">长期 困扰 数学界 的</segment>
+		<segment id="17" parent="240" relname="span">问题 。</segment>
+		<segment id="18" parent="244" relname="span">他 的 工作 为 伽罗瓦 理论</segment>
+		<segment id="19" parent="18" relname="elaboration-attribute">（ 一 个 抽象 代数 的 主要 分支 ）</segment>
+		<segment id="20" parent="245" relname="same-unit">以及 伽罗瓦 连接 领域 的 研究 奠定 了 基石 。</segment>
+		<segment id="21" parent="248" relname="same-unit">他 是 第一 个</segment>
+		<segment id="22" parent="246" relname="span">使用 “ 群 ” 这 一 个 数学 术语</segment>
+		<segment id="23" parent="22" relname="purpose-goal">来 表示 一 组 置换 的</segment>
+		<segment id="24" parent="247" relname="span">人 ，</segment>
+		<segment id="25" parent="249" relname="joint-list">与 尼尔斯·阿贝尔 并称 为 现代 群论 的 创始人 。</segment>
+		<segment id="26" parent="251" relname="same-unit">在</segment>
+		<segment id="27" parent="28" relname="elaboration-attribute">路易·菲利普 复辟 的</segment>
+		<segment id="28" parent="250" relname="span">时期 ，</segment>
+		<segment id="29" parent="253" relname="joint-list">他 是 一 个 激进 的 共和 主义者 ，</segment>
+		<segment id="30" parent="252" relname="joint-list">并 因此 被 逮捕 、</segment>
+		<segment id="31" parent="252" relname="joint-list">坐牢 。</segment>
+		<segment id="32" parent="33" relname="context-circumstance">二十 岁 出狱 后 ，</segment>
+		<segment id="33" parent="399" relname="span">他 在 一 次 几近 自杀 的 决斗 中 逝世 ， 引起 种种 揣测 。</segment>
+		<segment id="34" parent="442" relname="organization-heading">生平</segment>
+		<segment id="35" parent="295" relname="organization-heading">出身</segment>
+		<segment id="36" parent="261" relname="span">伽罗瓦 出生 在 法国 皇后镇 拉格兰德 大街 20号</segment>
+		<segment id="37" parent="36" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="38" parent="262" relname="same-unit">的 一 个</segment>
+		<segment id="39" parent="263" relname="span">支持 革命 的</segment>
+		<segment id="40" parent="39" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="41" parent="264" relname="joint-list">有 着 共和 主义 传统 的</segment>
+		<segment id="42" parent="265" relname="span">知识 分子 家庭</segment>
+		<segment id="43" parent="265" relname="explanation-evidence">[ 2 ]</segment>
+		<segment id="44" parent="262" relname="same-unit">中 。</segment>
+		<segment id="45" parent="269" relname="joint-list">他 的 祖父 ， 是 那 个 城市 学校 的 校长 ，</segment>
+		<segment id="46" parent="267" relname="attribution-positive">见证 了</segment>
+		<segment id="47" parent="48" relname="context-circumstance">1789年 11月 2号 教会 学校 世俗化 后</segment>
+		<segment id="48" parent="267" relname="span">市民 大量 涌入 的 历史 。</segment>
+		<segment id="49" parent="270" relname="span">他 的 父亲 ， 尼克拉－加布里埃尔·伽罗瓦</segment>
+		<segment id="50" parent="49" relname="elaboration-attribute">（ Nicolas-Gabriel Galois ， 1775 - 1829 ） ，</segment>
+		<segment id="51" parent="271" relname="same-unit">轮值 机构 负责人</segment>
+		<segment id="52" parent="271" relname="explanation-evidence">[ 1 ] ，</segment>
+		<segment id="53" parent="273" relname="span">在 百日王朝 后 ， 成为 了 皇后镇 的 自由派 市长</segment>
+		<segment id="54" parent="53" relname="explanation-evidence">[ 2 ]</segment>
+		<segment id="55" parent="275" relname="same-unit">直 到</segment>
+		<segment id="56" parent="57" relname="causal-cause">因 自杀</segment>
+		<segment id="57" parent="274" relname="span">而 死 。</segment>
+		<segment id="58" parent="279" relname="span">他 的 母亲 阿德莱德－玛丽·德芒特</segment>
+		<segment id="59" parent="58" relname="elaboration-attribute">（ Adélaïde-Marie Demante ， 1788 - 1872 ）</segment>
+		<segment id="60" parent="280" relname="same-unit">出身 律师 、 法官 之 家</segment>
+		<segment id="61" parent="280" relname="explanation-evidence">[ 3 ] ，</segment>
+		<segment id="62" parent="282" relname="joint-list">能够 流利 地 阅读 拉丁文 以及 古典 文学 ；</segment>
+		<segment id="63" parent="283" relname="joint-list">他 的 姨母 是 安托万－玛丽·德芒特 ，</segment>
+		<segment id="64" parent="284" relname="adversative-contrast">更 多 体现 为 斯多亚 学派 ，</segment>
+		<segment id="65" parent="284" relname="adversative-contrast">而 不仅 是 基督 教徒</segment>
+		<segment id="66" parent="283" relname="explanation-evidence">[ 2 ] 。</segment>
+		<segment id="67" parent="286" relname="span">他 家 还 另外 有 两 个 孩子 ：</segment>
+		<segment id="68" parent="67" relname="elaboration-attribute">那塔利－提奥多 和 阿尔弗雷德 ，</segment>
+		<segment id="69" parent="286" relname="elaboration-additional">分别 出生 于 1808年 和 1814年</segment>
+		<segment id="70" parent="287" relname="explanation-evidence">[ 4 ] 。</segment>
+		<segment id="71" parent="290" relname="mode-manner">他们 和 埃瓦里斯特 一样 ，</segment>
+		<segment id="72" parent="290" relname="same-unit">在 12 岁 之前 都 由 他们 的 妈妈</segment>
+		<segment id="73" parent="74" relname="mode-means">通过 一些 记忆 练习</segment>
+		<segment id="74" parent="288" relname="span">教 他们</segment>
+		<segment id="75" parent="288" relname="explanation-evidence">[ 3 ]</segment>
+		<segment id="76" parent="290" relname="same-unit">一些 人文 学科</segment>
+		<segment id="77" parent="291" relname="explanation-evidence">[ 5 ] 。</segment>
+		<segment id="78" parent="321" relname="organization-heading">早年 生活</segment>
+		<segment id="79" parent="297" relname="joint-list">1823年 8月 ， 11 岁 的 伽罗瓦 进入 路易 皇家 中学</segment>
+		<segment id="80" parent="297" relname="joint-list">就读 ，</segment>
+		<segment id="81" parent="300" relname="same-unit">虽然 在</segment>
+		<segment id="82" parent="83" relname="elaboration-attribute">学期 开始 的</segment>
+		<segment id="83" parent="298" relname="span">时候</segment>
+		<segment id="84" parent="299" relname="span">学校 有些 动荡</segment>
+		<segment id="85" parent="300" relname="explanation-evidence">（ 有 一百多 名 学生 被 开除 ） ，</segment>
+		<segment id="86" parent="302" relname="span">伽罗瓦 却 在 前 两 年 保持 了 很 好 的 成绩 ，</segment>
+		<segment id="87" parent="86" relname="explanation-evidence">拉丁语 还 得 了 一等 奖 。</segment>
+		<segment id="88" parent="310" relname="context-background">但 他 不久 就 对 学校 学习 厌烦 了 ，</segment>
+		<segment id="89" parent="306" relname="same-unit">因为 他</segment>
+		<segment id="90" parent="91" relname="context-circumstance">14 岁 的 时候</segment>
+		<segment id="91" parent="307" relname="span">开始</segment>
+		<segment id="92" parent="93" relname="mode-manner">跟随 Vernier 老师</segment>
+		<segment id="93" parent="308" relname="span">学习 数学 ，</segment>
+		<segment id="94" parent="309" relname="joint-list">并 疯狂 地 爱上 了 数学 ，</segment>
+		<segment id="95" parent="309" relname="elaboration-additional">对于 其他 科目 再 也 提 不 起 任何 兴趣 了 。</segment>
+		<segment id="96" parent="97" relname="attribution-positive">校方 描述</segment>
+		<segment id="97" parent="312" relname="span">此时 的 伽罗瓦 是 “ 奇特 、 怪异 、 有 原创力 又 封闭 ” 。</segment>
+		<segment id="98" parent="313" relname="span">他 找到 了 一 本 阿德里安-马里·勒让德 的 几何 原理</segment>
+		<segment id="99" parent="98" relname="restatement-partial">（ Éléments de Géométrie ） ，</segment>
+		<segment id="100" parent="101" relname="mode-manner">像 小说 一样 地</segment>
+		<segment id="101" parent="314" relname="span">读完 了 它 ，</segment>
+		<segment id="102" parent="315" relname="joint-list">并且 在 第一 遍 阅读 就 学会 了 。</segment>
+		<segment id="103" parent="317" relname="context-circumstance">15 岁 的 时候</segment>
+		<segment id="104" parent="316" relname="span">他 开始 读 约瑟夫·拉格朗日 的 原著 ， 比如 《 关于 方程 代数 解 的 思考 》</segment>
+		<segment id="105" parent="104" relname="elaboration-attribute">（ Réflexions sur la résolution algébrique des équations ， 有 可能 正 是 因此 ， 他 后来 专注于 研究 方程 的 解 的 理论 ）</segment>
+		<segment id="106" parent="318" relname="span">和 《 函数 积分 教程 》</segment>
+		<segment id="107" parent="106" relname="elaboration-attribute">（ Leçons sur le calcul des fonctions ， 一 本 主要 是 面向 专业 数学 工作者 的 书 ） 。</segment>
+		<segment id="108" parent="323" relname="joint-list">这 之后 不久 ， 他 的 成绩 就 开始 平庸 了 ，</segment>
+		<segment id="109" parent="110" relname="attribution-negative">他 的 老师 指责</segment>
+		<segment id="110" parent="324" relname="span">他 是 受到 了 理想 和 创造性 的 负面 影响</segment>
+		<segment id="111" parent="323" relname="explanation-evidence">[ 6 ] 。</segment>
+		<segment id="112" parent="329" relname="organization-heading">结缘 数学</segment>
+		<segment id="113" parent="326" relname="span">1829年 3月 1日 伽罗瓦 的 第一 份 论文</segment>
+		<segment id="114" parent="113" relname="explanation-evidence">[ 7 ]</segment>
+		<segment id="115" parent="327" relname="same-unit">出版 了 ，</segment>
+		<segment id="116" parent="327" relname="elaboration-additional">是 一 份 关于 连分数 的 论文 。</segment>
+		<segment id="117" parent="373" relname="joint-list">几乎 同 个 时间 ， 他 开始 了 在 多项式 方程 方面 的 研究 。</segment>
+		<segment id="118" parent="373" relname="joint-list">他 将 他 两 篇 多项式 方程 方面 的 研究 结果 呈交 给 了 法国 科学院 。</segment>
+		<segment id="119" parent="330" relname="span">这 两 篇 论文 由 奥古斯丁·路易·柯西</segment>
+		<segment id="120" parent="119" relname="restatement-partial">（ Augustin Louis Cauchy ）</segment>
+		<segment id="121" parent="331" relname="same-unit">负责 审阅 ，</segment>
+		<segment id="122" parent="332" relname="adversative-contrast">但 都 没有 准许 发表 ，</segment>
+		<segment id="123" parent="332" relname="evaluation-comment">其中 的 原因 至今 不明 。</segment>
+		<segment id="124" parent="338" relname="attribution-positive">不过 也 有 说法 是</segment>
+		<segment id="125" parent="338" relname="joint-list">柯西 认识 到 了 这 两 篇 文章 的 重要性 ，</segment>
+		<segment id="126" parent="127" relname="attribution-positive">只是 建议</segment>
+		<segment id="127" parent="334" relname="span">把 它们 合并 起来</segment>
+		<segment id="128" parent="334" relname="purpose-goal">以期 参加 数学 学术 大奖 的 竞争 。</segment>
+		<segment id="129" parent="130" relname="attribution-positive">柯西 这 位 当时 的 一 位 极其 杰出 的 数学家 认为</segment>
+		<segment id="130" parent="336" relname="span">他 的 论文 可能 获奖</segment>
+		<segment id="131" parent="336" relname="explanation-evidence">[ 8 ] 。</segment>
+		<segment id="132" parent="341" relname="same-unit">之后 伽罗瓦 自信 满满 地 投考 他 理想 中 的 大学 ，</segment>
+		<segment id="133" parent="134" relname="elaboration-attribute">法国 声誉 卓著 的</segment>
+		<segment id="134" parent="340" relname="span">综合 工科 学校 ，</segment>
+		<segment id="135" parent="341" relname="mode-manner">而 甚至 都 没有 复习 数学 。</segment>
+		<segment id="136" parent="344" relname="same-unit">但是 他</segment>
+		<segment id="137" parent="138" relname="causal-cause">由于 口试 中 没有 解释 清楚 思路</segment>
+		<segment id="138" parent="343" relname="span">所以 未能 通过 。</segment>
+		<segment id="139" parent="348" relname="same-unit">当时 伽罗瓦 的 父亲</segment>
+		<segment id="140" parent="346" relname="same-unit">在 一 场</segment>
+		<segment id="141" parent="142" relname="elaboration-attribute">同 当地 牧师 发生 的</segment>
+		<segment id="142" parent="345" relname="span">痛苦 的 政治 纷争 中</segment>
+		<segment id="143" parent="347" relname="span">自杀 身亡 。</segment>
+		<segment id="144" parent="376" relname="adversative-contrast">几 天 后 ， 伽罗瓦 第二 次 尝试 报考 综合 工科 学校 ，</segment>
+		<segment id="145" parent="376" relname="adversative-contrast">可是 又 一 次 失败 了 。</segment>
+		<segment id="146" parent="147" relname="attribution-positive">这时 可以 说</segment>
+		<segment id="147" parent="378" relname="span">伽罗瓦 毫无 疑问 超过 了 “ 合格 ” 的 标准 ；</segment>
+		<segment id="148" parent="149" relname="attribution-negative">但是 不 知</segment>
+		<segment id="149" parent="403" relname="span">为何 他 还是 遭遇 了 失败 。</segment>
+		<segment id="150" parent="380" relname="attribution-positive">有 传说 说</segment>
+		<segment id="151" parent="380" relname="joint-list">他 对 考官 给 他 的 题目 毫无 兴趣 ，</segment>
+		<segment id="152" parent="382" relname="same-unit">甚至 更 让 考官 恼怒 的 是 ， 他 将</segment>
+		<segment id="153" parent="154" relname="elaboration-attribute">擦 黑板 的</segment>
+		<segment id="154" parent="381" relname="span">抹布 扔在 了 考官 的 脑袋 上</segment>
+		<segment id="155" parent="351" relname="joint-list">[ 9 ]</segment>
+		<segment id="156" parent="351" relname="joint-list">[ 10 ] 。</segment>
+		<segment id="157" parent="158" relname="elaboration-attribute">看似 合理 些 的</segment>
+		<segment id="158" parent="349" relname="span">解释 说</segment>
+		<segment id="159" parent="385" relname="joint-list">伽罗瓦 在 逻辑 推理 中 跳 了 太 多 步骤 ， 使得 水准 不 高 的 考官 跟 不 上 他 的 思路 ，</segment>
+		<segment id="160" parent="385" relname="joint-list">导致 了 他 的 愤怒 。</segment>
+		<segment id="161" parent="386" relname="adversative-concession">不过 父亲 的 刚刚 去世 也许 也 是 影响 他 表现 的 原因 之一</segment>
+		<segment id="162" parent="387" relname="explanation-evidence">[ 6 ] 。</segment>
+		<segment id="163" parent="392" relname="joint-sequence">之后 ， 伽罗瓦 通过 考试</segment>
+		<segment id="164" parent="393" relname="span">进入 法国 另 一 著名 大学 巴黎 高等 师范 学校 ，</segment>
+		<segment id="165" parent="164" relname="elaboration-attribute">现 成为 基础 数学 研究者 的 圣地 ，</segment>
+		<segment id="166" parent="392" relname="joint-sequence">并 在 1829年 12月 29日 获得 了 学位 。</segment>
+		<segment id="167" parent="355" relname="attribution-positive">他 的 数学 考官 曾 说</segment>
+		<segment id="168" parent="354" relname="same-unit">“ 这 个 孩子</segment>
+		<segment id="169" parent="170" relname="context-circumstance">在 表达 他 的 想法 时</segment>
+		<segment id="170" parent="352" relname="span">有些 困难 ，</segment>
+		<segment id="171" parent="353" relname="joint-list">但是 他 十分 聪明 ，</segment>
+		<segment id="172" parent="353" relname="joint-list">并 体现 出 了 非凡 的 学术 精神 ” 。</segment>
+		<segment id="173" parent="439" relname="organization-heading">学生 革命</segment>
+		<segment id="174" parent="397" relname="same-unit">伽罗瓦 在 高等 师范 学校</segment>
+		<segment id="175" parent="176" relname="context-background">除了 继续 他 的 数学 研究 ，</segment>
+		<segment id="176" parent="396" relname="span">也 参加 了 政治 活动 。</segment>
+		<segment id="177" parent="398" relname="joint-list">1830年 法国 七月 革命 发生 ，</segment>
+		<segment id="178" parent="398" relname="joint-list">保皇 势力 出亡 ，</segment>
+		<segment id="179" parent="400" relname="span">高等 师范 学校 校长 将 学生 锁 在 高墙 内 ， 引起 伽罗瓦 强烈 不满 ，</segment>
+		<segment id="180" parent="401" relname="span">12月 伽罗瓦 在 校报 上 抨击 校长 的 作法 ，</segment>
+		<segment id="181" parent="359" relname="causal-cause">由于 强烈 支持 共和 主义 ，</segment>
+		<segment id="182" parent="358" relname="same-unit">从 1831年 5月 后 ， 伽罗瓦 两 度</segment>
+		<segment id="183" parent="184" relname="causal-cause">因 政治 原因</segment>
+		<segment id="184" parent="357" relname="span">下狱 ，</segment>
+		<segment id="185" parent="359" relname="joint-list">也 曾 企图 自杀 。</segment>
+		<segment id="186" parent="437" relname="context-background">关于 伽罗瓦 的 死亡 众说纷纭 ，</segment>
+		<segment id="187" parent="360" relname="attribution-positive">有 一 个 说法 是</segment>
+		<segment id="188" parent="360" relname="span">和 人 决斗 ，</segment>
+		<segment id="189" parent="188" relname="context-circumstance">时间 在 三 天 后 的 正午 。</segment>
+		<segment id="190" parent="191" relname="attribution-positive">自 知</segment>
+		<segment id="191" parent="406" relname="span">必 死 的</segment>
+		<segment id="192" parent="407" relname="span">伽罗瓦 在 决斗 前 三 夜 将 他 的 所有 数学 成果 狂笔 疾书</segment>
+		<segment id="193" parent="408" relname="joint-list">纪录 下来 ，</segment>
+		<segment id="194" parent="195" relname="attribution-positive">并 时不时 在 一旁 写下</segment>
+		<segment id="195" parent="409" relname="span">“ 我 没有 时间 ” ，</segment>
+		<segment id="196" parent="436" relname="joint-sequence">三 天 后 ， 他 在 决斗 中 腹部 中 了 3 个 子弹 ，</segment>
+		<segment id="197" parent="411" relname="span">躺 了 几 天 后 身亡 ，</segment>
+		<segment id="198" parent="197" relname="context-circumstance">时间 是 1832年 5月 31日 。</segment>
+		<segment id="199" parent="412" relname="span">这 个 传说 富 浪漫 主义 色彩 ，</segment>
+		<segment id="200" parent="199" relname="causal-result">为 后世 史家 所 质疑</segment>
+		<segment id="201" parent="412" relname="explanation-evidence">[ 11 ] 。</segment>
+		<segment id="202" parent="417" relname="same-unit">他 的 朋友 Chevalier</segment>
+		<segment id="203" parent="364" relname="mode-means">遵照 伽罗瓦 的 遗愿 ，</segment>
+		<segment id="204" parent="364" relname="span">将 他 的 数学 论文 寄给 卡尔·弗里德里希·高斯 与 雅各比</segment>
+		<segment id="205" parent="206" relname="organization-preparation">( 又 翻译 作 ：</segment>
+		<segment id="206" parent="363" relname="span">雅可比 ) ，</segment>
+		<segment id="207" parent="418" relname="adversative-contrast">但 都 石沉大海 ，</segment>
+		<segment id="208" parent="419" relname="joint-list">一直 到 1843年 ， 才 由 刘维尔 肯定 伽罗瓦 结果 之 正确 、 独创 与 深邃 ，</segment>
+		<segment id="209" parent="419" relname="joint-list">并 在 1846年 将 它 发表 。</segment>
+		<segment id="210" parent="421" relname="span">伽罗瓦 使用 群论 的 想法</segment>
+		<segment id="211" parent="210" relname="purpose-goal">去 讨论 方程式 的 可解性 ，</segment>
+		<segment id="212" parent="422" relname="joint-list">整套 想法 现称 为 伽罗瓦 理论 ，</segment>
+		<segment id="213" parent="422" relname="joint-list">是 当代 代数 与 数论 的 基本 支柱 之一 。</segment>
+		<segment id="214" parent="215" relname="elaboration-attribute">它 直接 推论 的</segment>
+		<segment id="215" parent="366" relname="span">结果 十分 丰富 ：</segment>
+		<segment id="216" parent="367" relname="attribution-positive">他 系统化 地 阐释 了</segment>
+		<segment id="217" parent="367" relname="adversative-contrast">为何 五次 以上 之 方程式 没有 根式解 ，</segment>
+		<segment id="218" parent="367" relname="adversative-contrast">而 四次 以下 有 根式解 。</segment>
+		<segment id="219" parent="424" relname="attribution-positive">他 漂亮 地 证明 高斯 的 论断 ：</segment>
+		<segment id="220" parent="369" relname="span">对 所有 质数 p ， 用 尺规 作图 能 作出 正 p 边形</segment>
+		<segment id="221" parent="220" relname="contingency-condition">当 且 仅 当 p=2^{2^{k}}+1</segment>
+		<segment id="222" parent="369" relname="causal-result">（ 所以 正 十七 边形 可 做图 ） 。</segment>
+		<segment id="223" parent="427" relname="span">他 解决 了 古代 三 大 作图 问题 中 的 两 个 ：</segment>
+		<segment id="224" parent="426" relname="joint-list">“ 不 能 任意 三等分 角 ” ，</segment>
+		<segment id="225" parent="426" relname="joint-list">“ 倍立方 不 可能 ” 。</segment>
+		<segment id="226" parent="432" relname="same-unit">另外 ， 怀尔斯</segment>
+		<segment id="227" parent="430" relname="same-unit">在</segment>
+		<segment id="228" parent="229" relname="elaboration-attribute">复证 费马 大 定理 的</segment>
+		<segment id="229" parent="370" relname="span">时候 ，</segment>
+		<segment id="230" parent="431" relname="span">亦 使用 到 伽罗瓦 理论 。</segment>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="2" relname="elaboration-attribute"/>
+		<group id="233" type="span" parent="232" relname="same-unit"/>
+		<group id="234" type="span" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="259" relname="context-background"/>
+		<group id="236" type="span" parent="237" relname="same-unit"/>
+		<group id="237" type="multinuc" parent="242" relname="context-circumstance"/>
+		<group id="238" type="span" parent="239" relname="same-unit"/>
+		<group id="239" type="multinuc" parent="242" relname="joint-list"/>
+		<group id="240" type="span" parent="241" relname="same-unit"/>
+		<group id="241" type="multinuc" parent="242" relname="joint-list"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="259" relname="joint-other"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="259" relname="joint-other"/>
+		<group id="246" type="span" parent="24" relname="elaboration-attribute"/>
+		<group id="247" type="span" parent="248" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="249" relname="joint-list"/>
+		<group id="249" type="multinuc" parent="259" relname="joint-other"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="253" relname="context-circumstance"/>
+		<group id="252" type="multinuc" parent="253" relname="joint-list"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="258" relname="joint-sequence"/>
+		<group id="258" type="multinuc" parent="259" relname="joint-other"/>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="260" type="span" parent="444" relname="span"/>
+		<group id="261" type="span" parent="262" relname="same-unit"/>
+		<group id="262" type="multinuc" parent="278" relname="context-background"/>
+		<group id="263" type="span" parent="264" relname="joint-list"/>
+		<group id="264" type="multinuc" parent="42" relname="elaboration-attribute"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="262" relname="same-unit"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="joint-list"/>
+		<group id="269" type="multinuc" parent="278" relname="joint-list"/>
+		<group id="270" type="span" parent="271" relname="same-unit"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="277" relname="joint-list"/>
+		<group id="273" type="span" parent="276" relname="span"/>
+		<group id="274" type="span" parent="275" relname="same-unit"/>
+		<group id="275" type="multinuc" parent="273" relname="elaboration-additional"/>
+		<group id="276" type="span" parent="277" relname="joint-list"/>
+		<group id="277" type="multinuc" parent="278" relname="joint-list"/>
+		<group id="278" type="multinuc" parent="295" relname="span"/>
+		<group id="279" type="span" parent="280" relname="same-unit"/>
+		<group id="280" type="multinuc" parent="281" relname="span"/>
+		<group id="281" type="span" parent="282" relname="joint-list"/>
+		<group id="282" type="multinuc" parent="278" relname="joint-list"/>
+		<group id="283" type="multinuc" parent="285" relname="span"/>
+		<group id="284" type="multinuc" parent="283" relname="joint-list"/>
+		<group id="285" type="span" parent="278" relname="joint-list"/>
+		<group id="286" type="span" parent="287" relname="span"/>
+		<group id="287" type="span" parent="293" relname="span"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="290" relname="same-unit"/>
+		<group id="290" type="multinuc" parent="291" relname="span"/>
+		<group id="291" type="span" parent="292" relname="span"/>
+		<group id="292" type="span" parent="293" relname="elaboration-additional"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="278" relname="joint-list"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="442" relname="joint-sequence"/>
+		<group id="297" type="multinuc" parent="303" relname="context-background"/>
+		<group id="298" type="span" parent="84" relname="context-circumstance"/>
+		<group id="299" type="span" parent="300" relname="same-unit"/>
+		<group id="300" type="multinuc" parent="301" relname="span"/>
+		<group id="301" type="span" parent="302" relname="adversative-concession"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="321" relname="joint-sequence"/>
+		<group id="306" type="multinuc" parent="309" relname="joint-list"/>
+		<group id="307" type="span" parent="306" relname="same-unit"/>
+		<group id="308" type="span" parent="306" relname="same-unit"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="320" relname="span"/>
+		<group id="312" type="span" parent="311" relname="evaluation-comment"/>
+		<group id="313" type="span" parent="315" relname="joint-list"/>
+		<group id="314" type="span" parent="315" relname="joint-list"/>
+		<group id="315" type="multinuc" parent="320" relname="explanation-evidence"/>
+		<group id="316" type="span" parent="317" relname="same-unit"/>
+		<group id="317" type="multinuc" parent="319" relname="span"/>
+		<group id="318" type="span" parent="317" relname="same-unit"/>
+		<group id="319" type="span" parent="321" relname="joint-sequence"/>
+		<group id="320" type="span" parent="322" relname="span"/>
+		<group id="321" type="multinuc" parent="446" relname="span"/>
+		<group id="322" type="span" parent="321" relname="joint-sequence"/>
+		<group id="323" type="multinuc" parent="325" relname="span"/>
+		<group id="324" type="span" parent="323" relname="joint-list"/>
+		<group id="325" type="span" parent="321" relname="joint-sequence"/>
+		<group id="326" type="span" parent="327" relname="same-unit"/>
+		<group id="327" type="multinuc" parent="371" relname="span"/>
+		<group id="329" type="multinuc" parent="395" relname="span"/>
+		<group id="330" type="span" parent="331" relname="same-unit"/>
+		<group id="331" type="multinuc" parent="332" relname="adversative-contrast"/>
+		<group id="332" type="multinuc" parent="333" relname="span"/>
+		<group id="333" type="span" parent="372" relname="adversative-contrast"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="338" relname="joint-list"/>
+		<group id="336" type="span" parent="337" relname="span"/>
+		<group id="337" type="span" parent="338" relname="joint-list"/>
+		<group id="338" type="multinuc" parent="339" relname="span"/>
+		<group id="339" type="span" parent="372" relname="adversative-contrast"/>
+		<group id="340" type="span" parent="341" relname="same-unit"/>
+		<group id="341" type="multinuc" parent="342" relname="span"/>
+		<group id="342" type="span" parent="375" relname="adversative-contrast"/>
+		<group id="343" type="span" parent="344" relname="same-unit"/>
+		<group id="344" type="multinuc" parent="375" relname="adversative-contrast"/>
+		<group id="345" type="span" parent="346" relname="same-unit"/>
+		<group id="346" type="multinuc" parent="143" relname="context-circumstance"/>
+		<group id="347" type="span" parent="348" relname="same-unit"/>
+		<group id="348" type="multinuc" parent="376" relname="context-background"/>
+		<group id="349" type="span" parent="385" relname="attribution-positive"/>
+		<group id="351" type="multinuc" parent="383" relname="explanation-evidence"/>
+		<group id="352" type="span" parent="354" relname="same-unit"/>
+		<group id="353" type="multinuc" parent="355" relname="adversative-contrast"/>
+		<group id="354" type="multinuc" parent="355" relname="adversative-contrast"/>
+		<group id="355" type="multinuc" parent="356" relname="span"/>
+		<group id="356" type="span" parent="392" relname="elaboration-additional"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="359" relname="joint-list"/>
+		<group id="359" type="multinuc" parent="402" relname="span"/>
+		<group id="360" type="span" parent="361" relname="span"/>
+		<group id="361" type="span" parent="435" relname="span"/>
+		<group id="362" type="span" parent="439" relname="joint-other"/>
+		<group id="363" type="span" parent="204" relname="restatement-partial"/>
+		<group id="364" type="span" parent="416" relname="span"/>
+		<group id="366" type="span" parent="428" relname="span"/>
+		<group id="367" type="multinuc" parent="368" relname="span"/>
+		<group id="368" type="span" parent="423" relname="joint-list"/>
+		<group id="369" type="span" parent="424" relname="span"/>
+		<group id="370" type="span" parent="430" relname="same-unit"/>
+		<group id="371" type="span" parent="329" relname="joint-sequence"/>
+		<group id="372" type="multinuc" parent="374" relname="span"/>
+		<group id="373" type="multinuc" parent="372" relname="context-background"/>
+		<group id="374" type="span" parent="329" relname="joint-sequence"/>
+		<group id="375" type="multinuc" parent="329" relname="joint-sequence"/>
+		<group id="376" type="multinuc" parent="377" relname="span"/>
+		<group id="377" type="span" parent="391" relname="span"/>
+		<group id="378" type="span" parent="404" relname="adversative-contrast"/>
+		<group id="380" type="multinuc" parent="383" relname="span"/>
+		<group id="381" type="span" parent="382" relname="same-unit"/>
+		<group id="382" type="multinuc" parent="380" relname="joint-list"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="389" relname="joint-list"/>
+		<group id="385" type="multinuc" parent="386" relname="span"/>
+		<group id="386" type="span" parent="387" relname="span"/>
+		<group id="387" type="span" parent="388" relname="span"/>
+		<group id="388" type="span" parent="389" relname="joint-list"/>
+		<group id="389" type="multinuc" parent="404" relname="explanation-evidence"/>
+		<group id="391" type="span" parent="329" relname="joint-sequence"/>
+		<group id="392" type="multinuc" parent="394" relname="span"/>
+		<group id="393" type="span" parent="392" relname="joint-sequence"/>
+		<group id="394" type="span" parent="329" relname="joint-sequence"/>
+		<group id="395" type="span" parent="442" relname="joint-sequence"/>
+		<group id="396" type="span" parent="397" relname="same-unit"/>
+		<group id="397" type="multinuc" parent="438" relname="context-background"/>
+		<group id="398" type="multinuc" parent="179" relname="context-background"/>
+		<group id="399" type="span" parent="258" relname="joint-sequence"/>
+		<group id="400" type="span" parent="180" relname="causal-cause"/>
+		<group id="401" type="span" parent="438" relname="joint-sequence"/>
+		<group id="402" type="span" parent="438" relname="joint-sequence"/>
+		<group id="403" type="span" parent="404" relname="adversative-contrast"/>
+		<group id="404" type="multinuc" parent="405" relname="span"/>
+		<group id="405" type="span" parent="377" relname="elaboration-additional"/>
+		<group id="406" type="span" parent="192" relname="elaboration-attribute"/>
+		<group id="407" type="span" parent="408" relname="joint-list"/>
+		<group id="408" type="multinuc" parent="436" relname="joint-sequence"/>
+		<group id="409" type="span" parent="408" relname="joint-list"/>
+		<group id="411" type="span" parent="436" relname="joint-sequence"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="435" relname="evaluation-comment"/>
+		<group id="416" type="span" parent="417" relname="same-unit"/>
+		<group id="417" type="multinuc" parent="418" relname="adversative-contrast"/>
+		<group id="418" type="multinuc" parent="420" relname="span"/>
+		<group id="419" type="multinuc" parent="418" relname="adversative-concession"/>
+		<group id="420" type="span" parent="433" relname="context-background"/>
+		<group id="421" type="span" parent="422" relname="joint-list"/>
+		<group id="422" type="multinuc" parent="428" relname="context-background"/>
+		<group id="423" type="multinuc" parent="366" relname="explanation-evidence"/>
+		<group id="424" type="span" parent="425" relname="span"/>
+		<group id="425" type="span" parent="423" relname="joint-list"/>
+		<group id="426" type="multinuc" parent="223" relname="elaboration-additional"/>
+		<group id="427" type="span" parent="423" relname="joint-list"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" parent="433" relname="joint-other"/>
+		<group id="430" type="multinuc" parent="230" relname="context-circumstance"/>
+		<group id="431" type="span" parent="432" relname="same-unit"/>
+		<group id="432" type="multinuc" parent="433" relname="joint-other"/>
+		<group id="433" type="multinuc" parent="434" relname="span"/>
+		<group id="434" type="span" parent="439" relname="joint-other"/>
+		<group id="435" type="span" parent="437" relname="span"/>
+		<group id="436" type="multinuc" parent="361" relname="elaboration-additional"/>
+		<group id="437" type="span" parent="362" relname="span"/>
+		<group id="438" type="multinuc" parent="440" relname="span"/>
+		<group id="439" type="multinuc" parent="441" relname="span"/>
+		<group id="440" type="span" parent="439" relname="joint-other"/>
+		<group id="441" type="span" parent="442" relname="joint-sequence"/>
+		<group id="442" type="multinuc" parent="443" relname="span"/>
+		<group id="443" type="span" parent="260" relname="explanation-evidence"/>
+		<group id="444" type="span" parent="445" relname="span"/>
+		<group id="445" type="span" />
+		<group id="446" type="span" parent="442" relname="joint-sequence"/>
+	</body>
+</rst>

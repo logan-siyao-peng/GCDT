@@ -1,0 +1,351 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="topic-question">WiMAX 未来 怎么 演变 // How will WiMAX evolve in the future</segment>
+		<segment id="2" parent="161" relname="span">资安 、 网络 业者 双赢 // A win-win situation for information security and network operators</segment>
+		<segment id="3" parent="321" relname="context-circumstance">【 2008年 5月 1日 讯 】 // 【 News on May 1, 2008 】</segment>
+		<segment id="4" parent="163" relname="context-background">资讯 安全 ， 几乎 和 生活 息息 相关 ， // Information security is almost closely related to life.</segment>
+		<segment id="5" parent="6" relname="adversative-concession">而 科技 ， 虽然 带来 了 不少 便利 ， // And technology , although it has brought a lot of convenience ,</segment>
+		<segment id="6" parent="163" relname="span">但 却 蕴含 着 不少 潜在 的 危机 。 // But it contains many potential crises .</segment>
+		<segment id="7" parent="165" relname="adversative-contrast">必然 ， 每 个 人 都 想要 便利 ， // Inevitably, everyone wants convenience,</segment>
+		<segment id="8" parent="9" relname="attribution-negative">但 却 不 知 // but don't know</segment>
+		<segment id="9" parent="164" relname="span">何时 身处 险境 。 // When in danger.</segment>
+		<segment id="10" parent="167" relname="same-unit">以 // by</segment>
+		<segment id="11" parent="168" relname="elaboration-attribute">目前 经济部 、 工研院 、 台北市 电脑 公会 主打 的 // Currently , the Ministry of Economic Affairs , the Industrial Technology Research Institute , and the Taipei Computer Association are focusing on</segment>
+		<segment id="12" parent="168" relname="span">网络 未来 之 星 // Internet future star</segment>
+		<segment id="13" parent="12" relname="restatement-partial">─ WiMAX // ─ WiMAX</segment>
+		<segment id="14" parent="167" relname="same-unit">为 例 ， // For example,</segment>
+		<segment id="15" parent="170" relname="attribution-positive">虽然 被 普遍 认定 // Although it is generally accepted that</segment>
+		<segment id="16" parent="169" relname="span">是 第四 代 ， // is the fourth generation,</segment>
+		<segment id="17" parent="16" relname="elaboration-attribute">也 是 下 一 代 // Also the next generation</segment>
+		<segment id="18" parent="170" relname="same-unit">的 网络 标准 ， // the web standard ,</segment>
+		<segment id="19" parent="177" relname="joint-list">但是 ， 随着 不少 网络 犯罪 问题 广 受 资安 业者 的 重视 ， // However , as many cybercrime issues have attracted the attention of information security practitioners ,</segment>
+		<segment id="20" parent="173" relname="span">以及 行动 相关 设备 // and mobile related equipment</segment>
+		<segment id="21" parent="22" relname="organization-preparation">（ 例 ： // ( example :</segment>
+		<segment id="22" parent="172" relname="span">UMPC 、 Pocket PC 等 ） ， // UMPC, Pocket PC, etc.),</segment>
+		<segment id="23" parent="176" relname="same-unit">将 有 可能 // will be possible</segment>
+		<segment id="24" parent="25" relname="context-circumstance">随着 WiMAX ， // With WiMAX,</segment>
+		<segment id="25" parent="175" relname="span">而 大幅 提升 其 使用 族群 的 关系 ， // And greatly enhance the relationship between its use groups ,</segment>
+		<segment id="26" parent="178" relname="span">部分 资安 业者 ， 也 因此 对 这 项 技术 ， 抱持 着 质疑 的 态度 ， // Some information security practitioners are also skeptical about this technology.</segment>
+		<segment id="27" parent="179" relname="adversative-contrast">毕竟 ， 这 项 新 技术 ， 既 期待 ， // After all , this new technology , both expected ,</segment>
+		<segment id="28" parent="179" relname="adversative-contrast">又 怕 受 伤害 。 // Afraid of being hurt.</segment>
+		<segment id="29" parent="182" relname="adversative-concession">尽管 ， 资安 业者 借由 数据 分析 ， 质疑 WiMAX 的 前景 ， // Although , the information security industry questioned the prospect of WiMAX through data analysis ,</segment>
+		<segment id="30" parent="182" relname="same-unit">但 资讯 产业 ， 是 如何 解读 这 种 // But how does the information industry interpret this</segment>
+		<segment id="31" parent="32" relname="elaboration-attribute">可能 会 发生 的 // may happen</segment>
+		<segment id="32" parent="181" relname="span">问题 ？ // question ?</segment>
+		<segment id="33" parent="184" relname="joint-list">因此 ， 借由 两 项 记者会 的 进行 ， 维基 新闻 记者 Rico Shen 先后 访问 了 微软 亚洲 研究院 院长 洪小文 ， 与 台北市 电脑 公会 副总干事 张笠 ， // Therefore , through two press conferences , Wikinews reporter Rico Shen has visited Hong Xiaowen, Director of Microsoft Research Asia, and Zhang Li, Deputy Director General of the Taipei Computer Association.</segment>
+		<segment id="34" parent="184" relname="joint-list">借由 他们 在 资讯 产业 的 经验 ， 来 解读 资安 业者 的 分析 。 // Use their experience in the information industry to interpret the analysis of information security practitioners.</segment>
+		<segment id="35" parent="192" relname="attribution-positive">洪小文 ： // Hong Xiaowen:</segment>
+		<segment id="36" parent="37" relname="adversative-antithesis">资安 业者 的 力量 ， 并 非 水到渠成 ， // The power of the information security industry does not come naturally.</segment>
+		<segment id="37" parent="192" relname="span">而 是 经验 上 的 累积 // It is the accumulation of experience</segment>
+		<segment id="38" parent="194" relname="adversative-contrast">资讯 科技 的 进步 ， 带来 很多 机会 ， // The advancement of information technology has brought many opportunities,</segment>
+		<segment id="39" parent="194" relname="adversative-contrast">但是 ， 安全 产业 对 资讯 安全 是 格外 重视 的 ， // However , the security industry attaches great importance to information security .</segment>
+		<segment id="40" parent="195" relname="span">对 此 ， 您 对 资安 的 看法 ？ // In this regard, what is your opinion on information security?</segment>
+		<segment id="41" parent="197" relname="same-unit">因为 在此之前 ， WiMAX 这 项 未来 网络 技术 ， // Because before that , WiMAX , the future network technology ,</segment>
+		<segment id="42" parent="43" relname="adversative-concession">虽然 将 会 带动 行动 族群 的 成长 ， // Although it will drive the growth of action groups ,</segment>
+		<segment id="43" parent="198" relname="span">但 在 安全性 的 部分 ， 却 遭到 // But in the security part, it was</segment>
+		<segment id="44" parent="45" relname="elaboration-attribute">资安 业者 ， 提出 相当 的 // information security practitioners, put forward considerable</segment>
+		<segment id="45" parent="196" relname="span">质疑 。 // question.</segment>
+		<segment id="46" parent="215" relname="span">安全 、 灵活性 ， 很 不 巧 地 ， 这 两 样 息息 相关 ， // Security, flexibility, unfortunately, these two are closely related,</segment>
+		<segment id="47" parent="212" relname="same-unit">倘若 要 一 个 东西 ， // If you want something,</segment>
+		<segment id="48" parent="49" relname="contingency-condition">怎么 通 ， // how to get through,</segment>
+		<segment id="49" parent="211" relname="span">怎么 行 ， // how ,</segment>
+		<segment id="50" parent="213" relname="span">很 显然 地 ， 仍旧 有 安全 上 的 顾虑 ， // Obviously, there are still safety concerns,</segment>
+		<segment id="51" parent="201" relname="same-unit">就 像是 // It's just like</segment>
+		<segment id="52" parent="53" relname="elaboration-attribute">一 个 家 可以 让 任何 人 进入 的 // A home that anyone can enter</segment>
+		<segment id="53" parent="200" relname="span">原理 ， // principle,</segment>
+		<segment id="54" parent="55" relname="contingency-condition">要 让 一 个 家 安全 ， // To make a home safe,</segment>
+		<segment id="55" parent="202" relname="span">就 必须 要 花上 一 番 功夫 ， // You have to put some effort into it.</segment>
+		<segment id="56" parent="209" relname="span">因此 ， 安全 是 一 个 必经 的 走势 。 // Therefore, safety is a must.</segment>
+		<segment id="57" parent="204" relname="same-unit">诚 如 // as if</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">您 所 提及 的 // you mentioned</segment>
+		<segment id="59" parent="203" relname="span">行动 安全 ， 相对 地 ， // Action safety, relatively,</segment>
+		<segment id="60" parent="61" relname="context-circumstance">一 个 技术 未 被 广泛 地 普及 时 ， // When a technology is not widely available,</segment>
+		<segment id="61" parent="207" relname="span">适当 的 质疑 就 是 给 这些 // Appropriate questioning is to give these</segment>
+		<segment id="62" parent="63" relname="elaboration-attribute">（ 安全 与 网络 ） // (Security & Networking)</segment>
+		<segment id="63" parent="208" relname="span">业者 一 个 很 好 的 机会 。 // A great opportunity for business owners .</segment>
+		<segment id="64" parent="216" relname="contingency-condition">把 东西 都 锁 起来 ， // lock everything up,</segment>
+		<segment id="65" parent="216" relname="adversative-contrast">虽然 安全 ， // Although safe,</segment>
+		<segment id="66" parent="216" relname="adversative-contrast">但 不 方便 ， // but inconvenient,</segment>
+		<segment id="67" parent="224" relname="span">因此 ， 人们 要 的 ， 反而 是 一 种 既 安全 又 方便 的 产物 ， // Therefore, what people want is a product that is both safe and convenient.</segment>
+		<segment id="68" parent="219" relname="same-unit">相对 地 ， 加密 、 密码 、 政策 等 要素 ， 或者是 // Conversely, elements of encryption, passwords, policies, etc., or</segment>
+		<segment id="69" parent="70" relname="elaboration-attribute">以 Web 2.0 的 机制 所 进行 的 // carried out by the mechanism of Web 2.0</segment>
+		<segment id="70" parent="218" relname="span">安全 防护 ， 就 更 显 重要 。 // Safety protection is even more important.</segment>
+		<segment id="71" parent="220" relname="topic-solutionhood">资讯 安全 ， 有 无意 与 恶意 的 攻击者 ， 要 怎么 去 阻止 ， // Information security, how to stop unintentional and malicious attackers,</segment>
+		<segment id="72" parent="220" relname="span">就 要 先 一 步 地 进行 规划 ， // It is necessary to plan ahead.</segment>
+		<segment id="73" parent="72" relname="causal-result">才 能 适当 地 完善 其 防护 措施 ， // In order to properly improve its protective measures,</segment>
+		<segment id="74" parent="222" relname="adversative-contrast">因此 ， 资讯 安全 产业 ， 需要 长期 的 观察 与 研究 ， 与 适当 的 配套 措施 ， // Therefore , the information security industry needs long - term observation and research , and appropriate supporting measures ,</segment>
+		<segment id="75" parent="76" relname="contingency-condition">而 不 是 一下子 有 解决 方案 // Instead of having a solution all at once</segment>
+		<segment id="76" parent="223" relname="span">就 算 了 。 // Never mind .</segment>
+		<segment id="77" parent="225" relname="attribution-positive">张笠 ： // Zhang Li:</segment>
+		<segment id="78" parent="79" relname="adversative-concession">无论 WiMAX 的 未来 如何 ， // Regardless of the future of WiMAX ,</segment>
+		<segment id="79" parent="225" relname="span">攻方 、 守方 都 会 有 商机 // Both the attacker and the defender will have business opportunities</segment>
+		<segment id="80" parent="230" relname="same-unit">部分 资安 业者 ， 在 亚太 资安 论坛 中 ， // Some information security practitioners, in the Asia-Pacific Information Security Forum,</segment>
+		<segment id="81" parent="228" relname="same-unit">针对 // against</segment>
+		<segment id="82" parent="83" relname="elaboration-attribute">目前 公会 正在 推展 的 // Currently the guild is promoting</segment>
+		<segment id="83" parent="227" relname="span">未来 网络 技术 WiMAX // future network technology WiMAX</segment>
+		<segment id="84" parent="229" relname="span">进行 质疑 ， // to question,</segment>
+		<segment id="85" parent="231" relname="span">对 此 ， 您 的 看法 ？ // What do you think about this?</segment>
+		<segment id="86" parent="236" relname="span">主要 的 厂商 ， 会 改变 资讯 产业 的 走向 ， // Major manufacturers will change the direction of the information industry ,</segment>
+		<segment id="87" parent="235" relname="same-unit">根据 // according to</segment>
+		<segment id="88" parent="232" relname="span">我们 // us</segment>
+		<segment id="89" parent="88" relname="elaboration-attribute">（ 电脑 公会 ） // ( Computer Society )</segment>
+		<segment id="90" parent="233" relname="same-unit">新 选出 的 // newly elected</segment>
+		<segment id="91" parent="234" relname="span">理事会 ， // council,</segment>
+		<segment id="92" parent="237" relname="causal-cause">因为 结构 上 ， 大多数 都 是 面板 与 笔记型 电脑 的 业者 ， // Because of the structure , most of them are panel and notebook computer manufacturers .</segment>
+		<segment id="93" parent="94" relname="contingency-condition">只要 业界 的 大老 能 获得 共识 ， // As long as the industry leaders can reach a consensus,</segment>
+		<segment id="94" parent="237" relname="span">走向 将 更加 明确 。 // The direction will be more clear.</segment>
+		<segment id="95" parent="239" relname="attribution-positive">之前 洪小文 表示 ： // Hong Xiaowen said before:</segment>
+		<segment id="96" parent="97" relname="context-circumstance">“ 人们 要 享受 一 个 新 的 技术 或 科技 时 ， // "When people want to enjoy a new technology or technology,</segment>
+		<segment id="97" parent="239" relname="span">必要 的 周边 防护 ， 还是 要 有 的 。 ” // Necessary perimeter protection is still required. "</segment>
+		<segment id="98" parent="241" relname="span">您 的 看法 ？ // your opinion ?</segment>
+		<segment id="99" parent="252" relname="same-unit">这 是 // This is</segment>
+		<segment id="100" parent="101" relname="elaboration-attribute">绝对 不 能 否认 的 // absolutely undeniable</segment>
+		<segment id="101" parent="251" relname="span">事实 ， // fact,</segment>
+		<segment id="102" parent="253" relname="context-circumstance">当 一 项 新 技术 正在 研发 时 ， // When a new technology is being developed ,</segment>
+		<segment id="103" parent="253" relname="adversative-contrast">业界 大多 只 会 看 前景 ， // Most of the industry will only look at the prospects.</segment>
+		<segment id="104" parent="253" relname="adversative-contrast">而 不 去 看 隐藏 的 因素 ， // instead of looking at the hidden factors,</segment>
+		<segment id="105" parent="256" relname="same-unit">像是 资料 安全 的 问题 ， // such as data security issues ,</segment>
+		<segment id="106" parent="107" relname="context-circumstance">当 互联网 的 发展 刚 开始 时 ， // When the development of the Internet first started ,</segment>
+		<segment id="107" parent="255" relname="span">人们 绝对 不 知道 问题 的 严重性 ， // People have absolutely no idea how serious the problem is,</segment>
+		<segment id="108" parent="258" relname="same-unit">而 // and</segment>
+		<segment id="109" parent="110" relname="elaboration-attribute">您 说 的 // what you said</segment>
+		<segment id="110" parent="257" relname="span">WiMAX ， 目前 只 是 发展 中 的 产物 ， // WiMAX, currently only a product of development,</segment>
+		<segment id="111" parent="112" relname="causal-cause">但 却 因为 有 许多 意想不到 的 事情 ， 可能 在 未来 会 发生 ， // But because there are many unexpected things that may happen in the future ,</segment>
+		<segment id="112" parent="259" relname="span">所以 ， 商机 就 会 冒 出来 。 // So, business opportunities will pop up.</segment>
+		<segment id="113" parent="114" relname="context-circumstance">因此 ， 在 WiMAX 还 没 出来 前 ， // Therefore , before WiMAX came out ,</segment>
+		<segment id="114" parent="268" relname="span">资讯 业者 的 质疑 是 ？ // What are the doubts of the information industry?</segment>
+		<segment id="115" parent="272" relname="organization-preparation">依照 目前 的 现况 ， // According to the current situation ,</segment>
+		<segment id="116" parent="270" relname="context-circumstance">当 身处 在 一 个 宽带 或是 无线 网络 的 环境 内 ， // When in a broadband or wireless network environment ,</segment>
+		<segment id="117" parent="269" relname="span">没 人 会 想到 任何 // no one will think of any</segment>
+		<segment id="118" parent="117" relname="elaboration-attribute">（ 好 或 坏 的 ） // (good or bad)</segment>
+		<segment id="119" parent="270" relname="same-unit">资讯流 的 出现 ， // The emergence of information flow,</segment>
+		<segment id="120" parent="275" relname="adversative-concession">不管是 理论 或 实务 ， 或是 过去 的 经验 ， // Whether theoretical or practical , or past experience ,</segment>
+		<segment id="121" parent="274" relname="span">这些 // These</segment>
+		<segment id="122" parent="121" relname="elaboration-attribute">（ 议题 ） // ( topic )</segment>
+		<segment id="123" parent="275" relname="same-unit">是 绝对 会 被 // will definitely be</segment>
+		<segment id="124" parent="125" relname="elaboration-additional">（ 业者 ） // ( industry operator )</segment>
+		<segment id="125" parent="276" relname="span">关注 的 。 // concerned.</segment>
+		<segment id="126" parent="294" relname="attribution-positive">我 的 看法 是 ， // My opinion is,</segment>
+		<segment id="127" parent="277" relname="span">不管是 防守 // whether it's defense</segment>
+		<segment id="128" parent="127" relname="restatement-partial">（ 安全 ） // ( Safety )</segment>
+		<segment id="129" parent="279" relname="span">或 前景 // or prospect</segment>
+		<segment id="130" parent="129" relname="restatement-partial">（ 科技 ） ， // ( Technology ) ,</segment>
+		<segment id="131" parent="282" relname="same-unit">业者 在 // industry</segment>
+		<segment id="132" parent="133" relname="elaboration-attribute">追求 新 纪录 、 新 商机 的 // Those who pursue new records and new business opportunities</segment>
+		<segment id="133" parent="281" relname="span">时候 ， // when ,</segment>
+		<segment id="134" parent="283" relname="span">他们 // them</segment>
+		<segment id="135" parent="134" relname="restatement-partial">（ 业者 ） // ( industry operator )</segment>
+		<segment id="136" parent="284" relname="same-unit">一定 先 看 前景 ， // Be sure to look at the prospects first.</segment>
+		<segment id="137" parent="287" relname="span">因此 ， 防守 这 部分 ， 则 会 让 资安 // Therefore, defending this part will make information security</segment>
+		<segment id="138" parent="137" relname="restatement-partial">（ 像是 趋势 科技 等 ） ， // (like Trend Micro, etc.),</segment>
+		<segment id="139" parent="288" relname="same-unit">来 进行 主导 ， // to lead,</segment>
+		<segment id="140" parent="141" relname="adversative-concession">无论 如何 ， // Anyway,</segment>
+		<segment id="141" parent="290" relname="span">两 边 的 商机 都 在 。 // There are business opportunities on both sides.</segment>
+		<segment id="142" parent="318" relname="organization-heading">总结 // Summarize</segment>
+		<segment id="143" parent="305" relname="span">“ 瞻前顾后 ” ， 这 是 一 种 处事 的 最佳 手段 ， // "Looking ahead and looking back" is the best way to deal with things.</segment>
+		<segment id="144" parent="303" relname="context-circumstance">因为 做 一 件 事情 之前 ， // Because before doing something,</segment>
+		<segment id="145" parent="303" relname="span">需要 有 适当 的 分析 ， // Proper analysis is required,</segment>
+		<segment id="146" parent="147" relname="attribution-positive">才 可能 知道 // may know</segment>
+		<segment id="147" parent="302" relname="span">后果 会 是 如何 。 // What the consequences will be.</segment>
+		<segment id="148" parent="314" relname="organization-preparation">反观 WiMAX ， // In contrast to WiMAX,</segment>
+		<segment id="149" parent="306" relname="adversative-concession">虽然 它 是 一 个 未来 的 网络 趋势 ， // Although it is a future web trend ,</segment>
+		<segment id="150" parent="306" relname="adversative-contrast">但 许多 业者 可能 只 看到 前面 的 好 ， // But many industry players may only see the good in front.</segment>
+		<segment id="151" parent="308" relname="same-unit">却 看 不 见 // but can't see</segment>
+		<segment id="152" parent="153" relname="elaboration-attribute">资安 业者 关注 的 // Information security industry concerns</segment>
+		<segment id="153" parent="307" relname="span">潜在 危机 ， // potential crisis,</segment>
+		<segment id="154" parent="310" relname="contingency-condition">因此 ， 若 能 适当 地 洞竹机先 ， // Therefore, if you can properly drill the bamboo machine first,</segment>
+		<segment id="155" parent="310" relname="same-unit">那么 ， // So ,</segment>
+		<segment id="156" parent="157" relname="elaboration-attribute">受 伤害 的 // injured</segment>
+		<segment id="157" parent="309" relname="span">几率 就 会 减低 ， // the odds will decrease.</segment>
+		<segment id="158" parent="159" relname="attribution-positive">毕竟 ， 安全 业者 有 个 名言 ： // After all , the security industry has a famous saying :</segment>
+		<segment id="159" parent="312" relname="span">“ 事先 预防 胜于 事后 补救 。 ” // " Prevention is better than cure . "</segment>
+		<segment id="160" parent="312" relname="adversative-concession">尽管 ， 一 个 产物 可能 对 两 种 不同 的 层面 ， 带来 不同 的 影响 。 // Although , a product may have different effects on two different levels .</segment>
+		<group id="161" type="span" parent="322" relname="organization-heading"/>
+		<group id="163" type="span" parent="189" relname="span"/>
+		<group id="164" type="span" parent="165" relname="adversative-contrast"/>
+		<group id="165" type="multinuc" parent="189" relname="elaboration-additional"/>
+		<group id="166" type="span" parent="167" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="186" relname="explanation-evidence"/>
+		<group id="168" type="span" parent="166" relname="span"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="180" relname="adversative-concession"/>
+		<group id="172" type="span" parent="20" relname="elaboration-attribute"/>
+		<group id="173" type="span" parent="176" relname="same-unit"/>
+		<group id="175" type="span" parent="176" relname="same-unit"/>
+		<group id="176" type="multinuc" parent="177" relname="joint-list"/>
+		<group id="177" type="multinuc" parent="26" relname="context-circumstance"/>
+		<group id="178" type="span" parent="180" relname="span"/>
+		<group id="179" type="multinuc" parent="178" relname="explanation-justify"/>
+		<group id="180" type="span" parent="186" relname="span"/>
+		<group id="181" type="span" parent="182" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="184" relname="context-background"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="191" relname="span"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" parent="190" relname="span"/>
+		<group id="188" type="span" parent="187" relname="context-background"/>
+		<group id="189" type="span" parent="188" relname="span"/>
+		<group id="190" type="span" parent="185" relname="context-background"/>
+		<group id="191" type="span" parent="320" relname="context-background"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="247" relname="organization-heading"/>
+		<group id="194" type="multinuc" parent="40" relname="context-background"/>
+		<group id="195" type="span" parent="242" relname="span"/>
+		<group id="196" type="span" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="195" relname="context-background"/>
+		<group id="198" type="span" parent="197" relname="same-unit"/>
+		<group id="200" type="span" parent="201" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="205" relname="span"/>
+		<group id="202" type="span" parent="201" relname="explanation-justify"/>
+		<group id="203" type="span" parent="204" relname="same-unit"/>
+		<group id="204" type="multinuc" parent="56" relname="explanation-justify"/>
+		<group id="205" type="span" parent="209" relname="mode-manner"/>
+		<group id="207" type="span" parent="204" relname="same-unit"/>
+		<group id="208" type="span" parent="204" relname="same-unit"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="214" relname="span"/>
+		<group id="211" type="span" parent="212" relname="same-unit"/>
+		<group id="212" type="multinuc" parent="50" relname="contingency-condition"/>
+		<group id="213" type="span" parent="46" relname="explanation-justify"/>
+		<group id="214" type="span" parent="246" relname="joint-other"/>
+		<group id="215" type="span" parent="210" relname="causal-cause"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="67" relname="explanation-evidence"/>
+		<group id="218" type="span" parent="219" relname="same-unit"/>
+		<group id="219" type="multinuc" parent="224" relname="causal-result"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="222" relname="causal-cause"/>
+		<group id="222" type="multinuc" parent="244" relname="span"/>
+		<group id="223" type="span" parent="222" relname="adversative-contrast"/>
+		<group id="224" type="span" parent="243" relname="span"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="298" relname="organization-heading"/>
+		<group id="227" type="span" parent="228" relname="same-unit"/>
+		<group id="228" type="multinuc" parent="84" relname="purpose-attribute"/>
+		<group id="229" type="span" parent="230" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="85" relname="context-background"/>
+		<group id="231" type="span" parent="249" relname="topic-question"/>
+		<group id="232" type="span" parent="233" relname="same-unit"/>
+		<group id="233" type="multinuc" parent="91" relname="elaboration-attribute"/>
+		<group id="234" type="span" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="86" relname="mode-means"/>
+		<group id="236" type="span" parent="249" relname="span"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="236" relname="explanation-justify"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="98" relname="context-background"/>
+		<group id="241" type="span" parent="266" relname="topic-question"/>
+		<group id="242" type="span" parent="246" relname="topic-question"/>
+		<group id="243" type="span" parent="245" relname="joint-other"/>
+		<group id="244" type="span" parent="245" relname="joint-other"/>
+		<group id="245" type="multinuc" parent="246" relname="joint-other"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="320" relname="joint-other"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="298" relname="joint-other"/>
+		<group id="251" type="span" parent="252" relname="same-unit"/>
+		<group id="252" type="multinuc" parent="264" relname="organization-preparation"/>
+		<group id="253" type="multinuc" parent="254" relname="span"/>
+		<group id="254" type="span" parent="264" relname="span"/>
+		<group id="255" type="span" parent="256" relname="same-unit"/>
+		<group id="256" type="multinuc" parent="254" relname="explanation-evidence"/>
+		<group id="257" type="span" parent="258" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="259" relname="adversative-concession"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="266" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="260" relname="context-background"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="298" relname="joint-other"/>
+		<group id="268" type="span" parent="300" relname="topic-question"/>
+		<group id="269" type="span" parent="270" relname="same-unit"/>
+		<group id="270" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="280" relname="adversative-antithesis"/>
+		<group id="274" type="span" parent="275" relname="same-unit"/>
+		<group id="275" type="multinuc" parent="280" relname="span"/>
+		<group id="276" type="span" parent="275" relname="same-unit"/>
+		<group id="277" type="span" parent="278" relname="same-unit"/>
+		<group id="278" type="multinuc" parent="292" relname="adversative-concession"/>
+		<group id="279" type="span" parent="278" relname="same-unit"/>
+		<group id="280" type="span" parent="291" relname="span"/>
+		<group id="281" type="span" parent="282" relname="same-unit"/>
+		<group id="282" type="multinuc" parent="284" relname="context-circumstance"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="292" relname="adversative-contrast"/>
+		<group id="287" type="span" parent="288" relname="same-unit"/>
+		<group id="288" type="multinuc" parent="292" relname="adversative-contrast"/>
+		<group id="290" type="span" parent="293" relname="evaluation-comment"/>
+		<group id="291" type="span" parent="295" relname="context-background"/>
+		<group id="292" type="multinuc" parent="293" relname="span"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="300" relname="span"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="320" relname="joint-other"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="301" type="span" parent="298" relname="joint-other"/>
+		<group id="302" type="span" parent="145" relname="causal-result"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="143" relname="explanation-justify"/>
+		<group id="305" type="span" parent="316" relname="context-background"/>
+		<group id="306" type="multinuc" parent="314" relname="span"/>
+		<group id="307" type="span" parent="308" relname="same-unit"/>
+		<group id="308" type="multinuc" parent="306" relname="adversative-contrast"/>
+		<group id="309" type="span" parent="310" relname="same-unit"/>
+		<group id="310" type="multinuc" parent="311" relname="span"/>
+		<group id="311" type="span" parent="317" relname="span"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="311" relname="explanation-evidence"/>
+		<group id="314" type="span" parent="315" relname="span"/>
+		<group id="315" type="span" parent="317" relname="causal-cause"/>
+		<group id="316" type="span" parent="318" relname="span"/>
+		<group id="317" type="span" parent="316" relname="span"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="320" relname="joint-other"/>
+		<group id="320" type="multinuc" parent="321" relname="span"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" />
+	</body>
+</rst>

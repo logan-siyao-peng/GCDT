@@ -48,15 +48,15 @@
 		<segment id="10" parent="194" relname="span">英语 中动态 具有 如下 特点 ：</segment>
 		<segment id="11" parent="10" relname="adversative-antithesis">1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念</segment>
 		<segment id="12" parent="195" relname="explanation-evidence">[ 2 ] 。</segment>
-		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论 如何 先 于 过程 对 受事 的 影响 ，</segment>
+		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论 如何 先于 过程 对 受事 的 影响 ，</segment>
 		<segment id="14" parent="197" relname="span">也 就 是 因</segment>
 		<segment id="15" parent="14" relname="restatement-partial">( 施事 )</segment>
-		<segment id="16" parent="199" relname="span">先 于 果</segment>
+		<segment id="16" parent="199" relname="span">先于 果</segment>
 		<segment id="17" parent="16" relname="restatement-partial">( 过程 对 受事 的 影响 ) ，</segment>
 		<segment id="18" parent="202" relname="same-unit">因此 ， 主动态 是</segment>
 		<segment id="19" parent="20" relname="elaboration-attribute">最 符合 象似性 原则 的</segment>
 		<segment id="20" parent="201" relname="span">表达 。</segment>
-		<segment id="21" parent="204" relname="span">在 被动态 结构 中 ， 施事 先 于 受事 ，</segment>
+		<segment id="21" parent="204" relname="span">在 被动态 结构 中 ， 施事 先于 受事 ，</segment>
 		<segment id="22" parent="21" relname="causal-result">明显 违背 了 象似性 原则 。</segment>
 		<segment id="23" parent="206" relname="organization-preparation">那么 ， 就 中动态 而言 ，</segment>
 		<segment id="24" parent="206" relname="adversative-contrast">它 的 语法 结构 是 主动态 的 ，</segment>
@@ -156,7 +156,7 @@
 		<segment id="118" parent="284" relname="span">根据 文旭</segment>
 		<segment id="119" parent="118" relname="explanation-evidence">[ 5 ] ，</segment>
 		<segment id="120" parent="121" relname="organization-preparation">距离 象似性 定义 如下 ：</segment>
-		<segment id="121" parent="285" relname="span">概念 间 的 距离 对应 于 语言 成分 之间 的 距离 。</segment>
+		<segment id="121" parent="285" relname="span">概念 间 的 距离 对应于 语言 成分 之间 的 距离 。</segment>
 		<segment id="122" parent="286" relname="span">Haiman</segment>
 		<segment id="123" parent="122" relname="explanation-evidence">[ 7 ]</segment>
 		<segment id="124" parent="287" relname="same-unit">认为</segment>

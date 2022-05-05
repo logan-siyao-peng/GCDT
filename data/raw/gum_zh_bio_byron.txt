@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_byron" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-09-14" shortTitle="byron" sourceURL="https://zh.wikipedia.org/wiki/%E6%8B%9C%E4%BC%A6%E5%8B%8B%E7%88%B5" speakerCount="0" speakerList="none" title="拜伦勋爵" type="bio">
+<text id="gum_zh_bio_byron" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-09-14" shortTitle="byron" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E6%8B%9C%E4%BC%A6%E5%8B%8B%E7%88%B5&oldid=67700960" speakerCount="0" speakerList="none" title="拜伦勋爵" type="bio">
 
 拜伦勋爵
 
