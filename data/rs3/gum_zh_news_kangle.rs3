@@ -1,0 +1,294 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="265" relname="organization-heading">康文署 重开 康乐 设施</segment>
+		<segment id="2" parent="267" relname="context-circumstance">【 2020年 5月 11日 讯 】</segment>
+		<segment id="3" parent="141" relname="span">康乐 及 文化 事务署</segment>
+		<segment id="4" parent="3" relname="restatement-partial">（ 康文署 ）</segment>
+		<segment id="5" parent="140" relname="span">今日</segment>
+		<segment id="6" parent="5" relname="restatement-partial">（ 5月 10日 ）</segment>
+		<segment id="7" parent="142" relname="same-unit">宣布 ，</segment>
+		<segment id="8" parent="143" relname="joint-list">鉴于 2019 冠状 病毒病 的 最新 情况 ， 康乐 文化署 的 更 多 康乐 及 文化 场地 将 于 5月 21日 重新 开放 。</segment>
+		<segment id="9" parent="143" relname="joint-list">而 康乐 和 体育 活动 训练班 及 外展 音乐 课程 ， 也 将 从 6月 1日 开始 恢复 。</segment>
+		<segment id="10" parent="145" relname="span">将于 5月 21日</segment>
+		<segment id="11" parent="10" relname="restatement-partial">（ 星期四 ）</segment>
+		<segment id="12" parent="146" relname="same-unit">重新 开放 的</segment>
+		<segment id="13" parent="147" relname="span">休闲 设施 包括 大 部分 公共 游泳池</segment>
+		<segment id="14" parent="13" relname="elaboration-attribute">（ 仅 针对 特定 的 游泳池 设施 ， 例如 主池 、 副池 ）</segment>
+		<segment id="15" parent="150" relname="same-unit">舞蹈室 ／ 活动室 、 健身室 、 运动 攀登 设施 、 英式 ／ 美式 桌球台 、 体操 训练场 、 烧烤场 、 贝澳 营地 、 水上 活动 中心 、 屯门 康乐 体育 中心 户外 运动 攀登墙 及 绳网阵 将 在 适当 时候 宣布</segment>
+		<segment id="16" parent="17" relname="elaboration-attribute">将 重新 开放 的</segment>
+		<segment id="17" parent="149" relname="span">设施 的 详细 信息 。</segment>
+		<segment id="18" parent="153" relname="same-unit">此外 ，</segment>
+		<segment id="19" parent="20" relname="elaboration-attribute">康文署 重新 开放 的</segment>
+		<segment id="20" parent="151" relname="span">收费 场地</segment>
+		<segment id="21" parent="151" relname="elaboration-attribute">（ 例如 运动场 、 体育馆 、 壁球场 、 网球场 、 草地 滚球场 及 屯门 康乐 体育 中心 ）</segment>
+		<segment id="22" parent="154" relname="span">的 更衣室 及 淋浴 设施 ， 将 于 明日</segment>
+		<segment id="23" parent="22" relname="restatement-partial">（ 5月 11日 ）</segment>
+		<segment id="24" parent="153" relname="same-unit">重新 开放 。</segment>
+		<segment id="25" parent="164" relname="span">将 采取 特殊 措施 ，</segment>
+		<segment id="26" parent="156" relname="joint-list">例如 打开 备用 淋浴间 或 淋浴 喷头 ，</segment>
+		<segment id="27" parent="156" relname="joint-list">安排 体温 检查</segment>
+		<segment id="28" parent="156" relname="joint-list">以及 加强 对 淋浴间 和 储物柜 的 定期 清洁 和 消毒 。</segment>
+		<segment id="29" parent="157" relname="span">市民 可 于 5月 20日</segment>
+		<segment id="30" parent="29" relname="restatement-partial">（ 星期三 ）</segment>
+		<segment id="31" parent="158" relname="same-unit">开始 ，</segment>
+		<segment id="32" parent="160" relname="same-unit">透过 康体通 互联网 订票 服务 ， 各 区 康乐 事务 办事处 康体通 预约室 ，</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">重新 开放 设施 的</segment>
+		<segment id="34" parent="159" relname="span">康体通 预约室 及 自助 服务亭 ，</segment>
+		<segment id="35" parent="163" relname="span">预订</segment>
+		<segment id="36" parent="37" relname="elaboration-attribute">已 重新 开放 的</segment>
+		<segment id="37" parent="161" relname="span">室内 休闲 设施 ） 。</segment>
+		<segment id="38" parent="166" relname="same-unit">水上 运动 中心 的 休闲 链接 预订处 将 在</segment>
+		<segment id="39" parent="40" relname="elaboration-attribute">休闲 设施 重新 开放 的</segment>
+		<segment id="40" parent="165" relname="span">同 一 天 恢复 预订 服务 。</segment>
+		<segment id="41" parent="168" relname="same-unit">对于</segment>
+		<segment id="42" parent="43" relname="elaboration-attribute">与 较早 关闭 场所 有关 的</segment>
+		<segment id="43" parent="167" relname="span">退款 安排</segment>
+		<segment id="44" parent="167" relname="contingency-condition">（ 没有 补场 安排 ） ，</segment>
+		<segment id="45" parent="168" relname="same-unit">租房者 可以 向</segment>
+		<segment id="46" parent="47" relname="elaboration-attribute">重新 开放 的</segment>
+		<segment id="47" parent="171" relname="span">康文署 休闲 场所 或 地区 休闲 服务 办公室 的 休闲 链接 预订处 提交 一 份 完整 的 退款 申请表 以及 原始 预订 许可 。</segment>
+		<segment id="48" parent="168" relname="elaboration-additional">可以 从 以下 网站 下载 申请表 。</segment>
+		<segment id="49" parent="182" relname="attribution-positive">康乐 文化署 呼吁</segment>
+		<segment id="50" parent="179" relname="span">场地 使用者 遵守 《 预防 及 控制 疾病</segment>
+		<segment id="51" parent="50" relname="elaboration-attribute">（ 禁止 群组 聚集 ）</segment>
+		<segment id="52" parent="181" relname="span">规例 》</segment>
+		<segment id="53" parent="52" relname="elaboration-attribute">（ 第599G 章 ） ，</segment>
+		<segment id="54" parent="178" relname="same-unit">禁止 团体 聚会 人数 超过</segment>
+		<segment id="55" parent="56" relname="elaboration-attribute">法律 规定 的</segment>
+		<segment id="56" parent="177" relname="span">人数 。</segment>
+		<segment id="57" parent="184" relname="span">康文署 会 在 休憩 设施 采取 特别 措施 ，</segment>
+		<segment id="58" parent="57" relname="purpose-goal">以 重新 开放 。</segment>
+		<segment id="59" parent="187" relname="same-unit">措施 包括 加强 清洁 工作 ， 安排 所有</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">进入 室内 场所 的</segment>
+		<segment id="61" parent="186" relname="span">人 的 体温 检查 ， 限制 场所 使用者 的 数量 以及 打开 备用 桌子 或 有 特定 距离 的 桌子 。</segment>
+		<segment id="62" parent="189" relname="span">康乐 文化署 亦 会 于 6月 1日</segment>
+		<segment id="63" parent="62" relname="restatement-partial">（ 星期一 ）</segment>
+		<segment id="64" parent="192" relname="same-unit">在 户外 及 室内 场地 ， 以及</segment>
+		<segment id="65" parent="66" relname="elaboration-attribute">在 水上 运动 中心 举办 的</segment>
+		<segment id="66" parent="191" relname="span">康体 活动 ， 恢复 一些 娱乐 节目 。</segment>
+		<segment id="67" parent="193" relname="joint-list">这些 包括 康乐 及 体育 活动 训练班 ，</segment>
+		<segment id="68" parent="193" relname="joint-list">包括 网球 、 高尔夫球 、 太极 、 草地 滚球 、 羽毛球 、 壁球 、 乒乓球 、 健体舞 、 器械 健体 、 社交舞 、 独木舟 、 滑浪 风帆 等 。</segment>
+		<segment id="69" parent="196" relname="purpose-goal">为 减少 社交 接触 和 感染 风险 ，</segment>
+		<segment id="70" parent="195" relname="span">参加 人数 每 个 程序 最多 可 容纳 八 人</segment>
+		<segment id="71" parent="70" relname="elaboration-attribute">（ 包括 导师 ）</segment>
+		<segment id="72" parent="196" relname="same-unit">或 法律 规定 的 人数 。</segment>
+		<segment id="73" parent="198" relname="span">公众 人士 可 自 2020年 5月 25日</segment>
+		<segment id="74" parent="73" relname="restatement-partial">（ 星期一 ）</segment>
+		<segment id="75" parent="199" relname="same-unit">起 ，</segment>
+		<segment id="76" parent="200" relname="mode-means">通过 互联网 ，</segment>
+		<segment id="77" parent="78" relname="elaboration-attribute">在 康文署 的 区 康乐 事务 办事处 预订 柜台 ， 设有 康乐通 服务 及 自助 服务亭 的</segment>
+		<segment id="78" parent="200" relname="span">康乐 场所 ， 以</segment>
+		<segment id="79" parent="80" relname="elaboration-attribute">先到 先得 的</segment>
+		<segment id="80" parent="202" relname="span">方式 报名 。</segment>
+		<segment id="81" parent="199" relname="elaboration-additional">有关 课程 及 报名 的 详情 ， 稍后 会 上载 至 康文署 网页 。</segment>
+		<segment id="82" parent="249" relname="joint-list">公众 也 可以 向 地区 休闲 服务 办公室 查询 。</segment>
+		<segment id="83" parent="251" relname="organization-preparation">处理 及 接受 部门 的 非 收费 土地 康乐 及 体育 设施 的 个人 及 集体 预订 申请 ，</segment>
+		<segment id="84" parent="251" relname="span">针对 收费 土地 康乐 及 体育 设施 的 集体 预订 申请 ， 婚礼 场地 ， 圆形 剧场 及 非 收费 休闲 场地 的 使用 申请 非 指定 用途 / 销售 活动 将 暂停 ，</segment>
+		<segment id="85" parent="84" relname="adversative-concession">直 到 另行 通知 。</segment>
+		<segment id="86" parent="87" relname="context-circumstance">公共 游泳池 重新 开放 后 ，</segment>
+		<segment id="87" parent="206" relname="span">将 宣布 对 游泳池 设施 进行 整体 预订 的 安排 。</segment>
+		<segment id="88" parent="207" relname="joint-list">关于 文化 场所 ， 另外 12 个 地区 图书馆 的 成人 和 儿童 图书馆 将 于 5月 21日 部分 开放 ，</segment>
+		<segment id="89" parent="207" relname="joint-list">并 实行 特殊 的 开放 时间 。</segment>
+		<segment id="90" parent="208" relname="joint-list">它们 包括 香港仔 公共 图书馆 ， 柴湾 公共 图书馆 ， 骆克道 公共 图书馆 ， 荔枝角 公共 图书馆 ， 蓝田 公共 图书馆 ， 牛池湾 公共 图书馆 ， 油麻地 公共 图书馆 ， 粉岭 公共 图书馆 ， 大埔 公共 图书馆 ， 调乌坑岭 公共 图书馆 ， 青衣 公共 图书馆 和 东涌 公共 图书馆 。</segment>
+		<segment id="91" parent="208" relname="joint-list">这 12 个 地区 图书馆 的 开放 时间 为 周一 至 周六 的 下午 1点 至 晚上 8点 ， 周日 和 公众 假期 的 上午 9点 至 下午 5点 。</segment>
+		<segment id="92" parent="210" relname="purpose-goal">为了 避免 人们 聚集 ，</segment>
+		<segment id="93" parent="227" relname="same-unit">图书馆 将</segment>
+		<segment id="94" parent="95" relname="mode-manner">按 时段</segment>
+		<segment id="95" parent="226" relname="span">安排 入场 ，</segment>
+		<segment id="96" parent="227" relname="elaboration-additional">每 个 时段 持续 约 一 小时 。</segment>
+		<segment id="97" parent="213" relname="same-unit">入学单 将 以</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">先到 先得 的</segment>
+		<segment id="99" parent="212" relname="span">方式 分配 ，</segment>
+		<segment id="100" parent="213" relname="purpose-goal">以 参加 每届 会议 。</segment>
+		<segment id="101" parent="216" relname="same-unit">12 岁 以下 的 儿童</segment>
+		<segment id="102" parent="103" relname="contingency-condition">仅 在 成人 陪同 下</segment>
+		<segment id="103" parent="215" relname="span">才 能 进入 。</segment>
+		<segment id="104" parent="217" relname="span">将 提供 有限 的 服务 ，</segment>
+		<segment id="105" parent="104" relname="elaboration-additional">包括 借出 和 退还 图书馆 资料 以及 领取 保留 的 图书馆 资料 。</segment>
+		<segment id="106" parent="218" relname="joint-list">一些 计算机 设施 将 恢复 服务</segment>
+		<segment id="107" parent="218" relname="joint-list">并 开放 供 电话 预订 。</segment>
+		<segment id="108" parent="219" relname="joint-list">报纸 和 期刊区 将 保持 关闭 。</segment>
+		<segment id="109" parent="221" relname="same-unit">上述 12 个 公共 图书馆 和 5 个</segment>
+		<segment id="110" parent="111" relname="elaboration-attribute">已 重新 开放 的</segment>
+		<segment id="111" parent="220" relname="span">主要 图书馆</segment>
+		<segment id="112" parent="221" relname="elaboration-attribute">（ 包括 九龙 ， 坪山 天水围 ， 沙田 ， 荃湾 ， 屯门 公共 图书馆 ）</segment>
+		<segment id="113" parent="223" relname="same-unit">的 学生 学习室 将 在 同 一 天 恢复 服务 。</segment>
+		<segment id="114" parent="225" relname="same-unit">学生 自习室 将</segment>
+		<segment id="115" parent="116" relname="mode-manner">与 上述 图书馆 一样</segment>
+		<segment id="116" parent="224" relname="span">实行 特殊 的 开放 时间 。</segment>
+		<segment id="117" parent="228" relname="same-unit">入场 是</segment>
+		<segment id="118" parent="119" relname="mode-manner">按 会话</segment>
+		<segment id="119" parent="229" relname="span">安排 的 ，</segment>
+		<segment id="120" parent="230" relname="joint-list">每 次 会话 持续 约 三 个 小时 ，</segment>
+		<segment id="121" parent="230" relname="joint-list">并且 用户 数量 有限 。</segment>
+		<segment id="122" parent="232" relname="span">港岛东 体育馆 休憩处 ， 香港 文化 中心 及 大围 荃南路 的 自助 图书馆站 ， 以及 香港 公共 图书馆 的 所有 掉书 服务 ，</segment>
+		<segment id="123" parent="122" relname="elaboration-attribute">包括 港铁 中环 ， 九龙塘 及 南区 青站</segment>
+		<segment id="124" parent="233" relname="same-unit">已 恢复 服务 。</segment>
+		<segment id="125" parent="258" relname="joint-list">公共 图书馆 将 继续 提供 在线 服务 ， 例如 电子书 和 电子 数据库 。</segment>
+		<segment id="126" parent="258" relname="elaboration-additional">有关 详细 信息 ， 请 访问 康文署 网站 。</segment>
+		<segment id="127" parent="261" relname="span">此外 ， 音乐 事务处 成人 外展 音乐 课程 将 于 6月 1日 恢复 ，</segment>
+		<segment id="128" parent="234" relname="elaboration-attribute">参加 课程 的</segment>
+		<segment id="129" parent="234" relname="span">人数 不得 超过 八 名</segment>
+		<segment id="130" parent="129" relname="elaboration-attribute">（ 包括 导师 ）</segment>
+		<segment id="131" parent="237" relname="same-unit">或 法律 规定 的 人数 。</segment>
+		<segment id="132" parent="133" relname="elaboration-attribute">参观 公共 图书馆 和 音乐 事务处 音乐 中心 的</segment>
+		<segment id="133" parent="238" relname="span">游客 将 需要 使用 酒精 搓手液 ，</segment>
+		<segment id="134" parent="239" relname="joint-list">入场 前 要 进行 体温 检测 ，</segment>
+		<segment id="135" parent="239" relname="joint-list">还 建议 戴好 口罩 。</segment>
+		<segment id="136" parent="240" relname="span">将 采取 加强 清洁 措施 ，</segment>
+		<segment id="137" parent="136" relname="elaboration-additional">包括 在 会议 之间 进行 清洁 。</segment>
+		<segment id="138" parent="241" relname="joint-list">康文署 会 继续 密切 监察 情况 ，</segment>
+		<segment id="139" parent="241" relname="joint-list">并 及时 检讨 有关 安排 。</segment>
+		<group id="140" type="span" parent="142" relname="same-unit"/>
+		<group id="141" type="span" parent="142" relname="same-unit"/>
+		<group id="142" type="multinuc" parent="143" relname="attribution-positive"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="144" type="span" parent="264" relname="span"/>
+		<group id="145" type="span" parent="146" relname="same-unit"/>
+		<group id="146" type="multinuc" parent="147" relname="elaboration-attribute"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="242" relname="joint-list"/>
+		<group id="149" type="span" parent="150" relname="same-unit"/>
+		<group id="150" type="multinuc" parent="242" relname="joint-list"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="153" relname="same-unit"/>
+		<group id="153" type="multinuc" parent="155" relname="joint-list"/>
+		<group id="154" type="span" parent="153" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="242" relname="joint-list"/>
+		<group id="156" type="multinuc" parent="25" relname="elaboration-additional"/>
+		<group id="157" type="span" parent="158" relname="same-unit"/>
+		<group id="158" type="multinuc" parent="243" relname="joint-list"/>
+		<group id="159" type="span" parent="160" relname="same-unit"/>
+		<group id="160" type="multinuc" parent="35" relname="mode-means"/>
+		<group id="161" type="span" parent="158" relname="same-unit"/>
+		<group id="163" type="span" parent="158" relname="same-unit"/>
+		<group id="164" type="span" parent="155" relname="joint-list"/>
+		<group id="165" type="span" parent="166" relname="same-unit"/>
+		<group id="166" type="multinuc" parent="243" relname="joint-list"/>
+		<group id="167" type="span" parent="170" relname="span"/>
+		<group id="168" type="multinuc" parent="172" relname="span"/>
+		<group id="170" type="span" parent="168" relname="same-unit"/>
+		<group id="171" type="span" parent="168" relname="same-unit"/>
+		<group id="172" type="span" parent="244" relname="joint-list"/>
+		<group id="177" type="span" parent="178" relname="same-unit"/>
+		<group id="178" type="multinuc" parent="182" relname="joint-list"/>
+		<group id="179" type="span" parent="180" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="182" relname="joint-list"/>
+		<group id="181" type="span" parent="180" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="246" relname="joint-list"/>
+		<group id="184" type="span" parent="188" relname="span"/>
+		<group id="186" type="span" parent="187" relname="same-unit"/>
+		<group id="187" type="multinuc" parent="184" relname="elaboration-additional"/>
+		<group id="188" type="span" parent="246" relname="joint-list"/>
+		<group id="189" type="span" parent="192" relname="same-unit"/>
+		<group id="191" type="span" parent="192" relname="same-unit"/>
+		<group id="192" type="multinuc" parent="194" relname="span"/>
+		<group id="193" type="multinuc" parent="192" relname="elaboration-additional"/>
+		<group id="194" type="span" parent="247" relname="joint-other"/>
+		<group id="195" type="span" parent="196" relname="same-unit"/>
+		<group id="196" type="multinuc" parent="197" relname="span"/>
+		<group id="197" type="span" parent="247" relname="joint-other"/>
+		<group id="198" type="span" parent="199" relname="same-unit"/>
+		<group id="199" type="multinuc" parent="203" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="199" relname="same-unit"/>
+		<group id="202" type="span" parent="199" relname="same-unit"/>
+		<group id="203" type="span" parent="249" relname="joint-list"/>
+		<group id="206" type="span" parent="253" relname="joint-other"/>
+		<group id="207" type="multinuc" parent="209" relname="span"/>
+		<group id="208" type="multinuc" parent="207" relname="explanation-evidence"/>
+		<group id="209" type="span" parent="262" relname="span"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="256" relname="joint-other"/>
+		<group id="212" type="span" parent="213" relname="same-unit"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="255" relname="joint-list"/>
+		<group id="215" type="span" parent="216" relname="same-unit"/>
+		<group id="216" type="multinuc" parent="255" relname="joint-list"/>
+		<group id="217" type="span" parent="219" relname="joint-list"/>
+		<group id="218" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="219" type="multinuc" parent="256" relname="joint-other"/>
+		<group id="220" type="span" parent="221" relname="same-unit"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="223" type="multinuc" parent="257" relname="joint-other"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="257" relname="joint-other"/>
+		<group id="226" type="span" parent="227" relname="same-unit"/>
+		<group id="227" type="multinuc" parent="210" relname="span"/>
+		<group id="228" type="multinuc" parent="231" relname="span"/>
+		<group id="229" type="span" parent="228" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="228" relname="elaboration-additional"/>
+		<group id="231" type="span" parent="257" relname="joint-other"/>
+		<group id="232" type="span" parent="233" relname="same-unit"/>
+		<group id="233" type="multinuc" parent="258" relname="joint-list"/>
+		<group id="234" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="237" relname="same-unit"/>
+		<group id="237" type="multinuc" parent="260" relname="joint-other"/>
+		<group id="238" type="span" parent="239" relname="joint-list"/>
+		<group id="239" type="multinuc" parent="260" relname="joint-other"/>
+		<group id="240" type="span" parent="260" relname="joint-other"/>
+		<group id="241" type="multinuc" parent="264" relname="elaboration-additional"/>
+		<group id="242" type="multinuc" parent="245" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="244" relname="joint-list"/>
+		<group id="244" type="multinuc" parent="245" relname="joint-other"/>
+		<group id="245" type="multinuc" parent="248" relname="joint-sequence"/>
+		<group id="246" type="multinuc" parent="245" relname="joint-other"/>
+		<group id="247" type="multinuc" parent="248" relname="joint-sequence"/>
+		<group id="248" type="multinuc" parent="263" relname="span"/>
+		<group id="249" type="multinuc" parent="247" relname="joint-other"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="joint-other"/>
+		<group id="253" type="multinuc" parent="248" relname="elaboration-additional"/>
+		<group id="255" type="multinuc" parent="256" relname="joint-other"/>
+		<group id="256" type="multinuc" parent="209" relname="elaboration-additional"/>
+		<group id="257" type="multinuc" parent="256" relname="joint-other"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" parent="256" relname="joint-other"/>
+		<group id="260" type="multinuc" parent="127" relname="elaboration-additional"/>
+		<group id="261" type="span" parent="253" relname="joint-other"/>
+		<group id="262" type="span" parent="253" relname="joint-other"/>
+		<group id="263" type="span" parent="144" relname="elaboration-additional"/>
+		<group id="264" type="span" parent="267" relname="span"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" />
+		<group id="267" type="span" parent="265" relname="span"/>
+	</body>
+</rst>

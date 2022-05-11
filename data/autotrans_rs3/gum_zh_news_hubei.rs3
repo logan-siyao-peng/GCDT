@@ -1,0 +1,204 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="164" relname="organization-heading">湖北 多 地 为 疫情 进行 交通 管制 // Many places in Hubei carry out traffic control for the epidemic</segment>
+		<segment id="2" parent="163" relname="context-circumstance">【 2020年 1月 26日 讯 】 // 【 News from January 26, 2020 】</segment>
+		<segment id="3" parent="4" relname="context-circumstance">从 1月 23日 开始 至今 ， // From January 23rd till now,</segment>
+		<segment id="4" parent="100" relname="span">湖北 省内 已经 有 17 个 地区 采取 了 交通 限行 措施 。 // 17 districts in Hubei province have adopted traffic restriction measures .</segment>
+		<segment id="5" parent="101" relname="joint-list">1月 23日 10时 ， 武汉市 关闭 公交 、 地铁 、 轮渡 、 长途 客车 以及 天河 机场 与 火车站 离汉 通道 ， // At 10:00 on January 23, Wuhan closed buses, subways, ferries, long-distance buses, and the passage from Tianhe Airport and Railway Station to Han.</segment>
+		<segment id="6" parent="7" relname="attribution-positive">并 劝告 市民 // and advise the public</segment>
+		<segment id="7" parent="102" relname="span">不 要 离开 武汉 。 // Don't leave Wuhan.</segment>
+		<segment id="8" parent="104" relname="same-unit">同时 ， // Simultaneously ,</segment>
+		<segment id="9" parent="10" relname="elaboration-attribute">进出 武汉 周边 的 // In and out of Wuhan</segment>
+		<segment id="10" parent="103" relname="span">17 条 高速 上 的 49 个 收费站 相继 采取 交通 管制 措施 ， // 49 toll booths on 17 expressways have successively adopted traffic control measures.</segment>
+		<segment id="11" parent="105" relname="joint-list">仅 保留 疫情 防控 物资 的 “ 绿色 通道 ” 。 // Only keep the "green channel" for epidemic prevention and control materials.</segment>
+		<segment id="12" parent="108" relname="same-unit">目前 ， // Currently ,</segment>
+		<segment id="13" parent="14" relname="context-background">除 汉蔡 高速 索河 、 武汉 机场 高速 黄花涝 、 武汉 四环线 中法城 3 个 收费站 出入口 全部 封闭 外 ， // Except for Suohe of Hancai Expressway , Huanghualuo of Wuhan Airport Expressway , and the entrances and exits of 3 toll stations on Wuhan Fourth Ring Road Sino-French City are all closed .</segment>
+		<segment id="14" parent="106" relname="span">其他 收费站 出口 可以 正常 进出 武汉市 ， // Exits of other toll stations can enter and exit Wuhan normally.</segment>
+		<segment id="15" parent="110" relname="same-unit">但 设有 // but with</segment>
+		<segment id="16" parent="17" relname="elaboration-attribute">对 入汉 人员 进行 体温 检测 的 // Body temperature check for people entering China</segment>
+		<segment id="17" parent="109" relname="span">临时 检查点 。 // Temporary checkpoint.</segment>
+		<segment id="18" parent="113" relname="joint-sequence">1月 23日 11时 20分 ， 鄂州市 封闭 鄂州站 离开 鄂州 通道 。 // At 11:20 on January 23, Ezhou closed the Ezhou station and left the Ezhou channel.</segment>
+		<segment id="19" parent="114" relname="joint-list">16时 ， 停运 市区 公交 、 农村 客运 、 渡口 渡船 以及 各 长途 车站 离开 鄂州 通道 ， // At 16:00, urban bus, rural passenger, ferry and long-distance stations will be suspended to leave the Ezhou channel.</segment>
+		<segment id="20" parent="114" relname="joint-list">并 在 武汉 至 鄂州 各 通道 采取 严格 筛查 检测 措施 。 // Strict screening and testing measures have been adopted in each channel from Wuhan to Ezhou .</segment>
+		<segment id="21" parent="115" relname="span">1月 25日 14时 30分 ， 封闭 全市 所有 高速 公路 出入口 // At 14:30 on January 25, all highway entrances and exits in the city will be closed</segment>
+		<segment id="22" parent="21" relname="elaboration-attribute">（ 沪渝 高速 汀祖 、 鄂州 、 蒲团 、 路口 、 庙岭 出入口 ； 汉鄂 高速 鄂州东 、 鄂州中 、 鄂州西 、 葛店 出入口 ； 黄鄂 高速 华蒲 、 华容 、 三江港 出入口 ） 、 // (Shanghai-Chongqing Expressway Tingzu, Ezhou, Futon, intersection, Miaoling entrances and exits; Han-Ezhou Expressway Ezhou East, Ezhou Middle, Ezhou West, Gedian entrances and exits; Huang-Ezhou Expressway Huapu, Huarong, Sanjiang Port entrances and exits),</segment>
+		<segment id="23" parent="117" relname="span">市域 普通 公路 // City area Ordinary road</segment>
+		<segment id="24" parent="23" relname="elaboration-attribute">（ 106 国道 迎宾门 、 316 国道 新桥 、 112 省道 杨叶横堤 、 314 省道 牛石村 与 沼山村 、 高新 大道 短咀桥 、 凤凰 大道 梧桐湖 、 铁十线 六十村 、 牛涂线 官田村 ） 。 // (Yingbin Gate of National Highway 106, Xinqiao of National Highway 316, Yangye Hengdi of Provincial Highway 112, Niushi Village and Zhaoshan Village of Provincial Highway 314, Short Tsui Bridge of Gaoxin Avenue, Wutong Lake of Phoenix Avenue, Sixty Village of Tie 10th Line, Niu Tu Line Officer Tamura).</segment>
+		<segment id="25" parent="118" relname="joint-list">1月 23日 17时 ， 仙桃市 停运 市内 所有 公交 、 渡轮 、 农村 客运车 ， // At 17:00 on January 23, Xiantao City suspended all buses, ferries, and rural passenger vehicles in the city.</segment>
+		<segment id="26" parent="118" relname="joint-list">并 在 高速 公路 出口 、 火车站 设置 体温 监测 排查点 。 // And set up body temperature monitoring checkpoints at highway exits and railway stations .</segment>
+		<segment id="27" parent="120" relname="joint-list">1月 25日 0时 ， 关闭 仙桃 境内 所有 高速 公路 ， 仙桃 西站 离开 仙桃 通道 ， // At 0:00 on January 25, all highways in Xiantao will be closed, and Xiantao West Station will leave Xiantao Passage.</segment>
+		<segment id="28" parent="120" relname="joint-list">进入 仙桃 人员 必须 进行 体温 检测 ， // Those entering Xiantao must have their temperature checked.</segment>
+		<segment id="29" parent="120" relname="joint-list">并 关闭 所有 国省 干线 进出 通道 。 // And close all national and provincial trunk routes in and out .</segment>
+		<segment id="30" parent="121" relname="joint-sequence">1月 23日 22时 ， 潜江市 停运 市际 以上 长途 客运 、 农村 客运 、 旅游 客运 、 城市 公交 、 扫墓 公交 专线 、 王拐 渡口 。 // At 22:00 on January 23, Qianjiang City suspended long-distance passenger transport above intercity, rural passenger transport, tourist passenger transport, urban bus, grave-sweeping bus line, and Wangguai Ferry.</segment>
+		<segment id="31" parent="121" relname="joint-sequence">24日 22时 ， 关闭 潜江站 离开 潜江 通道 。 // At 22:00 on the 24th, close the Qianjiang Station and leave the Qianjiang Channel.</segment>
+		<segment id="32" parent="121" relname="joint-sequence">26日 0时 ， 关闭 全市 高速 公路 出口 通道 ， // At 0:00 on the 26th, the city's expressway exit passages will be closed.</segment>
+		<segment id="33" parent="123" relname="same-unit">封闭 全市 国 、 省 干线 进出口 通道 及 // Close the whole city 's national and provincial trunk line import and export channels and</segment>
+		<segment id="34" parent="35" relname="elaboration-attribute">周边 县市 相连 的 // The surrounding counties and cities are connected</segment>
+		<segment id="35" parent="122" relname="span">村级 公路 ， // village road,</segment>
+		<segment id="36" parent="121" relname="joint-sequence">暂停 全市 所有 渡口 运营 。 // Suspend all ferry operations across the city.</segment>
+		<segment id="37" parent="124" relname="joint-list">1月 24日 0时 ， 黄冈市 暂停 运营 市区 公交 、 长途 客运 ， // At 0:00 on January 24, Huanggang City suspended the operation of urban bus and long-distance passenger transport.</segment>
+		<segment id="38" parent="124" relname="joint-list">暂时 关闭 火车站 、 城铁站 离开 黄冈 市区 通道 。 // Temporarily close the railway station and urban railway station and leave the Huanggang urban passageway .</segment>
+		<segment id="39" parent="127" relname="same-unit">1月 25日 ， 封闭 // January 25, closed</segment>
+		<segment id="40" parent="41" relname="elaboration-attribute">除 绿色 通道 外 的 // other than the green channel</segment>
+		<segment id="41" parent="126" relname="span">所有 高速 公路 以及 各 县级 单位 出城 路口 以及 全部 国道 、 省道 、 县道 、 客运 渡口 。 // All expressways and all county-level units exit the city junctions and all national roads , provincial roads , county roads and passenger ferries.</segment>
+		<segment id="42" parent="128" relname="joint-sequence">1月 24日 0时 ， 咸宁市 暂停 营运 城际 铁路 及 赤壁市 公交 、 农村 客运 、 省县 级 客运 。 // At 0:00 on January 24, Xianning City suspended the operation of intercity railways and Chibi city buses, rural passenger transport, and provincial and county-level passenger transport.</segment>
+		<segment id="43" parent="128" relname="joint-sequence">10时 ， 关闭 市区 公交 、 班线 客运 ， // At 10:00, the urban bus and passenger lines will be closed.</segment>
+		<segment id="44" parent="128" relname="joint-sequence">20时 ， 封闭 咸宁站 、 咸宁 北站 、 赤壁站 、 赤壁 北站 进出 咸宁 通道 。 // At 20:00, the Xianning Station, Xianning North Station, Chibi Station, and Chibi North Station will be closed to enter and exit Xianning.</segment>
+		<segment id="45" parent="129" relname="joint-sequence">1月 24日 0时 ， 恩施州 暂停 城区 公交 。 // At 0:00 on January 24, Enshi Prefecture suspended urban public transportation.</segment>
+		<segment id="46" parent="133" relname="joint-list">26日 0时 ， 对 全州 高速 公路 和 普通 公路 实施 交通 管制 ， // At 0:00 on the 26th, traffic control was implemented on highways and ordinary roads in the whole state.</segment>
+		<segment id="47" parent="132" relname="same-unit">关闭 全州 // closed statewide</segment>
+		<segment id="48" parent="131" relname="context-background">除 绿色 通道 外 // Except for the green channel</segment>
+		<segment id="49" parent="131" relname="span">所有 高速 公路 出入口 // All highway entrances and exits</segment>
+		<segment id="50" parent="49" relname="elaboration-attribute">（ 含 建恩 、 宣鹤 ） 、 // (including Jian'en and Xuan He),</segment>
+		<segment id="51" parent="132" relname="same-unit">国省 道 州际 出入口 。 // Interstate entrances and exits of national and provincial highways.</segment>
+		<segment id="52" parent="134" relname="span">1月 24日 0时 ， 荆门市 停运 全市 班线 客运 // At 0:00 on January 24, Jingmen City suspended the city's passenger trains</segment>
+		<segment id="53" parent="52" relname="elaboration-attribute">（ 包括 定制 班线 ） 、 // (including customized class lines),</segment>
+		<segment id="54" parent="135" relname="same-unit">包车 客运 、 农村 客运 。 // Chartered passenger transport, rural passenger transport.</segment>
+		<segment id="55" parent="140" relname="joint-list">1月 26日 8时 ， 在 县 与 县 、 县 与 镇 、 镇 与 镇 、 镇 与 村 、 村 与 村 之间 设卡 检查 ， // At 8:00 on January 26, card inspections will be set up between counties and counties, counties and towns, towns and towns, towns and villages, and villages and villages.</segment>
+		<segment id="56" parent="140" relname="joint-list">另 开辟 绿色 通道 。 // Another green channel was opened.</segment>
+		<segment id="57" parent="139" relname="joint-list">并 关闭 全市 高速 公路 出入口 ， // and closed the city's highway entrances and exits,</segment>
+		<segment id="58" parent="139" relname="joint-list">在 荆门北 、 钟祥 、 京山南 出口 设置 绿色 应急 通道 。 // Set up green emergency passages at the exits of Jingmen North , Zhongxiang and Jingshan South .</segment>
+		<segment id="59" parent="138" relname="adversative-contrast">在 347 国道 传化 公路港 、 348 国道 麻城 、 207 国道 团林 、 348 国道 深圳 大道 西 、 207 国道 安栈口 设置 绿色 应急 通道 ， // Set up green emergency channels at 347 National Road Chuanhua Highway Port , 348 National Road Macheng , 207 National Road Tuanlin , 348 National Road West Shenzhen Avenue , and 207 National Road Anzhankou .</segment>
+		<segment id="60" parent="138" relname="adversative-contrast">其余 道路 全部 关闭 。 // All other roads are closed.</segment>
+		<segment id="61" parent="141" relname="joint-list">1月 24日 10时 ， 黄石市 关闭 全市 道路 客运站 、 上窑 轮渡 码头 ， // At 10:00 on January 24, Huangshi City closed the city's road passenger station and Shangyao ferry terminal.</segment>
+		<segment id="62" parent="141" relname="joint-list">关闭 201 省道 黄石 长江 公路 大桥 通道 ， // 201 Provincial Highway 201 Huangshi Yangtze River Highway Bridge access was closed.</segment>
+		<segment id="63" parent="141" relname="joint-list">停开 全市 公交 、 农村 客运 、 道路 客运 班线 。 // Shut down the city's bus, rural passenger, road passenger lines.</segment>
+		<segment id="64" parent="143" relname="span">1月 25日 14时 ， 封闭 沪渝 高速 黄石 ； 大广 高速 黄石西 、 大冶 金湖 、 阳新 龙港 ； 杭瑞 高速 阳新 枫林 、 木港 、 排市 ； 黄咸 高速 大冶 陈贵 、 灵乡 、 金牛 共 10 个 出口 // At 14:00 on January 25, Huangshi of Shanghai-Chongqing Expressway was closed; Huangshi West of Daguang Expressway, Dayehu Lake, Yangxinlonggang of Daguang Expressway; Yangxinfenglin, Mugang and Paishi of Hangrui Expressway; Daye Chengui and Lingxiang of Huangxian Expressway , Taurus a total of 10 exports</segment>
+		<segment id="65" parent="64" relname="adversative-concession">（ 货运 通道 与 绿色 通道 除外 ） ， // (Except Freight Lane and Green Lane),</segment>
+		<segment id="66" parent="144" relname="joint-list">对 活禽 运输 车辆 实施 有效 管控 。 // Implement effective control over live poultry transport vehicles .</segment>
+		<segment id="67" parent="144" relname="joint-list">黄石 境内 仅 保留 大广 高速 阳新 三溪 、 殷祖 出口 正常 通行 。 // In Huangshi , only the Yangxin Sanxi and Yinzu exits of Daguang Expressway are reserved for normal traffic .</segment>
+		<segment id="68" parent="145" relname="joint-sequence">1月 24日 12时 ， 荆州市 关闭 荆州站 离开 荆州 通道 。 // At 12:00 on January 24, Jingzhou City closed Jingzhou Station and left the Jingzhou Channel.</segment>
+		<segment id="69" parent="146" relname="joint-list">17时 ， 关闭 荆州 市区 所有 公交车 、 道路 客运 班线 、 农村 客运 、 渡口 渡船 ， // At 17:00, all buses, road passenger lines, rural passenger transport, and ferries will be closed in the urban area of ​​Jingzhou.</segment>
+		<segment id="70" parent="146" relname="joint-list">并 在 火车站 、 长途 汽车站 、 客运 码头 、 高速 公路口 等 地 // And at the railway station , long - distance bus station , passenger terminal , highway junction and other places</segment>
+		<segment id="71" parent="72" relname="mode-manner">按 要求 // As required</segment>
+		<segment id="72" parent="147" relname="span">设置 体温 监测点 。 // Set up body temperature monitoring points.</segment>
+		<segment id="73" parent="148" relname="joint-list">1月 25日 14时 ， 对 中心 城区 高速 公路 实施 交通 管制 ， // At 14:00 on January 25, traffic control will be implemented on the expressway in the central urban area.</segment>
+		<segment id="74" parent="149" relname="span">关闭 沪渝 高速 沙市 // Close Shanghai-Chongqing Expressway Shashi</segment>
+		<segment id="75" parent="74" relname="restatement-partial">（ 锣场 ） // ( Gongchang )</segment>
+		<segment id="76" parent="151" relname="span">互通 // Intercommunication</segment>
+		<segment id="77" parent="76" relname="elaboration-attribute">（ 含 丫角 ） 、 // (including horns),</segment>
+		<segment id="78" parent="150" relname="same-unit">小北门 互通 、 车马阵 互通 ； 沙公 高速 岑河 互通 ； 二广 高速 荆州中 互通 、 荆州南 、 荆州 长江 大桥 南北 入口 ， // Xiaobeimen intercommunication, vehicles and horses array intercommunication; Shagong Expressway and Cenhe intercommunication; Erguang Expressway, Jingzhou Middle Interconnection, Jingzhou South, Jingzhou Yangtze River Bridge North-South Entrance,</segment>
+		<segment id="79" parent="152" relname="adversative-contrast">但 对 涉及 疫情 防控 应急 救灾 车辆 、 冷链 运输 车辆 、 重型 载货 车辆 、 绿色 通道 车辆 优先 放行 。 // However, priority is given to vehicles involved in epidemic prevention and control, emergency relief vehicles, cold chain transportation vehicles, heavy-duty cargo vehicles, and green channel vehicles.</segment>
+		<segment id="80" parent="153" relname="span">1月 24日 13时 ， 天门市 关闭 公交 、 渡口 、 码头 、 农村 客运 、 长途 客运 、 公路 进出口 通道 // At 13:00 on January 24, Tianmen City closed buses, ferries, docks, rural passenger transport, long-distance passenger transport, and highway import and export channels</segment>
+		<segment id="81" parent="80" relname="elaboration-attribute">（ 含 国道 、 省道 、 县道 、 乡级 道路 、 村级 道路 、 组级 道路 ） ， // (including national roads, provincial roads, county roads, township-level roads, village-level roads, and group-level roads),</segment>
+		<segment id="82" parent="154" relname="joint-sequence">15时 关闭 全部 高速 公路 离开 天门 通道 ， // At 15:00, close all highways and leave the Tianmen passage.</segment>
+		<segment id="83" parent="154" relname="joint-sequence">23时 关闭 高铁站 、 火车站 出入口 。 // The entrances and exits of high-speed rail stations and railway stations will be closed at 23:00.</segment>
+		<segment id="84" parent="155" relname="joint-sequence">1月 24日 22时 ， 十堰市 停运 市区 所有 公交 线路 。 // At 22:00 on January 24, Shiyan City suspended all bus lines in the urban area.</segment>
+		<segment id="85" parent="155" relname="joint-sequence">1月 25日 1时 ， 封闭 全市 所有 高速 公路 、 国道 。 // At 1:00 on January 25, all highways and national roads in the city were closed.</segment>
+		<segment id="86" parent="156" relname="joint-list">1月 26日 ， 隔断 村 与 村 、 组 与 组 之间 全部 交通 ， // On January 26, all traffic between villages and villages, groups and groups will be cut off.</segment>
+		<segment id="87" parent="156" relname="joint-list">进出 道路 必须 封路 。 // Access roads must be closed.</segment>
+		<segment id="88" parent="155" relname="joint-sequence">20时 ， 封闭 十堰站 、 武当山站 、 十堰 东站 、 武当山 西站 、 丹江口站 进出 十堰 通道 。 // At 20:00, the Shiyan Station, Wudangshan Station, Shiyan East Station, Wudangshan West Station, and Danjiangkou Station will be closed to enter and exit Shiyan.</segment>
+		<segment id="89" parent="157" relname="joint-list">1月 25日 0时 ， 随州市 停运 市区 公交 、 长途 客运站 ， // At 0:00 on January 25th, Suizhou suspended urban bus and long-distance bus station.</segment>
+		<segment id="90" parent="157" relname="joint-list">关闭 高铁站 、 火车站 离开 与 进入 随州 通道 ， // Close the high-speed rail station and the railway station to leave and enter Suizhou channel,</segment>
+		<segment id="91" parent="158" relname="adversative-contrast">对 316 国道 、 240 国道 、 346 国道 、 262 省道 、 263 省道 随州 城区段 进行 管控 ， // 316 National Road , 240 National Road , 346 National Road , 262 Provincial Road , 263 Provincial Road Suizhou urban area are under control,</segment>
+		<segment id="92" parent="158" relname="adversative-contrast">其他 通道 予以 关闭 。 // Other channels are closed.</segment>
+		<segment id="93" parent="159" relname="joint-list">1月 25日 6时 ， 宜昌市 封闭 全市 所有 高速 公路 入口 、 县城 出口 道路 、 县域间 国省 道 、 半 高山 以上 农村 公路 ， // At 6:00 on January 25, Yichang City closed all highway entrances, county exit roads, inter-county state and provincial roads, and rural roads above half-alpine mountains in the city.</segment>
+		<segment id="94" parent="159" relname="joint-list">并 关闭 宜昌 东站 、 当阳站 、 枝江 北站 进出站 通道 。 // And close the access channels of Yichang East Station , Dangyang Station , and Zhijiang North Station .</segment>
+		<segment id="95" parent="161" relname="joint-list">1月 25日 18时 ， 神农架 林区 对 全区 普通 干线 公路 及 县道 实施 交通 管制 ， // At 18:00 on January 25, Shennongjia Forest District implemented traffic control on ordinary trunk roads and county roads in the whole area.</segment>
+		<segment id="96" parent="161" relname="joint-list">停运 全区 所有 客货 运输 站场 、 游客 换乘 中心 、 长途 客车 、 城区 公交 、 旅游 直通车 、 农村 客运 班车 ， // Suspension of all passenger and cargo transportation stations, tourist transfer centers, long-distance buses, urban buses, tourist through trains, and rural passenger shuttles in the region.</segment>
+		<segment id="97" parent="161" relname="joint-list">并 进一步 加强 出租车 监管 力度 。 // And further strengthen the supervision of taxis .</segment>
+		<segment id="98" parent="162" relname="joint-list">1月 26日 0时 ， 襄阳市 停运 省际 、 市际 、 县际 、 县内 长途 客运 、 农村 客运 、 旅游 包车 。 // At 0:00 on January 26, Xiangyang City suspended inter-provincial, inter-city, inter-county, and intra-county long-distance passenger transport, rural passenger transport, and chartered tours.</segment>
+		<segment id="99" parent="162" relname="joint-list">襄阳 刘集 机场 取消 所有 始发 、 到达 客运 航班 。 // Xiangyang Liuji Airport cancels all departure and arrival passenger flights .</segment>
+		<group id="100" type="span" parent="163" relname="span"/>
+		<group id="101" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="102" type="span" parent="101" relname="joint-list"/>
+		<group id="103" type="span" parent="104" relname="same-unit"/>
+		<group id="104" type="multinuc" parent="105" relname="joint-list"/>
+		<group id="105" type="multinuc" parent="101" relname="joint-list"/>
+		<group id="106" type="span" parent="108" relname="same-unit"/>
+		<group id="108" type="multinuc" parent="111" relname="adversative-contrast"/>
+		<group id="109" type="span" parent="110" relname="same-unit"/>
+		<group id="110" type="multinuc" parent="111" relname="adversative-contrast"/>
+		<group id="111" type="multinuc" parent="101" relname="joint-list"/>
+		<group id="112" type="multinuc" parent="100" relname="explanation-evidence"/>
+		<group id="113" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="114" type="multinuc" parent="113" relname="joint-sequence"/>
+		<group id="115" type="span" parent="116" relname="same-unit"/>
+		<group id="116" type="multinuc" parent="113" relname="joint-sequence"/>
+		<group id="117" type="span" parent="116" relname="same-unit"/>
+		<group id="118" type="multinuc" parent="119" relname="joint-sequence"/>
+		<group id="119" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="120" type="multinuc" parent="119" relname="joint-sequence"/>
+		<group id="121" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="122" type="span" parent="123" relname="same-unit"/>
+		<group id="123" type="multinuc" parent="121" relname="joint-sequence"/>
+		<group id="124" type="multinuc" parent="125" relname="joint-sequence"/>
+		<group id="125" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="126" type="span" parent="127" relname="same-unit"/>
+		<group id="127" type="multinuc" parent="125" relname="joint-sequence"/>
+		<group id="128" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="129" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="130" type="span" parent="132" relname="same-unit"/>
+		<group id="131" type="span" parent="130" relname="span"/>
+		<group id="132" type="multinuc" parent="133" relname="joint-list"/>
+		<group id="133" type="multinuc" parent="129" relname="joint-sequence"/>
+		<group id="134" type="span" parent="135" relname="same-unit"/>
+		<group id="135" type="multinuc" parent="136" relname="joint-sequence"/>
+		<group id="136" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="137" type="multinuc" parent="136" relname="joint-sequence"/>
+		<group id="138" type="multinuc" parent="137" relname="joint-list"/>
+		<group id="139" type="multinuc" parent="137" relname="joint-list"/>
+		<group id="140" type="multinuc" parent="137" relname="joint-list"/>
+		<group id="141" type="multinuc" parent="142" relname="joint-sequence"/>
+		<group id="142" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="143" type="span" parent="144" relname="joint-list"/>
+		<group id="144" type="multinuc" parent="142" relname="joint-sequence"/>
+		<group id="145" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="146" type="multinuc" parent="145" relname="joint-sequence"/>
+		<group id="147" type="span" parent="146" relname="joint-list"/>
+		<group id="148" type="multinuc" parent="152" relname="adversative-contrast"/>
+		<group id="149" type="span" parent="150" relname="same-unit"/>
+		<group id="150" type="multinuc" parent="148" relname="joint-list"/>
+		<group id="151" type="span" parent="150" relname="same-unit"/>
+		<group id="152" type="multinuc" parent="145" relname="joint-sequence"/>
+		<group id="153" type="span" parent="154" relname="joint-sequence"/>
+		<group id="154" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="155" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="156" type="multinuc" parent="155" relname="joint-sequence"/>
+		<group id="157" type="multinuc" parent="155" relname="joint-sequence"/>
+		<group id="158" type="multinuc" parent="157" relname="joint-list"/>
+		<group id="159" type="multinuc" parent="160" relname="joint-sequence"/>
+		<group id="160" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="161" type="multinuc" parent="160" relname="joint-sequence"/>
+		<group id="162" type="multinuc" parent="112" relname="joint-list"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" />
+	</body>
+</rst>
