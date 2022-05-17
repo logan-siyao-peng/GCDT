@@ -1043,12 +1043,11 @@
 61	“	“	PU	PU	_	63	punct	_	start_char=152|end_char=153
 62	事先	事先	AD	AD	_	63	advmod	_	start_char=154|end_char=156
 63	预防	预防	VV	VV	_	57	conj	_	start_char=157|end_char=159
-64	胜	胜	VV	VV	_	63	ccomp	_	start_char=160|end_char=161
-65	于	于	P	P	_	67	case	_	start_char=162|end_char=163
-66	事后	事后	JJ	JJ	_	67	amod	_	start_char=164|end_char=166
-67	补救	补救	NN	NN	_	64	nmod:prep	_	start_char=167|end_char=169
-68	。	。	PU	PU	_	51	punct	_	start_char=170|end_char=171
-69	”	”	PU	PU	_	51	punct	_	start_char=172|end_char=173
+64	胜于	胜于	VV	VV	_	63	ccomp	_	start_char=160|end_char=162
+65	事后	事后	AD	AD	_	66	advmod	_	start_char=163|end_char=165
+66	补救	补救	NN	NN	_	64	dobj	_	start_char=166|end_char=168
+67	。	。	PU	PU	_	51	punct	_	start_char=169|end_char=170
+68	”	”	PU	PU	_	51	punct	_	start_char=171|end_char=172
 
 1	尽管	尽管	CS	CS	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4

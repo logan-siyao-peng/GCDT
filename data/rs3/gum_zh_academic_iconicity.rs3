@@ -80,7 +80,7 @@
 		<segment id="42" parent="222" relname="span">文旭 ( 2009 ) 将 这 一 原则 进一步 分为 两 个 原则</segment>
 		<segment id="43" parent="42" relname="explanation-evidence">[ 5 ] ：</segment>
 		<segment id="44" parent="232" relname="span">1) 线性 序列 时间 原则 ：</segment>
-		<segment id="45" parent="225" relname="same-unit">连贯 话语 中 分句 的 顺序 对应 于</segment>
+		<segment id="45" parent="225" relname="same-unit">连贯 话语 中 分句 的 顺序 对应于</segment>
 		<segment id="46" parent="47" relname="elaboration-attribute">其 所 描写 的</segment>
 		<segment id="47" parent="223" relname="span">事件 发生 的</segment>
 		<segment id="48" parent="224" relname="span">时间 顺序 。</segment>

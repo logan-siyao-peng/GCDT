@@ -46,7 +46,7 @@
 		<segment id="8" parent="113" relname="span">稳定 、 非 粘滞 、 不可压缩流 ，</segment>
 		<segment id="9" parent="115" relname="joint-list">在 流体 力学 和 空气 动力学 中 有 关键性 的 作用 。</segment>
 		<segment id="10" parent="144" relname="organization-heading">生平</segment>
-		<segment id="11" parent="117" relname="adversative-contrast">丹尼尔·伯努利 出生于 荷兰 的 格罗宁根 ，</segment>
+		<segment id="11" parent="117" relname="adversative-contrast">丹尼尔·伯努利 出生 于 荷兰 的 格罗宁根 ，</segment>
 		<segment id="12" parent="117" relname="adversative-contrast">但 一 生 大 部分 时间 居住 在 瑞士 巴塞尔 。</segment>
 		<segment id="13" parent="119" relname="context-background">他是 约翰·伯努利 的 儿子 、 雅各布·伯努利 的 侄子 。</segment>
 		<segment id="14" parent="15" relname="attribution-positive">约翰·伯努利 希望</segment>

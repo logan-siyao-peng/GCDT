@@ -76,16 +76,15 @@
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
 4	观点	观点	NN	NN	_	1	dobj	_	start_char=7|end_char=9
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	不	不	AD	AD	_	6	neg	_	start_char=0|end_char=1
-2	要	要	VV	VV	_	6	xcomp	_	start_char=2|end_char=3
-3	因为	因为	P	P	_	4	case	_	start_char=4|end_char=6
-4	拖延	拖延	VV	VV	_	6	nmod:prep	_	start_char=7|end_char=9
-5	而	而	MSP	MSP	_	6	aux:prtmod	_	start_char=10|end_char=11
-6	惩罚	惩罚	VV	VV	_	0	root	_	start_char=12|end_char=14
-7	自己	自己	PN	PN	_	6	dobj	_	start_char=15|end_char=17
-8	。	。	PU	PU	_	6	punct	_	start_char=18|end_char=19
+1	1	1	CD	CD	_	7	dep	_	start_char=0|end_char=1
+2	不	不	AD	AD	_	7	neg	_	start_char=2|end_char=3
+3	要	要	VV	VV	_	7	xcomp	_	start_char=4|end_char=5
+4	因为	因为	P	P	_	5	case	_	start_char=6|end_char=8
+5	拖延	拖延	VV	VV	_	7	nmod:prep	_	start_char=9|end_char=11
+6	而	而	MSP	MSP	_	7	aux:prtmod	_	start_char=12|end_char=13
+7	惩罚	惩罚	VV	VV	_	0	root	_	start_char=14|end_char=16
+8	自己	自己	PN	PN	_	7	dobj	_	start_char=17|end_char=19
+9	。	。	PU	PU	_	7	punct	_	start_char=20|end_char=21
 
 1	压力	压力	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	越	越	AD	AD	_	3	advmod	_	start_char=3|end_char=4
@@ -184,18 +183,17 @@
 46	任务	任务	NN	NN	_	43	dobj	_	start_char=110|end_char=112
 47	。	。	PU	PU	_	1	punct	_	start_char=113|end_char=114
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	花	花	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	15	15	CD	CD	_	1	nmod:range	_	start_char=2|end_char=4
-3	分钟	分钟	M	M	_	2	mark:clf	_	start_char=5|end_char=7
-4	处理	处理	VV	VV	_	1	conj	_	start_char=8|end_char=10
-5	你	你	PN	PN	_	7	nsubj	_	start_char=11|end_char=12
-6	最	最	AD	AD	_	7	advmod	_	start_char=13|end_char=14
-7	重要	重要	VA	VA	_	9	amod	_	start_char=15|end_char=17
-8	的	的	DEC	DEC	_	7	mark	_	start_char=18|end_char=19
-9	事	事	NN	NN	_	4	dobj	_	start_char=20|end_char=21
-10	。	。	PU	PU	_	1	punct	_	start_char=22|end_char=23
+1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	花	花	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	15	15	CD	CD	_	2	nmod:range	_	start_char=4|end_char=6
+4	分钟	分钟	M	M	_	3	mark:clf	_	start_char=7|end_char=9
+5	处理	处理	VV	VV	_	2	conj	_	start_char=10|end_char=12
+6	你	你	PN	PN	_	8	nsubj	_	start_char=13|end_char=14
+7	最	最	AD	AD	_	8	advmod	_	start_char=15|end_char=16
+8	重要	重要	VA	VA	_	10	amod	_	start_char=17|end_char=19
+9	的	的	DEC	DEC	_	8	mark	_	start_char=20|end_char=21
+10	事	事	NN	NN	_	5	dobj	_	start_char=22|end_char=23
+11	。	。	PU	PU	_	2	punct	_	start_char=24|end_char=25
 
 1	与其	与其	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	去	去	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
@@ -304,17 +302,16 @@
 23	之中	之中	LC	LC	_	22	case	_	start_char=53|end_char=55
 24	。	。	PU	PU	_	9	punct	_	start_char=56|end_char=57
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
-2	任务	任务	NN	NN	_	3	dep	_	start_char=2|end_char=4
-3	拆分	拆分	VV	VV	_	0	root	_	start_char=5|end_char=7
-4	成	成	VV	VV	_	3	advmod:rcomp	_	start_char=8|end_char=9
-5	几	几	CD	CD	_	8	nummod	_	start_char=10|end_char=11
-6	个	个	M	M	_	5	mark:clf	_	start_char=12|end_char=13
-7	小	小	JJ	JJ	_	8	amod	_	start_char=14|end_char=15
-8	部分	部分	NN	NN	_	3	dobj	_	start_char=16|end_char=18
-9	。	。	PU	PU	_	3	punct	_	start_char=19|end_char=20
+1	3	3	CD	CD	_	3	nummod	_	start_char=0|end_char=1
+2	把	把	M	M	_	1	mark:clf	_	start_char=2|end_char=3
+3	任务	任务	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
+4	拆分	拆分	VV	VV	_	0	root	_	start_char=7|end_char=9
+5	成	成	VV	VV	_	4	advmod:rcomp	_	start_char=10|end_char=11
+6	几	几	CD	CD	_	9	nummod	_	start_char=12|end_char=13
+7	个	个	M	M	_	6	mark:clf	_	start_char=14|end_char=15
+8	小	小	JJ	JJ	_	9	amod	_	start_char=16|end_char=17
+9	部分	部分	NN	NN	_	4	dobj	_	start_char=18|end_char=20
+10	。	。	PU	PU	_	4	punct	_	start_char=21|end_char=22
 
 1	一次性	一次性	AD	AD	_	2	advmod	_	start_char=0|end_char=3
 2	完成	完成	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -498,15 +495,14 @@
 29	任务	任务	NN	NN	_	23	dobj	_	start_char=71|end_char=73
 30	。	。	PU	PU	_	5	punct	_	start_char=74|end_char=75
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	从	从	P	P	_	5	case	_	start_char=0|end_char=1
-2	最	最	AD	AD	_	3	advmod	_	start_char=2|end_char=3
-3	难	难	VA	VA	_	5	amod	_	start_char=4|end_char=5
-4	的	的	DEC	DEC	_	3	mark	_	start_char=6|end_char=7
-5	事情	事情	NN	NN	_	6	nmod:prep	_	start_char=8|end_char=10
-6	做起	做起	VV	VV	_	0	root	_	start_char=11|end_char=13
-7	。	。	PU	PU	_	6	punct	_	start_char=14|end_char=15
+1	4	4	CD	CD	_	7	dep	_	start_char=0|end_char=1
+2	从	从	P	P	_	6	case	_	start_char=2|end_char=3
+3	最	最	AD	AD	_	4	advmod	_	start_char=4|end_char=5
+4	难	难	VA	VA	_	6	amod	_	start_char=6|end_char=7
+5	的	的	DEC	DEC	_	4	mark	_	start_char=8|end_char=9
+6	事情	事情	NN	NN	_	7	nmod:prep	_	start_char=10|end_char=12
+7	做起	做起	VV	VV	_	0	root	_	start_char=13|end_char=15
+8	。	。	PU	PU	_	7	punct	_	start_char=16|end_char=17
 
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	早上	早上	NT	NT	_	3	nmod:prep	_	start_char=2|end_char=4
@@ -677,12 +673,11 @@
 35	打击	打击	NN	NN	_	34	dobj	_	start_char=85|end_char=87
 36	。	。	PU	PU	_	26	punct	_	start_char=88|end_char=89
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	给	给	P	P	_	2	case	_	start_char=0|end_char=1
-2	自己	自己	PN	PN	_	3	nmod:prep	_	start_char=2|end_char=4
-3	打气	打气	VV	VV	_	0	root	_	start_char=5|end_char=7
-4	。	。	PU	PU	_	3	punct	_	start_char=8|end_char=9
+1	5	5	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	给	给	P	P	_	3	case	_	start_char=2|end_char=3
+3	自己	自己	PN	PN	_	4	nmod:prep	_	start_char=4|end_char=6
+4	打气	打气	VV	VV	_	0	root	_	start_char=7|end_char=9
+5	。	。	PU	PU	_	4	punct	_	start_char=10|end_char=11
 
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	自我	自我	PN	PN	_	3	compound:nn	_	start_char=2|end_char=4
@@ -812,16 +807,15 @@
 12	话	话	NN	NN	_	10	dobj	_	start_char=29|end_char=30
 13	。	。	PU	PU	_	10	punct	_	start_char=31|end_char=32
 
-1	6	6	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	不	不	AD	AD	_	2	neg	_	start_char=0|end_char=1
-2	求	求	VV	VV	_	0	root	_	start_char=2|end_char=3
-3	完美	完美	NN	NN	_	2	dobj	_	start_char=4|end_char=6
-4	，	，	PU	PU	_	2	punct	_	start_char=7|end_char=8
-5	只	只	AD	AD	_	6	advmod	_	start_char=9|end_char=10
-6	求	求	VV	VV	_	2	conj	_	start_char=11|end_char=12
-7	完成	完成	NN	NN	_	6	dobj	_	start_char=13|end_char=15
-8	。	。	PU	PU	_	2	punct	_	start_char=16|end_char=17
+1	6	6	CD	CD	_	3	nsubj	_	start_char=0|end_char=1
+2	不	不	AD	AD	_	3	neg	_	start_char=2|end_char=3
+3	求	求	VV	VV	_	0	root	_	start_char=4|end_char=5
+4	完美	完美	NN	NN	_	3	dobj	_	start_char=6|end_char=8
+5	，	，	PU	PU	_	3	punct	_	start_char=9|end_char=10
+6	只	只	AD	AD	_	7	advmod	_	start_char=11|end_char=12
+7	求	求	VV	VV	_	3	conj	_	start_char=13|end_char=14
+8	完成	完成	NN	NN	_	7	dobj	_	start_char=15|end_char=17
+9	。	。	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
 1	极力	极力	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	追求	追求	VV	VV	_	11	nsubj	_	start_char=3|end_char=5
@@ -883,14 +877,13 @@
 13	7	7	CD	CD	_	12	nmod:range	_	start_char=28|end_char=29
 14	]	]	PU	PU	_	4	punct	_	start_char=30|end_char=31
 
-1	7	7	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	设定	设定	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
-2	奖励	奖励	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
-3	来	来	MSP	MSP	_	4	aux:prtmod	_	start_char=6|end_char=7
-4	激励	激励	VV	VV	_	0	root	_	start_char=8|end_char=10
-5	自己	自己	PN	PN	_	4	dobj	_	start_char=11|end_char=13
-6	。	。	PU	PU	_	4	punct	_	start_char=14|end_char=15
+1	7	7	CD	CD	_	3	dep	_	start_char=0|end_char=1
+2	设定	设定	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
+3	奖励	奖励	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
+4	来	来	MSP	MSP	_	5	aux:prtmod	_	start_char=8|end_char=9
+5	激励	激励	VV	VV	_	0	root	_	start_char=10|end_char=12
+6	自己	自己	PN	PN	_	5	dobj	_	start_char=13|end_char=15
+7	。	。	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
 1	想到	想到	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	自己	自己	PN	PN	_	4	nsubj	_	start_char=3|end_char=5
@@ -958,15 +951,14 @@
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
 4	干扰	干扰	NN	NN	_	1	dobj	_	start_char=8|end_char=10
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	选择	选择	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	适合	适合	VV	VV	_	1	ccomp	_	start_char=3|end_char=5
-3	你	你	PN	PN	_	6	nmod:assmod	_	start_char=6|end_char=7
-4	的	的	DEG	DEG	_	3	case	_	start_char=8|end_char=9
-5	工作	工作	NN	NN	_	6	compound:nn	_	start_char=10|end_char=12
-6	环境	环境	NN	NN	_	2	dobj	_	start_char=13|end_char=15
-7	。	。	PU	PU	_	1	punct	_	start_char=16|end_char=17
+1	1	1	CD	CD	_	3	dep	_	start_char=0|end_char=1
+2	选择	选择	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
+3	适合	适合	VV	VV	_	0	root	_	start_char=5|end_char=7
+4	你	你	PN	PN	_	7	nmod:assmod	_	start_char=8|end_char=9
+5	的	的	DEG	DEG	_	4	case	_	start_char=10|end_char=11
+6	工作	工作	NN	NN	_	7	compound:nn	_	start_char=12|end_char=14
+7	环境	环境	NN	NN	_	3	dobj	_	start_char=15|end_char=17
+8	。	。	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
 1	想	想	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	一	一	AD	AD	_	3	advmod	_	start_char=2|end_char=3
@@ -1043,19 +1035,18 @@
 15	场所	场所	NN	NN	_	11	dobj	_	start_char=38|end_char=40
 16	。	。	PU	PU	_	11	punct	_	start_char=41|end_char=42
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	下载	下载	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
-2	应用	应用	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
-3	程序	程序	NN	NN	_	5	nsubj	_	start_char=6|end_char=8
-4	来	来	MSP	MSP	_	5	aux:prtmod	_	start_char=9|end_char=10
-5	减少	减少	VV	VV	_	0	root	_	start_char=11|end_char=13
-6	手机	手机	NN	NN	_	10	dep	_	start_char=14|end_char=16
-7	对	对	P	P	_	8	case	_	start_char=17|end_char=18
-8	你	你	PN	PN	_	10	nmod	_	start_char=19|end_char=20
-9	的	的	DEG	DEG	_	8	case	_	start_char=21|end_char=22
-10	干扰	干扰	NN	NN	_	5	dobj	_	start_char=23|end_char=25
-11	。	。	PU	PU	_	5	punct	_	start_char=26|end_char=27
+1	2	2	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	下载	下载	NN	NN	_	4	compound:nn	_	start_char=2|end_char=4
+3	应用	应用	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
+4	程序	程序	NN	NN	_	6	nsubj	_	start_char=8|end_char=10
+5	来	来	MSP	MSP	_	6	aux:prtmod	_	start_char=11|end_char=12
+6	减少	减少	VV	VV	_	0	root	_	start_char=13|end_char=15
+7	手机	手机	NN	NN	_	11	dep	_	start_char=16|end_char=18
+8	对	对	P	P	_	9	case	_	start_char=19|end_char=20
+9	你	你	PN	PN	_	11	nmod	_	start_char=21|end_char=22
+10	的	的	DEG	DEG	_	9	case	_	start_char=23|end_char=24
+11	干扰	干扰	NN	NN	_	6	dobj	_	start_char=25|end_char=27
+12	。	。	PU	PU	_	6	punct	_	start_char=28|end_char=29
 
 1	智能	智能	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	手机	手机	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
@@ -1220,20 +1211,19 @@
 18	计划	计划	NN	NN	_	15	dobj	_	start_char=42|end_char=44
 19	。	。	PU	PU	_	9	punct	_	start_char=45|end_char=46
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	使用	使用	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	小	小	JJ	JJ	_	3	amod	_	start_char=3|end_char=4
-3	程序	程序	NN	NN	_	6	conj	_	start_char=5|end_char=7
-4	或者	或者	CC	CC	_	6	cc	_	start_char=8|end_char=10
-5	浏览器	浏览器	NN	NN	_	6	compound:nn	_	start_char=11|end_char=14
-6	附件	附件	NN	NN	_	1	dobj	_	start_char=15|end_char=17
-7	来	来	MSP	MSP	_	8	aux:prtmod	_	start_char=18|end_char=19
-8	减少	减少	VV	VV	_	1	conj	_	start_char=20|end_char=22
-9	网络	网络	NN	NN	_	11	nmod:assmod	_	start_char=23|end_char=25
-10	的	的	DEG	DEG	_	9	case	_	start_char=26|end_char=27
-11	干扰	干扰	NN	NN	_	8	dobj	_	start_char=28|end_char=30
-12	。	。	PU	PU	_	1	punct	_	start_char=31|end_char=32
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	使用	使用	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	小	小	JJ	JJ	_	4	amod	_	start_char=5|end_char=6
+4	程序	程序	NN	NN	_	7	conj	_	start_char=7|end_char=9
+5	或者	或者	CC	CC	_	7	cc	_	start_char=10|end_char=12
+6	浏览器	浏览器	NN	NN	_	7	compound:nn	_	start_char=13|end_char=16
+7	附件	附件	NN	NN	_	2	dobj	_	start_char=17|end_char=19
+8	来	来	MSP	MSP	_	9	aux:prtmod	_	start_char=20|end_char=21
+9	减少	减少	VV	VV	_	2	conj	_	start_char=22|end_char=24
+10	网络	网络	NN	NN	_	12	nmod:assmod	_	start_char=25|end_char=27
+11	的	的	DEG	DEG	_	10	case	_	start_char=28|end_char=29
+12	干扰	干扰	NN	NN	_	9	dobj	_	start_char=30|end_char=32
+13	。	。	PU	PU	_	2	punct	_	start_char=33|end_char=34
 
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	不停	不停	VA	VA	_	4	advmod:dvp	_	start_char=3|end_char=5
@@ -1315,17 +1305,16 @@
 33	。	。	PU	PU	_	32	punct	_	start_char=81|end_char=82
 
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
-2	Freedom	Freedom	NR	NR	_	4	nsubj	_	start_char=2|end_char=9
+2	Freedom	Freedom	NN	NN	_	4	nsubj	_	start_char=2|end_char=9
 3	”	”	PU	PU	_	2	punct	_	start_char=10|end_char=11
-4	适用	适用	VV	VV	_	0	root	_	start_char=12|end_char=14
-5	于	于	P	P	_	11	case	_	start_char=15|end_char=16
-6	所有	所有	DT	DT	_	11	dep	_	start_char=17|end_char=19
-7	的	的	DEG	DEG	_	6	case	_	start_char=20|end_char=21
-8	设备	设备	NN	NN	_	11	conj	_	start_char=22|end_char=24
-9	和	和	CC	CC	_	11	cc	_	start_char=25|end_char=26
-10	操作	操作	NN	NN	_	11	compound:nn	_	start_char=27|end_char=29
-11	系统	系统	NN	NN	_	4	nmod:prep	_	start_char=30|end_char=32
-12	。	。	PU	PU	_	4	punct	_	start_char=33|end_char=34
+4	适用于	适用于	VV	VV	_	0	root	_	start_char=12|end_char=15
+5	所有	所有	DT	DT	_	10	dep	_	start_char=16|end_char=18
+6	的	的	DEG	DEG	_	5	case	_	start_char=19|end_char=20
+7	设备	设备	NN	NN	_	10	conj	_	start_char=21|end_char=23
+8	和	和	CC	CC	_	10	cc	_	start_char=24|end_char=25
+9	操作	操作	NN	NN	_	10	compound:nn	_	start_char=26|end_char=28
+10	系统	系统	NN	NN	_	4	dobj	_	start_char=29|end_char=31
+11	。	。	PU	PU	_	4	punct	_	start_char=32|end_char=33
 
 1	Mac	Mac	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=4|end_char=6
@@ -1422,18 +1411,17 @@
 26	”	”	PU	PU	_	25	punct	_	start_char=80|end_char=81
 27	。	。	PU	PU	_	7	punct	_	start_char=82|end_char=83
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	如	如	AD	AD	_	2	advmod	_	start_char=0|end_char=1
-2	有	有	VE	VE	_	0	root	_	start_char=2|end_char=3
-3	必要	必要	NN	NN	_	2	dobj	_	start_char=4|end_char=6
-4	，	，	PU	PU	_	2	punct	_	start_char=7|end_char=8
-5	把	把	BA	BA	_	7	aux:ba	_	start_char=9|end_char=10
-6	手机	手机	NN	NN	_	7	dep	_	start_char=11|end_char=13
-7	放在	放在	VV	VV	_	2	conj	_	start_char=14|end_char=16
-8	其它	其它	DT	DT	_	9	det	_	start_char=17|end_char=19
-9	地方	地方	NN	NN	_	7	dobj	_	start_char=20|end_char=22
-10	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
+1	4	4	CD	CD	_	3	dep	_	start_char=0|end_char=1
+2	如	如	AD	AD	_	3	advmod	_	start_char=2|end_char=3
+3	有	有	VE	VE	_	0	root	_	start_char=4|end_char=5
+4	必要	必要	NN	NN	_	3	dobj	_	start_char=6|end_char=8
+5	，	，	PU	PU	_	3	punct	_	start_char=9|end_char=10
+6	把	把	BA	BA	_	8	aux:ba	_	start_char=11|end_char=12
+7	手机	手机	NN	NN	_	8	dep	_	start_char=13|end_char=15
+8	放在	放在	VV	VV	_	3	conj	_	start_char=16|end_char=18
+9	其它	其它	DT	DT	_	10	det	_	start_char=19|end_char=21
+10	地方	地方	NN	NN	_	8	dobj	_	start_char=22|end_char=24
+11	。	。	PU	PU	_	3	punct	_	start_char=25|end_char=26
 
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
@@ -1512,12 +1500,11 @@
 23	关掉	关掉	VV	VV	_	0	root	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	23	punct	_	start_char=61|end_char=62
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	听	听	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	纯	纯	JJ	JJ	_	3	amod	_	start_char=2|end_char=3
-3	音乐	音乐	NN	NN	_	1	dobj	_	start_char=4|end_char=6
-4	。	。	PU	PU	_	1	punct	_	start_char=7|end_char=8
+1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	听	听	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	纯	纯	JJ	JJ	_	4	amod	_	start_char=4|end_char=5
+4	音乐	音乐	NN	NN	_	2	dobj	_	start_char=6|end_char=8
+5	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
 
 1	很多	很多	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	人	人	NN	NN	_	10	nsubj	_	start_char=3|end_char=4
@@ -1569,15 +1556,14 @@
 2	对抗	对抗	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	拖延症	拖延症	NN	NN	_	2	dobj	_	start_char=6|end_char=9
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	用	用	P	P	_	3	case	_	start_char=0|end_char=1
-2	待办	待办	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
-3	清单	清单	NN	NN	_	5	nmod:prep	_	start_char=5|end_char=7
-4	来	来	MSP	MSP	_	5	aux:prtmod	_	start_char=8|end_char=9
-5	设定	设定	VV	VV	_	0	root	_	start_char=10|end_char=12
-6	目标	目标	NN	NN	_	5	dobj	_	start_char=13|end_char=15
-7	。	。	PU	PU	_	5	punct	_	start_char=16|end_char=17
+1	1	1	CD	CD	_	6	dep	_	start_char=0|end_char=1
+2	用	用	P	P	_	4	case	_	start_char=2|end_char=3
+3	待办	待办	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
+4	清单	清单	NN	NN	_	6	nmod:prep	_	start_char=7|end_char=9
+5	来	来	MSP	MSP	_	6	aux:prtmod	_	start_char=10|end_char=11
+6	设定	设定	VV	VV	_	0	root	_	start_char=12|end_char=14
+7	目标	目标	NN	NN	_	6	dobj	_	start_char=15|end_char=17
+8	。	。	PU	PU	_	6	punct	_	start_char=18|end_char=19
 
 1	把	把	BA	BA	_	8	aux:ba	_	start_char=0|end_char=1
 2	所有	所有	DT	DT	_	6	det	_	start_char=2|end_char=4
@@ -1689,18 +1675,17 @@
 14	重要	重要	VA	VA	_	0	root	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	14	punct	_	start_char=38|end_char=39
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	根据	根据	P	P	_	2	case	_	start_char=0|end_char=2
-2	预定	预定	VV	VV	_	9	nmod:prep	_	start_char=3|end_char=5
-3	完成	完成	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
-4	日期	日期	NN	NN	_	3	dobj	_	start_char=9|end_char=11
-5	给	给	P	P	_	8	case	_	start_char=12|end_char=13
-6	不同	不同	VA	VA	_	8	amod	_	start_char=14|end_char=16
-7	的	的	DEC	DEC	_	6	mark	_	start_char=17|end_char=18
-8	目标	目标	NN	NN	_	9	nmod:prep	_	start_char=19|end_char=21
-9	排序	排序	VV	VV	_	0	root	_	start_char=22|end_char=24
-10	。	。	PU	PU	_	9	punct	_	start_char=25|end_char=26
+1	2	2	CD	CD	_	10	dep	_	start_char=0|end_char=1
+2	根据	根据	P	P	_	3	case	_	start_char=2|end_char=4
+3	预定	预定	VV	VV	_	10	nmod:prep	_	start_char=5|end_char=7
+4	完成	完成	VV	VV	_	3	ccomp	_	start_char=8|end_char=10
+5	日期	日期	NN	NN	_	4	dobj	_	start_char=11|end_char=13
+6	给	给	P	P	_	9	case	_	start_char=14|end_char=15
+7	不同	不同	VA	VA	_	9	amod	_	start_char=16|end_char=18
+8	的	的	DEC	DEC	_	7	mark	_	start_char=19|end_char=20
+9	目标	目标	NN	NN	_	10	nmod:prep	_	start_char=21|end_char=23
+10	排序	排序	VV	VV	_	0	root	_	start_char=24|end_char=26
+11	。	。	PU	PU	_	10	punct	_	start_char=27|end_char=28
 
 1	用	用	P	P	_	2	case	_	start_char=0|end_char=1
 2	计划表	计划表	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=5
@@ -1849,57 +1834,56 @@
 10	排序	排序	VV	VV	_	0	root	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	10	punct	_	start_char=25|end_char=26
 
-1	简单	简单	VA	VA	_	11	advmod:loc	_	start_char=0|end_char=2
-2	来说	来说	LC	LC	_	1	case	_	start_char=3|end_char=5
-3	就	就	AD	AD	_	11	advmod	_	start_char=6|end_char=7
-4	是	是	VC	VC	_	11	cop	_	start_char=8|end_char=9
-5	把	把	BA	BA	_	11	aux:ba	_	start_char=10|end_char=11
-6	所有	所有	DT	DT	_	10	det	_	start_char=12|end_char=14
-7	要	要	VV	VV	_	8	xcomp	_	start_char=15|end_char=16
-8	做	做	VV	VV	_	10	acl	_	start_char=17|end_char=18
-9	的	的	DEC	DEC	_	8	mark	_	start_char=19|end_char=20
-10	事情	事情	NN	NN	_	11	dep	_	start_char=21|end_char=23
-11	分为	分为	VV	VV	_	0	root	_	start_char=24|end_char=26
-12	四	四	CD	CD	_	14	nummod	_	start_char=27|end_char=28
-13	个	个	M	M	_	12	mark:clf	_	start_char=29|end_char=30
-14	大类	大类	NN	NN	_	11	dobj	_	start_char=31|end_char=33
-15	：	：	PU	PU	_	11	punct	_	start_char=34|end_char=35
-16	必须	必须	VV	VV	_	19	aux:modal	_	start_char=36|end_char=38
-17	要	要	VV	VV	_	19	xcomp	_	start_char=39|end_char=40
-18	马上	马上	AD	AD	_	19	advmod	_	start_char=41|end_char=43
-19	完成	完成	VV	VV	_	21	acl	_	start_char=44|end_char=46
-20	的	的	DEC	DEC	_	19	mark	_	start_char=47|end_char=48
-21	任务	任务	NN	NN	_	11	dobj	_	start_char=49|end_char=51
-22	；	；	PU	PU	_	11	punct	_	start_char=52|end_char=53
-23	不	不	AD	AD	_	25	neg	_	start_char=54|end_char=55
-24	那么	那么	AD	AD	_	25	advmod	_	start_char=56|end_char=58
-25	着急	着急	VV	VV	_	11	conj	_	start_char=59|end_char=61
-26	或者	或者	CC	CC	_	25	cc	_	start_char=62|end_char=64
-27	可以	可以	VV	VV	_	29	aux:modal	_	start_char=65|end_char=67
-28	再	再	AD	AD	_	29	advmod	_	start_char=68|end_char=69
-29	找	找	VV	VV	_	25	conj	_	start_char=70|end_char=71
-30	时间	时间	NN	NN	_	31	nsubj	_	start_char=72|end_char=74
-31	完成	完成	VV	VV	_	29	conj	_	start_char=75|end_char=77
-32	的	的	DEC	DEC	_	25	mark	_	start_char=78|end_char=79
-33	任务	任务	NN	NN	_	29	dobj	_	start_char=80|end_char=82
-34	；	；	PU	PU	_	11	punct	_	start_char=83|end_char=84
-35	可以	可以	VV	VV	_	36	aux:modal	_	start_char=85|end_char=87
-36	让	让	VV	VV	_	11	conj	_	start_char=88|end_char=89
-37	别人	别人	NN	NN	_	36	dobj	_	start_char=90|end_char=92
-38	完成	完成	VV	VV	_	40	acl	_	start_char=93|end_char=95
-39	的	的	DEC	DEC	_	38	mark	_	start_char=96|end_char=97
-40	任务	任务	NN	NN	_	50	dep	_	start_char=98|end_char=100
-41	；	；	PU	PU	_	50	punct	_	start_char=101|end_char=102
-42	以及	以及	CC	CC	_	50	cc	_	start_char=103|end_char=105
-43	不	不	AD	AD	_	44	neg	_	start_char=106|end_char=107
-44	重要	重要	VA	VA	_	50	amod	_	start_char=108|end_char=110
-45	或者	或者	CC	CC	_	44	cc	_	start_char=111|end_char=113
-46	可以	可以	VV	VV	_	48	aux:modal	_	start_char=114|end_char=116
-47	不	不	AD	AD	_	48	neg	_	start_char=117|end_char=118
-48	做	做	VV	VV	_	44	conj	_	start_char=119|end_char=120
-49	的	的	DEC	DEC	_	44	mark	_	start_char=121|end_char=122
-50	任务	任务	NN	NN	_	36	dobj	_	start_char=123|end_char=125
-51	。	。	PU	PU	_	11	punct	_	start_char=126|end_char=127
+1	简单来说	简单来说	AD	AD	_	10	advmod	_	start_char=0|end_char=4
+2	就	就	AD	AD	_	10	advmod	_	start_char=5|end_char=6
+3	是	是	VC	VC	_	10	cop	_	start_char=7|end_char=8
+4	把	把	BA	BA	_	10	aux:ba	_	start_char=9|end_char=10
+5	所有	所有	DT	DT	_	9	det	_	start_char=11|end_char=13
+6	要	要	VV	VV	_	7	xcomp	_	start_char=14|end_char=15
+7	做	做	VV	VV	_	9	acl	_	start_char=16|end_char=17
+8	的	的	DEC	DEC	_	7	mark	_	start_char=18|end_char=19
+9	事情	事情	NN	NN	_	10	dep	_	start_char=20|end_char=22
+10	分为	分为	VV	VV	_	0	root	_	start_char=23|end_char=25
+11	四	四	CD	CD	_	13	nummod	_	start_char=26|end_char=27
+12	个	个	M	M	_	11	mark:clf	_	start_char=28|end_char=29
+13	大类	大类	NN	NN	_	10	dobj	_	start_char=30|end_char=32
+14	：	：	PU	PU	_	10	punct	_	start_char=33|end_char=34
+15	必须	必须	VV	VV	_	18	aux:modal	_	start_char=35|end_char=37
+16	要	要	VV	VV	_	18	xcomp	_	start_char=38|end_char=39
+17	马上	马上	AD	AD	_	18	advmod	_	start_char=40|end_char=42
+18	完成	完成	VV	VV	_	20	acl	_	start_char=43|end_char=45
+19	的	的	DEC	DEC	_	18	mark	_	start_char=46|end_char=47
+20	任务	任务	NN	NN	_	10	dobj	_	start_char=48|end_char=50
+21	；	；	PU	PU	_	10	punct	_	start_char=51|end_char=52
+22	不	不	AD	AD	_	24	neg	_	start_char=53|end_char=54
+23	那么	那么	AD	AD	_	24	advmod	_	start_char=55|end_char=57
+24	着急	着急	VV	VV	_	10	conj	_	start_char=58|end_char=60
+25	或者	或者	CC	CC	_	24	cc	_	start_char=61|end_char=63
+26	可以	可以	VV	VV	_	28	aux:modal	_	start_char=64|end_char=66
+27	再	再	AD	AD	_	28	advmod	_	start_char=67|end_char=68
+28	找	找	VV	VV	_	24	conj	_	start_char=69|end_char=70
+29	时间	时间	NN	NN	_	30	nsubj	_	start_char=71|end_char=73
+30	完成	完成	VV	VV	_	28	conj	_	start_char=74|end_char=76
+31	的	的	DEC	DEC	_	30	mark	_	start_char=77|end_char=78
+32	任务	任务	NN	NN	_	28	dobj	_	start_char=79|end_char=81
+33	；	；	PU	PU	_	10	punct	_	start_char=82|end_char=83
+34	可以	可以	VV	VV	_	35	aux:modal	_	start_char=84|end_char=86
+35	让	让	VV	VV	_	10	conj	_	start_char=87|end_char=88
+36	别人	别人	NN	NN	_	35	dobj	_	start_char=89|end_char=91
+37	完成	完成	VV	VV	_	39	acl	_	start_char=92|end_char=94
+38	的	的	DEC	DEC	_	37	mark	_	start_char=95|end_char=96
+39	任务	任务	NN	NN	_	49	dep	_	start_char=97|end_char=99
+40	；	；	PU	PU	_	49	punct	_	start_char=100|end_char=101
+41	以及	以及	CC	CC	_	49	cc	_	start_char=102|end_char=104
+42	不	不	AD	AD	_	43	neg	_	start_char=105|end_char=106
+43	重要	重要	VA	VA	_	49	amod	_	start_char=107|end_char=109
+44	或者	或者	CC	CC	_	43	cc	_	start_char=110|end_char=112
+45	可以	可以	VV	VV	_	47	aux:modal	_	start_char=113|end_char=115
+46	不	不	AD	AD	_	47	neg	_	start_char=116|end_char=117
+47	做	做	VV	VV	_	43	conj	_	start_char=118|end_char=119
+48	的	的	DEC	DEC	_	43	mark	_	start_char=120|end_char=121
+49	任务	任务	NN	NN	_	35	dobj	_	start_char=122|end_char=124
+50	。	。	PU	PU	_	10	punct	_	start_char=125|end_char=126
 
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
@@ -1924,43 +1908,40 @@
 21	，	，	PU	PU	_	6	punct	_	start_char=49|end_char=50
 22	同样	同样	AD	AD	_	24	advmod	_	start_char=51|end_char=53
 23	也	也	AD	AD	_	24	advmod	_	start_char=54|end_char=55
-24	适用	适用	VV	VV	_	6	conj	_	start_char=56|end_char=58
-25	于	于	P	P	_	26	case	_	start_char=59|end_char=60
-26	几	几	CD	CD	_	31	nummod	_	start_char=61|end_char=62
-27	周	周	M	M	_	26	mark:clf	_	start_char=63|end_char=64
-28	甚至	甚至	AD	AD	_	31	advmod	_	start_char=65|end_char=67
-29	几	几	CD	CD	_	31	nummod	_	start_char=68|end_char=69
-30	个	个	M	M	_	29	mark:clf	_	start_char=70|end_char=71
-31	月	月	NN	NN	_	34	nmod:assmod	_	start_char=72|end_char=73
-32	的	的	DEG	DEG	_	31	case	_	start_char=74|end_char=75
-33	长期	长期	JJ	JJ	_	34	amod	_	start_char=76|end_char=78
-34	规划	规划	NN	NN	_	24	dobj	_	start_char=79|end_char=81
-35	。	。	PU	PU	_	6	punct	_	start_char=82|end_char=83
-36	[	[	VV	VV	_	24	conj	_	start_char=84|end_char=85
-37	15	15	CD	CD	_	36	nmod:range	_	start_char=86|end_char=88
-38	]	]	M	M	_	37	mark:clf	_	start_char=89|end_char=90
+24	适用于	适用于	VV	VV	_	6	conj	_	start_char=56|end_char=59
+25	几	几	CD	CD	_	33	nummod	_	start_char=60|end_char=61
+26	周	周	M	M	_	25	mark:clf	_	start_char=62|end_char=63
+27	甚至	甚至	AD	AD	_	30	advmod	_	start_char=64|end_char=66
+28	几	几	CD	CD	_	30	nummod	_	start_char=67|end_char=68
+29	个	个	M	M	_	28	mark:clf	_	start_char=69|end_char=70
+30	月	月	NN	NN	_	33	nmod:assmod	_	start_char=71|end_char=72
+31	的	的	DEG	DEG	_	30	case	_	start_char=73|end_char=74
+32	长期	长期	JJ	JJ	_	33	amod	_	start_char=75|end_char=77
+33	规划	规划	NN	NN	_	24	dobj	_	start_char=78|end_char=80
+34	。	。	PU	PU	_	24	punct	_	start_char=81|end_char=82
+35	[	[	VV	VV	_	24	conj	_	start_char=83|end_char=84
+36	15	15	CD	CD	_	35	nmod:range	_	start_char=85|end_char=87
+37	]	]	M	M	_	36	mark:clf	_	start_char=88|end_char=89
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	不	不	AD	AD	_	4	neg	_	start_char=0|end_char=1
-2	要	要	VV	VV	_	4	xcomp	_	start_char=2|end_char=3
-3	同时	同时	AD	AD	_	4	advmod	_	start_char=4|end_char=6
-4	处理	处理	VV	VV	_	0	root	_	start_char=7|end_char=9
-5	好	好	JJ	JJ	_	6	amod	_	start_char=10|end_char=11
-6	几	几	CD	CD	_	8	nummod	_	start_char=12|end_char=13
-7	个	个	M	M	_	6	mark:clf	_	start_char=14|end_char=15
-8	任务	任务	NN	NN	_	4	dobj	_	start_char=16|end_char=18
-9	。	。	PU	PU	_	4	punct	_	start_char=19|end_char=20
+1	3	3	CD	CD	_	5	dep	_	start_char=0|end_char=1
+2	不	不	AD	AD	_	5	neg	_	start_char=2|end_char=3
+3	要	要	VV	VV	_	5	xcomp	_	start_char=4|end_char=5
+4	同时	同时	AD	AD	_	5	advmod	_	start_char=6|end_char=8
+5	处理	处理	VV	VV	_	0	root	_	start_char=9|end_char=11
+6	好	好	JJ	JJ	_	9	amod	_	start_char=12|end_char=13
+7	几	几	CD	CD	_	9	nummod	_	start_char=14|end_char=15
+8	个	个	M	M	_	7	mark:clf	_	start_char=16|end_char=17
+9	任务	任务	NN	NN	_	5	dobj	_	start_char=18|end_char=20
+10	。	。	PU	PU	_	5	punct	_	start_char=21|end_char=22
 
 1	一	一	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	次	次	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	只	只	AD	AD	_	4	advmod	_	start_char=4|end_char=5
-4	专注	专注	VV	VV	_	0	root	_	start_char=6|end_char=8
-5	于	于	P	P	_	8	case	_	start_char=9|end_char=10
-6	一	一	CD	CD	_	8	nummod	_	start_char=11|end_char=12
-7	件	件	M	M	_	6	mark:clf	_	start_char=13|end_char=14
-8	事情	事情	NN	NN	_	4	nmod:prep	_	start_char=15|end_char=17
-9	。	。	PU	PU	_	4	punct	_	start_char=18|end_char=19
+4	专注于	专注于	VV	VV	_	0	root	_	start_char=6|end_char=9
+5	一	一	CD	CD	_	7	nummod	_	start_char=10|end_char=11
+6	件	件	M	M	_	5	mark:clf	_	start_char=12|end_char=13
+7	事情	事情	NN	NN	_	4	dobj	_	start_char=14|end_char=16
+8	。	。	PU	PU	_	4	punct	_	start_char=17|end_char=18
 
 1	同时	同时	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	处理	处理	VV	VV	_	0	root	_	start_char=3|end_char=5
@@ -2002,19 +1983,18 @@
 1	一	一	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	次	次	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	只	只	AD	AD	_	4	advmod	_	start_char=4|end_char=5
-4	专注	专注	VV	VV	_	0	root	_	start_char=6|end_char=8
-5	于	于	P	P	_	8	case	_	start_char=9|end_char=10
-6	一	一	CD	CD	_	8	nummod	_	start_char=11|end_char=12
-7	件	件	M	M	_	6	mark:clf	_	start_char=13|end_char=14
-8	事情	事情	NN	NN	_	4	nmod:prep	_	start_char=15|end_char=17
-9	，	，	PU	PU	_	4	punct	_	start_char=18|end_char=19
-10	并	并	AD	AD	_	11	advmod	_	start_char=20|end_char=21
-11	尽	尽	VV	VV	_	4	conj	_	start_char=22|end_char=23
-12	全力	全力	AD	AD	_	14	advmod	_	start_char=24|end_char=26
-13	去	去	VV	VV	_	14	xcomp	_	start_char=27|end_char=28
-14	完成	完成	VV	VV	_	11	ccomp	_	start_char=29|end_char=31
-15	它	它	PN	PN	_	14	dobj	_	start_char=32|end_char=33
-16	。	。	PU	PU	_	4	punct	_	start_char=34|end_char=35
+4	专注于	专注于	VV	VV	_	0	root	_	start_char=6|end_char=9
+5	一	一	CD	CD	_	7	nummod	_	start_char=10|end_char=11
+6	件	件	M	M	_	5	mark:clf	_	start_char=12|end_char=13
+7	事情	事情	NN	NN	_	4	dobj	_	start_char=14|end_char=16
+8	，	，	PU	PU	_	4	punct	_	start_char=17|end_char=18
+9	并	并	AD	AD	_	10	advmod	_	start_char=19|end_char=20
+10	尽	尽	VV	VV	_	4	conj	_	start_char=21|end_char=22
+11	全力	全力	AD	AD	_	13	advmod	_	start_char=23|end_char=25
+12	去	去	VV	VV	_	13	xcomp	_	start_char=26|end_char=27
+13	完成	完成	VV	VV	_	10	ccomp	_	start_char=28|end_char=30
+14	它	它	PN	PN	_	13	dobj	_	start_char=31|end_char=32
+15	。	。	PU	PU	_	4	punct	_	start_char=33|end_char=34
 
 1	这样	这样	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	能	能	VV	VV	_	3	aux:modal	_	start_char=3|end_char=4
@@ -2035,14 +2015,13 @@
 17	16	16	CD	CD	_	16	nmod:range	_	start_char=36|end_char=38
 18	]	]	PU	PU	_	3	punct	_	start_char=39|end_char=40
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	找	找	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	个	个	M	M	_	3	nummod	_	start_char=2|end_char=3
-3	人	人	NN	NN	_	1	dobj	_	start_char=4|end_char=5
-4	监督	监督	VV	VV	_	1	ccomp	_	start_char=6|end_char=8
-5	你	你	PN	PN	_	4	dobj	_	start_char=9|end_char=10
-6	。	。	PU	PU	_	1	punct	_	start_char=11|end_char=12
+1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	找	找	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	个	个	M	M	_	4	nummod	_	start_char=4|end_char=5
+4	人	人	NN	NN	_	2	dobj	_	start_char=6|end_char=7
+5	监督	监督	VV	VV	_	2	ccomp	_	start_char=8|end_char=10
+6	你	你	PN	PN	_	5	dobj	_	start_char=11|end_char=12
+7	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
 1	一	一	CD	CD	_	3	nummod	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3

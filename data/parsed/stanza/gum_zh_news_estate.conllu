@@ -6,6 +6,13 @@
 6	房地产	房地产	NN	NN	_	7	compound:nn	_	start_char=15|end_char=18
 7	颓势	颓势	NN	NN	_	5	dobj	_	start_char=19|end_char=21
 
+1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
+2	2008年	2008年	NT	NT	_	5	dep	_	start_char=2|end_char=7
+3	12月	12月	NT	NT	_	5	dep	_	start_char=8|end_char=11
+4	5日	5日	NT	NT	_	5	dep	_	start_char=12|end_char=14
+5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
+6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
+
 1	多	多	CD	CD	_	6	nummod	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	新	新	JJ	JJ	_	6	amod	_	start_char=4|end_char=5
@@ -301,15 +308,14 @@
 10	失业	失业	NN	NN	_	11	compound:nn	_	start_char=23|end_char=25
 11	补贴	补贴	NN	NN	_	9	dobj	_	start_char=26|end_char=28
 12	的	的	DEC	DEC	_	9	mark	_	start_char=29|end_char=30
-13	人数	人数	NN	NN	_	17	nsubj	_	start_char=31|end_char=33
-14	出人	出人	VV	VV	_	17	advmod:dvp	_	start_char=34|end_char=36
-15	意外	意外	VA	VA	_	17	advmod:dvp	_	start_char=37|end_char=39
-16	地	地	DEV	DEV	_	15	mark	_	start_char=40|end_char=41
-17	减少	减少	VV	VV	_	0	root	_	start_char=42|end_char=44
-18	了	了	AS	AS	_	17	aux:asp	_	start_char=45|end_char=46
-19	2.1万	2.1万	CD	CD	_	20	dep	_	start_char=47|end_char=51
-20	人	人	NN	NN	_	17	dobj	_	start_char=52|end_char=53
-21	。	。	PU	PU	_	17	punct	_	start_char=54|end_char=55
+13	人数	人数	NN	NN	_	16	nsubj	_	start_char=31|end_char=33
+14	出人意外	出人意外	VV	VV	_	16	advmod:dvp	_	start_char=34|end_char=38
+15	地	地	DEV	DEV	_	14	mark	_	start_char=39|end_char=40
+16	减少	减少	VV	VV	_	0	root	_	start_char=41|end_char=43
+17	了	了	AS	AS	_	16	aux:asp	_	start_char=44|end_char=45
+18	2.1万	2.1万	CD	CD	_	19	dep	_	start_char=46|end_char=50
+19	人	人	NN	NN	_	16	dobj	_	start_char=51|end_char=52
+20	。	。	PU	PU	_	16	punct	_	start_char=53|end_char=54
 
 1	但是	但是	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	持续	持续	AD	AD	_	3	advmod	_	start_char=3|end_char=5

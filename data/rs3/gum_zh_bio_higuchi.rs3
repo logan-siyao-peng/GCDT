@@ -48,7 +48,7 @@
 		<segment id="10" parent="117" relname="joint-list">得年 24 岁 。</segment>
 		<segment id="11" parent="118" relname="explanation-evidence">[ 1 ]</segment>
 		<segment id="12" parent="173" relname="organization-heading">生平</segment>
-		<segment id="13" parent="120" relname="span">樋口一叶 出生于 东京府</segment>
+		<segment id="13" parent="120" relname="span">樋口一叶 出生 于 东京府</segment>
 		<segment id="14" parent="13" relname="restatement-partial">（ 今 东京都 ） 。</segment>
 		<segment id="15" parent="121" relname="joint-list">樋口一叶 为 家族 五 兄弟 姊妹 中 的 二女 ，</segment>
 		<segment id="16" parent="123" relname="same-unit">父亲 樋口则义 是 个</segment>

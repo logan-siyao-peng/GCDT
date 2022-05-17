@@ -99,16 +99,15 @@
 2	做	做	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	什么	什么	PN	PN	_	2	dobj	_	start_char=4|end_char=6
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	对话	对话	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
-2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
-3	开始	开始	NN	NN	_	6	nsubj	_	start_char=5|end_char=7
-4	一定	一定	AD	AD	_	6	advmod	_	start_char=8|end_char=10
-5	要	要	VV	VV	_	6	xcomp	_	start_char=11|end_char=12
-6	轻松	轻松	VA	VA	_	0	root	_	start_char=13|end_char=15
-7	随意	随意	VA	VA	_	6	compound:vc	_	start_char=16|end_char=18
-8	。	。	PU	PU	_	6	punct	_	start_char=19|end_char=20
+1	1	1	CD	CD	_	7	dep	_	start_char=0|end_char=1
+2	对话	对话	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
+3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
+4	开始	开始	NN	NN	_	7	nsubj	_	start_char=7|end_char=9
+5	一定	一定	AD	AD	_	7	advmod	_	start_char=10|end_char=12
+6	要	要	VV	VV	_	7	xcomp	_	start_char=13|end_char=14
+7	轻松	轻松	VA	VA	_	0	root	_	start_char=15|end_char=17
+8	随意	随意	VA	VA	_	7	compound:vc	_	start_char=18|end_char=20
+9	。	。	PU	PU	_	7	punct	_	start_char=21|end_char=22
 
 1	和	和	P	P	_	3	case	_	start_char=0|end_char=1
 2	线下	线下	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
@@ -366,12 +365,11 @@
 31	？	？	PU	PU	_	15	punct	_	start_char=75|end_char=76
 32	”	”	PU	PU	_	15	punct	_	start_char=77|end_char=78
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	可以	可以	VV	VV	_	2	aux:modal	_	start_char=0|end_char=2
-2	稍作	稍作	VV	VV	_	0	root	_	start_char=3|end_char=5
-3	寒暄	寒暄	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
-4	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
+1	2	2	CD	CD	_	3	dep	_	start_char=0|end_char=1
+2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=2|end_char=4
+3	稍作	稍作	VV	VV	_	0	root	_	start_char=5|end_char=7
+4	寒暄	寒暄	VV	VV	_	3	ccomp	_	start_char=8|end_char=10
+5	。	。	PU	PU	_	3	punct	_	start_char=11|end_char=12
 
 1	交换	交换	VV	VV	_	12	advcl:loc	_	start_char=0|end_char=2
 2	过	过	AS	AS	_	1	aux:asp	_	start_char=3|end_char=4
@@ -601,12 +599,11 @@
 7	？	？	PU	PU	_	3	punct	_	start_char=16|end_char=17
 8	”	”	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	适当	适当	AD	AD	_	2	advmod	_	start_char=0|end_char=2
-2	开	开	VV	VV	_	0	root	_	start_char=3|end_char=4
-3	玩笑	玩笑	NN	NN	_	2	dobj	_	start_char=5|end_char=7
-4	。	。	PU	PU	_	2	punct	_	start_char=8|end_char=9
+1	3	3	CD	CD	_	3	dep	_	start_char=0|end_char=1
+2	适当	适当	AD	AD	_	3	advmod	_	start_char=2|end_char=4
+3	开	开	VV	VV	_	0	root	_	start_char=5|end_char=6
+4	玩笑	玩笑	NN	NN	_	3	dobj	_	start_char=7|end_char=9
+5	。	。	PU	PU	_	3	punct	_	start_char=10|end_char=11
 
 1	恰到好处	恰到好处	VV	VV	_	3	acl	_	start_char=0|end_char=4
 2	的	的	DEC	DEC	_	1	mark	_	start_char=5|end_char=6
@@ -827,17 +824,16 @@
 35	？	？	PU	PU	_	5	punct	_	start_char=83|end_char=84
 36	”	”	PU	PU	_	5	punct	_	start_char=85|end_char=86
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	适当	适当	VA	VA	_	3	amod	_	start_char=0|end_char=2
-2	的	的	DEC	DEC	_	1	mark	_	start_char=3|end_char=4
-3	时候	时候	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
-4	可以	可以	VV	VV	_	5	aux:modal	_	start_char=8|end_char=10
-5	稍作	稍作	VV	VV	_	0	root	_	start_char=11|end_char=13
-6	挑逗	挑逗	VV	VV	_	8	acl	_	start_char=14|end_char=16
-7	之	之	DEG	DEG	_	6	mark	_	start_char=17|end_char=18
-8	语	语	NN	NN	_	5	dobj	_	start_char=19|end_char=20
-9	。	。	PU	PU	_	5	punct	_	start_char=21|end_char=22
+1	4	4	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	适当	适当	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
+3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
+4	时候	时候	NN	NN	_	6	nsubj	_	start_char=7|end_char=9
+5	可以	可以	VV	VV	_	6	aux:modal	_	start_char=10|end_char=12
+6	稍作	稍作	VV	VV	_	0	root	_	start_char=13|end_char=15
+7	挑逗	挑逗	VV	VV	_	9	acl	_	start_char=16|end_char=18
+8	之	之	DEG	DEG	_	7	mark	_	start_char=19|end_char=20
+9	语	语	NN	NN	_	6	dobj	_	start_char=21|end_char=22
+10	。	。	PU	PU	_	6	punct	_	start_char=23|end_char=24
 
 1	待到	待到	VV	VV	_	19	dep	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	1	dobj	_	start_char=3|end_char=4
@@ -1065,12 +1061,11 @@
 25	了	了	SP	SP	_	24	discourse	_	start_char=57|end_char=58
 26	。	。	PU	PU	_	17	punct	_	start_char=59|end_char=60
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	学会	学会	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	使用	使用	VV	VV	_	1	ccomp	_	start_char=3|end_char=5
-3	表情	表情	NN	NN	_	2	dobj	_	start_char=6|end_char=8
-4	。	。	PU	PU	_	1	punct	_	start_char=9|end_char=10
+1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	学会	学会	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
+3	使用	使用	VV	VV	_	0	root	_	start_char=5|end_char=7
+4	表情	表情	NN	NN	_	3	dobj	_	start_char=8|end_char=10
+5	。	。	PU	PU	_	3	punct	_	start_char=11|end_char=12
 
 1	利用	利用	VV	VV	_	8	acl	_	start_char=0|end_char=2
 2	通讯	通讯	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
@@ -1214,18 +1209,17 @@
 16	了	了	AS	AS	_	15	aux:asp	_	start_char=34|end_char=35
 17	。	。	PU	PU	_	11	punct	_	start_char=36|end_char=37
 
-1	6	6	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
-2	收效	收效	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
-3	显著	显著	VA	VA	_	8	dep	_	start_char=6|end_char=8
-4	，	，	PU	PU	_	8	punct	_	start_char=9|end_char=10
-5	那么	那么	AD	AD	_	8	advmod	_	start_char=11|end_char=13
-6	就	就	AD	AD	_	8	advmod	_	start_char=14|end_char=15
-7	可以	可以	VV	VV	_	8	aux:modal	_	start_char=16|end_char=18
-8	趁热打铁	趁热打铁	VV	VV	_	10	dep	_	start_char=19|end_char=23
-9	了	了	SP	SP	_	10	discourse	_	start_char=24|end_char=25
-10	。	。	PU	PU	_	0	root	_	start_char=26|end_char=27
+1	6	6	CD	CD	_	9	dep	_	start_char=0|end_char=1
+2	如果	如果	CS	CS	_	4	advmod	_	start_char=2|end_char=4
+3	收效	收效	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
+4	显著	显著	VA	VA	_	9	dep	_	start_char=8|end_char=10
+5	，	，	PU	PU	_	9	punct	_	start_char=11|end_char=12
+6	那么	那么	AD	AD	_	9	advmod	_	start_char=13|end_char=15
+7	就	就	AD	AD	_	9	advmod	_	start_char=16|end_char=17
+8	可以	可以	VV	VV	_	9	aux:modal	_	start_char=18|end_char=20
+9	趁热打铁	趁热打铁	VV	VV	_	11	dep	_	start_char=21|end_char=25
+10	了	了	SP	SP	_	11	discourse	_	start_char=26|end_char=27
+11	。	。	PU	PU	_	0	root	_	start_char=28|end_char=29
 
 1	要是	要是	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
@@ -1439,24 +1433,23 @@
 8	符号	符号	NN	NN	_	2	dobj	_	start_char=16|end_char=18
 9	。	。	PU	PU	_	2	punct	_	start_char=19|end_char=20
 
-1	7	7	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	而	而	AD	AD	_	11	advmod	_	start_char=0|end_char=1
-2	如果	如果	CS	CS	_	7	advmod	_	start_char=2|end_char=4
-3	对方	对方	PN	PN	_	7	nsubj	_	start_char=5|end_char=7
-4	显得	显得	VV	VV	_	7	dep	_	start_char=8|end_char=10
-5	不	不	AD	AD	_	7	neg	_	start_char=11|end_char=12
-6	怎么	怎么	AD	AD	_	7	advmod	_	start_char=13|end_char=15
-7	积极	积极	VA	VA	_	11	dep	_	start_char=16|end_char=18
-8	，	，	PU	PU	_	11	punct	_	start_char=19|end_char=20
-9	那么	那么	AD	AD	_	11	advmod	_	start_char=21|end_char=23
-10	就	就	AD	AD	_	11	advmod	_	start_char=24|end_char=25
-11	知趣	知趣	VV	VV	_	16	dep	_	start_char=26|end_char=28
-12	点	点	M	M	_	11	dep	_	start_char=29|end_char=30
-13	及时	及时	AD	AD	_	14	advmod	_	start_char=31|end_char=33
-14	收手	收手	VV	VV	_	11	conj	_	start_char=34|end_char=36
-15	吧	吧	SP	SP	_	16	discourse	_	start_char=37|end_char=38
-16	。	。	PU	PU	_	0	root	_	start_char=39|end_char=40
+1	7	7	CD	CD	_	12	dep	_	start_char=0|end_char=1
+2	而	而	AD	AD	_	12	advmod	_	start_char=2|end_char=3
+3	如果	如果	CS	CS	_	8	advmod	_	start_char=4|end_char=6
+4	对方	对方	PN	PN	_	8	nsubj	_	start_char=7|end_char=9
+5	显得	显得	VV	VV	_	8	dep	_	start_char=10|end_char=12
+6	不	不	AD	AD	_	8	neg	_	start_char=13|end_char=14
+7	怎么	怎么	AD	AD	_	8	advmod	_	start_char=15|end_char=17
+8	积极	积极	VA	VA	_	12	dep	_	start_char=18|end_char=20
+9	，	，	PU	PU	_	12	punct	_	start_char=21|end_char=22
+10	那么	那么	AD	AD	_	12	advmod	_	start_char=23|end_char=25
+11	就	就	AD	AD	_	12	advmod	_	start_char=26|end_char=27
+12	知趣	知趣	VV	VV	_	17	dep	_	start_char=28|end_char=30
+13	点	点	M	M	_	12	dep	_	start_char=31|end_char=32
+14	及时	及时	AD	AD	_	15	advmod	_	start_char=33|end_char=35
+15	收手	收手	VV	VV	_	12	conj	_	start_char=36|end_char=38
+16	吧	吧	SP	SP	_	17	discourse	_	start_char=39|end_char=40
+17	。	。	PU	PU	_	0	root	_	start_char=41|end_char=42
 
 1	不论	不论	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	7	cop	_	start_char=3|end_char=4
@@ -1630,18 +1623,17 @@
 48	。	。	PU	PU	_	2	punct	_	start_char=109|end_char=110
 49	”	”	PU	PU	_	2	punct	_	start_char=111|end_char=112
 
-1	8	8	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	记得	记得	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	做	做	VV	VV	_	1	ccomp	_	start_char=3|end_char=4
-3	先	先	AD	AD	_	4	advmod	_	start_char=5|end_char=6
-4	结束	结束	VV	VV	_	9	acl	_	start_char=7|end_char=9
-5	对话	对话	NN	NN	_	4	dobj	_	start_char=10|end_char=12
-6	的	的	DEC	DEC	_	4	mark	_	start_char=13|end_char=14
-7	那	那	DT	DT	_	9	det	_	start_char=15|end_char=16
-8	个	个	M	M	_	7	mark:clf	_	start_char=17|end_char=18
-9	人	人	NN	NN	_	2	dobj	_	start_char=19|end_char=20
-10	。	。	PU	PU	_	1	punct	_	start_char=21|end_char=22
+1	8	8	CD	CD	_	2	nsubj	_	start_char=0|end_char=1
+2	记得	记得	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	做	做	VV	VV	_	2	ccomp	_	start_char=5|end_char=6
+4	先	先	AD	AD	_	5	advmod	_	start_char=7|end_char=8
+5	结束	结束	VV	VV	_	10	acl	_	start_char=9|end_char=11
+6	对话	对话	NN	NN	_	5	dobj	_	start_char=12|end_char=14
+7	的	的	DEC	DEC	_	5	mark	_	start_char=15|end_char=16
+8	那	那	DT	DT	_	10	det	_	start_char=17|end_char=18
+9	个	个	M	M	_	8	mark:clf	_	start_char=19|end_char=20
+10	人	人	NN	NN	_	2	dobj	_	start_char=21|end_char=22
+11	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
 
 1	在线	在线	VV	VV	_	2	compound:vc	_	start_char=0|end_char=2
 2	调情	调情	VV	VV	_	7	acl	_	start_char=3|end_char=5
@@ -1815,15 +1807,14 @@
 3	做	做	VV	VV	_	0	root	_	start_char=4|end_char=5
 4	什么	什么	PN	PN	_	3	dobj	_	start_char=6|end_char=8
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	不	不	AD	AD	_	3	neg	_	start_char=0|end_char=1
-2	要	要	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
-3	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
-4	妄自菲薄	妄自菲薄	VV	VV	_	6	acl	_	start_char=6|end_char=10
-5	的	的	DEC	DEC	_	4	mark	_	start_char=11|end_char=12
-6	话	话	NN	NN	_	3	dobj	_	start_char=13|end_char=14
-7	。	。	PU	PU	_	3	punct	_	start_char=15|end_char=16
+1	1	1	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	不	不	AD	AD	_	4	neg	_	start_char=2|end_char=3
+3	要	要	VV	VV	_	4	xcomp	_	start_char=4|end_char=5
+4	说	说	VV	VV	_	0	root	_	start_char=6|end_char=7
+5	妄自菲薄	妄自菲薄	VV	VV	_	7	acl	_	start_char=8|end_char=12
+6	的	的	DEC	DEC	_	5	mark	_	start_char=13|end_char=14
+7	话	话	NN	NN	_	4	dobj	_	start_char=15|end_char=16
+8	。	。	PU	PU	_	4	punct	_	start_char=17|end_char=18
 
 1	自信	自信	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	4	cop	_	start_char=3|end_char=4
@@ -1950,13 +1941,12 @@
 11	避免	避免	VV	VV	_	0	root	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	11	punct	_	start_char=29|end_char=30
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	不	不	AD	AD	_	4	neg	_	start_char=0|end_char=1
-2	要	要	VV	VV	_	4	xcomp	_	start_char=2|end_char=3
-3	过于	过于	AD	AD	_	4	advmod	_	start_char=4|end_char=6
-4	殷勤	殷勤	VA	VA	_	0	root	_	start_char=7|end_char=9
-5	。	。	PU	PU	_	4	punct	_	start_char=10|end_char=11
+1	2	2	CD	CD	_	5	dep	_	start_char=0|end_char=1
+2	不	不	AD	AD	_	5	neg	_	start_char=2|end_char=3
+3	要	要	VV	VV	_	5	xcomp	_	start_char=4|end_char=5
+4	过于	过于	AD	AD	_	5	advmod	_	start_char=6|end_char=8
+5	殷勤	殷勤	VA	VA	_	0	root	_	start_char=9|end_char=11
+6	。	。	PU	PU	_	5	punct	_	start_char=12|end_char=13
 
 1	调情	调情	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	重	重	VA	VA	_	0	root	_	start_char=3|end_char=4

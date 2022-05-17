@@ -176,7 +176,7 @@
 		<segment id="138" parent="315" relname="span">薪资 争议 也 引起 政界 注意 。</segment>
 		<segment id="139" parent="297" relname="joint-list">纽约州 的 华裔 联邦 众议员 孟昭文 上 星期 发表 声明</segment>
 		<segment id="140" parent="297" relname="joint-list">说 ，</segment>
-		<segment id="141" parent="299" relname="same-unit">两 名 亚裔 演员 的 片酬 少 于</segment>
+		<segment id="141" parent="299" relname="same-unit">两 名 亚裔 演员 的 片酬 少于</segment>
 		<segment id="142" parent="143" relname="elaboration-attribute">共同 演出 的</segment>
 		<segment id="143" parent="298" relname="span">白人 演员 ， 表明</segment>
 		<segment id="144" parent="145" relname="elaboration-attribute">好莱坞 的 种族 不 平等 的</segment>

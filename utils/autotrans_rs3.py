@@ -5,7 +5,7 @@ from time import time
 from deep_translator import GoogleTranslator
 translator = GoogleTranslator(source='zh-CN', target='en')
 
-from utils import read_lines_file, get_basename, write_lines_file, get_file_modified_time
+from utils import read_text_file, get_basename, write_lines_file, get_file_modified_time
 
 def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	# prepare directory and file
@@ -25,7 +25,7 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	
 	# read and translate rs3 lines
 	print("o Start translating file: ", basename)
-	rs3_lines = read_lines_file(rs3_file)
+	rs3_lines = read_text_file(rs3_file)
 	edus = []
 	for line_id, line in enumerate(rs3_lines):
 		if "<segment" in line:

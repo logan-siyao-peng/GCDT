@@ -124,13 +124,12 @@
 1	炉灶	炉灶	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	烹制	烹制	VV	VV	_	0	root	_	start_char=3|end_char=5
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	用	用	P	P	_	2	case	_	start_char=0|end_char=1
-2	水	水	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=3
-3	清洗	清洗	VV	VV	_	0	root	_	start_char=4|end_char=6
-4	藜麦	藜麦	NR	NR	_	3	dobj	_	start_char=7|end_char=9
-5	。	。	PU	PU	_	3	punct	_	start_char=10|end_char=11
+1	1	1	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	用	用	P	P	_	3	case	_	start_char=2|end_char=3
+3	水	水	NN	NN	_	4	nmod:prep	_	start_char=4|end_char=5
+4	清洗	清洗	VV	VV	_	0	root	_	start_char=6|end_char=8
+5	藜麦	藜麦	NR	NR	_	4	dobj	_	start_char=9|end_char=11
+6	。	。	PU	PU	_	4	punct	_	start_char=12|end_char=13
 
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
@@ -199,17 +198,16 @@
 29	苦涩味	苦涩味	NN	NN	_	28	dobj	_	start_char=70|end_char=73
 30	。	。	PU	PU	_	5	punct	_	start_char=74|end_char=75
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
-2	平底锅	平底锅	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=5
-3	中	中	LC	LC	_	2	case	_	start_char=6|end_char=7
-4	烘烤	烘烤	VV	VV	_	0	root	_	start_char=8|end_char=10
-5	藜麦	藜麦	NR	NR	_	4	dobj	_	start_char=11|end_char=13
-6	（	（	PU	PU	_	7	punct	_	start_char=14|end_char=15
-7	自选	自选	VV	VV	_	4	dep	_	start_char=16|end_char=18
-8	）	）	PU	PU	_	7	punct	_	start_char=19|end_char=20
-9	。	。	PU	PU	_	4	punct	_	start_char=21|end_char=22
+1	2	2	CD	CD	_	5	dep	_	start_char=0|end_char=1
+2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
+3	平底锅	平底锅	NN	NN	_	5	nmod:prep	_	start_char=4|end_char=7
+4	中	中	LC	LC	_	3	case	_	start_char=8|end_char=9
+5	烘烤	烘烤	VV	VV	_	0	root	_	start_char=10|end_char=12
+6	藜麦	藜麦	NR	NR	_	5	dobj	_	start_char=13|end_char=15
+7	（	（	PU	PU	_	8	punct	_	start_char=16|end_char=17
+8	自选	自选	VV	VV	_	5	dep	_	start_char=18|end_char=20
+9	）	）	PU	PU	_	8	punct	_	start_char=21|end_char=22
+10	。	。	PU	PU	_	5	punct	_	start_char=23|end_char=24
 
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	平底锅	平底锅	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=5
@@ -235,18 +233,16 @@
 2	会	会	VV	VV	_	3	aux:modal	_	start_char=2|end_char=3
 3	带出	带出	VV	VV	_	0	root	_	start_char=4|end_char=6
 4	藜麦	藜麦	NR	NR	_	5	nsubj	_	start_char=7|end_char=9
-5	类似	类似	VV	VV	_	9	acl	_	start_char=10|end_char=12
-6	于	于	P	P	_	7	case	_	start_char=13|end_char=14
-7	坚果	坚果	NN	NN	_	5	nmod:prep	_	start_char=15|end_char=17
-8	的	的	DEC	DEC	_	5	mark	_	start_char=18|end_char=19
-9	味道	味道	NN	NN	_	3	dobj	_	start_char=20|end_char=22
-10	。	。	PU	PU	_	3	punct	_	start_char=23|end_char=24
+5	类似于	类似于	VV	VV	_	8	acl	_	start_char=10|end_char=13
+6	坚果	坚果	NN	NN	_	5	dobj	_	start_char=14|end_char=16
+7	的	的	DEC	DEC	_	5	mark	_	start_char=17|end_char=18
+8	味道	味道	NN	NN	_	3	dobj	_	start_char=19|end_char=21
+9	。	。	PU	PU	_	3	punct	_	start_char=22|end_char=23
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	煮	煮	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	藜麦	藜麦	NR	NR	_	1	dobj	_	start_char=2|end_char=4
-3	。	。	PU	PU	_	1	punct	_	start_char=5|end_char=6
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	煮	煮	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	藜麦	藜麦	NR	NR	_	2	dobj	_	start_char=4|end_char=6
+4	。	。	PU	PU	_	2	punct	_	start_char=7|end_char=8
 
 1	将	将	BA	BA	_	7	aux:ba	_	start_char=0|end_char=1
 2	两	两	CD	CD	_	6	nummod	_	start_char=2|end_char=3
@@ -301,11 +297,10 @@
 6	有	有	VE	VE	_	2	ccomp	_	start_char=14|end_char=15
 7	嚼劲	嚼劲	NN	NN	_	6	dobj	_	start_char=16|end_char=18
 8	，	，	PU	PU	_	2	punct	_	start_char=19|end_char=20
-9	类似	类似	VV	VV	_	12	dep	_	start_char=21|end_char=23
-10	于	于	P	P	_	11	case	_	start_char=24|end_char=25
-11	面食	面食	NN	NN	_	9	nmod:prep	_	start_char=26|end_char=28
-12	一样	一样	VA	VA	_	2	conj	_	start_char=29|end_char=31
-13	。	。	PU	PU	_	2	punct	_	start_char=32|end_char=33
+9	类似于	类似于	VV	VV	_	11	dep	_	start_char=21|end_char=24
+10	面食	面食	NN	NN	_	9	dobj	_	start_char=25|end_char=27
+11	一样	一样	VA	VA	_	2	ccomp	_	start_char=28|end_char=30
+12	。	。	PU	PU	_	2	punct	_	start_char=31|end_char=32
 
 1	当	当	P	P	_	5	case	_	start_char=0|end_char=1
 2	你	你	PN	PN	_	5	nsubj	_	start_char=2|end_char=3
@@ -322,19 +317,18 @@
 13	一会	一会	NN	NN	_	12	dobj	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	12	punct	_	start_char=32|end_char=33
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	将	将	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
-2	锅	锅	NN	NN	_	3	dep	_	start_char=2|end_char=3
-3	拿离	拿离	VV	VV	_	0	root	_	start_char=4|end_char=6
-4	灶台	灶台	NN	NN	_	3	dobj	_	start_char=7|end_char=9
-5	，	，	PU	PU	_	3	punct	_	start_char=10|end_char=11
-6	盖上	盖上	VV	VV	_	3	conj	_	start_char=12|end_char=14
-7	锅盖	锅盖	NN	NN	_	6	dobj	_	start_char=15|end_char=17
-8	放置	放置	VV	VV	_	3	conj	_	start_char=18|end_char=20
-9	5	5	CD	CD	_	8	nmod:range	_	start_char=21|end_char=22
-10	分钟	分钟	M	M	_	9	mark:clf	_	start_char=23|end_char=25
-11	。	。	PU	PU	_	3	punct	_	start_char=26|end_char=27
+1	4	4	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	将	将	BA	BA	_	4	aux:ba	_	start_char=2|end_char=3
+3	锅	锅	NN	NN	_	4	dep	_	start_char=4|end_char=5
+4	拿离	拿离	VV	VV	_	0	root	_	start_char=6|end_char=8
+5	灶台	灶台	NN	NN	_	4	dobj	_	start_char=9|end_char=11
+6	，	，	PU	PU	_	4	punct	_	start_char=12|end_char=13
+7	盖上	盖上	VV	VV	_	4	conj	_	start_char=14|end_char=16
+8	锅盖	锅盖	NN	NN	_	7	dobj	_	start_char=17|end_char=19
+9	放置	放置	VV	VV	_	4	conj	_	start_char=20|end_char=22
+10	5	5	CD	CD	_	9	nmod:range	_	start_char=23|end_char=24
+11	分钟	分钟	M	M	_	10	mark:clf	_	start_char=25|end_char=27
+12	。	。	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	藜麦	藜麦	NR	NR	_	1	dobj	_	start_char=2|end_char=4
@@ -347,16 +341,15 @@
 9	水分	水分	NN	NN	_	4	dobj	_	start_char=22|end_char=24
 10	。	。	PU	PU	_	1	punct	_	start_char=25|end_char=26
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	掀开	掀开	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	锅盖	锅盖	NN	NN	_	1	dobj	_	start_char=3|end_char=5
-3	，	，	PU	PU	_	1	punct	_	start_char=6|end_char=7
-4	用	用	P	P	_	5	case	_	start_char=8|end_char=9
-5	叉子	叉子	NN	NN	_	6	nmod:prep	_	start_char=10|end_char=12
-6	抖松	抖松	VV	VV	_	1	conj	_	start_char=13|end_char=15
-7	藜麦	藜麦	NR	NR	_	6	dobj	_	start_char=16|end_char=18
-8	。	。	PU	PU	_	1	punct	_	start_char=19|end_char=20
+1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	掀开	掀开	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	锅盖	锅盖	NN	NN	_	2	dobj	_	start_char=5|end_char=7
+4	，	，	PU	PU	_	2	punct	_	start_char=8|end_char=9
+5	用	用	P	P	_	6	case	_	start_char=10|end_char=11
+6	叉子	叉子	NN	NN	_	7	nmod:prep	_	start_char=12|end_char=14
+7	抖松	抖松	VV	VV	_	2	conj	_	start_char=15|end_char=17
+8	藜麦	藜麦	NR	NR	_	7	dobj	_	start_char=18|end_char=20
+9	。	。	PU	PU	_	2	punct	_	start_char=21|end_char=22
 
 1	藜麦	藜麦	NR	NR	_	4	nsubj	_	start_char=0|end_char=2
 2	应该	应该	VV	VV	_	4	aux:modal	_	start_char=3|end_char=5
@@ -375,10 +368,9 @@
 15	了	了	SP	SP	_	14	discourse	_	start_char=40|end_char=41
 16	。	。	PU	PU	_	4	punct	_	start_char=42|end_char=43
 
-1	6	6	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	享用	享用	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
+1	6	6	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	享用	享用	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	。	。	PU	PU	_	2	punct	_	start_char=5|end_char=6
 
 1	刚	刚	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	煮好	煮好	VV	VV	_	4	acl	_	start_char=2|end_char=4
@@ -435,20 +427,19 @@
 1	电饭锅	电饭锅	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	烹制	烹制	VV	VV	_	0	root	_	start_char=4|end_char=6
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	将	将	BA	BA	_	11	aux:ba	_	start_char=0|end_char=1
-2	一	一	CD	CD	_	7	nummod	_	start_char=2|end_char=3
-3	杯	杯	M	M	_	2	mark:clf	_	start_char=4|end_char=5
-4	藜麦	藜麦	NR	NR	_	5	nsubj	_	start_char=6|end_char=8
-5	倒入	倒入	VV	VV	_	7	acl	_	start_char=9|end_char=11
-6	细	细	JJ	JJ	_	7	amod	_	start_char=12|end_char=13
-7	网筛	网筛	NN	NN	_	11	advmod:loc	_	start_char=14|end_char=16
-8	中	中	LC	LC	_	7	case	_	start_char=17|end_char=18
-9	用	用	P	P	_	10	case	_	start_char=19|end_char=20
-10	冷水	冷水	NN	NN	_	11	nmod:prep	_	start_char=21|end_char=23
-11	清洗	清洗	VV	VV	_	0	root	_	start_char=24|end_char=26
-12	。	。	PU	PU	_	11	punct	_	start_char=27|end_char=28
+1	1	1	CD	CD	_	12	dep	_	start_char=0|end_char=1
+2	将	将	BA	BA	_	12	aux:ba	_	start_char=2|end_char=3
+3	一	一	CD	CD	_	8	nummod	_	start_char=4|end_char=5
+4	杯	杯	M	M	_	3	mark:clf	_	start_char=6|end_char=7
+5	藜麦	藜麦	NR	NR	_	6	nsubj	_	start_char=8|end_char=10
+6	倒入	倒入	VV	VV	_	8	acl	_	start_char=11|end_char=13
+7	细	细	JJ	JJ	_	8	amod	_	start_char=14|end_char=15
+8	网筛	网筛	NN	NN	_	12	advmod:loc	_	start_char=16|end_char=18
+9	中	中	LC	LC	_	8	case	_	start_char=19|end_char=20
+10	用	用	P	P	_	11	case	_	start_char=21|end_char=22
+11	冷水	冷水	NN	NN	_	12	nmod:prep	_	start_char=23|end_char=25
+12	清洗	清洗	VV	VV	_	0	root	_	start_char=26|end_char=28
+13	。	。	PU	PU	_	12	punct	_	start_char=29|end_char=30
 
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
@@ -477,13 +468,12 @@
 25	好	好	VA	VA	_	14	conj	_	start_char=58|end_char=59
 26	。	。	PU	PU	_	14	punct	_	start_char=60|end_char=61
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	将	将	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
-2	藜麦	藜麦	NR	NR	_	3	dep	_	start_char=2|end_char=4
-3	倒入	倒入	VV	VV	_	0	root	_	start_char=5|end_char=7
-4	电饭锅	电饭锅	NN	NN	_	3	dobj	_	start_char=8|end_char=11
-5	。	。	PU	PU	_	3	punct	_	start_char=12|end_char=13
+1	2	2	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	将	将	BA	BA	_	4	aux:ba	_	start_char=2|end_char=3
+3	藜麦	藜麦	NR	NR	_	4	dep	_	start_char=4|end_char=6
+4	倒入	倒入	VV	VV	_	0	root	_	start_char=7|end_char=9
+5	电饭锅	电饭锅	NN	NN	_	4	dobj	_	start_char=10|end_char=13
+6	。	。	PU	PU	_	4	punct	_	start_char=14|end_char=15
 
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	放入	放入	VV	VV	_	10	nmod:prep	_	start_char=2|end_char=4
@@ -506,17 +496,16 @@
 19	二	二	CD	CD	_	10	dep	_	start_char=46|end_char=47
 20	。	。	PU	PU	_	10	punct	_	start_char=48|end_char=49
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	倒入	倒入	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	两	两	CD	CD	_	4	nummod	_	start_char=3|end_char=4
-3	杯	杯	M	M	_	2	mark:clf	_	start_char=5|end_char=6
-4	水	水	NN	NN	_	8	conj	_	start_char=7|end_char=8
-5	和	和	CC	CC	_	8	cc	_	start_char=9|end_char=10
-6	1/2	1/2	CD	CD	_	7	dep	_	start_char=11|end_char=14
-7	茶匙	茶匙	NN	NN	_	8	compound:nn	_	start_char=15|end_char=17
-8	盐	盐	NN	NN	_	1	dobj	_	start_char=18|end_char=19
-9	。	。	PU	PU	_	1	punct	_	start_char=20|end_char=21
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	倒入	倒入	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	两	两	CD	CD	_	5	nummod	_	start_char=5|end_char=6
+4	杯	杯	M	M	_	3	mark:clf	_	start_char=7|end_char=8
+5	水	水	NN	NN	_	9	conj	_	start_char=9|end_char=10
+6	和	和	CC	CC	_	9	cc	_	start_char=11|end_char=12
+7	1/2	1/2	CD	CD	_	8	dep	_	start_char=13|end_char=16
+8	茶匙	茶匙	NN	NN	_	9	compound:nn	_	start_char=17|end_char=19
+9	盐	盐	NN	NN	_	2	dobj	_	start_char=20|end_char=21
+10	。	。	PU	PU	_	2	punct	_	start_char=22|end_char=23
 
 1	水	水	NN	NN	_	7	conj	_	start_char=0|end_char=1
 2	、	、	PU	PU	_	7	punct	_	start_char=2|end_char=3
@@ -529,13 +518,12 @@
 9	可以	可以	VA	VA	_	0	root	_	start_char=19|end_char=21
 10	。	。	PU	PU	_	9	punct	_	start_char=22|end_char=23
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	煮	煮	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	大概	大概	AD	AD	_	3	advmod	_	start_char=2|end_char=4
-3	15	15	CD	CD	_	1	nmod:range	_	start_char=5|end_char=7
-4	分钟	分钟	M	M	_	3	mark:clf	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	1	punct	_	start_char=11|end_char=12
+1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	煮	煮	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	大概	大概	AD	AD	_	4	advmod	_	start_char=4|end_char=6
+4	15	15	CD	CD	_	2	nmod:range	_	start_char=7|end_char=9
+5	分钟	分钟	M	M	_	4	mark:clf	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
 1	一些	一些	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	电饭锅	电饭锅	NN	NN	_	3	dep	_	start_char=3|end_char=6
@@ -574,13 +562,12 @@
 15	选项	选项	NN	NN	_	11	dobj	_	start_char=34|end_char=36
 16	。	。	PU	PU	_	11	punct	_	start_char=37|end_char=38
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	放置	放置	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	5	5	CD	CD	_	1	advmod:loc	_	start_char=3|end_char=4
-3	分钟	分钟	M	M	_	2	mark:clf	_	start_char=5|end_char=7
-4	左右	左右	LC	LC	_	2	case	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	1	punct	_	start_char=11|end_char=12
+1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	放置	放置	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	5	5	CD	CD	_	2	advmod:loc	_	start_char=5|end_char=6
+4	分钟	分钟	M	M	_	3	mark:clf	_	start_char=7|end_char=9
+5	左右	左右	LC	LC	_	3	case	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
 1	用	用	P	P	_	2	case	_	start_char=0|end_char=1
 2	叉子	叉子	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4

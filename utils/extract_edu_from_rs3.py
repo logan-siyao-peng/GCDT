@@ -2,17 +2,17 @@ import io, re, os
 import argparse
 from glob import glob
 
-from utils import read_lines_file, get_basename, write_lines_file, get_file_modified_time
+from utils import read_text_file, get_basename, write_lines_file, get_file_modified_time
 
 def extract_edus_from_rs3(rs3_file, extracted_edu_file=None):
-	rs3_lines = read_lines_file(rs3_file)
+	rs3_lines = read_text_file(rs3_file)
 	edus = []
 	for line in rs3_lines:
 		if "<segment" in line:
 			m = re.search(r'<segment id="([^"]+)"[^>]*>(.*?)</segment>', line)
 			if m is not None:
 				edus.append((int(m.group(1)), m.group(2).strip()))
-	edus = [x[1] for x in sorted(edus, key=lambda x: x[0])]
+	edus = [x[1].replace("&amp;", "&") for x in sorted(edus, key=lambda x: x[0])]
 	write_lines_file(edus, extracted_edu_file)
 	print("o Done extracting file: ", basename)
 
@@ -45,8 +45,8 @@ if __name__ == '__main__':
 			extracted_edu_modified_time = get_file_modified_time(extracted_edu_file)
 			original_modified_time = get_file_modified_time(rs3_file)
 			if extracted_edu_modified_time > original_modified_time:
-				print("o Skipping %s since extracted edu file (%f) is newer than original (%f)"
-				      % (basename, extracted_edu_modified_time, original_modified_time))
+				# print("o Skipping %s since extracted edu file (%f) is newer than original (%f)"
+				#       % (basename, extracted_edu_modified_time, original_modified_time))
 				continue
 		
 		extract_edus_from_rs3(rs3_file, extracted_edu_file=extracted_edu_file)

@@ -101,7 +101,7 @@
 		<segment id="63" parent="265" relname="attribution-positive">在 马克思 看来 ， // According to Marx,</segment>
 		<segment id="64" parent="264" relname="same-unit">以往 的 全部 哲学家 ， // All the philosophers of the past,</segment>
 		<segment id="65" parent="66" relname="organization-phatic">可以 说 // It can be said</segment>
-		<segment id="66" parent="263" relname="span">都 在 不 自觉 的 以 形 而 上 的 思维 方式 把 人 拆零 ， // They are all subconsciously dismantling people in metaphysical ways of thinking.</segment>
+		<segment id="66" parent="263" relname="span">都 在 不 自觉 的 以 形而 上 的 思维 方式 把 人 拆零 ， // They are all subconsciously dismantling people in metaphysical ways of thinking.</segment>
 		<segment id="67" parent="265" relname="joint-list">从 不同 的 方面 去 规定 人 的 本质 。 // To define the essence of man from different aspects.</segment>
 		<segment id="68" parent="268" relname="span">18 世纪 的 唯物论者们 把 “ 自保 ， 自爱 ， 趋利 ， 避害 ” 看作 是 人 的 本质 特点 ， // The materialists in the 18th century regarded "self-protection, self-love, pursuit of profit and avoidance of harm" as the essential characteristics of human beings.</segment>
 		<segment id="69" parent="267" relname="joint-list">人 是 纯粹 的 自然 存在物 ， // Man is a pure natural being ,</segment>

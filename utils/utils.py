@@ -2,14 +2,15 @@ import io, re, os
 
 def read_text_file(text_file):
 	"""
-	Include .txt, .edu files (raw, tokenized, and edu)
+	Include .txt, .edu files (raw, token, and edu)
 	:param text_file:
 	:return:
 	"""
 	with io.open(text_file, "r", encoding="utf8") as f_text:
 		text_lines = f_text.read().strip().split("\n")
-	text_lines = [x for x in text_lines if not x.startswith("<") or not re.match(r"^\s*$", x)]
+	text_lines = [x for x in text_lines if not x.startswith("<") and not re.match(r"^\s*$", x)]
 	return text_lines
+	
 
 def write_parsed_file(output_parse, parsed_file):
 	with io.open(parsed_file, "w", encoding="utf8") as f_parsed:
@@ -25,17 +26,6 @@ def write_lines_file(output_lines, lines_file):
 	with io.open(lines_file, "w", encoding="utf8") as f_lines:
 		f_lines.write("\n".join(output_lines) + "\n")
 
-
-def read_lines_file(lines_file):
-	"""
-	Code partially borrowed from: https://github.com/amir-zeldes/gum/blob/dev/_build/utils/rst2dis.py
-	:param rs3_file:
-	:return:
-	"""
-	with io.open(lines_file, "r", encoding="utf8") as f_lines:
-		input_lines = f_lines.read().strip().split("\n")
-	return input_lines
-
 def get_basename(filepath):
 	return os.path.splitext(os.path.basename(filepath))[0]
 
@@ -44,3 +34,11 @@ def string_no_space(string):
 
 def get_file_modified_time(filepath):
 	return os.path.getctime(filepath)
+
+def get_rel_name(line):
+	relname = re.findall(r"relname=\"([^\"]+)\"", line)
+	assert len(relname) <= 1
+	return None if len(relname)==0 else relname[0]
+
+def substring_of_some_item(s, l):
+	return any(s in x for x in l)

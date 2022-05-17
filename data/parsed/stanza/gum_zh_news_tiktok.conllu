@@ -274,10 +274,9 @@
 21	这些	这些	DT	DT	_	22	det	_	start_char=57|end_char=59
 22	修订	修订	NN	NN	_	24	nsubj	_	start_char=60|end_char=62
 23	都	都	AD	AD	_	24	advmod	_	start_char=63|end_char=64
-24	适用	适用	VV	VV	_	19	ccomp	_	start_char=65|end_char=67
-25	于	于	P	P	_	26	case	_	start_char=68|end_char=69
-26	TikTok	TikTok	NR	NR	_	24	nmod:prep	_	start_char=70|end_char=76
-27	。	。	PU	PU	_	8	punct	_	start_char=77|end_char=78
+24	适用于	适用于	VV	VV	_	19	ccomp	_	start_char=65|end_char=68
+25	TikTok	TikTok	NR	NR	_	24	dobj	_	start_char=69|end_char=75
+26	。	。	PU	PU	_	8	punct	_	start_char=76|end_char=77
 
 1	报道	报道	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	援引	援引	VV	VV	_	0	root	_	start_char=3|end_char=5

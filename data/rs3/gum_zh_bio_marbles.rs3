@@ -54,7 +54,7 @@
 		<segment id="16" parent="157" relname="span">女性 频道</segment>
 		<segment id="17" parent="156" relname="explanation-evidence">[ 6 ] 。</segment>
 		<segment id="18" parent="176" relname="organization-heading">早年 生活</segment>
-		<segment id="19" parent="161" relname="joint-list">穆雷 于 1986年 9月 15日 出生于 罗彻斯特 ，</segment>
+		<segment id="19" parent="161" relname="joint-list">穆雷 于 1986年 9月 15日 出生 于 罗彻斯特 ，</segment>
 		<segment id="20" parent="161" relname="joint-list">并 在 该 处 长大 ，</segment>
 		<segment id="21" parent="164" relname="joint-list">她 父亲 是 一 位 化学家 ，</segment>
 		<segment id="22" parent="162" relname="span">母亲 狄波拉</segment>

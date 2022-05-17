@@ -1,4 +1,3 @@
-<rst>
 	<header>
 		<relations>
 			<rel name="adversative-antithesis" type="rst"/>
@@ -49,7 +48,7 @@
 		<segment id="11" parent="249" relname="span">“ 道 以 无有 为 体 ” // "The Tao is based on non-being"</segment>
 		<segment id="12" parent="11" relname="explanation-evidence">( 《 文子·上德 》 ) 。 // ("Wenzi Shangde").</segment>
 		<segment id="13" parent="278" relname="span">而 这 个 无 、 这 个 非 存在 的 本体 之 道 却 又 是 确确实实 地 存在 着 。 // And this non-existence, this non-existent ontological way actually exists.</segment>
-		<segment id="14" parent="252" relname="joint-list">它 先于 鬼 神 、 // It precedes ghosts,</segment>
+		<segment id="14" parent="252" relname="joint-list">它 先于 鬼神 、 // It precedes ghosts,</segment>
 		<segment id="15" parent="252" relname="joint-list">先于 上帝 ， // before God,</segment>
 		<segment id="16" parent="252" relname="joint-list">是 天地 之 根 、 万物 之 祖 。 // It is the root of heaven and earth and the ancestor of all things.</segment>
 		<segment id="17" parent="279" relname="span">万事 万物 都 是 由 道 生化 出来 的 。 // All things are created by Tao.</segment>
@@ -111,7 +110,7 @@
 		<segment id="73" parent="294" relname="joint-list">包含 着 阴阳 二 气 ， // Contains the yin and yang qi,</segment>
 		<segment id="74" parent="294" relname="joint-list">包含 着 和气 ， // contains peace,</segment>
 		<segment id="75" parent="295" relname="joint-list">每 个 事物 自身 都 是 和谐 的 ， // Everything is in harmony in itself,</segment>
-		<segment id="76" parent="295" relname="joint-list">每 个 事物 和 其他 事物 都 是 平等 的 ， // Every thing and everything else is equal,</segment>
+		<segment id="76" parent="295" relname="joint-list">每 个 事物 和 其他 事物 都 是 平等 的 ， // every thing and everything else is equal,</segment>
 		<segment id="77" parent="295" relname="joint-list">每 个 事物 之间 都 有 交感 的 关系 。 // There is a sympathetic relationship between everything.</segment>
 		<segment id="78" parent="344" relname="same-unit">具体 地 说 ， 这 种 // Specifically, this</segment>
 		<segment id="79" parent="80" relname="elaboration-attribute">道 生 万物 的 // Tao produces all things</segment>
@@ -231,7 +230,7 @@
 		<segment id="193" parent="194" relname="causal-cause">因 内部 都 含有 道 // Because the inside contains the Tao</segment>
 		<segment id="194" parent="401" relname="span">而 相互 之间 会 有 交感 关系 。 // And there will be a sympathetic relationship between them.</segment>
 		<segment id="195" parent="403" relname="joint-list">这 种 交感 关系 最 能 体现 物 与 物 之间 的 和谐美 ， // This sympathetic relationship can best reflect the beauty of harmony between objects.</segment>
-		<segment id="196" parent="403" relname="joint-list">最能 体现 自然 生态美 。 // It can best reflect the natural ecological beauty .</segment>
+		<segment id="196" parent="403" relname="joint-list">最能 体现 自然 生态美 。 // It can best reflect the beauty of natural ecology .</segment>
 		<segment id="197" parent="198" relname="context-background">总之 ， 道 生出 万物 之后 ， // In short, after the Tao gave birth to all things,</segment>
 		<segment id="198" parent="408" relname="span">万物 及 整个 世界 就 像 一 张 天网 。 // All things and the whole world are like a skynet.</segment>
 		<segment id="199" parent="406" relname="joint-list">每 个 事物 都 像 天网 上 的 一 个 纽结 ， // Everything is like a knot in Skynet,</segment>
@@ -261,7 +260,7 @@
 		<segment id="223" parent="224" relname="elaboration-attribute">归根 复命 之 // return to the root</segment>
 		<segment id="224" parent="423" relname="span">状 ， // state,</segment>
 		<segment id="225" parent="427" relname="same-unit">并且 // and</segment>
-		<segment id="226" parent="227" relname="context-circumstance">在 自我 的 归根 复命 中 ， // In the return of self,</segment>
+		<segment id="226" parent="227" relname="context-circumstance">在 自我 的 归根 复命 中 ， // In the return of the self,</segment>
 		<segment id="227" parent="426" relname="span">使 自己 与 道 融 为 一体 。 // Make yourself one with the Tao.</segment>
 		<segment id="228" parent="429" relname="same-unit">这 是 一 种 // This is a</segment>
 		<segment id="229" parent="230" relname="elaboration-attribute">意味 悠长 的 // means long</segment>
@@ -482,4 +481,3 @@
 		<group id="464" type="span" parent="463" relname="span"/>
 		<group id="465" type="span" parent="464" relname="span"/>
 	</body>
-</rst>Set-Cookie: userid=h____-st_YmY-eFcdlFDYahnVY6XQNYm1nBXcNxzxZt8iXh21uXnc47yZbDs8zeNhnNaaAfwoakdFDczz_CaxAPFm4kiA

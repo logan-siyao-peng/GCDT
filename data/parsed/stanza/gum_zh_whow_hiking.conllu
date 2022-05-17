@@ -31,29 +31,28 @@
 8	肩头	肩头	NN	NN	_	4	nmod:prep	_	start_char=17|end_char=19
 9	，	，	PU	PU	_	4	punct	_	start_char=20|end_char=21
 10	你	你	PN	PN	_	11	nsubj	_	start_char=22|end_char=23
-11	置身	置身	VV	VV	_	4	conj	_	start_char=24|end_char=26
-12	于	于	P	P	_	13	case	_	start_char=27|end_char=28
-13	大自然	大自然	NN	NN	_	11	nmod:prep	_	start_char=29|end_char=32
-14	之中	之中	LC	LC	_	13	case	_	start_char=33|end_char=35
-15	，	，	PU	PU	_	4	punct	_	start_char=36|end_char=37
-16	眼前	眼前	NN	NN	_	18	nsubj	_	start_char=38|end_char=40
-17	会	会	VV	VV	_	18	aux:modal	_	start_char=41|end_char=42
-18	出现	出现	VV	VV	_	4	conj	_	start_char=43|end_char=45
-19	令	令	VV	VV	_	23	acl	_	start_char=46|end_char=47
-20	人	人	NN	NN	_	19	dobj	_	start_char=48|end_char=49
-21	难以置信	难以置信	VV	VV	_	19	ccomp	_	start_char=50|end_char=54
-22	的	的	DEC	DEC	_	19	mark	_	start_char=55|end_char=56
-23	景色	景色	NN	NN	_	18	dobj	_	start_char=57|end_char=59
-24	——	——	PU	PU	_	29	punct	_	start_char=60|end_char=62
-25	连	连	AD	AD	_	26	advmod	_	start_char=63|end_char=64
-26	小径	小径	NN	NN	_	29	nsubj	_	start_char=65|end_char=67
-27	都	都	AD	AD	_	29	advmod	_	start_char=68|end_char=69
-28	会	会	VV	VV	_	29	aux:modal	_	start_char=70|end_char=71
-29	成为	成为	VV	VV	_	18	conj	_	start_char=72|end_char=74
-30	真正	真正	JJ	JJ	_	32	amod	_	start_char=75|end_char=77
-31	的	的	DEG	DEG	_	30	case	_	start_char=78|end_char=79
-32	天堂	天堂	NN	NN	_	29	dobj	_	start_char=80|end_char=82
-33	。	。	PU	PU	_	4	punct	_	start_char=83|end_char=84
+11	置身于	置身于	VV	VV	_	4	conj	_	start_char=24|end_char=27
+12	大自然	大自然	NN	NN	_	11	advmod:loc	_	start_char=28|end_char=31
+13	之中	之中	LC	LC	_	12	case	_	start_char=32|end_char=34
+14	，	，	PU	PU	_	4	punct	_	start_char=35|end_char=36
+15	眼前	眼前	NN	NN	_	17	nsubj	_	start_char=37|end_char=39
+16	会	会	VV	VV	_	17	aux:modal	_	start_char=40|end_char=41
+17	出现	出现	VV	VV	_	4	conj	_	start_char=42|end_char=44
+18	令	令	VV	VV	_	22	acl	_	start_char=45|end_char=46
+19	人	人	NN	NN	_	18	dobj	_	start_char=47|end_char=48
+20	难以置信	难以置信	VV	VV	_	18	ccomp	_	start_char=49|end_char=53
+21	的	的	DEC	DEC	_	18	mark	_	start_char=54|end_char=55
+22	景色	景色	NN	NN	_	17	dobj	_	start_char=56|end_char=58
+23	——	——	PU	PU	_	28	punct	_	start_char=59|end_char=61
+24	连	连	AD	AD	_	25	advmod	_	start_char=62|end_char=63
+25	小径	小径	NN	NN	_	28	nsubj	_	start_char=64|end_char=66
+26	都	都	AD	AD	_	28	advmod	_	start_char=67|end_char=68
+27	会	会	VV	VV	_	28	aux:modal	_	start_char=69|end_char=70
+28	成为	成为	VV	VV	_	17	conj	_	start_char=71|end_char=73
+29	真正	真正	JJ	JJ	_	31	amod	_	start_char=74|end_char=76
+30	的	的	DEG	DEG	_	29	case	_	start_char=77|end_char=78
+31	天堂	天堂	NN	NN	_	28	dobj	_	start_char=79|end_char=81
+32	。	。	PU	PU	_	4	punct	_	start_char=82|end_char=83
 
 1	然而	然而	AD	AD	_	16	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
@@ -147,13 +146,12 @@
 4	做	做	VV	VV	_	0	root	_	start_char=8|end_char=9
 5	准备	准备	NN	NN	_	4	dobj	_	start_char=10|end_char=12
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	购买	购买	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	当地	当地	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
-3	旅游	旅游	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
-4	指南	指南	NN	NN	_	1	dobj	_	start_char=9|end_char=11
-5	。	。	PU	PU	_	1	punct	_	start_char=12|end_char=13
+1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	购买	购买	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	当地	当地	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
+4	旅游	旅游	NN	NN	_	5	compound:nn	_	start_char=8|end_char=10
+5	指南	指南	NN	NN	_	2	dobj	_	start_char=11|end_char=13
+6	。	。	PU	PU	_	2	punct	_	start_char=14|end_char=15
 
 1	要	要	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	找到	找到	VV	VV	_	0	root	_	start_char=2|end_char=4
@@ -385,13 +383,12 @@
 22	。	。	PU	PU	_	6	punct	_	start_char=58|end_char=59
 23	”	”	PU	PU	_	6	punct	_	start_char=60|end_char=61
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	从	从	P	P	_	3	case	_	start_char=0|end_char=1
-2	小型	小型	JJ	JJ	_	3	amod	_	start_char=2|end_char=4
-3	旅行	旅行	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
-4	开始	开始	VV	VV	_	0	root	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	4	punct	_	start_char=11|end_char=12
+1	2	2	CD	CD	_	5	dep	_	start_char=0|end_char=1
+2	从	从	P	P	_	4	case	_	start_char=2|end_char=3
+3	小型	小型	JJ	JJ	_	4	amod	_	start_char=4|end_char=6
+4	旅行	旅行	NN	NN	_	5	nmod:prep	_	start_char=7|end_char=9
+5	开始	开始	VV	VV	_	0	root	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	5	punct	_	start_char=13|end_char=14
 
 1	如果	如果	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	5	nsubj	_	start_char=3|end_char=4
@@ -464,7 +461,7 @@
 8	来说	来说	LC	LC	_	7	case	_	start_char=19|end_char=21
 9	，	，	PU	PU	_	18	punct	_	start_char=22|end_char=23
 10	简单	简单	VA	VA	_	15	amod	_	start_char=24|end_char=26
-11	的	的	DEC	DEC	_	10	mark	_	start_char=27|end_char=28
+11	的	的	DEG	DEG	_	10	case	_	start_char=27|end_char=28
 12	五	五	CD	CD	_	15	nummod	_	start_char=29|end_char=30
 13	公里	公里	M	M	_	12	mark:clf	_	start_char=31|end_char=33
 14	往返	往返	NN	NN	_	15	compound:nn	_	start_char=34|end_char=36
@@ -478,11 +475,10 @@
 22	——	——	PU	PU	_	18	punct	_	start_char=55|end_char=57
 23	这	这	PN	PN	_	25	nsubj	_	start_char=58|end_char=59
 24	完全	完全	AD	AD	_	25	advmod	_	start_char=60|end_char=62
-25	取决	取决	VV	VV	_	18	conj	_	start_char=63|end_char=65
-26	于	于	P	P	_	28	case	_	start_char=66|end_char=67
-27	你	你	PN	PN	_	28	dep	_	start_char=68|end_char=69
-28	自己	自己	PN	PN	_	25	nmod:prep	_	start_char=70|end_char=72
-29	。	。	PU	PU	_	18	punct	_	start_char=73|end_char=74
+25	取决于	取决于	VV	VV	_	18	conj	_	start_char=63|end_char=66
+26	你	你	PN	PN	_	27	dep	_	start_char=67|end_char=68
+27	自己	自己	PN	PN	_	25	dobj	_	start_char=69|end_char=71
+28	。	。	PU	PU	_	18	punct	_	start_char=72|end_char=73
 
 1	第一	第一	OD	OD	_	3	dep	_	start_char=0|end_char=2
 2	次	次	M	M	_	1	mark:clf	_	start_char=3|end_char=4
@@ -502,12 +498,11 @@
 16	1	1	CD	CD	_	15	dep	_	start_char=35|end_char=36
 17	]	]	PU	PU	_	13	punct	_	start_char=37|end_char=38
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	带	带	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	大量	大量	CD	CD	_	3	dep	_	start_char=2|end_char=4
-3	水	水	NN	NN	_	1	dobj	_	start_char=5|end_char=6
-4	。	。	PU	PU	_	1	punct	_	start_char=7|end_char=8
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	带	带	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	大量	大量	CD	CD	_	4	dep	_	start_char=4|end_char=6
+4	水	水	NN	NN	_	2	dobj	_	start_char=7|end_char=8
+5	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
 
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	学习	学习	NN	NN	_	6	nsubj	_	start_char=2|end_char=4
@@ -609,12 +604,11 @@
 24	2	2	CD	CD	_	23	dep	_	start_char=54|end_char=55
 25	]	]	PU	PU	_	1	punct	_	start_char=56|end_char=57
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	收拾	收拾	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	好	好	JJ	JJ	_	3	amod	_	start_char=3|end_char=4
-3	背包	背包	NN	NN	_	1	dobj	_	start_char=5|end_char=7
-4	。	。	PU	PU	_	1	punct	_	start_char=8|end_char=9
+1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	收拾	收拾	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	好	好	JJ	JJ	_	4	amod	_	start_char=5|end_char=6
+4	背包	背包	NN	NN	_	2	dobj	_	start_char=7|end_char=9
+5	。	。	PU	PU	_	2	punct	_	start_char=10|end_char=11
 
 1	根据	根据	P	P	_	4	case	_	start_char=0|end_char=2
 2	远足	远足	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
@@ -630,72 +624,71 @@
 12	东西	东西	NN	NN	_	9	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	8	punct	_	start_char=32|end_char=33
 
-1	不过	不过	AD	AD	_	14	advmod	_	start_char=0|end_char=2
-2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
-3	通常	通常	AD	AD	_	14	advmod:loc	_	start_char=5|end_char=7
-4	来说	来说	LC	LC	_	3	case	_	start_char=8|end_char=10
-5	，	，	PU	PU	_	14	punct	_	start_char=11|end_char=12
-6	不论	不论	AD	AD	_	9	advmod	_	start_char=13|end_char=15
-7	旅途	旅途	NN	NN	_	9	nmod:assmod	_	start_char=16|end_char=18
-8	的	的	DEG	DEG	_	7	case	_	start_char=19|end_char=20
-9	长短	长短	NN	NN	_	14	nmod:topic	_	start_char=21|end_char=23
-10	，	，	PU	PU	_	14	punct	_	start_char=24|end_char=25
-11	你	你	PN	PN	_	14	nsubj	_	start_char=26|end_char=27
-12	都	都	AD	AD	_	14	advmod	_	start_char=28|end_char=29
-13	需要	需要	VV	VV	_	14	xcomp	_	start_char=30|end_char=32
-14	带上	带上	VV	VV	_	0	root	_	start_char=33|end_char=35
-15	一些	一些	CD	CD	_	20	dep	_	start_char=36|end_char=38
-16	能够	能够	VV	VV	_	17	aux:modal	_	start_char=39|end_char=41
-17	补充	补充	VV	VV	_	20	acl	_	start_char=42|end_char=44
-18	能量	能量	NN	NN	_	17	dobj	_	start_char=45|end_char=47
-19	的	的	DEC	DEC	_	17	mark	_	start_char=48|end_char=49
-20	零食	零食	NN	NN	_	14	dobj	_	start_char=50|end_char=52
-21	（	（	PU	PU	_	22	punct	_	start_char=53|end_char=54
-22	带上	带上	VV	VV	_	14	conj	_	start_char=55|end_char=57
-23	什锦	什锦	NN	NN	_	24	compound:nn	_	start_char=58|end_char=60
-24	干果	干果	NN	NN	_	22	dobj	_	start_char=61|end_char=63
-25	肯定	肯定	AD	AD	_	28	advmod	_	start_char=64|end_char=66
-26	不	不	AD	AD	_	28	neg	_	start_char=67|end_char=68
-27	会	会	VV	VV	_	28	aux:modal	_	start_char=69|end_char=70
-28	错	错	VA	VA	_	14	conj	_	start_char=71|end_char=72
-29	）	）	PU	PU	_	28	punct	_	start_char=73|end_char=74
-30	、	、	PU	PU	_	14	punct	_	start_char=75|end_char=76
-31	一	一	CD	CD	_	33	nummod	_	start_char=77|end_char=78
-32	把	把	M	M	_	31	mark:clf	_	start_char=79|end_char=80
-33	小刀	小刀	NN	NN	_	14	dobj	_	start_char=81|end_char=83
-34	（	（	PU	PU	_	41	punct	_	start_char=84|end_char=85
-35	瑞士	瑞士	NR	NR	_	36	nmod:assmod	_	start_char=86|end_char=88
-36	军刀	军刀	NN	NN	_	41	nsubj	_	start_char=89|end_char=91
-37	是	是	VC	VC	_	41	cop	_	start_char=92|end_char=93
-38	很	很	AD	AD	_	39	advmod	_	start_char=94|end_char=95
-39	好	好	VA	VA	_	41	amod	_	start_char=96|end_char=97
-40	的	的	DEG	DEG	_	39	mark	_	start_char=98|end_char=99
-41	选择	选择	NN	NN	_	33	parataxis:prnmod	_	start_char=100|end_char=102
-42	）	）	PU	PU	_	41	punct	_	start_char=103|end_char=104
-43	、	、	PU	PU	_	57	punct	_	start_char=105|end_char=106
-44	指南针	指南针	NN	NN	_	57	conj	_	start_char=107|end_char=110
-45	以及	以及	CC	CC	_	57	cc	_	start_char=111|end_char=113
-46	地图	地图	NN	NN	_	57	conj	_	start_char=114|end_char=116
-47	、	、	PU	PU	_	57	punct	_	start_char=117|end_char=118
-48	手电筒	手电筒	NN	NN	_	52	conj	_	start_char=119|end_char=122
-49	、	、	PU	PU	_	57	punct	_	start_char=123|end_char=124
-50	火柴	火柴	NN	NN	_	52	conj	_	start_char=125|end_char=127
-51	或是	或是	CC	CC	_	52	cc	_	start_char=128|end_char=130
-52	打火机	打火机	NN	NN	_	57	dep	_	start_char=131|end_char=134
-53	，	，	PU	PU	_	57	punct	_	start_char=135|end_char=136
-54	以及	以及	CC	CC	_	57	cc	_	start_char=137|end_char=139
-55	额外	额外	JJ	JJ	_	57	amod	_	start_char=140|end_char=142
-56	的	的	DEG	DEG	_	55	case	_	start_char=143|end_char=144
-57	衣物	衣物	NN	NN	_	14	dobj	_	start_char=145|end_char=147
-58	（	（	PU	PU	_	59	punct	_	start_char=148|end_char=149
-59	以防	以防	VV	VV	_	14	dep	_	start_char=150|end_char=152
-60	天气	天气	NN	NN	_	61	compound:nn	_	start_char=153|end_char=155
-61	突变	突变	NN	NN	_	59	dobj	_	start_char=156|end_char=158
-62	。	。	PU	PU	_	59	punct	_	start_char=159|end_char=160
-63	）	）	PU	PU	_	59	punct	_	start_char=161|end_char=162
-64	[	[	VV	VV	_	14	conj	_	start_char=163|end_char=164
-65	3	3	CD	CD	_	64	dep	_	start_char=165|end_char=166
-66	]	]	PU	PU	_	14	punct	_	start_char=167|end_char=168
+1	不过	不过	AD	AD	_	13	advmod	_	start_char=0|end_char=2
+2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
+3	通常来说	通常来说	AD	AD	_	13	advmod	_	start_char=5|end_char=9
+4	，	，	PU	PU	_	13	punct	_	start_char=10|end_char=11
+5	不论	不论	AD	AD	_	8	advmod	_	start_char=12|end_char=14
+6	旅途	旅途	NN	NN	_	8	nmod:assmod	_	start_char=15|end_char=17
+7	的	的	DEG	DEG	_	6	case	_	start_char=18|end_char=19
+8	长短	长短	NN	NN	_	13	nmod:topic	_	start_char=20|end_char=22
+9	，	，	PU	PU	_	13	punct	_	start_char=23|end_char=24
+10	你	你	PN	PN	_	13	nsubj	_	start_char=25|end_char=26
+11	都	都	AD	AD	_	13	advmod	_	start_char=27|end_char=28
+12	需要	需要	VV	VV	_	13	xcomp	_	start_char=29|end_char=31
+13	带上	带上	VV	VV	_	0	root	_	start_char=32|end_char=34
+14	一些	一些	CD	CD	_	19	dep	_	start_char=35|end_char=37
+15	能够	能够	VV	VV	_	16	aux:modal	_	start_char=38|end_char=40
+16	补充	补充	VV	VV	_	19	acl	_	start_char=41|end_char=43
+17	能量	能量	NN	NN	_	16	dobj	_	start_char=44|end_char=46
+18	的	的	DEC	DEC	_	16	mark	_	start_char=47|end_char=48
+19	零食	零食	NN	NN	_	13	dobj	_	start_char=49|end_char=51
+20	（	（	PU	PU	_	21	punct	_	start_char=52|end_char=53
+21	带上	带上	VV	VV	_	32	acl	_	start_char=54|end_char=56
+22	什锦	什锦	NN	NN	_	23	compound:nn	_	start_char=57|end_char=59
+23	干果	干果	NN	NN	_	21	dobj	_	start_char=60|end_char=62
+24	肯定	肯定	AD	AD	_	27	advmod	_	start_char=63|end_char=65
+25	不	不	AD	AD	_	27	neg	_	start_char=66|end_char=67
+26	会	会	VV	VV	_	27	aux:modal	_	start_char=68|end_char=69
+27	错	错	VA	VA	_	13	conj	_	start_char=70|end_char=71
+28	）	）	PU	PU	_	27	punct	_	start_char=72|end_char=73
+29	、	、	PU	PU	_	13	punct	_	start_char=74|end_char=75
+30	一	一	CD	CD	_	32	nummod	_	start_char=76|end_char=77
+31	把	把	M	M	_	30	mark:clf	_	start_char=78|end_char=79
+32	小刀	小刀	NN	NN	_	13	dobj	_	start_char=80|end_char=82
+33	（	（	PU	PU	_	40	punct	_	start_char=83|end_char=84
+34	瑞士	瑞士	NR	NR	_	35	nmod:assmod	_	start_char=85|end_char=87
+35	军刀	军刀	NN	NN	_	40	nsubj	_	start_char=88|end_char=90
+36	是	是	VC	VC	_	40	cop	_	start_char=91|end_char=92
+37	很	很	AD	AD	_	38	advmod	_	start_char=93|end_char=94
+38	好	好	VA	VA	_	40	amod	_	start_char=95|end_char=96
+39	的	的	DEG	DEG	_	38	mark	_	start_char=97|end_char=98
+40	选择	选择	NN	NN	_	32	parataxis:prnmod	_	start_char=99|end_char=101
+41	）	）	PU	PU	_	40	punct	_	start_char=102|end_char=103
+42	、	、	PU	PU	_	56	punct	_	start_char=104|end_char=105
+43	指南针	指南针	NN	NN	_	56	conj	_	start_char=106|end_char=109
+44	以及	以及	CC	CC	_	56	cc	_	start_char=110|end_char=112
+45	地图	地图	NN	NN	_	51	conj	_	start_char=113|end_char=115
+46	、	、	PU	PU	_	56	punct	_	start_char=116|end_char=117
+47	手电筒	手电筒	NN	NN	_	51	conj	_	start_char=118|end_char=121
+48	、	、	PU	PU	_	56	punct	_	start_char=122|end_char=123
+49	火柴	火柴	NN	NN	_	51	conj	_	start_char=124|end_char=126
+50	或是	或是	CC	CC	_	51	cc	_	start_char=127|end_char=129
+51	打火机	打火机	NN	NN	_	56	dep	_	start_char=130|end_char=133
+52	，	，	PU	PU	_	56	punct	_	start_char=134|end_char=135
+53	以及	以及	CC	CC	_	56	cc	_	start_char=136|end_char=138
+54	额外	额外	JJ	JJ	_	56	amod	_	start_char=139|end_char=141
+55	的	的	DEG	DEG	_	54	case	_	start_char=142|end_char=143
+56	衣物	衣物	NN	NN	_	13	dobj	_	start_char=144|end_char=146
+57	（	（	PU	PU	_	58	punct	_	start_char=147|end_char=148
+58	以防	以防	VV	VV	_	13	dep	_	start_char=149|end_char=151
+59	天气	天气	NN	NN	_	60	compound:nn	_	start_char=152|end_char=154
+60	突变	突变	NN	NN	_	58	dobj	_	start_char=155|end_char=157
+61	。	。	PU	PU	_	58	punct	_	start_char=158|end_char=159
+62	）	）	PU	PU	_	58	punct	_	start_char=160|end_char=161
+63	[	[	VV	VV	_	13	conj	_	start_char=162|end_char=163
+64	3	3	CD	CD	_	63	dep	_	start_char=164|end_char=165
+65	]	]	PU	PU	_	13	punct	_	start_char=166|end_char=167
 
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	4	advmod	_	start_char=2|end_char=3
@@ -761,13 +754,12 @@
 28	口罩	口罩	NN	NN	_	27	dobj	_	start_char=69|end_char=71
 29	。	。	PU	PU	_	27	punct	_	start_char=72|end_char=73
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	避免	避免	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	被	被	LB	LB	_	4	auxpass	_	start_char=3|end_char=4
-3	太阳	太阳	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
-4	晒伤	晒伤	VV	VV	_	1	ccomp	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	1	punct	_	start_char=11|end_char=12
+1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	避免	避免	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	被	被	LB	LB	_	5	auxpass	_	start_char=5|end_char=6
+4	太阳	太阳	NN	NN	_	5	nsubj	_	start_char=7|end_char=9
+5	晒伤	晒伤	VV	VV	_	2	ccomp	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
 1	除了	除了	P	P	_	8	case	_	start_char=0|end_char=2
 2	装	装	VV	VV	_	8	acl	_	start_char=3|end_char=4
@@ -827,13 +819,12 @@
 26	辐射	辐射	NN	NN	_	22	dobj	_	start_char=62|end_char=64
 27	。	。	PU	PU	_	20	punct	_	start_char=65|end_char=66
 
-1	6	6	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	穿	穿	VV	VV	_	0	root	_	start_char=0|end_char=1
-2	合适	合适	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
-3	的	的	DEC	DEC	_	2	case	_	start_char=5|end_char=6
-4	鞋	鞋	NN	NN	_	1	dobj	_	start_char=7|end_char=8
-5	。	。	PU	PU	_	1	punct	_	start_char=9|end_char=10
+1	6	6	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	穿	穿	VV	VV	_	0	root	_	start_char=2|end_char=3
+3	合适	合适	JJ	JJ	_	5	amod	_	start_char=4|end_char=6
+4	的	的	DEC	DEC	_	3	case	_	start_char=7|end_char=8
+5	鞋	鞋	NN	NN	_	2	dobj	_	start_char=9|end_char=10
+6	。	。	PU	PU	_	2	punct	_	start_char=11|end_char=12
 
 1	穿上	穿上	VV	VV	_	7	dep	_	start_char=0|end_char=2
 2	便于	便于	VV	VV	_	5	acl	_	start_char=3|end_char=5
@@ -928,18 +919,17 @@
 14	水泡	水泡	NN	NN	_	11	dobj	_	start_char=31|end_char=33
 15	。	。	PU	PU	_	11	punct	_	start_char=34|end_char=35
 
-1	7	7	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	叫上	叫上	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	几	几	CD	CD	_	6	nummod	_	start_char=3|end_char=4
-3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
-4	朋友	朋友	NN	NN	_	6	conj	_	start_char=7|end_char=9
-5	或是	或是	CC	CC	_	6	cc	_	start_char=10|end_char=12
-6	家人	家人	NN	NN	_	1	dobj	_	start_char=13|end_char=15
-7	跟	跟	P	P	_	8	case	_	start_char=16|end_char=17
-8	你	你	PN	PN	_	9	nmod:prep	_	start_char=18|end_char=19
-9	一起	一起	AD	AD	_	1	ccomp	_	start_char=20|end_char=22
-10	。	。	PU	PU	_	1	punct	_	start_char=23|end_char=24
+1	7	7	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	叫上	叫上	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	几	几	CD	CD	_	7	nummod	_	start_char=5|end_char=6
+4	个	个	M	M	_	3	mark:clf	_	start_char=7|end_char=8
+5	朋友	朋友	NN	NN	_	7	conj	_	start_char=9|end_char=11
+6	或是	或是	CC	CC	_	7	cc	_	start_char=12|end_char=14
+7	家人	家人	NN	NN	_	2	dobj	_	start_char=15|end_char=17
+8	跟	跟	P	P	_	9	case	_	start_char=18|end_char=19
+9	你	你	PN	PN	_	10	nmod:prep	_	start_char=20|end_char=21
+10	一起	一起	AD	AD	_	2	ccomp	_	start_char=22|end_char=24
+11	。	。	PU	PU	_	2	punct	_	start_char=25|end_char=26
 
 1	初级者	初级者	NN	NN	_	10	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	5	case	_	start_char=4|end_char=5
@@ -1080,16 +1070,15 @@
 16	你	你	PN	PN	_	15	dobj	_	start_char=38|end_char=39
 17	。	。	PU	PU	_	8	punct	_	start_char=40|end_char=41
 
-1	8	8	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	了解	了解	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
-2	遇到	遇到	VV	VV	_	0	root	_	start_char=3|end_char=5
-3	紧急	紧急	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
-4	情况	情况	NN	NN	_	2	dobj	_	start_char=9|end_char=11
-5	要	要	VV	VV	_	6	xcomp	_	start_char=12|end_char=13
-6	做	做	VV	VV	_	2	conj	_	start_char=14|end_char=15
-7	什么	什么	PN	PN	_	6	dobj	_	start_char=16|end_char=18
-8	。	。	PU	PU	_	2	punct	_	start_char=19|end_char=20
+1	8	8	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	了解	了解	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
+3	遇到	遇到	VV	VV	_	0	root	_	start_char=5|end_char=7
+4	紧急	紧急	JJ	JJ	_	5	amod	_	start_char=8|end_char=10
+5	情况	情况	NN	NN	_	3	dobj	_	start_char=11|end_char=13
+6	要	要	VV	VV	_	7	xcomp	_	start_char=14|end_char=15
+7	做	做	VV	VV	_	3	conj	_	start_char=16|end_char=17
+8	什么	什么	PN	PN	_	7	dobj	_	start_char=18|end_char=20
+9	。	。	PU	PU	_	3	punct	_	start_char=21|end_char=22
 
 1	虽然	虽然	CS	CS	_	10	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
@@ -1163,13 +1152,12 @@
 1	上路	上路	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	后	后	LC	LC	_	1	case	_	start_char=3|end_char=4
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	从	从	P	P	_	3	case	_	start_char=0|end_char=1
-2	起点	起点	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
-3	标志	标志	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
-4	出发	出发	VV	VV	_	0	root	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	4	punct	_	start_char=11|end_char=12
+1	1	1	CD	CD	_	5	dep	_	start_char=0|end_char=1
+2	从	从	P	P	_	4	case	_	start_char=2|end_char=3
+3	起点	起点	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
+4	标志	标志	NN	NN	_	5	nmod:prep	_	start_char=7|end_char=9
+5	出发	出发	VV	VV	_	0	root	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	5	punct	_	start_char=13|end_char=14
 
 1	每	每	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	条	条	M	M	_	1	mark:clf	_	start_char=2|end_char=3
@@ -1291,11 +1279,10 @@
 18	提到	提到	VV	VV	_	5	conj	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	5	punct	_	start_char=46|end_char=47
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	留意	留意	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	路标	路标	NN	NN	_	1	dobj	_	start_char=3|end_char=5
-3	。	。	PU	PU	_	1	punct	_	start_char=6|end_char=7
+1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	留意	留意	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	路标	路标	NN	NN	_	2	dobj	_	start_char=5|end_char=7
+4	。	。	PU	PU	_	2	punct	_	start_char=8|end_char=9
 
 1	当	当	P	P	_	5	case	_	start_char=0|end_char=1
 2	你	你	PN	PN	_	5	nsubj	_	start_char=2|end_char=3
@@ -1432,12 +1419,11 @@
 21	小路	小路	NN	NN	_	16	dobj	_	start_char=56|end_char=58
 22	。	。	PU	PU	_	12	punct	_	start_char=59|end_char=60
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	遵循	遵循	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	所有	所有	DT	DT	_	3	det	_	start_char=3|end_char=5
-3	标志	标志	NN	NN	_	1	dobj	_	start_char=6|end_char=8
-4	。	。	PU	PU	_	1	punct	_	start_char=9|end_char=10
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	遵循	遵循	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	所有	所有	DT	DT	_	4	det	_	start_char=5|end_char=7
+4	标志	标志	NN	NN	_	2	dobj	_	start_char=8|end_char=10
+5	。	。	PU	PU	_	2	punct	_	start_char=11|end_char=12
 
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
@@ -1564,14 +1550,13 @@
 14	可爱	可爱	VA	VA	_	12	ccomp	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	休息	休息	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	一下	一下	AD	AD	_	1	advmod	_	start_char=3|end_char=5
-3	然后	然后	AD	AD	_	4	advmod	_	start_char=6|end_char=8
-4	补充	补充	VV	VV	_	1	conj	_	start_char=9|end_char=11
-5	水分	水分	NN	NN	_	4	dobj	_	start_char=12|end_char=14
-6	。	。	PU	PU	_	1	punct	_	start_char=15|end_char=16
+1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	休息	休息	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	一下	一下	AD	AD	_	2	advmod	_	start_char=5|end_char=7
+4	然后	然后	AD	AD	_	5	advmod	_	start_char=8|end_char=10
+5	补充	补充	VV	VV	_	2	conj	_	start_char=11|end_char=13
+6	水分	水分	NN	NN	_	5	dobj	_	start_char=14|end_char=16
+7	。	。	PU	PU	_	2	punct	_	start_char=17|end_char=18
 
 1	徒步	徒步	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	旅行	旅行	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
@@ -1635,18 +1620,17 @@
 24	6	6	CD	CD	_	23	nmod:range	_	start_char=57|end_char=58
 25	]	]	PU	PU	_	21	punct	_	start_char=59|end_char=60
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	留心	留心	VV	VV	_	3	dep	_	start_char=0|end_char=2
-2	可能	可能	VV	VV	_	3	aux:modal	_	start_char=3|end_char=5
-3	出现	出现	VV	VV	_	0	root	_	start_char=6|end_char=8
-4	在	在	P	P	_	5	case	_	start_char=9|end_char=10
-5	脚	脚	NN	NN	_	9	nmod	_	start_char=11|end_char=12
-6	底下	底下	LC	LC	_	5	case	_	start_char=13|end_char=15
-7	的	的	DEG	DEG	_	5	case	_	start_char=16|end_char=17
-8	小	小	JJ	JJ	_	9	amod	_	start_char=18|end_char=19
-9	动物	动物	NN	NN	_	3	dobj	_	start_char=20|end_char=22
-10	。	。	PU	PU	_	3	punct	_	start_char=23|end_char=24
+1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	留心	留心	NN	NN	_	4	nsubj	_	start_char=2|end_char=4
+3	可能	可能	VV	VV	_	4	aux:modal	_	start_char=5|end_char=7
+4	出现	出现	VV	VV	_	0	root	_	start_char=8|end_char=10
+5	在	在	P	P	_	6	case	_	start_char=11|end_char=12
+6	脚	脚	NN	NN	_	10	nmod	_	start_char=13|end_char=14
+7	底下	底下	LC	LC	_	6	case	_	start_char=15|end_char=17
+8	的	的	DEG	DEG	_	6	case	_	start_char=18|end_char=19
+9	小	小	JJ	JJ	_	10	amod	_	start_char=20|end_char=21
+10	动物	动物	NN	NN	_	4	dobj	_	start_char=22|end_char=24
+11	。	。	PU	PU	_	4	punct	_	start_char=25|end_char=26
 
 1	要	要	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	知道	知道	VV	VV	_	0	root	_	start_char=2|end_char=4
@@ -1739,16 +1723,15 @@
 29	经历	经历	NN	NN	_	18	conj	_	start_char=69|end_char=71
 30	。	。	PU	PU	_	11	punct	_	start_char=72|end_char=73
 
-1	6	6	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	只	只	AD	AD	_	2	advmod	_	start_char=0|end_char=1
-2	留下	留下	VV	VV	_	0	root	_	start_char=2|end_char=4
-3	脚印	脚印	NN	NN	_	2	dobj	_	start_char=5|end_char=7
-4	，	，	PU	PU	_	2	punct	_	start_char=8|end_char=9
-5	只	只	AD	AD	_	6	advmod	_	start_char=10|end_char=11
-6	带走	带走	VV	VV	_	2	conj	_	start_char=12|end_char=14
-7	照片	照片	NN	NN	_	6	dobj	_	start_char=15|end_char=17
-8	。	。	PU	PU	_	2	punct	_	start_char=18|end_char=19
+1	6	6	CD	CD	_	3	nsubj	_	start_char=0|end_char=1
+2	只	只	M	M	_	1	mark:clf	_	start_char=2|end_char=3
+3	留下	留下	VV	VV	_	0	root	_	start_char=4|end_char=6
+4	脚印	脚印	NN	NN	_	3	dobj	_	start_char=7|end_char=9
+5	，	，	PU	PU	_	3	punct	_	start_char=10|end_char=11
+6	只	只	AD	AD	_	7	advmod	_	start_char=12|end_char=13
+7	带走	带走	VV	VV	_	3	conj	_	start_char=14|end_char=16
+8	照片	照片	NN	NN	_	7	dobj	_	start_char=17|end_char=19
+9	。	。	PU	PU	_	3	punct	_	start_char=20|end_char=21
 
 1	这	这	PN	PN	_	10	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	10	cop	_	start_char=2|end_char=3

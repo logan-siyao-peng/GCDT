@@ -77,15 +77,14 @@
 
 1	播种	播种	NN	NN	_	0	root	_	start_char=0|end_char=2
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	选择	选择	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
-3	想要	想要	VV	VV	_	6	acl	_	start_char=5|end_char=7
-4	种植	种植	VV	VV	_	3	ccomp	_	start_char=8|end_char=10
-5	的	的	DEC	DEC	_	3	mark	_	start_char=11|end_char=12
-6	品种	品种	NN	NN	_	1	dobj	_	start_char=13|end_char=15
-7	。	。	PU	PU	_	1	punct	_	start_char=16|end_char=17
+1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	选择	选择	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
+4	想要	想要	VV	VV	_	7	acl	_	start_char=7|end_char=9
+5	种植	种植	VV	VV	_	4	ccomp	_	start_char=10|end_char=12
+6	的	的	DEC	DEC	_	4	mark	_	start_char=13|end_char=14
+7	品种	品种	NN	NN	_	2	dobj	_	start_char=15|end_char=17
+8	。	。	PU	PU	_	2	punct	_	start_char=18|end_char=19
 
 1	罗勒	罗勒	NR	NR	_	2	dep	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
@@ -286,12 +285,11 @@
 20	园艺	园艺	NN	NN	_	17	dobj	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	7	punct	_	start_char=54|end_char=55
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
-2	室内	室内	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
-3	播种	播种	VV	VV	_	0	root	_	start_char=5|end_char=7
-4	。	。	PU	PU	_	3	punct	_	start_char=8|end_char=9
+1	2	2	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
+3	室内	室内	NN	NN	_	4	nmod:prep	_	start_char=4|end_char=6
+4	播种	播种	VV	VV	_	0	root	_	start_char=7|end_char=9
+5	。	。	PU	PU	_	4	punct	_	start_char=10|end_char=11
 
 1	在	在	P	P	_	10	case	_	start_char=0|end_char=1
 2	最后	最后	JJ	JJ	_	3	amod	_	start_char=2|end_char=4
@@ -368,16 +366,15 @@
 21	园丁	园丁	NN	NN	_	18	dobj	_	start_char=53|end_char=55
 22	。	。	PU	PU	_	14	punct	_	start_char=56|end_char=57
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	准备	准备	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	好	好	AD	AD	_	3	advmod	_	start_char=3|end_char=4
-3	播种	播种	VV	VV	_	1	ccomp	_	start_char=5|end_char=7
-4	的	的	DEC	DEC	_	1	mark	_	start_char=8|end_char=9
-5	容器	容器	NN	NN	_	7	conj	_	start_char=10|end_char=12
-6	和	和	CC	CC	_	7	cc	_	start_char=13|end_char=14
-7	土壤	土壤	NN	NN	_	1	dobj	_	start_char=15|end_char=17
-8	。	。	PU	PU	_	1	punct	_	start_char=18|end_char=19
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	准备	准备	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	好	好	AD	AD	_	4	advmod	_	start_char=5|end_char=6
+4	播种	播种	VV	VV	_	2	ccomp	_	start_char=7|end_char=9
+5	的	的	DEC	DEC	_	2	mark	_	start_char=10|end_char=11
+6	容器	容器	NN	NN	_	8	conj	_	start_char=12|end_char=14
+7	和	和	CC	CC	_	8	cc	_	start_char=15|end_char=16
+8	土壤	土壤	NN	NN	_	2	dobj	_	start_char=17|end_char=19
+9	。	。	PU	PU	_	2	punct	_	start_char=20|end_char=21
 
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	方盆	方盆	NN	NN	_	6	conj	_	start_char=2|end_char=4
@@ -420,10 +417,9 @@
 14	环境	环境	NN	NN	_	10	dobj	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	5	punct	_	start_char=35|end_char=36
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	播种	播种	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
+1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	播种	播种	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	。	。	PU	PU	_	2	punct	_	start_char=5|end_char=6
 
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	每	每	DT	DT	_	4	det	_	start_char=2|end_char=3
@@ -481,16 +477,15 @@
 21	湿润	湿润	NN	NN	_	20	dobj	_	start_char=49|end_char=51
 22	。	。	PU	PU	_	3	punct	_	start_char=52|end_char=53
 
-1	5	5	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
-2	种子	种子	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
-3	发芽	发芽	VV	VV	_	5	nmod:prep	_	start_char=5|end_char=7
-4	后	后	LC	LC	_	3	case	_	start_char=8|end_char=9
-5	移除	移除	VV	VV	_	0	root	_	start_char=10|end_char=12
-6	塑料	塑料	NN	NN	_	7	compound:nn	_	start_char=13|end_char=15
-7	薄膜	薄膜	NN	NN	_	5	dobj	_	start_char=16|end_char=18
-8	。	。	PU	PU	_	5	punct	_	start_char=19|end_char=20
+1	5	5	CD	CD	_	6	dep	_	start_char=0|end_char=1
+2	在	在	P	P	_	4	case	_	start_char=2|end_char=3
+3	种子	种子	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
+4	发芽	发芽	VV	VV	_	6	nmod:prep	_	start_char=7|end_char=9
+5	后	后	LC	LC	_	4	case	_	start_char=10|end_char=11
+6	移除	移除	VV	VV	_	0	root	_	start_char=12|end_char=14
+7	塑料	塑料	NN	NN	_	8	compound:nn	_	start_char=15|end_char=17
+8	薄膜	薄膜	NN	NN	_	6	dobj	_	start_char=18|end_char=20
+9	。	。	PU	PU	_	6	punct	_	start_char=21|end_char=22
 
 1	当	当	P	P	_	2	case	_	start_char=0|end_char=1
 2	看到	看到	VV	VV	_	19	nmod:prep	_	start_char=2|end_char=4
@@ -563,10 +558,9 @@
 1	照顾	照顾	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	1	dobj	_	start_char=3|end_char=5
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	移盆	移盆	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
+1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	移盆	移盆	NN	NN	_	0	root	_	start_char=2|end_char=4
+3	。	。	PU	PU	_	2	punct	_	start_char=5|end_char=6
 
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
@@ -726,20 +720,19 @@
 18	距离	距离	NN	NN	_	14	dobj	_	start_char=44|end_char=46
 19	。	。	PU	PU	_	14	punct	_	start_char=47|end_char=48
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	保持	保持	VV	VV	_	8	dep	_	start_char=0|end_char=2
-2	土壤	土壤	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
-3	湿润	湿润	VA	VA	_	1	ccomp	_	start_char=6|end_char=8
-4	，	，	PU	PU	_	1	punct	_	start_char=9|end_char=10
-5	但是	但是	AD	AD	_	8	advmod	_	start_char=11|end_char=13
-6	不	不	AD	AD	_	8	neg	_	start_char=14|end_char=15
-7	要	要	VV	VV	_	8	xcomp	_	start_char=16|end_char=17
-8	让	让	VV	VV	_	0	root	_	start_char=18|end_char=19
-9	土壤	土壤	NN	NN	_	8	dobj	_	start_char=20|end_char=22
-10	水汪汪	水汪汪	VA	VA	_	8	ccomp	_	start_char=23|end_char=26
-11	的	的	SP	SP	_	10	discourse	_	start_char=27|end_char=28
-12	。	。	PU	PU	_	8	punct	_	start_char=29|end_char=30
+1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	保持	保持	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	土壤	土壤	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
+4	湿润	湿润	NN	NN	_	2	dobj	_	start_char=8|end_char=10
+5	，	，	PU	PU	_	2	punct	_	start_char=11|end_char=12
+6	但是	但是	AD	AD	_	9	advmod	_	start_char=13|end_char=15
+7	不	不	AD	AD	_	9	neg	_	start_char=16|end_char=17
+8	要	要	VV	VV	_	9	xcomp	_	start_char=18|end_char=19
+9	让	让	VV	VV	_	2	dep	_	start_char=20|end_char=21
+10	土壤	土壤	NN	NN	_	9	dobj	_	start_char=22|end_char=24
+11	水汪汪	水汪汪	VA	VA	_	9	ccomp	_	start_char=25|end_char=28
+12	的	的	SP	SP	_	9	discourse	_	start_char=29|end_char=30
+13	。	。	PU	PU	_	2	punct	_	start_char=31|end_char=32
 
 1	罗勒	罗勒	NR	NR	_	12	nsubj	_	start_char=0|end_char=2
 2	在	在	P	P	_	6	case	_	start_char=3|end_char=4
@@ -793,11 +786,10 @@
 30	干掉	干掉	VV	VV	_	27	ccomp	_	start_char=70|end_char=72
 31	。	。	PU	PU	_	10	punct	_	start_char=73|end_char=74
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	掐掉	掐掉	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	花骨朵	花骨朵	NN	NN	_	1	dobj	_	start_char=3|end_char=6
-3	。	。	PU	PU	_	1	punct	_	start_char=7|end_char=8
+1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	掐掉	掐掉	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	花骨朵	花骨朵	NN	NN	_	2	dobj	_	start_char=5|end_char=8
+4	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
 
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
@@ -886,13 +878,12 @@
 26	了	了	SP	SP	_	24	discourse	_	start_char=64|end_char=65
 27	。	。	PU	PU	_	9	punct	_	start_char=66|end_char=67
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	注意	注意	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	虫害	虫害	NN	NN	_	4	conj	_	start_char=3|end_char=5
-3	和	和	CC	CC	_	4	cc	_	start_char=6|end_char=7
-4	霉菌	霉菌	NN	NN	_	1	dobj	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	1	punct	_	start_char=11|end_char=12
+1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	注意	注意	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	虫害	虫害	NN	NN	_	5	conj	_	start_char=5|end_char=7
+4	和	和	CC	CC	_	5	cc	_	start_char=8|end_char=9
+5	霉菌	霉菌	NN	NN	_	2	dobj	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
 1	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
 2	容易	容易	AD	AD	_	3	advmod	_	start_char=3|end_char=5
@@ -969,15 +960,14 @@
 3	使用	使用	VV	VV	_	1	conj	_	start_char=5|end_char=7
 4	罗勒	罗勒	NR	NR	_	3	dobj	_	start_char=8|end_char=10
 
-1	1	1	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	收获	收获	NN	NN	_	3	conj	_	start_char=0|end_char=2
-2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4
-3	摘心	摘心	NN	NN	_	5	dep	_	start_char=5|end_char=7
-4	。	。	PU	PU	_	5	punct	_	start_char=8|end_char=9
-5	[	[	NN	NN	_	0	root	_	start_char=10|end_char=11
-6	3	3	CD	CD	_	5	dep	_	start_char=12|end_char=13
-7	]	]	M	M	_	6	mark:clf	_	start_char=14|end_char=15
+1	1	1	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	收获	收获	NN	NN	_	4	conj	_	start_char=2|end_char=4
+3	和	和	CC	CC	_	4	cc	_	start_char=5|end_char=6
+4	摘心	摘心	NN	NN	_	6	dep	_	start_char=7|end_char=9
+5	。	。	PU	PU	_	6	punct	_	start_char=10|end_char=11
+6	[	[	NN	NN	_	0	root	_	start_char=12|end_char=13
+7	3	3	CD	CD	_	6	dep	_	start_char=14|end_char=15
+8	]	]	M	M	_	7	mark:clf	_	start_char=16|end_char=17
 
 1	随着	随着	P	P	_	4	case	_	start_char=0|end_char=2
 2	植物	植物	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
@@ -1133,13 +1123,12 @@
 7	摘	摘	VV	VV	_	0	root	_	start_char=16|end_char=17
 8	。	。	PU	PU	_	7	punct	_	start_char=18|end_char=19
 
-1	2	2	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	享受	享受	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	新鲜	新鲜	VA	VA	_	4	amod	_	start_char=3|end_char=5
-3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
-4	罗勒	罗勒	NR	NR	_	1	dobj	_	start_char=8|end_char=10
-5	。	。	PU	PU	_	1	punct	_	start_char=11|end_char=12
+1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
+2	享受	享受	VV	VV	_	0	root	_	start_char=2|end_char=4
+3	新鲜	新鲜	VA	VA	_	5	amod	_	start_char=5|end_char=7
+4	的	的	DEC	DEC	_	3	mark	_	start_char=8|end_char=9
+5	罗勒	罗勒	NR	NR	_	2	dobj	_	start_char=10|end_char=12
+6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
 1	把	把	BA	BA	_	11	aux:ba	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
@@ -1166,15 +1155,14 @@
 23	沙拉	沙拉	NN	NN	_	20	dobj	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	11	punct	_	start_char=61|end_char=62
 
-1	3	3	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
-2	罗勒	罗勒	NR	NR	_	3	dep	_	start_char=2|end_char=4
-3	放在	放在	VV	VV	_	0	root	_	start_char=5|end_char=7
-4	冰箱	冰箱	NN	NN	_	3	advmod:loc	_	start_char=8|end_char=10
-5	里	里	LC	LC	_	4	case	_	start_char=11|end_char=12
-6	保存	保存	VV	VV	_	3	conj	_	start_char=13|end_char=15
-7	。	。	PU	PU	_	3	punct	_	start_char=16|end_char=17
+1	3	3	CD	CD	_	4	dep	_	start_char=0|end_char=1
+2	把	把	M	M	_	1	mark:clf	_	start_char=2|end_char=3
+3	罗勒	罗勒	NR	NR	_	4	nsubj	_	start_char=4|end_char=6
+4	放在	放在	VV	VV	_	0	root	_	start_char=7|end_char=9
+5	冰箱	冰箱	NN	NN	_	4	advmod:loc	_	start_char=10|end_char=12
+6	里	里	LC	LC	_	5	case	_	start_char=13|end_char=14
+7	保存	保存	VV	VV	_	4	conj	_	start_char=15|end_char=17
+8	。	。	PU	PU	_	4	punct	_	start_char=18|end_char=19
 
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	可能	可能	AD	AD	_	4	advmod	_	start_char=2|end_char=4
@@ -1218,11 +1206,10 @@
 16	冰箱	冰箱	NN	NN	_	15	dobj	_	start_char=41|end_char=43
 17	。	。	PU	PU	_	3	punct	_	start_char=44|end_char=45
 
-1	4	4	CD	CD	_	0	root	_	start_char=0|end_char=1
-
-1	冰冻	冰冻	VV	VV	_	0	root	_	start_char=0|end_char=2
-2	罗勒	罗勒	NR	NR	_	1	dobj	_	start_char=3|end_char=5
-3	。	。	PU	PU	_	1	punct	_	start_char=6|end_char=7
+1	4	4	CD	CD	_	3	dep	_	start_char=0|end_char=1
+2	冰冻	冰冻	NN	NN	_	3	appos	_	start_char=2|end_char=4
+3	罗勒	罗勒	NR	NR	_	0	root	_	start_char=5|end_char=7
+4	。	。	PU	PU	_	3	punct	_	start_char=8|end_char=9
 
 1	直接	直接	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	把	把	BA	BA	_	5	aux:ba	_	start_char=3|end_char=4
