@@ -108,7 +108,7 @@
 		<segment id="70" parent="71" relname="contingency-condition">只 需 注册</segment>
 		<segment id="71" parent="278" relname="span">便 可 拥有 独立 账户 。</segment>
 		<segment id="72" parent="280" relname="same-unit">而 现在</segment>
-		<segment id="73" parent="74" relname="elaboration-additional">“ 流量 为 王 ” 的</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">“ 流量 为 王 ” 的</segment>
 		<segment id="74" parent="279" relname="span">价值 导向 下 ，</segment>
 		<segment id="75" parent="76" relname="purpose-goal">为 赚取 流量</segment>
 		<segment id="76" parent="281" relname="span">发布 虚假 新闻 的</segment>

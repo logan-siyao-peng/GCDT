@@ -194,7 +194,7 @@
 		<segment id="156" parent="406" relname="span">病逝于 希腊 军队 的 军帐 中 。 // Died in the camp of the Greek army.</segment>
 		<segment id="157" parent="407" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
 		<segment id="158" parent="414" relname="context-circumstance">临终 时 ， // When dying,</segment>
-		<segment id="159" parent="413" relname="adversative-antithesis">拜伦 的 遗嘱 说道 ： // Byron's will says:</segment>
+		<segment id="159" parent="413" relname="attribution-positive">拜伦 的 遗嘱 说道 ： // Byron's will says:</segment>
 		<segment id="160" parent="413" relname="joint-list">“ 我 的 财产 ， 我 的 精力 都 献给 了 希腊 的 独立 战争 ， // "My property, my energies are dedicated to the Greek war of independence,</segment>
 		<segment id="161" parent="413" relname="joint-list">现在 连 生命 也 献上 吧 ！ ” // Give your life now! "</segment>
 		<segment id="162" parent="415" relname="causal-result">希腊 政府 为 拜伦 举行 了 隆重 的 国葬 仪式 。 // The Greek government held a grand state funeral for Byron .</segment>

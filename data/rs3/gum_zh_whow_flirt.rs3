@@ -302,12 +302,12 @@
 		<segment id="264" parent="587" relname="joint-list">你 有事</segment>
 		<segment id="265" parent="587" relname="joint-list">要 去 忙 了 ，</segment>
 		<segment id="266" parent="588" relname="explanation-justify">工作 、 学习 、 睡觉 都 可以 当做 借口 。</segment>
-		<segment id="267" parent="590" relname="adversative-anthithesis">用 什么 具体 的 借口 不 重要 ，</segment>
+		<segment id="267" parent="590" relname="adversative-antithesis">用 什么 具体 的 借口 不 重要 ，</segment>
 		<segment id="268" parent="590" relname="same-unit">重要 的 是</segment>
 		<segment id="269" parent="591" relname="attribution-positive">这么 做 表明</segment>
 		<segment id="270" parent="591" relname="joint-list">你 尊重 对方 的 意愿 ，</segment>
 		<segment id="271" parent="592" relname="span">不 会 强行 把 谈话 进行 下去</segment>
-		<segment id="272" parent="271" relname="adversative-antithesis">让 两 方 都 尴尬 。</segment>
+		<segment id="272" parent="271" relname="cause-result">让 两 方 都 尴尬 。</segment>
 		<segment id="273" parent="600" relname="organization-phatic">举例 说 ，</segment>
 		<segment id="274" parent="599" relname="adversative-contrast">如果 你 提到 一 首 具体 的 歌 ，</segment>
 		<segment id="275" parent="593" relname="attribution-positive">而 对方 说</segment>

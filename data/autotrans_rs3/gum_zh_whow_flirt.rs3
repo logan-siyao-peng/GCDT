@@ -132,7 +132,7 @@
 		<segment id="94" parent="423" relname="span">你 还 可以 给出 自己 的 想法 ， // You can also give your own ideas,</segment>
 		<segment id="95" parent="421" relname="attribution-positive">比如 可以 说 ： // For example you can say:</segment>
 		<segment id="96" parent="419" relname="contingency-condition">“ 如果 你 喜欢 某某 乐队 ， // "If you like the band so-and-so,</segment>
-		<segment id="97" parent="419" relname="span">我 再 向 你 推荐 一 个 某某某 乐队 ， // I recommend another band of so-and-so to you,</segment>
+		<segment id="97" parent="419" relname="span">我 再 向 你 推荐 一 个 某某某 乐队 ， // I'll recommend another band of so-and-so to you,</segment>
 		<segment id="98" parent="418" relname="span">他们 风格 很 像 ， // Their style is very similar,</segment>
 		<segment id="99" parent="98" relname="adversative-concession">只是 风格 更 偏 黑暗系 一些 。 // It's just that the style is more dark.</segment>
 		<segment id="100" parent="421" relname="joint-list">你 还 喜欢 其他 什么 乐队 ？ ” // What other bands do you like? "</segment>
@@ -228,7 +228,7 @@
 		<segment id="190" parent="519" relname="span">时候 ， // when ,</segment>
 		<segment id="191" parent="520" relname="span">可以 多 用用 眨眼 和 吐 舌头 这样 的 表情 。 // Use expressions like winking and sticking out your tongue more often .</segment>
 		<segment id="192" parent="532" relname="span">使用 聊天 工具 的 内置 表情 即可 ， // Just use the built-in emoticons of the chat tool ,</segment>
-		<segment id="193" parent="521" relname="joint-list">这样 既 可以 让 你 的 目的 既 呼之欲出 ， // In this way, you can make your purpose come out,</segment>
+		<segment id="193" parent="521" relname="joint-list">这样 既 可以 让 你 的 目的 既 呼之欲出 ， // In this way, your purpose can be realized,</segment>
 		<segment id="194" parent="521" relname="joint-list">又 稍稍 有 所 保留 。 // Again with a little reservation.</segment>
 		<segment id="195" parent="196" relname="attribution-positive">同时 要 注意 ， // Also note that</segment>
 		<segment id="196" parent="522" relname="span">不 要 滥用 表情 符号 。 // Don't abuse emoji.</segment>
@@ -302,12 +302,12 @@
 		<segment id="264" parent="587" relname="joint-list">你 有事 // busy</segment>
 		<segment id="265" parent="587" relname="joint-list">要 去 忙 了 ， // I'm going to be busy,</segment>
 		<segment id="266" parent="588" relname="explanation-justify">工作 、 学习 、 睡觉 都 可以 当做 借口 。 // Work, study, and sleep can all be used as excuses.</segment>
-		<segment id="267" parent="590" relname="adversative-anthithesis">用 什么 具体 的 借口 不 重要 ， // It doesn't matter what specific excuse you use,</segment>
+		<segment id="267" parent="590" relname="adversative-antithesis">用 什么 具体 的 借口 不 重要 ， // It doesn't matter what specific excuse you use,</segment>
 		<segment id="268" parent="590" relname="same-unit">重要 的 是 // What's important is</segment>
 		<segment id="269" parent="591" relname="attribution-positive">这么 做 表明 // doing so shows</segment>
 		<segment id="270" parent="591" relname="joint-list">你 尊重 对方 的 意愿 ， // You respect each other's wishes,</segment>
 		<segment id="271" parent="592" relname="span">不 会 强行 把 谈话 进行 下去 // won't force the conversation to go on</segment>
-		<segment id="272" parent="271" relname="adversative-antithesis">让 两 方 都 尴尬 。 // Embarrassing for both parties.</segment>
+		<segment id="272" parent="271" relname="cause-result">让 两 方 都 尴尬 。 // Embarrassing for both parties.</segment>
 		<segment id="273" parent="600" relname="organization-phatic">举例 说 ， // for example ,</segment>
 		<segment id="274" parent="599" relname="adversative-contrast">如果 你 提到 一 首 具体 的 歌 ， // If you mention a specific song,</segment>
 		<segment id="275" parent="593" relname="attribution-positive">而 对方 说 // while the other said</segment>

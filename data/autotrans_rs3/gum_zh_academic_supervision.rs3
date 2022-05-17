@@ -86,7 +86,7 @@
 		<segment id="48" parent="49" relname="elaboration-attribute">抖音 虚假 新闻 造成 的 // Douyin fake news</segment>
 		<segment id="49" parent="253" relname="span">不良 影响 极 大 。 // The adverse effects are great.</segment>
 		<segment id="50" parent="316" relname="organization-heading">2.2. 抖音 虚假 新闻 的 特点 // 2.2. Features of Douyin fake news</segment>
-		<segment id="51" parent="263" relname="joint-list">1) 传播 迅速 ， // 1) spread quickly,</segment>
+		<segment id="51" parent="263" relname="joint-list">1) 传播 迅速 ， // 1) spread rapidly,</segment>
 		<segment id="52" parent="263" relname="joint-list">覆盖面 广 ， // Wide coverage ,</segment>
 		<segment id="53" parent="263" relname="joint-list">受众 群体 广 。 // A wide audience.</segment>
 		<segment id="54" parent="265" relname="span">抖音 虚假 新闻 的 裂变式 传播 数学 模型 往往 呈现 指数式 的 增长 ， // The mathematical model of the fission propagation of Douyin fake news tends to grow exponentially .</segment>
@@ -108,7 +108,7 @@
 		<segment id="70" parent="71" relname="contingency-condition">只 需 注册 // Just register</segment>
 		<segment id="71" parent="278" relname="span">便 可 拥有 独立 账户 。 // You can have a separate account.</segment>
 		<segment id="72" parent="280" relname="same-unit">而 现在 // and now</segment>
-		<segment id="73" parent="74" relname="elaboration-additional">“ 流量 为 王 ” 的 // "Traffic is King"</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">“ 流量 为 王 ” 的 // "Traffic is King"</segment>
 		<segment id="74" parent="279" relname="span">价值 导向 下 ， // value-oriented,</segment>
 		<segment id="75" parent="76" relname="purpose-goal">为 赚取 流量 // to earn traffic</segment>
 		<segment id="76" parent="281" relname="span">发布 虚假 新闻 的 // publishing fake news</segment>

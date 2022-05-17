@@ -44,10 +44,10 @@
 		<segment id="6" parent="191" relname="span">英语 中动态 是 一 种 特殊 的 语态 形式 ， // Dynamic is a special form of voice in English.</segment>
 		<segment id="7" parent="6" relname="causal-cause">因为 它 缺少 施事 // because it lacks agency</segment>
 		<segment id="8" parent="191" relname="explanation-evidence">[ 1 ] 。 // [ 1 ] .</segment>
-		<segment id="9" parent="194" relname="mode-manner">从 语义 的 角度 来看 ， // From a semantic point of view ,</segment>
-		<segment id="10" parent="194" relname="span">英语 中动态 具有 如下 特点 ： // Dynamics in English have the following characteristics :</segment>
-		<segment id="11" parent="10" relname="adversative-antithesis">1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念 // 1) non-event; 2) generality; 3) agency; 4) modal concept</segment>
-		<segment id="12" parent="195" relname="explanation-evidence">[ 2 ] 。 // [ 2 ] .</segment>
+		<segment id="9" parent="362" relname="organization-preparation">从 语义 的 角度 来看 ， // From a semantic point of view ,</segment>
+		<segment id="10" parent="11" relname="organization-preparation">英语 中动态 具有 如下 特点 ： // Dynamics in English have the following characteristics :</segment>
+		<segment id="11" parent="362" relname="span">1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念 // 1) non-event; 2) generality; 3) agency; 4) modal concept</segment>
+		<segment id="12" parent="363" relname="explanation-evidence">[ 2 ] 。 // [ 2 ] .</segment>
 		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论 如何 先于 过程 对 受事 的 影响 ， // In the study of the iconicity of the main dynamics , the action of the agent produces whatever precedes the effect of the process on the subject ,</segment>
 		<segment id="14" parent="197" relname="span">也 就 是 因 // That is because</segment>
 		<segment id="15" parent="14" relname="restatement-partial">( 施事 ) // ( Serving )</segment>
@@ -140,7 +140,7 @@
 		<segment id="102" parent="264" relname="span">从 旧 信息 // from old information</segment>
 		<segment id="103" parent="102" relname="restatement-partial">( 主位 ) // (theme)</segment>
 		<segment id="104" parent="266" relname="span">流 向 新 信息 // flow to new information</segment>
-		<segment id="105" parent="104" relname="adversative-antithesis">( 述位 ) // ( rhetorical )</segment>
+		<segment id="105" parent="104" relname="elaboration-attribute">( 述位 ) // ( rhetorical )</segment>
 		<segment id="106" parent="265" relname="same-unit">的 // of</segment>
 		<segment id="107" parent="267" relname="span">方向 移动 ， // direction move,</segment>
 		<segment id="108" parent="275" relname="same-unit">这 种 // this kind</segment>
@@ -229,9 +229,6 @@
 		<group id="191" type="span" parent="192" relname="span"/>
 		<group id="192" type="span" parent="193" relname="span"/>
 		<group id="193" type="span" parent="214" relname="joint-list"/>
-		<group id="194" type="span" parent="195" relname="span"/>
-		<group id="195" type="span" parent="196" relname="span"/>
-		<group id="196" type="span" parent="214" relname="joint-list"/>
 		<group id="197" type="span" parent="198" relname="same-unit"/>
 		<group id="198" type="multinuc" parent="13" relname="restatement-partial"/>
 		<group id="199" type="span" parent="198" relname="same-unit"/>
@@ -397,5 +394,8 @@
 		<group id="359" type="span" parent="360" relname="joint-other"/>
 		<group id="360" type="multinuc" parent="361" relname="span"/>
 		<group id="361" type="span" />
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="364" relname="span"/>
+		<group id="364" type="span" parent="214" relname="joint-list"/>
 	</body>
 </rst>

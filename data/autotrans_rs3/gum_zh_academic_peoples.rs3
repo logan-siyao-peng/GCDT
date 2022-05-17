@@ -125,7 +125,7 @@
 		<segment id="87" parent="88" relname="elaboration-attribute">2020年 1月 30日 发布 的 // Posted on January 30, 2020</segment>
 		<segment id="88" parent="283" relname="span">“ 一 对 母女 在 火车站 悄悄 放下 十多 瓶 消毒 液 ” ； // "A mother and daughter quietly put down more than ten bottles of disinfectant at the train station";</segment>
 		<segment id="89" parent="282" relname="same-unit">“ 火神山 医院 病区 初具雏形 ” ； // "Huoshenshan Hospital Ward takes shape";</segment>
-		<segment id="90" parent="91" relname="adversative-antithesis">2月 10日 发布 的 // Posted on February 10th</segment>
+		<segment id="90" parent="91" relname="elaboration-attribute">2月 10日 发布 的 // Posted on February 10th</segment>
 		<segment id="91" parent="284" relname="span">“ 武汉 方舱 医院 医生 患者 一起 打 太极 ” // "Wuhan Fangcang Cabin Hospital Doctors and Patients Do Tai Chi together"</segment>
 		<segment id="92" parent="282" relname="same-unit">等 视频 ， 都 用 // Wait for the video, use it</segment>
 		<segment id="93" parent="94" relname="elaboration-attribute">适合 该 素材 的 // suitable for the material</segment>

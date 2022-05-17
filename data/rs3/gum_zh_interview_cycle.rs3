@@ -138,7 +138,7 @@
 		<segment id="100" parent="101" relname="elaboration-attribute">所 设计 出来 的</segment>
 		<segment id="101" parent="209" relname="span">成品 ， 原料 上 已经 符合 产品 认证 的 需求 。</segment>
 		<segment id="102" parent="250" relname="same-unit">其他</segment>
-		<segment id="103" parent="104" relname="elaboration-additional">针对 这 次 设计 的</segment>
+		<segment id="103" parent="104" relname="elaboration-attribute">针对 这 次 设计 的</segment>
 		<segment id="104" parent="249" relname="span">一些 看法 ？</segment>
 		<segment id="105" parent="214" relname="joint-list">或是 ， 有 何 特别 之 处 ？</segment>
 		<segment id="106" parent="215" relname="attribution-positive">大家 应该 知道 ，</segment>
@@ -161,7 +161,7 @@
 		<segment id="123" parent="225" relname="same-unit">一 个 很 典型 、 神力 的 动物 ， 让 选手</segment>
 		<segment id="124" parent="125" relname="context-circumstance">比赛 时 ，</segment>
 		<segment id="125" parent="224" relname="span">更 有 精神 ，</segment>
-		<segment id="126" parent="232" relname="adversative-antithesis">总而言之 ， 希望</segment>
+		<segment id="126" parent="232" relname="attribution-positive">总而言之 ， 希望</segment>
 		<segment id="127" parent="232" relname="same-unit">这 种</segment>
 		<segment id="128" parent="129" relname="elaboration-attribute">结合 现代 与 传统 的</segment>
 		<segment id="129" parent="231" relname="span">设计 ， 能 更 具 代表性 。</segment>

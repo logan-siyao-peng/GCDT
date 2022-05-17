@@ -60,7 +60,7 @@
 		<segment id="22" parent="23" relname="attribution-positive">期望</segment>
 		<segment id="23" parent="126" relname="span">儿女 能 学有所成 ，</segment>
 		<segment id="24" parent="131" relname="span">可惜 母亲 樋口多喜 思想 保守 ，</segment>
-		<segment id="25" parent="26" relname="adversative-antithesis">认为</segment>
+		<segment id="25" parent="26" relname="attribution-positive">认为</segment>
 		<segment id="26" parent="130" relname="span">女子 无 才 便 是 德 ，</segment>
 		<segment id="27" parent="133" relname="same-unit">所以 樋口 11 岁</segment>
 		<segment id="28" parent="29" relname="adversative-concession">还 没 念毕 小学</segment>
