@@ -24,18 +24,19 @@ A GUM-like RST dataset for Chinese
 ### By Genre
 | Genre   |  Number of documents |  Number of tokens per document | Number of EDUs per document |
 |:----------:|:-------------:|------:|------:|
-| academic | 1416.9 | 204.9 |
-| bio |    1348.6 |	206 |
-| interview | 1146.5 | 183.2 |
-| news | 1124.9 | 166 |
-| wikihow | 1253.9 | 224.1 |
+| academic | 10 | 1416.9 | 204.9 |
+| bio | 10 |    1348.6 |	206 |
+| interview | 10 | 1146.5 | 183.2 |
+| news | 10 | 1124.9 | 166 |
+| wikihow | 10 | 1253.9 | 224.1 |
 
 
 ### relation distribution
 TODO: check which ones to include 
 
 | relation name | total counts | percentage |
-| joint-list | 28 d65 | 22.32 |
+|:----------:|------:|------:|
+| joint-list | 2865 | 22.32 |
 | same-unit | 2402 | 18.71 |
 | elaboration-attribute | 970 | 7.56 |
 | joint-sequence | 628 | 4.89 |
