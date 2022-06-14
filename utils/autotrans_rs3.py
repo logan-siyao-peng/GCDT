@@ -25,7 +25,7 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	
 	# read and translate rs3 lines
 	print("o Start translating file: ", basename)
-	rs3_lines = read_text_file(rs3_file)
+	rs3_lines = read_text_file(rs3_file, include_xml=True)
 	edus = []
 	for line_id, line in enumerate(rs3_lines):
 		if "<segment" in line:
@@ -37,6 +37,7 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 					m_trans = m_text
 				else:
 					m_trans = translator.translate(m_text)
+					m_trans.replace(" & ", " &amp; ")
 				rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:]
 				print("o Done with translating line: %d" % line_id, end="\r")
 	

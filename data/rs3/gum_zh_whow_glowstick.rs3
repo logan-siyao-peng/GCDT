@@ -112,7 +112,7 @@
 		<segment id="74" parent="282" relname="same-unit">等 网站 ，</segment>
 		<segment id="75" parent="282" relname="causal-cause">这些 网站 上 出售 相关 实验 用具 。</segment>
 		<segment id="76" parent="288" relname="span">所有 溶剂 都 要 充分 混合 。</segment>
-		<segment id="77" parent="286" relname="joint-disjunction">不 要 用 手 搅拌 溶剂 ，</segment>
+		<segment id="77" parent="286" relname="adversative-antithesis">不 要 用 手 搅拌 溶剂 ，</segment>
 		<segment id="78" parent="286" relname="span">要 用 厨房 用具 之类 的 东西 ，</segment>
 		<segment id="79" parent="78" relname="explanation-evidence">金属 或 塑料 的 都 可以 。</segment>
 		<segment id="80" parent="294" relname="same-unit">4 清洗</segment>

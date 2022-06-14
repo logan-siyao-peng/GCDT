@@ -65,12 +65,12 @@
 		<segment id="27" parent="149" relname="span">设计 冠军 领骑衫 的</segment>
 		<segment id="28" parent="150" relname="span">原因 ？</segment>
 		<segment id="29" parent="152" relname="span">我们</segment>
-		<segment id="30" parent="29" relname="restatement-partial">（ 德懋 国际 ）</segment>
+		<segment id="30" parent="29" relname="elaboration-attribute">（ 德懋 国际 ）</segment>
 		<segment id="31" parent="153" relname="same-unit">非常 荣幸 ，</segment>
 		<segment id="32" parent="155" relname="span">能 赞助 这 次 的 环台赛 。</segment>
 		<segment id="33" parent="161" relname="joint-list">在此之前 ， （ 我们 ） 都 密集 地 和 秘书长 与 副秘书长 进行 联系 ，</segment>
 		<segment id="34" parent="156" relname="span">并 透过 纺织 产业界 知名 的 研究 单位</segment>
-		<segment id="35" parent="34" relname="restatement-partial">─ 纺织 产业 综合 研究所 ，</segment>
+		<segment id="35" parent="34" relname="elaboration-attribute">─ 纺织 产业 综合 研究所 ，</segment>
 		<segment id="36" parent="157" relname="span">进行 新 材质 开发 上 的 技术 合作 ，</segment>
 		<segment id="37" parent="159" relname="same-unit">并 在</segment>
 		<segment id="38" parent="39" relname="elaboration-attribute">应用 新 材质 的</segment>

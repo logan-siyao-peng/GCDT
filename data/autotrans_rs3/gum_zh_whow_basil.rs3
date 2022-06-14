@@ -49,7 +49,7 @@
 		<segment id="11" parent="208" relname="joint-list">来 看看 如何 种植 和 收获 罗勒 。 // Come see how to grow and harvest basil.</segment>
 		<segment id="12" parent="13" relname="organization-preparation">方法 1 // method 1</segment>
 		<segment id="13" parent="212" relname="span">播种 // sowing</segment>
-		<segment id="14" parent="211" relname="same-unit">1 选择 // 1 selection</segment>
+		<segment id="14" parent="211" relname="same-unit">1 选择 // 1 select</segment>
 		<segment id="15" parent="16" relname="elaboration-attribute">你 想要 种植 的 // what you want to plant</segment>
 		<segment id="16" parent="210" relname="span">品种 。 // Variety .</segment>
 		<segment id="17" parent="213" relname="joint-list">罗勒 有 很多 品种 ， // There are many varieties of basil,</segment>

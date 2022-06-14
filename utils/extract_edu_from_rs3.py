@@ -5,7 +5,7 @@ from glob import glob
 from utils import read_text_file, get_basename, write_lines_file, get_file_modified_time
 
 def extract_edus_from_rs3(rs3_file, extracted_edu_file=None):
-	rs3_lines = read_text_file(rs3_file)
+	rs3_lines = read_text_file(rs3_file, include_xml=True)
 	edus = []
 	for line in rs3_lines:
 		if "<segment" in line:

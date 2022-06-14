@@ -37,177 +37,178 @@
 	</header>
 	<body>
 		<segment id="1" parent="2" relname="organization-preparation">半导体 展外 一 章 // Chapter on Semiconductor Exhibition</segment>
-		<segment id="2" parent="322" relname="span">西门子 自动化 之 城 展现 企业 形象 // Siemens Automation City Shows Corporate Image</segment>
-		<segment id="3" parent="320" relname="context-circumstance">【 2007年 9月 14日 讯 】 // 【 News on September 14, 2007 】</segment>
+		<segment id="2" parent="321" relname="span">西门子 自动化 之 城 展现 企业 形象 // Siemens Automation City Shows Corporate Image</segment>
+		<segment id="3" parent="319" relname="context-circumstance">【 2007年 9月 14日 讯 】 // 【 News on September 14, 2007 】</segment>
 		<segment id="4" parent="174" relname="context-background">台湾 半导体 设备 暨 材料展 ， 今日 进入 最后 一 天 的 展期 ， // The Taiwan Semiconductor Equipment and Materials Exhibition is entering the last day of the exhibition today.</segment>
-		<segment id="5" parent="169" relname="same-unit">参展 厂商 之一 的 西门子 ， // Siemens , one of the exhibitors ,</segment>
-		<segment id="6" parent="170" relname="purpose-goal">为了 配合 半导体展 ， // In order to cooperate with the semiconductor exhibition ,</segment>
-		<segment id="7" parent="170" relname="span">今年 也 首 度 从 国外 引进 “ 自动化 之 城 ” // This year is also the first time to introduce the "city of automation" from abroad.</segment>
+		<segment id="5" parent="170" relname="same-unit">参展 厂商 之一 的 西门子 ， // Siemens , one of the exhibitors ,</segment>
+		<segment id="6" parent="171" relname="purpose-goal">为了 配合 半导体展 ， // In order to cooperate with the semiconductor exhibition ,</segment>
+		<segment id="7" parent="171" relname="span">今年 也 首 度 从 国外 引进 “ 自动化 之 城 ” // This year is also the first time to introduce the "city of automation" from abroad.</segment>
 		<segment id="8" parent="7" relname="restatement-partial">（ exiderdome ） // (exiderdome)</segment>
-		<segment id="9" parent="169" relname="same-unit">到 台湾 ， // to Taiwan,</segment>
-		<segment id="10" parent="173" relname="same-unit">透过 双 层 货柜 ， 在 // through double-deck containers</segment>
-		<segment id="11" parent="12" relname="elaboration-attribute">台北市 信义区 A13 停车场 架设 的 // Erected in the A13 parking lot in Xinyi District, Taipei City</segment>
-		<segment id="12" parent="172" relname="span">展区 ， 让 各 相关 产业 人士 了解 德国 西门子 公司 的 企业 运作 与 形象 ， // In the exhibition area , people from all relevant industries can understand the business operation and image of Siemens AG in Germany .</segment>
-		<segment id="13" parent="174" relname="joint-list">并且 体验 自动化 的 强大 优势 。 // And experience the powerful benefits of automation .</segment>
-		<segment id="14" parent="176" relname="span">为 此 ， 维基 新闻 记者 Brock ， 访问 了 西门子 自动化 暨 驱动 事业部 的 跨国 专案 经理 黄文琪 // To this end , Wikinews reporter Brock visited Wenqi Huang , the multinational project manager of Siemens Automation and Drives Division .</segment>
-		<segment id="15" parent="14" relname="restatement-partial">（ Stephen Huang ） // (Stephen Huang)</segment>
-		<segment id="16" parent="175" relname="span">与 协理 郑智峰 // With Associate Director Zheng Zhifeng</segment>
-		<segment id="17" parent="16" relname="restatement-partial">（ Ken Cheng ） ， // (Ken Cheng),</segment>
-		<segment id="18" parent="178" relname="joint-list">并 借由 展览 的 参访 ， 让 西门子 介绍 本次 展出 的 特色 ， // And through the visit of the exhibition , let Siemens introduce the characteristics of this exhibition ,</segment>
-		<segment id="19" parent="181" relname="same-unit">以下 是 // The following are</segment>
-		<segment id="20" parent="21" relname="elaboration-attribute">针对 本次 特展 所 进行 的 // for this special exhibition</segment>
-		<segment id="21" parent="180" relname="span">访问 内容 。 // Access content.</segment>
-		<segment id="22" parent="290" relname="organization-heading">参观 时间 的 访问 // visit time of visit</segment>
-		<segment id="23" parent="24" relname="elaboration-attribute">选择 台湾 的 // Choose from Taiwan</segment>
-		<segment id="24" parent="184" relname="span">原因 ？ // reason ?</segment>
-		<segment id="25" parent="26" relname="organization-phatic">您好 ， // Hello ,</segment>
-		<segment id="26" parent="185" relname="span">很 荣幸 来到 西门子 的 “ exiderdome ” ， // It is a great honor to come to Siemens " exiderdome " ,</segment>
-		<segment id="27" parent="190" relname="same-unit">请教 一下 这 次 // Please tell me this time</segment>
-		<segment id="28" parent="186" relname="joint-list">配合 半导体展 // Cooperate with semiconductor exhibition</segment>
-		<segment id="29" parent="187" relname="span">选择 台湾 // Choose Taiwan</segment>
-		<segment id="30" parent="29" relname="purpose-goal">进行 展出 // to exhibit</segment>
-		<segment id="31" parent="188" relname="same-unit">的 // of</segment>
-		<segment id="32" parent="189" relname="span">原因 和 机缘 ？ // Reason and chance?</segment>
-		<segment id="33" parent="192" relname="joint-list">很 荣幸 接受 您 的 访问 ， // It is an honor to accept your visit ,</segment>
-		<segment id="34" parent="192" relname="joint-list">本人 非常 感激 。 // I am very grateful.</segment>
-		<segment id="35" parent="36" relname="attribution-positive">其实 ， 西门子 这 次 来到 台湾 进行 这 项 特展 ， 是 希望 // In fact , Siemens came to Taiwan to hold this special exhibition this time .</segment>
-		<segment id="36" parent="193" relname="span">借由 “ 自动化 之 城 ” 的 展示 ， 让 许多 产业 了解 到 企业 自动化 流程 运作 的 优势 ， // Through the demonstration of "City of Automation", many industries can understand the advantages of enterprise automation process operation,</segment>
-		<segment id="37" parent="195" relname="adversative-concession">虽然 本次 展出 恰巧 也选 在 半导体展 的 期间 ， // Although this exhibition happened to be during the semiconductor exhibition,</segment>
-		<segment id="38" parent="195" relname="same-unit">但 实际 上 ， 西门子 // But in fact, Siemens</segment>
-		<segment id="39" parent="40" relname="elaboration-attribute">针对 半导体 产业 的 // for the semiconductor industry</segment>
-		<segment id="40" parent="194" relname="span">解决 方案 ， 其实 仅 有 2 ~ 3% 的 比率 ， // The solution, in fact, is only 2 to 3% of the rate,</segment>
-		<segment id="41" parent="42" relname="attribution-positive">因为 西门子 在 本次 展示 中 ， 是 希望 // Because Siemens in this exhibition, is the hope</segment>
-		<segment id="42" parent="197" relname="span">将 上下游 厂商 整合 、 产品 生命 周期 转换 的 观念 ， 让 所有 工业界 了解 到 自动化 的 优势 。 // The concept of integrating upstream and downstream manufacturers and transforming product life cycles makes all industries understand the advantages of automation .</segment>
-		<segment id="43" parent="198" relname="joint-list">这 次 选择 台湾 ， 是 第一 次 // This is the first time to choose Taiwan</segment>
-		<segment id="44" parent="198" relname="joint-list">也 是 唯一 的 一 次 ， // Also the only time</segment>
-		<segment id="45" parent="199" relname="span">起因 是 西门子 总部 在 台湾 和 其他 产业 合作 ， 已 有 50 年 的 历史 ， // The reason is that Siemens headquarters in Taiwan has cooperated with other industries, which has a history of 50 years.</segment>
-		<segment id="46" parent="45" relname="elaboration-additional">包括 台北 101 照明 、 台湾 地区 的 电力 设备 、 台北 捷运 系统 等 ， 都 有 相当 丰硕 的 成果 ， // Including Taipei 101 lighting , electrical equipment in Taiwan , Taipei MRT system , etc., all have quite fruitful results.</segment>
-		<segment id="47" parent="200" relname="attribution-positive">总部 也 希望 // Headquarters also hope</segment>
-		<segment id="48" parent="200" relname="joint-list">借由 台湾 的 展出 ， 让 产业界 了解 到 企业 流程 的 需求 ， // Through Taiwan's exhibition, let the industry understand the needs of enterprise process,</segment>
-		<segment id="49" parent="200" relname="joint-list">并 协助 台湾 企业 的 发展 。 // And assist the development of Taiwanese enterprises .</segment>
-		<segment id="50" parent="293" relname="organization-heading">产品 生命 周期 的 应对 // Product life cycle response</segment>
-		<segment id="51" parent="213" relname="attribution-positive">在 周二 的 SEMI 展前 记者会 中 ， 部分 厂商 提到 ， // In Tuesday 's SEMI pre - show press conference , some manufacturers mentioned that ,</segment>
-		<segment id="52" parent="212" relname="same-unit">现在 的 产品 生命 周期 ， // The current product life cycle,</segment>
-		<segment id="53" parent="210" relname="joint-list">因为 消费者 求新 求变 的 需求 ， // Because of consumers' demand for innovation and change,</segment>
-		<segment id="54" parent="210" relname="joint-list">加上 许多 产品 的 人性化 ， // Plus the humanization of many products ,</segment>
-		<segment id="55" parent="211" relname="span">衍生 出 不同 的 周期 ， // Derive different cycles,</segment>
-		<segment id="56" parent="213" relname="span">而 导致 厂商 必须 获取 新 的 物料 与 升级 生产 技术 ， // As a result , manufacturers must acquire new materials and upgrade production technologies .</segment>
-		<segment id="57" parent="58" relname="context-circumstance">面对 这些 趋势 ， // In the face of these trends ,</segment>
-		<segment id="58" parent="214" relname="span">西门子 要 如何 应对 这 股 潮流 ？ // How does Siemens respond to this trend ?</segment>
-		<segment id="59" parent="217" relname="same-unit">西门子 在 工业 上 ， 是 以 // Siemens in industry, is to</segment>
-		<segment id="60" parent="61" relname="elaboration-attribute">服务 提供者 的 // service provider</segment>
-		<segment id="61" parent="216" relname="span">角色 ， 提供 产业 在 各 方面 的 解决 方案 ， // role, to provide industry solutions in all aspects,</segment>
-		<segment id="62" parent="220" relname="same-unit">至今 ， 现在 的 厂商 ， // So far , the current manufacturers ,</segment>
-		<segment id="63" parent="64" relname="adversative-concession">无论 晶圆 与 精密 产品 ， // Regardless of wafers and precision products ,</segment>
-		<segment id="64" parent="219" relname="span">讲求 的 是 以 产品 整合 与 少量 多样 为 主 ， // The emphasis is on product integration and a small amount of variety.</segment>
-		<segment id="65" parent="222" relname="same-unit">面对 // face</segment>
-		<segment id="66" parent="67" relname="elaboration-attribute">声明 周期 瞬息万变 的 // The declaration cycle is changing rapidly</segment>
-		<segment id="67" parent="221" relname="span">趋势 ， // trend,</segment>
-		<segment id="68" parent="223" relname="span">厂商 必须 搜集 好 相关 的 资讯 ， // Manufacturers must collect relevant information.</segment>
-		<segment id="69" parent="291" relname="joint-list">在 生产线 方面 ， 中央 控制 系统 与 产能 的 控制 都 显得 重要 许多 ， // In the production line , the control of the central control system and the production capacity is very important.</segment>
-		<segment id="70" parent="229" relname="same-unit">另外 ， 厂商 // In addition, the manufacturer</segment>
-		<segment id="71" parent="72" relname="elaboration-attribute">在 生产 过程 中 的 // in the production process</segment>
-		<segment id="72" parent="228" relname="span">用电 负荷 ， 也 是 值得 去 注意 的 ， // Electricity load is also worth paying attention to.</segment>
-		<segment id="73" parent="227" relname="organization-preparation">因此 ， 西门子 也 有 一 套 电力 资讯 的 解决 方案 ， // Therefore , Siemens also has a set of solutions for power information .</segment>
-		<segment id="74" parent="226" relname="same-unit">让 厂商 可以 了解 到 // Let manufacturers understand</segment>
-		<segment id="75" parent="76" relname="context-circumstance">生产 时 // production time</segment>
-		<segment id="76" parent="224" relname="span">消耗 的 // Consumed</segment>
-		<segment id="77" parent="225" relname="span">相关 成本 // Related costs</segment>
-		<segment id="78" parent="226" relname="elaboration-additional">（ 资金 、 电力 、 材料 … 等 ） ， // (funding, electricity, materials, etc.),</segment>
-		<segment id="79" parent="230" relname="purpose-goal">进而 达到 最佳 的 生产 效益 。 // In order to achieve the best production efficiency .</segment>
-		<segment id="80" parent="234" relname="same-unit">因此 ， 西门子 就 // Therefore, Siemens</segment>
-		<segment id="81" parent="82" relname="mode-means">以 全方位 整合 供电 系统 与 全方位 整合 自动化 作为 主题 ， // Taking the all-round integrated power supply system and all-round integrated automation as the theme ,</segment>
-		<segment id="82" parent="233" relname="span">进行 展出 。 // to exhibit.</segment>
-		<segment id="83" parent="260" relname="organization-heading">西门子 的 其他 投资 // Siemens' other investments</segment>
-		<segment id="84" parent="241" relname="attribution-positive">就 本人 所 知 ， // As far as I know,</segment>
-		<segment id="85" parent="236" relname="same-unit">西门子 // Siemens</segment>
-		<segment id="86" parent="87" relname="context-background">除了 工业 解决 方案 ， // In addition to industrial solutions ,</segment>
-		<segment id="87" parent="235" relname="span">以往 也 在 电信 产业 是 很 出名 的 ， // He was also famous in the telecommunications industry in the past .</segment>
-		<segment id="88" parent="240" relname="same-unit">甚至 还 有 // there are even</segment>
-		<segment id="89" parent="237" relname="span">和 明基 // and BenQ</segment>
-		<segment id="90" parent="89" relname="elaboration-additional">（ 佳士达 电通 ） // ( Christie's Dentsu )</segment>
-		<segment id="91" parent="238" relname="same-unit">合作 建立 BenQ-Siemens 的 // Cooperation to build BenQ-Siemens</segment>
-		<segment id="92" parent="239" relname="span">品牌 ， 驰名于 欧洲 地区 ， // brand, well-known in Europe,</segment>
-		<segment id="93" parent="242" relname="span">为何 在 后来 会 舍弃 电信 产业 这 区块 ？ // Why would you abandon the telecommunications industry in the future?</segment>
-		<segment id="94" parent="244" relname="joint-list">影响 ？ // Influence ?</segment>
-		<segment id="95" parent="246" relname="adversative-concession">西门子 以往 在 电信 产业 确实 有 一定 的 名气 ， // Siemens did have a certain reputation in the telecommunications industry in the past .</segment>
-		<segment id="96" parent="245" relname="context-circumstance">但是 在 电信 技术 的 趋势 持续 转变 的 状态 下 ， // However , in a state where trends in telecommunications technology continue to change ,</segment>
-		<segment id="97" parent="245" relname="adversative-contrast">电信界 的 龙头 老大 摩托 罗拉 就 一直 稳定 成长 ， // Motorola, the leader in the telecommunications industry, has been growing steadily.</segment>
-		<segment id="98" parent="245" relname="adversative-contrast">反之 ， 西门子 却 出现 衰退 的 情形 ， // On the contrary , Siemens is in decline ,</segment>
-		<segment id="99" parent="248" relname="span">因此 在 后来 ， 才 会 将 这 区块 给 放弃 。 // Therefore, this block will be abandoned later.</segment>
-		<segment id="100" parent="254" relname="span">但是 ， 并不 影响 到 其他 部门 的 运作 ， // However, it does not affect the operation of other departments.</segment>
-		<segment id="101" parent="250" relname="span">原先 的 电子 产业 ， 就 持续 地 成长 ， // The original electronics industry continued to grow,</segment>
-		<segment id="102" parent="103" relname="elaboration-attribute">我们 所 见到 的 // what we saw</segment>
-		<segment id="103" parent="249" relname="span">台北 101 夜间 照明 、 台北 捷运 列车 、 台湾 的 电力 设备 ， 都 可以 见到 西门子 的 影子 ， // The shadow of Siemens can be seen in Taipei 101 night lighting, Taipei MRT trains, and Taiwan's electrical equipment.</segment>
-		<segment id="104" parent="252" relname="same-unit">所以 这 就 是 // So this is</segment>
-		<segment id="105" parent="106" relname="elaboration-attribute">西门子 可以 立足 电子业 的 // Siemens can establish itself in the electronics industry</segment>
-		<segment id="106" parent="251" relname="span">关键 。 // The essential .</segment>
-		<segment id="107" parent="258" relname="joint-list">我们 这 次 展出 ， 的确 有 很多 的 解决 方案 ， // We do have a lot of solutions in this exhibition.</segment>
-		<segment id="108" parent="257" relname="same-unit">让 各 产业 的 生产 过程 标准化 ， 是 西门子 现今 发展 的 目标 ， // Standardizing the production process of various industries is the goal of Siemens' development today.</segment>
-		<segment id="109" parent="110" relname="elaboration-attribute">进而 使 我们 从 竞争者 转变 成 服务 提供者 的 // which transforms us from a competitor to a service provider</segment>
-		<segment id="110" parent="256" relname="span">原因 。 // reason .</segment>
-		<segment id="111" parent="274" relname="organization-heading">特展 的 其他 特色 // Other features of the special exhibition</segment>
-		<segment id="112" parent="263" relname="same-unit">除了 // Apart from</segment>
-		<segment id="113" parent="114" relname="elaboration-attribute">您 之前 讲过 的 // what you said before</segment>
-		<segment id="114" parent="262" relname="span">两 项 重点 以外 ， // In addition to the two key points,</segment>
-		<segment id="115" parent="264" relname="span">这 次 的 “ exiderdome ” 来 台 展出 ， 其他 的 特色 内容 还 包含 ？ // This " exiderdome " comes to Taiwan to exhibit , what other features are included ?</segment>
-		<segment id="116" parent="272" relname="span">这 次 展览 当中 ， 我们 的 解决 方案 就 包含 电力 供应 、 RFID 技术 、 自动 感应器 等 三 大 项目 ， // In this exhibition, our solutions include power supply, RFID technology, automatic sensors and other three major projects.</segment>
-		<segment id="117" parent="116" relname="elaboration-additional">每 一 个 产业 都 有 专属 的 解决 方案 ， // Every industry has its own solution,</segment>
-		<segment id="118" parent="267" relname="context-background">另外 ， 在 多媒体馆 内 的 影片 导览 中 ， 我们 在 三 面 墙 上 设置 了 旋转 镜面 ， // In addition , in the video tour in the multimedia hall , we have set up rotating mirrors on three walls.</segment>
-		<segment id="119" parent="266" relname="same-unit">以 立体 实境 的 方式 ， 让 参观者 可以 快速 进入 // In the form of three-dimensional reality , visitors can quickly enter</segment>
-		<segment id="120" parent="121" relname="elaboration-attribute">西门子 提出 的 // proposed by Siemens</segment>
-		<segment id="121" parent="265" relname="span">自动化 世界 ， // automated world,</segment>
-		<segment id="122" parent="267" relname="joint-list">让 参观者 可以 了解 到 自动化 对 企业 的 好处 ， // so that visitors can understand the benefits of automation for enterprises,</segment>
-		<segment id="123" parent="270" relname="same-unit">也 符合 // also meet</segment>
-		<segment id="124" parent="125" relname="elaboration-attribute">我们 提出 的 // we propose</segment>
-		<segment id="125" parent="268" relname="span">“ 全方位 整合 自动化 ” // "Fully Integrated Automation"</segment>
-		<segment id="126" parent="269" relname="span">方案 。 // Program .</segment>
-		<segment id="127" parent="288" relname="organization-heading">西门子 在 台湾 // Siemens in Taiwan</segment>
-		<segment id="128" parent="129" relname="context-circumstance">在 您 走 过 这 两 层 楼 的 展示 后 ， // After you walk through these two floors of displays,</segment>
-		<segment id="129" parent="286" relname="span">其实 可以 见到 西门子 在 台湾 的 形象 与 成果 ， // In fact , you can see the image and achievements of Siemens in Taiwan .</segment>
-		<segment id="130" parent="278" relname="span">台湾 在 北 、 中 、 南 皆 有 据点 ， // Taiwan has strongholds in the North, Central and South.</segment>
-		<segment id="131" parent="132" relname="mode-means">以 台北 为 中心 // Centered on Taipei</segment>
-		<segment id="132" parent="277" relname="span">向 各 地 扩展 ， // expand everywhere,</segment>
-		<segment id="133" parent="284" relname="span">西门子 要 提供 的 ， 是 给 各 产业 的 解决 方案 ， // Siemens wants to provide solutions for various industries.</segment>
-		<segment id="134" parent="283" relname="same-unit">而 // and</segment>
-		<segment id="135" parent="136" relname="elaboration-attribute">配合 世贸 进行 的 // in cooperation with the WTO</segment>
-		<segment id="136" parent="282" relname="span">半导体 展览 ， 我们 也 提供 了 相应 的 方案 给 // Semiconductor exhibition, we also provide corresponding solutions to</segment>
-		<segment id="137" parent="138" relname="elaboration-attribute">有 兴趣 的 // Interested in</segment>
-		<segment id="138" parent="279" relname="span">客户 ， // client ,</segment>
-		<segment id="139" parent="281" relname="same-unit">这 是 // This is</segment>
-		<segment id="140" parent="141" relname="elaboration-attribute">我们 选择 在 信义 商圈 展出 的 // We choose to exhibit in Xinyi business district</segment>
-		<segment id="141" parent="280" relname="span">原因 。 // reason .</segment>
-		<segment id="142" parent="316" relname="organization-heading">结论 // in conclusion</segment>
-		<segment id="143" parent="144" relname="elaboration-attribute">在 台北 世贸 举行 的 // held at the Taipei World Trade Center</segment>
-		<segment id="144" parent="295" relname="span">部分 国际 大展 ， 时常 都 可以 见到 // Some international exhibitions can often be seen</segment>
-		<segment id="145" parent="297" relname="same-unit">某些 厂商 // certain manufacturers</segment>
-		<segment id="146" parent="147" relname="purpose-goal">为了 展现 企业 形象 ， // In order to show the corporate image ,</segment>
-		<segment id="147" parent="296" relname="span">选 在 周边 或 其他 地方 // Choose in the surrounding or other places</segment>
-		<segment id="148" parent="298" relname="joint-list">举行 宣传性 的 展外展 ， 或是 商机 洽谈 的 活动 。 // Hold promotional outreach or business opportunities negotiation events .</segment>
-		<segment id="149" parent="305" relname="joint-list">往年 ， 台北 电信展 中 ， 部分 国内 大厂 的 比拼 ， 甚至 连 台北 东区 都 成为 战场 ； // In previous years, in the Taipei Telecom Show, some domestic manufacturers competed, and even the Eastern District of Taipei became a battlefield;</segment>
-		<segment id="150" parent="303" relname="organization-preparation">国际 电脑展 呢 ？ // What about Computex?</segment>
-		<segment id="151" parent="300" relname="span">则 是 某些 厂商 把 世贸 商圈 ， 用 不同 的 型式 互相 拼场 ， // On the other hand, some manufacturers use the WTO business district to compete with each other in different forms.</segment>
-		<segment id="152" parent="301" relname="joint-list">有的 是 租下 周边 广告 ， // Some rent the surrounding advertisements,</segment>
-		<segment id="153" parent="302" relname="joint-list">有的 则 是 在 周边 办 活动 // Some are holding events in the surrounding area</segment>
-		<segment id="154" parent="302" relname="joint-list">拉 人气 ， // pull popularity,</segment>
-		<segment id="155" parent="300" relname="evaluation-comment">足以 显见 展外展 对于 正式 展览 的 正面 效应 。 // It is enough to see the positive effect of exhibition outreach on formal exhibitions .</segment>
-		<segment id="156" parent="306" relname="joint-list">而 本次 的 半导体展 中 ， 参展商 之一 的 西门子 ， 将 邻近 新光 商圈 的 停车场 给 租 下来 ， // In this semiconductor exhibition , Siemens , one of the exhibitors , rented out the parking lot near the Shin Kong business district .</segment>
-		<segment id="157" parent="306" relname="joint-list">并 从 国外 引进 货柜屋 ， // And imported container houses from abroad,</segment>
-		<segment id="158" parent="306" relname="purpose-goal">进行 这 项 产业 解决 方案 的 展示 ， // To demonstrate this industrial solution ,</segment>
-		<segment id="159" parent="308" relname="joint-list">着实 地 为 展览 加分 ， // Really add points to the exhibition,</segment>
-		<segment id="160" parent="308" relname="joint-list">并 达成 了 宣传 效果 ， // And achieved the effect of publicity ,</segment>
-		<segment id="161" parent="310" relname="same-unit">也 确实 将 // will indeed</segment>
-		<segment id="162" parent="163" relname="elaboration-attribute">他们 要 呈现 的 // what they want to present</segment>
-		<segment id="163" parent="309" relname="span">技术 成果 发挥 得 淋漓 尽致 。 // The technological achievements are brought into full play.</segment>
-		<segment id="164" parent="312" relname="attribution-positive">预料 // expected</segment>
-		<segment id="165" parent="312" relname="same-unit">在 未来 ， // in the future ,</segment>
-		<segment id="166" parent="167" relname="adversative-concession">无论 哪 一 项 国际 展览 ， // No matter which international exhibition,</segment>
-		<segment id="167" parent="311" relname="span">类似 的 展外展 比拼 ， 仍就 会 成为 各 家 媒体 瞩目 的 焦点 。 // Similar outreach competitions will still attract the attention of various media .</segment>
-		<group id="168" type="span" parent="169" relname="same-unit"/>
-		<group id="169" type="multinuc" parent="174" relname="joint-list"/>
-		<group id="170" type="span" parent="168" relname="span"/>
+		<segment id="9" parent="170" relname="same-unit">到 台湾 ， // to Taiwan,</segment>
+		<segment id="10" parent="173" relname="mode-means">透过 双层 货柜 ， // Through the double-layer container,</segment>
+		<segment id="11" parent="173" relname="same-unit">在 // exist</segment>
+		<segment id="12" parent="13" relname="elaboration-attribute">台北市 信义区 A13 停车场 架设 的 // Erected in the A13 parking lot in Xinyi District, Taipei City</segment>
+		<segment id="13" parent="172" relname="span">展区 ， 让 各 相关 产业 人士 了解 德国 西门子 公司 的 企业 运作 与 形象 ， // In the exhibition area , people from all relevant industries can understand the business operation and image of Siemens AG in Germany .</segment>
+		<segment id="14" parent="174" relname="joint-list">并且 体验 自动化 的 强大 优势 。 // And experience the powerful benefits of automation .</segment>
+		<segment id="15" parent="176" relname="span">为 此 ， 维基 新闻 记者 Brock ， 访问 了 西门子 自动化 暨 驱动 事业部 的 跨国 专案 经理 黄文琪 // To this end , Wikinews reporter Brock visited Wenqi Huang , the multinational project manager of Siemens Automation and Drives Division .</segment>
+		<segment id="16" parent="15" relname="restatement-partial">（ Stephen Huang ） // (Stephen Huang)</segment>
+		<segment id="17" parent="175" relname="span">与 协理 郑智峰 // With Associate Director Zheng Zhifeng</segment>
+		<segment id="18" parent="17" relname="restatement-partial">（ Ken Cheng ） ， // (Ken Cheng),</segment>
+		<segment id="19" parent="178" relname="joint-list">并 借由 展览 的 参访 ， 让 西门子 介绍 本次 展出 的 特色 ， // And through the visit of the exhibition , let Siemens introduce the characteristics of this exhibition ,</segment>
+		<segment id="20" parent="181" relname="same-unit">以下 是 // The following are</segment>
+		<segment id="21" parent="22" relname="elaboration-attribute">针对 本次 特展 所 进行 的 // for this special exhibition</segment>
+		<segment id="22" parent="180" relname="span">访问 内容 。 // Access content.</segment>
+		<segment id="23" parent="289" relname="organization-heading">参观 时间 的 访问 // visit time of visit</segment>
+		<segment id="24" parent="25" relname="elaboration-attribute">选择 台湾 的 // Choose from Taiwan</segment>
+		<segment id="25" parent="184" relname="span">原因 ？ // reason ?</segment>
+		<segment id="26" parent="27" relname="organization-phatic">您好 ， // Hello ,</segment>
+		<segment id="27" parent="185" relname="span">很 荣幸 来到 西门子 的 “ exiderdome ” ， // It is a great honor to come to Siemens " exiderdome " ,</segment>
+		<segment id="28" parent="190" relname="same-unit">请教 一下 这 次 // Please tell me this time</segment>
+		<segment id="29" parent="186" relname="joint-list">配合 半导体展 // Cooperate with semiconductor exhibition</segment>
+		<segment id="30" parent="187" relname="span">选择 台湾 // Choose Taiwan</segment>
+		<segment id="31" parent="30" relname="purpose-goal">进行 展出 // to exhibit</segment>
+		<segment id="32" parent="188" relname="same-unit">的 // of</segment>
+		<segment id="33" parent="189" relname="span">原因 和 机缘 ？ // Reason and chance?</segment>
+		<segment id="34" parent="192" relname="joint-list">很 荣幸 接受 您 的 访问 ， // It is an honor to accept your visit ,</segment>
+		<segment id="35" parent="192" relname="joint-list">本人 非常 感激 。 // I am very grateful.</segment>
+		<segment id="36" parent="37" relname="attribution-positive">其实 ， 西门子 这 次 来到 台湾 进行 这 项 特展 ， 是 希望 // In fact , Siemens came to Taiwan to hold this special exhibition this time .</segment>
+		<segment id="37" parent="193" relname="span">借由 “ 自动化 之 城 ” 的 展示 ， 让 许多 产业 了解 到 企业 自动化 流程 运作 的 优势 ， // Through the demonstration of "City of Automation", many industries can understand the advantages of enterprise automation process operation,</segment>
+		<segment id="38" parent="195" relname="adversative-concession">虽然 本次 展出 恰巧 也选 在 半导体展 的 期间 ， // Although this exhibition happened to be during the semiconductor exhibition,</segment>
+		<segment id="39" parent="195" relname="same-unit">但 实际 上 ， 西门子 // But in fact, Siemens</segment>
+		<segment id="40" parent="41" relname="elaboration-attribute">针对 半导体 产业 的 // for the semiconductor industry</segment>
+		<segment id="41" parent="194" relname="span">解决 方案 ， 其实 仅 有 2 ~ 3% 的 比率 ， // The solution, in fact, is only 2 to 3% of the rate,</segment>
+		<segment id="42" parent="43" relname="attribution-positive">因为 西门子 在 本次 展示 中 ， 是 希望 // Because Siemens in this exhibition, is the hope</segment>
+		<segment id="43" parent="197" relname="span">将 上下游 厂商 整合 、 产品 生命 周期 转换 的 观念 ， 让 所有 工业界 了解 到 自动化 的 优势 。 // The concept of integrating upstream and downstream manufacturers and transforming product life cycles makes all industries understand the advantages of automation .</segment>
+		<segment id="44" parent="198" relname="joint-list">这 次 选择 台湾 ， 是 第一 次 // This is the first time to choose Taiwan</segment>
+		<segment id="45" parent="198" relname="joint-list">也 是 唯一 的 一 次 ， // Also the only time</segment>
+		<segment id="46" parent="199" relname="span">起因 是 西门子 总部 在 台湾 和 其他 产业 合作 ， 已 有 50 年 的 历史 ， // The reason is that Siemens headquarters in Taiwan has cooperated with other industries, which has a history of 50 years.</segment>
+		<segment id="47" parent="46" relname="elaboration-additional">包括 台北 101 照明 、 台湾 地区 的 电力 设备 、 台北 捷运 系统 等 ， 都 有 相当 丰硕 的 成果 ， // Including Taipei 101 lighting , electrical equipment in Taiwan , Taipei MRT system , etc., all have quite fruitful results.</segment>
+		<segment id="48" parent="200" relname="attribution-positive">总部 也 希望 // Headquarters also hope</segment>
+		<segment id="49" parent="200" relname="joint-list">借由 台湾 的 展出 ， 让 产业界 了解 到 企业 流程 的 需求 ， // Through Taiwan's exhibition, let the industry understand the needs of enterprise process,</segment>
+		<segment id="50" parent="200" relname="joint-list">并 协助 台湾 企业 的 发展 。 // And assist the development of Taiwanese enterprises .</segment>
+		<segment id="51" parent="292" relname="organization-heading">产品 生命 周期 的 应对 // Product life cycle response</segment>
+		<segment id="52" parent="213" relname="attribution-positive">在 周二 的 SEMI 展前 记者会 中 ， 部分 厂商 提到 ， // In Tuesday 's SEMI pre - show press conference , some manufacturers mentioned that ,</segment>
+		<segment id="53" parent="212" relname="same-unit">现在 的 产品 生命 周期 ， // The current product life cycle,</segment>
+		<segment id="54" parent="210" relname="joint-list">因为 消费者 求新 求变 的 需求 ， // Because of consumers' demand for innovation and change,</segment>
+		<segment id="55" parent="210" relname="joint-list">加上 许多 产品 的 人性化 ， // Plus the humanization of many products ,</segment>
+		<segment id="56" parent="211" relname="span">衍生 出 不同 的 周期 ， // Derive different cycles,</segment>
+		<segment id="57" parent="213" relname="span">而 导致 厂商 必须 获取 新 的 物料 与 升级 生产 技术 ， // As a result , manufacturers must acquire new materials and upgrade production technologies .</segment>
+		<segment id="58" parent="59" relname="context-circumstance">面对 这些 趋势 ， // In the face of these trends ,</segment>
+		<segment id="59" parent="214" relname="span">西门子 要 如何 应对 这 股 潮流 ？ // How does Siemens respond to this trend ?</segment>
+		<segment id="60" parent="217" relname="same-unit">西门子 在 工业 上 ， 是 以 // Siemens in industry, is to</segment>
+		<segment id="61" parent="62" relname="elaboration-attribute">服务 提供者 的 // service provider</segment>
+		<segment id="62" parent="216" relname="span">角色 ， 提供 产业 在 各 方面 的 解决 方案 ， // role, to provide industry solutions in all aspects,</segment>
+		<segment id="63" parent="220" relname="same-unit">至今 ， 现在 的 厂商 ， // So far , the current manufacturers ,</segment>
+		<segment id="64" parent="65" relname="adversative-concession">无论 晶圆 与 精密 产品 ， // Regardless of wafers and precision products ,</segment>
+		<segment id="65" parent="219" relname="span">讲求 的 是 以 产品 整合 与 少量 多样 为 主 ， // The emphasis is on product integration and a small amount of variety.</segment>
+		<segment id="66" parent="222" relname="same-unit">面对 // face</segment>
+		<segment id="67" parent="68" relname="elaboration-attribute">声明 周期 瞬息万变 的 // The declaration cycle is changing rapidly</segment>
+		<segment id="68" parent="221" relname="span">趋势 ， // trend,</segment>
+		<segment id="69" parent="223" relname="span">厂商 必须 搜集 好 相关 的 资讯 ， // Manufacturers must collect relevant information.</segment>
+		<segment id="70" parent="290" relname="joint-list">在 生产线 方面 ， 中央 控制 系统 与 产能 的 控制 都 显得 重要 许多 ， // In the production line , the control of the central control system and the production capacity is very important.</segment>
+		<segment id="71" parent="229" relname="same-unit">另外 ， 厂商 // In addition, the manufacturer</segment>
+		<segment id="72" parent="73" relname="elaboration-attribute">在 生产 过程 中 的 // in the production process</segment>
+		<segment id="73" parent="228" relname="span">用电 负荷 ， 也 是 值得 去 注意 的 ， // Electricity load is also worth paying attention to.</segment>
+		<segment id="74" parent="227" relname="organization-preparation">因此 ， 西门子 也 有 一 套 电力 资讯 的 解决 方案 ， // Therefore , Siemens also has a set of solutions for power information .</segment>
+		<segment id="75" parent="226" relname="same-unit">让 厂商 可以 了解 到 // Let manufacturers understand</segment>
+		<segment id="76" parent="77" relname="context-circumstance">生产 时 // production time</segment>
+		<segment id="77" parent="224" relname="span">消耗 的 // Consumed</segment>
+		<segment id="78" parent="225" relname="span">相关 成本 // Related costs</segment>
+		<segment id="79" parent="226" relname="elaboration-additional">（ 资金 、 电力 、 材料 … 等 ） ， // (funding, electricity, materials, etc.),</segment>
+		<segment id="80" parent="230" relname="purpose-goal">进而 达到 最佳 的 生产 效益 。 // In order to achieve the best production efficiency .</segment>
+		<segment id="81" parent="234" relname="same-unit">因此 ， 西门子 就 // Therefore, Siemens</segment>
+		<segment id="82" parent="83" relname="mode-means">以 全方位 整合 供电 系统 与 全方位 整合 自动化 作为 主题 ， // Taking the all-round integrated power supply system and all-round integrated automation as the theme ,</segment>
+		<segment id="83" parent="233" relname="span">进行 展出 。 // to exhibit.</segment>
+		<segment id="84" parent="260" relname="organization-heading">西门子 的 其他 投资 // Siemens' other investments</segment>
+		<segment id="85" parent="241" relname="attribution-positive">就 本人 所 知 ， // As far as I know,</segment>
+		<segment id="86" parent="236" relname="same-unit">西门子 // Siemens</segment>
+		<segment id="87" parent="88" relname="context-background">除了 工业 解决 方案 ， // In addition to industrial solutions ,</segment>
+		<segment id="88" parent="235" relname="span">以往 也 在 电信 产业 是 很 出名 的 ， // He was also famous in the telecommunications industry in the past .</segment>
+		<segment id="89" parent="240" relname="same-unit">甚至 还 有 // there are even</segment>
+		<segment id="90" parent="237" relname="span">和 明基 // and BenQ</segment>
+		<segment id="91" parent="90" relname="elaboration-additional">（ 佳士达 电通 ） // ( Christie's Dentsu )</segment>
+		<segment id="92" parent="238" relname="same-unit">合作 建立 BenQ-Siemens 的 // Cooperation to build BenQ-Siemens</segment>
+		<segment id="93" parent="239" relname="span">品牌 ， 驰名于 欧洲 地区 ， // brand, well-known in Europe,</segment>
+		<segment id="94" parent="242" relname="span">为何 在 后来 会 舍弃 电信 产业 这 区块 ？ // Why would you abandon the telecommunications industry in the future?</segment>
+		<segment id="95" parent="244" relname="joint-list">影响 ？ // Influence ?</segment>
+		<segment id="96" parent="246" relname="adversative-concession">西门子 以往 在 电信 产业 确实 有 一定 的 名气 ， // Siemens did have a certain reputation in the telecommunications industry in the past .</segment>
+		<segment id="97" parent="245" relname="context-circumstance">但是 在 电信 技术 的 趋势 持续 转变 的 状态 下 ， // However , in a state where trends in telecommunications technology continue to change ,</segment>
+		<segment id="98" parent="245" relname="adversative-contrast">电信界 的 龙头 老大 摩托 罗拉 就 一直 稳定 成长 ， // Motorola, the leader in the telecommunications industry, has been growing steadily.</segment>
+		<segment id="99" parent="245" relname="adversative-contrast">反之 ， 西门子 却 出现 衰退 的 情形 ， // On the contrary , Siemens is in decline ,</segment>
+		<segment id="100" parent="248" relname="span">因此 在 后来 ， 才 会 将 这 区块 给 放弃 。 // Therefore, this block will be abandoned later.</segment>
+		<segment id="101" parent="254" relname="span">但是 ， 并不 影响 到 其他 部门 的 运作 ， // However, it does not affect the operation of other departments.</segment>
+		<segment id="102" parent="250" relname="span">原先 的 电子 产业 ， 就 持续 地 成长 ， // The original electronics industry continued to grow,</segment>
+		<segment id="103" parent="104" relname="elaboration-attribute">我们 所 见到 的 // what we saw</segment>
+		<segment id="104" parent="249" relname="span">台北 101 夜间 照明 、 台北 捷运 列车 、 台湾 的 电力 设备 ， 都 可以 见到 西门子 的 影子 ， // The shadow of Siemens can be seen in Taipei 101 night lighting, Taipei MRT trains, and Taiwan's electrical equipment.</segment>
+		<segment id="105" parent="252" relname="same-unit">所以 这 就 是 // So this is</segment>
+		<segment id="106" parent="107" relname="elaboration-attribute">西门子 可以 立足 电子业 的 // Siemens can establish itself in the electronics industry</segment>
+		<segment id="107" parent="251" relname="span">关键 。 // The essential .</segment>
+		<segment id="108" parent="258" relname="joint-list">我们 这 次 展出 ， 的确 有 很多 的 解决 方案 ， // We do have a lot of solutions in this exhibition.</segment>
+		<segment id="109" parent="257" relname="same-unit">让 各 产业 的 生产 过程 标准化 ， 是 西门子 现今 发展 的 目标 ， // Standardizing the production process of various industries is the goal of Siemens' development today.</segment>
+		<segment id="110" parent="111" relname="elaboration-attribute">进而 使 我们 从 竞争者 转变 成 服务 提供者 的 // which transforms us from a competitor to a service provider</segment>
+		<segment id="111" parent="256" relname="span">原因 。 // reason .</segment>
+		<segment id="112" parent="274" relname="organization-heading">特展 的 其他 特色 // Other features of the special exhibition</segment>
+		<segment id="113" parent="263" relname="same-unit">除了 // Apart from</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">您 之前 讲过 的 // what you said before</segment>
+		<segment id="115" parent="262" relname="span">两 项 重点 以外 ， // In addition to the two key points,</segment>
+		<segment id="116" parent="264" relname="span">这 次 的 “ exiderdome ” 来 台 展出 ， 其他 的 特色 内容 还 包含 ？ // This " exiderdome " comes to Taiwan to exhibit , what other features are included ?</segment>
+		<segment id="117" parent="272" relname="span">这 次 展览 当中 ， 我们 的 解决 方案 就 包含 电力 供应 、 RFID 技术 、 自动 感应器 等 三 大 项目 ， // In this exhibition, our solutions include power supply, RFID technology, automatic sensors and other three major projects.</segment>
+		<segment id="118" parent="117" relname="elaboration-additional">每 一 个 产业 都 有 专属 的 解决 方案 ， // Every industry has its own solution,</segment>
+		<segment id="119" parent="267" relname="context-background">另外 ， 在 多媒体馆 内 的 影片 导览 中 ， 我们 在 三 面 墙 上 设置 了 旋转 镜面 ， // In addition , in the video tour in the multimedia hall , we have set up rotating mirrors on three walls.</segment>
+		<segment id="120" parent="266" relname="same-unit">以 立体 实境 的 方式 ， 让 参观者 可以 快速 进入 // In the form of three-dimensional reality , visitors can quickly enter</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">西门子 提出 的 // proposed by Siemens</segment>
+		<segment id="122" parent="265" relname="span">自动化 世界 ， // automated world,</segment>
+		<segment id="123" parent="267" relname="joint-list">让 参观者 可以 了解 到 自动化 对 企业 的 好处 ， // so that visitors can understand the benefits of automation for enterprises,</segment>
+		<segment id="124" parent="270" relname="same-unit">也 符合 // also meet</segment>
+		<segment id="125" parent="126" relname="elaboration-attribute">我们 提出 的 // we propose</segment>
+		<segment id="126" parent="268" relname="span">“ 全方位 整合 自动化 ” // "Fully Integrated Automation"</segment>
+		<segment id="127" parent="269" relname="span">方案 。 // Program .</segment>
+		<segment id="128" parent="287" relname="organization-heading">西门子 在 台湾 // Siemens in Taiwan</segment>
+		<segment id="129" parent="130" relname="context-circumstance">在 您 走 过 这 两 层 楼 的 展示 后 ， // After you walk through these two floors of displays,</segment>
+		<segment id="130" parent="285" relname="span">其实 可以 见到 西门子 在 台湾 的 形象 与 成果 ， // In fact , you can see the image and achievements of Siemens in Taiwan .</segment>
+		<segment id="131" parent="277" relname="span">台湾 在 北 、 中 、 南 皆 有 据点 ， // Taiwan has strongholds in the North, Central and South.</segment>
+		<segment id="132" parent="133" relname="mode-means">以 台北 为 中心 // Centered on Taipei</segment>
+		<segment id="133" parent="276" relname="span">向 各 地 扩展 ， // expand everywhere,</segment>
+		<segment id="134" parent="283" relname="span">西门子 要 提供 的 ， 是 给 各 产业 的 解决 方案 ， // Siemens wants to provide solutions for various industries.</segment>
+		<segment id="135" parent="282" relname="same-unit">而 // and</segment>
+		<segment id="136" parent="137" relname="elaboration-attribute">配合 世贸 进行 的 // in cooperation with the WTO</segment>
+		<segment id="137" parent="281" relname="span">半导体 展览 ， 我们 也 提供 了 相应 的 方案 给 // Semiconductor exhibition, we also provide corresponding solutions to</segment>
+		<segment id="138" parent="139" relname="elaboration-attribute">有 兴趣 的 // Interested in</segment>
+		<segment id="139" parent="278" relname="span">客户 ， // client ,</segment>
+		<segment id="140" parent="280" relname="same-unit">这 是 // This is</segment>
+		<segment id="141" parent="142" relname="elaboration-attribute">我们 选择 在 信义 商圈 展出 的 // We choose to exhibit in Xinyi business district</segment>
+		<segment id="142" parent="279" relname="span">原因 。 // reason .</segment>
+		<segment id="143" parent="315" relname="organization-heading">结论 // in conclusion</segment>
+		<segment id="144" parent="145" relname="elaboration-attribute">在 台北 世贸 举行 的 // held at the Taipei World Trade Center</segment>
+		<segment id="145" parent="294" relname="span">部分 国际 大展 ， 时常 都 可以 见到 // Some international exhibitions can often be seen</segment>
+		<segment id="146" parent="296" relname="same-unit">某些 厂商 // certain manufacturers</segment>
+		<segment id="147" parent="148" relname="purpose-goal">为了 展现 企业 形象 ， // In order to show the corporate image ,</segment>
+		<segment id="148" parent="295" relname="span">选 在 周边 或 其他 地方 // Choose in the surrounding or other places</segment>
+		<segment id="149" parent="297" relname="joint-list">举行 宣传性 的 展外展 ， 或是 商机 洽谈 的 活动 。 // Hold promotional outreach or business opportunities negotiation events .</segment>
+		<segment id="150" parent="304" relname="joint-list">往年 ， 台北 电信展 中 ， 部分 国内 大厂 的 比拼 ， 甚至 连 台北 东区 都 成为 战场 ； // In previous years, in the Taipei Telecom Show, some domestic manufacturers competed, and even the Eastern District of Taipei became a battlefield;</segment>
+		<segment id="151" parent="302" relname="organization-preparation">国际 电脑展 呢 ？ // What about Computex?</segment>
+		<segment id="152" parent="299" relname="span">则 是 某些 厂商 把 世贸 商圈 ， 用 不同 的 型式 互相 拼场 ， // On the other hand, some manufacturers use the WTO business district to compete with each other in different forms.</segment>
+		<segment id="153" parent="300" relname="joint-list">有的 是 租下 周边 广告 ， // Some rent the surrounding advertisements,</segment>
+		<segment id="154" parent="301" relname="joint-list">有的 则 是 在 周边 办 活动 // Some are holding events in the surrounding area</segment>
+		<segment id="155" parent="301" relname="joint-list">拉 人气 ， // pull popularity,</segment>
+		<segment id="156" parent="299" relname="evaluation-comment">足以 显见 展外展 对于 正式 展览 的 正面 效应 。 // It is enough to see the positive effect of exhibition outreach on formal exhibitions .</segment>
+		<segment id="157" parent="305" relname="joint-list">而 本次 的 半导体展 中 ， 参展商 之一 的 西门子 ， 将 邻近 新光 商圈 的 停车场 给 租 下来 ， // In this semiconductor exhibition , Siemens , one of the exhibitors , rented out the parking lot near the Shin Kong business district .</segment>
+		<segment id="158" parent="305" relname="joint-list">并 从 国外 引进 货柜屋 ， // And imported container houses from abroad,</segment>
+		<segment id="159" parent="305" relname="purpose-goal">进行 这 项 产业 解决 方案 的 展示 ， // To demonstrate this industrial solution ,</segment>
+		<segment id="160" parent="307" relname="joint-list">着实 地 为 展览 加分 ， // Really add points to the exhibition,</segment>
+		<segment id="161" parent="307" relname="joint-list">并 达成 了 宣传 效果 ， // And achieved the effect of publicity ,</segment>
+		<segment id="162" parent="309" relname="same-unit">也 确实 将 // will indeed</segment>
+		<segment id="163" parent="164" relname="elaboration-attribute">他们 要 呈现 的 // what they want to present</segment>
+		<segment id="164" parent="308" relname="span">技术 成果 发挥 得 淋漓 尽致 。 // The technological achievements are brought into full play.</segment>
+		<segment id="165" parent="311" relname="attribution-positive">预料 // expected</segment>
+		<segment id="166" parent="311" relname="same-unit">在 未来 ， // in the future ,</segment>
+		<segment id="167" parent="168" relname="adversative-concession">无论 哪 一 项 国际 展览 ， // No matter which international exhibition,</segment>
+		<segment id="168" parent="310" relname="span">类似 的 展外展 比拼 ， 仍就 会 成为 各 家 媒体 瞩目 的 焦点 。 // Similar outreach competitions will still attract the attention of various media .</segment>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="174" relname="joint-list"/>
+		<group id="171" type="span" parent="169" relname="span"/>
 		<group id="172" type="span" parent="173" relname="same-unit"/>
-		<group id="173" type="multinuc" parent="174" relname="joint-list"/>
+		<group id="173" type="multinuc" parent="323" relname="span"/>
 		<group id="174" type="multinuc" parent="179" relname="span"/>
 		<group id="175" type="span" parent="177" relname="same-unit"/>
 		<group id="176" type="span" parent="177" relname="same-unit"/>
@@ -217,10 +218,10 @@
 		<group id="180" type="span" parent="181" relname="same-unit"/>
 		<group id="181" type="multinuc" parent="182" relname="span"/>
 		<group id="182" type="span" parent="183" relname="span"/>
-		<group id="183" type="span" parent="319" relname="context-background"/>
+		<group id="183" type="span" parent="318" relname="context-background"/>
 		<group id="184" type="span" parent="208" relname="organization-heading"/>
 		<group id="185" type="span" parent="190" relname="organization-preparation"/>
-		<group id="186" type="multinuc" parent="32" relname="elaboration-attribute"/>
+		<group id="186" type="multinuc" parent="33" relname="elaboration-attribute"/>
 		<group id="187" type="span" parent="188" relname="same-unit"/>
 		<group id="188" type="multinuc" parent="186" relname="joint-list"/>
 		<group id="189" type="span" parent="190" relname="same-unit"/>
@@ -243,22 +244,22 @@
 		<group id="206" type="span" parent="207" relname="joint-other"/>
 		<group id="207" type="multinuc" parent="208" relname="span"/>
 		<group id="208" type="span" parent="209" relname="span"/>
-		<group id="209" type="span" parent="290" relname="joint-other"/>
-		<group id="210" type="multinuc" parent="55" relname="causal-cause"/>
+		<group id="209" type="span" parent="289" relname="joint-other"/>
+		<group id="210" type="multinuc" parent="56" relname="causal-cause"/>
 		<group id="211" type="span" parent="212" relname="same-unit"/>
-		<group id="212" type="multinuc" parent="56" relname="causal-cause"/>
+		<group id="212" type="multinuc" parent="57" relname="causal-cause"/>
 		<group id="213" type="span" parent="218" relname="span"/>
 		<group id="214" type="span" parent="215" relname="span"/>
-		<group id="215" type="span" parent="292" relname="topic-question"/>
+		<group id="215" type="span" parent="291" relname="topic-question"/>
 		<group id="216" type="span" parent="217" relname="same-unit"/>
-		<group id="217" type="multinuc" parent="291" relname="joint-list"/>
+		<group id="217" type="multinuc" parent="290" relname="joint-list"/>
 		<group id="218" type="span" parent="214" relname="context-background"/>
 		<group id="219" type="span" parent="220" relname="same-unit"/>
-		<group id="220" type="multinuc" parent="291" relname="joint-list"/>
+		<group id="220" type="multinuc" parent="290" relname="joint-list"/>
 		<group id="221" type="span" parent="222" relname="same-unit"/>
-		<group id="222" type="multinuc" parent="68" relname="context-circumstance"/>
-		<group id="223" type="span" parent="291" relname="joint-list"/>
-		<group id="224" type="span" parent="77" relname="elaboration-attribute"/>
+		<group id="222" type="multinuc" parent="69" relname="context-circumstance"/>
+		<group id="223" type="span" parent="290" relname="joint-list"/>
+		<group id="224" type="span" parent="78" relname="elaboration-attribute"/>
 		<group id="225" type="span" parent="226" relname="same-unit"/>
 		<group id="226" type="multinuc" parent="227" relname="span"/>
 		<group id="227" type="span" parent="230" relname="span"/>
@@ -266,25 +267,25 @@
 		<group id="229" type="multinuc" parent="231" relname="causal-cause"/>
 		<group id="230" type="span" parent="231" relname="span"/>
 		<group id="231" type="span" parent="232" relname="span"/>
-		<group id="232" type="span" parent="291" relname="joint-list"/>
+		<group id="232" type="span" parent="290" relname="joint-list"/>
 		<group id="233" type="span" parent="234" relname="same-unit"/>
-		<group id="234" type="multinuc" parent="291" relname="causal-result"/>
+		<group id="234" type="multinuc" parent="290" relname="causal-result"/>
 		<group id="235" type="span" parent="236" relname="same-unit"/>
 		<group id="236" type="multinuc" parent="241" relname="span"/>
 		<group id="237" type="span" parent="238" relname="same-unit"/>
-		<group id="238" type="multinuc" parent="92" relname="elaboration-attribute"/>
+		<group id="238" type="multinuc" parent="93" relname="elaboration-attribute"/>
 		<group id="239" type="span" parent="240" relname="same-unit"/>
 		<group id="240" type="multinuc" parent="236" relname="explanation-justify"/>
 		<group id="241" type="span" parent="243" relname="span"/>
 		<group id="242" type="span" parent="244" relname="joint-list"/>
-		<group id="243" type="span" parent="93" relname="context-background"/>
+		<group id="243" type="span" parent="94" relname="context-background"/>
 		<group id="244" type="multinuc" parent="259" relname="topic-question"/>
 		<group id="245" type="multinuc" parent="246" relname="span"/>
 		<group id="246" type="span" parent="247" relname="span"/>
-		<group id="247" type="span" parent="99" relname="causal-cause"/>
+		<group id="247" type="span" parent="100" relname="causal-cause"/>
 		<group id="248" type="span" parent="253" relname="adversative-contrast"/>
-		<group id="249" type="span" parent="101" relname="explanation-evidence"/>
-		<group id="250" type="span" parent="100" relname="elaboration-additional"/>
+		<group id="249" type="span" parent="102" relname="explanation-evidence"/>
+		<group id="250" type="span" parent="101" relname="elaboration-additional"/>
 		<group id="251" type="span" parent="252" relname="same-unit"/>
 		<group id="252" type="multinuc" parent="253" relname="evaluation-comment"/>
 		<group id="253" type="multinuc" parent="255" relname="span"/>
@@ -295,67 +296,68 @@
 		<group id="258" type="multinuc" parent="259" relname="joint-other"/>
 		<group id="259" type="multinuc" parent="260" relname="span"/>
 		<group id="260" type="span" parent="261" relname="span"/>
-		<group id="261" type="span" parent="290" relname="joint-other"/>
+		<group id="261" type="span" parent="289" relname="joint-other"/>
 		<group id="262" type="span" parent="263" relname="same-unit"/>
-		<group id="263" type="multinuc" parent="115" relname="context-background"/>
+		<group id="263" type="multinuc" parent="116" relname="context-background"/>
 		<group id="264" type="span" parent="273" relname="topic-question"/>
 		<group id="265" type="span" parent="266" relname="same-unit"/>
 		<group id="266" type="multinuc" parent="267" relname="joint-list"/>
 		<group id="267" type="multinuc" parent="271" relname="span"/>
-		<group id="268" type="span" parent="126" relname="elaboration-attribute"/>
+		<group id="268" type="span" parent="127" relname="elaboration-attribute"/>
 		<group id="269" type="span" parent="270" relname="same-unit"/>
 		<group id="270" type="multinuc" parent="267" relname="joint-list"/>
 		<group id="271" type="span" parent="273" relname="joint-other"/>
 		<group id="272" type="span" parent="273" relname="joint-other"/>
 		<group id="273" type="multinuc" parent="274" relname="span"/>
 		<group id="274" type="span" parent="275" relname="span"/>
-		<group id="275" type="span" parent="290" relname="joint-other"/>
-		<group id="277" type="span" parent="130" relname="elaboration-additional"/>
-		<group id="278" type="span" parent="287" relname="span"/>
-		<group id="279" type="span" parent="283" relname="same-unit"/>
-		<group id="280" type="span" parent="281" relname="same-unit"/>
-		<group id="281" type="multinuc" parent="283" relname="evaluation-comment"/>
-		<group id="282" type="span" parent="283" relname="same-unit"/>
-		<group id="283" type="multinuc" parent="285" relname="span"/>
-		<group id="284" type="span" parent="288" relname="joint-other"/>
-		<group id="285" type="span" parent="133" relname="explanation-evidence"/>
-		<group id="286" type="span" parent="278" relname="organization-preparation"/>
-		<group id="287" type="span" parent="288" relname="joint-other"/>
-		<group id="288" type="multinuc" parent="289" relname="span"/>
-		<group id="289" type="span" parent="290" relname="joint-other"/>
-		<group id="290" type="multinuc" parent="318" relname="span"/>
-		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="275" type="span" parent="289" relname="joint-other"/>
+		<group id="276" type="span" parent="131" relname="elaboration-additional"/>
+		<group id="277" type="span" parent="286" relname="span"/>
+		<group id="278" type="span" parent="282" relname="same-unit"/>
+		<group id="279" type="span" parent="280" relname="same-unit"/>
+		<group id="280" type="multinuc" parent="282" relname="evaluation-comment"/>
+		<group id="281" type="span" parent="282" relname="same-unit"/>
+		<group id="282" type="multinuc" parent="284" relname="span"/>
+		<group id="283" type="span" parent="287" relname="joint-other"/>
+		<group id="284" type="span" parent="134" relname="explanation-evidence"/>
+		<group id="285" type="span" parent="277" relname="organization-preparation"/>
+		<group id="286" type="span" parent="287" relname="joint-other"/>
+		<group id="287" type="multinuc" parent="288" relname="span"/>
+		<group id="288" type="span" parent="289" relname="joint-other"/>
+		<group id="289" type="multinuc" parent="317" relname="span"/>
+		<group id="290" type="multinuc" parent="291" relname="span"/>
+		<group id="291" type="span" parent="292" relname="span"/>
 		<group id="292" type="span" parent="293" relname="span"/>
-		<group id="293" type="span" parent="294" relname="span"/>
-		<group id="294" type="span" parent="290" relname="joint-other"/>
-		<group id="295" type="span" parent="298" relname="attribution-positive"/>
-		<group id="296" type="span" parent="297" relname="same-unit"/>
-		<group id="297" type="multinuc" parent="298" relname="joint-list"/>
-		<group id="298" type="multinuc" parent="299" relname="span"/>
-		<group id="299" type="span" parent="305" relname="joint-list"/>
-		<group id="300" type="span" parent="303" relname="span"/>
-		<group id="301" type="multinuc" parent="151" relname="explanation-evidence"/>
-		<group id="302" type="multinuc" parent="301" relname="joint-list"/>
-		<group id="303" type="span" parent="304" relname="span"/>
-		<group id="304" type="span" parent="305" relname="joint-list"/>
-		<group id="305" type="multinuc" parent="315" relname="context-background"/>
-		<group id="306" type="multinuc" parent="307" relname="span"/>
-		<group id="307" type="span" parent="308" relname="causal-cause"/>
-		<group id="308" type="multinuc" parent="314" relname="span"/>
-		<group id="309" type="span" parent="310" relname="same-unit"/>
-		<group id="310" type="multinuc" parent="308" relname="joint-list"/>
-		<group id="311" type="span" parent="312" relname="same-unit"/>
-		<group id="312" type="multinuc" parent="313" relname="span"/>
-		<group id="313" type="span" parent="314" relname="evaluation-comment"/>
+		<group id="293" type="span" parent="289" relname="joint-other"/>
+		<group id="294" type="span" parent="297" relname="attribution-positive"/>
+		<group id="295" type="span" parent="296" relname="same-unit"/>
+		<group id="296" type="multinuc" parent="297" relname="joint-list"/>
+		<group id="297" type="multinuc" parent="298" relname="span"/>
+		<group id="298" type="span" parent="304" relname="joint-list"/>
+		<group id="299" type="span" parent="302" relname="span"/>
+		<group id="300" type="multinuc" parent="152" relname="explanation-evidence"/>
+		<group id="301" type="multinuc" parent="300" relname="joint-list"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="joint-list"/>
+		<group id="304" type="multinuc" parent="314" relname="context-background"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="causal-cause"/>
+		<group id="307" type="multinuc" parent="313" relname="span"/>
+		<group id="308" type="span" parent="309" relname="same-unit"/>
+		<group id="309" type="multinuc" parent="307" relname="joint-list"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="312" relname="span"/>
+		<group id="312" type="span" parent="313" relname="evaluation-comment"/>
+		<group id="313" type="span" parent="314" relname="span"/>
 		<group id="314" type="span" parent="315" relname="span"/>
 		<group id="315" type="span" parent="316" relname="span"/>
-		<group id="316" type="span" parent="317" relname="span"/>
-		<group id="317" type="span" parent="319" relname="joint-other"/>
-		<group id="318" type="span" parent="319" relname="joint-other"/>
-		<group id="319" type="multinuc" parent="320" relname="span"/>
-		<group id="320" type="span" parent="321" relname="span"/>
-		<group id="321" type="span" parent="323" relname="span"/>
-		<group id="322" type="span" parent="321" relname="organization-heading"/>
-		<group id="323" type="span" />
+		<group id="316" type="span" parent="318" relname="joint-other"/>
+		<group id="317" type="span" parent="318" relname="joint-other"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="319" type="span" parent="320" relname="span"/>
+		<group id="320" type="span" parent="322" relname="span"/>
+		<group id="321" type="span" parent="320" relname="organization-heading"/>
+		<group id="322" type="span" />
+		<group id="323" type="span" parent="174" relname="joint-list"/>
 	</body>
 </rst>

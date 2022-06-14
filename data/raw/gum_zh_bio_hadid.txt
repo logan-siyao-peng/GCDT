@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_hadid" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-11-14" shortTitle="hadid" sourceURL="https://zh.wikipedia.org/wiki/%E8%96%A9%E5%93%88%C2%B7%E5%93%88%E5%B8%9D" speakerCount="0" speakerList="none" title="扎哈·哈迪德" type="bio">
+<text id="gum_zh_bio_hadid" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-11-14" shortTitle="hadid" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%96%A9%E5%93%88%C2%B7%E5%93%88%E5%B8%9D&oldid=68653107" speakerCount="0" speakerList="none" title="扎哈·哈迪德" type="bio">
 
 扎哈·哈迪德
 

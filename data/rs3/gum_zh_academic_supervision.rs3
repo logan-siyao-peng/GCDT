@@ -36,8 +36,8 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="320" relname="organization-heading">法治 视角 下 抖音 虚假 新闻 的 监管 机制 研究</segment>
-		<segment id="2" parent="239" relname="organization-heading">1. 引言</segment>
+		<segment id="1" parent="316" relname="organization-heading">法治 视角 下 抖音 虚假 新闻 的 监管 机制 研究</segment>
+		<segment id="2" parent="237" relname="organization-heading">1. 引言</segment>
 		<segment id="3" parent="4" relname="elaboration-attribute">2021年 1月 5日 ， 抖音 发布 的</segment>
 		<segment id="4" parent="219" relname="span">《 2020 抖音 数据 报告 》 显示 ，</segment>
 		<segment id="5" parent="220" relname="joint-list">截至 2020年 8月 ， 抖音 日 活跃 用户 突破 6亿 ，</segment>
@@ -48,412 +48,412 @@
 		<segment id="10" parent="224" relname="same-unit">也 是</segment>
 		<segment id="11" parent="12" relname="elaboration-attribute">用户 接收 和 评论 信息 的</segment>
 		<segment id="12" parent="225" relname="span">来源 ，</segment>
-		<segment id="13" parent="227" relname="same-unit">在</segment>
-		<segment id="14" parent="228" relname="elaboration-attribute">互联网 发达 的</segment>
-		<segment id="15" parent="228" relname="span">现在 人人 都 可以 利用 “ 抖音 ”</segment>
+		<segment id="13" parent="226" relname="same-unit">在</segment>
+		<segment id="14" parent="227" relname="elaboration-attribute">互联网 发达 的</segment>
+		<segment id="15" parent="227" relname="span">现在 人人 都 可以 利用 “ 抖音 ”</segment>
 		<segment id="16" parent="15" relname="purpose-goal">当 记者</segment>
-		<segment id="17" parent="231" relname="joint-list">将 自己 的 “ 新闻 ” 上传 到 如此 庞大 观众 数量 和 活跃 规模 的 “ 演播室 ” 。</segment>
-		<segment id="18" parent="234" relname="causal-cause">正 因为 如此 ，</segment>
-		<segment id="19" parent="233" relname="span">虚假 新闻</segment>
+		<segment id="17" parent="229" relname="joint-list">将 自己 的 “ 新闻 ” 上传 到 如此 庞大 观众 数量 和 活跃 规模 的 “ 演播室 ” 。</segment>
+		<segment id="18" parent="420" relname="span">正 因为 如此 ，</segment>
+		<segment id="19" parent="231" relname="span">虚假 新闻</segment>
 		<segment id="20" parent="19" relname="elaboration-attribute">经过 抖音 的 传播</segment>
-		<segment id="21" parent="234" relname="same-unit">往往 会 引发 大 规模 的 轰动 ，</segment>
-		<segment id="22" parent="237" relname="span">对 抖音 虚假 新闻 的 监管 刻不容缓 ，</segment>
-		<segment id="23" parent="239" relname="span">本 文 立足于 法治 视角 对 如何 监管 抖音 虚假 新闻 进行 简析 。</segment>
-		<segment id="24" parent="318" relname="organization-heading">2. 抖音 虚假 新闻 的 概念 和 特点</segment>
-		<segment id="25" parent="261" relname="organization-heading">2.1. 抖音 虚假 新闻 的 概念</segment>
-		<segment id="26" parent="243" relname="same-unit">抖音 虚假 新闻 顾名思义 就 是</segment>
+		<segment id="21" parent="232" relname="same-unit">往往 会 引发 大 规模 的 轰动 ，</segment>
+		<segment id="22" parent="235" relname="span">对 抖音 虚假 新闻 的 监管 刻不容缓 ，</segment>
+		<segment id="23" parent="237" relname="span">本 文 立足于 法治 视角 对 如何 监管 抖音 虚假 新闻 进行 简析 。</segment>
+		<segment id="24" parent="314" relname="organization-heading">2. 抖音 虚假 新闻 的 概念 和 特点</segment>
+		<segment id="25" parent="257" relname="organization-heading">2.1. 抖音 虚假 新闻 的 概念</segment>
+		<segment id="26" parent="241" relname="same-unit">抖音 虚假 新闻 顾名思义 就 是</segment>
 		<segment id="27" parent="28" relname="elaboration-attribute">利用 抖音 这 一 平台 发布 的</segment>
-		<segment id="28" parent="242" relname="span">虚假 新闻 ，</segment>
-		<segment id="29" parent="249" relname="same-unit">主要 包括</segment>
+		<segment id="28" parent="240" relname="span">虚假 新闻 ，</segment>
+		<segment id="29" parent="246" relname="same-unit">主要 包括</segment>
 		<segment id="30" parent="31" relname="mode-means">利用 图片</segment>
-		<segment id="31" parent="244" relname="span">伪造 新闻 、</segment>
+		<segment id="31" parent="242" relname="span">伪造 新闻 、</segment>
 		<segment id="32" parent="33" relname="mode-means">恶意 剪辑 视频</segment>
-		<segment id="33" parent="246" relname="span">伪造 新闻 、</segment>
+		<segment id="33" parent="243" relname="span">伪造 新闻 、</segment>
 		<segment id="34" parent="35" relname="mode-means">搬运 国外 视频</segment>
-		<segment id="35" parent="247" relname="span">谎称 国内 新闻 、</segment>
+		<segment id="35" parent="244" relname="span">谎称 国内 新闻 、</segment>
 		<segment id="36" parent="37" relname="mode-means">恶意 跟风 热点 事件</segment>
-		<segment id="37" parent="248" relname="span">伪造 新闻 等 虚假 新闻 形式 。</segment>
-		<segment id="38" parent="250" relname="joint-list">抖音 虚假 新闻 短 视频 大多数 在 15 秒 内 ，</segment>
-		<segment id="39" parent="250" relname="joint-list">配合 挑选 的 背景 音乐</segment>
-		<segment id="40" parent="250" relname="joint-list">混 着 颜色 鲜明 的 字体 和 夸张 的 噱头 ，</segment>
-		<segment id="41" parent="251" relname="joint-list">刺激 了 用户 的 视觉 和 听觉 系统</segment>
-		<segment id="42" parent="251" relname="joint-list">使 用户 记忆 深刻 ，</segment>
-		<segment id="43" parent="259" relname="joint-list">如此 短 的 时间 让 用户 无法 快速 反应 为 虚假 内容 ，</segment>
-		<segment id="44" parent="257" relname="span">而且 用户 使用 抖音 大多数 为 碎片化 时间</segment>
+		<segment id="37" parent="245" relname="span">伪造 新闻 等 虚假 新闻 形式 。</segment>
+		<segment id="38" parent="247" relname="joint-list">抖音 虚假 新闻 短 视频 大多数 在 15 秒 内 ，</segment>
+		<segment id="39" parent="247" relname="joint-list">配合 挑选 的 背景 音乐</segment>
+		<segment id="40" parent="247" relname="joint-list">混 着 颜色 鲜明 的 字体 和 夸张 的 噱头 ，</segment>
+		<segment id="41" parent="248" relname="joint-list">刺激 了 用户 的 视觉 和 听觉 系统</segment>
+		<segment id="42" parent="248" relname="joint-list">使 用户 记忆 深刻 ，</segment>
+		<segment id="43" parent="255" relname="joint-list">如此 短 的 时间 让 用户 无法 快速 反应 为 虚假 内容 ，</segment>
+		<segment id="44" parent="253" relname="span">而且 用户 使用 抖音 大多数 为 碎片化 时间</segment>
 		<segment id="45" parent="44" relname="purpose-goal">进行 消遣 ，</segment>
-		<segment id="46" parent="257" relname="adversative-concession">很少 会 去 专门 查实 一 个 新闻 ，</segment>
-		<segment id="47" parent="254" relname="same-unit">导致</segment>
+		<segment id="46" parent="253" relname="adversative-concession">很少 会 去 专门 查实 一 个 新闻 ，</segment>
+		<segment id="47" parent="250" relname="same-unit">导致</segment>
 		<segment id="48" parent="49" relname="elaboration-attribute">抖音 虚假 新闻 造成 的</segment>
-		<segment id="49" parent="253" relname="span">不良 影响 极 大 。</segment>
-		<segment id="50" parent="316" relname="organization-heading">2.2. 抖音 虚假 新闻 的 特点</segment>
-		<segment id="51" parent="263" relname="joint-list">1) 传播 迅速 ，</segment>
-		<segment id="52" parent="263" relname="joint-list">覆盖面 广 ，</segment>
-		<segment id="53" parent="263" relname="joint-list">受众 群体 广 。</segment>
-		<segment id="54" parent="265" relname="span">抖音 虚假 新闻 的 裂变式 传播 数学 模型 往往 呈现 指数式 的 增长 ，</segment>
-		<segment id="55" parent="264" relname="joint-list">用户 可 对 抖音 的 虚假 新闻 进行 转发 ，</segment>
-		<segment id="56" parent="264" relname="joint-list">成为 新 的 传播 链条 上 一 个个 节点</segment>
-		<segment id="57" parent="265" relname="explanation-evidence">[ 1 ] ，</segment>
-		<segment id="58" parent="268" relname="same-unit">而且</segment>
+		<segment id="49" parent="249" relname="span">不良 影响 极 大 。</segment>
+		<segment id="50" parent="312" relname="organization-heading">2.2. 抖音 虚假 新闻 的 特点</segment>
+		<segment id="51" parent="259" relname="joint-list">1) 传播 迅速 ，</segment>
+		<segment id="52" parent="259" relname="joint-list">覆盖面 广 ，</segment>
+		<segment id="53" parent="259" relname="joint-list">受众 群体 广 。</segment>
+		<segment id="54" parent="261" relname="span">抖音 虚假 新闻 的 裂变式 传播 数学 模型 往往 呈现 指数式 的 增长 ，</segment>
+		<segment id="55" parent="260" relname="joint-list">用户 可 对 抖音 的 虚假 新闻 进行 转发 ，</segment>
+		<segment id="56" parent="260" relname="joint-list">成为 新 的 传播 链条 上 一 个个 节点</segment>
+		<segment id="57" parent="261" relname="explanation-evidence">[ 1 ] ，</segment>
+		<segment id="58" parent="264" relname="same-unit">而且</segment>
 		<segment id="59" parent="60" relname="elaboration-attribute">用户 转发 和 评论 虚假 新闻 的</segment>
-		<segment id="60" parent="267" relname="span">数量 短 时间 内 增多 ，</segment>
-		<segment id="61" parent="269" relname="span">抖音 会 对 该 短 视频 进行 流量 扶持 ，</segment>
-		<segment id="62" parent="271" relname="same-unit">一 条</segment>
+		<segment id="60" parent="263" relname="span">数量 短 时间 内 增多 ，</segment>
+		<segment id="61" parent="265" relname="span">抖音 会 对 该 短 视频 进行 流量 扶持 ，</segment>
+		<segment id="62" parent="267" relname="same-unit">一 条</segment>
 		<segment id="63" parent="64" relname="elaboration-attribute">噱头 夸张 博人眼球 的</segment>
-		<segment id="64" parent="270" relname="span">虚假 新闻 可 在 抖音 平台 飞速 蔓延 ，</segment>
-		<segment id="65" parent="272" relname="joint-list">甚至 形成 病毒式 传播 。</segment>
-		<segment id="66" parent="297" relname="span">2) 高发性 与 强 交互性 。</segment>
-		<segment id="67" parent="276" relname="span">抖音 作为 免费 的 信息 传播 媒介 工具</segment>
+		<segment id="64" parent="266" relname="span">虚假 新闻 可 在 抖音 平台 飞速 蔓延 ，</segment>
+		<segment id="65" parent="268" relname="joint-list">甚至 形成 病毒式 传播 。</segment>
+		<segment id="66" parent="293" relname="span">2) 高发性 与 强 交互性 。</segment>
+		<segment id="67" parent="272" relname="span">抖音 作为 免费 的 信息 传播 媒介 工具</segment>
 		<segment id="68" parent="67" relname="explanation-evidence">[ 2 ] ，</segment>
-		<segment id="69" parent="277" relname="same-unit">用户</segment>
+		<segment id="69" parent="273" relname="same-unit">用户</segment>
 		<segment id="70" parent="71" relname="contingency-condition">只 需 注册</segment>
-		<segment id="71" parent="278" relname="span">便 可 拥有 独立 账户 。</segment>
-		<segment id="72" parent="280" relname="same-unit">而 现在</segment>
+		<segment id="71" parent="274" relname="span">便 可 拥有 独立 账户 。</segment>
+		<segment id="72" parent="276" relname="same-unit">而 现在</segment>
 		<segment id="73" parent="74" relname="elaboration-attribute">“ 流量 为 王 ” 的</segment>
-		<segment id="74" parent="279" relname="span">价值 导向 下 ，</segment>
+		<segment id="74" parent="275" relname="span">价值 导向 下 ，</segment>
 		<segment id="75" parent="76" relname="purpose-goal">为 赚取 流量</segment>
-		<segment id="76" parent="281" relname="span">发布 虚假 新闻 的</segment>
-		<segment id="77" parent="282" relname="span">用户 往往 会 注册 多 个 账号</segment>
-		<segment id="78" parent="283" relname="joint-list">持续 散播 假 新闻 ，</segment>
-		<segment id="79" parent="285" relname="joint-list">成本 低</segment>
-		<segment id="80" parent="285" relname="joint-list">呈 高发 态势 ；</segment>
+		<segment id="76" parent="277" relname="span">发布 虚假 新闻 的</segment>
+		<segment id="77" parent="278" relname="span">用户 往往 会 注册 多 个 账号</segment>
+		<segment id="78" parent="279" relname="joint-list">持续 散播 假 新闻 ，</segment>
+		<segment id="79" parent="281" relname="joint-list">成本 低</segment>
+		<segment id="80" parent="281" relname="joint-list">呈 高发 态势 ；</segment>
 		<segment id="81" parent="82" relname="context-background">在 依托 抖音 自身 关注 、 转发 、 评论 的 功能 之上 ，</segment>
-		<segment id="82" parent="286" relname="span">虚假 新闻 创作者 不再 局限于 传统 假 新闻 单向 输出 的 模式 ，</segment>
-		<segment id="83" parent="287" relname="joint-list">与 受众者 进行 交互</segment>
-		<segment id="84" parent="288" relname="span">将 他们 对 虚假 新闻 的 评论 进行 二 次 创作</segment>
+		<segment id="82" parent="282" relname="span">虚假 新闻 创作者 不再 局限于 传统 假 新闻 单向 输出 的 模式 ，</segment>
+		<segment id="83" parent="283" relname="joint-list">与 受众者 进行 交互</segment>
+		<segment id="84" parent="284" relname="span">将 他们 对 虚假 新闻 的 评论 进行 二 次 创作</segment>
 		<segment id="85" parent="84" relname="purpose-goal">而 回答 受众 对于 假 新闻 的 疑惑 ，</segment>
-		<segment id="86" parent="290" relname="same-unit">激发</segment>
+		<segment id="86" parent="286" relname="same-unit">激发</segment>
 		<segment id="87" parent="88" relname="elaboration-attribute">受众 传播 虚假 新闻 的</segment>
-		<segment id="88" parent="289" relname="span">积极性 ，</segment>
-		<segment id="89" parent="293" relname="joint-list">受众 也 由 原来 的 被动 接收 变 为 主动 参与 传播 ，</segment>
-		<segment id="90" parent="293" relname="joint-list">更 有 甚者 也 介入 到 了 虚假 新闻 的 创作 。</segment>
-		<segment id="91" parent="315" relname="span">3) 虚假 新闻 私人 定制化 程度 高 。</segment>
-		<segment id="92" parent="299" relname="same-unit">抖音 平台</segment>
+		<segment id="88" parent="285" relname="span">积极性 ，</segment>
+		<segment id="89" parent="289" relname="joint-list">受众 也 由 原来 的 被动 接收 变 为 主动 参与 传播 ，</segment>
+		<segment id="90" parent="289" relname="joint-list">更 有 甚者 也 介入 到 了 虚假 新闻 的 创作 。</segment>
+		<segment id="91" parent="311" relname="span">3) 虚假 新闻 私人 定制化 程度 高 。</segment>
+		<segment id="92" parent="295" relname="same-unit">抖音 平台</segment>
 		<segment id="93" parent="94" relname="mode-means">基于 特定 的 算法</segment>
-		<segment id="94" parent="298" relname="span">对 用户 画像 进行 精准化 定位 ，</segment>
-		<segment id="95" parent="300" relname="span">这 也 为 虚假 新闻 投放 的 精准度 提供 了 生存 空间 。</segment>
-		<segment id="96" parent="301" relname="joint-sequence">如 近日 的 特斯拉 女 车主 维权 事件 在 抖音 上 持续 发酵</segment>
-		<segment id="97" parent="301" relname="joint-sequence">成为 热门 话题 ，</segment>
-		<segment id="98" parent="303" relname="same-unit">许多</segment>
+		<segment id="94" parent="294" relname="span">对 用户 画像 进行 精准化 定位 ，</segment>
+		<segment id="95" parent="296" relname="span">这 也 为 虚假 新闻 投放 的 精准度 提供 了 生存 空间 。</segment>
+		<segment id="96" parent="297" relname="joint-sequence">如 近日 的 特斯拉 女 车主 维权 事件 在 抖音 上 持续 发酵</segment>
+		<segment id="97" parent="297" relname="joint-sequence">成为 热门 话题 ，</segment>
+		<segment id="98" parent="299" relname="same-unit">许多</segment>
 		<segment id="99" parent="100" relname="elaboration-attribute">关心 此 事件 的</segment>
-		<segment id="100" parent="302" relname="span">用户 也 收到 了</segment>
+		<segment id="100" parent="298" relname="span">用户 也 收到 了</segment>
 		<segment id="101" parent="102" relname="elaboration-attribute">“ 广东 不 允许 特斯拉 上 高速 ” 的</segment>
-		<segment id="102" parent="304" relname="span">假 新闻 ，</segment>
-		<segment id="103" parent="309" relname="causal-cause">由于 用户 本身 就 关心 维权 事件 的 后续</segment>
-		<segment id="104" parent="305" relname="joint-list">而 马上 接收 的</segment>
-		<segment id="105" parent="305" relname="joint-list">不 允许 上 高速 的</segment>
-		<segment id="106" parent="306" relname="span">虚假 新闻 就 误 以为 是 地方 政府 对 车企 的 强烈 回应 ，</segment>
-		<segment id="107" parent="309" relname="joint-list">进而 大 规模 转发 和 关注 ，</segment>
-		<segment id="108" parent="308" relname="same-unit">热度</segment>
+		<segment id="102" parent="300" relname="span">假 新闻 ，</segment>
+		<segment id="103" parent="305" relname="causal-cause">由于 用户 本身 就 关心 维权 事件 的 后续</segment>
+		<segment id="104" parent="301" relname="joint-list">而 马上 接收 的</segment>
+		<segment id="105" parent="301" relname="joint-list">不 允许 上 高速 的</segment>
+		<segment id="106" parent="302" relname="span">虚假 新闻 就 误 以为 是 地方 政府 对 车企 的 强烈 回应 ，</segment>
+		<segment id="107" parent="305" relname="joint-list">进而 大 规模 转发 和 关注 ，</segment>
+		<segment id="108" parent="304" relname="same-unit">热度</segment>
 		<segment id="109" parent="110" relname="context-circumstance">直 至 官方 辟谣</segment>
-		<segment id="110" parent="307" relname="span">才 下降 。</segment>
-		<segment id="111" parent="423" relname="organization-heading">3. 抖音 虚假 新闻 监管 的 现状 及 问题</segment>
-		<segment id="112" parent="346" relname="organization-heading">3.1. 抖音 虚假 新闻 监管 的 现状</segment>
-		<segment id="113" parent="326" relname="context-background">抖音 虚假 新闻 管理 最 常见 的 是 短 视频 平台 的 自我 管理 ，</segment>
-		<segment id="114" parent="326" relname="span">抖音 平台 有 自己 的 内部 审核 团队</segment>
-		<segment id="115" parent="322" relname="adversative-contrast">以 形式 审核 为 主 ，</segment>
-		<segment id="116" parent="322" relname="adversative-contrast">不 涉及 内容 的 实质 审核 ，</segment>
-		<segment id="117" parent="324" relname="same-unit">目的 是 过滤 掉</segment>
+		<segment id="110" parent="303" relname="span">才 下降 。</segment>
+		<segment id="111" parent="418" relname="organization-heading">3. 抖音 虚假 新闻 监管 的 现状 及 问题</segment>
+		<segment id="112" parent="342" relname="organization-heading">3.1. 抖音 虚假 新闻 监管 的 现状</segment>
+		<segment id="113" parent="322" relname="context-background">抖音 虚假 新闻 管理 最 常见 的 是 短 视频 平台 的 自我 管理 ，</segment>
+		<segment id="114" parent="322" relname="span">抖音 平台 有 自己 的 内部 审核 团队</segment>
+		<segment id="115" parent="318" relname="adversative-contrast">以 形式 审核 为 主 ，</segment>
+		<segment id="116" parent="318" relname="adversative-contrast">不 涉及 内容 的 实质 审核 ，</segment>
+		<segment id="117" parent="320" relname="same-unit">目的 是 过滤 掉</segment>
 		<segment id="118" parent="119" relname="elaboration-attribute">形式 明显 违反 相关 法律 法规 的</segment>
-		<segment id="119" parent="323" relname="span">短 视频 。</segment>
-		<segment id="120" parent="341" relname="joint-list">抖音 平台 的 监管 运行 模式 由 短 视频 发布 前 的 初期 形式 审核 和 发布 后 的 用户 投诉 、 举报 来 构成 ，</segment>
-		<segment id="121" parent="328" relname="adversative-contrast">主要 运行 逻辑 是 “ 用户 仅 提供 线索 ，</segment>
-		<segment id="122" parent="328" relname="adversative-contrast">平台 全权 审核 ” ，</segment>
-		<segment id="123" parent="329" relname="joint-list">其 用户 参与度 明显 不 够 ，</segment>
-		<segment id="124" parent="329" relname="joint-list">很 明显 这 种 监管 不 能 有效 阻止 虚假 新闻 快速 传播 。</segment>
-		<segment id="125" parent="345" relname="span">抖音 虚假 新闻 监管 处于 主导 地位 的 是 各 级 互联网 信息 主管 部门 的 监管 ，</segment>
-		<segment id="126" parent="332" relname="same-unit">自 2017年 《 互联网 新闻 信息 服务 管理 规定 》 出台 ， 对</segment>
+		<segment id="119" parent="319" relname="span">短 视频 。</segment>
+		<segment id="120" parent="337" relname="joint-list">抖音 平台 的 监管 运行 模式 由 短 视频 发布 前 的 初期 形式 审核 和 发布 后 的 用户 投诉 、 举报 来 构成 ，</segment>
+		<segment id="121" parent="324" relname="adversative-contrast">主要 运行 逻辑 是 “ 用户 仅 提供 线索 ，</segment>
+		<segment id="122" parent="324" relname="adversative-contrast">平台 全权 审核 ” ，</segment>
+		<segment id="123" parent="325" relname="joint-list">其 用户 参与度 明显 不 够 ，</segment>
+		<segment id="124" parent="325" relname="joint-list">很 明显 这 种 监管 不 能 有效 阻止 虚假 新闻 快速 传播 。</segment>
+		<segment id="125" parent="341" relname="span">抖音 虚假 新闻 监管 处于 主导 地位 的 是 各 级 互联网 信息 主管 部门 的 监管 ，</segment>
+		<segment id="126" parent="328" relname="same-unit">自 2017年 《 互联网 新闻 信息 服务 管理 规定 》 出台 ， 对</segment>
 		<segment id="127" parent="128" relname="mode-means">利用 抖音 等 互联网 平台</segment>
-		<segment id="128" parent="330" relname="span">采编 或 报道 新闻 的</segment>
-		<segment id="129" parent="331" relname="span">主体 义务 和 责任 进行 规范 ，</segment>
-		<segment id="130" parent="334" relname="attribution-positive">并 明确</segment>
-		<segment id="131" parent="334" relname="joint-list">相应 的 互联网 信息 主管 部门 对 其 负有 监管 义务</segment>
-		<segment id="132" parent="336" relname="same-unit">和 拥有</segment>
+		<segment id="128" parent="326" relname="span">采编 或 报道 新闻 的</segment>
+		<segment id="129" parent="327" relname="span">主体 义务 和 责任 进行 规范 ，</segment>
+		<segment id="130" parent="330" relname="attribution-positive">并 明确</segment>
+		<segment id="131" parent="330" relname="joint-list">相应 的 互联网 信息 主管 部门 对 其 负有 监管 义务</segment>
+		<segment id="132" parent="332" relname="same-unit">和 拥有</segment>
 		<segment id="133" parent="134" relname="elaboration-attribute">对 播报 虚假 新闻 的 主体 行政 惩戒 措施 的</segment>
-		<segment id="134" parent="335" relname="span">权力 ，</segment>
-		<segment id="135" parent="339" relname="joint-list">这 对 抖音 虚假 新闻 的 监管 进程 起到 了 里程碑 作用 ，</segment>
+		<segment id="134" parent="331" relname="span">权力 ，</segment>
+		<segment id="135" parent="335" relname="joint-list">这 对 抖音 虚假 新闻 的 监管 进程 起到 了 里程碑 作用 ，</segment>
 		<segment id="136" parent="137" relname="attribution-positive">标志 着</segment>
-		<segment id="137" parent="338" relname="span">国家 行政 力量 更 深 介入 抖音 虚假 新闻 监管 。</segment>
-		<segment id="138" parent="340" relname="adversative-contrast">但是 抖音 虚假 新闻 的 监管 仍然 存在 亟待 解决 的 问题 。</segment>
-		<segment id="139" parent="421" relname="organization-heading">3.2. 抖音 虚假 新闻 监管 的 问题</segment>
-		<segment id="140" parent="349" relname="same-unit">抖音 虚假 新闻</segment>
+		<segment id="137" parent="334" relname="span">国家 行政 力量 更 深 介入 抖音 虚假 新闻 监管 。</segment>
+		<segment id="138" parent="336" relname="adversative-contrast">但是 抖音 虚假 新闻 的 监管 仍然 存在 亟待 解决 的 问题 。</segment>
+		<segment id="139" parent="416" relname="organization-heading">3.2. 抖音 虚假 新闻 监管 的 问题</segment>
+		<segment id="140" parent="345" relname="same-unit">抖音 虚假 新闻</segment>
 		<segment id="141" parent="142" relname="mode-means">利用 短 视频 平台 开放式 的 环境 ，</segment>
-		<segment id="142" parent="348" relname="span">散布 大量 低俗 、 夸张 博人眼球 的 虚假 新闻 ，</segment>
+		<segment id="142" parent="344" relname="span">散布 大量 低俗 、 夸张 博人眼球 的 虚假 新闻 ，</segment>
 		<segment id="143" parent="144" relname="causal-cause">由于 短 视频 的 虚拟 属性 ，</segment>
-		<segment id="144" parent="350" relname="span">监管 机制 存在 急需 解决 的 问题 ，</segment>
-		<segment id="145" parent="351" relname="span">其 主要 表现 在 以下 几 个 方面 ：</segment>
-		<segment id="146" parent="368" relname="span">1) 新闻 界定 不明 。</segment>
-		<segment id="147" parent="355" relname="attribution-positive">依照 《 互联网 新闻 信息 服务 管理 规定 》 ，</segment>
-		<segment id="148" parent="354" relname="organization-preparation">我国 互联网 新闻 主体 有 三 种 类型 ，</segment>
-		<segment id="149" parent="354" relname="same-unit">即 新闻 单位 、 新闻 宣传 部门 主管 的 单位 和</segment>
+		<segment id="144" parent="346" relname="span">监管 机制 存在 急需 解决 的 问题 ，</segment>
+		<segment id="145" parent="347" relname="span">其 主要 表现 在 以下 几 个 方面 ：</segment>
+		<segment id="146" parent="364" relname="span">1) 新闻 界定 不明 。</segment>
+		<segment id="147" parent="351" relname="attribution-positive">依照 《 互联网 新闻 信息 服务 管理 规定 》 ，</segment>
+		<segment id="148" parent="350" relname="organization-preparation">我国 互联网 新闻 主体 有 三 种 类型 ，</segment>
+		<segment id="149" parent="350" relname="same-unit">即 新闻 单位 、 新闻 宣传 部门 主管 的 单位 和</segment>
 		<segment id="150" parent="151" relname="elaboration-attribute">符合 条件 的</segment>
-		<segment id="151" parent="353" relname="span">互联网 新闻 信息 服务 提供者 。</segment>
-		<segment id="152" parent="360" relname="span">抖音 作为 互联网 中 的 主要 即时 新闻 分享 传播 平台 ， 其 新闻 主体 身份 往往 重合 ，</segment>
-		<segment id="153" parent="357" relname="same-unit">甚至 部分 账号 将 自己 包装 成</segment>
+		<segment id="151" parent="349" relname="span">互联网 新闻 信息 服务 提供者 。</segment>
+		<segment id="152" parent="356" relname="span">抖音 作为 互联网 中 的 主要 即时 新闻 分享 传播 平台 ， 其 新闻 主体 身份 往往 重合 ，</segment>
+		<segment id="153" parent="353" relname="same-unit">甚至 部分 账号 将 自己 包装 成</segment>
 		<segment id="154" parent="155" relname="elaboration-attribute">正规 拥有 新闻 采播 权利 的</segment>
-		<segment id="155" parent="358" relname="span">媒体 ，</segment>
-		<segment id="156" parent="357" relname="purpose-goal">让 在 监管 中 对于 主体 难以 界定 。</segment>
-		<segment id="157" parent="365" relname="span">同时 抖音 虚假 新闻 内容 也 存在 界定 难度 ，</segment>
-		<segment id="158" parent="361" relname="span">其 虚假 新闻 往往 隐藏 或 改编 在 真实 的 社会 热点 事件 里</segment>
+		<segment id="155" parent="354" relname="span">媒体 ，</segment>
+		<segment id="156" parent="353" relname="purpose-goal">让 在 监管 中 对于 主体 难以 界定 。</segment>
+		<segment id="157" parent="361" relname="span">同时 抖音 虚假 新闻 内容 也 存在 界定 难度 ，</segment>
+		<segment id="158" parent="357" relname="span">其 虚假 新闻 往往 隐藏 或 改编 在 真实 的 社会 热点 事件 里</segment>
 		<segment id="159" parent="158" relname="causal-result">而 难以 被 识别 ，</segment>
 		<segment id="160" parent="161" relname="context-circumstance">在 经过 用户 的 转发 分享 后</segment>
-		<segment id="161" parent="362" relname="span">形成 裂变 的 病毒 效果 ，</segment>
-		<segment id="162" parent="362" relname="causal-result">很 难 从 源头 上 进行 排查 和 监管 。</segment>
-		<segment id="163" parent="387" relname="span">2) 流量 扶持 不当 。</segment>
-		<segment id="164" parent="373" relname="context-background">抖音 平台 存在 大量 的 不 受 管控 的 非 官方 的 “ 流量 服务 ” ，</segment>
-		<segment id="165" parent="373" relname="same-unit">虚假 新闻 制作者</segment>
-		<segment id="166" parent="371" relname="span">可 购买 其 的 点赞 和 推广 服务 ，</segment>
+		<segment id="161" parent="358" relname="span">形成 裂变 的 病毒 效果 ，</segment>
+		<segment id="162" parent="358" relname="causal-result">很 难 从 源头 上 进行 排查 和 监管 。</segment>
+		<segment id="163" parent="383" relname="span">2) 流量 扶持 不当 。</segment>
+		<segment id="164" parent="369" relname="context-background">抖音 平台 存在 大量 的 不 受 管控 的 非 官方 的 “ 流量 服务 ” ，</segment>
+		<segment id="165" parent="369" relname="same-unit">虚假 新闻 制作者</segment>
+		<segment id="166" parent="367" relname="span">可 购买 其 的 点赞 和 推广 服务 ，</segment>
 		<segment id="167" parent="166" relname="elaboration-attribute">让 制作 的 假 新闻 短 时间 内 流量 数据 暴涨 ，</segment>
-		<segment id="168" parent="372" relname="span">来 获得 抖音 的 流量 扶持 ，</segment>
-		<segment id="169" parent="379" relname="purpose-goal">达到 进一步 扩散 的 目的 ，</segment>
-		<segment id="170" parent="370" relname="same-unit">或者</segment>
+		<segment id="168" parent="368" relname="span">来 获得 抖音 的 流量 扶持 ，</segment>
+		<segment id="169" parent="375" relname="purpose-goal">达到 进一步 扩散 的 目的 ，</segment>
+		<segment id="170" parent="366" relname="same-unit">或者</segment>
 		<segment id="171" parent="172" relname="mode-means">利用 抖音 热门 话题 、 关键 字</segment>
-		<segment id="172" parent="369" relname="span">发布 虚假 新闻 ，</segment>
-		<segment id="173" parent="375" relname="span">把 完全 没有 联系 的 话题 和 关键 字 与 虚假 新闻 进行 拼接</segment>
-		<segment id="174" parent="376" relname="explanation-evidence">[ 3 ] ，</segment>
-		<segment id="175" parent="377" relname="purpose-goal">以 获取 点击率 、 曝光度 。</segment>
-		<segment id="176" parent="380" relname="context-background">抖音 也 在 售卖 自己 的 流量 “ Dou+ ” ，</segment>
+		<segment id="172" parent="365" relname="span">发布 虚假 新闻 ，</segment>
+		<segment id="173" parent="371" relname="span">把 完全 没有 联系 的 话题 和 关键 字 与 虚假 新闻 进行 拼接</segment>
+		<segment id="174" parent="372" relname="explanation-evidence">[ 3 ] ，</segment>
+		<segment id="175" parent="373" relname="purpose-goal">以 获取 点击率 、 曝光度 。</segment>
+		<segment id="176" parent="376" relname="context-background">抖音 也 在 售卖 自己 的 流量 “ Dou+ ” ，</segment>
 		<segment id="177" parent="178" relname="context-circumstance">用户 购买 后 ，</segment>
-		<segment id="178" parent="380" relname="span">就 可以 在 主页 获得 持续 曝光 ，</segment>
-		<segment id="179" parent="383" relname="same-unit">虚假 新闻 制作者</segment>
-		<segment id="180" parent="381" relname="mode-means">通过 此 种 方式</segment>
-		<segment id="181" parent="381" relname="joint-list">促进 热度 、</segment>
-		<segment id="182" parent="381" relname="joint-list">牟取 不法 利益 。</segment>
-		<segment id="183" parent="400" relname="span">3) 相关 法律 规范 不 完善 。</segment>
-		<segment id="184" parent="390" relname="adversative-concession">《 互联网 新闻 信息 服务 管理 规定 》 在 一定 程度 上 限制 了 抖音 虚假 新闻 的 传播 ，</segment>
-		<segment id="185" parent="390" relname="same-unit">但 缺乏 对</segment>
+		<segment id="178" parent="376" relname="span">就 可以 在 主页 获得 持续 曝光 ，</segment>
+		<segment id="179" parent="379" relname="same-unit">虚假 新闻 制作者</segment>
+		<segment id="180" parent="377" relname="mode-means">通过 此 种 方式</segment>
+		<segment id="181" parent="377" relname="joint-list">促进 热度 、</segment>
+		<segment id="182" parent="377" relname="joint-list">牟取 不法 利益 。</segment>
+		<segment id="183" parent="395" relname="span">3) 相关 法律 规范 不 完善 。</segment>
+		<segment id="184" parent="386" relname="adversative-concession">《 互联网 新闻 信息 服务 管理 规定 》 在 一定 程度 上 限制 了 抖音 虚假 新闻 的 传播 ，</segment>
+		<segment id="185" parent="386" relname="same-unit">但 缺乏 对</segment>
 		<segment id="186" parent="187" relname="elaboration-attribute">不 是 上述 新闻 主体 的</segment>
-		<segment id="187" parent="389" relname="span">自然人 或</segment>
+		<segment id="187" parent="385" relname="span">自然人 或</segment>
 		<segment id="188" parent="189" relname="elaboration-attribute">没有 取得 资质 的</segment>
-		<segment id="189" parent="388" relname="span">组织 实施 严格 有效 的 监管 。</segment>
-		<segment id="190" parent="393" relname="same-unit">其 作为</segment>
+		<segment id="189" parent="384" relname="span">组织 实施 严格 有效 的 监管 。</segment>
+		<segment id="190" parent="388" relname="same-unit">其 作为</segment>
 		<segment id="191" parent="192" relname="elaboration-attribute">专门 规范 网络 新闻 领域 的</segment>
-		<segment id="192" parent="392" relname="span">法律 ， 其 效用 还 需要 执法 人员 的 进一步 发挥 。</segment>
-		<segment id="193" parent="394" relname="span">同时 虚假 新闻 制作者 存在 时空 不一致性 ，</segment>
+		<segment id="192" parent="387" relname="span">法律 ， 其 效用 还 需要 执法 人员 的 进一步 发挥 。</segment>
+		<segment id="193" parent="389" relname="span">同时 虚假 新闻 制作者 存在 时空 不一致性 ，</segment>
 		<segment id="194" parent="193" relname="causal-result">相关 责任人 及 实际 违法地 难以 确定 ，</segment>
-		<segment id="195" parent="395" relname="joint-list">跨地域性 也 会 使得 管辖权 难 以 明确 ，</segment>
-		<segment id="196" parent="397" relname="span">同时 本法 的 责任 机关 不 是 常规 的 行政 治安 机关</segment>
+		<segment id="195" parent="390" relname="joint-list">跨地域性 也 会 使得 管辖权 难 以 明确 ，</segment>
+		<segment id="196" parent="392" relname="span">同时 本法 的 责任 机关 不 是 常规 的 行政 治安 机关</segment>
 		<segment id="197" parent="198" relname="context-circumstance">在 涉及 执法 管辖权 时</segment>
-		<segment id="198" parent="396" relname="span">往往 无法 进行 有效 沟通 。</segment>
-		<segment id="199" parent="419" relname="span">4) 相关 部门 监管 不力 。</segment>
-		<segment id="200" parent="402" relname="same-unit">各级 互联网 信息 办公室 是</segment>
+		<segment id="198" parent="391" relname="span">往往 无法 进行 有效 沟通 。</segment>
+		<segment id="199" parent="414" relname="span">4) 相关 部门 监管 不力 。</segment>
+		<segment id="200" parent="397" relname="same-unit">各级 互联网 信息 办公室 是</segment>
 		<segment id="201" parent="202" relname="elaboration-attribute">负责 抖音 虚假 新闻 监督 管理 的</segment>
-		<segment id="202" parent="401" relname="span">主管 部门 ，</segment>
-		<segment id="203" parent="404" relname="same-unit">但 与 公安 部门</segment>
+		<segment id="202" parent="396" relname="span">主管 部门 ，</segment>
+		<segment id="203" parent="399" relname="same-unit">但 与 公安 部门</segment>
 		<segment id="204" parent="205" relname="context-circumstance">在 监管 执法 时</segment>
-		<segment id="205" parent="403" relname="span">存在 监管 执法 权力 交叉 和 双方 监管 信息 未 及时 共享 等 问题 。</segment>
-		<segment id="206" parent="410" relname="context-circumstance">尤其是 面对 虚假 新闻 制作人 是 自然人 时</segment>
-		<segment id="207" parent="407" relname="same-unit">往往 由 公安 机关</segment>
+		<segment id="205" parent="398" relname="span">存在 监管 执法 权力 交叉 和 双方 监管 信息 未 及时 共享 等 问题 。</segment>
+		<segment id="206" parent="405" relname="context-circumstance">尤其是 面对 虚假 新闻 制作人 是 自然人 时</segment>
+		<segment id="207" parent="402" relname="same-unit">往往 由 公安 机关</segment>
 		<segment id="208" parent="209" relname="mode-means">以 寻衅滋事 为 由</segment>
-		<segment id="209" parent="406" relname="span">处以 行政 拘留</segment>
-		<segment id="210" parent="409" relname="same-unit">而 没有</segment>
+		<segment id="209" parent="401" relname="span">处以 行政 拘留</segment>
+		<segment id="210" parent="404" relname="same-unit">而 没有</segment>
 		<segment id="211" parent="212" relname="mode-means">按照 《 互联网 新闻 信息 服务 管理 规定 》</segment>
-		<segment id="212" parent="408" relname="span">由 互联网 信息 办公室 处罚 。</segment>
-		<segment id="213" parent="414" relname="same-unit">主管 部门</segment>
-		<segment id="214" parent="412" relname="context-circumstance">在 面对 抖音 平台 上 每天 发布 海量 的 信息</segment>
-		<segment id="215" parent="412" relname="adversative-contrast">仅 靠 传统 模式 逐个 进行 甄别 ，</segment>
-		<segment id="216" parent="412" relname="adversative-contrast">而 不 有效 利用 “ 大 数据 ” 等 现代 互联网 技术 ，</segment>
-		<segment id="217" parent="415" relname="joint-list">则 势必 会 导致 监管 环节 的 薄弱 和 缺位</segment>
-		<segment id="218" parent="415" relname="joint-list">进而 给 执法 带来 重重 挑战 。</segment>
+		<segment id="212" parent="403" relname="span">由 互联网 信息 办公室 处罚 。</segment>
+		<segment id="213" parent="409" relname="same-unit">主管 部门</segment>
+		<segment id="214" parent="407" relname="context-circumstance">在 面对 抖音 平台 上 每天 发布 海量 的 信息</segment>
+		<segment id="215" parent="407" relname="adversative-contrast">仅 靠 传统 模式 逐个 进行 甄别 ，</segment>
+		<segment id="216" parent="407" relname="adversative-contrast">而 不 有效 利用 “ 大 数据 ” 等 现代 互联网 技术 ，</segment>
+		<segment id="217" parent="410" relname="joint-list">则 势必 会 导致 监管 环节 的 薄弱 和 缺位</segment>
+		<segment id="218" parent="410" relname="joint-list">进而 给 执法 带来 重重 挑战 。</segment>
 		<group id="219" type="span" parent="220" relname="attribution-positive"/>
 		<group id="220" type="multinuc" parent="221" relname="span"/>
-		<group id="221" type="span" parent="238" relname="joint-list"/>
+		<group id="221" type="span" parent="236" relname="joint-list"/>
 		<group id="222" type="span" parent="223" relname="same-unit"/>
-		<group id="223" type="multinuc" parent="232" relname="joint-list"/>
-		<group id="224" type="multinuc" parent="232" relname="joint-list"/>
+		<group id="223" type="multinuc" parent="230" relname="joint-list"/>
+		<group id="224" type="multinuc" parent="230" relname="joint-list"/>
 		<group id="225" type="span" parent="224" relname="same-unit"/>
-		<group id="227" type="multinuc" parent="231" relname="joint-list"/>
-		<group id="228" type="span" parent="230" relname="span"/>
-		<group id="230" type="span" parent="227" relname="same-unit"/>
-		<group id="231" type="multinuc" parent="240" relname="span"/>
-		<group id="232" type="multinuc" parent="238" relname="joint-list"/>
-		<group id="233" type="span" parent="234" relname="same-unit"/>
-		<group id="234" type="multinuc" parent="235" relname="span"/>
-		<group id="235" type="span" parent="236" relname="span"/>
-		<group id="236" type="span" parent="22" relname="causal-cause"/>
-		<group id="237" type="span" parent="23" relname="context-background"/>
-		<group id="238" type="multinuc" parent="231" relname="context-background"/>
-		<group id="239" type="span" parent="241" relname="span"/>
-		<group id="240" type="span" parent="235" relname="causal-cause"/>
-		<group id="241" type="span" parent="320" relname="joint-list"/>
-		<group id="242" type="span" parent="243" relname="same-unit"/>
-		<group id="243" type="multinuc" parent="255" relname="span"/>
-		<group id="244" type="span" parent="249" relname="same-unit"/>
-		<group id="246" type="span" parent="249" relname="same-unit"/>
-		<group id="247" type="span" parent="249" relname="same-unit"/>
-		<group id="248" type="span" parent="249" relname="same-unit"/>
-		<group id="249" type="multinuc" parent="243" relname="explanation-evidence"/>
-		<group id="250" type="multinuc" parent="251" relname="mode-means"/>
-		<group id="251" type="multinuc" parent="256" relname="span"/>
-		<group id="253" type="span" parent="254" relname="same-unit"/>
-		<group id="254" type="multinuc" parent="260" relname="span"/>
-		<group id="255" type="span" parent="261" relname="span"/>
-		<group id="256" type="span" parent="259" relname="joint-list"/>
+		<group id="226" type="multinuc" parent="229" relname="joint-list"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="226" relname="same-unit"/>
+		<group id="229" type="multinuc" parent="238" relname="span"/>
+		<group id="230" type="multinuc" parent="236" relname="joint-list"/>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="22" relname="causal-cause"/>
+		<group id="235" type="span" parent="23" relname="context-background"/>
+		<group id="236" type="multinuc" parent="229" relname="context-background"/>
+		<group id="237" type="span" parent="239" relname="span"/>
+		<group id="238" type="span" parent="18" relname="context-background"/>
+		<group id="239" type="span" parent="316" relname="joint-list"/>
+		<group id="240" type="span" parent="241" relname="same-unit"/>
+		<group id="241" type="multinuc" parent="251" relname="span"/>
+		<group id="242" type="span" parent="246" relname="same-unit"/>
+		<group id="243" type="span" parent="246" relname="same-unit"/>
+		<group id="244" type="span" parent="246" relname="same-unit"/>
+		<group id="245" type="span" parent="246" relname="same-unit"/>
+		<group id="246" type="multinuc" parent="241" relname="elaboration-additional"/>
+		<group id="247" type="multinuc" parent="248" relname="mode-means"/>
+		<group id="248" type="multinuc" parent="252" relname="span"/>
+		<group id="249" type="span" parent="250" relname="same-unit"/>
+		<group id="250" type="multinuc" parent="256" relname="span"/>
+		<group id="251" type="span" parent="257" relname="span"/>
+		<group id="252" type="span" parent="255" relname="joint-list"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="joint-list"/>
+		<group id="255" type="multinuc" parent="250" relname="causal-cause"/>
+		<group id="256" type="span" parent="251" relname="elaboration-additional"/>
 		<group id="257" type="span" parent="258" relname="span"/>
-		<group id="258" type="span" parent="259" relname="joint-list"/>
-		<group id="259" type="multinuc" parent="254" relname="causal-cause"/>
-		<group id="260" type="span" parent="255" relname="elaboration-additional"/>
+		<group id="258" type="span" parent="314" relname="joint-list"/>
+		<group id="259" type="multinuc" parent="271" relname="span"/>
+		<group id="260" type="multinuc" parent="54" relname="explanation-justify"/>
 		<group id="261" type="span" parent="262" relname="span"/>
-		<group id="262" type="span" parent="318" relname="joint-list"/>
-		<group id="263" type="multinuc" parent="275" relname="span"/>
-		<group id="264" type="multinuc" parent="54" relname="explanation-justify"/>
-		<group id="265" type="span" parent="266" relname="span"/>
-		<group id="266" type="span" parent="273" relname="joint-list"/>
-		<group id="267" type="span" parent="268" relname="same-unit"/>
-		<group id="268" type="multinuc" parent="61" relname="contingency-condition"/>
-		<group id="269" type="span" parent="273" relname="joint-list"/>
-		<group id="270" type="span" parent="271" relname="same-unit"/>
-		<group id="271" type="multinuc" parent="272" relname="joint-list"/>
-		<group id="272" type="multinuc" parent="273" relname="causal-result"/>
-		<group id="273" type="multinuc" parent="274" relname="span"/>
-		<group id="274" type="span" parent="263" relname="elaboration-additional"/>
-		<group id="275" type="span" parent="316" relname="joint-list"/>
-		<group id="276" type="span" parent="277" relname="same-unit"/>
-		<group id="277" type="multinuc" parent="291" relname="context-background"/>
-		<group id="278" type="span" parent="277" relname="same-unit"/>
-		<group id="279" type="span" parent="280" relname="same-unit"/>
-		<group id="280" type="multinuc" parent="284" relname="same-unit"/>
-		<group id="281" type="span" parent="77" relname="elaboration-attribute"/>
-		<group id="282" type="span" parent="284" relname="same-unit"/>
-		<group id="283" type="multinuc" parent="291" relname="span"/>
-		<group id="284" type="multinuc" parent="283" relname="joint-list"/>
-		<group id="285" type="multinuc" parent="283" relname="causal-cause"/>
-		<group id="286" type="span" parent="295" relname="span"/>
-		<group id="287" type="multinuc" parent="290" relname="same-unit"/>
-		<group id="288" type="span" parent="287" relname="joint-list"/>
-		<group id="289" type="span" parent="290" relname="same-unit"/>
-		<group id="290" type="multinuc" parent="294" relname="span"/>
-		<group id="291" type="span" parent="292" relname="span"/>
-		<group id="292" type="span" parent="296" relname="joint-list"/>
-		<group id="293" type="multinuc" parent="290" relname="causal-result"/>
-		<group id="294" type="span" parent="286" relname="elaboration-additional"/>
-		<group id="295" type="span" parent="296" relname="joint-list"/>
-		<group id="296" type="multinuc" parent="66" relname="elaboration-additional"/>
-		<group id="297" type="span" parent="316" relname="joint-list"/>
+		<group id="262" type="span" parent="269" relname="joint-list"/>
+		<group id="263" type="span" parent="264" relname="same-unit"/>
+		<group id="264" type="multinuc" parent="61" relname="contingency-condition"/>
+		<group id="265" type="span" parent="269" relname="joint-list"/>
+		<group id="266" type="span" parent="267" relname="same-unit"/>
+		<group id="267" type="multinuc" parent="268" relname="joint-list"/>
+		<group id="268" type="multinuc" parent="269" relname="causal-result"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" parent="259" relname="elaboration-additional"/>
+		<group id="271" type="span" parent="312" relname="joint-list"/>
+		<group id="272" type="span" parent="273" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="287" relname="context-background"/>
+		<group id="274" type="span" parent="273" relname="same-unit"/>
+		<group id="275" type="span" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="280" relname="same-unit"/>
+		<group id="277" type="span" parent="77" relname="elaboration-attribute"/>
+		<group id="278" type="span" parent="280" relname="same-unit"/>
+		<group id="279" type="multinuc" parent="287" relname="span"/>
+		<group id="280" type="multinuc" parent="279" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="279" relname="causal-cause"/>
+		<group id="282" type="span" parent="291" relname="span"/>
+		<group id="283" type="multinuc" parent="286" relname="same-unit"/>
+		<group id="284" type="span" parent="283" relname="joint-list"/>
+		<group id="285" type="span" parent="286" relname="same-unit"/>
+		<group id="286" type="multinuc" parent="290" relname="span"/>
+		<group id="287" type="span" parent="288" relname="span"/>
+		<group id="288" type="span" parent="292" relname="joint-list"/>
+		<group id="289" type="multinuc" parent="286" relname="causal-result"/>
+		<group id="290" type="span" parent="282" relname="elaboration-additional"/>
+		<group id="291" type="span" parent="292" relname="joint-list"/>
+		<group id="292" type="multinuc" parent="66" relname="elaboration-additional"/>
+		<group id="293" type="span" parent="312" relname="joint-list"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="295" type="multinuc" parent="95" relname="causal-cause"/>
+		<group id="296" type="span" parent="310" relname="span"/>
+		<group id="297" type="multinuc" parent="308" relname="joint-list"/>
 		<group id="298" type="span" parent="299" relname="same-unit"/>
-		<group id="299" type="multinuc" parent="95" relname="causal-cause"/>
-		<group id="300" type="span" parent="314" relname="span"/>
-		<group id="301" type="multinuc" parent="312" relname="joint-list"/>
-		<group id="302" type="span" parent="303" relname="same-unit"/>
-		<group id="303" type="multinuc" parent="312" relname="joint-list"/>
-		<group id="304" type="span" parent="303" relname="same-unit"/>
-		<group id="305" type="multinuc" parent="106" relname="elaboration-attribute"/>
-		<group id="306" type="span" parent="309" relname="joint-list"/>
-		<group id="307" type="span" parent="308" relname="same-unit"/>
-		<group id="308" type="multinuc" parent="310" relname="elaboration-additional"/>
-		<group id="309" type="multinuc" parent="310" relname="span"/>
-		<group id="310" type="span" parent="311" relname="span"/>
-		<group id="311" type="span" parent="313" relname="span"/>
-		<group id="312" type="multinuc" parent="311" relname="context-background"/>
-		<group id="313" type="span" parent="300" relname="explanation-evidence"/>
-		<group id="314" type="span" parent="91" relname="elaboration-additional"/>
+		<group id="299" type="multinuc" parent="308" relname="joint-list"/>
+		<group id="300" type="span" parent="299" relname="same-unit"/>
+		<group id="301" type="multinuc" parent="106" relname="elaboration-attribute"/>
+		<group id="302" type="span" parent="305" relname="joint-list"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="306" relname="elaboration-additional"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="309" relname="span"/>
+		<group id="308" type="multinuc" parent="307" relname="context-background"/>
+		<group id="309" type="span" parent="296" relname="explanation-evidence"/>
+		<group id="310" type="span" parent="91" relname="elaboration-additional"/>
+		<group id="311" type="span" parent="312" relname="joint-list"/>
+		<group id="312" type="multinuc" parent="313" relname="span"/>
+		<group id="313" type="span" parent="314" relname="joint-list"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
 		<group id="315" type="span" parent="316" relname="joint-list"/>
 		<group id="316" type="multinuc" parent="317" relname="span"/>
-		<group id="317" type="span" parent="318" relname="joint-list"/>
-		<group id="318" type="multinuc" parent="319" relname="span"/>
-		<group id="319" type="span" parent="320" relname="joint-list"/>
-		<group id="320" type="multinuc" parent="321" relname="span"/>
-		<group id="321" type="span" />
-		<group id="322" type="multinuc" parent="325" relname="span"/>
-		<group id="323" type="span" parent="324" relname="same-unit"/>
-		<group id="324" type="multinuc" parent="322" relname="elaboration-additional"/>
-		<group id="325" type="span" parent="114" relname="adversative-concession"/>
-		<group id="326" type="span" parent="327" relname="span"/>
-		<group id="327" type="span" parent="343" relname="span"/>
-		<group id="328" type="multinuc" parent="341" relname="joint-list"/>
-		<group id="329" type="multinuc" parent="341" relname="evaluation-comment"/>
-		<group id="330" type="span" parent="129" relname="elaboration-attribute"/>
+		<group id="317" type="span" />
+		<group id="318" type="multinuc" parent="321" relname="span"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="318" relname="elaboration-additional"/>
+		<group id="321" type="span" parent="114" relname="adversative-concession"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="339" relname="span"/>
+		<group id="324" type="multinuc" parent="337" relname="joint-list"/>
+		<group id="325" type="multinuc" parent="337" relname="evaluation-comment"/>
+		<group id="326" type="span" parent="129" relname="elaboration-attribute"/>
+		<group id="327" type="span" parent="328" relname="same-unit"/>
+		<group id="328" type="multinuc" parent="329" relname="joint-list"/>
+		<group id="329" type="multinuc" parent="340" relname="span"/>
+		<group id="330" type="multinuc" parent="333" relname="span"/>
 		<group id="331" type="span" parent="332" relname="same-unit"/>
-		<group id="332" type="multinuc" parent="333" relname="joint-list"/>
-		<group id="333" type="multinuc" parent="344" relname="span"/>
-		<group id="334" type="multinuc" parent="337" relname="span"/>
-		<group id="335" type="span" parent="336" relname="same-unit"/>
-		<group id="336" type="multinuc" parent="334" relname="joint-list"/>
-		<group id="337" type="span" parent="333" relname="joint-list"/>
-		<group id="338" type="span" parent="339" relname="joint-list"/>
-		<group id="339" type="multinuc" parent="340" relname="adversative-contrast"/>
-		<group id="340" type="multinuc" parent="333" relname="evaluation-comment"/>
-		<group id="341" type="multinuc" parent="342" relname="span"/>
-		<group id="342" type="span" parent="327" relname="elaboration-additional"/>
-		<group id="343" type="span" parent="346" relname="joint-list"/>
-		<group id="344" type="span" parent="125" relname="elaboration-additional"/>
-		<group id="345" type="span" parent="346" relname="joint-list"/>
-		<group id="346" type="multinuc" parent="347" relname="span"/>
-		<group id="347" type="span" parent="423" relname="joint-list"/>
-		<group id="348" type="span" parent="349" relname="same-unit"/>
-		<group id="349" type="multinuc" parent="351" relname="context-background"/>
-		<group id="350" type="span" parent="145" relname="organization-preparation"/>
+		<group id="332" type="multinuc" parent="330" relname="joint-list"/>
+		<group id="333" type="span" parent="329" relname="joint-list"/>
+		<group id="334" type="span" parent="335" relname="joint-list"/>
+		<group id="335" type="multinuc" parent="336" relname="adversative-contrast"/>
+		<group id="336" type="multinuc" parent="329" relname="evaluation-comment"/>
+		<group id="337" type="multinuc" parent="338" relname="span"/>
+		<group id="338" type="span" parent="323" relname="elaboration-additional"/>
+		<group id="339" type="span" parent="342" relname="joint-list"/>
+		<group id="340" type="span" parent="125" relname="elaboration-additional"/>
+		<group id="341" type="span" parent="342" relname="joint-list"/>
+		<group id="342" type="multinuc" parent="343" relname="span"/>
+		<group id="343" type="span" parent="418" relname="joint-list"/>
+		<group id="344" type="span" parent="345" relname="same-unit"/>
+		<group id="345" type="multinuc" parent="347" relname="context-background"/>
+		<group id="346" type="span" parent="145" relname="organization-preparation"/>
+		<group id="347" type="span" parent="348" relname="span"/>
+		<group id="348" type="span" parent="415" relname="organization-preparation"/>
+		<group id="349" type="span" parent="350" relname="same-unit"/>
+		<group id="350" type="multinuc" parent="351" relname="span"/>
 		<group id="351" type="span" parent="352" relname="span"/>
-		<group id="352" type="span" parent="420" relname="organization-preparation"/>
-		<group id="353" type="span" parent="354" relname="same-unit"/>
-		<group id="354" type="multinuc" parent="355" relname="span"/>
-		<group id="355" type="span" parent="356" relname="span"/>
-		<group id="356" type="span" parent="366" relname="context-background"/>
-		<group id="357" type="multinuc" parent="359" relname="span"/>
-		<group id="358" type="span" parent="357" relname="same-unit"/>
-		<group id="359" type="span" parent="152" relname="elaboration-additional"/>
-		<group id="360" type="span" parent="366" relname="joint-other"/>
-		<group id="361" type="span" parent="364" relname="joint-list"/>
-		<group id="362" type="span" parent="363" relname="span"/>
-		<group id="363" type="span" parent="364" relname="joint-list"/>
-		<group id="364" type="multinuc" parent="157" relname="elaboration-additional"/>
-		<group id="365" type="span" parent="366" relname="joint-other"/>
-		<group id="366" type="multinuc" parent="367" relname="span"/>
-		<group id="367" type="span" parent="146" relname="elaboration-additional"/>
-		<group id="368" type="span" parent="420" relname="joint-list"/>
-		<group id="369" type="span" parent="370" relname="same-unit"/>
-		<group id="370" type="multinuc" parent="173" relname="mode-means"/>
-		<group id="371" type="span" parent="168" relname="mode-means"/>
-		<group id="372" type="span" parent="373" relname="same-unit"/>
-		<group id="373" type="multinuc" parent="379" relname="span"/>
-		<group id="374" type="span" parent="376" relname="joint-list"/>
-		<group id="375" type="span" parent="376" relname="joint-list"/>
-		<group id="376" type="multinuc" parent="377" relname="span"/>
-		<group id="377" type="span" parent="378" relname="span"/>
-		<group id="378" type="span" parent="386" relname="joint-list"/>
-		<group id="379" type="span" parent="374" relname="span"/>
-		<group id="380" type="span" parent="385" relname="span"/>
-		<group id="381" type="multinuc" parent="382" relname="span"/>
-		<group id="382" type="span" parent="383" relname="same-unit"/>
-		<group id="383" type="multinuc" parent="385" relname="elaboration-additional"/>
-		<group id="384" type="span" parent="386" relname="joint-list"/>
-		<group id="385" type="span" parent="384" relname="span"/>
-		<group id="386" type="multinuc" parent="163" relname="elaboration-additional"/>
-		<group id="387" type="span" parent="420" relname="joint-list"/>
-		<group id="388" type="span" parent="390" relname="same-unit"/>
-		<group id="389" type="span" parent="390" relname="same-unit"/>
-		<group id="390" type="multinuc" parent="398" relname="span"/>
-		<group id="392" type="span" parent="393" relname="same-unit"/>
-		<group id="393" type="multinuc" parent="395" relname="joint-list"/>
-		<group id="394" type="span" parent="395" relname="joint-list"/>
-		<group id="395" type="multinuc" parent="398" relname="elaboration-additional"/>
-		<group id="396" type="span" parent="196" relname="causal-result"/>
-		<group id="397" type="span" parent="395" relname="joint-list"/>
-		<group id="398" type="span" parent="399" relname="span"/>
-		<group id="399" type="span" parent="183" relname="elaboration-additional"/>
-		<group id="400" type="span" parent="420" relname="joint-list"/>
+		<group id="352" type="span" parent="362" relname="context-background"/>
+		<group id="353" type="multinuc" parent="355" relname="span"/>
+		<group id="354" type="span" parent="353" relname="same-unit"/>
+		<group id="355" type="span" parent="152" relname="elaboration-additional"/>
+		<group id="356" type="span" parent="362" relname="joint-other"/>
+		<group id="357" type="span" parent="360" relname="joint-list"/>
+		<group id="358" type="span" parent="359" relname="span"/>
+		<group id="359" type="span" parent="360" relname="joint-list"/>
+		<group id="360" type="multinuc" parent="157" relname="elaboration-additional"/>
+		<group id="361" type="span" parent="362" relname="joint-other"/>
+		<group id="362" type="multinuc" parent="363" relname="span"/>
+		<group id="363" type="span" parent="146" relname="elaboration-additional"/>
+		<group id="364" type="span" parent="415" relname="joint-list"/>
+		<group id="365" type="span" parent="366" relname="same-unit"/>
+		<group id="366" type="multinuc" parent="173" relname="mode-means"/>
+		<group id="367" type="span" parent="168" relname="mode-means"/>
+		<group id="368" type="span" parent="369" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="375" relname="span"/>
+		<group id="370" type="span" parent="372" relname="joint-list"/>
+		<group id="371" type="span" parent="372" relname="joint-list"/>
+		<group id="372" type="multinuc" parent="373" relname="span"/>
+		<group id="373" type="span" parent="374" relname="span"/>
+		<group id="374" type="span" parent="382" relname="joint-list"/>
+		<group id="375" type="span" parent="370" relname="span"/>
+		<group id="376" type="span" parent="381" relname="span"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="379" relname="same-unit"/>
+		<group id="379" type="multinuc" parent="381" relname="elaboration-additional"/>
+		<group id="380" type="span" parent="382" relname="joint-list"/>
+		<group id="381" type="span" parent="380" relname="span"/>
+		<group id="382" type="multinuc" parent="163" relname="elaboration-additional"/>
+		<group id="383" type="span" parent="415" relname="joint-list"/>
+		<group id="384" type="span" parent="386" relname="same-unit"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="393" relname="span"/>
+		<group id="387" type="span" parent="388" relname="same-unit"/>
+		<group id="388" type="multinuc" parent="390" relname="joint-list"/>
+		<group id="389" type="span" parent="390" relname="joint-list"/>
+		<group id="390" type="multinuc" parent="393" relname="elaboration-additional"/>
+		<group id="391" type="span" parent="196" relname="causal-result"/>
+		<group id="392" type="span" parent="390" relname="joint-list"/>
+		<group id="393" type="span" parent="394" relname="span"/>
+		<group id="394" type="span" parent="183" relname="elaboration-additional"/>
+		<group id="395" type="span" parent="415" relname="joint-list"/>
+		<group id="396" type="span" parent="397" relname="same-unit"/>
+		<group id="397" type="multinuc" parent="399" relname="adversative-concession"/>
+		<group id="398" type="span" parent="399" relname="same-unit"/>
+		<group id="399" type="multinuc" parent="400" relname="span"/>
+		<group id="400" type="span" parent="412" relname="span"/>
 		<group id="401" type="span" parent="402" relname="same-unit"/>
-		<group id="402" type="multinuc" parent="404" relname="adversative-concession"/>
+		<group id="402" type="multinuc" parent="405" relname="adversative-contrast"/>
 		<group id="403" type="span" parent="404" relname="same-unit"/>
-		<group id="404" type="multinuc" parent="405" relname="span"/>
-		<group id="405" type="span" parent="417" relname="span"/>
-		<group id="406" type="span" parent="407" relname="same-unit"/>
-		<group id="407" type="multinuc" parent="410" relname="adversative-contrast"/>
+		<group id="404" type="multinuc" parent="405" relname="adversative-contrast"/>
+		<group id="405" type="multinuc" parent="406" relname="span"/>
+		<group id="406" type="span" parent="400" relname="explanation-evidence"/>
+		<group id="407" type="multinuc" parent="408" relname="span"/>
 		<group id="408" type="span" parent="409" relname="same-unit"/>
-		<group id="409" type="multinuc" parent="410" relname="adversative-contrast"/>
+		<group id="409" type="multinuc" parent="410" relname="causal-cause"/>
 		<group id="410" type="multinuc" parent="411" relname="span"/>
-		<group id="411" type="span" parent="405" relname="explanation-evidence"/>
-		<group id="412" type="multinuc" parent="413" relname="span"/>
-		<group id="413" type="span" parent="414" relname="same-unit"/>
-		<group id="414" type="multinuc" parent="415" relname="causal-cause"/>
+		<group id="411" type="span" parent="412" relname="evaluation-comment"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="199" relname="elaboration-additional"/>
+		<group id="414" type="span" parent="415" relname="joint-list"/>
 		<group id="415" type="multinuc" parent="416" relname="span"/>
-		<group id="416" type="span" parent="417" relname="evaluation-comment"/>
-		<group id="417" type="span" parent="418" relname="span"/>
-		<group id="418" type="span" parent="199" relname="elaboration-additional"/>
-		<group id="419" type="span" parent="420" relname="joint-list"/>
-		<group id="420" type="multinuc" parent="421" relname="span"/>
-		<group id="421" type="span" parent="422" relname="span"/>
-		<group id="422" type="span" parent="423" relname="joint-list"/>
-		<group id="423" type="multinuc" parent="424" relname="span"/>
-		<group id="424" type="span" parent="320" relname="joint-list"/>
+		<group id="416" type="span" parent="417" relname="span"/>
+		<group id="417" type="span" parent="418" relname="joint-list"/>
+		<group id="418" type="multinuc" parent="419" relname="span"/>
+		<group id="419" type="span" parent="316" relname="joint-list"/>
+		<group id="420" type="span" parent="232" relname="causal-cause"/>
 	</body>
 </rst>

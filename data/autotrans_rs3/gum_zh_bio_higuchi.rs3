@@ -48,7 +48,7 @@
 		<segment id="10" parent="117" relname="joint-list">得年 24 岁 。 // 24 years old.</segment>
 		<segment id="11" parent="118" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
 		<segment id="12" parent="173" relname="organization-heading">生平 // life</segment>
-		<segment id="13" parent="120" relname="span">樋口一叶 出生于 东京府 // Ichiyo Higuchi was born in Tokyo</segment>
+		<segment id="13" parent="120" relname="span">樋口一叶 出生 于 东京府 // Higuchi Ichiyo was born in Tokyo</segment>
 		<segment id="14" parent="13" relname="restatement-partial">（ 今 东京都 ） 。 // (today's Tokyo).</segment>
 		<segment id="15" parent="121" relname="joint-list">樋口一叶 为 家族 五 兄弟 姊妹 中 的 二女 ， // Higuchi Ichiyo is the second daughter of five brothers and sisters in the family.</segment>
 		<segment id="16" parent="123" relname="same-unit">父亲 樋口则义 是 个 // Father Noriyoshi Higuchi is a</segment>
@@ -82,8 +82,8 @@
 		<segment id="44" parent="147" relname="causal-result">为 其 文学 修养 打下 基础 。 // Lay the foundation for its literary accomplishment .</segment>
 		<segment id="45" parent="151" relname="span">樋口 于 1891年 跟随 朝日 新闻 的 记者 半井桃水 // Higuchi following Asahi Shimbun reporter Moomizu Banai in 1891</segment>
 		<segment id="46" parent="45" relname="purpose-goal">学习 写作 技巧 ， // learn writing skills,</segment>
-		<segment id="47" parent="153" relname="joint-list">并 在 同年 秋天 // and in the fall of the same year</segment>
-		<segment id="48" parent="49" relname="mode-means">取 “ 一叶 ” 为 笔名 // Take "Yi Ye" as a pseudonym</segment>
+		<segment id="47" parent="153" relname="same-unit">并 在 同年 秋天 // and in the fall of the same year</segment>
+		<segment id="48" parent="49" relname="mode-manner">取 “ 一叶 ” 为 笔名 // Take "Yi Ye" as a pseudonym</segment>
 		<segment id="49" parent="152" relname="span">发表 作品 ， // published works,</segment>
 		<segment id="50" parent="154" relname="joint-sequence">两 人 并 相恋 ， // The two fell in love,</segment>
 		<segment id="51" parent="156" relname="same-unit">但 终 // but in the end</segment>

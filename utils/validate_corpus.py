@@ -48,9 +48,9 @@ def tokenization_validator(basename):
 	edu_file = args.edu_dir + basename + ".edu"
 	token_file = args.token_dir + basename + ".txt"
 	raw_file = args.raw_dir + basename + ".txt"
-	edu_lines = read_text_file(edu_file)
-	token_lines = read_text_file(token_file)
-	raw_lines = read_text_file(raw_file)
+	edu_lines = read_text_file(edu_file, include_xml=True)
+	token_lines = read_text_file(token_file, include_xml=True)
+	raw_lines = read_text_file(raw_file, include_xml=False)
 	
 	# Assert same no_space string across edu, token, raw files
 	assert  string_no_space("".join(edu_lines)) == string_no_space("".join(token_lines))
@@ -78,8 +78,8 @@ def get_doc_stats(basename):
 	"""
 	edu_file = args.edu_dir + basename + ".edu"
 	rs3_file = args.rs3_dir + basename + ".rs3"
-	edu_lines = read_text_file(edu_file)
-	rs3_lines = read_text_file(rs3_file)
+	edu_lines = read_text_file(edu_file, include_xml=True)
+	rs3_lines = read_text_file(rs3_file, include_xml=True)
 	
 	# Get number of tokens and edus
 	num_tokens= " ".join(edu_lines).strip().count(" ")+1

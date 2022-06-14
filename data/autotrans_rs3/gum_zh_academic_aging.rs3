@@ -1,3 +1,4 @@
+<rst>
 	<header>
 		<relations>
 			<rel name="adversative-antithesis" type="rst"/>
@@ -463,3 +464,4 @@
 		<group id="439" type="span" parent="436" relname="joint-other"/>
 		<group id="440" type="span" />
 	</body>
+</rst>

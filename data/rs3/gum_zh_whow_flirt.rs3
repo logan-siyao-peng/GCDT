@@ -49,7 +49,7 @@
 		<segment id="11" parent="12" relname="context-circumstance">在 下手 之前</segment>
 		<segment id="12" parent="349" relname="span">先 做 功课 ，</segment>
 		<segment id="13" parent="351" relname="same-unit">就 已经 比 无数 调情 竞争 对手 强 得 多 了 。</segment>
-		<segment id="14" parent="357" relname="mode-means">从 第一 个 步骤 逐一 看起 ，</segment>
+		<segment id="14" parent="357" relname="mode-manner">从 第一 个 步骤 逐一 看起 ，</segment>
 		<segment id="15" parent="353" relname="same-unit">学习 如何 在</segment>
 		<segment id="16" parent="17" relname="elaboration-attribute">尊重 对方 的</segment>
 		<segment id="17" parent="352" relname="span">基础 上 充分 调动 你 的 机智</segment>
@@ -70,7 +70,7 @@
 		<segment id="32" parent="368" relname="same-unit">其实 调情 最 难 的 是 最初 突破</segment>
 		<segment id="33" parent="34" relname="elaboration-attribute">你 给 自己 设置 的</segment>
 		<segment id="34" parent="367" relname="span">心理 防线 。</segment>
-		<segment id="35" parent="36" relname="attribution-negative">如果 你 还是 害怕</segment>
+		<segment id="35" parent="36" relname="attribution-positive">如果 你 还是 害怕</segment>
 		<segment id="36" parent="369" relname="span">迈出 这 第一 步 ，</segment>
 		<segment id="37" parent="374" relname="attribution-positive">可以 试 着 告诉 自己 ，</segment>
 		<segment id="38" parent="373" relname="contingency-condition">哪怕 结果 再 不济 ，</segment>
@@ -307,7 +307,7 @@
 		<segment id="269" parent="591" relname="attribution-positive">这么 做 表明</segment>
 		<segment id="270" parent="591" relname="joint-list">你 尊重 对方 的 意愿 ，</segment>
 		<segment id="271" parent="592" relname="span">不 会 强行 把 谈话 进行 下去</segment>
-		<segment id="272" parent="271" relname="cause-result">让 两 方 都 尴尬 。</segment>
+		<segment id="272" parent="271" relname="causal-result">让 两 方 都 尴尬 。</segment>
 		<segment id="273" parent="600" relname="organization-phatic">举例 说 ，</segment>
 		<segment id="274" parent="599" relname="adversative-contrast">如果 你 提到 一 首 具体 的 歌 ，</segment>
 		<segment id="275" parent="593" relname="attribution-positive">而 对方 说</segment>
@@ -697,6 +697,6 @@
 		<group id="671" type="span" parent="672" relname="joint-list"/>
 		<group id="672" type="multinuc" parent="673" relname="span"/>
 		<group id="673" type="span" parent="674" relname="span"/>
-		<group id="674" type="span" />
+		<group id="674" type="span"/>
 	</body>
 </rst>

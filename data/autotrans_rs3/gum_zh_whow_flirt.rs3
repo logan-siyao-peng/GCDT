@@ -49,7 +49,7 @@
 		<segment id="11" parent="12" relname="context-circumstance">在 下手 之前 // before starting</segment>
 		<segment id="12" parent="349" relname="span">先 做 功课 ， // Do your homework first,</segment>
 		<segment id="13" parent="351" relname="same-unit">就 已经 比 无数 调情 竞争 对手 强 得 多 了 。 // It's already much better than countless flirtatious competitors.</segment>
-		<segment id="14" parent="357" relname="mode-means">从 第一 个 步骤 逐一 看起 ， // From the first step, one by one,</segment>
+		<segment id="14" parent="357" relname="mode-manner">从 第一 个 步骤 逐一 看起 ， // From the first step, one by one,</segment>
 		<segment id="15" parent="353" relname="same-unit">学习 如何 在 // learn how to</segment>
 		<segment id="16" parent="17" relname="elaboration-attribute">尊重 对方 的 // respect each other's</segment>
 		<segment id="17" parent="352" relname="span">基础 上 充分 调动 你 的 机智 // On the basis of fully mobilize your wit</segment>
@@ -307,7 +307,7 @@
 		<segment id="269" parent="591" relname="attribution-positive">这么 做 表明 // doing so shows</segment>
 		<segment id="270" parent="591" relname="joint-list">你 尊重 对方 的 意愿 ， // You respect each other's wishes,</segment>
 		<segment id="271" parent="592" relname="span">不 会 强行 把 谈话 进行 下去 // won't force the conversation to go on</segment>
-		<segment id="272" parent="271" relname="cause-result">让 两 方 都 尴尬 。 // Embarrassing for both parties.</segment>
+		<segment id="272" parent="271" relname="causal-result">让 两 方 都 尴尬 。 // Embarrassing for both parties.</segment>
 		<segment id="273" parent="600" relname="organization-phatic">举例 说 ， // for example ,</segment>
 		<segment id="274" parent="599" relname="adversative-contrast">如果 你 提到 一 首 具体 的 歌 ， // If you mention a specific song,</segment>
 		<segment id="275" parent="593" relname="attribution-positive">而 对方 说 // while the other said</segment>
@@ -697,6 +697,6 @@
 		<group id="671" type="span" parent="672" relname="joint-list"/>
 		<group id="672" type="multinuc" parent="673" relname="span"/>
 		<group id="673" type="span" parent="674" relname="span"/>
-		<group id="674" type="span" />
+		<group id="674" type="span"/>
 	</body>
 </rst>

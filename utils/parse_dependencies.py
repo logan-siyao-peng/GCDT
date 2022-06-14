@@ -68,7 +68,7 @@ def parse_documents(parsed_output_dir, mode="token", use_onto_trained=True, repl
 		
 
 		# parse document
-		lines = read_text_file(doc)
+		lines = read_text_file(doc, include_xml=False)
 		tokens_list = []
 		conllu_list = []
 		for line in lines:

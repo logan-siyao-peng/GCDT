@@ -97,7 +97,7 @@
 		<segment id="59" parent="203" relname="span">行动 安全 ， 相对 地 ， // Action safety, relatively,</segment>
 		<segment id="60" parent="61" relname="context-circumstance">一 个 技术 未 被 广泛 地 普及 时 ， // When a technology is not widely available,</segment>
 		<segment id="61" parent="207" relname="span">适当 的 质疑 就 是 给 这些 // Appropriate questioning is to give these</segment>
-		<segment id="62" parent="63" relname="elaboration-attribute">（ 安全 与 网络 ） // (Security & Networking)</segment>
+		<segment id="62" parent="63" relname="elaboration-attribute">（ 安全 与 网络 ） // (Security &amp; Networking)</segment>
 		<segment id="63" parent="208" relname="span">业者 一 个 很 好 的 机会 。 // A great opportunity for business owners .</segment>
 		<segment id="64" parent="216" relname="contingency-condition">把 东西 都 锁 起来 ， // lock everything up,</segment>
 		<segment id="65" parent="216" relname="adversative-contrast">虽然 安全 ， // Although safe,</segment>

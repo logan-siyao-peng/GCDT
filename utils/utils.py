@@ -1,6 +1,6 @@
 import io, re, os
 
-def read_text_file(text_file):
+def read_text_file(text_file, include_xml=True):
 	"""
 	Include .txt, .edu files (raw, token, and edu)
 	:param text_file:
@@ -8,7 +8,10 @@ def read_text_file(text_file):
 	"""
 	with io.open(text_file, "r", encoding="utf8") as f_text:
 		text_lines = f_text.read().strip().split("\n")
-	text_lines = [x for x in text_lines if not x.startswith("<") and not re.match(r"^\s*$", x)]
+	# Remove empty lines
+	text_lines = [x for x in text_lines if not re.match(r"^\s*$", x)]
+	if not include_xml:
+		text_lines = [x for x in text_lines if not x.strip().startswith("<")]
 	return text_lines
 	
 

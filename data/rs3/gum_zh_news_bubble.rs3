@@ -37,24 +37,24 @@
 	</header>
 	<body>
 		<segment id="1" parent="2" relname="attribution-positive">据报</segment>
-		<segment id="2" parent="216" relname="span">台湾 与 帕劳 的 “ 旅游 泡泡 ” 有 重大 进展</segment>
-		<segment id="3" parent="414" relname="context-circumstance">【 2021年 3月 7日 讯 】</segment>
-		<segment id="4" parent="217" relname="attribution-positive">据报</segment>
+		<segment id="2" parent="218" relname="span">台湾 与 帕劳 的 “ 旅游 泡泡 ” 有 重大 进展</segment>
+		<segment id="3" parent="407" relname="context-circumstance">【 2021年 3月 7日 讯 】</segment>
+		<segment id="4" parent="219" relname="attribution-positive">据报</segment>
 		<segment id="5" parent="6" relname="elaboration-attribute">台湾 与 帕劳 之间 讨论 已 久 的</segment>
-		<segment id="6" parent="217" relname="span">“ 旅游 泡泡 ” 将 有 重大 进展 。</segment>
-		<segment id="7" parent="220" relname="attribution-positive">据报</segment>
-		<segment id="8" parent="219" relname="attribution-positive">旅游 业者 传出 ，</segment>
-		<segment id="9" parent="219" relname="joint-list">帕劳 总统 预计 15日 来 台</segment>
-		<segment id="10" parent="219" relname="joint-list">宣布 相关 措施 ，</segment>
+		<segment id="6" parent="219" relname="span">“ 旅游 泡泡 ” 将 有 重大 进展 。</segment>
+		<segment id="7" parent="222" relname="attribution-positive">据报</segment>
+		<segment id="8" parent="221" relname="attribution-positive">旅游 业者 传出 ，</segment>
+		<segment id="9" parent="221" relname="joint-list">帕劳 总统 预计 15日 来 台</segment>
+		<segment id="10" parent="221" relname="joint-list">宣布 相关 措施 ，</segment>
 		<segment id="11" parent="12" relname="attribution-positive">双方 打算</segment>
-		<segment id="12" parent="222" relname="span">每 周 各 飞 8 次 ，</segment>
-		<segment id="13" parent="223" relname="joint-list">指挥 中心 将 在 2 、 3 天 内 讨论 相关 细节 。</segment>
-		<segment id="14" parent="271" relname="joint-list">苹果 日报 引述 消息</segment>
-		<segment id="15" parent="271" relname="joint-list">报道 ，</segment>
+		<segment id="12" parent="224" relname="span">每 周 各 飞 8 次 ，</segment>
+		<segment id="13" parent="225" relname="joint-list">指挥 中心 将 在 2 、 3 天 内 讨论 相关 细节 。</segment>
+		<segment id="14" parent="269" relname="joint-list">苹果 日报 引述 消息</segment>
+		<segment id="15" parent="269" relname="joint-list">报道 ，</segment>
 		<segment id="16" parent="17" relname="contingency-condition">若 研议 顺利 ，</segment>
-		<segment id="17" parent="225" relname="span">最 快 3月 中旬 即 可 开放 “ 旅游 泡泡 ” 。</segment>
-		<segment id="18" parent="270" relname="joint-list">中央社 引述 旅游 业者</segment>
-		<segment id="19" parent="270" relname="joint-list">报道 ，</segment>
+		<segment id="17" parent="226" relname="span">最 快 3月 中旬 即 可 开放 “ 旅游 泡泡 ” 。</segment>
+		<segment id="18" parent="268" relname="joint-list">中央社 引述 旅游 业者</segment>
+		<segment id="19" parent="268" relname="joint-list">报道 ，</segment>
 		<segment id="20" parent="232" relname="joint-list">目前 台 帛 “ 旅游 泡泡 ” 计划 是 采用 “ 团进 团出 ” ，</segment>
 		<segment id="21" parent="231" relname="span">双方 每 周 各 飞 8 班 。</segment>
 		<segment id="22" parent="228" relname="joint-list">中华 航空 每 周 6 班 ，</segment>
@@ -62,386 +62,390 @@
 		<segment id="24" parent="229" relname="span">帕劳 太平洋 航空 每 周 8 班 ，</segment>
 		<segment id="25" parent="230" relname="span">由 台湾 虎航 湿租 。</segment>
 		<segment id="26" parent="25" relname="elaboration-attribute">湿租 是 指 航空 公司 向 另 一 家 公司 租赁 飞机 以及 机组 人员 。</segment>
-		<segment id="27" parent="269" relname="joint-list">苹果 日报 引述 知情 人士</segment>
-		<segment id="28" parent="269" relname="joint-list">报道 ，</segment>
-		<segment id="29" parent="242" relname="joint-other">每 架 飞机 只 搭载 7成 旅客 。</segment>
+		<segment id="27" parent="267" relname="joint-list">苹果 日报 引述 知情 人士</segment>
+		<segment id="28" parent="267" relname="joint-list">报道 ，</segment>
+		<segment id="29" parent="241" relname="joint-other">每 架 飞机 只 搭载 7成 旅客 。</segment>
 		<segment id="30" parent="31" relname="attribution-positive">计划</segment>
-		<segment id="31" parent="235" relname="span">前往 帕劳 的</segment>
-		<segment id="32" parent="237" relname="span">旅客 ， 必须 在 飞行 前 3 天 提供 核酸 测试</segment>
+		<segment id="31" parent="234" relname="span">前往 帕劳 的</segment>
+		<segment id="32" parent="236" relname="span">旅客 ， 必须 在 飞行 前 3 天 提供 核酸 测试</segment>
 		<segment id="33" parent="32" relname="elaboration-attribute">（ PCR ）</segment>
-		<segment id="34" parent="238" relname="same-unit">阴性 报告 ，</segment>
-		<segment id="35" parent="239" relname="joint-sequence">在 帕劳 机场 再 接受 1 次 采检 。</segment>
+		<segment id="34" parent="237" relname="same-unit">阴性 报告 ，</segment>
+		<segment id="35" parent="238" relname="joint-sequence">在 帕劳 机场 再 接受 1 次 采检 。</segment>
 		<segment id="36" parent="37" relname="context-circumstance">不过 旅客 回台 后</segment>
-		<segment id="37" parent="240" relname="span">仍 需 居家 检疫 5 天 ，</segment>
+		<segment id="37" parent="239" relname="span">仍 需 居家 检疫 5 天 ，</segment>
 		<segment id="38" parent="39" relname="context-circumstance">检疫 结束 前</segment>
-		<segment id="39" parent="241" relname="span">会 再 进行 PCR 采检 。</segment>
+		<segment id="39" parent="240" relname="span">会 再 进行 PCR 采检 。</segment>
 		<segment id="40" parent="41" relname="context-circumstance">而 旅客 入境 帕劳 后 ，</segment>
-		<segment id="41" parent="243" relname="span">必须 在 当地 机场 接受 检 ；</segment>
+		<segment id="41" parent="242" relname="span">必须 在 当地 机场 接受 检 ；</segment>
 		<segment id="42" parent="43" relname="attribution-positive">报道 指</segment>
-		<segment id="43" parent="244" relname="span">由于 帕劳 现有 的 检验量 难以 承受 ，</segment>
+		<segment id="43" parent="243" relname="span">由于 帕劳 现有 的 检验量 难以 承受 ，</segment>
 		<segment id="44" parent="45" relname="attribution-positive">盼</segment>
-		<segment id="45" parent="245" relname="span">台湾 能够 支援 当地 。</segment>
-		<segment id="46" parent="250" relname="joint-list">联合报 引述 旅游 业者</segment>
-		<segment id="47" parent="250" relname="joint-list">报道 ，</segment>
-		<segment id="48" parent="252" relname="adversative-concession">台 帛 “ 旅游 泡泡 ” 一直 在 谈 ，</segment>
-		<segment id="49" parent="252" relname="joint-list">但 “ 一直 压 着</segment>
+		<segment id="45" parent="244" relname="span">台湾 能够 支援 当地 。</segment>
+		<segment id="46" parent="248" relname="joint-list">联合报 引述 旅游 业者</segment>
+		<segment id="47" parent="248" relname="joint-list">报道 ，</segment>
+		<segment id="48" parent="250" relname="adversative-concession">台 帛 “ 旅游 泡泡 ” 一直 在 谈 ，</segment>
+		<segment id="49" parent="250" relname="joint-list">但 “ 一直 压 着</segment>
 		<segment id="50" parent="51" relname="contingency-condition">等 帕劳 总统 来</segment>
-		<segment id="51" parent="251" relname="span">才 会 宣布 ” 。</segment>
-		<segment id="52" parent="257" relname="attribution-positive">报道 称 ，</segment>
-		<segment id="53" parent="254" relname="attribution-positive">业界 传出</segment>
+		<segment id="51" parent="249" relname="span">才 会 宣布 ” 。</segment>
+		<segment id="52" parent="255" relname="attribution-positive">报道 称 ，</segment>
+		<segment id="53" parent="252" relname="attribution-positive">业界 传出</segment>
 		<segment id="54" parent="55" relname="context-circumstance">3月 15日 访台 时</segment>
-		<segment id="55" parent="254" relname="span">将 拍板 。</segment>
-		<segment id="56" parent="256" relname="joint-list">但 细节 仍 在 规划 中 ，</segment>
-		<segment id="57" parent="256" relname="joint-list">尚 未 完全 定案 。</segment>
-		<segment id="58" parent="268" relname="joint-list">中央社 引述 旅游 业者 的 话</segment>
-		<segment id="59" parent="268" relname="joint-list">说 ，</segment>
-		<segment id="60" parent="262" relname="same-unit">帕劳</segment>
-		<segment id="61" parent="62" relname="causal-cause">受限于 机场 ，</segment>
-		<segment id="62" parent="261" relname="span">只 能 起降 100 座 以上 的 单走道 飞机 ，</segment>
-		<segment id="63" parent="262" relname="causal-result">旅客量 不 多 ，</segment>
-		<segment id="64" parent="266" relname="joint-list">但 总算 是 个 好 的 开始 ，</segment>
-		<segment id="65" parent="66" relname="attribution-positive">希望</segment>
-		<segment id="66" parent="264" relname="span">未来 能 有 更 多 旅游 泡泡 。</segment>
-		<segment id="67" parent="285" relname="joint-list">苹果 日报 引述 知情 人士</segment>
-		<segment id="68" parent="285" relname="joint-list">报道 ，</segment>
-		<segment id="69" parent="272" relname="span">帕劳 旅游 泡泡 原 计划 周三</segment>
-		<segment id="70" parent="69" relname="elaboration-attribute">（ 3月 10日 ）</segment>
-		<segment id="71" parent="72" relname="mode-means">由 指挥 中心 召开 会议</segment>
-		<segment id="72" parent="274" relname="span">讨论 防疫 细节 。</segment>
-		<segment id="73" parent="276" relname="contingency-condition">如果 一切 顺利 ，</segment>
-		<segment id="74" parent="276" relname="joint-sequence">将 于 3月 15日 正式 启动 ，</segment>
-		<segment id="75" parent="276" relname="joint-sequence">3月 20日 左右 会 有 首航 。</segment>
-		<segment id="76" parent="77" relname="elaboration-attribute">前往 帕劳 的</segment>
-		<segment id="77" parent="277" relname="span">旅客 ，</segment>
-		<segment id="78" parent="79" relname="context-circumstance">在 结束 5 天 或 7 天 的 行程 后</segment>
-		<segment id="79" parent="278" relname="span">返回 台湾 ，</segment>
-		<segment id="80" parent="281" relname="same-unit">帕劳 总统 惠恕仁 也 将</segment>
-		<segment id="81" parent="82" relname="mode-means">搭乘 此 班机</segment>
-		<segment id="82" parent="280" relname="span">前往 台湾 ，</segment>
-		<segment id="83" parent="282" relname="joint-list">宣示 两国 友好 关系 ，</segment>
-		<segment id="84" parent="282" relname="joint-list">重启 旅游 泡沫 ，</segment>
-		<segment id="85" parent="282" relname="joint-list">振兴 两国 旅游 经济 。</segment>
-		<segment id="86" parent="288" relname="joint-list">不过 ， 苹果 日报 引述 知情 人士</segment>
-		<segment id="87" parent="288" relname="joint-list">表示 ，</segment>
-		<segment id="88" parent="299" relname="span">双方 对 上述 方案 仍 有 少许 分歧 。</segment>
-		<segment id="89" parent="290" relname="attribution-positive">例如 ， 有 台湾 专家 认为 ，</segment>
-		<segment id="90" parent="91" relname="context-circumstance">旅客 在 抵达 帕劳 前</segment>
-		<segment id="91" parent="289" relname="span">已 提供 PCR 阴性 报告 ，</segment>
-		<segment id="92" parent="290" relname="span">没有 必要 在 帕劳 机场 再 做 一 次 采检 ；</segment>
-		<segment id="93" parent="296" relname="attribution-positive">另外 ， 也 有 专家 认为 ，</segment>
-		<segment id="94" parent="292" relname="joint-list">由于 双方 没有 社区 感染 ，</segment>
-		<segment id="95" parent="292" relname="joint-list">疫情 控制 顺利 ，</segment>
-		<segment id="96" parent="293" relname="joint-list">回台 后 没有 必要 进行 采检 ，</segment>
-		<segment id="97" parent="293" relname="joint-list">甚至 没有 必要 进行 居家 检疫 ，</segment>
-		<segment id="98" parent="99" relname="attribution-positive">称</segment>
-		<segment id="99" parent="294" relname="span">自主 健康 管理 即可 。</segment>
-		<segment id="100" parent="301" relname="attribution-positive">报道 指</segment>
-		<segment id="101" parent="301" relname="joint-list">这些 不同 的 意见 都 将 在 周三 的 会议 上 进行 讨论 和 整合 ，</segment>
-		<segment id="102" parent="301" relname="joint-list">所有 的 计划 还 需要 指挥 中心 最后 确定 。</segment>
-		<segment id="103" parent="304" relname="joint-list">苹果 日报 引述 消息</segment>
-		<segment id="104" parent="304" relname="joint-list">称 ，</segment>
-		<segment id="105" parent="307" relname="same-unit">如果</segment>
-		<segment id="106" parent="107" relname="context-circumstance">回台 后 检疫 期满 前</segment>
-		<segment id="107" parent="306" relname="span">需要 检疫 ，</segment>
-		<segment id="108" parent="308" relname="attribution-positive">目前 计划</segment>
-		<segment id="109" parent="308" relname="joint-list">在 北 、 中 、 南 、 东 等 地 选择 几 家 医院 ，</segment>
-		<segment id="110" parent="309" relname="span">检疫 费用 也 将 从 目前 的 7000 元 新台币 降 至 5500 或 5000 元 ，</segment>
-		<segment id="111" parent="110" relname="purpose-goal">以 降低 旅客 成本 。</segment>
-		<segment id="112" parent="313" relname="span">中央 流行 疫情 指挥 中心 发言人 庄人祥 今天</segment>
-		<segment id="113" parent="112" relname="elaboration-attribute">（ 3月 7日 ）</segment>
-		<segment id="114" parent="314" relname="same-unit">在 记者会 上 表示 ， 帕劳 旅游 泡泡 。</segment>
-		<segment id="115" parent="315" relname="span">此前 已 派 防疫 医生 到 帕劳</segment>
-		<segment id="116" parent="115" relname="purpose-goal">了解 开放 日程 等 细节 。</segment>
-		<segment id="117" parent="316" relname="joint-sequence">2 至 3 天 内 将 进行 更 详细 的 讨论 ，</segment>
-		<segment id="118" parent="316" relname="joint-sequence">讨论 后 将 公布 。</segment>
-		<segment id="119" parent="120" relname="attribution-positive">不过 指</segment>
-		<segment id="120" parent="317" relname="span">最终 的 计划 还 没有 确定 下来 。</segment>
-		<segment id="121" parent="320" relname="joint-list">庄人祥 解释</segment>
-		<segment id="122" parent="320" relname="joint-list">说 ，</segment>
-		<segment id="123" parent="325" relname="context-background">之前 暂停 讨论 帕劳 旅游 泡泡 ， 主要 是 因为 2月 28日 的 秋冬 专案 。</segment>
-		<segment id="124" parent="321" relname="joint-list">目前 当地 的 当地 医疗 、 检验 由 均 由 新光 医院 支援 ，</segment>
-		<segment id="125" parent="321" relname="joint-list">也 只 对 台湾 的 航班 开放 ，</segment>
-		<segment id="126" parent="324" relname="same-unit">不 存在</segment>
-		<segment id="127" parent="128" relname="causal-cause">因 其他 因素</segment>
-		<segment id="128" parent="322" relname="span">而 耽搁 的</segment>
-		<segment id="129" parent="323" relname="span">情况 。</segment>
-		<segment id="130" parent="328" relname="joint-list">帕劳 当地 从 未 发生 疫情 ，</segment>
-		<segment id="131" parent="327" relname="span">目前 只 开放 台湾 的 飞机</segment>
-		<segment id="132" parent="131" relname="elaboration-attribute">可以 前往 当地 。</segment>
-		<segment id="133" parent="329" relname="attribution-positive">指</segment>
-		<segment id="134" parent="329" relname="joint-list">台湾 对 当地 情况 的 掌控度 很 高 ，</segment>
-		<segment id="135" parent="329" relname="joint-list">双方 的 疫情 讯息 也 相当 透明 。</segment>
-		<segment id="136" parent="335" relname="organization-preparation">至于 帕劳 总统 是否 来台 ，</segment>
-		<segment id="137" parent="334" relname="attribution-positive">庄人祥 说 ：</segment>
-		<segment id="138" parent="334" relname="span">“ 这 要 问 外交部 ，</segment>
-		<segment id="139" parent="138" relname="adversative-antithesis">指挥 中心 并不 清楚 。 ”</segment>
-		<segment id="140" parent="338" relname="context-background">帕劳 当地 没有 社区 感染者 。</segment>
-		<segment id="141" parent="338" relname="same-unit">对于</segment>
-		<segment id="142" parent="143" relname="elaboration-attribute">从 帕劳 返台 的</segment>
-		<segment id="143" parent="337" relname="span">民众 是否 只 需 管理 自己 的 健康 ，</segment>
-		<segment id="144" parent="339" relname="attribution-positive">庄仁祥 表示 ，</segment>
-		<segment id="145" parent="339" relname="joint-list">这 部分 还 在 讨论 中 ，</segment>
-		<segment id="146" parent="339" relname="joint-list">相关 配套 设施 还 在 讨论 中 。</segment>
-		<segment id="147" parent="344" relname="same-unit">至于 帕劳 目前</segment>
-		<segment id="148" parent="149" relname="elaboration-attribute">对 入境 的 外国人 采取 的</segment>
-		<segment id="149" parent="343" relname="span">检疫 措施 ，</segment>
-		<segment id="150" parent="348" relname="attribution-positive">庄仁祥 表示 ，</segment>
-		<segment id="151" parent="347" relname="attribution-positive">据 他 了解 ，</segment>
-		<segment id="152" parent="345" relname="attribution-positive">帕劳 目前 要求</segment>
-		<segment id="153" parent="345" relname="joint-sequence">入境 后 至少 要 检疫 5 天 ，</segment>
-		<segment id="154" parent="155" relname="context-circumstance">检疫 期满 后 ，</segment>
-		<segment id="155" parent="346" relname="span">检疫 为 阴性</segment>
-		<segment id="156" parent="345" relname="joint-sequence">再 进行 自主 健康 管理 。</segment>
-		<segment id="157" parent="351" relname="joint-list">中央社 引述 中央 流行 疫情 指挥 中心 副指挥官 陈宗彦</segment>
-		<segment id="158" parent="351" relname="joint-list">指 ，</segment>
-		<segment id="159" parent="353" relname="same-unit">指挥 中心 先前 曾</segment>
-		<segment id="160" parent="161" relname="elaboration-additional">针对 部分 国家</segment>
-		<segment id="161" parent="352" relname="span">研议 开放 旅游 泡 ，</segment>
-		<segment id="162" parent="355" relname="span">并 曾 派 两 名 医师 到 当地</segment>
-		<segment id="163" parent="162" relname="purpose-goal">了解 情况 ，</segment>
-		<segment id="164" parent="357" relname="same-unit">但 后来</segment>
-		<segment id="165" parent="166" relname="causal-cause">因 疫情 等 因素</segment>
-		<segment id="166" parent="356" relname="span">而 延滞 。</segment>
-		<segment id="167" parent="362" relname="attribution-positive">但 他 坦言 ，</segment>
-		<segment id="168" parent="361" relname="same-unit">近期 确实 有</segment>
-		<segment id="169" parent="170" relname="elaboration-attribute">重启 旅游 泡泡 的</segment>
-		<segment id="170" parent="360" relname="span">计划 ，</segment>
-		<segment id="171" parent="365" relname="span">预计 未来 两 三 天 会 召开 会议 ，</segment>
-		<segment id="172" parent="171" relname="purpose-goal">讨论 延续 之前 的 计划 ，</segment>
-		<segment id="173" parent="364" relname="same-unit">相关 的 开放 细节 和 时程</segment>
-		<segment id="174" parent="175" relname="context-circumstance">要 等到 会议 结束 后</segment>
-		<segment id="175" parent="363" relname="span">才 会 有 一 个 比较 明确 的 结论 。</segment>
-		<segment id="176" parent="177" relname="attribution-positive">观光 局长 张锡聪 低调 回应 ，</segment>
-		<segment id="177" parent="368" relname="span">一切 听从 指挥 中心 的 规划 和 安排 。</segment>
-		<segment id="178" parent="375" relname="attribution-positive">有 旅游 业者 表示 ，</segment>
-		<segment id="179" parent="369" relname="joint-list">今年 1月 赴 帕劳</segment>
-		<segment id="180" parent="369" relname="joint-list">参加 当地 总统 就职 典礼 的</segment>
-		<segment id="181" parent="370" relname="span">外交 部长 吴钊燮</segment>
-		<segment id="182" parent="183" relname="context-circumstance">在 接受 当地 媒体 采访 时 ，</segment>
-		<segment id="183" parent="371" relname="span">表示</segment>
-		<segment id="184" parent="373" relname="span">看好 台湾 与 帕劳 之间 建立 旅游 泡泡 ，</segment>
-		<segment id="185" parent="186" relname="attribution-positive">但 提到</segment>
-		<segment id="186" parent="374" relname="span">其中 有 挑战 。</segment>
-		<segment id="187" parent="377" relname="attribution-positive">外交部 也 在 1月 的 记者会 上 表示 ，</segment>
-		<segment id="188" parent="377" relname="joint-list">政府 将 继续 致力于 推动 台湾 与 帕劳 之间 的 安全 旅游 泡沫 ，</segment>
-		<segment id="189" parent="377" relname="joint-list">同时 确保 防疫 工作 到位 。</segment>
-		<segment id="190" parent="379" relname="joint-list">中央社 引述 帕劳 媒体</segment>
-		<segment id="191" parent="379" relname="joint-list">报道 ，</segment>
-		<segment id="192" parent="380" relname="span">帕劳 新任 总统 惠恕仁</segment>
-		<segment id="193" parent="192" relname="restatement-partial">（ SurangelWhipps ）</segment>
-		<segment id="194" parent="381" relname="same-unit">极力 主张</segment>
-		<segment id="195" parent="382" relname="span">与 台湾 建立 台湾 与 帕劳 “ 无菌 廊道 ”</segment>
-		<segment id="196" parent="195" relname="restatement-partial">（ sterile corridor ） ，</segment>
-		<segment id="197" parent="387" relname="joint-list">以 恢复 和 加强 两国 在 医药 、 商业 等 领域 的 交流 与 合作 ，</segment>
-		<segment id="198" parent="386" relname="same-unit">并 重振</segment>
-		<segment id="199" parent="200" relname="elaboration-attribute">受 疫情 影响 的</segment>
-		<segment id="200" parent="385" relname="span">旅游业 。</segment>
-		<segment id="201" parent="202" relname="context-circumstance">惠恕仁 在 1月 21日 的 揭牌 仪式 上 致辞 时</segment>
-		<segment id="202" parent="388" relname="span">表示 ，</segment>
-		<segment id="203" parent="204" relname="contingency-condition">“ 无菌 廊道 ” 一旦 成功 建立 ，</segment>
-		<segment id="204" parent="389" relname="span">台湾 和 帕劳 将 是 世界 上 第一 个 首例 。</segment>
-		<segment id="205" parent="391" relname="span">帕劳 ，</segment>
-		<segment id="206" parent="205" relname="elaboration-attribute">又 称 帛琉 ，</segment>
-		<segment id="207" parent="392" relname="same-unit">是 位于 西 太平洋 的 岛屿 国家 ，</segment>
-		<segment id="208" parent="393" relname="joint-list">四 季 皆 为 夏天 。</segment>
-		<segment id="209" parent="394" relname="span">帕劳 也 是 台湾 邦交国 之一 ，</segment>
-		<segment id="210" parent="209" relname="explanation-evidence">台湾 与 帕劳 相互 给予 对方 90 天 入境 免签 待遇 。</segment>
-		<segment id="211" parent="395" relname="joint-list">台湾 由 出发 到 帕劳 只 需 4 小时 的 飞行 时间 ，</segment>
-		<segment id="212" parent="395" relname="joint-list">当地 比 台湾 快 1 小时 。</segment>
-		<segment id="213" parent="396" relname="joint-list">左临 菲律宾 ，</segment>
-		<segment id="214" parent="396" relname="joint-list">右靠 是 关岛 ，</segment>
-		<segment id="215" parent="396" relname="joint-list">上方 为 菲律宾海 。</segment>
-		<group id="216" type="span" parent="416" relname="organization-heading"/>
-		<group id="217" type="span" parent="218" relname="span"/>
-		<group id="218" type="span" parent="399" relname="span"/>
-		<group id="219" type="multinuc" parent="220" relname="span"/>
-		<group id="220" type="span" parent="221" relname="span"/>
-		<group id="221" type="span" parent="223" relname="joint-list"/>
-		<group id="222" type="span" parent="223" relname="joint-list"/>
-		<group id="223" type="multinuc" parent="398" relname="joint-other"/>
-		<group id="225" type="span" parent="226" relname="span"/>
-		<group id="226" type="span" parent="398" relname="joint-other"/>
+		<segment id="55" parent="252" relname="span">将 拍板 。</segment>
+		<segment id="56" parent="254" relname="joint-list">但 细节 仍 在 规划 中 ，</segment>
+		<segment id="57" parent="254" relname="joint-list">尚 未 完全 定案 。</segment>
+		<segment id="58" parent="266" relname="same-unit">中央社</segment>
+		<segment id="59" parent="60" relname="mode-means">引述 旅游 业者 的 话</segment>
+		<segment id="60" parent="410" relname="span">说 ，</segment>
+		<segment id="61" parent="260" relname="same-unit">帕劳</segment>
+		<segment id="62" parent="63" relname="causal-cause">受限于 机场 ，</segment>
+		<segment id="63" parent="259" relname="span">只 能 起降 100 座 以上 的 单走道 飞机 ，</segment>
+		<segment id="64" parent="260" relname="causal-result">旅客量 不 多 ，</segment>
+		<segment id="65" parent="264" relname="joint-list">但 总算 是 个 好 的 开始 ，</segment>
+		<segment id="66" parent="67" relname="attribution-positive">希望</segment>
+		<segment id="67" parent="262" relname="span">未来 能 有 更 多 旅游 泡泡 。</segment>
+		<segment id="68" parent="283" relname="joint-list">苹果 日报 引述 知情 人士</segment>
+		<segment id="69" parent="283" relname="joint-list">报道 ，</segment>
+		<segment id="70" parent="270" relname="span">帕劳 旅游 泡泡 原 计划 周三</segment>
+		<segment id="71" parent="70" relname="elaboration-attribute">（ 3月 10日 ）</segment>
+		<segment id="72" parent="73" relname="mode-means">由 指挥 中心 召开 会议</segment>
+		<segment id="73" parent="272" relname="span">讨论 防疫 细节 。</segment>
+		<segment id="74" parent="274" relname="contingency-condition">如果 一切 顺利 ，</segment>
+		<segment id="75" parent="274" relname="joint-sequence">将 于 3月 15日 正式 启动 ，</segment>
+		<segment id="76" parent="274" relname="joint-sequence">3月 20日 左右 会 有 首航 。</segment>
+		<segment id="77" parent="78" relname="elaboration-attribute">前往 帕劳 的</segment>
+		<segment id="78" parent="275" relname="span">旅客 ，</segment>
+		<segment id="79" parent="80" relname="context-circumstance">在 结束 5 天 或 7 天 的 行程 后</segment>
+		<segment id="80" parent="276" relname="span">返回 台湾 ，</segment>
+		<segment id="81" parent="279" relname="same-unit">帕劳 总统 惠恕仁 也 将</segment>
+		<segment id="82" parent="83" relname="mode-means">搭乘 此 班机</segment>
+		<segment id="83" parent="278" relname="span">前往 台湾 ，</segment>
+		<segment id="84" parent="280" relname="joint-list">宣示 两国 友好 关系 ，</segment>
+		<segment id="85" parent="280" relname="joint-list">重启 旅游 泡沫 ，</segment>
+		<segment id="86" parent="280" relname="joint-list">振兴 两国 旅游 经济 。</segment>
+		<segment id="87" parent="286" relname="joint-list">不过 ， 苹果 日报 引述 知情 人士</segment>
+		<segment id="88" parent="286" relname="joint-list">表示 ，</segment>
+		<segment id="89" parent="297" relname="span">双方 对 上述 方案 仍 有 少许 分歧 。</segment>
+		<segment id="90" parent="288" relname="attribution-positive">例如 ， 有 台湾 专家 认为 ，</segment>
+		<segment id="91" parent="92" relname="context-circumstance">旅客 在 抵达 帕劳 前</segment>
+		<segment id="92" parent="287" relname="span">已 提供 PCR 阴性 报告 ，</segment>
+		<segment id="93" parent="288" relname="span">没有 必要 在 帕劳 机场 再 做 一 次 采检 ；</segment>
+		<segment id="94" parent="294" relname="attribution-positive">另外 ， 也 有 专家 认为 ，</segment>
+		<segment id="95" parent="290" relname="joint-list">由于 双方 没有 社区 感染 ，</segment>
+		<segment id="96" parent="290" relname="joint-list">疫情 控制 顺利 ，</segment>
+		<segment id="97" parent="291" relname="joint-list">回台 后 没有 必要 进行 采检 ，</segment>
+		<segment id="98" parent="291" relname="joint-list">甚至 没有 必要 进行 居家 检疫 ，</segment>
+		<segment id="99" parent="100" relname="attribution-positive">称</segment>
+		<segment id="100" parent="292" relname="span">自主 健康 管理 即可 。</segment>
+		<segment id="101" parent="299" relname="attribution-positive">报道 指</segment>
+		<segment id="102" parent="299" relname="joint-list">这些 不同 的 意见 都 将 在 周三 的 会议 上 进行 讨论 和 整合 ，</segment>
+		<segment id="103" parent="299" relname="joint-list">所有 的 计划 还 需要 指挥 中心 最后 确定 。</segment>
+		<segment id="104" parent="302" relname="joint-list">苹果 日报 引述 消息</segment>
+		<segment id="105" parent="302" relname="joint-list">称 ，</segment>
+		<segment id="106" parent="304" relname="same-unit">如果</segment>
+		<segment id="107" parent="108" relname="context-circumstance">回台 后 检疫 期满 前</segment>
+		<segment id="108" parent="303" relname="span">需要 检疫 ，</segment>
+		<segment id="109" parent="305" relname="attribution-positive">目前 计划</segment>
+		<segment id="110" parent="305" relname="joint-list">在 北 、 中 、 南 、 东 等 地 选择 几 家 医院 ，</segment>
+		<segment id="111" parent="306" relname="span">检疫 费用 也 将 从 目前 的 7000 元 新台币 降 至 5500 或 5000 元 ，</segment>
+		<segment id="112" parent="111" relname="purpose-goal">以 降低 旅客 成本 。</segment>
+		<segment id="113" parent="310" relname="span">中央 流行 疫情 指挥 中心 发言人 庄人祥 今天</segment>
+		<segment id="114" parent="113" relname="elaboration-attribute">（ 3月 7日 ）</segment>
+		<segment id="115" parent="311" relname="same-unit">在 记者会 上 表示 ， 帕劳 旅游 泡泡 。</segment>
+		<segment id="116" parent="312" relname="span">此前 已 派 防疫 医生 到 帕劳</segment>
+		<segment id="117" parent="116" relname="purpose-goal">了解 开放 日程 等 细节 。</segment>
+		<segment id="118" parent="313" relname="joint-sequence">2 至 3 天 内 将 进行 更 详细 的 讨论 ，</segment>
+		<segment id="119" parent="313" relname="joint-sequence">讨论 后 将 公布 。</segment>
+		<segment id="120" parent="121" relname="attribution-positive">不过 指</segment>
+		<segment id="121" parent="314" relname="span">最终 的 计划 还 没有 确定 下来 。</segment>
+		<segment id="122" parent="317" relname="same-unit">庄人祥</segment>
+		<segment id="123" parent="124" relname="purpose-goal">解释</segment>
+		<segment id="124" parent="411" relname="span">说 ，</segment>
+		<segment id="125" parent="322" relname="context-background">之前 暂停 讨论 帕劳 旅游 泡泡 ， 主要 是 因为 2月 28日 的 秋冬 专案 。</segment>
+		<segment id="126" parent="318" relname="joint-list">目前 当地 的 当地 医疗 、 检验 由 均 由 新光 医院 支援 ，</segment>
+		<segment id="127" parent="318" relname="joint-list">也 只 对 台湾 的 航班 开放 ，</segment>
+		<segment id="128" parent="321" relname="same-unit">不 存在</segment>
+		<segment id="129" parent="130" relname="causal-cause">因 其他 因素</segment>
+		<segment id="130" parent="319" relname="span">而 耽搁 的</segment>
+		<segment id="131" parent="320" relname="span">情况 。</segment>
+		<segment id="132" parent="324" relname="joint-list">帕劳 当地 从 未 发生 疫情 ，</segment>
+		<segment id="133" parent="323" relname="span">目前 只 开放 台湾 的 飞机</segment>
+		<segment id="134" parent="133" relname="elaboration-attribute">可以 前往 当地 。</segment>
+		<segment id="135" parent="325" relname="attribution-positive">指</segment>
+		<segment id="136" parent="325" relname="joint-list">台湾 对 当地 情况 的 掌控度 很 高 ，</segment>
+		<segment id="137" parent="325" relname="joint-list">双方 的 疫情 讯息 也 相当 透明 。</segment>
+		<segment id="138" parent="331" relname="organization-preparation">至于 帕劳 总统 是否 来台 ，</segment>
+		<segment id="139" parent="330" relname="attribution-positive">庄人祥 说 ：</segment>
+		<segment id="140" parent="330" relname="span">“ 这 要 问 外交部 ，</segment>
+		<segment id="141" parent="140" relname="adversative-antithesis">指挥 中心 并不 清楚 。 ”</segment>
+		<segment id="142" parent="334" relname="context-background">帕劳 当地 没有 社区 感染者 。</segment>
+		<segment id="143" parent="334" relname="same-unit">对于</segment>
+		<segment id="144" parent="145" relname="elaboration-attribute">从 帕劳 返台 的</segment>
+		<segment id="145" parent="333" relname="span">民众 是否 只 需 管理 自己 的 健康 ，</segment>
+		<segment id="146" parent="335" relname="attribution-positive">庄仁祥 表示 ，</segment>
+		<segment id="147" parent="335" relname="joint-list">这 部分 还 在 讨论 中 ，</segment>
+		<segment id="148" parent="335" relname="joint-list">相关 配套 设施 还 在 讨论 中 。</segment>
+		<segment id="149" parent="340" relname="same-unit">至于 帕劳 目前</segment>
+		<segment id="150" parent="151" relname="elaboration-attribute">对 入境 的 外国人 采取 的</segment>
+		<segment id="151" parent="339" relname="span">检疫 措施 ，</segment>
+		<segment id="152" parent="344" relname="attribution-positive">庄仁祥 表示 ，</segment>
+		<segment id="153" parent="343" relname="attribution-positive">据 他 了解 ，</segment>
+		<segment id="154" parent="341" relname="attribution-positive">帕劳 目前 要求</segment>
+		<segment id="155" parent="341" relname="joint-sequence">入境 后 至少 要 检疫 5 天 ，</segment>
+		<segment id="156" parent="157" relname="context-circumstance">检疫 期满 后 ，</segment>
+		<segment id="157" parent="342" relname="span">检疫 为 阴性</segment>
+		<segment id="158" parent="341" relname="joint-sequence">再 进行 自主 健康 管理 。</segment>
+		<segment id="159" parent="347" relname="joint-list">中央社 引述 中央 流行 疫情 指挥 中心 副指挥官 陈宗彦</segment>
+		<segment id="160" parent="347" relname="joint-list">指 ，</segment>
+		<segment id="161" parent="349" relname="same-unit">指挥 中心 先前 曾</segment>
+		<segment id="162" parent="163" relname="elaboration-additional">针对 部分 国家</segment>
+		<segment id="163" parent="348" relname="span">研议 开放 旅游 泡 ，</segment>
+		<segment id="164" parent="351" relname="span">并 曾 派 两 名 医师 到 当地</segment>
+		<segment id="165" parent="164" relname="purpose-goal">了解 情况 ，</segment>
+		<segment id="166" parent="353" relname="same-unit">但 后来</segment>
+		<segment id="167" parent="168" relname="causal-cause">因 疫情 等 因素</segment>
+		<segment id="168" parent="352" relname="span">而 延滞 。</segment>
+		<segment id="169" parent="358" relname="attribution-positive">但 他 坦言 ，</segment>
+		<segment id="170" parent="357" relname="same-unit">近期 确实 有</segment>
+		<segment id="171" parent="172" relname="elaboration-attribute">重启 旅游 泡泡 的</segment>
+		<segment id="172" parent="356" relname="span">计划 ，</segment>
+		<segment id="173" parent="361" relname="span">预计 未来 两 三 天 会 召开 会议 ，</segment>
+		<segment id="174" parent="173" relname="purpose-goal">讨论 延续 之前 的 计划 ，</segment>
+		<segment id="175" parent="360" relname="same-unit">相关 的 开放 细节 和 时程</segment>
+		<segment id="176" parent="177" relname="context-circumstance">要 等到 会议 结束 后</segment>
+		<segment id="177" parent="359" relname="span">才 会 有 一 个 比较 明确 的 结论 。</segment>
+		<segment id="178" parent="179" relname="attribution-positive">观光 局长 张锡聪 低调 回应 ，</segment>
+		<segment id="179" parent="364" relname="span">一切 听从 指挥 中心 的 规划 和 安排 。</segment>
+		<segment id="180" parent="371" relname="attribution-positive">有 旅游 业者 表示 ，</segment>
+		<segment id="181" parent="365" relname="joint-list">今年 1月 赴 帕劳</segment>
+		<segment id="182" parent="365" relname="joint-list">参加 当地 总统 就职 典礼 的</segment>
+		<segment id="183" parent="366" relname="span">外交 部长 吴钊燮</segment>
+		<segment id="184" parent="185" relname="context-circumstance">在 接受 当地 媒体 采访 时 ，</segment>
+		<segment id="185" parent="367" relname="span">表示</segment>
+		<segment id="186" parent="369" relname="span">看好 台湾 与 帕劳 之间 建立 旅游 泡泡 ，</segment>
+		<segment id="187" parent="188" relname="attribution-positive">但 提到</segment>
+		<segment id="188" parent="370" relname="span">其中 有 挑战 。</segment>
+		<segment id="189" parent="373" relname="attribution-positive">外交部 也 在 1月 的 记者会 上 表示 ，</segment>
+		<segment id="190" parent="373" relname="joint-list">政府 将 继续 致力于 推动 台湾 与 帕劳 之间 的 安全 旅游 泡沫 ，</segment>
+		<segment id="191" parent="373" relname="joint-list">同时 确保 防疫 工作 到位 。</segment>
+		<segment id="192" parent="375" relname="joint-list">中央社 引述 帕劳 媒体</segment>
+		<segment id="193" parent="375" relname="joint-list">报道 ，</segment>
+		<segment id="194" parent="376" relname="span">帕劳 新任 总统 惠恕仁</segment>
+		<segment id="195" parent="194" relname="restatement-partial">（ SurangelWhipps ）</segment>
+		<segment id="196" parent="377" relname="same-unit">极力 主张</segment>
+		<segment id="197" parent="378" relname="span">与 台湾 建立 台湾 与 帕劳 “ 无菌 廊道 ”</segment>
+		<segment id="198" parent="197" relname="restatement-partial">（ sterile corridor ） ，</segment>
+		<segment id="199" parent="383" relname="joint-list">以 恢复 和 加强 两国 在 医药 、 商业 等 领域 的 交流 与 合作 ，</segment>
+		<segment id="200" parent="382" relname="same-unit">并 重振</segment>
+		<segment id="201" parent="202" relname="elaboration-attribute">受 疫情 影响 的</segment>
+		<segment id="202" parent="381" relname="span">旅游业 。</segment>
+		<segment id="203" parent="204" relname="context-circumstance">惠恕仁 在 1月 21日 的 揭牌 仪式 上 致辞 时</segment>
+		<segment id="204" parent="384" relname="span">表示 ，</segment>
+		<segment id="205" parent="206" relname="contingency-condition">“ 无菌 廊道 ” 一旦 成功 建立 ，</segment>
+		<segment id="206" parent="385" relname="span">台湾 和 帕劳 将 是 世界 上 第一 个 首例 。</segment>
+		<segment id="207" parent="387" relname="span">帕劳 ，</segment>
+		<segment id="208" parent="207" relname="elaboration-attribute">又 称 帛琉 ，</segment>
+		<segment id="209" parent="388" relname="same-unit">是 位于 西 太平洋 的 岛屿 国家 ，</segment>
+		<segment id="210" parent="389" relname="joint-list">四 季 皆 为 夏天 。</segment>
+		<segment id="211" parent="390" relname="span">帕劳 也 是 台湾 邦交国 之一 ，</segment>
+		<segment id="212" parent="211" relname="explanation-evidence">台湾 与 帕劳 相互 给予 对方 90 天 入境 免签 待遇 。</segment>
+		<segment id="213" parent="391" relname="joint-list">台湾 由 出发 到 帕劳 只 需 4 小时 的 飞行 时间 ，</segment>
+		<segment id="214" parent="391" relname="joint-list">当地 比 台湾 快 1 小时 。</segment>
+		<segment id="215" parent="392" relname="joint-list">左临 菲律宾 ，</segment>
+		<segment id="216" parent="392" relname="joint-list">右靠 是 关岛 ，</segment>
+		<segment id="217" parent="392" relname="joint-list">上方 为 菲律宾海 。</segment>
+		<group id="218" type="span" parent="409" relname="organization-heading"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" parent="395" relname="span"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="222" type="span" parent="223" relname="span"/>
+		<group id="223" type="span" parent="225" relname="joint-list"/>
+		<group id="224" type="span" parent="225" relname="joint-list"/>
+		<group id="225" type="multinuc" parent="394" relname="joint-other"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="394" relname="joint-other"/>
 		<group id="228" type="multinuc" parent="21" relname="elaboration-additional"/>
 		<group id="229" type="span" parent="228" relname="joint-list"/>
 		<group id="230" type="span" parent="24" relname="elaboration-additional"/>
 		<group id="231" type="span" parent="232" relname="joint-list"/>
 		<group id="232" type="multinuc" parent="233" relname="span"/>
-		<group id="233" type="span" parent="403" relname="joint-other"/>
-		<group id="235" type="span" parent="237" relname="elaboration-attribute"/>
-		<group id="236" type="span" parent="238" relname="same-unit"/>
-		<group id="237" type="span" parent="236" relname="span"/>
-		<group id="238" type="multinuc" parent="239" relname="joint-sequence"/>
-		<group id="239" type="multinuc" parent="242" relname="joint-other"/>
-		<group id="240" type="span" parent="239" relname="joint-sequence"/>
-		<group id="241" type="span" parent="239" relname="joint-sequence"/>
-		<group id="242" type="multinuc" parent="248" relname="span"/>
-		<group id="243" type="span" parent="247" relname="span"/>
-		<group id="244" type="span" parent="245" relname="causal-cause"/>
-		<group id="245" type="span" parent="246" relname="span"/>
-		<group id="246" type="span" parent="243" relname="elaboration-additional"/>
-		<group id="247" type="span" parent="242" relname="joint-other"/>
-		<group id="248" type="span" parent="403" relname="joint-other"/>
-		<group id="250" type="multinuc" parent="253" relname="attribution-positive"/>
-		<group id="251" type="span" parent="252" relname="joint-list"/>
-		<group id="252" type="multinuc" parent="253" relname="span"/>
-		<group id="253" type="span" parent="259" relname="span"/>
-		<group id="254" type="span" parent="255" relname="span"/>
-		<group id="255" type="span" parent="257" relname="adversative-contrast"/>
-		<group id="256" type="multinuc" parent="257" relname="adversative-contrast"/>
-		<group id="257" type="multinuc" parent="258" relname="span"/>
-		<group id="258" type="span" parent="259" relname="explanation-evidence"/>
-		<group id="259" type="span" parent="260" relname="span"/>
-		<group id="260" type="span" parent="403" relname="joint-other"/>
-		<group id="261" type="span" parent="262" relname="same-unit"/>
-		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="233" type="span" parent="397" relname="joint-other"/>
+		<group id="234" type="span" parent="236" relname="elaboration-attribute"/>
+		<group id="235" type="span" parent="237" relname="same-unit"/>
+		<group id="236" type="span" parent="235" relname="span"/>
+		<group id="237" type="multinuc" parent="238" relname="joint-sequence"/>
+		<group id="238" type="multinuc" parent="241" relname="joint-other"/>
+		<group id="239" type="span" parent="238" relname="joint-sequence"/>
+		<group id="240" type="span" parent="238" relname="joint-sequence"/>
+		<group id="241" type="multinuc" parent="247" relname="span"/>
+		<group id="242" type="span" parent="246" relname="span"/>
+		<group id="243" type="span" parent="244" relname="causal-cause"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="242" relname="elaboration-additional"/>
+		<group id="246" type="span" parent="241" relname="joint-other"/>
+		<group id="247" type="span" parent="397" relname="joint-other"/>
+		<group id="248" type="multinuc" parent="251" relname="attribution-positive"/>
+		<group id="249" type="span" parent="250" relname="joint-list"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="257" relname="span"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="255" relname="adversative-contrast"/>
+		<group id="254" type="multinuc" parent="255" relname="adversative-contrast"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="257" relname="explanation-evidence"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="397" relname="joint-other"/>
+		<group id="259" type="span" parent="260" relname="same-unit"/>
+		<group id="260" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="263" relname="span"/>
+		<group id="262" type="span" parent="264" relname="joint-list"/>
 		<group id="263" type="span" parent="265" relname="span"/>
-		<group id="264" type="span" parent="266" relname="joint-list"/>
-		<group id="265" type="span" parent="267" relname="span"/>
-		<group id="266" type="multinuc" parent="263" relname="evaluation-comment"/>
-		<group id="267" type="span" parent="403" relname="joint-other"/>
-		<group id="268" type="multinuc" parent="265" relname="attribution-positive"/>
-		<group id="269" type="multinuc" parent="242" relname="attribution-positive"/>
-		<group id="270" type="multinuc" parent="232" relname="attribution-positive"/>
-		<group id="271" type="multinuc" parent="225" relname="attribution-positive"/>
-		<group id="272" type="span" parent="273" relname="same-unit"/>
-		<group id="273" type="multinuc" parent="284" relname="span"/>
-		<group id="274" type="span" parent="273" relname="same-unit"/>
-		<group id="275" type="span" parent="273" relname="elaboration-additional"/>
-		<group id="276" type="multinuc" parent="275" relname="span"/>
-		<group id="277" type="span" parent="279" relname="same-unit"/>
+		<group id="264" type="multinuc" parent="261" relname="evaluation-comment"/>
+		<group id="265" type="span" parent="397" relname="joint-other"/>
+		<group id="266" type="multinuc" parent="263" relname="attribution-positive"/>
+		<group id="267" type="multinuc" parent="241" relname="attribution-positive"/>
+		<group id="268" type="multinuc" parent="232" relname="attribution-positive"/>
+		<group id="269" type="multinuc" parent="226" relname="attribution-positive"/>
+		<group id="270" type="span" parent="271" relname="same-unit"/>
+		<group id="271" type="multinuc" parent="282" relname="span"/>
+		<group id="272" type="span" parent="271" relname="same-unit"/>
+		<group id="273" type="span" parent="271" relname="elaboration-additional"/>
+		<group id="274" type="multinuc" parent="273" relname="span"/>
+		<group id="275" type="span" parent="277" relname="same-unit"/>
+		<group id="276" type="span" parent="277" relname="same-unit"/>
+		<group id="277" type="multinuc" parent="281" relname="joint-list"/>
 		<group id="278" type="span" parent="279" relname="same-unit"/>
-		<group id="279" type="multinuc" parent="283" relname="joint-list"/>
-		<group id="280" type="span" parent="281" relname="same-unit"/>
-		<group id="281" type="multinuc" parent="282" relname="joint-list"/>
-		<group id="282" type="multinuc" parent="283" relname="joint-list"/>
-		<group id="283" type="multinuc" parent="286" relname="joint-other"/>
-		<group id="284" type="span" parent="286" relname="joint-other"/>
-		<group id="285" type="multinuc" parent="286" relname="attribution-positive"/>
-		<group id="286" type="multinuc" parent="287" relname="span"/>
-		<group id="287" type="span" parent="405" relname="span"/>
-		<group id="288" type="multinuc" parent="299" relname="attribution-positive"/>
-		<group id="289" type="span" parent="92" relname="causal-cause"/>
-		<group id="290" type="span" parent="291" relname="span"/>
-		<group id="291" type="span" parent="298" relname="joint-list"/>
-		<group id="292" type="multinuc" parent="295" relname="causal-cause"/>
-		<group id="293" type="multinuc" parent="294" relname="adversative-antithesis"/>
+		<group id="279" type="multinuc" parent="280" relname="joint-list"/>
+		<group id="280" type="multinuc" parent="281" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="284" relname="joint-other"/>
+		<group id="282" type="span" parent="284" relname="joint-other"/>
+		<group id="283" type="multinuc" parent="284" relname="attribution-positive"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="398" relname="span"/>
+		<group id="286" type="multinuc" parent="297" relname="attribution-positive"/>
+		<group id="287" type="span" parent="93" relname="causal-cause"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="296" relname="joint-list"/>
+		<group id="290" type="multinuc" parent="293" relname="causal-cause"/>
+		<group id="291" type="multinuc" parent="292" relname="adversative-antithesis"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="294" relname="span"/>
 		<group id="294" type="span" parent="295" relname="span"/>
-		<group id="295" type="span" parent="296" relname="span"/>
-		<group id="296" type="span" parent="297" relname="span"/>
-		<group id="297" type="span" parent="298" relname="joint-list"/>
-		<group id="298" type="multinuc" parent="88" relname="explanation-evidence"/>
-		<group id="299" type="span" parent="300" relname="span"/>
-		<group id="300" type="span" parent="303" relname="span"/>
-		<group id="301" type="multinuc" parent="302" relname="span"/>
-		<group id="302" type="span" parent="300" relname="elaboration-additional"/>
-		<group id="303" type="span" parent="406" relname="joint-other"/>
-		<group id="304" type="multinuc" parent="311" relname="attribution-positive"/>
-		<group id="306" type="span" parent="307" relname="same-unit"/>
-		<group id="307" type="multinuc" parent="310" relname="contingency-condition"/>
-		<group id="308" type="multinuc" parent="310" relname="span"/>
-		<group id="309" type="span" parent="308" relname="joint-list"/>
-		<group id="310" type="span" parent="311" relname="span"/>
-		<group id="311" type="span" parent="312" relname="span"/>
-		<group id="312" type="span" parent="406" relname="joint-other"/>
-		<group id="313" type="span" parent="314" relname="same-unit"/>
-		<group id="314" type="multinuc" parent="316" relname="attribution-positive"/>
-		<group id="315" type="span" parent="316" relname="joint-sequence"/>
-		<group id="316" type="multinuc" parent="318" relname="span"/>
-		<group id="317" type="span" parent="318" relname="adversative-concession"/>
-		<group id="318" type="span" parent="319" relname="span"/>
-		<group id="319" type="span" parent="402" relname="joint-other"/>
-		<group id="320" type="multinuc" parent="332" relname="attribution-positive"/>
-		<group id="321" type="multinuc" parent="325" relname="span"/>
-		<group id="322" type="span" parent="129" relname="elaboration-attribute"/>
-		<group id="323" type="span" parent="324" relname="same-unit"/>
-		<group id="324" type="multinuc" parent="331" relname="span"/>
-		<group id="325" type="span" parent="332" relname="span"/>
-		<group id="327" type="span" parent="328" relname="joint-list"/>
-		<group id="328" type="multinuc" parent="324" relname="explanation-evidence"/>
-		<group id="329" type="multinuc" parent="330" relname="span"/>
-		<group id="330" type="span" parent="328" relname="joint-list"/>
-		<group id="331" type="span" parent="321" relname="causal-result"/>
-		<group id="332" type="span" parent="333" relname="span"/>
-		<group id="333" type="span" parent="402" relname="joint-other"/>
-		<group id="334" type="span" parent="335" relname="span"/>
-		<group id="335" type="span" parent="336" relname="span"/>
-		<group id="336" type="span" parent="402" relname="joint-other"/>
-		<group id="337" type="span" parent="338" relname="same-unit"/>
-		<group id="338" type="multinuc" parent="342" relname="span"/>
-		<group id="339" type="multinuc" parent="340" relname="span"/>
-		<group id="340" type="span" parent="341" relname="span"/>
-		<group id="341" type="span" parent="402" relname="joint-other"/>
-		<group id="342" type="span" parent="340" relname="context-background"/>
-		<group id="343" type="span" parent="344" relname="same-unit"/>
-		<group id="344" type="multinuc" parent="349" relname="context-background"/>
-		<group id="345" type="multinuc" parent="347" relname="span"/>
-		<group id="346" type="span" parent="345" relname="joint-sequence"/>
-		<group id="347" type="span" parent="348" relname="span"/>
-		<group id="348" type="span" parent="349" relname="span"/>
-		<group id="349" type="span" parent="350" relname="span"/>
-		<group id="350" type="span" parent="402" relname="joint-other"/>
-		<group id="351" type="multinuc" parent="358" relname="attribution-positive"/>
+		<group id="295" type="span" parent="296" relname="joint-list"/>
+		<group id="296" type="multinuc" parent="89" relname="explanation-evidence"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="301" relname="span"/>
+		<group id="299" type="multinuc" parent="300" relname="span"/>
+		<group id="300" type="span" parent="298" relname="elaboration-additional"/>
+		<group id="301" type="span" parent="399" relname="joint-other"/>
+		<group id="302" type="multinuc" parent="308" relname="attribution-positive"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="307" relname="contingency-condition"/>
+		<group id="305" type="multinuc" parent="307" relname="span"/>
+		<group id="306" type="span" parent="305" relname="joint-list"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="399" relname="joint-other"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="313" relname="attribution-positive"/>
+		<group id="312" type="span" parent="313" relname="joint-sequence"/>
+		<group id="313" type="multinuc" parent="315" relname="span"/>
+		<group id="314" type="span" parent="315" relname="adversative-concession"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="396" relname="joint-other"/>
+		<group id="317" type="multinuc" parent="328" relname="attribution-positive"/>
+		<group id="318" type="multinuc" parent="322" relname="span"/>
+		<group id="319" type="span" parent="131" relname="elaboration-attribute"/>
+		<group id="320" type="span" parent="321" relname="same-unit"/>
+		<group id="321" type="multinuc" parent="327" relname="span"/>
+		<group id="322" type="span" parent="328" relname="span"/>
+		<group id="323" type="span" parent="324" relname="joint-list"/>
+		<group id="324" type="multinuc" parent="321" relname="explanation-evidence"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="324" relname="joint-list"/>
+		<group id="327" type="span" parent="318" relname="causal-result"/>
+		<group id="328" type="span" parent="329" relname="span"/>
+		<group id="329" type="span" parent="396" relname="joint-other"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="396" relname="joint-other"/>
+		<group id="333" type="span" parent="334" relname="same-unit"/>
+		<group id="334" type="multinuc" parent="338" relname="span"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="337" relname="span"/>
+		<group id="337" type="span" parent="396" relname="joint-other"/>
+		<group id="338" type="span" parent="336" relname="context-background"/>
+		<group id="339" type="span" parent="340" relname="same-unit"/>
+		<group id="340" type="multinuc" parent="345" relname="context-background"/>
+		<group id="341" type="multinuc" parent="343" relname="span"/>
+		<group id="342" type="span" parent="341" relname="joint-sequence"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="396" relname="joint-other"/>
+		<group id="347" type="multinuc" parent="354" relname="attribution-positive"/>
+		<group id="348" type="span" parent="349" relname="same-unit"/>
+		<group id="349" type="multinuc" parent="350" relname="joint-list"/>
+		<group id="350" type="multinuc" parent="353" relname="adversative-concession"/>
+		<group id="351" type="span" parent="350" relname="joint-list"/>
 		<group id="352" type="span" parent="353" relname="same-unit"/>
-		<group id="353" type="multinuc" parent="354" relname="joint-list"/>
-		<group id="354" type="multinuc" parent="357" relname="adversative-concession"/>
-		<group id="355" type="span" parent="354" relname="joint-list"/>
+		<group id="353" type="multinuc" parent="354" relname="span"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="363" relname="adversative-contrast"/>
 		<group id="356" type="span" parent="357" relname="same-unit"/>
-		<group id="357" type="multinuc" parent="358" relname="span"/>
-		<group id="358" type="span" parent="359" relname="span"/>
-		<group id="359" type="span" parent="367" relname="adversative-contrast"/>
-		<group id="360" type="span" parent="361" relname="same-unit"/>
-		<group id="361" type="multinuc" parent="362" relname="joint-list"/>
-		<group id="362" type="multinuc" parent="366" relname="span"/>
-		<group id="363" type="span" parent="364" relname="same-unit"/>
-		<group id="364" type="multinuc" parent="362" relname="joint-list"/>
-		<group id="365" type="span" parent="362" relname="joint-list"/>
-		<group id="366" type="span" parent="367" relname="adversative-contrast"/>
-		<group id="367" type="multinuc" parent="407" relname="joint-other"/>
-		<group id="368" type="span" parent="407" relname="joint-other"/>
-		<group id="369" type="multinuc" parent="181" relname="elaboration-attribute"/>
-		<group id="370" type="span" parent="372" relname="same-unit"/>
-		<group id="371" type="span" parent="372" relname="same-unit"/>
-		<group id="372" type="multinuc" parent="184" relname="attribution-positive"/>
-		<group id="373" type="span" parent="375" relname="adversative-contrast"/>
-		<group id="374" type="span" parent="375" relname="adversative-contrast"/>
-		<group id="375" type="multinuc" parent="376" relname="span"/>
-		<group id="376" type="span" parent="408" relname="joint-list"/>
-		<group id="377" type="multinuc" parent="378" relname="span"/>
-		<group id="378" type="span" parent="408" relname="joint-list"/>
-		<group id="379" type="multinuc" parent="383" relname="attribution-positive"/>
-		<group id="380" type="span" parent="381" relname="same-unit"/>
-		<group id="381" type="multinuc" parent="384" relname="attribution-positive"/>
-		<group id="382" type="span" parent="384" relname="span"/>
-		<group id="383" type="span" parent="411" relname="span"/>
-		<group id="384" type="span" parent="383" relname="span"/>
-		<group id="385" type="span" parent="386" relname="same-unit"/>
-		<group id="386" type="multinuc" parent="387" relname="joint-list"/>
-		<group id="387" type="multinuc" parent="382" relname="purpose-goal"/>
-		<group id="388" type="span" parent="389" relname="attribution-positive"/>
-		<group id="389" type="span" parent="390" relname="span"/>
-		<group id="390" type="span" parent="411" relname="elaboration-additional"/>
-		<group id="391" type="span" parent="392" relname="same-unit"/>
-		<group id="392" type="multinuc" parent="393" relname="joint-list"/>
-		<group id="393" type="multinuc" parent="397" relname="joint-other"/>
-		<group id="394" type="span" parent="397" relname="joint-other"/>
-		<group id="395" type="multinuc" parent="397" relname="joint-other"/>
-		<group id="396" type="multinuc" parent="397" relname="joint-other"/>
-		<group id="397" type="multinuc" parent="410" relname="context-background"/>
-		<group id="398" type="multinuc" parent="218" relname="explanation-evidence"/>
-		<group id="399" type="span" parent="413" relname="context-background"/>
-		<group id="402" type="multinuc" parent="407" relname="joint-other"/>
-		<group id="403" type="multinuc" parent="409" relname="joint-other"/>
+		<group id="357" type="multinuc" parent="358" relname="joint-list"/>
+		<group id="358" type="multinuc" parent="362" relname="span"/>
+		<group id="359" type="span" parent="360" relname="same-unit"/>
+		<group id="360" type="multinuc" parent="358" relname="joint-list"/>
+		<group id="361" type="span" parent="358" relname="joint-list"/>
+		<group id="362" type="span" parent="363" relname="adversative-contrast"/>
+		<group id="363" type="multinuc" parent="400" relname="joint-other"/>
+		<group id="364" type="span" parent="400" relname="joint-other"/>
+		<group id="365" type="multinuc" parent="183" relname="elaboration-attribute"/>
+		<group id="366" type="span" parent="368" relname="same-unit"/>
+		<group id="367" type="span" parent="368" relname="same-unit"/>
+		<group id="368" type="multinuc" parent="186" relname="attribution-positive"/>
+		<group id="369" type="span" parent="371" relname="adversative-contrast"/>
+		<group id="370" type="span" parent="371" relname="adversative-contrast"/>
+		<group id="371" type="multinuc" parent="372" relname="span"/>
+		<group id="372" type="span" parent="401" relname="joint-list"/>
+		<group id="373" type="multinuc" parent="374" relname="span"/>
+		<group id="374" type="span" parent="401" relname="joint-list"/>
+		<group id="375" type="multinuc" parent="379" relname="attribution-positive"/>
+		<group id="376" type="span" parent="377" relname="same-unit"/>
+		<group id="377" type="multinuc" parent="380" relname="attribution-positive"/>
+		<group id="378" type="span" parent="380" relname="span"/>
+		<group id="379" type="span" parent="404" relname="span"/>
+		<group id="380" type="span" parent="379" relname="span"/>
+		<group id="381" type="span" parent="382" relname="same-unit"/>
+		<group id="382" type="multinuc" parent="383" relname="joint-list"/>
+		<group id="383" type="multinuc" parent="378" relname="purpose-goal"/>
+		<group id="384" type="span" parent="385" relname="attribution-positive"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" parent="404" relname="elaboration-additional"/>
+		<group id="387" type="span" parent="388" relname="same-unit"/>
+		<group id="388" type="multinuc" parent="389" relname="joint-list"/>
+		<group id="389" type="multinuc" parent="393" relname="joint-other"/>
+		<group id="390" type="span" parent="393" relname="joint-other"/>
+		<group id="391" type="multinuc" parent="393" relname="joint-other"/>
+		<group id="392" type="multinuc" parent="393" relname="joint-other"/>
+		<group id="393" type="multinuc" parent="403" relname="context-background"/>
+		<group id="394" type="multinuc" parent="220" relname="explanation-evidence"/>
+		<group id="395" type="span" parent="406" relname="context-background"/>
+		<group id="396" type="multinuc" parent="400" relname="joint-other"/>
+		<group id="397" type="multinuc" parent="402" relname="joint-other"/>
+		<group id="398" type="span" parent="397" relname="joint-other"/>
+		<group id="399" type="multinuc" parent="285" relname="elaboration-additional"/>
+		<group id="400" type="multinuc" parent="402" relname="joint-other"/>
+		<group id="401" type="multinuc" parent="400" relname="joint-other"/>
+		<group id="402" type="multinuc" parent="403" relname="joint-other"/>
+		<group id="403" type="multinuc" parent="406" relname="span"/>
+		<group id="404" type="span" parent="405" relname="span"/>
 		<group id="405" type="span" parent="403" relname="joint-other"/>
-		<group id="406" type="multinuc" parent="287" relname="elaboration-additional"/>
-		<group id="407" type="multinuc" parent="409" relname="joint-other"/>
-		<group id="408" type="multinuc" parent="407" relname="joint-other"/>
-		<group id="409" type="multinuc" parent="410" relname="joint-other"/>
-		<group id="410" type="multinuc" parent="413" relname="span"/>
-		<group id="411" type="span" parent="412" relname="span"/>
-		<group id="412" type="span" parent="410" relname="joint-other"/>
-		<group id="413" type="span" parent="414" relname="span"/>
-		<group id="414" type="span" parent="416" relname="span"/>
-		<group id="415" type="span" />
-		<group id="416" type="span" parent="415" relname="span"/>
+		<group id="406" type="span" parent="407" relname="span"/>
+		<group id="407" type="span" parent="409" relname="span"/>
+		<group id="408" type="span" />
+		<group id="409" type="span" parent="408" relname="span"/>
+		<group id="410" type="span" parent="266" relname="same-unit"/>
+		<group id="411" type="span" parent="317" relname="same-unit"/>
 	</body>
 </rst>

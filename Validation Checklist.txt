@@ -1,0 +1,19 @@
+Validation Checklist TODO
+来 → Yes (B)
+就 会 → Yes (beginning)
+去 → Yes (beginning)
+得 (DER) → Yes (End) 
+有 … 的 → Yes (B&E)
+看来 → Yes (E)
+一样 → Yes (E)
+（ → Yes (B)
+） → Yes (E)
+– → Yes (B or E)
+
+
+
+按 → No (B)  	基本只是P
+对 → No (B)	基本只是P
+跟/和 … 一起 → No (B&E) 基本只是 P … AD
+还是 → No (B) when not segmented it is CC
+

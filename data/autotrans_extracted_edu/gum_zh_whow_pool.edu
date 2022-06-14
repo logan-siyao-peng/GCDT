@@ -33,7 +33,7 @@
 一 角 为 半色 即可 。 // One corner can be half-colored.
 [ 3 ] // [ 3 ]
 4 其它 剩下 的 球 可以 随便 摆放 。 // 4 The rest of the balls can be placed anywhere.
-注意 ， 一号 球 必须 放在 在 三角框 的 顶端 ， // Note that the number one ball must be placed at the top of the triangle,
+注意 ， 一号 球 必须 放在 在 三角框 的 顶端 ， // Note that the number 1 ball must be placed at the top of the triangle,
 8号 球 必须 放在 三角框 的 中间 ， // The 8 ball must be placed in the middle of the triangle,
 三角框 底边 两 角 要 摆放 // The two corners of the bottom edge of the triangular frame should be placed
 花色 不同 的 // different colors

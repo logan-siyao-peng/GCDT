@@ -92,7 +92,7 @@
 		<segment id="54" parent="185" relname="purpose-goal">以 促进 盲目 消费 ，</segment>
 		<segment id="55" parent="187" relname="same-unit">都 威胁 着 地球 的 生命 系统 ，</segment>
 		<segment id="56" parent="189" relname="span">并 忽视 了 “ 玫瑰 ” 在 我们 生活 中 的 重要性 ， 如 自然 、 自然美 和 聪明 的 人类 设计 、 艺术 、 社会 联系 、 健康 ， 尤其是 足够 的 休闲 时间</segment>
-		<segment id="57" parent="56" relname="purpose-attribute">来 实际 享受 我们 巨大 的 劳动 成果 。</segment>
+		<segment id="57" parent="56" relname="purpose-goal">来 实际 享受 我们 巨大 的 劳动 成果 。</segment>
 		<segment id="58" parent="193" relname="same-unit">我们 出身 于</segment>
 		<segment id="59" parent="60" relname="elaboration-attribute">抵制 消费 主义 的</segment>
 		<segment id="60" parent="192" relname="span">“ 自愿 简朴 ” 运动 ，</segment>
@@ -223,7 +223,7 @@
 		<group id="185" type="span" parent="186" relname="span"/>
 		<group id="186" type="span" parent="187" relname="same-unit"/>
 		<group id="187" type="multinuc" parent="188" relname="joint-list"/>
-		<group id="188" type="multinuc" parent="184" relname="causal-cause"/>
+		<group id="188" type="multinuc" parent="184" relname="explanation-justify"/>
 		<group id="189" type="span" parent="188" relname="joint-list"/>
 		<group id="190" type="span" parent="191" relname="span"/>
 		<group id="191" type="span" parent="212" relname="causal-cause"/>

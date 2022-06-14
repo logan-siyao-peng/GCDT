@@ -82,8 +82,8 @@
 		<segment id="44" parent="147" relname="causal-result">为 其 文学 修养 打下 基础 。</segment>
 		<segment id="45" parent="151" relname="span">樋口 于 1891年 跟随 朝日 新闻 的 记者 半井桃水</segment>
 		<segment id="46" parent="45" relname="purpose-goal">学习 写作 技巧 ，</segment>
-		<segment id="47" parent="153" relname="joint-list">并 在 同年 秋天</segment>
-		<segment id="48" parent="49" relname="mode-means">取 “ 一叶 ” 为 笔名</segment>
+		<segment id="47" parent="153" relname="same-unit">并 在 同年 秋天</segment>
+		<segment id="48" parent="49" relname="mode-manner">取 “ 一叶 ” 为 笔名</segment>
 		<segment id="49" parent="152" relname="span">发表 作品 ，</segment>
 		<segment id="50" parent="154" relname="joint-sequence">两 人 并 相恋 ，</segment>
 		<segment id="51" parent="156" relname="same-unit">但 终</segment>

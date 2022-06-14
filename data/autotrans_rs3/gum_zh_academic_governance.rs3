@@ -46,7 +46,7 @@
 		<segment id="8" parent="9" relname="context-circumstance">新 中国 成立 以来 // Since the founding of New China</segment>
 		<segment id="9" parent="156" relname="span">最 严重 的 一 次 公共 卫生 突发 事件 ， // the most serious public health emergency,</segment>
 		<segment id="10" parent="159" relname="joint-list">这 对 政府 的 治理 能力 与 治理 体系 提出 了 新 的 挑战 ， // This poses new challenges to the government's governance capacity and governance system.</segment>
-		<segment id="11" parent="159" relname="joint-list">也 是 对 中国 特色 社会 主义 治理 能力 与 治理 体系 的 一 次 大考 。 // It is also a big test of the governance capacity and governance system of socialism with Chinese characteristics .</segment>
+		<segment id="11" parent="159" relname="joint-list">也 是 对 中国 特色 社会 主义 治理 能力 与 治理 体系 的 一 次 大考 。 // It is also a big test for the governance capacity and governance system of socialism with Chinese characteristics .</segment>
 		<segment id="12" parent="161" relname="joint-list">目前 ， 我国 新冠 疫情 已经 基本 稳定 ， // At present , the new crown epidemic in my country has basically stabilized .</segment>
 		<segment id="13" parent="161" relname="joint-list">进入 了 疫情 防控 常态化 阶段 。 // It has entered the normalization stage of epidemic prevention and control.</segment>
 		<segment id="14" parent="162" relname="joint-list">但 在 该 次 突发 疫情 中 ， 暴露 出 政府 在 责任 划分 和 合作 治理 等 方面 的 问题 ， // However, in this sudden outbreak, the government's problems in the division of responsibilities and cooperative governance were exposed.</segment>

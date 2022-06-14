@@ -94,7 +94,7 @@
 		<segment id="56" parent="55" relname="purpose-goal">以 保证 安全 。 // to ensure safety .</segment>
 		<segment id="57" parent="274" relname="span">安全 措施 一定 要 做好 ， // Safety measures must be done well.</segment>
 		<segment id="58" parent="272" relname="same-unit">因为 // because</segment>
-		<segment id="59" parent="60" relname="evaluation-comment">很 可惜 ， // it is a pity ,</segment>
+		<segment id="59" parent="60" relname="evaluation-comment">很 可惜 ， // It is a pity ,</segment>
 		<segment id="60" parent="273" relname="span">这些 危险 的 化学 物质 才 不 会 // These dangerous chemicals will not</segment>
 		<segment id="61" parent="62" relname="mode-manner">像 图上 一样 // like the picture</segment>
 		<segment id="62" parent="271" relname="span">自己 从 半空 中 飞到 容器 里 去 呢 。 // Fly yourself into the container from mid-air.</segment>
@@ -112,7 +112,7 @@
 		<segment id="74" parent="282" relname="same-unit">等 网站 ， // etc. website,</segment>
 		<segment id="75" parent="282" relname="causal-cause">这些 网站 上 出售 相关 实验 用具 。 // Related lab kits are sold on these sites .</segment>
 		<segment id="76" parent="288" relname="span">所有 溶剂 都 要 充分 混合 。 // All solvents should be thoroughly mixed .</segment>
-		<segment id="77" parent="286" relname="joint-disjunction">不 要 用 手 搅拌 溶剂 ， // Do not stir the solvent by hand,</segment>
+		<segment id="77" parent="286" relname="adversative-antithesis">不 要 用 手 搅拌 溶剂 ， // Do not stir the solvent by hand,</segment>
 		<segment id="78" parent="286" relname="span">要 用 厨房 用具 之类 的 东西 ， // To use kitchen utensils and the like,</segment>
 		<segment id="79" parent="78" relname="explanation-evidence">金属 或 塑料 的 都 可以 。 // Either metal or plastic will do.</segment>
 		<segment id="80" parent="294" relname="same-unit">4 清洗 // 4 Cleaning</segment>
@@ -150,7 +150,7 @@
 		<segment id="112" parent="113" relname="elaboration-attribute">荧光 能 维持 的 // Fluorescence can be maintained</segment>
 		<segment id="113" parent="319" relname="span">时间 不 长 。 // not long time .</segment>
 		<segment id="114" parent="321" relname="organization-preparation">怎么 ， 听到 这 话 有点 失望 ？ // What, a little disappointed to hear that?</segment>
-		<segment id="115" parent="116" relname="organization-phatic">别 担心 ， // do not worry ,</segment>
+		<segment id="115" parent="116" relname="organization-phatic">别 担心 ， // don’t worry ,</segment>
 		<segment id="116" parent="321" relname="span">第二 种 方法 帮 你 解决 这 一 问题 。 // The second method helps you solve this problem.</segment>
 		<segment id="117" parent="118" relname="elaboration-attribute">发光氨 和 过氧化氢 发生 反应 的 // The reaction between luminol and hydrogen peroxide</segment>
 		<segment id="118" parent="323" relname="span">持续 时间 不 长 ， // It doesn't last long,</segment>
