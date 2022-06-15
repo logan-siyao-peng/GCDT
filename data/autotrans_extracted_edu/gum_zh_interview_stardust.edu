@@ -11,11 +11,12 @@ NASA 发射 的 // launched by NASA
 它 已 于 2006年 1月 15日 返回 地球 . // It returned to Earth on January 15 , 2006 .
 现在 有 一 项 // There is now one
 与 其 相关 的 // related to it
-在线 协作 计划 , 将 “ 检视 ” // online collaboration program that will " view "
+在线 协作 计划 , // online collaboration plan ,
+将 “ 检视 ” // "View"
 星尘 飞行器 所 采集 到 的 // Collected by the Stardust Aircraft
 细微 样本 . // small sample .
 这 个 计划 的 正式 名称 是 Stardust@home . // The official name of the program is Stardust@home .
-不 像 // unlike
+不 像 // not like
 如 SETI@home 那样 的 // like SETI@home
 分布式 计算 计划 , // distributed computing plan ,
 Stardust@home 完全 依赖于 人类 的 判断 能力 . // Stardust@home relies entirely on human judgment .
@@ -74,7 +75,7 @@ POV 火箭 视频 你 可以 在 喷气 推进 实验室 // POV rocket video you
 绝对 棒 . // Absolutely great .
 你 是 说 // you mean
 视频 对 公众 开放 ? // Is the video open to the public ?
-是 的 . // yes .
+是 的 . // Yes .
 OK , 我 有点 离题 了 . // OK , I digress a bit .
 我们 // us
 对 这些 星际 尘埃 粒子 进行 任何 分析 前 // before any analysis of these interstellar dust particles
@@ -126,8 +127,7 @@ Stardust@home 是 一 个 高度 分布式 的 项目 , // Stardust@home is a hi
 很 好 的 问题 . // very good question .
 简单来说 我们 不 知道 // Simply put, we don't know
 能 找到 多少 . // How many can be found .
-准确 来 解释 // explain exactly
-这 一 点 有些 复杂 . // This is a bit complicated .
+准确 来 解释 这 一 点 有些 复杂 . // Exactly explaining this is a bit complicated .
 我 告诉 你 我们 知道 的 吧 . // I'll tell you what we know .
 伽利略号 和 尤利西斯号 等 飞船 上 的 尘埃 探测器 曾 对 太阳系 尘埃 做 过 一些 测量 , // Dust probes on spacecraft such as Galileo and Ulysses have made some measurements of solar system dust ,
 Eberhard Gruen 和 他 的 同事 分析 过 // Eberhard Gruen and his colleagues analyzed
@@ -148,8 +148,7 @@ Markus Landgraf 对 // Markus Landgraf to
 我 必须 指出 的 // i must point out
 一 件 事情 是 ... // One thing is...
 如同 所有 的 研究 一样 , // As with all research ,
-我们 研究 的 // our research
-结果 是 很 不 确定 的 . // The result is very uncertain .
+我们 研究 的 结果 是 很 不 确定 的 . // The results of our research are highly inconclusive .
 这里 我 想 引用 爱因斯坦 的 名言 // Here I would like to quote Einstein's famous quote
 -- " 如果 我们 知道 // -- "If we know
 我们 正在 做 什么 , // what are we doing
@@ -175,10 +174,12 @@ Markus Landgraf 对 // Markus Landgraf to
 的 演示 . // 's demo .
 我 邀请 你们 可以 去 看看 . // I invite you to have a look .
 演示 中 你 看见 的 // What you saw in the demo
-轨迹 是 用 特制 的 粒子 加速器 将 羰基铁亚 微粒 以 超 高速 撞入 气凝胶 // The trajectory is to use a special particle accelerator to smash carbonyl iron particles into the aerogel at hypervelocity
+轨迹 是 // trajectory is
+用 特制 的 粒子 加速器 // with a special particle accelerator
+将 羰基铁亚 微粒 以 超 高速 撞入 气凝胶 // Injecting carbonyl iron particles into an aerogel at ultra-high speed
 而 产生 , // and produce ,
 这 模拟 了 // This simulates
 我们 希望 找 的 // what we are looking for
 星际 尘埃 撞击 效果 . // Interstellar dust impact effect .
 是 在 Stardust@home 主站 上 吗 ? // Is it on the Stardust@home main site?
-是 的 . // yes .
+是 的 . // Yes .
