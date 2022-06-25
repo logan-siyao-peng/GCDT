@@ -36,380 +36,375 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="381" relname="organization-heading">如何 种植 罗勒</segment>
-		<segment id="2" parent="203" relname="same-unit">罗勒 是</segment>
+		<segment id="1" parent="366" relname="organization-heading">如何 种植 罗勒</segment>
+		<segment id="2" parent="201" relname="same-unit">罗勒 是</segment>
 		<segment id="3" parent="4" relname="elaboration-attribute">富有 香气 的</segment>
-		<segment id="4" parent="202" relname="span">调味料 ，</segment>
-		<segment id="5" parent="204" relname="joint-list">能 给 普通 的 料理 带来 魔力 的 效果 ，</segment>
-		<segment id="6" parent="204" relname="joint-list">而且 容易 种植 。</segment>
-		<segment id="7" parent="205" relname="span">新鲜 的 罗勒 和 干 罗勒 的 味道 很 不同 ，</segment>
+		<segment id="4" parent="200" relname="span">调味料 ，</segment>
+		<segment id="5" parent="202" relname="joint-list">能 给 普通 的 料理 带来 魔力 的 效果 ，</segment>
+		<segment id="6" parent="202" relname="joint-list">而且 容易 种植 。</segment>
+		<segment id="7" parent="203" relname="span">新鲜 的 罗勒 和 干 罗勒 的 味道 很 不同 ，</segment>
 		<segment id="8" parent="7" relname="elaboration-additional">甚至 像是 两 种 完全 不同 的 香草 一样 。</segment>
-		<segment id="9" parent="207" relname="joint-list">当然 ， 新鲜 的 罗勒 比 干 罗勒 更加 可口 。</segment>
-		<segment id="10" parent="208" relname="joint-list">读读 这 篇 文章 ，</segment>
-		<segment id="11" parent="208" relname="joint-list">来 看看 如何 种植 和 收获 罗勒 。</segment>
+		<segment id="9" parent="205" relname="joint-list">当然 ， 新鲜 的 罗勒 比 干 罗勒 更加 可口 。</segment>
+		<segment id="10" parent="206" relname="joint-list">读读 这 篇 文章 ，</segment>
+		<segment id="11" parent="206" relname="joint-list">来 看看 如何 种植 和 收获 罗勒 。</segment>
 		<segment id="12" parent="13" relname="organization-preparation">方法 1</segment>
-		<segment id="13" parent="212" relname="span">播种</segment>
-		<segment id="14" parent="211" relname="same-unit">1 选择</segment>
+		<segment id="13" parent="210" relname="span">播种</segment>
+		<segment id="14" parent="209" relname="same-unit">1 选择</segment>
 		<segment id="15" parent="16" relname="elaboration-attribute">你 想要 种植 的</segment>
-		<segment id="16" parent="210" relname="span">品种 。</segment>
-		<segment id="17" parent="213" relname="joint-list">罗勒 有 很多 品种 ，</segment>
-		<segment id="18" parent="213" relname="joint-list">每 一 种 的 香味 都 不同 。</segment>
-		<segment id="19" parent="216" relname="organization-preparation">查 一 查 相关 的 资料 ，</segment>
-		<segment id="20" parent="215" relname="same-unit">并 找 一 种 或 几 种</segment>
+		<segment id="16" parent="208" relname="span">品种 。</segment>
+		<segment id="17" parent="211" relname="joint-list">罗勒 有 很多 品种 ，</segment>
+		<segment id="18" parent="211" relname="joint-list">每 一 种 的 香味 都 不同 。</segment>
+		<segment id="19" parent="214" relname="organization-preparation">查 一 查 相关 的 资料 ，</segment>
+		<segment id="20" parent="213" relname="same-unit">并 找 一 种 或 几 种</segment>
 		<segment id="21" parent="22" relname="elaboration-attribute">你 喜欢 的</segment>
-		<segment id="22" parent="214" relname="span">品种</segment>
-		<segment id="23" parent="215" relname="purpose-goal">来 种植 。</segment>
-		<segment id="24" parent="217" relname="explanation-evidence">你 可以 从 花店 买到 相应 的 种子 。</segment>
-		<segment id="25" parent="221" relname="organization-preparation">先 来 看看 我们 的 推荐 ：</segment>
-		<segment id="26" parent="220" relname="joint-list">肉桂 罗勒 有 甜香 的 味道 ，</segment>
-		<segment id="27" parent="220" relname="joint-list">并 能 开出 香气 迷人 的 漂亮 花朵 。</segment>
-		<segment id="28" parent="222" relname="span">柠檬 罗勒 中 含有 柠檬醛 。</segment>
+		<segment id="22" parent="212" relname="span">品种</segment>
+		<segment id="23" parent="213" relname="purpose-goal">来 种植 。</segment>
+		<segment id="24" parent="215" relname="explanation-evidence">你 可以 从 花店 买到 相应 的 种子 。</segment>
+		<segment id="25" parent="219" relname="organization-preparation">先 来 看看 我们 的 推荐 ：</segment>
+		<segment id="26" parent="218" relname="joint-list">肉桂 罗勒 有 甜香 的 味道 ，</segment>
+		<segment id="27" parent="218" relname="joint-list">并 能 开出 香气 迷人 的 漂亮 花朵 。</segment>
+		<segment id="28" parent="220" relname="span">柠檬 罗勒 中 含有 柠檬醛 。</segment>
 		<segment id="29" parent="28" relname="elaboration-additional">柠檬醛 是 柑橘类 水果 的 香味 成分 ，</segment>
-		<segment id="30" parent="225" relname="same-unit">柠檬 罗勒</segment>
+		<segment id="30" parent="222" relname="same-unit">柠檬 罗勒</segment>
 		<segment id="31" parent="32" relname="context-circumstance">闻 起来</segment>
-		<segment id="32" parent="224" relname="span">也 有 浓郁 的 柠檬 味道 。</segment>
-		<segment id="33" parent="227" relname="joint-list">紫色 罗勒 多 为 观赏 用 ，</segment>
-		<segment id="34" parent="227" relname="joint-list">香味 迷人 ，</segment>
-		<segment id="35" parent="227" relname="joint-list">花朵 艳丽 。</segment>
-		<segment id="36" parent="228" relname="joint-list">还 有 一些 罗勒 为 多 年 生 ，</segment>
-		<segment id="37" parent="228" relname="joint-list">在 枯萎 后 下 一 年 还 会 继续 长 出来 。</segment>
-		<segment id="38" parent="229" relname="span">比如 非洲 蓝罗勒</segment>
+		<segment id="32" parent="221" relname="span">也 有 浓郁 的 柠檬 味道 。</segment>
+		<segment id="33" parent="224" relname="joint-list">紫色 罗勒 多 为 观赏 用 ，</segment>
+		<segment id="34" parent="224" relname="joint-list">香味 迷人 ，</segment>
+		<segment id="35" parent="224" relname="joint-list">花朵 艳丽 。</segment>
+		<segment id="36" parent="225" relname="joint-list">还 有 一些 罗勒 为 多 年 生 ，</segment>
+		<segment id="37" parent="225" relname="joint-list">在 枯萎 后 下 一 年 还 会 继续 长 出来 。</segment>
+		<segment id="38" parent="226" relname="span">比如 非洲 蓝罗勒</segment>
 		<segment id="39" parent="38" relname="elaboration-attribute">（ 这 种 罗勒 的 叶子 上 有 蓝色 的 纹理 ）</segment>
-		<segment id="40" parent="230" relname="same-unit">和 泰国 罗勒 。</segment>
-		<segment id="41" parent="232" relname="span">但是 大多数 的 罗勒 都 是 一 年 生 ，</segment>
+		<segment id="40" parent="227" relname="same-unit">和 泰国 罗勒 。</segment>
+		<segment id="41" parent="229" relname="span">但是 大多数 的 罗勒 都 是 一 年 生 ，</segment>
 		<segment id="42" parent="41" relname="causal-result">你 必须 每 年 种 一 批 新 的 才 行 。</segment>
-		<segment id="43" parent="237" relname="adversative-contrast">希腊 罗勒 和 香球 罗勒 比较 难养 ，</segment>
-		<segment id="44" parent="235" relname="same-unit">但是 能 长出</segment>
+		<segment id="43" parent="234" relname="adversative-contrast">希腊 罗勒 和 香球 罗勒 比较 难养 ，</segment>
+		<segment id="44" parent="232" relname="same-unit">但是 能 长出</segment>
 		<segment id="45" parent="46" relname="elaboration-attribute">叶株 紧密 的</segment>
-		<segment id="46" parent="234" relname="span">小束 ，</segment>
-		<segment id="47" parent="236" relname="joint-list">适合 观赏 和 园艺 。</segment>
-		<segment id="48" parent="249" relname="organization-preparation">2 在 室内 播种 。</segment>
-		<segment id="49" parent="249" relname="span">在 最后 一 次 霜冻 的 4 - 6 星期 前 在 室内 播种 。</segment>
-		<segment id="50" parent="241" relname="causal-cause">罗勒 喜暖 喜阳 ，</segment>
-		<segment id="51" parent="241" relname="span">在 室内 播种 更 为 保险 ，</segment>
+		<segment id="46" parent="231" relname="span">小束 ，</segment>
+		<segment id="47" parent="233" relname="joint-list">适合 观赏 和 园艺 。</segment>
+		<segment id="48" parent="246" relname="organization-preparation">2 在 室内 播种 。</segment>
+		<segment id="49" parent="246" relname="span">在 最后 一 次 霜冻 的 4 - 6 星期 前 在 室内 播种 。</segment>
+		<segment id="50" parent="238" relname="causal-cause">罗勒 喜暖 喜阳 ，</segment>
+		<segment id="51" parent="238" relname="span">在 室内 播种 更 为 保险 ，</segment>
 		<segment id="52" parent="51" relname="purpose-goal">能 防止 罗勒 被 霜冻 侵害 。</segment>
 		<segment id="53" parent="54" relname="contingency-condition">如果 你 居住 在 比较 炎热 的 地区 ，</segment>
-		<segment id="54" parent="243" relname="span">则 也 可以 在 室外 播种 。</segment>
+		<segment id="54" parent="240" relname="span">则 也 可以 在 室外 播种 。</segment>
 		<segment id="55" parent="56" relname="attribution-negative">如果 你 不 知道</segment>
-		<segment id="56" parent="245" relname="span">什么 时候 是 最后 一 次 霜冻 ，</segment>
-		<segment id="57" parent="246" relname="joint-list">可以 查查 万年历 ，</segment>
-		<segment id="58" parent="246" relname="joint-list">或是 问问 当地 的 园丁 。</segment>
-		<segment id="59" parent="252" relname="organization-preparation">3 准备 好 播种 的 容器 和 土壤 。</segment>
-		<segment id="60" parent="252" relname="joint-sequence">在 方盆 或是 单独 的 容器 里 填上 同等 分量 的 蛭石 、 珍珠岩 和 泥炭土 。</segment>
-		<segment id="61" parent="251" relname="span">轻压 土壤</segment>
+		<segment id="56" parent="242" relname="span">什么 时候 是 最后 一 次 霜冻 ，</segment>
+		<segment id="57" parent="243" relname="joint-list">可以 查查 万年历 ，</segment>
+		<segment id="58" parent="243" relname="joint-list">或是 问问 当地 的 园丁 。</segment>
+		<segment id="59" parent="249" relname="organization-preparation">3 准备 好 播种 的 容器 和 土壤 。</segment>
+		<segment id="60" parent="249" relname="joint-sequence">在 方盆 或是 单独 的 容器 里 填上 同等 分量 的 蛭石 、 珍珠岩 和 泥炭土 。</segment>
+		<segment id="61" parent="248" relname="span">轻压 土壤</segment>
 		<segment id="62" parent="61" relname="purpose-goal">来 排除 空气 。</segment>
-		<segment id="63" parent="254" relname="span">把 土壤 用 水 打湿 ，</segment>
+		<segment id="63" parent="251" relname="span">把 土壤 用 水 打湿 ，</segment>
 		<segment id="64" parent="65" relname="purpose-goal">为 种子 发芽</segment>
-		<segment id="65" parent="253" relname="span">准备 好 合适 的 环境 。</segment>
-		<segment id="66" parent="256" relname="organization-preparation">4 播种 。</segment>
-		<segment id="67" parent="256" relname="joint-sequence">在 每 个 容器 里 埋入 一 到 两 颗 种子 ，</segment>
-		<segment id="68" parent="256" relname="joint-sequence">再 轻轻 盖上 一 层 泥土 。</segment>
-		<segment id="69" parent="257" relname="span">用 塑料 薄膜 把 花盆 缠好 ，</segment>
+		<segment id="65" parent="250" relname="span">准备 好 合适 的 环境 。</segment>
+		<segment id="66" parent="253" relname="organization-preparation">4 播种 。</segment>
+		<segment id="67" parent="253" relname="joint-sequence">在 每 个 容器 里 埋入 一 到 两 颗 种子 ，</segment>
+		<segment id="68" parent="253" relname="joint-sequence">再 轻轻 盖上 一 层 泥土 。</segment>
+		<segment id="69" parent="254" relname="span">用 塑料 薄膜 把 花盆 缠好 ，</segment>
 		<segment id="70" parent="69" relname="purpose-goal">让 土壤 保持 湿润 。</segment>
-		<segment id="71" parent="256" relname="joint-sequence">把 花盆 放在 朝阳 的 窗下 ，</segment>
-		<segment id="72" parent="259" relname="joint-list">每 天 揭开 薄膜 两 次 ，</segment>
-		<segment id="73" parent="260" relname="span">向 泥土 中 洒水</segment>
+		<segment id="71" parent="253" relname="joint-sequence">把 花盆 放在 朝阳 的 窗下 ，</segment>
+		<segment id="72" parent="255" relname="joint-list">每 天 揭开 薄膜 两 次 ，</segment>
+		<segment id="73" parent="256" relname="span">向 泥土 中 洒水</segment>
 		<segment id="74" parent="73" relname="purpose-goal">来 保持 湿润 。</segment>
-		<segment id="75" parent="273" relname="same-unit">5</segment>
+		<segment id="75" parent="269" relname="same-unit">5</segment>
 		<segment id="76" parent="77" relname="context-circumstance">在 种子 发芽 后</segment>
-		<segment id="77" parent="264" relname="span">移除 塑料 薄膜 。</segment>
-		<segment id="78" parent="266" relname="context-circumstance">当 看到 第一 束 卷须状 绿苗 从 土壤 中 钻 出来 时 ，</segment>
-		<segment id="79" parent="266" relname="same-unit">就 是</segment>
+		<segment id="77" parent="260" relname="span">移除 塑料 薄膜 。</segment>
+		<segment id="78" parent="262" relname="context-circumstance">当 看到 第一 束 卷须状 绿苗 从 土壤 中 钻 出来 时 ，</segment>
+		<segment id="79" parent="262" relname="same-unit">就 是</segment>
 		<segment id="80" parent="81" relname="elaboration-attribute">移除 薄膜 的</segment>
-		<segment id="81" parent="265" relname="span">时候 了 。</segment>
-		<segment id="82" parent="270" relname="joint-list">每 天 给 嫩芽 浇 两 次 水 ，</segment>
-		<segment id="83" parent="270" relname="joint-list">千万 不 要 让 土壤 完全 干掉 。</segment>
-		<segment id="84" parent="268" relname="joint-list">当 植物 长到 几 厘米 高 ，</segment>
-		<segment id="85" parent="268" relname="joint-list">叶子 也 逐渐 成熟 时 ，</segment>
-		<segment id="86" parent="269" relname="span">就 可以 把 罗勒 移到 大 的 容器 里 了 。</segment>
+		<segment id="81" parent="261" relname="span">时候 了 。</segment>
+		<segment id="82" parent="266" relname="joint-list">每 天 给 嫩芽 浇 两 次 水 ，</segment>
+		<segment id="83" parent="266" relname="joint-list">千万 不 要 让 土壤 完全 干掉 。</segment>
+		<segment id="84" parent="264" relname="joint-list">当 植物 长到 几 厘米 高 ，</segment>
+		<segment id="85" parent="264" relname="joint-list">叶子 也 逐渐 成熟 时 ，</segment>
+		<segment id="86" parent="265" relname="span">就 可以 把 罗勒 移到 大 的 容器 里 了 。</segment>
 		<segment id="87" parent="88" relname="organization-preparation">方法 2</segment>
-		<segment id="88" parent="275" relname="span">照顾 罗勒</segment>
-		<segment id="89" parent="293" relname="organization-preparation">1 移盆 。</segment>
+		<segment id="88" parent="271" relname="span">照顾 罗勒</segment>
+		<segment id="89" parent="289" relname="organization-preparation">1 移盆 。</segment>
 		<segment id="90" parent="91" relname="context-circumstance">当 罗勒 长出 1 - 2 枝 成熟 的 叶子 后 ，</segment>
-		<segment id="91" parent="276" relname="span">你 就 可以 把 罗勒 移到 花园 或是 正式 的 花盆 里 了 。</segment>
+		<segment id="91" parent="272" relname="span">你 就 可以 把 罗勒 移到 花园 或是 正式 的 花盆 里 了 。</segment>
 		<segment id="92" parent="93" relname="causal-cause">罗勒 不 耐冻 ，</segment>
-		<segment id="93" parent="277" relname="span">所以 不 要 过 早 移到 户外 。</segment>
-		<segment id="94" parent="278" relname="joint-list">最好 是 把 罗勒 移到 有 充足 光照 的 地方 、</segment>
-		<segment id="95" parent="278" relname="joint-list">种 在 排水性 良好 的 土壤 里 。</segment>
-		<segment id="96" parent="280" relname="explanation-evidence">[ 1 ]</segment>
-		<segment id="97" parent="282" relname="contingency-condition">如果 你 想 在 花园 里 种植 罗勒 ，</segment>
-		<segment id="98" parent="282" relname="joint-sequence">就 每 15 厘米 远 挖 一 个 洞 ，</segment>
-		<segment id="99" parent="282" relname="joint-sequence">把 罗勒 的 根 埋在 洞里 ，</segment>
-		<segment id="100" parent="284" relname="span">把 土 填到 茎 的 部位 。</segment>
-		<segment id="101" parent="283" relname="span">稍微 把 土 压实 一点 ，</segment>
+		<segment id="93" parent="273" relname="span">所以 不 要 过 早 移到 户外 。</segment>
+		<segment id="94" parent="274" relname="joint-list">最好 是 把 罗勒 移到 有 充足 光照 的 地方 、</segment>
+		<segment id="95" parent="274" relname="joint-list">种 在 排水性 良好 的 土壤 里 。</segment>
+		<segment id="96" parent="276" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="97" parent="278" relname="contingency-condition">如果 你 想 在 花园 里 种植 罗勒 ，</segment>
+		<segment id="98" parent="278" relname="joint-sequence">就 每 15 厘米 远 挖 一 个 洞 ，</segment>
+		<segment id="99" parent="278" relname="joint-sequence">把 罗勒 的 根 埋在 洞里 ，</segment>
+		<segment id="100" parent="280" relname="span">把 土 填到 茎 的 部位 。</segment>
+		<segment id="101" parent="279" relname="span">稍微 把 土 压实 一点 ，</segment>
 		<segment id="102" parent="101" relname="purpose-goal">来 排出 土壤 中 的 空气 。</segment>
-		<segment id="103" parent="288" relname="contingency-condition">如果 你 想 在 某 种 容器 里 种植 罗勒 ，</segment>
-		<segment id="104" parent="288" relname="span">那么 请 确保 容器 够 大 ，</segment>
-		<segment id="105" parent="287" relname="same-unit">能 容下</segment>
+		<segment id="103" parent="284" relname="contingency-condition">如果 你 想 在 某 种 容器 里 种植 罗勒 ，</segment>
+		<segment id="104" parent="284" relname="span">那么 请 确保 容器 够 大 ，</segment>
+		<segment id="105" parent="283" relname="same-unit">能 容下</segment>
 		<segment id="106" parent="107" relname="elaboration-attribute">你 种植 的</segment>
-		<segment id="107" parent="286" relname="span">所有 罗勒 。</segment>
+		<segment id="107" parent="282" relname="span">所有 罗勒 。</segment>
 		<segment id="108" parent="109" relname="causal-cause">由于 罗勒 会 长大 很 大 ，</segment>
-		<segment id="109" parent="290" relname="span">所以 每 株 罗勒 之间 至少 留出 15 厘米 的 距离 。</segment>
-		<segment id="110" parent="297" relname="span">2 保持 土壤 湿润 ，</segment>
+		<segment id="109" parent="286" relname="span">所以 每 株 罗勒 之间 至少 留出 15 厘米 的 距离 。</segment>
+		<segment id="110" parent="291" relname="span">2 保持 土壤 湿润 ，</segment>
 		<segment id="111" parent="110" relname="adversative-antithesis">但是 不 要 让 土壤 水汪汪 的 。</segment>
-		<segment id="112" parent="298" relname="span">罗勒 在 排水性 好 的 土壤 里 才 能 长 得 好 ，</segment>
+		<segment id="112" parent="292" relname="span">罗勒 在 排水性 好 的 土壤 里 才 能 长 得 好 ，</segment>
 		<segment id="113" parent="112" relname="adversative-antithesis">不 能 一直 泡在 水里 。</segment>
-		<segment id="114" parent="300" relname="span">对 成熟 的 罗勒 ， 每 天 早上 应 浇 一 次 水 ，</segment>
-		<segment id="115" parent="299" relname="span">来 给 罗勒 充分 的 时间</segment>
-		<segment id="116" parent="301" relname="joint-list">来 吸收 和 蒸发 水分 ，</segment>
-		<segment id="117" parent="301" relname="joint-list">防止 土壤 晚上 干掉 。</segment>
-		<segment id="118" parent="320" relname="organization-preparation">3 掐掉 花骨朵 。</segment>
+		<segment id="114" parent="294" relname="span">对 成熟 的 罗勒 ， 每 天 早上 应 浇 一 次 水 ，</segment>
+		<segment id="115" parent="293" relname="span">来 给 罗勒 充分 的 时间</segment>
+		<segment id="116" parent="295" relname="joint-list">来 吸收 和 蒸发 水分 ，</segment>
+		<segment id="117" parent="295" relname="joint-list">防止 土壤 晚上 干掉 。</segment>
+		<segment id="118" parent="312" relname="organization-preparation">3 掐掉 花骨朵 。</segment>
 		<segment id="119" parent="120" relname="context-circumstance">当 罗勒 开花 时 ，</segment>
-		<segment id="120" parent="305" relname="span">把 花 和 花 下面 的 两 片 叶子 都 掐 掉 。</segment>
-		<segment id="121" parent="306" relname="joint-list">开花 会 让 罗勒 的 荷尔蒙 发成 变化 ，</segment>
-		<segment id="122" parent="306" relname="joint-list">减少 罗勒 的 香气 ，</segment>
-		<segment id="123" parent="308" relname="same-unit">并 让</segment>
+		<segment id="120" parent="299" relname="span">把 花 和 花 下面 的 两 片 叶子 都 掐 掉 。</segment>
+		<segment id="121" parent="300" relname="joint-list">开花 会 让 罗勒 的 荷尔蒙 发成 变化 ，</segment>
+		<segment id="122" parent="300" relname="joint-list">减少 罗勒 的 香气 ，</segment>
+		<segment id="123" parent="302" relname="same-unit">并 让</segment>
 		<segment id="124" parent="125" relname="elaboration-attribute">罗勒 长出 的</segment>
-		<segment id="125" parent="307" relname="span">叶子 减少 。</segment>
-		<segment id="126" parent="312" relname="same-unit">这 种 开花 结子 的 现象 多</segment>
-		<segment id="127" parent="310" relname="same-unit">在</segment>
-		<segment id="128" parent="129" relname="elaboration-attribute">阳光 特别 充足 的</segment>
-		<segment id="129" parent="309" relname="span">情况 下</segment>
-		<segment id="130" parent="311" relname="span">发生 。</segment>
-		<segment id="131" parent="316" relname="contingency-condition">如果 你 不 掐掉 花骨朵 ，</segment>
-		<segment id="132" parent="315" relname="attribution-positive">你 会 发现</segment>
-		<segment id="133" parent="315" relname="joint-list">罗勒 的 叶子 越来越 瘦 长 ，</segment>
-		<segment id="134" parent="314" relname="same-unit">也 不 会</segment>
-		<segment id="135" parent="136" relname="mode-manner">像 原来 那样</segment>
-		<segment id="136" parent="313" relname="span">这么 香气 浓郁 了 。</segment>
-		<segment id="137" parent="331" relname="organization-preparation">4 注意 虫害 和 霉菌 。</segment>
-		<segment id="138" parent="322" relname="context-background">罗勒 容易 吸引 日本 甲虫 。</segment>
-		<segment id="139" parent="140" relname="elaboration-attribute">除 虫害 的</segment>
-		<segment id="140" parent="322" relname="span">最好 方法 就 亲手 把 甲虫 挑出 并 捉 下来 。</segment>
-		<segment id="141" parent="323" relname="explanation-evidence">[ 2 ]</segment>
-		<segment id="142" parent="326" relname="same-unit">如果 你 的 罗勒 有</segment>
-		<segment id="143" parent="144" relname="elaboration-attribute">被 霉菌 侵害 的</segment>
-		<segment id="144" parent="325" relname="span">倾向 ，</segment>
-		<segment id="145" parent="327" relname="joint-disjunction">那 证明 它们 可能 阳光 不 够 ，</segment>
-		<segment id="146" parent="327" relname="joint-disjunction">或是 长 得 太 密 。</segment>
-		<segment id="147" parent="328" relname="span">把 小 的 罗勒 挖 出来 ，</segment>
-		<segment id="148" parent="147" relname="purpose-goal">给 大 罗勒 充分 的 空间 生长 。</segment>
-		<segment id="149" parent="150" relname="organization-preparation">方法 3</segment>
-		<segment id="150" parent="334" relname="span">收获 和 使用 罗勒</segment>
-		<segment id="151" parent="335" relname="span">1 收获 和 摘心 。</segment>
-		<segment id="152" parent="151" relname="explanation-evidence">[ 3 ]</segment>
-		<segment id="153" parent="337" relname="context-circumstance">随着 植物 的 成熟 ，</segment>
-		<segment id="154" parent="337" relname="same-unit">当</segment>
-		<segment id="155" parent="156" relname="elaboration-attribute">罗勒 长 得 够 高 的</segment>
-		<segment id="156" parent="336" relname="span">时候 ，</segment>
-		<segment id="157" parent="339" relname="span">就 把 最 顶上 的 两 片 叶子 摘掉 。</segment>
-		<segment id="158" parent="340" relname="contingency-condition">如果 你 仔细 观察 ，</segment>
-		<segment id="159" parent="160" relname="attribution-positive">就 会 发现</segment>
-		<segment id="160" parent="340" relname="span">每 片 叶子 的 根部 都 有 两 片 嫩 叶 ，</segment>
-		<segment id="161" parent="162" relname="contingency-condition">如果 你 切掉 它们 之间 的 茎 ，</segment>
-		<segment id="162" parent="342" relname="span">这 两 片 嫩 叶 就 会 长 出来 。</segment>
-		<segment id="163" parent="344" relname="same-unit">在 摘心 时 ， 尽量</segment>
-		<segment id="164" parent="165" relname="mode-manner">靠近 嫩 叶</segment>
-		<segment id="165" parent="343" relname="span">来 切 ，</segment>
-		<segment id="166" parent="348" relname="adversative-contrast">但是 注意 不 要 伤到 这 两 片 叶子 。</segment>
-		<segment id="167" parent="346" relname="joint-list">摘心 能 让 植物 更 有 活力 ，</segment>
-		<segment id="168" parent="346" relname="joint-list">促进 强壮 的 茎 和 叶 的 继续 生长 。</segment>
-		<segment id="169" parent="346" relname="joint-list">这 也 会 让 植物 长 得 更 茂密 。</segment>
-		<segment id="170" parent="346" relname="explanation-evidence">[ 4 ]</segment>
-		<segment id="171" parent="350" relname="span">不 要 掐掉 茎 的 下端 ，</segment>
-		<segment id="172" parent="171" relname="adversative-antithesis">否则 罗勒 会 长 得 瘦 而 稀疏 。</segment>
-		<segment id="173" parent="174" relname="explanation-motivation">你 想要 的 是 茂密 的 罗勒 。</segment>
-		<segment id="174" parent="351" relname="span">所以 摘心 一定 要 从 顶上 摘 。</segment>
-		<segment id="175" parent="359" relname="organization-preparation">2 享受 新鲜 的 罗勒 。</segment>
-		<segment id="176" parent="358" relname="context-circumstance">把 罗勒 洗 干净 后 ，</segment>
-		<segment id="177" parent="358" relname="joint-disjunction">就 可以 用 它们 做 绿酱 ，</segment>
-		<segment id="178" parent="358" relname="joint-disjunction">或是 用 西红柿 和 马苏里 芝士 做成 番茄 芝士 沙拉 。</segment>
-		<segment id="179" parent="363" relname="span">3 把 罗勒 放在 冰箱 里</segment>
-		<segment id="180" parent="179" relname="purpose-goal">保存 。</segment>
-		<segment id="181" parent="364" relname="span">你 可能 会 收获 很多 罗勒 ，</segment>
-		<segment id="182" parent="181" relname="elaboration-additional">一 顿 也 吃 不 了 ，</segment>
-		<segment id="183" parent="365" relname="attribution-positive">可以 计划</segment>
-		<segment id="184" parent="365" relname="span">把 罗勒 放在 冰箱 里</segment>
-		<segment id="185" parent="184" relname="purpose-goal">保存 。</segment>
-		<segment id="186" parent="368" relname="joint-sequence">把 叶子 洗 干净 ， 晾干 ，</segment>
-		<segment id="187" parent="368" relname="joint-sequence">用 纸毛巾 包好</segment>
-		<segment id="188" parent="368" relname="joint-sequence">放在 密封 保鲜盒 里</segment>
-		<segment id="189" parent="368" relname="joint-sequence">放入 冰箱 。</segment>
-		<segment id="190" parent="378" relname="organization-preparation">4 冰冻 罗勒 。</segment>
-		<segment id="191" parent="376" relname="adversative-antithesis">直接 把 罗勒 叶子 冻 起来 并不 是 什么 好 主意 。</segment>
-		<segment id="192" parent="193" relname="contingency-condition">但是 如果 先 把 罗勒 打成 泥 ，</segment>
-		<segment id="193" parent="373" relname="span">就 可以 在 冷冻室 储藏 好几 个 月 。</segment>
-		<segment id="194" parent="374" relname="joint-sequence">把 罗勒 放入 搅拌机 ，</segment>
-		<segment id="195" parent="374" relname="joint-sequence">加上 一点 水 ，</segment>
-		<segment id="196" parent="374" relname="joint-sequence">打成 泥状 ，</segment>
-		<segment id="197" parent="374" relname="joint-sequence">再 把 罗勒泥 放到 保鲜袋 内</segment>
-		<segment id="198" parent="374" relname="joint-sequence">放入 冷冻室 保存 ，</segment>
-		<segment id="199" parent="200" relname="context-circumstance">在 需要 时</segment>
-		<segment id="200" parent="375" relname="span">取出 即可 。</segment>
-		<segment id="201" parent="374" relname="explanation-evidence">[ 5 ]</segment>
-		<group id="202" type="span" parent="203" relname="same-unit"/>
-		<group id="203" type="multinuc" parent="204" relname="joint-list"/>
-		<group id="204" type="multinuc" parent="206" relname="joint-other"/>
-		<group id="205" type="span" parent="207" relname="joint-list"/>
-		<group id="206" type="multinuc" parent="208" relname="explanation-motivation"/>
-		<group id="207" type="multinuc" parent="206" relname="joint-other"/>
-		<group id="208" type="multinuc" parent="209" relname="span"/>
-		<group id="209" type="span" parent="380" relname="context-background"/>
-		<group id="210" type="span" parent="211" relname="same-unit"/>
-		<group id="211" type="multinuc" parent="239" relname="organization-preparation"/>
-		<group id="212" type="span" parent="262" relname="organization-heading"/>
-		<group id="213" type="multinuc" parent="218" relname="organization-preparation"/>
-		<group id="214" type="span" parent="215" relname="same-unit"/>
-		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<segment id="125" parent="301" relname="span">叶子 减少 。</segment>
+		<segment id="126" parent="304" relname="same-unit">这 种 开花 结子 的 现象 多 在</segment>
+		<segment id="127" parent="128" relname="elaboration-attribute">阳光 特别 充足 的</segment>
+		<segment id="128" parent="303" relname="span">情况 下 发生 。</segment>
+		<segment id="129" parent="308" relname="contingency-condition">如果 你 不 掐掉 花骨朵 ，</segment>
+		<segment id="130" parent="307" relname="attribution-positive">你 会 发现</segment>
+		<segment id="131" parent="307" relname="joint-list">罗勒 的 叶子 越来越 瘦 长 ，</segment>
+		<segment id="132" parent="306" relname="same-unit">也 不 会</segment>
+		<segment id="133" parent="134" relname="mode-manner">像 原来 那样</segment>
+		<segment id="134" parent="305" relname="span">这么 香气 浓郁 了 。</segment>
+		<segment id="135" parent="323" relname="organization-preparation">4 注意 虫害 和 霉菌 。</segment>
+		<segment id="136" parent="314" relname="context-background">罗勒 容易 吸引 日本 甲虫 。</segment>
+		<segment id="137" parent="138" relname="elaboration-attribute">除 虫害 的</segment>
+		<segment id="138" parent="314" relname="span">最好 方法 就 亲手 把 甲虫 挑出 并 捉 下来 。</segment>
+		<segment id="139" parent="315" relname="explanation-evidence">[ 2 ]</segment>
+		<segment id="140" parent="318" relname="same-unit">如果 你 的 罗勒 有</segment>
+		<segment id="141" parent="142" relname="elaboration-attribute">被 霉菌 侵害 的</segment>
+		<segment id="142" parent="317" relname="span">倾向 ，</segment>
+		<segment id="143" parent="319" relname="joint-disjunction">那 证明 它们 可能 阳光 不 够 ，</segment>
+		<segment id="144" parent="319" relname="joint-disjunction">或是 长 得 太 密 。</segment>
+		<segment id="145" parent="320" relname="span">把 小 的 罗勒 挖 出来 ，</segment>
+		<segment id="146" parent="145" relname="purpose-goal">给 大 罗勒 充分 的 空间 生长 。</segment>
+		<segment id="147" parent="148" relname="organization-preparation">方法 3</segment>
+		<segment id="148" parent="326" relname="span">收获 和 使用 罗勒</segment>
+		<segment id="149" parent="327" relname="span">1 收获 和 摘心 。</segment>
+		<segment id="150" parent="149" relname="explanation-evidence">[ 3 ]</segment>
+		<segment id="151" parent="329" relname="context-circumstance">随着 植物 的 成熟 ，</segment>
+		<segment id="152" parent="329" relname="same-unit">当</segment>
+		<segment id="153" parent="154" relname="elaboration-attribute">罗勒 长 得 够 高 的</segment>
+		<segment id="154" parent="328" relname="span">时候 ， 就 把 最 顶上 的 两 片 叶子 摘掉 。</segment>
+		<segment id="155" parent="331" relname="contingency-condition">如果 你 仔细 观察 ，</segment>
+		<segment id="156" parent="157" relname="attribution-positive">就 会 发现</segment>
+		<segment id="157" parent="331" relname="span">每 片 叶子 的 根部 都 有 两 片 嫩 叶 ，</segment>
+		<segment id="158" parent="159" relname="contingency-condition">如果 你 切掉 它们 之间 的 茎 ，</segment>
+		<segment id="159" parent="333" relname="span">这 两 片 嫩 叶 就 会 长 出来 。</segment>
+		<segment id="160" parent="161" relname="context-circumstance">在 摘心 时 ，</segment>
+		<segment id="161" parent="370" relname="span">尽量</segment>
+		<segment id="162" parent="163" relname="mode-manner">靠近 嫩 叶</segment>
+		<segment id="163" parent="334" relname="span">来 切 ，</segment>
+		<segment id="164" parent="338" relname="adversative-contrast">但是 注意 不 要 伤到 这 两 片 叶子 。</segment>
+		<segment id="165" parent="336" relname="joint-list">摘心 能 让 植物 更 有 活力 ，</segment>
+		<segment id="166" parent="336" relname="joint-list">促进 强壮 的 茎 和 叶 的 继续 生长 。</segment>
+		<segment id="167" parent="336" relname="joint-list">这 也 会 让 植物 长 得 更 茂密 。</segment>
+		<segment id="168" parent="336" relname="explanation-evidence">[ 4 ]</segment>
+		<segment id="169" parent="340" relname="span">不 要 掐掉 茎 的 下端 ，</segment>
+		<segment id="170" parent="169" relname="adversative-antithesis">否则 罗勒 会 长 得 瘦 而 稀疏 。</segment>
+		<segment id="171" parent="172" relname="explanation-motivation">你 想要 的 是 茂密 的 罗勒 。</segment>
+		<segment id="172" parent="341" relname="span">所以 摘心 一定 要 从 顶上 摘 。</segment>
+		<segment id="173" parent="346" relname="organization-preparation">2 享受 新鲜 的 罗勒 。</segment>
+		<segment id="174" parent="345" relname="context-circumstance">把 罗勒 洗 干净 后 ，</segment>
+		<segment id="175" parent="345" relname="joint-disjunction">就 可以 用 它们 做 绿酱 ，</segment>
+		<segment id="176" parent="345" relname="joint-disjunction">或是 用 西红柿 和 马苏里 芝士 做成 番茄 芝士 沙拉 。</segment>
+		<segment id="177" parent="349" relname="span">3 把 罗勒 放在 冰箱 里</segment>
+		<segment id="178" parent="177" relname="purpose-goal">保存 。</segment>
+		<segment id="179" parent="350" relname="span">你 可能 会 收获 很多 罗勒 ，</segment>
+		<segment id="180" parent="179" relname="elaboration-additional">一 顿 也 吃 不 了 ，</segment>
+		<segment id="181" parent="351" relname="attribution-positive">可以 计划</segment>
+		<segment id="182" parent="351" relname="span">把 罗勒 放在 冰箱 里</segment>
+		<segment id="183" parent="182" relname="purpose-goal">保存 。</segment>
+		<segment id="184" parent="353" relname="joint-sequence">把 叶子 洗 干净 ， 晾干 ，</segment>
+		<segment id="185" parent="353" relname="joint-sequence">用 纸毛巾 包好</segment>
+		<segment id="186" parent="353" relname="joint-sequence">放在 密封 保鲜盒 里</segment>
+		<segment id="187" parent="353" relname="joint-sequence">放入 冰箱 。</segment>
+		<segment id="188" parent="363" relname="organization-preparation">4 冰冻 罗勒 。</segment>
+		<segment id="189" parent="361" relname="adversative-antithesis">直接 把 罗勒 叶子 冻 起来 并不 是 什么 好 主意 。</segment>
+		<segment id="190" parent="191" relname="contingency-condition">但是 如果 先 把 罗勒 打成 泥 ，</segment>
+		<segment id="191" parent="358" relname="span">就 可以 在 冷冻室 储藏 好几 个 月 。</segment>
+		<segment id="192" parent="359" relname="joint-sequence">把 罗勒 放入 搅拌机 ，</segment>
+		<segment id="193" parent="359" relname="joint-sequence">加上 一点 水 ，</segment>
+		<segment id="194" parent="359" relname="joint-sequence">打成 泥状 ，</segment>
+		<segment id="195" parent="359" relname="joint-sequence">再 把 罗勒泥 放到 保鲜袋 内</segment>
+		<segment id="196" parent="359" relname="joint-sequence">放入 冷冻室 保存 ，</segment>
+		<segment id="197" parent="198" relname="context-circumstance">在 需要 时</segment>
+		<segment id="198" parent="360" relname="span">取出 即可 。</segment>
+		<segment id="199" parent="359" relname="explanation-evidence">[ 5 ]</segment>
+		<group id="200" type="span" parent="201" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="202" relname="joint-list"/>
+		<group id="202" type="multinuc" parent="204" relname="joint-other"/>
+		<group id="203" type="span" parent="205" relname="joint-list"/>
+		<group id="204" type="multinuc" parent="206" relname="explanation-motivation"/>
+		<group id="205" type="multinuc" parent="204" relname="joint-other"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="365" relname="context-background"/>
+		<group id="208" type="span" parent="209" relname="same-unit"/>
+		<group id="209" type="multinuc" parent="236" relname="organization-preparation"/>
+		<group id="210" type="span" parent="258" relname="organization-heading"/>
+		<group id="211" type="multinuc" parent="216" relname="organization-preparation"/>
+		<group id="212" type="span" parent="213" relname="same-unit"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="216" relname="span"/>
 		<group id="216" type="span" parent="217" relname="span"/>
-		<group id="217" type="span" parent="218" relname="span"/>
-		<group id="218" type="span" parent="219" relname="span"/>
-		<group id="219" type="span" parent="239" relname="span"/>
-		<group id="220" type="multinuc" parent="221" relname="joint-list"/>
-		<group id="221" type="multinuc" parent="238" relname="span"/>
-		<group id="222" type="span" parent="225" relname="causal-cause"/>
-		<group id="224" type="span" parent="225" relname="same-unit"/>
-		<group id="225" type="multinuc" parent="226" relname="span"/>
-		<group id="226" type="span" parent="221" relname="joint-list"/>
-		<group id="227" type="multinuc" parent="221" relname="joint-list"/>
-		<group id="228" type="multinuc" parent="231" relname="span"/>
-		<group id="229" type="span" parent="230" relname="same-unit"/>
-		<group id="230" type="multinuc" parent="228" relname="explanation-evidence"/>
-		<group id="231" type="span" parent="233" relname="adversative-contrast"/>
-		<group id="232" type="span" parent="233" relname="adversative-contrast"/>
-		<group id="233" type="multinuc" parent="221" relname="joint-list"/>
-		<group id="234" type="span" parent="235" relname="same-unit"/>
-		<group id="235" type="multinuc" parent="236" relname="joint-list"/>
-		<group id="236" type="multinuc" parent="237" relname="adversative-contrast"/>
-		<group id="237" type="multinuc" parent="221" relname="joint-list"/>
-		<group id="238" type="span" parent="219" relname="explanation-evidence"/>
-		<group id="239" type="span" parent="240" relname="span"/>
-		<group id="240" type="span" parent="262" relname="joint-sequence"/>
-		<group id="241" type="span" parent="242" relname="span"/>
-		<group id="242" type="span" parent="244" relname="span"/>
-		<group id="243" type="span" parent="242" relname="adversative-concession"/>
-		<group id="244" type="span" parent="248" relname="joint-other"/>
-		<group id="245" type="span" parent="246" relname="contingency-condition"/>
-		<group id="246" type="multinuc" parent="247" relname="span"/>
-		<group id="247" type="span" parent="248" relname="joint-other"/>
-		<group id="248" type="multinuc" parent="49" relname="elaboration-additional"/>
-		<group id="249" type="span" parent="250" relname="span"/>
-		<group id="250" type="span" parent="262" relname="joint-sequence"/>
-		<group id="251" type="span" parent="252" relname="joint-sequence"/>
-		<group id="252" type="multinuc" parent="255" relname="span"/>
-		<group id="253" type="span" parent="63" relname="purpose-goal"/>
-		<group id="254" type="span" parent="252" relname="joint-sequence"/>
-		<group id="255" type="span" parent="262" relname="joint-sequence"/>
-		<group id="256" type="multinuc" parent="261" relname="span"/>
-		<group id="257" type="span" parent="256" relname="joint-sequence"/>
-		<group id="259" type="multinuc" parent="256" relname="joint-sequence"/>
-		<group id="260" type="span" parent="259" relname="joint-list"/>
-		<group id="261" type="span" parent="262" relname="joint-sequence"/>
+		<group id="217" type="span" parent="236" relname="span"/>
+		<group id="218" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="219" type="multinuc" parent="235" relname="span"/>
+		<group id="220" type="span" parent="222" relname="causal-cause"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="219" relname="joint-list"/>
+		<group id="224" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="225" type="multinuc" parent="228" relname="span"/>
+		<group id="226" type="span" parent="227" relname="same-unit"/>
+		<group id="227" type="multinuc" parent="225" relname="explanation-evidence"/>
+		<group id="228" type="span" parent="230" relname="adversative-contrast"/>
+		<group id="229" type="span" parent="230" relname="adversative-contrast"/>
+		<group id="230" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="233" relname="joint-list"/>
+		<group id="233" type="multinuc" parent="234" relname="adversative-contrast"/>
+		<group id="234" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="235" type="span" parent="217" relname="explanation-evidence"/>
+		<group id="236" type="span" parent="237" relname="span"/>
+		<group id="237" type="span" parent="258" relname="joint-sequence"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="241" relname="span"/>
+		<group id="240" type="span" parent="239" relname="adversative-concession"/>
+		<group id="241" type="span" parent="245" relname="joint-other"/>
+		<group id="242" type="span" parent="243" relname="contingency-condition"/>
+		<group id="243" type="multinuc" parent="244" relname="span"/>
+		<group id="244" type="span" parent="245" relname="joint-other"/>
+		<group id="245" type="multinuc" parent="49" relname="elaboration-additional"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="258" relname="joint-sequence"/>
+		<group id="248" type="span" parent="249" relname="joint-sequence"/>
+		<group id="249" type="multinuc" parent="252" relname="span"/>
+		<group id="250" type="span" parent="63" relname="purpose-goal"/>
+		<group id="251" type="span" parent="249" relname="joint-sequence"/>
+		<group id="252" type="span" parent="258" relname="joint-sequence"/>
+		<group id="253" type="multinuc" parent="257" relname="span"/>
+		<group id="254" type="span" parent="253" relname="joint-sequence"/>
+		<group id="255" type="multinuc" parent="253" relname="joint-sequence"/>
+		<group id="256" type="span" parent="255" relname="joint-list"/>
+		<group id="257" type="span" parent="258" relname="joint-sequence"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" parent="365" relname="joint-list"/>
+		<group id="260" type="span" parent="269" relname="same-unit"/>
+		<group id="261" type="span" parent="262" relname="same-unit"/>
 		<group id="262" type="multinuc" parent="263" relname="span"/>
-		<group id="263" type="span" parent="380" relname="joint-list"/>
-		<group id="264" type="span" parent="273" relname="same-unit"/>
-		<group id="265" type="span" parent="266" relname="same-unit"/>
+		<group id="263" type="span" parent="266" relname="context-circumstance"/>
+		<group id="264" type="multinuc" parent="86" relname="context-circumstance"/>
+		<group id="265" type="span" parent="268" relname="joint-sequence"/>
 		<group id="266" type="multinuc" parent="267" relname="span"/>
-		<group id="267" type="span" parent="270" relname="context-circumstance"/>
-		<group id="268" type="multinuc" parent="86" relname="context-circumstance"/>
-		<group id="269" type="span" parent="272" relname="joint-sequence"/>
-		<group id="270" type="multinuc" parent="271" relname="span"/>
-		<group id="271" type="span" parent="272" relname="joint-sequence"/>
-		<group id="272" type="multinuc" parent="273" relname="elaboration-additional"/>
-		<group id="273" type="multinuc" parent="274" relname="span"/>
-		<group id="274" type="span" parent="262" relname="joint-sequence"/>
-		<group id="275" type="span" parent="304" relname="organization-heading"/>
-		<group id="276" type="span" parent="280" relname="span"/>
-		<group id="277" type="span" parent="278" relname="adversative-antithesis"/>
-		<group id="278" type="multinuc" parent="279" relname="span"/>
-		<group id="279" type="span" parent="276" relname="elaboration-additional"/>
-		<group id="280" type="span" parent="281" relname="span"/>
-		<group id="281" type="span" parent="293" relname="span"/>
-		<group id="282" type="multinuc" parent="285" relname="span"/>
-		<group id="283" type="span" parent="100" relname="elaboration-additional"/>
-		<group id="284" type="span" parent="282" relname="joint-sequence"/>
-		<group id="285" type="span" parent="292" relname="joint-disjunction"/>
-		<group id="286" type="span" parent="287" relname="same-unit"/>
-		<group id="287" type="multinuc" parent="104" relname="elaboration-additional"/>
-		<group id="288" type="span" parent="291" relname="span"/>
-		<group id="289" type="span" parent="292" relname="joint-disjunction"/>
-		<group id="290" type="span" parent="291" relname="causal-cause"/>
-		<group id="291" type="span" parent="289" relname="span"/>
-		<group id="292" type="multinuc" parent="281" relname="elaboration-additional"/>
-		<group id="293" type="span" parent="294" relname="span"/>
-		<group id="294" type="span" parent="304" relname="joint-sequence"/>
-		<group id="297" type="span" parent="302" relname="organization-preparation"/>
-		<group id="298" type="span" parent="300" relname="causal-cause"/>
-		<group id="299" type="span" parent="114" relname="purpose-goal"/>
-		<group id="300" type="span" parent="302" relname="span"/>
-		<group id="301" type="multinuc" parent="115" relname="purpose-attribute"/>
-		<group id="302" type="span" parent="303" relname="span"/>
-		<group id="303" type="span" parent="304" relname="joint-sequence"/>
-		<group id="304" type="multinuc" parent="333" relname="span"/>
-		<group id="305" type="span" parent="318" relname="span"/>
-		<group id="306" type="multinuc" parent="305" relname="causal-cause"/>
-		<group id="307" type="span" parent="308" relname="same-unit"/>
-		<group id="308" type="multinuc" parent="306" relname="joint-list"/>
-		<group id="309" type="span" parent="310" relname="same-unit"/>
-		<group id="310" type="multinuc" parent="130" relname="context-circumstance"/>
-		<group id="311" type="span" parent="312" relname="same-unit"/>
-		<group id="312" type="multinuc" parent="319" relname="joint-other"/>
-		<group id="313" type="span" parent="314" relname="same-unit"/>
-		<group id="314" type="multinuc" parent="315" relname="joint-list"/>
-		<group id="315" type="multinuc" parent="316" relname="span"/>
-		<group id="316" type="span" parent="317" relname="span"/>
-		<group id="317" type="span" parent="319" relname="joint-other"/>
-		<group id="318" type="span" parent="320" relname="span"/>
-		<group id="319" type="multinuc" parent="318" relname="elaboration-additional"/>
-		<group id="320" type="span" parent="321" relname="span"/>
-		<group id="321" type="span" parent="304" relname="joint-sequence"/>
-		<group id="322" type="span" parent="323" relname="span"/>
-		<group id="323" type="span" parent="324" relname="span"/>
-		<group id="324" type="span" parent="331" relname="joint-list"/>
-		<group id="325" type="span" parent="326" relname="same-unit"/>
-		<group id="326" type="multinuc" parent="327" relname="contingency-condition"/>
-		<group id="327" type="multinuc" parent="329" relname="span"/>
-		<group id="328" type="span" parent="330" relname="span"/>
-		<group id="329" type="span" parent="328" relname="context-circumstance"/>
-		<group id="330" type="span" parent="331" relname="joint-list"/>
-		<group id="331" type="multinuc" parent="332" relname="span"/>
-		<group id="332" type="span" parent="304" relname="joint-sequence"/>
-		<group id="333" type="span" parent="380" relname="joint-list"/>
-		<group id="334" type="span" parent="361" relname="organization-heading"/>
-		<group id="335" type="span" parent="357" relname="organization-preparation"/>
-		<group id="336" type="span" parent="337" relname="same-unit"/>
-		<group id="337" type="multinuc" parent="338" relname="span"/>
-		<group id="338" type="span" parent="157" relname="context-circumstance"/>
-		<group id="339" type="span" parent="354" relname="span"/>
-		<group id="340" type="span" parent="341" relname="span"/>
-		<group id="341" type="span" parent="342" relname="context-background"/>
-		<group id="342" type="span" parent="347" relname="span"/>
-		<group id="343" type="span" parent="344" relname="same-unit"/>
-		<group id="344" type="multinuc" parent="348" relname="adversative-contrast"/>
-		<group id="346" type="multinuc" parent="349" relname="span"/>
-		<group id="347" type="span" parent="348" relname="causal-cause"/>
-		<group id="348" type="multinuc" parent="356" relname="span"/>
-		<group id="349" type="span" parent="353" relname="joint-other"/>
-		<group id="350" type="span" parent="352" relname="restatement-repetition"/>
-		<group id="351" type="span" parent="352" relname="restatement-repetition"/>
-		<group id="352" type="multinuc" parent="353" relname="joint-other"/>
-		<group id="353" type="multinuc" parent="354" relname="elaboration-additional"/>
-		<group id="354" type="span" parent="357" relname="span"/>
-		<group id="355" type="span" parent="361" relname="joint-sequence"/>
-		<group id="356" type="span" parent="339" relname="mode-manner"/>
-		<group id="357" type="span" parent="355" relname="span"/>
-		<group id="358" type="multinuc" parent="359" relname="span"/>
-		<group id="359" type="span" parent="369" relname="span"/>
-		<group id="361" type="multinuc" parent="362" relname="span"/>
-		<group id="362" type="span" parent="380" relname="joint-list"/>
-		<group id="363" type="span" parent="371" relname="organization-preparation"/>
-		<group id="364" type="span" parent="366" relname="causal-cause"/>
-		<group id="365" type="span" parent="366" relname="span"/>
-		<group id="366" type="span" parent="370" relname="span"/>
-		<group id="368" type="multinuc" parent="370" relname="mode-manner"/>
-		<group id="369" type="span" parent="361" relname="joint-sequence"/>
-		<group id="370" type="span" parent="371" relname="span"/>
-		<group id="371" type="span" parent="372" relname="span"/>
-		<group id="372" type="span" parent="361" relname="joint-sequence"/>
-		<group id="373" type="span" parent="376" relname="span"/>
-		<group id="374" type="multinuc" parent="377" relname="span"/>
-		<group id="375" type="span" parent="374" relname="joint-sequence"/>
-		<group id="376" type="span" parent="378" relname="span"/>
-		<group id="377" type="span" parent="373" relname="mode-manner"/>
-		<group id="378" type="span" parent="379" relname="span"/>
-		<group id="379" type="span" parent="361" relname="joint-sequence"/>
-		<group id="380" type="multinuc" parent="381" relname="span"/>
-		<group id="381" type="span" parent="382" relname="span"/>
-		<group id="382" type="span" />
+		<group id="267" type="span" parent="268" relname="joint-sequence"/>
+		<group id="268" type="multinuc" parent="269" relname="elaboration-additional"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" parent="258" relname="joint-sequence"/>
+		<group id="271" type="span" parent="298" relname="organization-heading"/>
+		<group id="272" type="span" parent="276" relname="span"/>
+		<group id="273" type="span" parent="274" relname="adversative-antithesis"/>
+		<group id="274" type="multinuc" parent="275" relname="span"/>
+		<group id="275" type="span" parent="272" relname="elaboration-additional"/>
+		<group id="276" type="span" parent="277" relname="span"/>
+		<group id="277" type="span" parent="289" relname="span"/>
+		<group id="278" type="multinuc" parent="281" relname="span"/>
+		<group id="279" type="span" parent="100" relname="elaboration-additional"/>
+		<group id="280" type="span" parent="278" relname="joint-sequence"/>
+		<group id="281" type="span" parent="288" relname="joint-disjunction"/>
+		<group id="282" type="span" parent="283" relname="same-unit"/>
+		<group id="283" type="multinuc" parent="104" relname="elaboration-additional"/>
+		<group id="284" type="span" parent="287" relname="span"/>
+		<group id="285" type="span" parent="288" relname="joint-disjunction"/>
+		<group id="286" type="span" parent="287" relname="causal-cause"/>
+		<group id="287" type="span" parent="285" relname="span"/>
+		<group id="288" type="multinuc" parent="277" relname="elaboration-additional"/>
+		<group id="289" type="span" parent="290" relname="span"/>
+		<group id="290" type="span" parent="298" relname="joint-sequence"/>
+		<group id="291" type="span" parent="296" relname="organization-preparation"/>
+		<group id="292" type="span" parent="294" relname="causal-cause"/>
+		<group id="293" type="span" parent="114" relname="purpose-goal"/>
+		<group id="294" type="span" parent="296" relname="span"/>
+		<group id="295" type="multinuc" parent="115" relname="purpose-attribute"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="298" relname="joint-sequence"/>
+		<group id="298" type="multinuc" parent="325" relname="span"/>
+		<group id="299" type="span" parent="310" relname="span"/>
+		<group id="300" type="multinuc" parent="299" relname="causal-cause"/>
+		<group id="301" type="span" parent="302" relname="same-unit"/>
+		<group id="302" type="multinuc" parent="300" relname="joint-list"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="311" relname="joint-other"/>
+		<group id="305" type="span" parent="306" relname="same-unit"/>
+		<group id="306" type="multinuc" parent="307" relname="joint-list"/>
+		<group id="307" type="multinuc" parent="308" relname="span"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="311" relname="joint-other"/>
+		<group id="310" type="span" parent="312" relname="span"/>
+		<group id="311" type="multinuc" parent="310" relname="elaboration-additional"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="298" relname="joint-sequence"/>
+		<group id="314" type="span" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="323" relname="joint-list"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="319" relname="contingency-condition"/>
+		<group id="319" type="multinuc" parent="321" relname="span"/>
+		<group id="320" type="span" parent="322" relname="span"/>
+		<group id="321" type="span" parent="320" relname="context-circumstance"/>
+		<group id="322" type="span" parent="323" relname="joint-list"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="298" relname="joint-sequence"/>
+		<group id="325" type="span" parent="365" relname="joint-list"/>
+		<group id="326" type="span" parent="347" relname="organization-heading"/>
+		<group id="327" type="span" parent="368" relname="organization-heading"/>
+		<group id="328" type="span" parent="329" relname="same-unit"/>
+		<group id="329" type="multinuc" parent="330" relname="span"/>
+		<group id="330" type="span" parent="368" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="333" relname="context-background"/>
+		<group id="333" type="span" parent="337" relname="span"/>
+		<group id="334" type="span" parent="335" relname="same-unit"/>
+		<group id="335" type="multinuc" parent="338" relname="adversative-contrast"/>
+		<group id="336" type="multinuc" parent="339" relname="span"/>
+		<group id="337" type="span" parent="338" relname="causal-cause"/>
+		<group id="338" type="multinuc" parent="344" relname="span"/>
+		<group id="339" type="span" parent="343" relname="joint-other"/>
+		<group id="340" type="span" parent="342" relname="restatement-repetition"/>
+		<group id="341" type="span" parent="342" relname="restatement-repetition"/>
+		<group id="342" type="multinuc" parent="343" relname="joint-other"/>
+		<group id="343" type="multinuc" parent="330" relname="elaboration-additional"/>
+		<group id="344" type="span" parent="343" relname="joint-other"/>
+		<group id="345" type="multinuc" parent="346" relname="span"/>
+		<group id="346" type="span" parent="354" relname="span"/>
+		<group id="347" type="multinuc" parent="348" relname="span"/>
+		<group id="348" type="span" parent="365" relname="joint-list"/>
+		<group id="349" type="span" parent="356" relname="organization-preparation"/>
+		<group id="350" type="span" parent="352" relname="causal-cause"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="352" type="span" parent="355" relname="span"/>
+		<group id="353" type="multinuc" parent="355" relname="mode-manner"/>
+		<group id="354" type="span" parent="347" relname="joint-sequence"/>
+		<group id="355" type="span" parent="356" relname="span"/>
+		<group id="356" type="span" parent="357" relname="span"/>
+		<group id="357" type="span" parent="347" relname="joint-sequence"/>
+		<group id="358" type="span" parent="361" relname="span"/>
+		<group id="359" type="multinuc" parent="362" relname="span"/>
+		<group id="360" type="span" parent="359" relname="joint-sequence"/>
+		<group id="361" type="span" parent="363" relname="span"/>
+		<group id="362" type="span" parent="358" relname="mode-manner"/>
+		<group id="363" type="span" parent="364" relname="span"/>
+		<group id="364" type="span" parent="347" relname="joint-sequence"/>
+		<group id="365" type="multinuc" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" />
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="347" relname="joint-sequence"/>
+		<group id="370" type="span" parent="335" relname="same-unit"/>
 	</body>
 </rst>

@@ -37,425 +37,408 @@
 	</header>
 	<body>
 		<segment id="1" parent="2" relname="organization-preparation">狂欢 与 凝视 ： // Orgy and stare:</segment>
-		<segment id="2" parent="415" relname="span">颜值 消费 与 田园 回归 // Beauty Consumption and Pastoral Return</segment>
-		<segment id="3" parent="415" relname="explanation-evidence">—— 以 “ 藏族 小伙 丁真 爆红 ” 事件 为 例 // ——Take the incident of "Tibetan guy Ding Zhen's popularity" as an example</segment>
-		<segment id="4" parent="228" relname="organization-heading">1. 事件 背景 // 1. Event Background</segment>
-		<segment id="5" parent="418" relname="same-unit">2020年 11月 ， 摄影师 胡波 在 抖音 上 发布 了 一 条 // In November 2020, photographer Hu Bo posted a post on Douyin</segment>
+		<segment id="2" parent="403" relname="span">颜值 消费 与 田园 回归 // Beauty Consumption and Pastoral Return</segment>
+		<segment id="3" parent="403" relname="explanation-evidence">—— 以 “ 藏族 小伙 丁真 爆红 ” 事件 为 例 // ——Take the incident of "Tibetan guy Ding Zhen's popularity" as an example</segment>
+		<segment id="4" parent="219" relname="organization-heading">1. 事件 背景 // 1. Event Background</segment>
+		<segment id="5" parent="406" relname="same-unit">2020年 11月 ， 摄影师 胡波 在 抖音 上 发布 了 一 条 // In November 2020, photographer Hu Bo posted a post on Douyin</segment>
 		<segment id="6" parent="7" relname="elaboration-attribute">不 到 10 秒 的 // less than 10 seconds</segment>
-		<segment id="7" parent="417" relname="span">短 视频 ， // short video,</segment>
-		<segment id="8" parent="219" relname="span">视频 中 的 藏族 小伙 丁真 凭借 原生态 的 肤色 、 纯真 的 笑容 、 清澈 的 眼神 ， 成 了 网友 心 中 的 “ 甜野 男孩 ” 。 // The Tibetan guy Ding Zhen in the video has become the "sweet boy" in the hearts of netizens with his original skin color, innocent smile and clear eyes.</segment>
-		<segment id="9" parent="223" relname="context-circumstance">尤其 在 宣传片 《 丁真 的 世界 》 发布 后 ， // Especially after the release of the promotional film " Ding Zhen 's World " ,</segment>
+		<segment id="7" parent="405" relname="span">短 视频 ， // short video,</segment>
+		<segment id="8" parent="211" relname="span">视频 中 的 藏族 小伙 丁真 凭借 原生态 的 肤色 、 纯真 的 笑容 、 清澈 的 眼神 ， 成 了 网友 心 中 的 “ 甜野 男孩 ” 。 // The Tibetan guy Ding Zhen in the video has become the "sweet boy" in the hearts of netizens with his original skin color, innocent smile and clear eyes.</segment>
+		<segment id="9" parent="215" relname="context-circumstance">尤其 在 宣传片 《 丁真 的 世界 》 发布 后 ， // Especially after the release of the promotional film " Ding Zhen 's World " ,</segment>
 		<segment id="10" parent="11" relname="elaboration-attribute">围绕 丁真 的 // around Ding Zhen</segment>
-		<segment id="11" parent="220" relname="span">各 种 话题 迅速 占据 各 大 社交 平台 ， // Various topics quickly occupy major social platforms ,</segment>
-		<segment id="12" parent="222" relname="same-unit">理塘 也 成为 // Litang also became</segment>
+		<segment id="11" parent="212" relname="span">各 种 话题 迅速 占据 各 大 社交 平台 ， // Various topics quickly occupy major social platforms ,</segment>
+		<segment id="12" parent="214" relname="same-unit">理塘 也 成为 // Litang also became</segment>
 		<segment id="13" parent="14" relname="elaboration-attribute">当时 网友 讨论度 最 高 的 // It was the most discussed by netizens at that time .</segment>
-		<segment id="14" parent="221" relname="span">旅游 目的地 之一 。 // one of the tourist destinations.</segment>
-		<segment id="15" parent="16" relname="context-circumstance">在 新 媒体 语境 下 ， // In the context of new media ,</segment>
-		<segment id="16" parent="225" relname="span">主流 媒体 积极 进行 流量 引导 ， // Mainstream media actively conduct traffic guidance ,</segment>
-		<segment id="17" parent="420" relname="same-unit">成功 // success</segment>
-		<segment id="18" parent="19" relname="mode-means">用 一 个 “ 网红 事件 ” // with an "influencer event"</segment>
-		<segment id="19" parent="419" relname="span">赋能 旅游 扶贫 ， // Empowering tourism for poverty alleviation,</segment>
-		<segment id="20" parent="226" relname="joint-list">为 贫困 地区 的 扶贫 工作 提供 了 新 的 思路 。 // It provides new ideas for poverty alleviation in poor areas .</segment>
-		<segment id="21" parent="251" relname="organization-heading">2. “ 狂欢 理论 ” 概述 // 2. An Overview of the "Orgy Theory"</segment>
-		<segment id="22" parent="231" relname="joint-list">狂欢 理论 ， 最早 由 苏联 思想家 巴赫金 提出 ， // The carnival theory was first proposed by the Soviet thinker Bakhtin.</segment>
-		<segment id="23" parent="232" relname="span">其 核心 是 “ 狂欢化 ” ， // Its core is "carnivalization",</segment>
-		<segment id="24" parent="234" relname="same-unit">即 人们 在 // that people are</segment>
-		<segment id="25" parent="26" relname="elaboration-attribute">与 权力 、 官方 等 第一 世界 相对 的 // Opposite to the first world of power , officialdom , etc .</segment>
-		<segment id="26" parent="233" relname="span">第二 世界 中 平等 且 尽情 的 交往 、 亲昵 ， // Equal and indulgent communication and intimacy in the second world,</segment>
-		<segment id="27" parent="233" relname="restatement-partial">没有 任何 界限 和 束缚 。 // There are no boundaries and constraints.</segment>
-		<segment id="28" parent="236" relname="attribution-positive">这 一 理论 认为 ， // This theory holds that</segment>
-		<segment id="29" parent="30" relname="causal-cause">人们 在 狂欢 世界 中 一定 程度 地 颠覆 了 现有 的 等级 和 秩序 ， // People have subverted the existing hierarchy and order to a certain extent in the carnival world ,</segment>
-		<segment id="30" parent="236" relname="span">暂时性 地 达到 了 乌托邦式 的 理想 社会 。 // A utopian ideal society is temporarily reached .</segment>
-		<segment id="31" parent="249" relname="organization-preparation">狂欢 理论 主要 包含 四 大 意义 。 // The carnival theory mainly includes four major meanings .</segment>
-		<segment id="32" parent="238" relname="span">首先 ， 狂欢 理论 尊重 人 自身 的 欲望 ， // First , the carnival theory respects one's own desires ,</segment>
-		<segment id="33" parent="32" relname="causal-result">使得 大众 文化 更 多 地 获得 大众 支持 ； // Make popular culture more popular support;</segment>
-		<segment id="34" parent="241" relname="organization-preparation">其次 ， // Second,</segment>
-		<segment id="35" parent="239" relname="context-background">对 大众 文化 来说 ， // For popular culture,</segment>
-		<segment id="36" parent="239" relname="joint-list">其 不断 冲击 着 贵族 文化 、 官方 文化 ， // It has continuously impacted the aristocratic culture and official culture.</segment>
-		<segment id="37" parent="239" relname="joint-list">同时 也 吸收 着 大众 文化 、 官方 文化 的 优势 // At the same time , it also absorbs the advantages of popular culture and official culture .</segment>
-		<segment id="38" parent="240" relname="span">从而 获得 新 的 发展 ， // so as to obtain new development ,</segment>
-		<segment id="39" parent="38" relname="elaboration-additional">文化 和 文化 间 的 相互 渗透 ， 蕴含 着 更新 与 交替 的 精神 ； // The interpenetration of cultures and cultures contains the spirit of renewal and alternation;</segment>
-		<segment id="40" parent="243" relname="joint-list">第三 ， 在 狂欢 世界 中 ， 所有 人 平等 地 交往 ， // Third, in the carnival world, all people associate equally,</segment>
-		<segment id="41" parent="243" relname="joint-list">颠覆 原有 秩序 ， // subvert the original order,</segment>
-		<segment id="42" parent="243" relname="evaluation-comment">蕴含 着 批判 和 反抗 的 精神 ； // Contains the spirit of criticism and resistance;</segment>
-		<segment id="43" parent="247" relname="same-unit">第四 ， 狂欢 理论 // Fourth, the orgy theory</segment>
-		<segment id="44" parent="45" relname="mode-means">通过 对 中世纪 的 一切 形而上学 的 东西 进行 解构 、 // By deconstructing all the metaphysical things of the Middle Ages ,</segment>
-		<segment id="45" parent="245" relname="span">主张 确立 民间 狂欢 文化 的 对等 地位 ， // Advocates to establish the equal status of folk carnival culture ,</segment>
-		<segment id="46" parent="422" relname="joint-list">具有 解构 精神 。 // Has the spirit of deconstruction .</segment>
-		<segment id="47" parent="411" relname="organization-heading">3. “ 丁真 ” 在 不同 社交 媒体 上 的 内容 呈现 // 3. Content presentation of "Ding Zhen" on different social media</segment>
-		<segment id="48" parent="255" relname="same-unit">2020年 11月 12日 ， 一 // November 12, 2020, a</segment>
-		<segment id="49" parent="50" relname="elaboration-attribute">网名 为 “ 微笑收藏家·波哥 ” 的 // The screen name is "Smile Collector Bogo"</segment>
-		<segment id="50" parent="254" relname="span">网友 发布 了 藏族 小伙 丁真 的 视频 ， // Netizens posted a video of Ding Zhen, a Tibetan guy.</segment>
-		<segment id="51" parent="256" relname="joint-sequence">随后 该 条 视频 一 夜 爆红 。 // The video went viral overnight.</segment>
-		<segment id="52" parent="408" relname="span">在 随后 的 几 天 里 ， 丁真 也 相继 开通 了 抖音 、 微博 、 快手 等 社交 平台 。 // In the following days , Ding Zhen also launched social platforms such as Douyin , Weibo , and Kuaishou .</segment>
-		<segment id="53" parent="52" relname="elaboration-additional">其中 ， 热度 最 高 、 内容 最 具 代表性 的 是 抖音 和 微博 平台 。 // Among them, the most popular and most representative content are Douyin and Weibo platforms.</segment>
-		<segment id="54" parent="265" relname="organization-preparation">( 一 ) 抖音 平台 // (1) Douyin Platform</segment>
-		<segment id="55" parent="257" relname="span">2020年 11月 19日 ， “ 理塘 丁真 ” 在 抖音 平台 首 次 发声 ， // On November 19, 2020, "Litang Dingzhen" made his first voice on the Douyin platform.</segment>
-		<segment id="56" parent="55" relname="purpose-goal">介绍 了 自己 和 他 的 小马 珍珠 ， // Introduced himself and his pony pearl,</segment>
-		<segment id="57" parent="257" relname="evaluation-comment">260.9万 的 播放量 成为 了 丁真 抖音 中 播放量 最 高 的 视频 。 // With 2.609 million views, it became the most-played video on Ding Zhen's Douyin.</segment>
-		<segment id="58" parent="59" relname="elaboration-attribute">“ 理塘 丁真 ” 更新 的 // Updated by "Litang Ding Zhen"</segment>
-		<segment id="59" parent="258" relname="span">内容 主要 分为 两 大 类 ： // The content is mainly divided into two categories:</segment>
-		<segment id="60" parent="259" relname="span">第一 ， 是 丁真 自己 的 生活 日常 ， // The first is Ding Zhen's own daily life,</segment>
-		<segment id="61" parent="60" relname="elaboration-additional">这 类 视频 占 超过 总 视频 的 一半 ； // This type of video accounts for more than half of the total video;</segment>
-		<segment id="62" parent="260" relname="joint-list">第二 ， 是 宣传 介绍 自己 的 家乡 理塘县 。 // The second is to publicize and introduce his hometown, Litang County.</segment>
-		<segment id="63" parent="260" relname="joint-list">除此之外 ， 还 会 更新 一些 节日 祝福 、 公益 活动 、 作品 宣传 等 内容 。 // In addition , will also update some holiday blessings , public welfare activities , works publicity and other content .</segment>
-		<segment id="64" parent="424" relname="same-unit">值得 注意 的 是 ， 抖音 “ 理塘 丁真 ” 账号 下 的 106 条 视频 // It is worth noting that there are 106 videos under the Douyin account "Litang Dingzhen"</segment>
-		<segment id="65" parent="66" relname="elaboration-attribute">在 拍摄 、 剪辑 上 体现 出 的 // Reflected in filming and editing</segment>
-		<segment id="66" parent="423" relname="span">水平 并不 高 ， // The level is not high,</segment>
-		<segment id="67" parent="262" relname="span">但 仍然 收获 了 784.2万 关注 和 6173万 次 点赞 。 // But still got 7.842 million followers and 61.73 million likes.</segment>
-		<segment id="68" parent="289" relname="organization-heading">( 二 ) 微博 平台 // (2) Weibo Platform</segment>
-		<segment id="69" parent="268" relname="joint-sequence">“ 理塘 丁真 ” 于 2020年 11月 18日 注册 ， // "Litang Ding Zhen" was registered on November 18, 2020,</segment>
-		<segment id="70" parent="267" relname="joint-list">目前 发布 微博 134 条 、 // Currently 134 microblogs have been published ,</segment>
-		<segment id="71" parent="267" relname="joint-list">粉丝 192万 ， // 1.92 million fans,</segment>
-		<segment id="72" parent="275" relname="adversative-concession">虽然 “ 理塘 丁真 ” 在 微博 平台 的 更新 内容 同样 是 生活 日常 、 宣传 理塘 和 其他 内容 这 三 大 类 ， // Although the updated content of "Litang Dingzhen" on the Weibo platform is also divided into three categories: daily life, publicity of Litang and other content,</segment>
-		<segment id="73" parent="269" relname="adversative-contrast">但 更新 更 多 的 是 图文 内容 // But the update is more graphic content</segment>
-		<segment id="74" parent="269" relname="adversative-contrast">而 非 视频 内容 ， // rather than video content,</segment>
-		<segment id="75" parent="274" relname="same-unit">包括 // include</segment>
-		<segment id="76" parent="271" relname="same-unit">丁真 // Ding Zhen</segment>
-		<segment id="77" parent="78" relname="context-circumstance">在 旅游 或者 宣传 家乡 时 // When traveling or promoting hometown</segment>
-		<segment id="78" parent="425" relname="span">拍摄 的 // taking pictures</segment>
-		<segment id="79" parent="273" relname="span">写真照 。 // photo shoot.</segment>
-		<segment id="80" parent="276" relname="joint-list">点赞量 一直 保持 在 5万 至 10万 之间 ， // The number of likes has remained between 50,000 and 100,000.</segment>
-		<segment id="81" parent="276" relname="joint-list">评论量 保持 在 5千 至 1万 之间 ， // The number of comments remains between 5,000 and 10,000.</segment>
-		<segment id="82" parent="277" relname="span">热度 较 高 。 // The heat is high.</segment>
-		<segment id="83" parent="280" relname="organization-preparation">除了 丁真 及 其 团队 自己 的 渠道 外 ， // In addition to Ding Zhen and his team's own channels,</segment>
-		<segment id="84" parent="280" relname="same-unit">主流 媒体 也 是 // Mainstream media too</segment>
-		<segment id="85" parent="86" relname="elaboration-attribute">丁真 爆火 的 // Ding Zhen is hot</segment>
-		<segment id="86" parent="279" relname="span">一 大 推手 。 // A big pusher.</segment>
-		<segment id="87" parent="88" relname="causal-cause">从 央视 新闻 、 人民 日报 等 中央级 主流 媒体 ， 到 下 到 四川 广播 电视台 等 地方 媒体 ， 都 对 丁真 有 及时 、 紧密 的 报道 ， // From central-level mainstream media such as CCTV News and People's Daily, to local media such as Sichuan Radio and TV Station, they all have timely and close reports on Ding Zhen.</segment>
-		<segment id="88" parent="282" relname="span">让 受众 对 丁真 的 了解 更加 立体化 、 形象化 。 // Let the audience's understanding of Ding Zhen be more three-dimensional and visualized.</segment>
-		<segment id="89" parent="284" relname="causal-cause">在 主流 媒体 和 自媒体 的 共同 推动 下 ， // Under the joint promotion of mainstream media and self-media ,</segment>
-		<segment id="90" parent="284" relname="same-unit">丁真 形成 了 // Ding Zhen formed</segment>
-		<segment id="91" parent="92" relname="purpose-attribute">引爆 互联网 狂欢 的 // Detonate the Internet Orgy</segment>
-		<segment id="92" parent="283" relname="span">现实 基础 。 // Reality basis.</segment>
-		<segment id="93" parent="406" relname="organization-heading">4. “ 狂欢 ” 与 “ 凝视 ” 视角 下 的 “ 丁真 爆红 ” // 4. "Ding Zhen's popularity" from the perspective of "Carnival" and "Gaze"</segment>
-		<segment id="94" parent="291" relname="span">IP ， 是 Intellectual Property 的 缩写 ， // IP, is the abbreviation of Intellectual Property,</segment>
-		<segment id="95" parent="94" relname="restatement-partial">是 指 知识 产权 。 // means intellectual property.</segment>
-		<segment id="96" parent="291" relname="elaboration-additional">这里 的 知识 产权 包括 内容 IP 和 人物 IP 。 // The intellectual property here includes content IP and character IP .</segment>
-		<segment id="97" parent="294" relname="same-unit">网红 IP 即 // Internet celebrity IP is</segment>
-		<segment id="98" parent="99" relname="elaboration-attribute">在 网络 上 有 较 多 受众 追捧 的 // More popular on the Internet</segment>
-		<segment id="99" parent="293" relname="span">人物 或 内容 。 // character or content.</segment>
-		<segment id="100" parent="295" relname="joint-list">在 这 次 事件 中 ， 主流 媒体 抓住 丁真 走红 这 一 契机 ， // In this incident , the mainstream media seized the opportunity of Ding Zhen's popularity,</segment>
-		<segment id="101" parent="295" relname="joint-list">为 当地 政府 的 扶贫 工作 赋能 添力 ， // To empower the local government's poverty alleviation work,</segment>
-		<segment id="102" parent="295" relname="evaluation-comment">就 是 对 人物 IP 价值 的 深度 挖掘 。 // It is a deep excavation of the value of character IP.</segment>
-		<segment id="103" parent="351" relname="span">( 一 ) 狂欢 // (1) Carnival</segment>
-		<segment id="104" parent="103" relname="elaboration-additional">—— 田园 回归 ， 景观 打造 // —— Pastoral return, landscape creation</segment>
-		<segment id="105" parent="298" relname="context-circumstance">在 丁真 走红 后 ， // After Ding Zhen became popular,</segment>
-		<segment id="106" parent="298" relname="joint-list">主流 媒体 积极 参与 报道 ， // Mainstream media actively participated in reporting ,</segment>
-		<segment id="107" parent="298" relname="joint-list">把握 了 事件 的 话语权 ， // Grasp the right to speak in the event,</segment>
-		<segment id="108" parent="298" relname="joint-list">发挥 了 议程 设置 的 作用 。 // Played an agenda setting role .</segment>
-		<segment id="109" parent="345" relname="organization-preparation">主要 有 两 方面 ： // There are two main aspects:</segment>
-		<segment id="110" parent="111" relname="adversative-concession">一 方面 ， 丁真 虽然 走红于 独特 纯真 的 外在 形象 ， // On the one hand, although Ding Zhen is famous for his unique and innocent external image,</segment>
-		<segment id="111" parent="299" relname="span">但 主流 媒体 对 他 进行 了 更加 全面 、 真实 的 介绍 。 // But the mainstream media gave him a more comprehensive and truthful introduction .</segment>
-		<segment id="112" parent="113" relname="attribution-positive">相较于 一些 自媒体 的 内容 // Compared to some self-media content</segment>
-		<segment id="113" parent="300" relname="span">在 讨论 他 的 外貌 和 颜值 ， // While discussing his appearance and looks,</segment>
-		<segment id="114" parent="301" relname="span">主流 媒体 则 给 我们 带来 了 丁真 更 立体 、 丰富 的 形象 ， // The mainstream media brought us a more three-dimensional and richer image of Ding Zhen.</segment>
-		<segment id="115" parent="114" relname="elaboration-additional">包括 他 的 家庭 ， 生活 背景 、 经历 以及 他 的 小马 珍珠 等 。 // Including his family, life background, experiences and his pony pearl etc.</segment>
-		<segment id="116" parent="303" relname="same-unit">还 有 一些 // There's some left</segment>
-		<segment id="117" parent="118" relname="elaboration-attribute">具有 大局 意识 的 // big-picture minded</segment>
-		<segment id="118" parent="302" relname="span">主流 媒体 则 站在 全局 高度 上 ， // The mainstream media stands on the global level ,</segment>
-		<segment id="119" parent="342" relname="joint-list">报道 角度 在于 介绍 丁真 的 家乡 理塘 。 // The reporting angle is to introduce Ding Zhen's hometown of Litang .</segment>
-		<segment id="120" parent="304" relname="joint-list">理塘 是 一 个 深度 贫困 县 ， // Litang is a deeply impoverished county.</segment>
-		<segment id="121" parent="304" relname="joint-list">长久 以来 进行 着 艰难 的 扶贫 工作 。 // Difficult poverty alleviation work has been carried out for a long time .</segment>
-		<segment id="122" parent="306" relname="same-unit">与此同时 ， 在 很多 人 眼中 ， 理塘 也 是 一 个 // At the same time , in the eyes of many people , Litang is also a</segment>
-		<segment id="123" parent="124" relname="purpose-attribute">远离 城市 喧嚣 的 // away from the hustle and bustle of the city</segment>
-		<segment id="124" parent="305" relname="span">精神 家园 。 // Matt .</segment>
-		<segment id="125" parent="311" relname="joint-list">主流 媒体 以 此 为 契机 ， // The mainstream media took this as an opportunity to</segment>
-		<segment id="126" parent="311" relname="joint-list">融合 理塘县 古老 的 元素 ， // Integrating the ancient elements of Litang County ,</segment>
-		<segment id="127" parent="309" relname="same-unit">给 受众 提供 了 // provided to the audience</segment>
-		<segment id="128" parent="129" relname="elaboration-attribute">他们 所 需要 的 // what they need</segment>
-		<segment id="129" parent="308" relname="span">一 种 “ 额外 的 精神 家园 ” ， // an "additional spiritual home",</segment>
-		<segment id="130" parent="310" relname="joint-list">对 当地 旅游业 的 发展 起到 了 重要 作用 ， // It has played an important role in the development of local tourism.</segment>
-		<segment id="131" parent="310" relname="joint-list">推动 了 “ 丁真 爆红 ” 事件 的 价值 升华 // Promoted the sublimation of the value of "Ding Zhen's popularity" event</segment>
-		<segment id="132" parent="313" relname="explanation-evidence">[ 1 ] 。 // [ 1 ] .</segment>
-		<segment id="133" parent="316" relname="same-unit">主流 媒体 在 // mainstream media in</segment>
-		<segment id="134" parent="135" relname="elaboration-attribute">积极 报道 热点 事件 的 // Actively report hot events</segment>
-		<segment id="135" parent="315" relname="span">同时 ， // at the same time ,</segment>
-		<segment id="136" parent="317" relname="span">也 践行 着 自己 的 原有 优势 和 责任 。 // They also practice their original advantages and responsibilities .</segment>
-		<segment id="137" parent="318" relname="joint-list">例如 ， 央视 发表 微博 话题 #关注丁真背后我们关注的是什么# ， // For example, CCTV published the Weibo topic #focusing on what we are concerned about behind Ding Zhen# ,</segment>
-		<segment id="138" parent="318" relname="joint-list">同时 发表 评论 文章 ， // Also post a review article ,</segment>
-		<segment id="139" parent="319" relname="joint-list">希望 大家 能够 把 更 多 的 目光 放到 丁真 背后 的 家乡 上 ， // I hope everyone can pay more attention to the hometown behind Ding Zhen.</segment>
-		<segment id="140" parent="319" relname="joint-list">关注 国家 的 扶贫 脱坚 工作 。 // Pay attention to the country's poverty alleviation work.</segment>
-		<segment id="141" parent="321" relname="joint-list">主流 媒体 多 形式 多 平台 联动 传播 ， // Multi-form and multi-platform linkage communication of mainstream media,</segment>
-		<segment id="142" parent="323" relname="span">配合 当地 政府 // Cooperate with local government</segment>
-		<segment id="143" parent="142" relname="purpose-goal">打出 了 一 套 “ 组合 拳 ” ， // hit a set of "combination punches",</segment>
-		<segment id="144" parent="322" relname="joint-list">使 丁真 成为 了 理塘 人文 景观 中 的 一 个 符号 和 标签 ， // Making Ding Zhen a symbol and label in the cultural landscape of Litang ,</segment>
-		<segment id="145" parent="322" relname="joint-list">为 理塘 带去 了 更 大 的 流量 。 // It brought more traffic to Litang .</segment>
-		<segment id="146" parent="325" relname="mode-means">此外 ， 主流 媒体 充分 利用 自身 资源 优势 ， // In addition , the mainstream media make full use of their own resource advantages ,</segment>
-		<segment id="147" parent="325" relname="joint-list">不仅 搜集 到 了 丁真 本人 相关 的 故事 ， // Not only collected stories about Ding Zhen himself ,</segment>
-		<segment id="148" parent="325" relname="joint-list">还 挖掘 出 了 事件 背后 深 层次 的 扶贫 故事 。 // It also excavated the deep-seated poverty alleviation story behind the incident.</segment>
-		<segment id="149" parent="326" relname="evaluation-comment">前期 扎实 的 采访 、 调查 则 为 后续 的 议程 设置 做 了 铺垫 // The solid interviews and investigations in the early stage have paved the way for the subsequent agenda setting .</segment>
-		<segment id="150" parent="327" relname="explanation-evidence">[ 2 ] 。 // [ 2 ] .</segment>
-		<segment id="151" parent="331" relname="same-unit">例如 ， 12月 5日 新周刊 文章 《 丁真 背后 ， 一 个 贫困 县 低调 的 努力 》 ， 让 受众 看到 了 // For example, the December 5th New Weekly article "Behind Ding Zhen, a low-key effort in a poor county" made the audience see</segment>
-		<segment id="152" parent="153" relname="context-circumstance">在 艰难 的 条件 下 ， // under difficult conditions,</segment>
-		<segment id="153" parent="329" relname="span">我国 扶贫 工作 给 理塘 当地 带来 的 // What my country's poverty alleviation work has brought to the local area of ​​Litang</segment>
-		<segment id="154" parent="330" relname="span">改变 。 // Change .</segment>
-		<segment id="155" parent="333" relname="same-unit">这 篇 报道 具有 // This report has</segment>
-		<segment id="156" parent="157" relname="purpose-attribute">鼓舞 人心 的 // Encouraging</segment>
-		<segment id="157" parent="332" relname="span">作用 ， // role,</segment>
-		<segment id="158" parent="334" relname="joint-list">让 人们 看到 了 我国 扶贫 工作 开展 的 决心 、 努力 以及 成果 ， // Let people see the determination, efforts and achievements of my country's poverty alleviation work,</segment>
-		<segment id="159" parent="334" relname="joint-list">对 扶贫 工作 更 有 信心 ， // have more confidence in poverty alleviation work,</segment>
-		<segment id="160" parent="334" relname="joint-list">容易 形成 好 的 舆论 ， // It is easy to form a good public opinion ,</segment>
-		<segment id="161" parent="334" relname="joint-list">带动 社会 上下 同心 协力 支持 扶贫 事业 // Drive the society to work together to support the cause of poverty alleviation</segment>
-		<segment id="162" parent="336" relname="explanation-evidence">[ 3 ] 。 // [3].</segment>
-		<segment id="163" parent="353" relname="span">( 二 ) 凝视 // (2) stare</segment>
-		<segment id="164" parent="163" relname="elaboration-additional">—— 身体 消费 、 视觉 至上 // —— Body consumption , visual supremacy</segment>
-		<segment id="165" parent="354" relname="context-circumstance">伴随 着 高度 媒介化 社会 的 到来 ， // With the advent of a highly mediated society ,</segment>
-		<segment id="166" parent="354" relname="joint-list">身体 的 审美 价值 脱离 表现 形态 的 桎梏 ， // The aesthetic value of the body is freed from the shackles of expressive form ,</segment>
-		<segment id="167" parent="354" relname="joint-list">被 普罗 大众 赋予 符号 意义 ， // Endowed with symbolic meanings by the general public,</segment>
-		<segment id="168" parent="355" relname="span">“ 身体 ” 作为 一 种 消费 符号 也 具有 了 交换 价值 。 // "Body" also has exchange value as a consumption symbol.</segment>
-		<segment id="169" parent="358" relname="same-unit">如今 ， 网络 上 充斥 着 // Today , the Internet is full of</segment>
-		<segment id="170" parent="171" relname="elaboration-attribute">被 美颜 和 化妆品 包装 的 // Packaged by Beauty and Cosmetics</segment>
-		<segment id="171" parent="357" relname="span">“ 小鲜肉 ” ， // "Little Fresh Meat",</segment>
-		<segment id="172" parent="173" relname="elaboration-attribute">这些 大同 小异 的 身体 所 体现 的 // What these similar bodies embody</segment>
-		<segment id="173" parent="359" relname="span">审美 价值 也 日趋 统一 。 // Aesthetic values ​​are also increasingly unified .</segment>
-		<segment id="174" parent="361" relname="joint-list">此时 ， 丁真 独特 的 形象 给 了 受众 另 一 种 不同 的 感受 ， // At this time, Ding Zhen's unique image gave the audience another different feeling.</segment>
-		<segment id="175" parent="361" relname="joint-list">这 也 侧面 反映 了 受众 对 单一 审美 的 疲劳 和 对 多样美 的 期待 。 // This also reflects the audience's fatigue of a single aesthetic and their expectation of diverse beauty .</segment>
-		<segment id="176" parent="365" relname="same-unit">短 视频 拥有 // short video owned</segment>
-		<segment id="177" parent="363" relname="joint-list">传播 速度 快 、 // spread fast ,</segment>
-		<segment id="178" parent="363" relname="joint-list">画面 冲击感 强 的 // The picture has a strong sense of impact</segment>
-		<segment id="179" parent="364" relname="span">特点 。 // Features .</segment>
-		<segment id="180" parent="181" relname="mode-means">通过 观察 // By observing</segment>
-		<segment id="181" parent="366" relname="span">可以 发现 ， // It can be found ,</segment>
-		<segment id="182" parent="367" relname="span">主流 媒体 在 微博 、 抖音 、 B站 等 平台 都 积极 运用 了 短 视频 的 形式 // Mainstream media actively use short videos on platforms such as Weibo , Douyin , and Station B .</segment>
-		<segment id="183" parent="182" relname="purpose-goal">进行 报道 ， // to report,</segment>
-		<segment id="184" parent="370" relname="joint-sequence">丁真 的 形象 也 在 短 视频 中 的 形态 一步到位 地 被 描画 出来 ， // Ding Zhen's image is also drawn in the form of the short video step by step.</segment>
-		<segment id="185" parent="369" relname="same-unit">呈现 出 一 个 // showing a</segment>
-		<segment id="186" parent="187" relname="elaboration-attribute">与 传统 小鲜肉 不 一样 的 // Different from traditional small fresh meat</segment>
-		<segment id="187" parent="368" relname="span">“ 身体 ” ， // " Body " ,</segment>
-		<segment id="188" parent="371" relname="joint-list">以 此 迅速 构建 起 大众 心中 丁真 和 他 的 家乡 理塘县 的 形象 ， // In this way , the image of Ding Zhen and his hometown Litang County was quickly built in the public mind .</segment>
-		<segment id="189" parent="371" relname="joint-list">形成 群体性 的 狂欢 现象 ， // Form a group carnival phenomenon ,</segment>
-		<segment id="190" parent="372" relname="span">从而 吸引 受众 // to attract an audience</segment>
-		<segment id="191" parent="190" relname="purpose-goal">到 理塘 参观 游览 // A visit to Litang</segment>
-		<segment id="192" parent="375" relname="explanation-evidence">[ 4 ] 。 // [4].</segment>
-		<segment id="193" parent="377" relname="context-circumstance">因此 ， 在 社会化 传播 的 背景 下 ， // Therefore , in the context of social communication ,</segment>
-		<segment id="194" parent="195" relname="mode-means">地方 应该 善用 短 视频 等 网络 平台 // Localities should make good use of online platforms such as short videos</segment>
-		<segment id="195" parent="377" relname="span">进行 宣传 ， // to advertise,</segment>
-		<segment id="196" parent="387" relname="purpose-goal">吸引 主流 媒体 、 自媒体 、 个人 等 多 主体 的 传播 兴趣 ， // Attract the communication interest of mainstream media, self-media, individuals and other subjects,</segment>
-		<segment id="197" parent="386" relname="explanation-evidence">理塘 文体旅 投资 有限 公司 与 丁真 的 签约 也 正 是 印证 了 这 一 点 。 // The signing of the contract between Litang Culture, Sports and Tourism Investment Co., Ltd. and Ding Zhen also confirms this point .</segment>
-		<segment id="198" parent="389" relname="joint-list">此前 ， 成都 借助 IFS 国际 金融 中心 的 “ 熊猫 屁股 ” 、 // Previously , Chengdu , with the help of the " Panda Butt " of IFS International Financial Center ,</segment>
-		<segment id="199" parent="389" relname="joint-list">重庆 借助 李子坝 地铁站 “ 轻轨 穿楼 ” 、 // Chongqing uses the "light rail through the building" of Liziba subway station,</segment>
-		<segment id="200" parent="389" relname="joint-list">广汉 借助 三星堆 “ 外星人 铜像 ” ， // With the help of Sanxingdui "Alien Bronze Statue", Guanghan</segment>
-		<segment id="201" parent="202" relname="mode-means">通过 图片 、 视频 等 方式 ， // Through pictures, videos, etc.,</segment>
-		<segment id="202" parent="391" relname="span">给予 受众 直观 的 视觉 冲击 ， // Give the audience an intuitive visual impact ,</segment>
-		<segment id="203" parent="390" relname="evaluation-comment">在 国内外 网络 上 爆火 了 一 波 ， // There has been a wave of fire on the Internet at home and abroad.</segment>
-		<segment id="204" parent="392" relname="joint-sequence">促成 当地 地方 形象 的 提升 ， // Promote the promotion of local image ,</segment>
-		<segment id="205" parent="392" relname="joint-sequence">为 后期 的 旅游业 发展 提供 了 坚实 的 基础 。 // It provides a solid foundation for the later development of tourism .</segment>
-		<segment id="206" parent="395" relname="joint-list">因此 ， 地方 政府 也 应该 利用 好 自身 资源 的 独特 之 处 ， // Therefore , local governments should also make good use of the unique features of their own resources ,</segment>
-		<segment id="207" parent="395" relname="joint-list">借助 流量 加持 ， // With the help of traffic,</segment>
-		<segment id="208" parent="396" relname="joint-list">优化 城市 形象 ， // Optimize the city's image,</segment>
-		<segment id="209" parent="396" relname="joint-list">带动 脱贫 或 经济 的 进一步 发展 。 // Drive poverty alleviation or further economic development .</segment>
-		<segment id="210" parent="384" relname="organization-heading">5. 结语 // 5 Conclusion</segment>
-		<segment id="211" parent="382" relname="joint-list">丁真 的 意外 走红 ， 引来 了 新 媒体 时代 网上 网下 的 一 场 视觉 狂欢 。 // Ding Zhen suddenly became popular , which led to a visual carnival online and offline in the new media era .</segment>
-		<segment id="212" parent="382" relname="joint-list">丁真 的 “ 美 ” 满足 了 人们 对于 田园 生活 的 向往 和 想象 ， // Ding Zhen's "beauty" satisfies people's yearning and imagination for rural life.</segment>
-		<segment id="213" parent="379" relname="mode-means">并 通过 消费 主义 浪潮 ， // and through the wave of consumerism,</segment>
-		<segment id="214" parent="379" relname="joint-list">使 丁真 成为 了 独具 特色 的 审美 对象 ， // Make Ding Zhen a unique aesthetic object ,</segment>
-		<segment id="215" parent="379" relname="joint-list">引来 了 互联网 用户 的 “ 凝视 ” 。 // attracted the " stare " of Internet users .</segment>
-		<segment id="216" parent="380" relname="context-circumstance">在 “ 狂欢 ” 与 “ 凝视 ” 的 共同 作用 下 ， // Under the combined effect of "Carnival" and "Gaze",</segment>
-		<segment id="217" parent="380" relname="joint-list">政府 的 及时 引导 ， 使 丁真 获得 了 越来越 多 正向 关注 ， // The timely guidance of the government has enabled Ding Zhen to gain more and more positive attention.</segment>
-		<segment id="218" parent="380" relname="joint-list">也 进一步 推动 了 “ 丁真 爆红 ” 事件 的 价值 升华 。 // It also further promoted the sublimation of the value of the " Ding Zhen explosion " event .</segment>
-		<group id="219" type="span" parent="229" relname="span"/>
-		<group id="220" type="span" parent="223" relname="joint-list"/>
-		<group id="221" type="span" parent="222" relname="same-unit"/>
-		<group id="222" type="multinuc" parent="223" relname="joint-list"/>
-		<group id="223" type="multinuc" parent="224" relname="span"/>
-		<group id="224" type="span" parent="219" relname="elaboration-additional"/>
-		<group id="225" type="span" parent="226" relname="causal-result"/>
-		<group id="226" type="multinuc" parent="227" relname="span"/>
-		<group id="227" type="span" parent="228" relname="span"/>
-		<group id="228" type="span" parent="230" relname="span"/>
-		<group id="229" type="span" parent="227" relname="explanation-evidence"/>
-		<group id="230" type="span" parent="253" relname="joint-other"/>
-		<group id="231" type="multinuc" parent="251" relname="joint-other"/>
-		<group id="232" type="span" parent="231" relname="joint-list"/>
-		<group id="233" type="span" parent="235" relname="span"/>
-		<group id="234" type="multinuc" parent="23" relname="elaboration-additional"/>
-		<group id="235" type="span" parent="234" relname="same-unit"/>
-		<group id="236" type="span" parent="237" relname="span"/>
-		<group id="237" type="span" parent="251" relname="joint-other"/>
-		<group id="238" type="span" parent="249" relname="joint-list"/>
-		<group id="239" type="multinuc" parent="421" relname="span"/>
-		<group id="240" type="span" parent="241" relname="span"/>
-		<group id="241" type="span" parent="242" relname="span"/>
-		<group id="242" type="span" parent="249" relname="joint-list"/>
-		<group id="243" type="multinuc" parent="244" relname="span"/>
-		<group id="244" type="span" parent="249" relname="joint-list"/>
-		<group id="245" type="span" parent="247" relname="same-unit"/>
-		<group id="247" type="multinuc" parent="422" relname="joint-list"/>
-		<group id="249" type="multinuc" parent="250" relname="span"/>
-		<group id="250" type="span" parent="251" relname="joint-other"/>
-		<group id="251" type="multinuc" parent="252" relname="span"/>
-		<group id="252" type="span" parent="253" relname="joint-other"/>
-		<group id="253" type="multinuc" parent="414" relname="span"/>
-		<group id="254" type="span" parent="255" relname="same-unit"/>
-		<group id="255" type="multinuc" parent="256" relname="joint-sequence"/>
-		<group id="256" type="multinuc" parent="408" relname="context-background"/>
-		<group id="257" type="span" parent="264" relname="span"/>
-		<group id="258" type="span" parent="260" relname="organization-preparation"/>
-		<group id="259" type="span" parent="260" relname="joint-list"/>
-		<group id="260" type="multinuc" parent="261" relname="span"/>
-		<group id="261" type="span" parent="263" relname="span"/>
-		<group id="262" type="span" parent="261" relname="evaluation-comment"/>
-		<group id="263" type="span" parent="265" relname="joint-other"/>
-		<group id="264" type="span" parent="265" relname="joint-other"/>
-		<group id="265" type="multinuc" parent="266" relname="span"/>
-		<group id="266" type="span" parent="410" relname="joint-list"/>
-		<group id="267" type="multinuc" parent="268" relname="joint-sequence"/>
-		<group id="268" type="multinuc" parent="278" relname="context-background"/>
-		<group id="269" type="multinuc" parent="275" relname="span"/>
-		<group id="270" type="span" parent="278" relname="span"/>
-		<group id="271" type="multinuc" parent="79" relname="elaboration-attribute"/>
-		<group id="273" type="span" parent="274" relname="same-unit"/>
-		<group id="274" type="multinuc" parent="269" relname="elaboration-additional"/>
-		<group id="275" type="span" parent="270" relname="span"/>
-		<group id="276" type="multinuc" parent="82" relname="explanation-evidence"/>
-		<group id="277" type="span" parent="270" relname="evaluation-comment"/>
-		<group id="278" type="span" parent="288" relname="span"/>
-		<group id="279" type="span" parent="280" relname="same-unit"/>
-		<group id="280" type="multinuc" parent="281" relname="span"/>
-		<group id="281" type="span" parent="286" relname="organization-preparation"/>
-		<group id="282" type="span" parent="286" relname="joint-list"/>
-		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<segment id="14" parent="213" relname="span">旅游 目的地 之一 。 // one of the tourist destinations.</segment>
+		<segment id="15" parent="218" relname="joint-list">在 新 媒体 语境 下 ， 主流 媒体 积极 进行 流量 引导 ， // In the context of new media , mainstream media actively conducts traffic guidance ,</segment>
+		<segment id="16" parent="17" relname="mode-means">成功 用 一 个 “ 网红 事件 ” // Successfully used a "net celebrity event"</segment>
+		<segment id="17" parent="407" relname="span">赋能 旅游 扶贫 ， // Empowering tourism for poverty alleviation,</segment>
+		<segment id="18" parent="218" relname="joint-list">为 贫困 地区 的 扶贫 工作 提供 了 新 的 思路 。 // It provides new ideas for poverty alleviation in poor areas .</segment>
+		<segment id="19" parent="241" relname="organization-heading">2. “ 狂欢 理论 ” 概述 // 2. An Overview of the "Orgy Theory"</segment>
+		<segment id="20" parent="223" relname="joint-list">狂欢 理论 ， 最早 由 苏联 思想家 巴赫金 提出 ， // The carnival theory was first proposed by the Soviet thinker Bakhtin.</segment>
+		<segment id="21" parent="224" relname="span">其 核心 是 “ 狂欢化 ” ， // Its core is "carnivalization",</segment>
+		<segment id="22" parent="414" relname="joint-list">即 人们 在 与 权力 、 官方 等 第一 世界 相对 的 第二 世界 中 平等 且 尽情 的 交往 、 亲昵 ， // That is, people communicate and intimacy equally and heartily in the second world, which is opposite to the first world, such as power and officialdom.</segment>
+		<segment id="23" parent="414" relname="joint-list">没有 任何 界限 和 束缚 。 // There are no boundaries and constraints.</segment>
+		<segment id="24" parent="228" relname="attribution-positive">这 一 理论 认为 ， // This theory holds that</segment>
+		<segment id="25" parent="26" relname="causal-cause">人们 在 狂欢 世界 中 一定 程度 地 颠覆 了 现有 的 等级 和 秩序 ， // People have subverted the existing hierarchy and order to a certain extent in the carnival world ,</segment>
+		<segment id="26" parent="228" relname="span">暂时性 地 达到 了 乌托邦式 的 理想 社会 。 // A utopian ideal society is temporarily reached .</segment>
+		<segment id="27" parent="239" relname="organization-preparation">狂欢 理论 主要 包含 四 大 意义 。 // The carnival theory mainly includes four major meanings .</segment>
+		<segment id="28" parent="239" relname="joint-list">首先 ， 狂欢 理论 尊重 人 自身 的 欲望 ， 使得 大众 文化 更 多 地 获得 大众 支持 ； // First of all , the carnival theory respects people 's own desires , making popular culture more popular ;</segment>
+		<segment id="29" parent="233" relname="organization-preparation">其次 ， // Second,</segment>
+		<segment id="30" parent="231" relname="context-background">对 大众 文化 来说 ， // For popular culture,</segment>
+		<segment id="31" parent="231" relname="joint-list">其 不断 冲击 着 贵族 文化 、 官方 文化 ， // It has continuously impacted the aristocratic culture and official culture.</segment>
+		<segment id="32" parent="231" relname="joint-list">同时 也 吸收 着 大众 文化 、 官方 文化 的 优势 // At the same time , it also absorbs the advantages of popular culture and official culture .</segment>
+		<segment id="33" parent="232" relname="span">从而 获得 新 的 发展 ， // so as to obtain new development ,</segment>
+		<segment id="34" parent="33" relname="elaboration-additional">文化 和 文化 间 的 相互 渗透 ， 蕴含 着 更新 与 交替 的 精神 ； // The interpenetration of cultures and cultures contains the spirit of renewal and alternation;</segment>
+		<segment id="35" parent="235" relname="joint-list">第三 ， 在 狂欢 世界 中 ， 所有 人 平等 地 交往 ， // Third, in the carnival world, all people associate equally,</segment>
+		<segment id="36" parent="235" relname="joint-list">颠覆 原有 秩序 ， // subvert the original order,</segment>
+		<segment id="37" parent="235" relname="evaluation-comment">蕴含 着 批判 和 反抗 的 精神 ； // Contains the spirit of criticism and resistance;</segment>
+		<segment id="38" parent="238" relname="same-unit">第四 ， 狂欢 理论 // Fourth, the orgy theory</segment>
+		<segment id="39" parent="40" relname="mode-means">通过 对 中世纪 的 一切 形而上学 的 东西 进行 解构 、 // By deconstructing all the metaphysical things of the Middle Ages ,</segment>
+		<segment id="40" parent="237" relname="span">主张 确立 民间 狂欢 文化 的 对等 地位 ， // Advocates to establish the equal status of folk carnival culture ,</segment>
+		<segment id="41" parent="410" relname="joint-list">具有 解构 精神 。 // Has the spirit of deconstruction .</segment>
+		<segment id="42" parent="400" relname="organization-heading">3. “ 丁真 ” 在 不同 社交 媒体 上 的 内容 呈现 // 3. Content presentation of "Ding Zhen" on different social media</segment>
+		<segment id="43" parent="245" relname="same-unit">2020年 11月 12日 ， 一 // November 12, 2020, a</segment>
+		<segment id="44" parent="45" relname="elaboration-attribute">网名 为 “ 微笑收藏家·波哥 ” 的 // The screen name is "Smile Collector Bogo"</segment>
+		<segment id="45" parent="244" relname="span">网友 发布 了 藏族 小伙 丁真 的 视频 ， // Netizens posted a video of Ding Zhen, a Tibetan guy.</segment>
+		<segment id="46" parent="246" relname="joint-sequence">随后 该 条 视频 一 夜 爆红 。 // The video went viral overnight.</segment>
+		<segment id="47" parent="397" relname="span">在 随后 的 几 天 里 ， 丁真 也 相继 开通 了 抖音 、 微博 、 快手 等 社交 平台 。 // In the following days , Ding Zhen also launched social platforms such as Douyin , Weibo , and Kuaishou .</segment>
+		<segment id="48" parent="47" relname="elaboration-additional">其中 ， 热度 最 高 、 内容 最 具 代表性 的 是 抖音 和 微博 平台 。 // Among them, the most popular and most representative content are Douyin and Weibo platforms.</segment>
+		<segment id="49" parent="255" relname="organization-preparation">( 一 ) 抖音 平台 // (1) Douyin Platform</segment>
+		<segment id="50" parent="247" relname="span">2020年 11月 19日 ， “ 理塘 丁真 ” 在 抖音 平台 首 次 发声 ， // On November 19, 2020, "Litang Dingzhen" made his first voice on the Douyin platform.</segment>
+		<segment id="51" parent="50" relname="purpose-goal">介绍 了 自己 和 他 的 小马 珍珠 ， // Introduced himself and his pony pearl,</segment>
+		<segment id="52" parent="247" relname="evaluation-comment">260.9万 的 播放量 成为 了 丁真 抖音 中 播放量 最 高 的 视频 。 // With 2.609 million views, it became the most-played video on Ding Zhen's Douyin.</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">“ 理塘 丁真 ” 更新 的 // Updated by "Litang Ding Zhen"</segment>
+		<segment id="54" parent="248" relname="span">内容 主要 分为 两 大 类 ： // The content is mainly divided into two categories:</segment>
+		<segment id="55" parent="249" relname="span">第一 ， 是 丁真 自己 的 生活 日常 ， // The first is Ding Zhen's own daily life,</segment>
+		<segment id="56" parent="55" relname="elaboration-additional">这 类 视频 占 超过 总 视频 的 一半 ； // This type of video accounts for more than half of the total video;</segment>
+		<segment id="57" parent="250" relname="joint-list">第二 ， 是 宣传 介绍 自己 的 家乡 理塘县 。 // The second is to publicize and introduce his hometown, Litang County.</segment>
+		<segment id="58" parent="250" relname="joint-list">除此之外 ， 还 会 更新 一些 节日 祝福 、 公益 活动 、 作品 宣传 等 内容 。 // In addition , will also update some holiday blessings , public welfare activities , works publicity and other content .</segment>
+		<segment id="59" parent="412" relname="same-unit">值得 注意 的 是 ， 抖音 “ 理塘 丁真 ” 账号 下 的 106 条 视频 // It is worth noting that there are 106 videos under the Douyin account "Litang Dingzhen"</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">在 拍摄 、 剪辑 上 体现 出 的 // Reflected in filming and editing</segment>
+		<segment id="61" parent="411" relname="span">水平 并不 高 ， // The level is not high,</segment>
+		<segment id="62" parent="252" relname="span">但 仍然 收获 了 784.2万 关注 和 6173万 次 点赞 。 // But still got 7.842 million followers and 61.73 million likes.</segment>
+		<segment id="63" parent="278" relname="organization-heading">( 二 ) 微博 平台 // (2) Weibo Platform</segment>
+		<segment id="64" parent="258" relname="joint-sequence">“ 理塘 丁真 ” 于 2020年 11月 18日 注册 ， // "Litang Ding Zhen" was registered on November 18, 2020,</segment>
+		<segment id="65" parent="257" relname="joint-list">目前 发布 微博 134 条 、 // Currently 134 microblogs have been published ,</segment>
+		<segment id="66" parent="257" relname="joint-list">粉丝 192万 ， // 1.92 million fans,</segment>
+		<segment id="67" parent="264" relname="adversative-concession">虽然 “ 理塘 丁真 ” 在 微博 平台 的 更新 内容 同样 是 生活 日常 、 宣传 理塘 和 其他 内容 这 三 大 类 ， // Although the updated content of "Litang Dingzhen" on the Weibo platform is also divided into three categories: daily life, publicity of Litang and other content,</segment>
+		<segment id="68" parent="259" relname="adversative-contrast">但 更新 更 多 的 是 图文 内容 // But the update is more graphic content</segment>
+		<segment id="69" parent="259" relname="adversative-contrast">而 非 视频 内容 ， // rather than video content,</segment>
+		<segment id="70" parent="263" relname="same-unit">包括 // include</segment>
+		<segment id="71" parent="261" relname="same-unit">丁真 // Ding Zhen</segment>
+		<segment id="72" parent="73" relname="context-circumstance">在 旅游 或者 宣传 家乡 时 // When traveling or promoting hometown</segment>
+		<segment id="73" parent="413" relname="span">拍摄 的 // taking pictures</segment>
+		<segment id="74" parent="262" relname="span">写真照 。 // photo shoot.</segment>
+		<segment id="75" parent="265" relname="joint-list">点赞量 一直 保持 在 5万 至 10万 之间 ， // The number of likes has remained between 50,000 and 100,000.</segment>
+		<segment id="76" parent="265" relname="joint-list">评论量 保持 在 5千 至 1万 之间 ， // The number of comments remains between 5,000 and 10,000.</segment>
+		<segment id="77" parent="266" relname="span">热度 较 高 。 // The heat is high.</segment>
+		<segment id="78" parent="269" relname="organization-preparation">除了 丁真 及 其 团队 自己 的 渠道 外 ， // In addition to Ding Zhen and his team's own channels,</segment>
+		<segment id="79" parent="269" relname="same-unit">主流 媒体 也 是 // Mainstream media too</segment>
+		<segment id="80" parent="81" relname="elaboration-attribute">丁真 爆火 的 // Ding Zhen is hot</segment>
+		<segment id="81" parent="268" relname="span">一 大 推手 。 // A big pusher.</segment>
+		<segment id="82" parent="83" relname="causal-cause">从 央视 新闻 、 人民 日报 等 中央级 主流 媒体 ， 到 下 到 四川 广播 电视台 等 地方 媒体 ， 都 对 丁真 有 及时 、 紧密 的 报道 ， // From central-level mainstream media such as CCTV News and People's Daily, to local media such as Sichuan Radio and TV Station, they all have timely and close reports on Ding Zhen.</segment>
+		<segment id="83" parent="271" relname="span">让 受众 对 丁真 的 了解 更加 立体化 、 形象化 。 // Let the audience's understanding of Ding Zhen be more three-dimensional and visualized.</segment>
+		<segment id="84" parent="273" relname="causal-cause">在 主流 媒体 和 自媒体 的 共同 推动 下 ， // Under the joint promotion of mainstream media and self-media ,</segment>
+		<segment id="85" parent="273" relname="same-unit">丁真 形成 了 // Ding Zhen formed</segment>
+		<segment id="86" parent="87" relname="purpose-attribute">引爆 互联网 狂欢 的 // Detonate the Internet Orgy</segment>
+		<segment id="87" parent="272" relname="span">现实 基础 。 // Reality basis.</segment>
+		<segment id="88" parent="395" relname="organization-heading">4. “ 狂欢 ” 与 “ 凝视 ” 视角 下 的 “ 丁真 爆红 ” // 4. "Ding Zhen's popularity" from the perspective of "Carnival" and "Gaze"</segment>
+		<segment id="89" parent="280" relname="span">IP ， 是 Intellectual Property 的 缩写 ， // IP, is the abbreviation of Intellectual Property,</segment>
+		<segment id="90" parent="89" relname="restatement-partial">是 指 知识 产权 。 // means intellectual property.</segment>
+		<segment id="91" parent="280" relname="elaboration-additional">这里 的 知识 产权 包括 内容 IP 和 人物 IP 。 // The intellectual property here includes content IP and character IP .</segment>
+		<segment id="92" parent="283" relname="same-unit">网红 IP 即 // Internet celebrity IP is</segment>
+		<segment id="93" parent="94" relname="elaboration-attribute">在 网络 上 有 较 多 受众 追捧 的 // More popular on the Internet</segment>
+		<segment id="94" parent="282" relname="span">人物 或 内容 。 // character or content.</segment>
+		<segment id="95" parent="284" relname="joint-list">在 这 次 事件 中 ， 主流 媒体 抓住 丁真 走红 这 一 契机 ， // In this incident , the mainstream media seized the opportunity of Ding Zhen's popularity,</segment>
+		<segment id="96" parent="284" relname="joint-list">为 当地 政府 的 扶贫 工作 赋能 添力 ， // To empower the local government's poverty alleviation work,</segment>
+		<segment id="97" parent="284" relname="evaluation-comment">就 是 对 人物 IP 价值 的 深度 挖掘 。 // It is a deep excavation of the value of character IP.</segment>
+		<segment id="98" parent="340" relname="span">( 一 ) 狂欢 // (1) Carnival</segment>
+		<segment id="99" parent="98" relname="elaboration-additional">—— 田园 回归 ， 景观 打造 // —— Pastoral return, landscape creation</segment>
+		<segment id="100" parent="287" relname="context-circumstance">在 丁真 走红 后 ， // After Ding Zhen became popular,</segment>
+		<segment id="101" parent="287" relname="joint-list">主流 媒体 积极 参与 报道 ， // Mainstream media actively participated in reporting ,</segment>
+		<segment id="102" parent="287" relname="joint-list">把握 了 事件 的 话语权 ， // Grasp the right to speak in the event,</segment>
+		<segment id="103" parent="287" relname="joint-list">发挥 了 议程 设置 的 作用 。 // Played an agenda setting role .</segment>
+		<segment id="104" parent="334" relname="organization-preparation">主要 有 两 方面 ： // There are two main aspects:</segment>
+		<segment id="105" parent="106" relname="adversative-concession">一 方面 ， 丁真 虽然 走红于 独特 纯真 的 外在 形象 ， // On the one hand, although Ding Zhen is famous for his unique and innocent external image,</segment>
+		<segment id="106" parent="288" relname="span">但 主流 媒体 对 他 进行 了 更加 全面 、 真实 的 介绍 。 // But the mainstream media gave him a more comprehensive and truthful introduction .</segment>
+		<segment id="107" parent="108" relname="attribution-positive">相较于 一些 自媒体 的 内容 // Compared to some self-media content</segment>
+		<segment id="108" parent="289" relname="span">在 讨论 他 的 外貌 和 颜值 ， // While discussing his appearance and looks,</segment>
+		<segment id="109" parent="290" relname="span">主流 媒体 则 给 我们 带来 了 丁真 更 立体 、 丰富 的 形象 ， // The mainstream media brought us a more three-dimensional and richer image of Ding Zhen.</segment>
+		<segment id="110" parent="109" relname="elaboration-additional">包括 他 的 家庭 ， 生活 背景 、 经历 以及 他 的 小马 珍珠 等 。 // Including his family, life background, experiences and his pony pearl etc.</segment>
+		<segment id="111" parent="292" relname="same-unit">还 有 一些 // There's some left</segment>
+		<segment id="112" parent="113" relname="elaboration-attribute">具有 大局 意识 的 // big-picture minded</segment>
+		<segment id="113" parent="291" relname="span">主流 媒体 则 站在 全局 高度 上 ， // The mainstream media stands on the global level ,</segment>
+		<segment id="114" parent="331" relname="joint-list">报道 角度 在于 介绍 丁真 的 家乡 理塘 。 // The reporting angle is to introduce Ding Zhen's hometown of Litang .</segment>
+		<segment id="115" parent="293" relname="joint-list">理塘 是 一 个 深度 贫困 县 ， // Litang is a deeply impoverished county.</segment>
+		<segment id="116" parent="293" relname="joint-list">长久 以来 进行 着 艰难 的 扶贫 工作 。 // Difficult poverty alleviation work has been carried out for a long time .</segment>
+		<segment id="117" parent="295" relname="same-unit">与此同时 ， 在 很多 人 眼中 ， 理塘 也 是 一 个 // At the same time , in the eyes of many people , Litang is also a</segment>
+		<segment id="118" parent="119" relname="purpose-attribute">远离 城市 喧嚣 的 // away from the hustle and bustle of the city</segment>
+		<segment id="119" parent="294" relname="span">精神 家园 。 // Matt .</segment>
+		<segment id="120" parent="300" relname="joint-list">主流 媒体 以 此 为 契机 ， // The mainstream media took this as an opportunity to</segment>
+		<segment id="121" parent="300" relname="joint-list">融合 理塘县 古老 的 元素 ， // Integrating the ancient elements of Litang County ,</segment>
+		<segment id="122" parent="298" relname="same-unit">给 受众 提供 了 // provided to the audience</segment>
+		<segment id="123" parent="124" relname="elaboration-attribute">他们 所 需要 的 // what they need</segment>
+		<segment id="124" parent="297" relname="span">一 种 “ 额外 的 精神 家园 ” ， // an "additional spiritual home",</segment>
+		<segment id="125" parent="299" relname="joint-list">对 当地 旅游业 的 发展 起到 了 重要 作用 ， // It has played an important role in the development of local tourism.</segment>
+		<segment id="126" parent="299" relname="joint-list">推动 了 “ 丁真 爆红 ” 事件 的 价值 升华 // Promoted the sublimation of the value of "Ding Zhen's popularity" event</segment>
+		<segment id="127" parent="302" relname="explanation-evidence">[ 1 ] 。 // [ 1 ] .</segment>
+		<segment id="128" parent="305" relname="same-unit">主流 媒体 在 // mainstream media in</segment>
+		<segment id="129" parent="130" relname="elaboration-attribute">积极 报道 热点 事件 的 // Actively report hot events</segment>
+		<segment id="130" parent="304" relname="span">同时 ， 也 践行 着 自己 的 原有 优势 和 责任 。 // At the same time , they also practice their original advantages and responsibilities .</segment>
+		<segment id="131" parent="307" relname="joint-list">例如 ， 央视 发表 微博 话题 #关注丁真背后我们关注的是什么# ， // For example, CCTV published the Weibo topic #focusing on what we are concerned about behind Ding Zhen# ,</segment>
+		<segment id="132" parent="307" relname="joint-list">同时 发表 评论 文章 ， // Also post a review article ,</segment>
+		<segment id="133" parent="308" relname="joint-list">希望 大家 能够 把 更 多 的 目光 放到 丁真 背后 的 家乡 上 ， // I hope everyone can pay more attention to the hometown behind Ding Zhen.</segment>
+		<segment id="134" parent="308" relname="joint-list">关注 国家 的 扶贫 脱坚 工作 。 // Pay attention to the country's poverty alleviation work.</segment>
+		<segment id="135" parent="310" relname="joint-list">主流 媒体 多 形式 多 平台 联动 传播 ， // Multi-form and multi-platform linkage communication of mainstream media,</segment>
+		<segment id="136" parent="310" relname="joint-list">配合 当地 政府 打出 了 一 套 “ 组合 拳 ” ， // In cooperation with the local government, a set of "combination punches" was launched.</segment>
+		<segment id="137" parent="311" relname="joint-list">使 丁真 成为 了 理塘 人文 景观 中 的 一 个 符号 和 标签 ， // Making Ding Zhen a symbol and label in the cultural landscape of Litang ,</segment>
+		<segment id="138" parent="311" relname="joint-list">为 理塘 带去 了 更 大 的 流量 。 // It brought more traffic to Litang .</segment>
+		<segment id="139" parent="314" relname="mode-means">此外 ， 主流 媒体 充分 利用 自身 资源 优势 ， // In addition , the mainstream media make full use of their own resource advantages ,</segment>
+		<segment id="140" parent="314" relname="joint-list">不仅 搜集 到 了 丁真 本人 相关 的 故事 ， // Not only collected stories about Ding Zhen himself ,</segment>
+		<segment id="141" parent="314" relname="joint-list">还 挖掘 出 了 事件 背后 深 层次 的 扶贫 故事 。 // It also excavated the deep-seated poverty alleviation story behind the incident.</segment>
+		<segment id="142" parent="315" relname="evaluation-comment">前期 扎实 的 采访 、 调查 则 为 后续 的 议程 设置 做 了 铺垫 // The solid interviews and investigations in the early stage have paved the way for the subsequent agenda setting .</segment>
+		<segment id="143" parent="316" relname="explanation-evidence">[ 2 ] 。 // [ 2 ] .</segment>
+		<segment id="144" parent="320" relname="same-unit">例如 ， 12月 5日 新周刊 文章 《 丁真 背后 ， 一 个 贫困 县 低调 的 努力 》 ， 让 受众 看到 了 // For example, the December 5th New Weekly article "Behind Ding Zhen, a low-key effort in a poor county" made the audience see</segment>
+		<segment id="145" parent="146" relname="elaboration-attribute">在 艰难 的 条件 下 ， 我国 扶贫 工作 给 理塘 当地 带来 的 // Under difficult conditions, my country's poverty alleviation work has brought great benefits to the local area of ​​Litang.</segment>
+		<segment id="146" parent="319" relname="span">改变 。 // Change .</segment>
+		<segment id="147" parent="322" relname="same-unit">这 篇 报道 具有 // This report has</segment>
+		<segment id="148" parent="149" relname="purpose-attribute">鼓舞 人心 的 // Encouraging</segment>
+		<segment id="149" parent="321" relname="span">作用 ， // role,</segment>
+		<segment id="150" parent="323" relname="joint-list">让 人们 看到 了 我国 扶贫 工作 开展 的 决心 、 努力 以及 成果 ， // Let people see the determination, efforts and achievements of my country's poverty alleviation work,</segment>
+		<segment id="151" parent="323" relname="joint-list">对 扶贫 工作 更 有 信心 ， // have more confidence in poverty alleviation work,</segment>
+		<segment id="152" parent="323" relname="joint-list">容易 形成 好 的 舆论 ， // It is easy to form a good public opinion ,</segment>
+		<segment id="153" parent="323" relname="joint-list">带动 社会 上下 同心 协力 支持 扶贫 事业 // Drive the society to work together to support the cause of poverty alleviation</segment>
+		<segment id="154" parent="325" relname="explanation-evidence">[ 3 ] 。 // [3].</segment>
+		<segment id="155" parent="342" relname="span">( 二 ) 凝视 // (2) stare</segment>
+		<segment id="156" parent="155" relname="elaboration-additional">—— 身体 消费 、 视觉 至上 // —— Body consumption , visual supremacy</segment>
+		<segment id="157" parent="343" relname="context-circumstance">伴随 着 高度 媒介化 社会 的 到来 ， // With the advent of a highly mediated society ,</segment>
+		<segment id="158" parent="343" relname="joint-list">身体 的 审美 价值 脱离 表现 形态 的 桎梏 ， // The aesthetic value of the body is freed from the shackles of expressive form ,</segment>
+		<segment id="159" parent="343" relname="joint-list">被 普罗 大众 赋予 符号 意义 ， // Endowed with symbolic meanings by the general public,</segment>
+		<segment id="160" parent="344" relname="span">“ 身体 ” 作为 一 种 消费 符号 也 具有 了 交换 价值 。 // "Body" also has exchange value as a consumption symbol.</segment>
+		<segment id="161" parent="347" relname="same-unit">如今 ， 网络 上 充斥 着 // Today , the Internet is full of</segment>
+		<segment id="162" parent="163" relname="elaboration-attribute">被 美颜 和 化妆品 包装 的 // Packaged by Beauty and Cosmetics</segment>
+		<segment id="163" parent="346" relname="span">“ 小鲜肉 ” ， // "Little Fresh Meat",</segment>
+		<segment id="164" parent="165" relname="elaboration-attribute">这些 大同 小异 的 身体 所 体现 的 // What these similar bodies embody</segment>
+		<segment id="165" parent="348" relname="span">审美 价值 也 日趋 统一 。 // Aesthetic values ​​are also increasingly unified .</segment>
+		<segment id="166" parent="350" relname="joint-list">此时 ， 丁真 独特 的 形象 给 了 受众 另 一 种 不同 的 感受 ， // At this time, Ding Zhen's unique image gave the audience another different feeling.</segment>
+		<segment id="167" parent="350" relname="joint-list">这 也 侧面 反映 了 受众 对 单一 审美 的 疲劳 和 对 多样美 的 期待 。 // This also reflects the audience's fatigue of a single aesthetic and their expectation of diverse beauty .</segment>
+		<segment id="168" parent="354" relname="same-unit">短 视频 拥有 // short video owned</segment>
+		<segment id="169" parent="352" relname="joint-list">传播 速度 快 、 // spread fast ,</segment>
+		<segment id="170" parent="352" relname="joint-list">画面 冲击感 强 的 // The picture has a strong sense of impact</segment>
+		<segment id="171" parent="353" relname="span">特点 。 // Features .</segment>
+		<segment id="172" parent="173" relname="mode-means">通过 观察 // By observing</segment>
+		<segment id="173" parent="355" relname="span">可以 发现 ， // It can be found ,</segment>
+		<segment id="174" parent="356" relname="span">主流 媒体 在 微博 、 抖音 、 B站 等 平台 都 积极 运用 了 短 视频 的 形式 // Mainstream media actively use short videos on platforms such as Weibo , Douyin , and Station B .</segment>
+		<segment id="175" parent="174" relname="purpose-goal">进行 报道 ， // to report,</segment>
+		<segment id="176" parent="359" relname="joint-sequence">丁真 的 形象 也 在 短 视频 中 的 形态 一步到位 地 被 描画 出来 ， // Ding Zhen's image is also drawn in the form of the short video step by step.</segment>
+		<segment id="177" parent="358" relname="same-unit">呈现 出 一 个 // showing a</segment>
+		<segment id="178" parent="179" relname="elaboration-attribute">与 传统 小鲜肉 不 一样 的 // Different from traditional small fresh meat</segment>
+		<segment id="179" parent="357" relname="span">“ 身体 ” ， // " Body " ,</segment>
+		<segment id="180" parent="360" relname="joint-list">以 此 迅速 构建 起 大众 心中 丁真 和 他 的 家乡 理塘县 的 形象 ， // In this way , the image of Ding Zhen and his hometown Litang County was quickly built in the public mind .</segment>
+		<segment id="181" parent="360" relname="joint-list">形成 群体性 的 狂欢 现象 ， // Form a group carnival phenomenon ,</segment>
+		<segment id="182" parent="362" relname="causal-result">从而 吸引 受众 到 理塘 参观 游览 // So as to attract the audience to visit Litang</segment>
+		<segment id="183" parent="364" relname="explanation-evidence">[ 4 ] 。 // [4].</segment>
+		<segment id="184" parent="417" relname="same-unit">因此 ， 在 // Thus, in</segment>
+		<segment id="185" parent="186" relname="elaboration-attribute">社会化 传播 的 // socialized</segment>
+		<segment id="186" parent="416" relname="span">背景 下 ， 地方 应该 善用 短 视频 等 网络 平台 // In the context, localities should make good use of online platforms such as short videos</segment>
+		<segment id="187" parent="417" relname="purpose-goal">进行 宣传 ， // to advertise,</segment>
+		<segment id="188" parent="421" relname="purpose-goal">吸引 主流 媒体 、 自媒体 、 个人 等 多 主体 的 传播 兴趣 ， // Attract the communication interest of mainstream media, self-media, individuals and other subjects,</segment>
+		<segment id="189" parent="419" relname="explanation-evidence">理塘 文体旅 投资 有限 公司 与 丁真 的 签约 也 正 是 印证 了 这 一 点 。 // The signing of the contract between Litang Culture, Sports and Tourism Investment Co., Ltd. and Ding Zhen also confirms this point .</segment>
+		<segment id="190" parent="378" relname="joint-list">此前 ， 成都 借助 IFS 国际 金融 中心 的 “ 熊猫 屁股 ” 、 // Previously , Chengdu , with the help of the " Panda Butt " of IFS International Financial Center ,</segment>
+		<segment id="191" parent="378" relname="joint-list">重庆 借助 李子坝 地铁站 “ 轻轨 穿楼 ” 、 // Chongqing uses the "light rail through the building" of Liziba subway station,</segment>
+		<segment id="192" parent="378" relname="joint-list">广汉 借助 三星堆 “ 外星人 铜像 ” ， // With the help of Sanxingdui "Alien Bronze Statue", Guanghan</segment>
+		<segment id="193" parent="194" relname="mode-means">通过 图片 、 视频 等 方式 ， // Through pictures, videos, etc.,</segment>
+		<segment id="194" parent="380" relname="span">给予 受众 直观 的 视觉 冲击 ， // Give the audience an intuitive visual impact ,</segment>
+		<segment id="195" parent="379" relname="evaluation-comment">在 国内外 网络 上 爆火 了 一 波 ， // There has been a wave of fire on the Internet at home and abroad.</segment>
+		<segment id="196" parent="381" relname="joint-sequence">促成 当地 地方 形象 的 提升 ， // Promote the promotion of local image ,</segment>
+		<segment id="197" parent="381" relname="joint-sequence">为 后期 的 旅游业 发展 提供 了 坚实 的 基础 。 // It provides a solid foundation for the later development of tourism .</segment>
+		<segment id="198" parent="384" relname="joint-list">因此 ， 地方 政府 也 应该 利用 好 自身 资源 的 独特 之 处 ， // Therefore , local governments should also make good use of the unique features of their own resources ,</segment>
+		<segment id="199" parent="384" relname="joint-list">借助 流量 加持 ， // With the help of traffic,</segment>
+		<segment id="200" parent="385" relname="joint-list">优化 城市 形象 ， // Optimize the city's image,</segment>
+		<segment id="201" parent="385" relname="joint-list">带动 脱贫 或 经济 的 进一步 发展 。 // Drive poverty alleviation or further economic development .</segment>
+		<segment id="202" parent="373" relname="organization-heading">5. 结语 // 5 Conclusion</segment>
+		<segment id="203" parent="371" relname="joint-list">丁真 的 意外 走红 ， 引来 了 新 媒体 时代 网上 网下 的 一 场 视觉 狂欢 。 // Ding Zhen suddenly became popular , which led to a visual carnival online and offline in the new media era .</segment>
+		<segment id="204" parent="371" relname="joint-list">丁真 的 “ 美 ” 满足 了 人们 对于 田园 生活 的 向往 和 想象 ， // Ding Zhen's "beauty" satisfies people's yearning and imagination for rural life.</segment>
+		<segment id="205" parent="368" relname="mode-means">并 通过 消费 主义 浪潮 ， // and through the wave of consumerism,</segment>
+		<segment id="206" parent="368" relname="joint-list">使 丁真 成为 了 独具 特色 的 审美 对象 ， // Make Ding Zhen a unique aesthetic object ,</segment>
+		<segment id="207" parent="368" relname="joint-list">引来 了 互联网 用户 的 “ 凝视 ” 。 // attracted the " stare " of Internet users .</segment>
+		<segment id="208" parent="369" relname="context-circumstance">在 “ 狂欢 ” 与 “ 凝视 ” 的 共同 作用 下 ， // Under the combined effect of "Carnival" and "Gaze",</segment>
+		<segment id="209" parent="369" relname="joint-list">政府 的 及时 引导 ， 使 丁真 获得 了 越来越 多 正向 关注 ， // The timely guidance of the government has enabled Ding Zhen to gain more and more positive attention.</segment>
+		<segment id="210" parent="369" relname="joint-list">也 进一步 推动 了 “ 丁真 爆红 ” 事件 的 价值 升华 。 // It also further promoted the sublimation of the value of the " Ding Zhen explosion " event .</segment>
+		<group id="211" type="span" parent="221" relname="span"/>
+		<group id="212" type="span" parent="215" relname="joint-list"/>
+		<group id="213" type="span" parent="214" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="215" relname="joint-list"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="211" relname="elaboration-additional"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" parent="243" relname="joint-other"/>
+		<group id="221" type="span" parent="218" relname="explanation-evidence"/>
+		<group id="223" type="multinuc" parent="241" relname="joint-other"/>
+		<group id="224" type="span" parent="223" relname="joint-list"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="241" relname="joint-other"/>
+		<group id="231" type="multinuc" parent="409" relname="span"/>
+		<group id="232" type="span" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="239" relname="joint-list"/>
+		<group id="235" type="multinuc" parent="236" relname="span"/>
+		<group id="236" type="span" parent="239" relname="joint-list"/>
+		<group id="237" type="span" parent="238" relname="same-unit"/>
+		<group id="238" type="multinuc" parent="410" relname="joint-list"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="241" relname="joint-other"/>
+		<group id="241" type="multinuc" parent="242" relname="span"/>
+		<group id="242" type="span" parent="243" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="402" relname="span"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="246" relname="joint-sequence"/>
+		<group id="246" type="multinuc" parent="397" relname="context-background"/>
+		<group id="247" type="span" parent="254" relname="span"/>
+		<group id="248" type="span" parent="250" relname="organization-preparation"/>
+		<group id="249" type="span" parent="250" relname="joint-list"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="253" relname="span"/>
+		<group id="252" type="span" parent="251" relname="evaluation-comment"/>
+		<group id="253" type="span" parent="255" relname="joint-other"/>
+		<group id="254" type="span" parent="255" relname="joint-other"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="399" relname="joint-list"/>
+		<group id="257" type="multinuc" parent="258" relname="joint-sequence"/>
+		<group id="258" type="multinuc" parent="267" relname="context-background"/>
+		<group id="259" type="multinuc" parent="264" relname="span"/>
+		<group id="260" type="span" parent="267" relname="span"/>
+		<group id="261" type="multinuc" parent="74" relname="elaboration-attribute"/>
+		<group id="262" type="span" parent="263" relname="same-unit"/>
+		<group id="263" type="multinuc" parent="259" relname="elaboration-additional"/>
+		<group id="264" type="span" parent="260" relname="span"/>
+		<group id="265" type="multinuc" parent="77" relname="explanation-evidence"/>
+		<group id="266" type="span" parent="260" relname="evaluation-comment"/>
+		<group id="267" type="span" parent="277" relname="span"/>
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" parent="275" relname="organization-preparation"/>
+		<group id="271" type="span" parent="275" relname="joint-list"/>
+		<group id="272" type="span" parent="273" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="275" relname="joint-list"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="278" relname="joint-other"/>
+		<group id="277" type="span" parent="278" relname="joint-other"/>
+		<group id="278" type="multinuc" parent="279" relname="span"/>
+		<group id="279" type="span" parent="399" relname="joint-list"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="286" relname="joint-list"/>
+		<group id="282" type="span" parent="283" relname="same-unit"/>
+		<group id="283" type="multinuc" parent="286" relname="joint-list"/>
 		<group id="284" type="multinuc" parent="285" relname="span"/>
-		<group id="285" type="span" parent="286" relname="joint-list"/>
-		<group id="286" type="multinuc" parent="287" relname="span"/>
-		<group id="287" type="span" parent="289" relname="joint-other"/>
-		<group id="288" type="span" parent="289" relname="joint-other"/>
-		<group id="289" type="multinuc" parent="290" relname="span"/>
-		<group id="290" type="span" parent="410" relname="joint-list"/>
-		<group id="291" type="span" parent="292" relname="span"/>
-		<group id="292" type="span" parent="297" relname="joint-list"/>
-		<group id="293" type="span" parent="294" relname="same-unit"/>
-		<group id="294" type="multinuc" parent="297" relname="joint-list"/>
-		<group id="295" type="multinuc" parent="296" relname="span"/>
-		<group id="296" type="span" parent="405" relname="span"/>
-		<group id="297" type="multinuc" parent="296" relname="context-background"/>
-		<group id="298" type="multinuc" parent="341" relname="span"/>
-		<group id="299" type="span" parent="343" relname="context-background"/>
-		<group id="300" type="span" parent="343" relname="adversative-contrast"/>
-		<group id="301" type="span" parent="346" relname="joint-list"/>
-		<group id="302" type="span" parent="303" relname="same-unit"/>
-		<group id="303" type="multinuc" parent="342" relname="joint-list"/>
-		<group id="304" type="multinuc" parent="307" relname="adversative-contrast"/>
-		<group id="305" type="span" parent="306" relname="same-unit"/>
-		<group id="306" type="multinuc" parent="307" relname="adversative-contrast"/>
-		<group id="307" type="multinuc" parent="314" relname="context-background"/>
-		<group id="308" type="span" parent="309" relname="same-unit"/>
-		<group id="309" type="multinuc" parent="312" relname="span"/>
-		<group id="310" type="multinuc" parent="312" relname="evaluation-comment"/>
-		<group id="311" type="multinuc" parent="309" relname="mode-means"/>
-		<group id="312" type="span" parent="313" relname="span"/>
-		<group id="313" type="span" parent="314" relname="span"/>
-		<group id="314" type="span" parent="340" relname="span"/>
-		<group id="315" type="span" parent="316" relname="same-unit"/>
-		<group id="316" type="multinuc" parent="136" relname="context-circumstance"/>
-		<group id="317" type="span" parent="339" relname="organization-preparation"/>
-		<group id="318" type="multinuc" parent="320" relname="span"/>
-		<group id="319" type="multinuc" parent="318" relname="purpose-goal"/>
-		<group id="320" type="span" parent="339" relname="joint-other"/>
-		<group id="321" type="multinuc" parent="322" relname="causal-cause"/>
+		<group id="285" type="span" parent="394" relname="span"/>
+		<group id="286" type="multinuc" parent="285" relname="context-background"/>
+		<group id="287" type="multinuc" parent="330" relname="span"/>
+		<group id="288" type="span" parent="332" relname="context-background"/>
+		<group id="289" type="span" parent="332" relname="adversative-contrast"/>
+		<group id="290" type="span" parent="335" relname="joint-list"/>
+		<group id="291" type="span" parent="292" relname="same-unit"/>
+		<group id="292" type="multinuc" parent="331" relname="joint-list"/>
+		<group id="293" type="multinuc" parent="296" relname="adversative-contrast"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="295" type="multinuc" parent="296" relname="adversative-contrast"/>
+		<group id="296" type="multinuc" parent="303" relname="context-background"/>
+		<group id="297" type="span" parent="298" relname="same-unit"/>
+		<group id="298" type="multinuc" parent="301" relname="span"/>
+		<group id="299" type="multinuc" parent="301" relname="evaluation-comment"/>
+		<group id="300" type="multinuc" parent="298" relname="mode-means"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="329" relname="span"/>
+		<group id="304" type="span" parent="305" relname="same-unit"/>
+		<group id="305" type="multinuc" parent="415" relname="span"/>
+		<group id="307" type="multinuc" parent="309" relname="span"/>
+		<group id="308" type="multinuc" parent="307" relname="purpose-goal"/>
+		<group id="309" type="span" parent="305" relname="explanation-evidence"/>
+		<group id="310" type="multinuc" parent="311" relname="causal-cause"/>
+		<group id="311" type="multinuc" parent="313" relname="span"/>
+		<group id="313" type="span" parent="328" relname="joint-other"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="span"/>
+		<group id="317" type="span" parent="327" relname="span"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="324" relname="context-background"/>
+		<group id="321" type="span" parent="322" relname="same-unit"/>
 		<group id="322" type="multinuc" parent="324" relname="span"/>
-		<group id="323" type="span" parent="321" relname="joint-list"/>
-		<group id="324" type="span" parent="339" relname="joint-other"/>
-		<group id="325" type="multinuc" parent="326" relname="span"/>
-		<group id="326" type="span" parent="327" relname="span"/>
-		<group id="327" type="span" parent="328" relname="span"/>
-		<group id="328" type="span" parent="338" relname="span"/>
-		<group id="329" type="span" parent="154" relname="elaboration-attribute"/>
-		<group id="330" type="span" parent="331" relname="same-unit"/>
-		<group id="331" type="multinuc" parent="335" relname="context-background"/>
-		<group id="332" type="span" parent="333" relname="same-unit"/>
-		<group id="333" type="multinuc" parent="335" relname="span"/>
-		<group id="334" type="multinuc" parent="333" relname="elaboration-additional"/>
-		<group id="335" type="span" parent="336" relname="span"/>
-		<group id="336" type="span" parent="337" relname="span"/>
-		<group id="337" type="span" parent="328" relname="explanation-evidence"/>
-		<group id="338" type="span" parent="339" relname="joint-other"/>
-		<group id="339" type="multinuc" parent="344" relname="span"/>
-		<group id="340" type="span" parent="342" relname="explanation-evidence"/>
-		<group id="341" type="span" parent="350" relname="span"/>
-		<group id="342" type="multinuc" parent="347" relname="span"/>
-		<group id="343" type="multinuc" parent="348" relname="span"/>
-		<group id="344" type="span" parent="345" relname="joint-other"/>
-		<group id="345" type="multinuc" parent="349" relname="span"/>
-		<group id="346" type="multinuc" parent="343" relname="adversative-contrast"/>
-		<group id="347" type="span" parent="346" relname="joint-list"/>
-		<group id="348" type="span" parent="345" relname="joint-other"/>
-		<group id="349" type="span" parent="341" relname="explanation-evidence"/>
-		<group id="350" type="span" parent="352" relname="span"/>
-		<group id="351" type="span" parent="350" relname="organization-heading"/>
-		<group id="352" type="span" parent="404" relname="joint-other"/>
-		<group id="353" type="span" parent="402" relname="organization-heading"/>
-		<group id="354" type="multinuc" parent="356" relname="span"/>
-		<group id="355" type="span" parent="362" relname="context-background"/>
-		<group id="356" type="span" parent="168" relname="causal-cause"/>
+		<group id="323" type="multinuc" parent="322" relname="elaboration-additional"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="317" relname="explanation-evidence"/>
+		<group id="327" type="span" parent="328" relname="joint-other"/>
+		<group id="328" type="multinuc" parent="334" relname="joint-other"/>
+		<group id="329" type="span" parent="331" relname="explanation-evidence"/>
+		<group id="330" type="span" parent="339" relname="span"/>
+		<group id="331" type="multinuc" parent="336" relname="span"/>
+		<group id="332" type="multinuc" parent="337" relname="span"/>
+		<group id="334" type="multinuc" parent="338" relname="span"/>
+		<group id="335" type="multinuc" parent="332" relname="adversative-contrast"/>
+		<group id="336" type="span" parent="335" relname="joint-list"/>
+		<group id="337" type="span" parent="334" relname="joint-other"/>
+		<group id="338" type="span" parent="330" relname="explanation-evidence"/>
+		<group id="339" type="span" parent="341" relname="span"/>
+		<group id="340" type="span" parent="339" relname="organization-heading"/>
+		<group id="341" type="span" parent="393" relname="joint-other"/>
+		<group id="342" type="span" parent="391" relname="organization-heading"/>
+		<group id="343" type="multinuc" parent="345" relname="span"/>
+		<group id="344" type="span" parent="351" relname="context-background"/>
+		<group id="345" type="span" parent="160" relname="causal-cause"/>
+		<group id="346" type="span" parent="347" relname="same-unit"/>
+		<group id="347" type="multinuc" parent="349" relname="joint-list"/>
+		<group id="348" type="span" parent="349" relname="joint-list"/>
+		<group id="349" type="multinuc" parent="351" relname="adversative-contrast"/>
+		<group id="350" type="multinuc" parent="351" relname="adversative-contrast"/>
+		<group id="351" type="multinuc" parent="389" relname="span"/>
+		<group id="352" type="multinuc" parent="171" relname="elaboration-attribute"/>
+		<group id="353" type="span" parent="354" relname="same-unit"/>
+		<group id="354" type="multinuc" parent="365" relname="context-background"/>
+		<group id="355" type="span" parent="363" relname="attribution-positive"/>
+		<group id="356" type="span" parent="359" relname="joint-sequence"/>
 		<group id="357" type="span" parent="358" relname="same-unit"/>
-		<group id="358" type="multinuc" parent="360" relname="joint-list"/>
-		<group id="359" type="span" parent="360" relname="joint-list"/>
-		<group id="360" type="multinuc" parent="362" relname="adversative-contrast"/>
-		<group id="361" type="multinuc" parent="362" relname="adversative-contrast"/>
-		<group id="362" type="multinuc" parent="400" relname="span"/>
-		<group id="363" type="multinuc" parent="179" relname="elaboration-attribute"/>
-		<group id="364" type="span" parent="365" relname="same-unit"/>
-		<group id="365" type="multinuc" parent="376" relname="context-background"/>
-		<group id="366" type="span" parent="374" relname="attribution-positive"/>
-		<group id="367" type="span" parent="370" relname="joint-sequence"/>
-		<group id="368" type="span" parent="369" relname="same-unit"/>
-		<group id="369" type="multinuc" parent="370" relname="joint-sequence"/>
-		<group id="370" type="multinuc" parent="373" relname="span"/>
-		<group id="371" type="multinuc" parent="370" relname="purpose-goal"/>
-		<group id="372" type="span" parent="373" relname="causal-result"/>
+		<group id="358" type="multinuc" parent="359" relname="joint-sequence"/>
+		<group id="359" type="multinuc" parent="362" relname="span"/>
+		<group id="360" type="multinuc" parent="359" relname="purpose-goal"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="364" relname="span"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="390" relname="span"/>
+		<group id="367" type="span" parent="372" relname="joint-list"/>
+		<group id="368" type="multinuc" parent="367" relname="span"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="372" relname="joint-list"/>
+		<group id="371" type="multinuc" parent="373" relname="span"/>
+		<group id="372" type="multinuc" parent="371" relname="elaboration-additional"/>
 		<group id="373" type="span" parent="374" relname="span"/>
-		<group id="374" type="span" parent="375" relname="span"/>
-		<group id="375" type="span" parent="376" relname="span"/>
-		<group id="376" type="span" parent="401" relname="span"/>
-		<group id="377" type="span" parent="387" relname="span"/>
-		<group id="378" type="span" parent="383" relname="joint-list"/>
-		<group id="379" type="multinuc" parent="378" relname="span"/>
-		<group id="380" type="multinuc" parent="381" relname="span"/>
-		<group id="381" type="span" parent="383" relname="joint-list"/>
-		<group id="382" type="multinuc" parent="384" relname="span"/>
-		<group id="383" type="multinuc" parent="382" relname="elaboration-additional"/>
-		<group id="384" type="span" parent="385" relname="span"/>
-		<group id="385" type="span" parent="253" relname="joint-other"/>
-		<group id="386" type="span" parent="388" relname="span"/>
-		<group id="387" type="span" parent="386" relname="span"/>
-		<group id="388" type="span" parent="399" relname="span"/>
-		<group id="389" type="multinuc" parent="390" relname="span"/>
-		<group id="390" type="span" parent="393" relname="span"/>
-		<group id="391" type="span" parent="389" relname="elaboration-additional"/>
-		<group id="392" type="multinuc" parent="394" relname="span"/>
-		<group id="393" type="span" parent="392" relname="causal-cause"/>
-		<group id="394" type="span" parent="398" relname="span"/>
-		<group id="395" type="multinuc" parent="397" relname="span"/>
-		<group id="396" type="multinuc" parent="395" relname="purpose-goal"/>
-		<group id="397" type="span" parent="394" relname="evaluation-comment"/>
-		<group id="398" type="span" parent="388" relname="explanation-evidence"/>
-		<group id="399" type="span" parent="402" relname="joint-other"/>
-		<group id="400" type="span" parent="402" relname="joint-other"/>
-		<group id="401" type="span" parent="402" relname="joint-other"/>
-		<group id="402" type="multinuc" parent="403" relname="span"/>
-		<group id="403" type="span" parent="404" relname="joint-other"/>
-		<group id="404" type="multinuc" parent="405" relname="explanation-evidence"/>
-		<group id="405" type="span" parent="406" relname="span"/>
-		<group id="406" type="span" parent="407" relname="span"/>
-		<group id="407" type="span" parent="253" relname="joint-other"/>
-		<group id="408" type="span" parent="409" relname="span"/>
-		<group id="409" type="span" parent="411" relname="span"/>
-		<group id="410" type="multinuc" parent="409" relname="explanation-evidence"/>
-		<group id="411" type="span" parent="412" relname="span"/>
-		<group id="412" type="span" parent="253" relname="joint-other"/>
-		<group id="414" type="span" />
-		<group id="415" type="span" parent="416" relname="span"/>
-		<group id="416" type="span" parent="253" relname="organization-heading"/>
-		<group id="417" type="span" parent="418" relname="same-unit"/>
-		<group id="418" type="multinuc" parent="8" relname="context-background"/>
-		<group id="419" type="span" parent="420" relname="same-unit"/>
-		<group id="420" type="multinuc" parent="226" relname="joint-list"/>
-		<group id="421" type="span" parent="240" relname="causal-cause"/>
-		<group id="422" type="multinuc" parent="249" relname="joint-list"/>
-		<group id="423" type="span" parent="424" relname="same-unit"/>
-		<group id="424" type="multinuc" parent="67" relname="adversative-concession"/>
-		<group id="425" type="span" parent="271" relname="same-unit"/>
+		<group id="374" type="span" parent="243" relname="joint-other"/>
+		<group id="378" type="multinuc" parent="379" relname="span"/>
+		<group id="379" type="span" parent="382" relname="span"/>
+		<group id="380" type="span" parent="378" relname="elaboration-additional"/>
+		<group id="381" type="multinuc" parent="383" relname="span"/>
+		<group id="382" type="span" parent="381" relname="causal-cause"/>
+		<group id="383" type="span" parent="387" relname="span"/>
+		<group id="384" type="multinuc" parent="386" relname="span"/>
+		<group id="385" type="multinuc" parent="384" relname="purpose-goal"/>
+		<group id="386" type="span" parent="383" relname="evaluation-comment"/>
+		<group id="387" type="span" parent="420" relname="explanation-evidence"/>
+		<group id="389" type="span" parent="391" relname="joint-other"/>
+		<group id="390" type="span" parent="391" relname="joint-other"/>
+		<group id="391" type="multinuc" parent="392" relname="span"/>
+		<group id="392" type="span" parent="393" relname="joint-other"/>
+		<group id="393" type="multinuc" parent="394" relname="explanation-evidence"/>
+		<group id="394" type="span" parent="395" relname="span"/>
+		<group id="395" type="span" parent="396" relname="span"/>
+		<group id="396" type="span" parent="243" relname="joint-other"/>
+		<group id="397" type="span" parent="398" relname="span"/>
+		<group id="398" type="span" parent="400" relname="span"/>
+		<group id="399" type="multinuc" parent="398" relname="explanation-evidence"/>
+		<group id="400" type="span" parent="401" relname="span"/>
+		<group id="401" type="span" parent="243" relname="joint-other"/>
+		<group id="402" type="span" />
+		<group id="403" type="span" parent="404" relname="span"/>
+		<group id="404" type="span" parent="243" relname="organization-heading"/>
+		<group id="405" type="span" parent="406" relname="same-unit"/>
+		<group id="406" type="multinuc" parent="8" relname="context-background"/>
+		<group id="407" type="span" parent="218" relname="joint-list"/>
+		<group id="409" type="span" parent="232" relname="causal-cause"/>
+		<group id="410" type="multinuc" parent="239" relname="joint-list"/>
+		<group id="411" type="span" parent="412" relname="same-unit"/>
+		<group id="412" type="multinuc" parent="62" relname="adversative-concession"/>
+		<group id="413" type="span" parent="261" relname="same-unit"/>
+		<group id="414" type="multinuc" parent="21" relname="elaboration-additional"/>
+		<group id="415" type="span" parent="328" relname="joint-other"/>
+		<group id="416" type="span" parent="417" relname="same-unit"/>
+		<group id="417" type="multinuc" parent="421" relname="span"/>
+		<group id="418" type="span" parent="391" relname="joint-other"/>
+		<group id="419" type="span" parent="420" relname="span"/>
+		<group id="420" type="span" parent="418" relname="span"/>
+		<group id="421" type="span" parent="419" relname="span"/>
 	</body>
 </rst>

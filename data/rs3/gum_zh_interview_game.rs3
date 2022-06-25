@@ -36,321 +36,314 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="166" relname="organization-preparation">维基 新闻 专访 ：</segment>
-		<segment id="2" parent="166" relname="span">浅谈 街机 音游 新 趋势</segment>
+		<segment id="1" parent="163" relname="organization-preparation">维基 新闻 专访 ：</segment>
+		<segment id="2" parent="163" relname="span">浅谈 街机 音游 新 趋势</segment>
 		<segment id="3" parent="2" relname="elaboration-attribute">─ 实体 竞赛</segment>
-		<segment id="4" parent="320" relname="context-circumstance">【 2010年 5月 6日 讯 】</segment>
+		<segment id="4" parent="310" relname="context-circumstance">【 2010年 5月 6日 讯 】</segment>
 		<segment id="5" parent="6" relname="context-circumstance">比赛 时</segment>
-		<segment id="6" parent="167" relname="span">的</segment>
-		<segment id="7" parent="168" relname="span">空间 规划 ， 可以 让 比赛 品质 获得 提升 。</segment>
-		<segment id="8" parent="171" relname="context-circumstance">当 音乐 游戏 的 知名度 开始 进入 高原期 ，</segment>
-		<segment id="9" parent="170" relname="context-background">除了 本土 社团 的 发展 与 窜起 ，</segment>
-		<segment id="10" parent="170" relname="same-unit">实体 的 竞赛 更 是</segment>
+		<segment id="6" parent="164" relname="span">的</segment>
+		<segment id="7" parent="165" relname="span">空间 规划 ， 可以 让 比赛 品质 获得 提升 。</segment>
+		<segment id="8" parent="168" relname="context-circumstance">当 音乐 游戏 的 知名度 开始 进入 高原期 ，</segment>
+		<segment id="9" parent="167" relname="context-background">除了 本土 社团 的 发展 与 窜起 ，</segment>
+		<segment id="10" parent="167" relname="same-unit">实体 的 竞赛 更 是</segment>
 		<segment id="11" parent="12" relname="purpose-attribute">炒热 游戏 人气 的</segment>
-		<segment id="12" parent="169" relname="span">重要 法门 ，</segment>
-		<segment id="13" parent="179" relname="joint-other">然而 ， 竞赛 的 品质 、 水平 、 公正性 ， 多少 对于 音游 的 名气 会 形成 一定 的 抗衡 作用 ，</segment>
-		<segment id="14" parent="173" relname="joint-list">如何 打造 一 场 好 的 比赛 ，</segment>
-		<segment id="15" parent="173" relname="joint-list">让 街机 音游 的 知名度 更 能 向上 提升 ？</segment>
-		<segment id="16" parent="179" relname="joint-other">从 其他 国家 的 比赛 ， 台湾 能 学习 到 什么 ？</segment>
-		<segment id="17" parent="177" relname="joint-list">本次 ， 延续 了 “ 电竞 社团 ” 的 话题 ，</segment>
-		<segment id="18" parent="174" relname="span">将 邀请 南部 的 资深 玩家</segment>
+		<segment id="12" parent="166" relname="span">重要 法门 ，</segment>
+		<segment id="13" parent="176" relname="joint-other">然而 ， 竞赛 的 品质 、 水平 、 公正性 ， 多少 对于 音游 的 名气 会 形成 一定 的 抗衡 作用 ，</segment>
+		<segment id="14" parent="170" relname="joint-list">如何 打造 一 场 好 的 比赛 ，</segment>
+		<segment id="15" parent="170" relname="joint-list">让 街机 音游 的 知名度 更 能 向上 提升 ？</segment>
+		<segment id="16" parent="176" relname="joint-other">从 其他 国家 的 比赛 ， 台湾 能 学习 到 什么 ？</segment>
+		<segment id="17" parent="174" relname="joint-list">本次 ， 延续 了 “ 电竞 社团 ” 的 话题 ，</segment>
+		<segment id="18" parent="171" relname="span">将 邀请 南部 的 资深 玩家</segment>
 		<segment id="19" parent="18" relname="elaboration-attribute">（ 以下 简称 “ A ” ） ，</segment>
-		<segment id="20" parent="175" relname="span">与 北部 的 资深 赛务 人员</segment>
+		<segment id="20" parent="172" relname="span">与 北部 的 资深 赛务 人员</segment>
 		<segment id="21" parent="20" relname="elaboration-attribute">（ 以下 简称 “ B ” ） ，</segment>
-		<segment id="22" parent="177" relname="joint-list">分别 就 比赛 品质 与 制度 两 主轴 ， 探讨 比赛 与 音游 的 互动 。</segment>
+		<segment id="22" parent="174" relname="joint-list">分别 就 比赛 品质 与 制度 两 主轴 ， 探讨 比赛 与 音游 的 互动 。</segment>
 		<segment id="23" parent="24" relname="context-circumstance">店家 维持 比赛 秩序 时 ，</segment>
-		<segment id="24" parent="178" relname="span">需要 注意 的 要点 ？</segment>
-		<segment id="25" parent="195" relname="span">基本上 ， 店家 应该 从 比赛 前 的 空间 规划 开始 做起 ，</segment>
-		<segment id="26" parent="182" relname="same-unit">因为</segment>
+		<segment id="24" parent="175" relname="span">需要 注意 的 要点 ？</segment>
+		<segment id="25" parent="190" relname="span">基本上 ， 店家 应该 从 比赛 前 的 空间 规划 开始 做起 ，</segment>
+		<segment id="26" parent="179" relname="same-unit">因为</segment>
 		<segment id="27" parent="28" relname="context-circumstance">在 比赛 进行 时 ，</segment>
-		<segment id="28" parent="184" relname="span">必须 确保 选手 在</segment>
+		<segment id="28" parent="180" relname="span">必须 确保 选手 在</segment>
 		<segment id="29" parent="30" relname="elaboration-attribute">不 被 干扰 的</segment>
-		<segment id="30" parent="181" relname="span">情况 下 ，</segment>
-		<segment id="31" parent="185" relname="span">让 选手 安心 进行 比赛 ，</segment>
-		<segment id="32" parent="33" relname="context-circumstance">必要 时</segment>
-		<segment id="33" parent="186" relname="span">应当 有 设置 警戒线 ，</segment>
-		<segment id="34" parent="192" relname="attribution-positive">提示 观赛者</segment>
-		<segment id="35" parent="189" relname="joint-list">不 能 进入 比赛 区域 ，</segment>
-		<segment id="36" parent="188" relname="same-unit">妨碍</segment>
-		<segment id="37" parent="38" relname="elaboration-attribute">参赛者 比赛 的</segment>
-		<segment id="38" parent="187" relname="span">权益 ，</segment>
-		<segment id="39" parent="191" relname="same-unit">否则 会 导致</segment>
-		<segment id="40" parent="41" relname="elaboration-attribute">比赛 不公 的</segment>
-		<segment id="41" parent="190" relname="span">情况 ，</segment>
-		<segment id="42" parent="43" relname="contingency-condition">假使 店家 的 比赛 空间 不利于 警戒线 的 架设 ，</segment>
-		<segment id="43" parent="198" relname="span">举办 比赛 的 店家 应当 如何 应变 ？</segment>
-		<segment id="44" parent="45" relname="attribution-positive">此时 会 建议</segment>
-		<segment id="45" parent="199" relname="span">观赛者 不 要 在 视线 范围 内 走动 ，</segment>
-		<segment id="46" parent="201" relname="span">当然 店家 应当 在 赛前 ， 进行 必要 的 劝导 ，</segment>
-		<segment id="47" parent="48" relname="contingency-condition">因为 观赛者 若 与 参赛者 的 距离 过近 ，</segment>
-		<segment id="48" parent="200" relname="span">仍 会 有 一定 几率 ， 妨碍 比赛 的 正常 进行 。</segment>
-		<segment id="49" parent="50" relname="elaboration-attribute">妨碍 选手 正常 比赛 的</segment>
-		<segment id="50" parent="204" relname="span">主要 人为 因素 ？</segment>
-		<segment id="51" parent="208" relname="same-unit">人为 因素 ， 多半 是 以</segment>
-		<segment id="52" parent="206" relname="joint-list">观赛者 离 参赛者 过 近 ，</segment>
-		<segment id="53" parent="54" relname="context-circumstance">或者是 观赛者 走动 时</segment>
-		<segment id="54" parent="205" relname="span">与 参赛者 发生 推挤 、 碰撞 的</segment>
-		<segment id="55" parent="207" relname="span">情况 ，</segment>
-		<segment id="56" parent="208" relname="evaluation-comment">这 种 就 是 非常 明显 的 “ 妨碍 比赛 ” ，</segment>
-		<segment id="57" parent="210" relname="causal-cause">近期 ， 随着 新手 玩家 加入 比赛 的 行列 ，</segment>
-		<segment id="58" parent="210" relname="same-unit">因此 也 常 发生</segment>
-		<segment id="59" parent="60" relname="elaboration-attribute">新手 玩家 妨碍 资深 选手 比赛 的</segment>
-		<segment id="60" parent="209" relname="span">状况 ，</segment>
-		<segment id="61" parent="213" relname="same-unit">此外 ， 因为</segment>
-		<segment id="62" parent="63" relname="elaboration-attribute">有些 观赛者 、 行政 人员 ， 或是 新闻 媒体 记者 ， 需要 进行 摄录影 的</segment>
-		<segment id="63" parent="212" relname="span">关系 ，</segment>
-		<segment id="64" parent="221" relname="attribution-positive">因此 建议 摄影者 ，</segment>
-		<segment id="65" parent="66" relname="context-circumstance">在 比赛 期间 ， 以 不 妨碍 比赛 为 前提 下 ，</segment>
-		<segment id="66" parent="214" relname="span">控制 好 与 参赛者 的 距离 ，</segment>
-		<segment id="67" parent="68" relname="context-circumstance">照相 时</segment>
-		<segment id="68" parent="216" relname="span">务必 要 关闭 闪光灯 ，</segment>
-		<segment id="69" parent="218" relname="same-unit">因为</segment>
-		<segment id="70" parent="71" relname="context-circumstance">在 比赛 进行 时 ，</segment>
-		<segment id="71" parent="217" relname="span">闪光灯 绝对 会 影响 到 参赛者 的 心理 状态 ，</segment>
-		<segment id="72" parent="218" relname="evaluation-comment">杀伤力 非常 明显 。</segment>
-		<segment id="73" parent="74" relname="elaboration-attribute">影响 选手 正常 比赛 的</segment>
-		<segment id="74" parent="227" relname="span">非人为 因素 ？</segment>
-		<segment id="75" parent="228" relname="joint-list">店家 与 参赛者 应 如何 应变 ？</segment>
-		<segment id="76" parent="235" relname="span">假使 比赛 中 ， 机台 系统 本身 或是 硬件</segment>
-		<segment id="77" parent="78" relname="organization-preparation">（ 如 ：</segment>
-		<segment id="78" parent="229" relname="span">按键 ）</segment>
-		<segment id="79" parent="231" relname="same-unit">在 比赛 前 的 测试 就 已经 故障 ，</segment>
-		<segment id="80" parent="233" relname="same-unit">或是</segment>
-		<segment id="81" parent="82" relname="context-circumstance">在 比赛 进行 中</segment>
-		<segment id="82" parent="232" relname="span">突然 发生 ，</segment>
-		<segment id="83" parent="236" relname="joint-list">选手 应 在 第一 时间 ， 向 裁判 进行 反应 ，</segment>
-		<segment id="84" parent="237" relname="span">并 由 赛事 行政 人员</segment>
-		<segment id="85" parent="84" relname="elaboration-attribute">（ 或 店家 ）</segment>
-		<segment id="86" parent="238" relname="same-unit">进行 检测 ，</segment>
-		<segment id="87" parent="239" relname="joint-list">确定 机台 的 运作 是否 正常 ，</segment>
-		<segment id="88" parent="241" relname="same-unit">切勿</segment>
-		<segment id="89" parent="90" relname="causal-cause">因为 “ 讲 出来 会 不好意思 ”</segment>
-		<segment id="90" parent="244" relname="span">而 失去</segment>
-		<segment id="91" parent="92" relname="elaboration-attribute">应 有 的</segment>
-		<segment id="92" parent="240" relname="span">基本 权利 。</segment>
-		<segment id="93" parent="94" relname="organization-preparation">就 针对 非人为 因素 再 补充 一 个 常见 的 问题 ，</segment>
-		<segment id="94" parent="245" relname="span">那 就 是 “ 网络 断线 ” ，</segment>
-		<segment id="95" parent="247" relname="contingency-condition">假使 是 比赛 中 的 突发 断线 ，</segment>
-		<segment id="96" parent="247" relname="same-unit">两 位 以上 的 裁判 可以</segment>
-		<segment id="97" parent="98" relname="mode-means">根据 两 方 的 机台 内 分数 ，</segment>
-		<segment id="98" parent="246" relname="span">直接 判定 比赛 的 胜负 ，</segment>
-		<segment id="99" parent="249" relname="contingency-condition">但 如果 是 比赛 前 就 已经 “ 网络 断线 ” ，</segment>
-		<segment id="100" parent="101" relname="attribution-positive">应当 建议</segment>
-		<segment id="101" parent="249" relname="span">店家 重新 比赛 。</segment>
-		<segment id="102" parent="256" relname="same-unit">曾 有 店家</segment>
-		<segment id="103" parent="253" relname="causal-cause">因为 第一 次 举办 比赛 ，</segment>
-		<segment id="104" parent="253" relname="same-unit">而 使用</segment>
-		<segment id="105" parent="106" relname="elaboration-attribute">与 基本 规章 有 差异 的</segment>
-		<segment id="106" parent="252" relname="span">赛制</segment>
-		<segment id="107" parent="255" relname="span">进行 比赛 ，</segment>
-		<segment id="108" parent="258" relname="same-unit">导致</segment>
-		<segment id="109" parent="110" relname="elaboration-attribute">参赛者 抗议 的</segment>
-		<segment id="110" parent="257" relname="span">状况 ，</segment>
-		<segment id="111" parent="260" relname="span">针对 这 部分 的 看法 ？</segment>
-		<segment id="112" parent="113" relname="elaboration-attribute">第一 次 举办 的</segment>
-		<segment id="113" parent="266" relname="span">店家 ， 多少 会 对于 比赛 基本 运作 不 是 很 熟 ，</segment>
-		<segment id="114" parent="268" relname="same-unit">因此 才 大胆 使用</segment>
-		<segment id="115" parent="116" relname="elaboration-attribute">店家 自订 的</segment>
-		<segment id="116" parent="267" relname="span">赛制</segment>
-		<segment id="117" parent="268" relname="purpose-goal">进行 比赛 ，</segment>
-		<segment id="118" parent="271" relname="contingency-condition">基本上 ， 如果 店家 不 是 很 熟悉 真正 的 运作 ，</segment>
-		<segment id="119" parent="271" relname="span">店家 应可 邀请 主办 单位</segment>
-		<segment id="120" parent="270" relname="joint-list">派员 亲临 现场 ，</segment>
-		<segment id="121" parent="270" relname="joint-list">协助 比赛 的 顺利 进行 。</segment>
-		<segment id="122" parent="274" relname="attribution-positive">主办 单位 虽然 明定</segment>
-		<segment id="123" parent="274" relname="same-unit">“ 各 店家 可</segment>
-		<segment id="124" parent="125" relname="mode-means">依照 现场 参赛 状况 ，</segment>
-		<segment id="125" parent="273" relname="span">随机 变更 比赛 的 赛制 ” ，</segment>
-		<segment id="126" parent="277" relname="same-unit">但 比赛 的 基本 赛制 ， 仍 应 以</segment>
-		<segment id="127" parent="128" relname="elaboration-attribute">主办 单位 提出 的</segment>
-		<segment id="128" parent="276" relname="span">规章 为 基准 。</segment>
-		<segment id="129" parent="279" relname="same-unit">各 连锁 体系</segment>
-		<segment id="130" parent="131" relname="elaboration-attribute">在 比赛 运作 的</segment>
-		<segment id="131" parent="278" relname="span">模式 ， 虽然 不尽 相同 ，</segment>
-		<segment id="132" parent="281" relname="same-unit">但 仍 应</segment>
-		<segment id="133" parent="134" relname="mode-means">依照 正规 的 赛制</segment>
-		<segment id="134" parent="280" relname="span">进行 比赛 ，</segment>
-		<segment id="135" parent="282" relname="causal-result">才 能 避免 不 公平 的 事件 再度 发生 。</segment>
-		<segment id="136" parent="285" relname="same-unit">对于</segment>
-		<segment id="137" parent="138" relname="elaboration-attribute">初办 比赛 的</segment>
-		<segment id="138" parent="284" relname="span">店家 ， 找上 资深 玩家 或 当地 社团</segment>
-		<segment id="139" parent="285" relname="purpose-goal">协助 比赛 运作 ，</segment>
-		<segment id="140" parent="287" relname="span">您 的 看法 ？</segment>
-		<segment id="141" parent="288" relname="joint-disjunction">其实 有 资深 玩家 在 比赛 中 进行 必要 协助 ，</segment>
-		<segment id="142" parent="288" relname="joint-disjunction">或者 由 主办 单位 进行 必要 的 指导 ，</segment>
-		<segment id="143" parent="296" relname="same-unit">这些 都 是</segment>
-		<segment id="144" parent="290" relname="same-unit">可以 让</segment>
-		<segment id="145" parent="146" relname="elaboration-attribute">第一 次 办 比赛 的</segment>
-		<segment id="146" parent="289" relname="span">店家 ，</segment>
-		<segment id="147" parent="292" relname="same-unit">在</segment>
-		<segment id="148" parent="149" relname="elaboration-attribute">对于 比赛 很 生疏 的</segment>
-		<segment id="149" parent="291" relname="span">状态 下 ，</segment>
-		<segment id="150" parent="293" relname="span">可以 快速 上手 赛事 行政 的</segment>
-		<segment id="151" parent="295" relname="span">良方 ，</segment>
-		<segment id="152" parent="305" relname="evaluation-comment">这 种 模式 是 值得 推荐 的 。</segment>
-		<segment id="153" parent="154" relname="context-circumstance">店家 举办 一 场 比赛 ，</segment>
-		<segment id="154" parent="298" relname="span">其实 需要 的 是 经验 的 累积 。</segment>
-		<segment id="155" parent="156" relname="context-background">一 场 好 的 比赛 ， 不 只 是 店家 的 安排 ，</segment>
-		<segment id="156" parent="307" relname="span">玩家 的 观赛 风度 与 水平 更 为 重要 ，</segment>
-		<segment id="157" parent="313" relname="span">其实 ， 在 许多 国际 大型 电子 游戏 的 竞技 中 ， 或多或少 ， 现场 都 会 有 所谓 的 观赛 规章 ，</segment>
-		<segment id="158" parent="308" relname="span">让 观赛者 、 赛事 行政 人员 、 媒体 记者 ， 有 一 个 共通 的 标准</segment>
-		<segment id="159" parent="158" relname="purpose-attribute">来 遵守 ，</segment>
-		<segment id="160" parent="309" relname="joint-list">让 比赛 得以 顺利 地 进行 ，</segment>
-		<segment id="161" parent="311" relname="context-circumstance">当 经验 逐渐 丰富 之后 ，</segment>
-		<segment id="162" parent="311" relname="same-unit">更 多</segment>
-		<segment id="163" parent="164" relname="elaboration-attribute">更 有 水平 的</segment>
-		<segment id="164" parent="310" relname="span">比赛 就 会 获得 观赛者 ， 甚至是 大众 舆论 的 重视 。</segment>
-		<group id="165" type="span" parent="321" relname="organization-heading"/>
-		<group id="166" type="span" parent="165" relname="span"/>
-		<group id="167" type="span" parent="7" relname="elaboration-attribute"/>
-		<group id="168" type="span" parent="179" relname="joint-other"/>
-		<group id="169" type="span" parent="170" relname="same-unit"/>
-		<group id="170" type="multinuc" parent="171" relname="span"/>
-		<group id="171" type="span" parent="172" relname="span"/>
-		<group id="172" type="span" parent="179" relname="joint-other"/>
-		<group id="173" type="multinuc" parent="179" relname="joint-other"/>
-		<group id="174" type="span" parent="176" relname="same-unit"/>
-		<group id="175" type="span" parent="176" relname="same-unit"/>
-		<group id="176" type="multinuc" parent="177" relname="joint-list"/>
-		<group id="177" type="multinuc" parent="180" relname="span"/>
-		<group id="178" type="span" parent="196" relname="topic-question"/>
-		<group id="179" type="multinuc" parent="177" relname="context-background"/>
-		<group id="180" type="span" parent="319" relname="context-background"/>
-		<group id="181" type="span" parent="182" relname="same-unit"/>
-		<group id="182" type="multinuc" parent="31" relname="context-circumstance"/>
-		<group id="184" type="span" parent="182" relname="same-unit"/>
-		<group id="185" type="span" parent="25" relname="causal-cause"/>
-		<group id="186" type="span" parent="194" relname="span"/>
-		<group id="187" type="span" parent="188" relname="same-unit"/>
-		<group id="188" type="multinuc" parent="189" relname="joint-list"/>
-		<group id="189" type="multinuc" parent="192" relname="span"/>
-		<group id="190" type="span" parent="191" relname="same-unit"/>
-		<group id="191" type="multinuc" parent="189" relname="adversative-antithesis"/>
-		<group id="192" type="span" parent="193" relname="span"/>
-		<group id="193" type="span" parent="186" relname="purpose-goal"/>
-		<group id="194" type="span" parent="195" relname="elaboration-additional"/>
-		<group id="195" type="span" parent="196" relname="span"/>
-		<group id="196" type="span" parent="197" relname="span"/>
-		<group id="197" type="span" parent="319" relname="joint-other"/>
-		<group id="198" type="span" parent="202" relname="topic-question"/>
-		<group id="199" type="span" parent="202" relname="span"/>
-		<group id="200" type="span" parent="46" relname="causal-cause"/>
-		<group id="201" type="span" parent="199" relname="elaboration-additional"/>
-		<group id="202" type="span" parent="203" relname="span"/>
-		<group id="203" type="span" parent="319" relname="joint-other"/>
-		<group id="204" type="span" parent="225" relname="topic-question"/>
-		<group id="205" type="span" parent="206" relname="joint-list"/>
-		<group id="206" type="multinuc" parent="55" relname="elaboration-attribute"/>
+		<segment id="30" parent="178" relname="span">情况 下 ， 让 选手 安心 进行 比赛 ，</segment>
+		<segment id="31" parent="32" relname="context-circumstance">必要 时</segment>
+		<segment id="32" parent="181" relname="span">应当 有 设置 警戒线 ，</segment>
+		<segment id="33" parent="187" relname="attribution-positive">提示 观赛者</segment>
+		<segment id="34" parent="184" relname="joint-list">不 能 进入 比赛 区域 ，</segment>
+		<segment id="35" parent="183" relname="same-unit">妨碍</segment>
+		<segment id="36" parent="37" relname="elaboration-attribute">参赛者 比赛 的</segment>
+		<segment id="37" parent="182" relname="span">权益 ，</segment>
+		<segment id="38" parent="186" relname="same-unit">否则 会 导致</segment>
+		<segment id="39" parent="40" relname="elaboration-attribute">比赛 不公 的</segment>
+		<segment id="40" parent="185" relname="span">情况 ，</segment>
+		<segment id="41" parent="42" relname="contingency-condition">假使 店家 的 比赛 空间 不利于 警戒线 的 架设 ，</segment>
+		<segment id="42" parent="193" relname="span">举办 比赛 的 店家 应当 如何 应变 ？</segment>
+		<segment id="43" parent="44" relname="attribution-positive">此时 会 建议</segment>
+		<segment id="44" parent="194" relname="span">观赛者 不 要 在 视线 范围 内 走动 ，</segment>
+		<segment id="45" parent="196" relname="span">当然 店家 应当 在 赛前 ， 进行 必要 的 劝导 ，</segment>
+		<segment id="46" parent="47" relname="contingency-condition">因为 观赛者 若 与 参赛者 的 距离 过近 ，</segment>
+		<segment id="47" parent="195" relname="span">仍 会 有 一定 几率 ， 妨碍 比赛 的 正常 进行 。</segment>
+		<segment id="48" parent="49" relname="elaboration-attribute">妨碍 选手 正常 比赛 的</segment>
+		<segment id="49" parent="199" relname="span">主要 人为 因素 ？</segment>
+		<segment id="50" parent="203" relname="same-unit">人为 因素 ， 多半 是 以</segment>
+		<segment id="51" parent="201" relname="joint-list">观赛者 离 参赛者 过 近 ，</segment>
+		<segment id="52" parent="53" relname="context-circumstance">或者是 观赛者 走动 时</segment>
+		<segment id="53" parent="200" relname="span">与 参赛者 发生 推挤 、 碰撞 的</segment>
+		<segment id="54" parent="202" relname="span">情况 ，</segment>
+		<segment id="55" parent="203" relname="evaluation-comment">这 种 就 是 非常 明显 的 “ 妨碍 比赛 ” ，</segment>
+		<segment id="56" parent="205" relname="causal-cause">近期 ， 随着 新手 玩家 加入 比赛 的 行列 ，</segment>
+		<segment id="57" parent="205" relname="same-unit">因此 也 常 发生</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">新手 玩家 妨碍 资深 选手 比赛 的</segment>
+		<segment id="59" parent="204" relname="span">状况 ，</segment>
+		<segment id="60" parent="208" relname="same-unit">此外 ， 因为</segment>
+		<segment id="61" parent="62" relname="elaboration-attribute">有些 观赛者 、 行政 人员 ， 或是 新闻 媒体 记者 ， 需要 进行 摄录影 的</segment>
+		<segment id="62" parent="207" relname="span">关系 ，</segment>
+		<segment id="63" parent="215" relname="attribution-positive">因此 建议 摄影者 ，</segment>
+		<segment id="64" parent="65" relname="context-circumstance">在 比赛 期间 ， 以 不 妨碍 比赛 为 前提 下 ，</segment>
+		<segment id="65" parent="209" relname="span">控制 好 与 参赛者 的 距离 ，</segment>
+		<segment id="66" parent="67" relname="context-circumstance">照相 时</segment>
+		<segment id="67" parent="210" relname="span">务必 要 关闭 闪光灯 ，</segment>
+		<segment id="68" parent="212" relname="same-unit">因为</segment>
+		<segment id="69" parent="70" relname="context-circumstance">在 比赛 进行 时 ，</segment>
+		<segment id="70" parent="211" relname="span">闪光灯 绝对 会 影响 到 参赛者 的 心理 状态 ，</segment>
+		<segment id="71" parent="212" relname="evaluation-comment">杀伤力 非常 明显 。</segment>
+		<segment id="72" parent="73" relname="elaboration-attribute">影响 选手 正常 比赛 的</segment>
+		<segment id="73" parent="221" relname="span">非人为 因素 ？</segment>
+		<segment id="74" parent="222" relname="joint-list">店家 与 参赛者 应 如何 应变 ？</segment>
+		<segment id="75" parent="228" relname="span">假使 比赛 中 ， 机台 系统 本身 或是 硬件</segment>
+		<segment id="76" parent="77" relname="organization-preparation">（ 如 ：</segment>
+		<segment id="77" parent="223" relname="span">按键 ）</segment>
+		<segment id="78" parent="224" relname="same-unit">在 比赛 前 的 测试 就 已经 故障 ，</segment>
+		<segment id="79" parent="226" relname="same-unit">或是</segment>
+		<segment id="80" parent="81" relname="context-circumstance">在 比赛 进行 中</segment>
+		<segment id="81" parent="225" relname="span">突然 发生 ，</segment>
+		<segment id="82" parent="229" relname="joint-list">选手 应 在 第一 时间 ， 向 裁判 进行 反应 ，</segment>
+		<segment id="83" parent="230" relname="span">并 由 赛事 行政 人员</segment>
+		<segment id="84" parent="83" relname="elaboration-attribute">（ 或 店家 ）</segment>
+		<segment id="85" parent="231" relname="same-unit">进行 检测 ，</segment>
+		<segment id="86" parent="232" relname="joint-list">确定 机台 的 运作 是否 正常 ，</segment>
+		<segment id="87" parent="234" relname="same-unit">切勿</segment>
+		<segment id="88" parent="89" relname="causal-cause">因为 “ 讲 出来 会 不好意思 ”</segment>
+		<segment id="89" parent="235" relname="span">而 失去</segment>
+		<segment id="90" parent="91" relname="elaboration-attribute">应 有 的</segment>
+		<segment id="91" parent="233" relname="span">基本 权利 。</segment>
+		<segment id="92" parent="93" relname="organization-preparation">就 针对 非人为 因素 再 补充 一 个 常见 的 问题 ，</segment>
+		<segment id="93" parent="236" relname="span">那 就 是 “ 网络 断线 ” ，</segment>
+		<segment id="94" parent="238" relname="contingency-condition">假使 是 比赛 中 的 突发 断线 ，</segment>
+		<segment id="95" parent="238" relname="same-unit">两 位 以上 的 裁判 可以</segment>
+		<segment id="96" parent="97" relname="mode-means">根据 两 方 的 机台 内 分数 ，</segment>
+		<segment id="97" parent="237" relname="span">直接 判定 比赛 的 胜负 ，</segment>
+		<segment id="98" parent="240" relname="contingency-condition">但 如果 是 比赛 前 就 已经 “ 网络 断线 ” ，</segment>
+		<segment id="99" parent="100" relname="attribution-positive">应当 建议</segment>
+		<segment id="100" parent="240" relname="span">店家 重新 比赛 。</segment>
+		<segment id="101" parent="247" relname="same-unit">曾 有 店家</segment>
+		<segment id="102" parent="244" relname="causal-cause">因为 第一 次 举办 比赛 ，</segment>
+		<segment id="103" parent="244" relname="same-unit">而 使用</segment>
+		<segment id="104" parent="105" relname="elaboration-attribute">与 基本 规章 有 差异 的</segment>
+		<segment id="105" parent="243" relname="span">赛制</segment>
+		<segment id="106" parent="246" relname="span">进行 比赛 ，</segment>
+		<segment id="107" parent="249" relname="same-unit">导致</segment>
+		<segment id="108" parent="109" relname="elaboration-attribute">参赛者 抗议 的</segment>
+		<segment id="109" parent="248" relname="span">状况 ，</segment>
+		<segment id="110" parent="251" relname="span">针对 这 部分 的 看法 ？</segment>
+		<segment id="111" parent="112" relname="elaboration-attribute">第一 次 举办 的</segment>
+		<segment id="112" parent="257" relname="span">店家 ， 多少 会 对于 比赛 基本 运作 不 是 很 熟 ，</segment>
+		<segment id="113" parent="259" relname="same-unit">因此 才 大胆 使用</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">店家 自订 的</segment>
+		<segment id="115" parent="258" relname="span">赛制</segment>
+		<segment id="116" parent="259" relname="purpose-goal">进行 比赛 ，</segment>
+		<segment id="117" parent="262" relname="contingency-condition">基本上 ， 如果 店家 不 是 很 熟悉 真正 的 运作 ，</segment>
+		<segment id="118" parent="262" relname="span">店家 应可 邀请 主办 单位</segment>
+		<segment id="119" parent="261" relname="joint-list">派员 亲临 现场 ，</segment>
+		<segment id="120" parent="261" relname="joint-list">协助 比赛 的 顺利 进行 。</segment>
+		<segment id="121" parent="265" relname="attribution-positive">主办 单位 虽然 明定</segment>
+		<segment id="122" parent="265" relname="same-unit">“ 各 店家 可</segment>
+		<segment id="123" parent="124" relname="mode-means">依照 现场 参赛 状况 ，</segment>
+		<segment id="124" parent="264" relname="span">随机 变更 比赛 的 赛制 ” ，</segment>
+		<segment id="125" parent="268" relname="same-unit">但 比赛 的 基本 赛制 ， 仍 应 以</segment>
+		<segment id="126" parent="127" relname="elaboration-attribute">主办 单位 提出 的</segment>
+		<segment id="127" parent="267" relname="span">规章 为 基准 。</segment>
+		<segment id="128" parent="270" relname="same-unit">各 连锁 体系</segment>
+		<segment id="129" parent="130" relname="elaboration-attribute">在 比赛 运作 的</segment>
+		<segment id="130" parent="269" relname="span">模式 ， 虽然 不尽 相同 ，</segment>
+		<segment id="131" parent="272" relname="same-unit">但 仍 应</segment>
+		<segment id="132" parent="133" relname="mode-means">依照 正规 的 赛制</segment>
+		<segment id="133" parent="271" relname="span">进行 比赛 ，</segment>
+		<segment id="134" parent="273" relname="causal-result">才 能 避免 不 公平 的 事件 再度 发生 。</segment>
+		<segment id="135" parent="276" relname="same-unit">对于</segment>
+		<segment id="136" parent="137" relname="elaboration-attribute">初办 比赛 的</segment>
+		<segment id="137" parent="275" relname="span">店家 ， 找上 资深 玩家 或 当地 社团</segment>
+		<segment id="138" parent="276" relname="purpose-goal">协助 比赛 运作 ，</segment>
+		<segment id="139" parent="278" relname="span">您 的 看法 ？</segment>
+		<segment id="140" parent="279" relname="joint-disjunction">其实 有 资深 玩家 在 比赛 中 进行 必要 协助 ，</segment>
+		<segment id="141" parent="279" relname="joint-disjunction">或者 由 主办 单位 进行 必要 的 指导 ，</segment>
+		<segment id="142" parent="287" relname="same-unit">这些 都 是</segment>
+		<segment id="143" parent="285" relname="same-unit">可以 让</segment>
+		<segment id="144" parent="145" relname="elaboration-attribute">第一 次 办 比赛 的</segment>
+		<segment id="145" parent="280" relname="span">店家 ， 在</segment>
+		<segment id="146" parent="147" relname="elaboration-attribute">对于 比赛 很 生疏 的</segment>
+		<segment id="147" parent="282" relname="span">状态 下 ， 可以 快速 上手 赛事 行政 的</segment>
+		<segment id="148" parent="286" relname="span">良方 ，</segment>
+		<segment id="149" parent="295" relname="evaluation-comment">这 种 模式 是 值得 推荐 的 。</segment>
+		<segment id="150" parent="151" relname="context-circumstance">店家 举办 一 场 比赛 ，</segment>
+		<segment id="151" parent="288" relname="span">其实 需要 的 是 经验 的 累积 。</segment>
+		<segment id="152" parent="153" relname="context-background">一 场 好 的 比赛 ， 不 只 是 店家 的 安排 ，</segment>
+		<segment id="153" parent="297" relname="span">玩家 的 观赛 风度 与 水平 更 为 重要 ，</segment>
+		<segment id="154" parent="303" relname="span">其实 ， 在 许多 国际 大型 电子 游戏 的 竞技 中 ， 或多或少 ， 现场 都 会 有 所谓 的 观赛 规章 ，</segment>
+		<segment id="155" parent="298" relname="span">让 观赛者 、 赛事 行政 人员 、 媒体 记者 ， 有 一 个 共通 的 标准</segment>
+		<segment id="156" parent="155" relname="purpose-attribute">来 遵守 ，</segment>
+		<segment id="157" parent="299" relname="joint-list">让 比赛 得以 顺利 地 进行 ，</segment>
+		<segment id="158" parent="301" relname="context-circumstance">当 经验 逐渐 丰富 之后 ，</segment>
+		<segment id="159" parent="301" relname="same-unit">更 多</segment>
+		<segment id="160" parent="161" relname="elaboration-attribute">更 有 水平 的</segment>
+		<segment id="161" parent="300" relname="span">比赛 就 会 获得 观赛者 ， 甚至是 大众 舆论 的 重视 。</segment>
+		<group id="162" type="span" parent="311" relname="organization-heading"/>
+		<group id="163" type="span" parent="162" relname="span"/>
+		<group id="164" type="span" parent="7" relname="elaboration-attribute"/>
+		<group id="165" type="span" parent="176" relname="joint-other"/>
+		<group id="166" type="span" parent="167" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="168" relname="span"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" parent="176" relname="joint-other"/>
+		<group id="170" type="multinuc" parent="176" relname="joint-other"/>
+		<group id="171" type="span" parent="173" relname="same-unit"/>
+		<group id="172" type="span" parent="173" relname="same-unit"/>
+		<group id="173" type="multinuc" parent="174" relname="joint-list"/>
+		<group id="174" type="multinuc" parent="177" relname="span"/>
+		<group id="175" type="span" parent="191" relname="topic-question"/>
+		<group id="176" type="multinuc" parent="174" relname="context-background"/>
+		<group id="177" type="span" parent="309" relname="context-background"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="179" type="multinuc" parent="25" relname="causal-cause"/>
+		<group id="180" type="span" parent="179" relname="same-unit"/>
+		<group id="181" type="span" parent="189" relname="span"/>
+		<group id="182" type="span" parent="183" relname="same-unit"/>
+		<group id="183" type="multinuc" parent="184" relname="joint-list"/>
+		<group id="184" type="multinuc" parent="187" relname="span"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="184" relname="adversative-antithesis"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="181" relname="purpose-goal"/>
+		<group id="189" type="span" parent="190" relname="elaboration-additional"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="309" relname="joint-other"/>
+		<group id="193" type="span" parent="197" relname="topic-question"/>
+		<group id="194" type="span" parent="197" relname="span"/>
+		<group id="195" type="span" parent="45" relname="causal-cause"/>
+		<group id="196" type="span" parent="194" relname="elaboration-additional"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="309" relname="joint-other"/>
+		<group id="199" type="span" parent="219" relname="topic-question"/>
+		<group id="200" type="span" parent="201" relname="joint-list"/>
+		<group id="201" type="multinuc" parent="54" relname="elaboration-attribute"/>
+		<group id="202" type="span" parent="203" relname="same-unit"/>
+		<group id="203" type="multinuc" parent="218" relname="span"/>
+		<group id="204" type="span" parent="205" relname="same-unit"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="219" relname="joint-list"/>
 		<group id="207" type="span" parent="208" relname="same-unit"/>
-		<group id="208" type="multinuc" parent="224" relname="span"/>
-		<group id="209" type="span" parent="210" relname="same-unit"/>
-		<group id="210" type="multinuc" parent="211" relname="span"/>
-		<group id="211" type="span" parent="225" relname="joint-list"/>
-		<group id="212" type="span" parent="213" relname="same-unit"/>
-		<group id="213" type="multinuc" parent="222" relname="causal-cause"/>
-		<group id="214" type="span" parent="221" relname="joint-list"/>
-		<group id="216" type="span" parent="220" relname="span"/>
-		<group id="217" type="span" parent="218" relname="same-unit"/>
-		<group id="218" type="multinuc" parent="219" relname="span"/>
-		<group id="219" type="span" parent="216" relname="causal-cause"/>
-		<group id="220" type="span" parent="221" relname="joint-list"/>
-		<group id="221" type="multinuc" parent="222" relname="span"/>
-		<group id="222" type="span" parent="223" relname="span"/>
-		<group id="223" type="span" parent="225" relname="joint-list"/>
-		<group id="224" type="span" parent="225" relname="joint-list"/>
-		<group id="225" type="multinuc" parent="226" relname="span"/>
-		<group id="226" type="span" parent="319" relname="joint-other"/>
-		<group id="227" type="span" parent="228" relname="joint-list"/>
-		<group id="228" type="multinuc" parent="264" relname="topic-question"/>
-		<group id="229" type="span" parent="76" relname="elaboration-attribute"/>
-		<group id="231" type="multinuc" parent="234" relname="joint-disjunction"/>
-		<group id="232" type="span" parent="233" relname="same-unit"/>
-		<group id="233" type="multinuc" parent="234" relname="joint-disjunction"/>
-		<group id="234" type="multinuc" parent="261" relname="contingency-condition"/>
-		<group id="235" type="span" parent="231" relname="same-unit"/>
-		<group id="236" type="multinuc" parent="261" relname="span"/>
+		<group id="208" type="multinuc" parent="216" relname="causal-cause"/>
+		<group id="209" type="span" parent="215" relname="joint-list"/>
+		<group id="210" type="span" parent="214" relname="span"/>
+		<group id="211" type="span" parent="212" relname="same-unit"/>
+		<group id="212" type="multinuc" parent="213" relname="span"/>
+		<group id="213" type="span" parent="210" relname="causal-cause"/>
+		<group id="214" type="span" parent="215" relname="joint-list"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="219" relname="joint-list"/>
+		<group id="218" type="span" parent="219" relname="joint-list"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="309" relname="joint-other"/>
+		<group id="221" type="span" parent="222" relname="joint-list"/>
+		<group id="222" type="multinuc" parent="255" relname="topic-question"/>
+		<group id="223" type="span" parent="75" relname="elaboration-attribute"/>
+		<group id="224" type="multinuc" parent="227" relname="joint-disjunction"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="227" relname="joint-disjunction"/>
+		<group id="227" type="multinuc" parent="252" relname="contingency-condition"/>
+		<group id="228" type="span" parent="224" relname="same-unit"/>
+		<group id="229" type="multinuc" parent="252" relname="span"/>
+		<group id="230" type="span" parent="231" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="232" relname="joint-list"/>
+		<group id="232" type="multinuc" parent="229" relname="joint-list"/>
+		<group id="233" type="span" parent="234" relname="same-unit"/>
+		<group id="234" type="multinuc" parent="229" relname="adversative-antithesis"/>
+		<group id="235" type="span" parent="234" relname="same-unit"/>
+		<group id="236" type="span" parent="242" relname="organization-preparation"/>
 		<group id="237" type="span" parent="238" relname="same-unit"/>
-		<group id="238" type="multinuc" parent="239" relname="joint-list"/>
-		<group id="239" type="multinuc" parent="236" relname="joint-list"/>
-		<group id="240" type="span" parent="241" relname="same-unit"/>
-		<group id="241" type="multinuc" parent="236" relname="adversative-antithesis"/>
-		<group id="244" type="span" parent="241" relname="same-unit"/>
-		<group id="245" type="span" parent="251" relname="organization-preparation"/>
+		<group id="238" type="multinuc" parent="239" relname="span"/>
+		<group id="239" type="span" parent="242" relname="adversative-contrast"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="242" relname="adversative-contrast"/>
+		<group id="242" type="multinuc" parent="254" relname="span"/>
+		<group id="243" type="span" parent="244" relname="same-unit"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="106" relname="mode-means"/>
 		<group id="246" type="span" parent="247" relname="same-unit"/>
-		<group id="247" type="multinuc" parent="248" relname="span"/>
-		<group id="248" type="span" parent="251" relname="adversative-contrast"/>
-		<group id="249" type="span" parent="250" relname="span"/>
-		<group id="250" type="span" parent="251" relname="adversative-contrast"/>
-		<group id="251" type="multinuc" parent="263" relname="span"/>
-		<group id="252" type="span" parent="253" relname="same-unit"/>
-		<group id="253" type="multinuc" parent="254" relname="span"/>
-		<group id="254" type="span" parent="107" relname="mode-means"/>
-		<group id="255" type="span" parent="256" relname="same-unit"/>
-		<group id="256" type="multinuc" parent="258" relname="causal-cause"/>
-		<group id="257" type="span" parent="258" relname="same-unit"/>
-		<group id="258" type="multinuc" parent="259" relname="span"/>
-		<group id="259" type="span" parent="111" relname="context-background"/>
-		<group id="260" type="span" parent="302" relname="topic-question"/>
-		<group id="261" type="span" parent="262" relname="span"/>
-		<group id="262" type="span" parent="264" relname="joint-list"/>
-		<group id="263" type="span" parent="264" relname="joint-list"/>
-		<group id="264" type="multinuc" parent="265" relname="span"/>
-		<group id="265" type="span" parent="319" relname="joint-other"/>
-		<group id="266" type="span" parent="269" relname="causal-cause"/>
+		<group id="247" type="multinuc" parent="249" relname="causal-cause"/>
+		<group id="248" type="span" parent="249" relname="same-unit"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="110" relname="context-background"/>
+		<group id="251" type="span" parent="292" relname="topic-question"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="255" relname="joint-list"/>
+		<group id="254" type="span" parent="255" relname="joint-list"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="309" relname="joint-other"/>
+		<group id="257" type="span" parent="260" relname="causal-cause"/>
+		<group id="258" type="span" parent="259" relname="same-unit"/>
+		<group id="259" type="multinuc" parent="260" relname="span"/>
+		<group id="260" type="span" parent="289" relname="span"/>
+		<group id="261" type="multinuc" parent="118" relname="purpose-goal"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="293" relname="span"/>
+		<group id="264" type="span" parent="265" relname="same-unit"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="268" relname="adversative-concession"/>
 		<group id="267" type="span" parent="268" relname="same-unit"/>
-		<group id="268" type="multinuc" parent="269" relname="span"/>
-		<group id="269" type="span" parent="299" relname="span"/>
-		<group id="270" type="multinuc" parent="119" relname="purpose-goal"/>
-		<group id="271" type="span" parent="272" relname="span"/>
-		<group id="272" type="span" parent="303" relname="span"/>
-		<group id="273" type="span" parent="274" relname="same-unit"/>
-		<group id="274" type="multinuc" parent="275" relname="span"/>
-		<group id="275" type="span" parent="277" relname="adversative-concession"/>
-		<group id="276" type="span" parent="277" relname="same-unit"/>
-		<group id="277" type="multinuc" parent="300" relname="span"/>
-		<group id="278" type="span" parent="279" relname="same-unit"/>
-		<group id="279" type="multinuc" parent="281" relname="adversative-concession"/>
-		<group id="280" type="span" parent="281" relname="same-unit"/>
-		<group id="281" type="multinuc" parent="282" relname="span"/>
-		<group id="282" type="span" parent="283" relname="span"/>
-		<group id="283" type="span" parent="301" relname="joint-other"/>
-		<group id="284" type="span" parent="285" relname="same-unit"/>
-		<group id="285" type="multinuc" parent="286" relname="span"/>
-		<group id="286" type="span" parent="140" relname="context-background"/>
-		<group id="287" type="span" parent="317" relname="topic-question"/>
-		<group id="288" type="multinuc" parent="305" relname="span"/>
-		<group id="289" type="span" parent="290" relname="same-unit"/>
-		<group id="290" type="multinuc" parent="294" relname="same-unit"/>
-		<group id="291" type="span" parent="292" relname="same-unit"/>
-		<group id="292" type="multinuc" parent="150" relname="context-circumstance"/>
-		<group id="293" type="span" parent="294" relname="same-unit"/>
-		<group id="294" type="multinuc" parent="151" relname="elaboration-attribute"/>
-		<group id="295" type="span" parent="296" relname="same-unit"/>
-		<group id="296" type="multinuc" parent="288" relname="elaboration-additional"/>
-		<group id="298" type="span" parent="316" relname="span"/>
-		<group id="299" type="span" parent="272" relname="context-background"/>
-		<group id="300" type="span" parent="301" relname="joint-other"/>
-		<group id="301" type="multinuc" parent="303" relname="explanation-justify"/>
-		<group id="302" type="span" parent="304" relname="span"/>
-		<group id="303" type="span" parent="302" relname="span"/>
-		<group id="304" type="span" parent="319" relname="joint-other"/>
-		<group id="305" type="span" parent="306" relname="span"/>
-		<group id="306" type="span" parent="316" relname="explanation-justify"/>
-		<group id="307" type="span" parent="313" relname="context-background"/>
-		<group id="308" type="span" parent="309" relname="joint-list"/>
-		<group id="309" type="multinuc" parent="157" relname="purpose-goal"/>
-		<group id="310" type="span" parent="311" relname="same-unit"/>
-		<group id="311" type="multinuc" parent="312" relname="span"/>
-		<group id="312" type="span" parent="314" relname="causal-result"/>
-		<group id="313" type="span" parent="314" relname="span"/>
-		<group id="314" type="span" parent="315" relname="span"/>
-		<group id="315" type="span" parent="298" relname="elaboration-additional"/>
-		<group id="316" type="span" parent="317" relname="span"/>
-		<group id="317" type="span" parent="318" relname="span"/>
-		<group id="318" type="span" parent="319" relname="joint-other"/>
-		<group id="319" type="multinuc" parent="320" relname="span"/>
-		<group id="320" type="span" parent="321" relname="span"/>
-		<group id="321" type="span" parent="322" relname="span"/>
-		<group id="322" type="span" />
+		<group id="268" type="multinuc" parent="290" relname="span"/>
+		<group id="269" type="span" parent="270" relname="same-unit"/>
+		<group id="270" type="multinuc" parent="272" relname="adversative-concession"/>
+		<group id="271" type="span" parent="272" relname="same-unit"/>
+		<group id="272" type="multinuc" parent="273" relname="span"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" parent="291" relname="joint-other"/>
+		<group id="275" type="span" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="139" relname="context-background"/>
+		<group id="278" type="span" parent="307" relname="topic-question"/>
+		<group id="279" type="multinuc" parent="295" relname="span"/>
+		<group id="280" type="span" parent="285" relname="same-unit"/>
+		<group id="282" type="span" parent="285" relname="same-unit"/>
+		<group id="285" type="multinuc" parent="148" relname="elaboration-attribute"/>
+		<group id="286" type="span" parent="287" relname="same-unit"/>
+		<group id="287" type="multinuc" parent="279" relname="elaboration-additional"/>
+		<group id="288" type="span" parent="306" relname="span"/>
+		<group id="289" type="span" parent="263" relname="context-background"/>
+		<group id="290" type="span" parent="291" relname="joint-other"/>
+		<group id="291" type="multinuc" parent="293" relname="explanation-justify"/>
+		<group id="292" type="span" parent="294" relname="span"/>
+		<group id="293" type="span" parent="292" relname="span"/>
+		<group id="294" type="span" parent="309" relname="joint-other"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="306" relname="explanation-justify"/>
+		<group id="297" type="span" parent="303" relname="context-background"/>
+		<group id="298" type="span" parent="299" relname="joint-list"/>
+		<group id="299" type="multinuc" parent="154" relname="purpose-goal"/>
+		<group id="300" type="span" parent="301" relname="same-unit"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="304" relname="causal-result"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="288" relname="elaboration-additional"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" parent="309" relname="joint-other"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="312" relname="span"/>
+		<group id="312" type="span" />
 	</body>
 </rst>

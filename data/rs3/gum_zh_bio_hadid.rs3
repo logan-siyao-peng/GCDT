@@ -36,347 +36,340 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="337" relname="organization-heading">扎哈·哈迪德</segment>
-		<segment id="2" parent="186" relname="span">扎哈·穆罕默德·哈迪德 女 爵士 ， DBE</segment>
+		<segment id="1" parent="325" relname="organization-heading">扎哈·哈迪德</segment>
+		<segment id="2" parent="182" relname="span">扎哈·穆罕默德·哈迪德 女 爵士 ， DBE</segment>
 		<segment id="3" parent="4" relname="organization-preparation">（ 英语 ：</segment>
-		<segment id="4" parent="183" relname="span">Dame Zaha Mohammad Hadid ；</segment>
+		<segment id="4" parent="179" relname="span">Dame Zaha Mohammad Hadid ；</segment>
 		<segment id="5" parent="6" relname="organization-preparation">阿拉伯语 ：</segment>
-		<segment id="6" parent="185" relname="span">زها حديد‎ ，</segment>
-		<segment id="7" parent="187" relname="joint-other">1950年 10月 31日 － 2016年 3月 31日 ） ，</segment>
-		<segment id="8" parent="188" relname="joint-list">香港 译 萨哈·哈帝 ，</segment>
-		<segment id="9" parent="188" relname="joint-list">台湾 译 札哈·哈蒂 ，</segment>
-		<segment id="10" parent="192" relname="same-unit">生于 伊拉克 巴格达 ，</segment>
-		<segment id="11" parent="339" relname="joint-list">伊拉克裔 英国 建筑师 ，</segment>
-		<segment id="12" parent="191" relname="joint-sequence">后来 定居 英国 ，</segment>
-		<segment id="13" parent="190" relname="same-unit">于 2004年 成为</segment>
-		<segment id="14" parent="15" relname="elaboration-attribute">首 位 获得 普利兹克 建筑 奖 的</segment>
-		<segment id="15" parent="189" relname="span">女性 建筑师 。</segment>
-		<segment id="16" parent="191" relname="explanation-evidence">[ 1 ]</segment>
-		<segment id="17" parent="340" relname="span">她 于 2010年 和 2011年 获得 英国 建筑 的 最高 荣誉</segment>
-		<segment id="18" parent="341" relname="restatement-repetition">－ 斯特灵奖</segment>
-		<segment id="19" parent="341" relname="restatement-repetition">（ Stirling Prize ） 。</segment>
-		<segment id="20" parent="197" relname="same-unit">2012年 ，</segment>
+		<segment id="6" parent="181" relname="span">زها حديد‎ ，</segment>
+		<segment id="7" parent="183" relname="joint-other">1950年 10月 31日 － 2016年 3月 31日 ） ，</segment>
+		<segment id="8" parent="184" relname="joint-list">香港 译 萨哈·哈帝 ，</segment>
+		<segment id="9" parent="184" relname="joint-list">台湾 译 札哈·哈蒂 ，</segment>
+		<segment id="10" parent="188" relname="same-unit">生于 伊拉克 巴格达 ，</segment>
+		<segment id="11" parent="327" relname="joint-list">伊拉克裔 英国 建筑师 ，</segment>
+		<segment id="12" parent="187" relname="joint-sequence">后来 定居 英国 ，</segment>
+		<segment id="13" parent="186" relname="same-unit">于 2004年 成为 首 位</segment>
+		<segment id="14" parent="15" relname="elaboration-attribute">获得 普利兹克 建筑 奖 的</segment>
+		<segment id="15" parent="185" relname="span">女性 建筑师 。</segment>
+		<segment id="16" parent="187" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="17" parent="328" relname="span">她 于 2010年 和 2011年 获得 英国 建筑 的 最高 荣誉</segment>
+		<segment id="18" parent="329" relname="restatement-repetition">－ 斯特灵奖</segment>
+		<segment id="19" parent="329" relname="restatement-repetition">（ Stirling Prize ） 。</segment>
+		<segment id="20" parent="192" relname="same-unit">2012年 ，</segment>
 		<segment id="21" parent="22" relname="causal-cause">由于 她 在 建筑 上 的 成就 ，</segment>
-		<segment id="22" parent="196" relname="span">她 被 伊丽莎白 二世 授予 女 爵士 的 爵位 。</segment>
-		<segment id="23" parent="201" relname="same-unit">2015年 ， 她 成为 第一 位 且 唯一 位</segment>
-		<segment id="24" parent="198" relname="span">从 英国 皇家 建筑师 协会 获得 皇家 金奖</segment>
+		<segment id="22" parent="191" relname="span">她 被 伊丽莎白 二世 授予 女 爵士 的 爵位 。</segment>
+		<segment id="23" parent="196" relname="same-unit">2015年 ， 她 成为 第一 位 且 唯一 位</segment>
+		<segment id="24" parent="193" relname="span">从 英国 皇家 建筑师 协会 获得 皇家 金奖</segment>
 		<segment id="25" parent="24" relname="restatement-partial">（ Royal Gold Medal ）</segment>
-		<segment id="26" parent="199" relname="same-unit">的</segment>
-		<segment id="27" parent="200" relname="span">女性 。</segment>
-		<segment id="28" parent="201" relname="explanation-evidence">[ 2 ] [ 3 ]</segment>
-		<segment id="29" parent="195" relname="evaluation-comment">以上 的 成就 使得 她 在 国际 建筑界 享负 盛名 。</segment>
+		<segment id="26" parent="194" relname="same-unit">的</segment>
+		<segment id="27" parent="195" relname="span">女性 。</segment>
+		<segment id="28" parent="196" relname="explanation-evidence">[ 2 ] [ 3 ]</segment>
+		<segment id="29" parent="190" relname="evaluation-comment">以上 的 成就 使得 她 在 国际 建筑界 享负 盛名 。</segment>
 		<segment id="30" parent="31" relname="context-background">除 建筑 奖项 外 ，</segment>
-		<segment id="31" parent="204" relname="span">媒体 也 给予 她 极 高 的 评价 ， 如 ：</segment>
-		<segment id="32" parent="205" relname="span">伦敦 卫报 称 她 为 “ 曲线 女王</segment>
+		<segment id="31" parent="199" relname="span">媒体 也 给予 她 极 高 的 评价 ， 如 ：</segment>
+		<segment id="32" parent="200" relname="span">伦敦 卫报 称 她 为 “ 曲线 女王</segment>
 		<segment id="33" parent="32" relname="restatement-partial">（ Queen of the curve ） ” 。</segment>
-		<segment id="34" parent="205" relname="explanation-evidence">[ 4 ]</segment>
-		<segment id="35" parent="207" relname="attribution-positive">而 纽约 时报 则 赞扬 她 ，</segment>
-		<segment id="36" parent="207" relname="joint-list">“ 解放 了 建筑 几何学 ，</segment>
-		<segment id="37" parent="207" relname="joint-list">并 赋予 它 一 种 全新 的 表现 形式 。 ”</segment>
-		<segment id="38" parent="208" relname="explanation-evidence">[ 5 ]</segment>
-		<segment id="39" parent="216" relname="joint-list">她 的 主要 作品 包含 2012年 伦敦 奥运 的 伦敦 水上 运动 中心 ， 美国 密歇根 州立 大学 伊莱 和 伊迪特·布罗德 美术馆 和 中国 广州 大 剧院 。</segment>
-		<segment id="40" parent="213" relname="same-unit">部分 的 建筑 作品</segment>
+		<segment id="34" parent="200" relname="explanation-evidence">[ 4 ]</segment>
+		<segment id="35" parent="202" relname="attribution-positive">而 纽约 时报 则 赞扬 她 ，</segment>
+		<segment id="36" parent="202" relname="joint-list">“ 解放 了 建筑 几何学 ，</segment>
+		<segment id="37" parent="202" relname="joint-list">并 赋予 它 一 种 全新 的 表现 形式 。 ”</segment>
+		<segment id="38" parent="203" relname="explanation-evidence">[ 5 ]</segment>
+		<segment id="39" parent="211" relname="joint-list">她 的 主要 作品 包含 2012年 伦敦 奥运 的 伦敦 水上 运动 中心 ， 美国 密歇根 州立 大学 伊莱 和 伊迪特·布罗德 美术馆 和 中国 广州 大 剧院 。</segment>
+		<segment id="40" parent="208" relname="same-unit">部分 的 建筑 作品</segment>
 		<segment id="41" parent="42" relname="context-circumstance">在 她 过世 时</segment>
-		<segment id="42" parent="212" relname="span">完成 ，</segment>
-		<segment id="43" parent="213" relname="elaboration-additional">包含 2017年 全英 音乐 奖 的 雕像</segment>
-		<segment id="44" parent="214" relname="explanation-evidence">[ 6 ] ；</segment>
-		<segment id="45" parent="218" relname="same-unit">而 有些 作品</segment>
+		<segment id="42" parent="207" relname="span">完成 ，</segment>
+		<segment id="43" parent="208" relname="elaboration-additional">包含 2017年 全英 音乐 奖 的 雕像</segment>
+		<segment id="44" parent="209" relname="explanation-evidence">[ 6 ] ；</segment>
+		<segment id="45" parent="213" relname="same-unit">而 有些 作品</segment>
 		<segment id="46" parent="47" relname="context-circumstance">在 她 去世 时</segment>
-		<segment id="47" parent="217" relname="span">仍 在 修建 ，</segment>
-		<segment id="48" parent="219" relname="span">包含 位于 卡塔尔 的 沃克拉 体育场</segment>
+		<segment id="47" parent="212" relname="span">仍 在 修建 ，</segment>
+		<segment id="48" parent="214" relname="span">包含 位于 卡塔尔 的 沃克拉 体育场</segment>
 		<segment id="49" parent="48" relname="restatement-partial">（ Al Wakrah Stadium ） ，</segment>
-		<segment id="50" parent="220" relname="same-unit">2022年 世界杯 足球赛 的 会场 ， 新北市 的 淡江 大桥 。</segment>
-		<segment id="51" parent="240" relname="organization-heading">早期 生活 和 学术 生涯</segment>
-		<segment id="52" parent="223" relname="joint-list">哈迪德 于 1950年 10月 31日 出生 在 伊拉克 首都 巴格达 ，</segment>
-		<segment id="53" parent="223" relname="joint-list">家庭 背景 属于 上流 社会 。</segment>
-		<segment id="54" parent="223" relname="explanation-evidence">[ 7 ]</segment>
-		<segment id="55" parent="234" relname="span">她 的 父亲 Mohammed Hadid 是 摩苏尔 富有 的 实业家 ，</segment>
-		<segment id="56" parent="225" relname="span">他 于 1932年 共同 创办 了 左派 自由派 阿哈利 集团</segment>
+		<segment id="50" parent="215" relname="same-unit">2022年 世界杯 足球赛 的 会场 ， 新北市 的 淡江 大桥 。</segment>
+		<segment id="51" parent="235" relname="organization-heading">早期 生活 和 学术 生涯</segment>
+		<segment id="52" parent="218" relname="joint-list">哈迪德 于 1950年 10月 31日 出生 在 伊拉克 首都 巴格达 ，</segment>
+		<segment id="53" parent="218" relname="joint-list">家庭 背景 属于 上流 社会 。</segment>
+		<segment id="54" parent="218" relname="explanation-evidence">[ 7 ]</segment>
+		<segment id="55" parent="229" relname="span">她 的 父亲 Mohammed Hadid 是 摩苏尔 富有 的 实业家 ，</segment>
+		<segment id="56" parent="220" relname="span">他 于 1932年 共同 创办 了 左派 自由派 阿哈利 集团</segment>
 		<segment id="57" parent="56" relname="restatement-partial">（ Ahali group ） ，</segment>
-		<segment id="58" parent="225" relname="elaboration-additional">这 是 20 世纪 30年代 与 40年代 重要 的 政治 组织</segment>
-		<segment id="59" parent="226" relname="explanation-evidence">[ 7 ] ；</segment>
-		<segment id="60" parent="227" relname="span">他 也 是 伊拉克 全国 民主党</segment>
+		<segment id="58" parent="220" relname="elaboration-additional">这 是 20 世纪 30年代 与 40年代 重要 的 政治 组织</segment>
+		<segment id="59" parent="221" relname="explanation-evidence">[ 7 ] ；</segment>
+		<segment id="60" parent="222" relname="span">他 也 是 伊拉克 全国 民主党</segment>
 		<segment id="61" parent="60" relname="restatement-partial">（ National Democratic Party ）</segment>
-		<segment id="62" parent="228" relname="same-unit">的 联合 创始人</segment>
-		<segment id="63" parent="228" relname="explanation-evidence">[ 7 ] ，</segment>
-		<segment id="64" parent="231" relname="joint-list">并 于 1958年 的 伊拉克 政变 后</segment>
-		<segment id="65" parent="231" relname="joint-list">为 阿卜杜勒-卡里姆·卡塞姆 将军 政府 推翻 君主 之后</segment>
-		<segment id="66" parent="232" relname="span">担任 财务 部长 。</segment>
-		<segment id="67" parent="235" relname="span">她 的 母亲 Wajiha al-Sabunji 是 摩苏尔 艺术家</segment>
+		<segment id="62" parent="223" relname="same-unit">的 联合 创始人</segment>
+		<segment id="63" parent="223" relname="explanation-evidence">[ 7 ] ，</segment>
+		<segment id="64" parent="226" relname="joint-list">并 于 1958年 的 伊拉克 政变 后</segment>
+		<segment id="65" parent="226" relname="joint-list">为 阿卜杜勒-卡里姆·卡塞姆 将军 政府 推翻 君主 之后</segment>
+		<segment id="66" parent="227" relname="span">担任 财务 部长 。</segment>
+		<segment id="67" parent="230" relname="span">她 的 母亲 Wajiha al-Sabunji 是 摩苏尔 艺术家</segment>
 		<segment id="68" parent="67" relname="explanation-evidence">[ 8 ] ，</segment>
-		<segment id="69" parent="236" relname="span">而 她 的 兄弟 Foulath Hadid 是 阿拉伯 事务 的 作家 ， 会计师 和 专家</segment>
+		<segment id="69" parent="231" relname="span">而 她 的 兄弟 Foulath Hadid 是 阿拉伯 事务 的 作家 ， 会计师 和 专家</segment>
 		<segment id="70" parent="69" relname="explanation-evidence">[ 9 ] 。</segment>
-		<segment id="71" parent="72" relname="context-circumstance">扎哈·哈迪德 小 时</segment>
-		<segment id="72" parent="238" relname="span">曾 在 英国 和 瑞士 就读 寄宿 学校</segment>
-		<segment id="73" parent="238" relname="explanation-evidence">[ 10 ] [ 11 ] ，</segment>
-		<segment id="74" parent="240" relname="joint-sequence">后 大学 本科 阶段 在 黎巴嫩贝 鲁特 美国 大学 攻读 数学系 。</segment>
-		<segment id="75" parent="242" relname="joint-list">1972年 ， 她 从 黎巴嫩 搬到 英国 ，</segment>
-		<segment id="76" parent="77" relname="context-circumstance">就读 英国 伦敦 建筑 联盟 学院 后 ，</segment>
-		<segment id="77" parent="241" relname="span">才 正式 开始 学习 建筑 。</segment>
-		<segment id="78" parent="243" relname="span">在 那里 她 师从 雷姆·库哈斯 、 埃利亚·增西利斯 和 阿尔多·罗西</segment>
-		<segment id="79" parent="78" relname="explanation-evidence">[ 12 ] 。</segment>
-		<segment id="80" parent="245" relname="same-unit">她 的 教授 库哈斯</segment>
-		<segment id="81" parent="82" relname="context-circumstance">在 毕业 典礼 时</segment>
-		<segment id="82" parent="244" relname="span">形容 她 为 “ 一 颗</segment>
-		<segment id="83" parent="84" relname="elaboration-attribute">处 在 自己 轨道 上 的</segment>
-		<segment id="84" parent="246" relname="span">行星 ” 。</segment>
-		<segment id="85" parent="343" relname="attribution-positive">增西利斯 则 评价</segment>
-		<segment id="86" parent="343" relname="same-unit">扎哈·哈迪德 是</segment>
-		<segment id="87" parent="88" relname="elaboration-attribute">自己 教过</segment>
-		<segment id="88" parent="342" relname="span">最 出色 的 学生 。</segment>
-		<segment id="89" parent="247" relname="span">“ ‘ 我们 称 她 是 89 ° 的 发明者 ，</segment>
-		<segment id="90" parent="248" relname="span">没有 任何 东西 是 90 °</segment>
-		<segment id="91" parent="90" relname="restatement-partial">（ 直角 ） ’ 。</segment>
-		<segment id="92" parent="249" relname="span">‘ 她 拥有 恢弘 的 视野 ，</segment>
-		<segment id="93" parent="92" relname="explanation-evidence">所有 的 建筑 都 被 分裂 成 小 块 ’ 。 ”</segment>
-		<segment id="94" parent="262" relname="attribution-positive">他 回忆 说</segment>
-		<segment id="95" parent="261" relname="span">扎哈 对于 细节 并不 太 感兴趣 ， 比如说 楼梯 。</segment>
-		<segment id="96" parent="97" relname="elaboration-attribute">“ 她 画 楼梯 的</segment>
-		<segment id="97" parent="253" relname="span">方式 会 让 你 的 脑袋 被 天花板 挤碎 ，</segment>
-		<segment id="98" parent="99" relname="causal-cause">空间 在 被 不断 的 节省 ，</segment>
-		<segment id="99" parent="255" relname="span">最后 你 会 被 顶到 天花板 的 角 上 。</segment>
-		<segment id="100" parent="256" relname="adversative-contrast">她 并不 会 去 注意 那些 很 小 的 细节 ，</segment>
-		<segment id="101" parent="256" relname="adversative-contrast">而 是 着重于 更 大 的 视野 上 ，</segment>
-		<segment id="102" parent="103" relname="context-circumstance">谈到 细 木工 时</segment>
-		<segment id="103" parent="257" relname="span">她 知道</segment>
-		<segment id="104" parent="258" relname="span">我们 可以 稍后 修复 调整 ，</segment>
-		<segment id="105" parent="258" relname="evaluation-comment">而 这 是 十分 英明 的 。 ”</segment>
-		<segment id="106" parent="263" relname="explanation-evidence">[ 13 ] 。</segment>
-		<segment id="107" parent="270" relname="context-circumstance">1977年 ， 取得 硕士 学位 后 ，</segment>
-		<segment id="108" parent="269" relname="same-unit">扎哈·哈迪德 加入</segment>
-		<segment id="109" parent="110" relname="elaboration-attribute">坐落于 荷兰 鹿特丹 的</segment>
-		<segment id="110" parent="268" relname="span">大都会 建筑 事务所</segment>
-		<segment id="111" parent="270" relname="joint-list">与 她 的 前 教授 雷姆·库哈斯 、 埃利亚·增西利斯 一起 工作 ，</segment>
-		<segment id="112" parent="272" relname="mode-means">通过 与 雷姆·库哈斯 的 合作 ，</segment>
-		<segment id="113" parent="272" relname="same-unit">她 结识 了</segment>
-		<segment id="114" parent="115" relname="elaboration-attribute">给予 她 许多 支持 与 鼓励 的</segment>
-		<segment id="115" parent="271" relname="span">爱尔兰 建筑 工程师 彼得•莱斯 。</segment>
-		<segment id="116" parent="274" relname="span">随后 ， 扎哈·哈迪德 正式 成为 英国 居民</segment>
-		<segment id="117" parent="116" relname="explanation-evidence">[ 14 ] [ 15 ] ，</segment>
-		<segment id="118" parent="275" relname="joint-list">并 成为 建筑 联盟 学院 的 老师 。</segment>
-		<segment id="119" parent="279" relname="joint-sequence">1980年 ， 扎哈·哈迪德 在 伦敦 成立 了 自己 的 建筑师 事务所 。</segment>
-		<segment id="120" parent="277" relname="same-unit">直 到 1980年 前 ， 扎哈·哈迪德 基本上</segment>
-		<segment id="121" parent="122" relname="mode-manner">以 教职 为 重心</segment>
-		<segment id="122" parent="276" relname="span">发展 ，</segment>
-		<segment id="123" parent="289" relname="joint-list">曾 先后 在 纽约市 哥伦比亚 大学 、 波士顿 的 哈佛 大学 、 芝加哥 大学 、 伊利诺伊 大学 、 柏林 艺术 大学 任教 。</segment>
-		<segment id="124" parent="284" relname="same-unit">扎哈·哈迪德 最初 得名于 其 授课 方式 及</segment>
-		<segment id="125" parent="280" relname="adversative-contrast">广泛 发表于 建筑 杂志</segment>
-		<segment id="126" parent="280" relname="adversative-contrast">但 却 未 被 修建 的</segment>
-		<segment id="127" parent="346" relname="same-unit">那些</segment>
-		<segment id="128" parent="345" relname="joint-list">早期 色彩 斑斓</segment>
-		<segment id="129" parent="345" relname="joint-list">而 充满 创意 的</segment>
-		<segment id="130" parent="344" relname="span">设计 作品 。</segment>
-		<segment id="131" parent="287" relname="same-unit">其中 包括</segment>
-		<segment id="132" parent="133" relname="elaboration-attribute">1983年 为 香港 设计 的</segment>
-		<segment id="133" parent="285" relname="span">高塔 草图 以及</segment>
-		<segment id="134" parent="135" relname="elaboration-attribute">1994年 设计 的</segment>
-		<segment id="135" parent="286" relname="span">加的夫湾 歌剧院 。</segment>
-		<segment id="136" parent="292" relname="organization-preparation">在 加的夫 的 这 段 经历 颇 具 周折 ：</segment>
-		<segment id="137" parent="290" relname="adversative-contrast">她 的 设计 被 竞选 评委会 选为 最佳 ，</segment>
-		<segment id="138" parent="290" relname="adversative-contrast">但 威尔士 政府 拒绝 为 此 建设 买单 ，</segment>
-		<segment id="139" parent="291" relname="joint-list">因此 评选 委员会 不得不 退而求其次</segment>
-		<segment id="140" parent="291" relname="joint-list">选择 了 其他 的 设计 方案</segment>
-		<segment id="141" parent="293" relname="explanation-evidence">[ 16 ] 。</segment>
-		<segment id="142" parent="296" relname="joint-list">扎哈·哈迪德 的 设计 作品 以 其 大胆 丰富 的 设计感 和 色彩 是 她 蜚声 海外 ，</segment>
-		<segment id="143" parent="296" relname="joint-list">远远 高于 她 在 建筑 教学 领域 的 成功 。</segment>
-		<segment id="144" parent="298" relname="same-unit">1988年 她 的 作品 被</segment>
-		<segment id="145" parent="146" relname="elaboration-attribute">由 菲力普·约翰逊 、 马克·威格利 在 纽约 现代 艺术 博物馆 策划 的</segment>
-		<segment id="146" parent="297" relname="span">建筑 结构 主义 展览 选中 ，</segment>
-		<segment id="147" parent="299" relname="joint-list">成为 七 个 参展 建筑 作品 之一 ，</segment>
-		<segment id="148" parent="299" relname="evaluation-comment">这 也 极 大 奠定 了 扎哈·哈迪德 在 建筑界 的 影响力</segment>
-		<segment id="149" parent="300" relname="explanation-evidence">[ 17 ] 。</segment>
-		<segment id="150" parent="328" relname="organization-heading">1983年 后</segment>
-		<segment id="151" parent="308" relname="span">1983年 ， 扎哈·哈迪德 的 作品 开始 出现 在 重要 国际 建筑 竞图 的 入选者 中 ，</segment>
-		<segment id="152" parent="347" relname="span">使 她 引起 世人 的 注目 ， 一 开始 是 1983年 香港 的 “ 峰 ” 俱乐部</segment>
-		<segment id="153" parent="152" relname="elaboration-attribute">（ The Peak Club ） ，</segment>
-		<segment id="154" parent="348" relname="joint-sequence">接着 是 1986年 柏林 的 Kufurstendamm 购物街 ，</segment>
-		<segment id="155" parent="348" relname="elaboration-additional">都 是 一等 优胜 奖 。</segment>
-		<segment id="156" parent="350" relname="joint-sequence">然后 是 1989年 杜塞尔多夫 的 艺术 媒体 中心 和 1994年 的 加的夫 歌剧院 。</segment>
-		<segment id="157" parent="158" relname="context-background">她 的 设计 才华 也 不仅 止于 建筑 ，</segment>
-		<segment id="158" parent="313" relname="span">还 包括 了 室内 设计 与 产品 设计 ，</segment>
-		<segment id="159" parent="319" relname="span">1985年 ， 扎哈·哈迪德 曾 为 伦敦 Bitar 品牌 ， 设计 过 家具 与 室内 装饰 。</segment>
-		<segment id="160" parent="161" relname="elaboration-attribute">其 承接 的</segment>
-		<segment id="161" parent="314" relname="span">建筑案 中 ， 不少 室内 设计 都 出 自 哈迪德 之 手 ， 如</segment>
-		<segment id="162" parent="163" relname="elaboration-attribute">在 1982年 获得 建筑 设计 金奖 的</segment>
-		<segment id="163" parent="315" relname="span">伊顿 广场 公寓 、</segment>
-		<segment id="164" parent="165" relname="elaboration-attribute">1998年 在 东京 设计 的</segment>
-		<segment id="165" parent="317" relname="span">公寓 、</segment>
-		<segment id="166" parent="167" relname="elaboration-attribute">1990年 在 大阪 设计 的</segment>
-		<segment id="167" parent="318" relname="span">Folly 等 。</segment>
-		<segment id="168" parent="322" relname="joint-sequence">1990年 开始 她 也 承接 了 不少 的 大型 展场 设计 ， 如 Gronningen 的 视觉 艺术 设计 展馆 、 1992年 纽约 所罗门·古根汉 美术馆 的 展览 。</segment>
-		<segment id="169" parent="323" relname="span">1994年 ， 扎哈·哈迪德 获得 了 英国 威尔士 卡的夫湾 歌剧院 竞图 方案 的 一等 奖 。</segment>
-		<segment id="170" parent="325" relname="same-unit">但是 ， 最终</segment>
-		<segment id="171" parent="172" relname="causal-cause">因 卡的夫 地方 的 反对</segment>
-		<segment id="172" parent="324" relname="span">而 未能 实现 。</segment>
-		<segment id="173" parent="326" relname="span">2008年 设计 2万 人 座位 伦敦 水上 运动 中心 ，</segment>
-		<segment id="174" parent="173" relname="elaboration-additional">此 水运 中心 是 为 2012年 夏季 奥运 场地 之一 。</segment>
-		<segment id="175" parent="330" relname="same-unit">2016年 3月 31日 ， 在 美国 佛罗里达州 迈阿密 一 间 医院</segment>
-		<segment id="176" parent="177" relname="causal-cause">因 心脏病</segment>
-		<segment id="177" parent="329" relname="span">逝世 ，</segment>
-		<segment id="178" parent="331" relname="joint-list">享寿 65 岁 。</segment>
-		<segment id="179" parent="331" relname="explanation-evidence">[ 18 ]</segment>
-		<segment id="180" parent="333" relname="span">2017年 ， 香港 及 台湾 展出 扎哈·哈迪德 的 回顾展 ，</segment>
-		<segment id="181" parent="180" relname="purpose-goal">让 建筑迷们 可 亲眼 了解 大师 多 年 来 的 创意 之 路 及 她 的 作品</segment>
-		<segment id="182" parent="333" relname="explanation-evidence">[ 19 ] 。</segment>
-		<group id="183" type="span" parent="184" relname="joint-list"/>
-		<group id="184" type="multinuc" parent="187" relname="joint-other"/>
-		<group id="185" type="span" parent="184" relname="joint-list"/>
-		<group id="186" type="span" parent="192" relname="same-unit"/>
-		<group id="187" type="multinuc" parent="2" relname="elaboration-attribute"/>
-		<group id="188" type="multinuc" parent="187" relname="joint-other"/>
-		<group id="189" type="span" parent="190" relname="same-unit"/>
-		<group id="190" type="multinuc" parent="191" relname="joint-sequence"/>
-		<group id="191" type="multinuc" parent="193" relname="span"/>
-		<group id="192" type="multinuc" parent="339" relname="joint-list"/>
-		<group id="193" type="span" parent="222" relname="joint-other"/>
-		<group id="195" type="multinuc" parent="203" relname="span"/>
-		<group id="196" type="span" parent="197" relname="same-unit"/>
-		<group id="197" type="multinuc" parent="195" relname="joint-sequence"/>
-		<group id="198" type="span" parent="199" relname="same-unit"/>
-		<group id="199" type="multinuc" parent="27" relname="elaboration-attribute"/>
-		<group id="200" type="span" parent="201" relname="same-unit"/>
-		<group id="201" type="multinuc" parent="202" relname="span"/>
-		<group id="202" type="span" parent="195" relname="joint-sequence"/>
-		<group id="203" type="span" parent="222" relname="joint-other"/>
-		<group id="204" type="span" parent="211" relname="span"/>
-		<group id="205" type="span" parent="206" relname="span"/>
-		<group id="206" type="span" parent="210" relname="joint-list"/>
-		<group id="207" type="multinuc" parent="208" relname="span"/>
-		<group id="208" type="span" parent="209" relname="span"/>
-		<group id="209" type="span" parent="210" relname="joint-list"/>
-		<group id="210" type="multinuc" parent="204" relname="explanation-evidence"/>
-		<group id="211" type="span" parent="222" relname="joint-other"/>
+		<segment id="71" parent="339" relname="span">扎哈·哈迪德 小时 曾 在 英国 和 瑞士 就读 寄宿 学校</segment>
+		<segment id="72" parent="71" relname="explanation-evidence">[ 10 ] [ 11 ] ，</segment>
+		<segment id="73" parent="235" relname="joint-sequence">后 大学 本科 阶段 在 黎巴嫩贝 鲁特 美国 大学 攻读 数学系 。</segment>
+		<segment id="74" parent="237" relname="joint-list">1972年 ， 她 从 黎巴嫩 搬到 英国 ，</segment>
+		<segment id="75" parent="76" relname="context-circumstance">就读 英国 伦敦 建筑 联盟 学院 后 ，</segment>
+		<segment id="76" parent="236" relname="span">才 正式 开始 学习 建筑 。</segment>
+		<segment id="77" parent="238" relname="span">在 那里 她 师从 雷姆·库哈斯 、 埃利亚·增西利斯 和 阿尔多·罗西</segment>
+		<segment id="78" parent="77" relname="explanation-evidence">[ 12 ] 。</segment>
+		<segment id="79" parent="240" relname="same-unit">她 的 教授 库哈斯 在 毕业 典礼 时 形容 她 为 “ 一 颗</segment>
+		<segment id="80" parent="81" relname="elaboration-attribute">处 在 自己 轨道 上 的</segment>
+		<segment id="81" parent="241" relname="span">行星 ” 。</segment>
+		<segment id="82" parent="331" relname="attribution-positive">增西利斯 则 评价</segment>
+		<segment id="83" parent="331" relname="same-unit">扎哈·哈迪德 是</segment>
+		<segment id="84" parent="85" relname="elaboration-attribute">自己 教过</segment>
+		<segment id="85" parent="330" relname="span">最 出色 的 学生 。</segment>
+		<segment id="86" parent="242" relname="span">“ ‘ 我们 称 她 是 89 ° 的 发明者 ，</segment>
+		<segment id="87" parent="243" relname="span">没有 任何 东西 是 90 °</segment>
+		<segment id="88" parent="87" relname="restatement-partial">（ 直角 ） ’ 。</segment>
+		<segment id="89" parent="244" relname="span">‘ 她 拥有 恢弘 的 视野 ，</segment>
+		<segment id="90" parent="89" relname="explanation-evidence">所有 的 建筑 都 被 分裂 成 小 块 ’ 。 ”</segment>
+		<segment id="91" parent="257" relname="attribution-positive">他 回忆 说</segment>
+		<segment id="92" parent="256" relname="span">扎哈 对于 细节 并不 太 感兴趣 ， 比如说 楼梯 。</segment>
+		<segment id="93" parent="94" relname="elaboration-attribute">“ 她 画 楼梯 的</segment>
+		<segment id="94" parent="248" relname="span">方式 会 让 你 的 脑袋 被 天花板 挤碎 ，</segment>
+		<segment id="95" parent="96" relname="causal-cause">空间 在 被 不断 的 节省 ，</segment>
+		<segment id="96" parent="250" relname="span">最后 你 会 被 顶到 天花板 的 角 上 。</segment>
+		<segment id="97" parent="251" relname="adversative-contrast">她 并不 会 去 注意 那些 很 小 的 细节 ，</segment>
+		<segment id="98" parent="251" relname="adversative-contrast">而 是 着重于 更 大 的 视野 上 ，</segment>
+		<segment id="99" parent="100" relname="context-circumstance">谈到 细 木工 时</segment>
+		<segment id="100" parent="252" relname="span">她 知道</segment>
+		<segment id="101" parent="253" relname="span">我们 可以 稍后 修复 调整 ，</segment>
+		<segment id="102" parent="253" relname="evaluation-comment">而 这 是 十分 英明 的 。 ”</segment>
+		<segment id="103" parent="258" relname="explanation-evidence">[ 13 ] 。</segment>
+		<segment id="104" parent="265" relname="context-circumstance">1977年 ， 取得 硕士 学位 后 ，</segment>
+		<segment id="105" parent="264" relname="same-unit">扎哈·哈迪德 加入</segment>
+		<segment id="106" parent="107" relname="elaboration-attribute">坐落于 荷兰 鹿特丹 的</segment>
+		<segment id="107" parent="263" relname="span">大都会 建筑 事务所</segment>
+		<segment id="108" parent="265" relname="joint-list">与 她 的 前 教授 雷姆·库哈斯 、 埃利亚·增西利斯 一起 工作 ，</segment>
+		<segment id="109" parent="267" relname="mode-means">通过 与 雷姆·库哈斯 的 合作 ，</segment>
+		<segment id="110" parent="267" relname="same-unit">她 结识 了</segment>
+		<segment id="111" parent="112" relname="elaboration-attribute">给予 她 许多 支持 与 鼓励 的</segment>
+		<segment id="112" parent="266" relname="span">爱尔兰 建筑 工程师 彼得•莱斯 。</segment>
+		<segment id="113" parent="269" relname="span">随后 ， 扎哈·哈迪德 正式 成为 英国 居民</segment>
+		<segment id="114" parent="113" relname="explanation-evidence">[ 14 ] [ 15 ] ，</segment>
+		<segment id="115" parent="270" relname="joint-list">并 成为 建筑 联盟 学院 的 老师 。</segment>
+		<segment id="116" parent="274" relname="joint-sequence">1980年 ， 扎哈·哈迪德 在 伦敦 成立 了 自己 的 建筑师 事务所 。</segment>
+		<segment id="117" parent="272" relname="same-unit">直 到 1980年 前 ， 扎哈·哈迪德 基本上</segment>
+		<segment id="118" parent="119" relname="mode-manner">以 教职 为 重心</segment>
+		<segment id="119" parent="271" relname="span">发展 ，</segment>
+		<segment id="120" parent="282" relname="joint-list">曾 先后 在 纽约市 哥伦比亚 大学 、 波士顿 的 哈佛 大学 、 芝加哥 大学 、 伊利诺伊 大学 、 柏林 艺术 大学 任教 。</segment>
+		<segment id="121" parent="277" relname="same-unit">扎哈·哈迪德 最初 得名于 其 授课 方式 及</segment>
+		<segment id="122" parent="275" relname="adversative-contrast">广泛 发表于 建筑 杂志</segment>
+		<segment id="123" parent="275" relname="adversative-contrast">但 却 未 被 修建 的</segment>
+		<segment id="124" parent="334" relname="same-unit">那些</segment>
+		<segment id="125" parent="333" relname="joint-list">早期 色彩 斑斓</segment>
+		<segment id="126" parent="333" relname="joint-list">而 充满 创意 的</segment>
+		<segment id="127" parent="332" relname="span">设计 作品 。</segment>
+		<segment id="128" parent="280" relname="same-unit">其中 包括</segment>
+		<segment id="129" parent="130" relname="elaboration-attribute">1983年 为 香港 设计 的</segment>
+		<segment id="130" parent="278" relname="span">高塔 草图 以及</segment>
+		<segment id="131" parent="132" relname="elaboration-attribute">1994年 设计 的</segment>
+		<segment id="132" parent="279" relname="span">加的夫湾 歌剧院 。</segment>
+		<segment id="133" parent="340" relname="organization-preparation">在 加的夫 的 这 段 经历 颇 具 周折 ：</segment>
+		<segment id="134" parent="283" relname="adversative-contrast">她 的 设计 被 竞选 评委会 选为 最佳 ，</segment>
+		<segment id="135" parent="283" relname="adversative-contrast">但 威尔士 政府 拒绝 为 此 建设 买单 ，</segment>
+		<segment id="136" parent="340" relname="span">因此 评选 委员会 不得不 退而求其次 选择 了 其他 的 设计 方案</segment>
+		<segment id="137" parent="341" relname="explanation-evidence">[ 16 ] 。</segment>
+		<segment id="138" parent="289" relname="joint-list">扎哈·哈迪德 的 设计 作品 以 其 大胆 丰富 的 设计感 和 色彩 是 她 蜚声 海外 ，</segment>
+		<segment id="139" parent="289" relname="joint-list">远远 高于 她 在 建筑 教学 领域 的 成功 。</segment>
+		<segment id="140" parent="291" relname="same-unit">1988年 她 的 作品 被</segment>
+		<segment id="141" parent="142" relname="elaboration-attribute">由 菲力普·约翰逊 、 马克·威格利 在 纽约 现代 艺术 博物馆 策划 的</segment>
+		<segment id="142" parent="290" relname="span">建筑 结构 主义 展览 选中 ，</segment>
+		<segment id="143" parent="292" relname="joint-list">成为 七 个 参展 建筑 作品 之一 ，</segment>
+		<segment id="144" parent="292" relname="evaluation-comment">这 也 极 大 奠定 了 扎哈·哈迪德 在 建筑界 的 影响力</segment>
+		<segment id="145" parent="293" relname="explanation-evidence">[ 17 ] 。</segment>
+		<segment id="146" parent="316" relname="organization-heading">1983年 后</segment>
+		<segment id="147" parent="301" relname="span">1983年 ， 扎哈·哈迪德 的 作品 开始 出现 在 重要 国际 建筑 竞图 的 入选者 中 ，</segment>
+		<segment id="148" parent="335" relname="span">使 她 引起 世人 的 注目 ， 一 开始 是 1983年 香港 的 “ 峰 ” 俱乐部</segment>
+		<segment id="149" parent="148" relname="elaboration-attribute">（ The Peak Club ） ，</segment>
+		<segment id="150" parent="336" relname="joint-sequence">接着 是 1986年 柏林 的 Kufurstendamm 购物街 ，</segment>
+		<segment id="151" parent="336" relname="elaboration-additional">都 是 一等 优胜 奖 。</segment>
+		<segment id="152" parent="338" relname="joint-sequence">然后 是 1989年 杜塞尔多夫 的 艺术 媒体 中心 和 1994年 的 加的夫 歌剧院 。</segment>
+		<segment id="153" parent="154" relname="context-background">她 的 设计 才华 也 不仅 止于 建筑 ，</segment>
+		<segment id="154" parent="302" relname="span">还 包括 了 室内 设计 与 产品 设计 ，</segment>
+		<segment id="155" parent="308" relname="span">1985年 ， 扎哈·哈迪德 曾 为 伦敦 Bitar 品牌 ， 设计 过 家具 与 室内 装饰 。</segment>
+		<segment id="156" parent="157" relname="elaboration-attribute">其 承接 的</segment>
+		<segment id="157" parent="303" relname="span">建筑案 中 ， 不少 室内 设计 都 出 自 哈迪德 之 手 ， 如</segment>
+		<segment id="158" parent="159" relname="elaboration-attribute">在 1982年 获得 建筑 设计 金奖 的</segment>
+		<segment id="159" parent="304" relname="span">伊顿 广场 公寓 、</segment>
+		<segment id="160" parent="161" relname="elaboration-attribute">1998年 在 东京 设计 的</segment>
+		<segment id="161" parent="306" relname="span">公寓 、</segment>
+		<segment id="162" parent="163" relname="elaboration-attribute">1990年 在 大阪 设计 的</segment>
+		<segment id="163" parent="307" relname="span">Folly 等 。</segment>
+		<segment id="164" parent="310" relname="joint-sequence">1990年 开始 她 也 承接 了 不少 的 大型 展场 设计 ， 如 Gronningen 的 视觉 艺术 设计 展馆 、 1992年 纽约 所罗门·古根汉 美术馆 的 展览 。</segment>
+		<segment id="165" parent="311" relname="span">1994年 ， 扎哈·哈迪德 获得 了 英国 威尔士 卡的夫湾 歌剧院 竞图 方案 的 一等 奖 。</segment>
+		<segment id="166" parent="313" relname="same-unit">但是 ， 最终</segment>
+		<segment id="167" parent="168" relname="causal-cause">因 卡的夫 地方 的 反对</segment>
+		<segment id="168" parent="312" relname="span">而 未能 实现 。</segment>
+		<segment id="169" parent="314" relname="span">2008年 设计 2万 人 座位 伦敦 水上 运动 中心 ，</segment>
+		<segment id="170" parent="169" relname="elaboration-additional">此 水运 中心 是 为 2012年 夏季 奥运 场地 之一 。</segment>
+		<segment id="171" parent="318" relname="same-unit">2016年 3月 31日 ， 在 美国 佛罗里达州 迈阿密 一 间 医院</segment>
+		<segment id="172" parent="173" relname="causal-cause">因 心脏病</segment>
+		<segment id="173" parent="317" relname="span">逝世 ，</segment>
+		<segment id="174" parent="319" relname="joint-list">享寿 65 岁 。</segment>
+		<segment id="175" parent="319" relname="explanation-evidence">[ 18 ]</segment>
+		<segment id="176" parent="321" relname="span">2017年 ， 香港 及 台湾 展出 扎哈·哈迪德 的 回顾展 ，</segment>
+		<segment id="177" parent="176" relname="purpose-goal">让 建筑迷们 可 亲眼 了解 大师 多 年 来 的 创意 之 路 及 她 的 作品</segment>
+		<segment id="178" parent="321" relname="explanation-evidence">[ 19 ] 。</segment>
+		<group id="179" type="span" parent="180" relname="joint-list"/>
+		<group id="180" type="multinuc" parent="183" relname="joint-other"/>
+		<group id="181" type="span" parent="180" relname="joint-list"/>
+		<group id="182" type="span" parent="188" relname="same-unit"/>
+		<group id="183" type="multinuc" parent="2" relname="elaboration-attribute"/>
+		<group id="184" type="multinuc" parent="183" relname="joint-other"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="187" relname="joint-sequence"/>
+		<group id="187" type="multinuc" parent="189" relname="span"/>
+		<group id="188" type="multinuc" parent="327" relname="joint-list"/>
+		<group id="189" type="span" parent="217" relname="joint-other"/>
+		<group id="190" type="multinuc" parent="198" relname="span"/>
+		<group id="191" type="span" parent="192" relname="same-unit"/>
+		<group id="192" type="multinuc" parent="190" relname="joint-sequence"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="194" type="multinuc" parent="27" relname="elaboration-attribute"/>
+		<group id="195" type="span" parent="196" relname="same-unit"/>
+		<group id="196" type="multinuc" parent="197" relname="span"/>
+		<group id="197" type="span" parent="190" relname="joint-sequence"/>
+		<group id="198" type="span" parent="217" relname="joint-other"/>
+		<group id="199" type="span" parent="206" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" parent="205" relname="joint-list"/>
+		<group id="202" type="multinuc" parent="203" relname="span"/>
+		<group id="203" type="span" parent="204" relname="span"/>
+		<group id="204" type="span" parent="205" relname="joint-list"/>
+		<group id="205" type="multinuc" parent="199" relname="explanation-evidence"/>
+		<group id="206" type="span" parent="217" relname="joint-other"/>
+		<group id="207" type="span" parent="208" relname="same-unit"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="211" relname="joint-list"/>
+		<group id="211" type="multinuc" parent="217" relname="joint-other"/>
 		<group id="212" type="span" parent="213" relname="same-unit"/>
-		<group id="213" type="multinuc" parent="214" relname="span"/>
-		<group id="214" type="span" parent="215" relname="span"/>
-		<group id="215" type="span" parent="216" relname="joint-list"/>
-		<group id="216" type="multinuc" parent="222" relname="joint-other"/>
-		<group id="217" type="span" parent="218" relname="same-unit"/>
-		<group id="218" type="multinuc" parent="221" relname="span"/>
-		<group id="219" type="span" parent="220" relname="same-unit"/>
-		<group id="220" type="multinuc" parent="218" relname="explanation-evidence"/>
-		<group id="221" type="span" parent="216" relname="joint-list"/>
-		<group id="222" type="multinuc" parent="337" relname="span"/>
+		<group id="213" type="multinuc" parent="216" relname="span"/>
+		<group id="214" type="span" parent="215" relname="same-unit"/>
+		<group id="215" type="multinuc" parent="213" relname="explanation-evidence"/>
+		<group id="216" type="span" parent="211" relname="joint-list"/>
+		<group id="217" type="multinuc" parent="325" relname="span"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="299" relname="span"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="228" relname="span"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
 		<group id="223" type="multinuc" parent="224" relname="span"/>
-		<group id="224" type="span" parent="306" relname="span"/>
-		<group id="225" type="span" parent="226" relname="span"/>
-		<group id="226" type="span" parent="233" relname="span"/>
-		<group id="227" type="span" parent="228" relname="same-unit"/>
-		<group id="228" type="multinuc" parent="229" relname="span"/>
-		<group id="229" type="span" parent="230" relname="joint-list"/>
-		<group id="230" type="multinuc" parent="237" relname="joint-list"/>
-		<group id="231" type="multinuc" parent="66" relname="context-circumstance"/>
-		<group id="232" type="span" parent="230" relname="joint-list"/>
-		<group id="233" type="span" parent="55" relname="explanation-evidence"/>
-		<group id="234" type="span" parent="230" relname="joint-list"/>
-		<group id="235" type="span" parent="237" relname="joint-list"/>
+		<group id="224" type="span" parent="225" relname="joint-list"/>
+		<group id="225" type="multinuc" parent="232" relname="joint-list"/>
+		<group id="226" type="multinuc" parent="66" relname="context-circumstance"/>
+		<group id="227" type="span" parent="225" relname="joint-list"/>
+		<group id="228" type="span" parent="55" relname="explanation-evidence"/>
+		<group id="229" type="span" parent="225" relname="joint-list"/>
+		<group id="230" type="span" parent="232" relname="joint-list"/>
+		<group id="231" type="span" parent="232" relname="joint-list"/>
+		<group id="232" type="multinuc" parent="219" relname="explanation-evidence"/>
+		<group id="235" type="multinuc" parent="300" relname="span"/>
 		<group id="236" type="span" parent="237" relname="joint-list"/>
-		<group id="237" type="multinuc" parent="224" relname="explanation-evidence"/>
-		<group id="238" type="span" parent="239" relname="span"/>
-		<group id="239" type="span" parent="240" relname="joint-sequence"/>
-		<group id="240" type="multinuc" parent="307" relname="span"/>
-		<group id="241" type="span" parent="242" relname="joint-list"/>
-		<group id="242" type="multinuc" parent="266" relname="context-background"/>
-		<group id="243" type="span" parent="242" relname="joint-list"/>
-		<group id="244" type="span" parent="245" relname="same-unit"/>
-		<group id="245" type="multinuc" parent="266" relname="joint-list"/>
-		<group id="246" type="span" parent="245" relname="same-unit"/>
-		<group id="247" type="span" parent="250" relname="joint-list"/>
-		<group id="248" type="span" parent="89" relname="explanation-justify"/>
-		<group id="249" type="span" parent="250" relname="joint-list"/>
-		<group id="250" type="multinuc" parent="251" relname="elaboration-additional"/>
-		<group id="251" type="span" parent="252" relname="span"/>
-		<group id="252" type="span" parent="265" relname="span"/>
+		<group id="237" type="multinuc" parent="261" relname="context-background"/>
+		<group id="238" type="span" parent="237" relname="joint-list"/>
+		<group id="240" type="multinuc" parent="261" relname="joint-list"/>
+		<group id="241" type="span" parent="240" relname="same-unit"/>
+		<group id="242" type="span" parent="245" relname="joint-list"/>
+		<group id="243" type="span" parent="86" relname="explanation-justify"/>
+		<group id="244" type="span" parent="245" relname="joint-list"/>
+		<group id="245" type="multinuc" parent="246" relname="elaboration-additional"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="260" relname="span"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="92" relname="explanation-evidence"/>
+		<group id="250" type="span" parent="248" relname="explanation-justify"/>
+		<group id="251" type="multinuc" parent="255" relname="span"/>
+		<group id="252" type="span" parent="101" relname="attribution-positive"/>
 		<group id="253" type="span" parent="254" relname="span"/>
-		<group id="254" type="span" parent="95" relname="explanation-evidence"/>
-		<group id="255" type="span" parent="253" relname="explanation-justify"/>
-		<group id="256" type="multinuc" parent="260" relname="span"/>
-		<group id="257" type="span" parent="104" relname="attribution-positive"/>
+		<group id="254" type="span" parent="251" relname="explanation-evidence"/>
+		<group id="255" type="span" parent="257" relname="joint-list"/>
+		<group id="256" type="span" parent="257" relname="joint-list"/>
+		<group id="257" type="multinuc" parent="258" relname="span"/>
 		<group id="258" type="span" parent="259" relname="span"/>
-		<group id="259" type="span" parent="256" relname="explanation-evidence"/>
-		<group id="260" type="span" parent="262" relname="joint-list"/>
-		<group id="261" type="span" parent="262" relname="joint-list"/>
-		<group id="262" type="multinuc" parent="263" relname="span"/>
-		<group id="263" type="span" parent="264" relname="span"/>
-		<group id="264" type="span" parent="252" relname="explanation-evidence"/>
-		<group id="265" type="span" parent="266" relname="joint-list"/>
-		<group id="266" type="multinuc" parent="267" relname="span"/>
-		<group id="267" type="span" parent="240" relname="joint-sequence"/>
-		<group id="268" type="span" parent="269" relname="same-unit"/>
-		<group id="269" type="multinuc" parent="270" relname="joint-list"/>
-		<group id="270" type="multinuc" parent="278" relname="span"/>
+		<group id="259" type="span" parent="247" relname="explanation-evidence"/>
+		<group id="260" type="span" parent="261" relname="joint-list"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" parent="235" relname="joint-sequence"/>
+		<group id="263" type="span" parent="264" relname="same-unit"/>
+		<group id="264" type="multinuc" parent="265" relname="joint-list"/>
+		<group id="265" type="multinuc" parent="273" relname="span"/>
+		<group id="266" type="span" parent="267" relname="same-unit"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="274" relname="joint-sequence"/>
+		<group id="269" type="span" parent="270" relname="joint-list"/>
+		<group id="270" type="multinuc" parent="274" relname="joint-sequence"/>
 		<group id="271" type="span" parent="272" relname="same-unit"/>
-		<group id="272" type="multinuc" parent="273" relname="span"/>
-		<group id="273" type="span" parent="279" relname="joint-sequence"/>
-		<group id="274" type="span" parent="275" relname="joint-list"/>
-		<group id="275" type="multinuc" parent="279" relname="joint-sequence"/>
+		<group id="272" type="multinuc" parent="282" relname="joint-list"/>
+		<group id="273" type="span" parent="274" relname="joint-sequence"/>
+		<group id="274" type="multinuc" parent="297" relname="context-background"/>
+		<group id="275" type="multinuc" parent="334" relname="elaboration-attribute"/>
 		<group id="276" type="span" parent="277" relname="same-unit"/>
-		<group id="277" type="multinuc" parent="289" relname="joint-list"/>
-		<group id="278" type="span" parent="279" relname="joint-sequence"/>
-		<group id="279" type="multinuc" parent="304" relname="context-background"/>
-		<group id="280" type="multinuc" parent="346" relname="elaboration-attribute"/>
-		<group id="283" type="span" parent="284" relname="same-unit"/>
-		<group id="284" type="multinuc" parent="288" relname="span"/>
-		<group id="285" type="span" parent="287" relname="same-unit"/>
-		<group id="286" type="span" parent="287" relname="same-unit"/>
-		<group id="287" type="multinuc" parent="295" relname="span"/>
-		<group id="288" type="span" parent="303" relname="span"/>
-		<group id="289" type="multinuc" parent="303" relname="context-background"/>
-		<group id="290" type="multinuc" parent="291" relname="causal-cause"/>
-		<group id="291" type="multinuc" parent="292" relname="span"/>
-		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="277" type="multinuc" parent="281" relname="span"/>
+		<group id="278" type="span" parent="280" relname="same-unit"/>
+		<group id="279" type="span" parent="280" relname="same-unit"/>
+		<group id="280" type="multinuc" parent="288" relname="span"/>
+		<group id="281" type="span" parent="296" relname="span"/>
+		<group id="282" type="multinuc" parent="296" relname="context-background"/>
+		<group id="283" type="multinuc" parent="136" relname="causal-cause"/>
+		<group id="288" type="span" parent="277" relname="explanation-evidence"/>
+		<group id="289" type="multinuc" parent="295" relname="span"/>
+		<group id="290" type="span" parent="291" relname="same-unit"/>
+		<group id="291" type="multinuc" parent="292" relname="joint-list"/>
+		<group id="292" type="multinuc" parent="293" relname="span"/>
 		<group id="293" type="span" parent="294" relname="span"/>
-		<group id="294" type="span" parent="287" relname="elaboration-additional"/>
-		<group id="295" type="span" parent="284" relname="explanation-evidence"/>
-		<group id="296" type="multinuc" parent="302" relname="span"/>
-		<group id="297" type="span" parent="298" relname="same-unit"/>
-		<group id="298" type="multinuc" parent="299" relname="joint-list"/>
-		<group id="299" type="multinuc" parent="300" relname="span"/>
-		<group id="300" type="span" parent="301" relname="span"/>
-		<group id="301" type="span" parent="296" relname="explanation-evidence"/>
-		<group id="302" type="span" parent="288" relname="evaluation-comment"/>
-		<group id="303" type="span" parent="304" relname="span"/>
-		<group id="304" type="span" parent="305" relname="span"/>
-		<group id="305" type="span" parent="240" relname="joint-sequence"/>
-		<group id="306" type="span" parent="240" relname="joint-sequence"/>
-		<group id="307" type="span" parent="335" relname="joint-sequence"/>
-		<group id="308" type="span" parent="321" relname="joint-list"/>
-		<group id="313" type="span" parent="327" relname="span"/>
-		<group id="314" type="span" parent="316" relname="same-unit"/>
-		<group id="315" type="span" parent="316" relname="same-unit"/>
-		<group id="316" type="multinuc" parent="159" relname="explanation-evidence"/>
-		<group id="317" type="span" parent="316" relname="same-unit"/>
-		<group id="318" type="span" parent="316" relname="same-unit"/>
-		<group id="319" type="span" parent="322" relname="joint-sequence"/>
-		<group id="321" type="multinuc" parent="328" relname="joint-sequence"/>
-		<group id="322" type="multinuc" parent="313" relname="explanation-evidence"/>
-		<group id="323" type="span" parent="328" relname="joint-sequence"/>
-		<group id="324" type="span" parent="325" relname="same-unit"/>
-		<group id="325" type="multinuc" parent="169" relname="adversative-concession"/>
-		<group id="326" type="span" parent="328" relname="joint-sequence"/>
-		<group id="327" type="span" parent="321" relname="joint-list"/>
-		<group id="328" type="multinuc" parent="336" relname="span"/>
-		<group id="329" type="span" parent="330" relname="same-unit"/>
-		<group id="330" type="multinuc" parent="331" relname="joint-list"/>
-		<group id="331" type="multinuc" parent="332" relname="span"/>
-		<group id="332" type="span" parent="328" relname="joint-sequence"/>
-		<group id="333" type="span" parent="334" relname="span"/>
-		<group id="334" type="span" parent="328" relname="joint-sequence"/>
-		<group id="335" type="multinuc" parent="222" relname="explanation-evidence"/>
-		<group id="336" type="span" parent="335" relname="joint-sequence"/>
-		<group id="337" type="span" parent="338" relname="span"/>
-		<group id="338" type="span" />
-		<group id="339" type="multinuc" parent="191" relname="joint-sequence"/>
-		<group id="340" type="span" parent="195" relname="joint-sequence"/>
-		<group id="341" type="multinuc" parent="17" relname="elaboration-attribute"/>
-		<group id="342" type="span" parent="343" relname="same-unit"/>
-		<group id="343" type="multinuc" parent="251" relname="span"/>
-		<group id="344" type="span" parent="346" relname="same-unit"/>
-		<group id="345" type="multinuc" parent="130" relname="elaboration-attribute"/>
-		<group id="346" type="multinuc" parent="283" relname="span"/>
-		<group id="347" type="span" parent="348" relname="joint-sequence"/>
-		<group id="348" type="multinuc" parent="349" relname="span"/>
-		<group id="349" type="span" parent="350" relname="joint-sequence"/>
-		<group id="350" type="multinuc" parent="151" relname="elaboration-additional"/>
+		<group id="294" type="span" parent="289" relname="explanation-evidence"/>
+		<group id="295" type="span" parent="281" relname="evaluation-comment"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="235" relname="joint-sequence"/>
+		<group id="299" type="span" parent="235" relname="joint-sequence"/>
+		<group id="300" type="span" parent="323" relname="joint-sequence"/>
+		<group id="301" type="span" parent="309" relname="joint-list"/>
+		<group id="302" type="span" parent="315" relname="span"/>
+		<group id="303" type="span" parent="305" relname="same-unit"/>
+		<group id="304" type="span" parent="305" relname="same-unit"/>
+		<group id="305" type="multinuc" parent="155" relname="explanation-evidence"/>
+		<group id="306" type="span" parent="305" relname="same-unit"/>
+		<group id="307" type="span" parent="305" relname="same-unit"/>
+		<group id="308" type="span" parent="310" relname="joint-sequence"/>
+		<group id="309" type="multinuc" parent="316" relname="joint-sequence"/>
+		<group id="310" type="multinuc" parent="302" relname="explanation-evidence"/>
+		<group id="311" type="span" parent="316" relname="joint-sequence"/>
+		<group id="312" type="span" parent="313" relname="same-unit"/>
+		<group id="313" type="multinuc" parent="165" relname="adversative-concession"/>
+		<group id="314" type="span" parent="316" relname="joint-sequence"/>
+		<group id="315" type="span" parent="309" relname="joint-list"/>
+		<group id="316" type="multinuc" parent="324" relname="span"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="319" relname="joint-list"/>
+		<group id="319" type="multinuc" parent="320" relname="span"/>
+		<group id="320" type="span" parent="316" relname="joint-sequence"/>
+		<group id="321" type="span" parent="322" relname="span"/>
+		<group id="322" type="span" parent="316" relname="joint-sequence"/>
+		<group id="323" type="multinuc" parent="217" relname="explanation-evidence"/>
+		<group id="324" type="span" parent="323" relname="joint-sequence"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" />
+		<group id="327" type="multinuc" parent="187" relname="joint-sequence"/>
+		<group id="328" type="span" parent="190" relname="joint-sequence"/>
+		<group id="329" type="multinuc" parent="17" relname="elaboration-attribute"/>
+		<group id="330" type="span" parent="331" relname="same-unit"/>
+		<group id="331" type="multinuc" parent="246" relname="span"/>
+		<group id="332" type="span" parent="334" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="127" relname="elaboration-attribute"/>
+		<group id="334" type="multinuc" parent="276" relname="span"/>
+		<group id="335" type="span" parent="336" relname="joint-sequence"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="337" type="span" parent="338" relname="joint-sequence"/>
+		<group id="338" type="multinuc" parent="147" relname="elaboration-additional"/>
+		<group id="339" type="span" parent="235" relname="joint-sequence"/>
+		<group id="340" type="span" parent="341" relname="span"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="280" relname="elaboration-additional"/>
 	</body>
 </rst>

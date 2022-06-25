@@ -11,15 +11,14 @@ NASA 发射 的 // launched by NASA
 它 已 于 2006年 1月 15日 返回 地球 . // It returned to Earth on January 15 , 2006 .
 现在 有 一 项 // There is now one
 与 其 相关 的 // related to it
-在线 协作 计划 , // online collaboration plan ,
+在线 协作 计划 , // online collaboration program ,
 将 “ 检视 ” // "View"
 星尘 飞行器 所 采集 到 的 // Collected by the Stardust Aircraft
 细微 样本 . // small sample .
 这 个 计划 的 正式 名称 是 Stardust@home . // The official name of the program is Stardust@home .
 不 像 // not like
 如 SETI@home 那样 的 // like SETI@home
-分布式 计算 计划 , // distributed computing plan ,
-Stardust@home 完全 依赖于 人类 的 判断 能力 . // Stardust@home relies entirely on human judgment .
+分布式 计算 计划 , Stardust@home 完全 依赖于 人类 的 判断 能力 . // A distributed computing project , Stardust@home relies entirely on human judgment .
 Andrew Westphal 先生 是 Stardust@home 计划 的 负责人 ， // Mr Andrew Westphal is the director of the Stardust@home programme,
 维基 记者 在 2006年 5月 18日 独家 采访 了 他 . // Wiki reporter interviewed him exclusively on May 18 , 2006 .
 如 通常 一样 , // as usual ,
@@ -98,16 +97,14 @@ OK , 我 有点 离题 了 . // OK , I digress a bit .
 自动 显微镜 // automatic microscope
 来 检测 采集器 . // to test the collector .
 这 个 显微镜 位于 约翰逊 太空 中心 31号 楼 的 宇宙 尘埃 实验室 . // The microscope is located in the Cosmic Dust Laboratory in Building 31 of the Johnson Space Center .
-ARES 小组 负责 掌管 // The ARES team is in charge
-所有 带回 地球 来 的 // all brought back to earth
+ARES 小组 负责 掌管 所有 // The ARES team is in charge of all
+带回 地球 来 的 // brought back to earth
 尘埃 样本 // dust sample
 ( 包括 月球 火箭 , 起源号 , 陨石 甚至 还有 // (Including lunar rockets, Origin, meteorites and even
 U2 飞机 在 同温层 搜集 的 // U2 aircraft collected in the stratosphere
 行星际 尘埃 颗粒 ) . // interplanetary dust particles ) .
 显微镜 在 气凝胶 采集器 中 拍摄 下 一 幅幅 数字 图像 , // The microscope takes the next digital images in the aerogel collector ,
-然后 // Then
-按 顺序 // by order
-把 图像 发给 我们 // send us the image
+然后 按 顺序 把 图像 发给 我们 // Then send us the images in order
 -- 我们 再 把 图像 进行 压缩 并 转换 为 // -- We then compress and convert the image to
 适合 Stardust@home 项目 的 // for the Stardust@home project
 格式 . // Format .
@@ -156,8 +153,7 @@ Markus Landgraf 对 // Markus Landgraf to
 难道 不 是 这样 吗 ? " // Is it not ? "
 这些 样本 会 有 多 大 ? // How big will these samples be?
 我们 期待 的 // what we expect
-通常 情况 下 , // usually ,
-这些 粒子 应该 是 微米 大小 // These particles should be microns in size
+通常 情况 下 , 这些 粒子 应该 是 微米 大小 // Typically , these particles should be micrometers in size
 ( 百万分之一 米 ) . // ( millionths of a meter ) .
 当 人们 // when people
 通过 虚拟 显微镜 // through virtual microscope
@@ -173,10 +169,10 @@ Markus Landgraf 对 // Markus Landgraf to
 ( 虚拟 显微镜 ) // (Virtual Microscope)
 的 演示 . // 's demo .
 我 邀请 你们 可以 去 看看 . // I invite you to have a look .
-演示 中 你 看见 的 // What you saw in the demo
+演示 中 // in demo
+你 看见 的 // what you see
 轨迹 是 // trajectory is
-用 特制 的 粒子 加速器 // with a special particle accelerator
-将 羰基铁亚 微粒 以 超 高速 撞入 气凝胶 // Injecting carbonyl iron particles into an aerogel at ultra-high speed
+用 特制 的 粒子 加速器 将 羰基铁亚 微粒 以 超 高速 撞入 气凝胶 // Carbonyl ferrous particles are smashed into the aerogel at ultra-high speed using a purpose-built particle accelerator
 而 产生 , // and produce ,
 这 模拟 了 // This simulates
 我们 希望 找 的 // what we are looking for

@@ -36,303 +36,291 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="296" relname="span">突发 疫情 下 的 政府 治理 研究</segment>
+		<segment id="1" parent="289" relname="span">突发 疫情 下 的 政府 治理 研究</segment>
 		<segment id="2" parent="1" relname="explanation-evidence">—— 以 新冠 疫情 为 例</segment>
-		<segment id="3" parent="170" relname="organization-heading">1. 引言</segment>
-		<segment id="4" parent="155" relname="joint-list">新 世纪 以来 ， 中国 经济 进入 高速 发展 的 时期 ，</segment>
-		<segment id="5" parent="155" relname="joint-list">全球化 的 发展 也 使得 人类 之间 的 联系 日益 密切 。</segment>
-		<segment id="6" parent="158" relname="span">同时 ， 我国 也 进入 了 突发 疫情 的 高频 阶段 ，</segment>
-		<segment id="7" parent="157" relname="same-unit">2020年 新冠 疫情 则 是</segment>
+		<segment id="3" parent="164" relname="organization-heading">1. 引言</segment>
+		<segment id="4" parent="149" relname="joint-list">新 世纪 以来 ， 中国 经济 进入 高速 发展 的 时期 ，</segment>
+		<segment id="5" parent="149" relname="joint-list">全球化 的 发展 也 使得 人类 之间 的 联系 日益 密切 。</segment>
+		<segment id="6" parent="152" relname="span">同时 ， 我国 也 进入 了 突发 疫情 的 高频 阶段 ，</segment>
+		<segment id="7" parent="151" relname="same-unit">2020年 新冠 疫情 则 是</segment>
 		<segment id="8" parent="9" relname="context-circumstance">新 中国 成立 以来</segment>
-		<segment id="9" parent="156" relname="span">最 严重 的 一 次 公共 卫生 突发 事件 ，</segment>
-		<segment id="10" parent="159" relname="joint-list">这 对 政府 的 治理 能力 与 治理 体系 提出 了 新 的 挑战 ，</segment>
-		<segment id="11" parent="159" relname="joint-list">也 是 对 中国 特色 社会 主义 治理 能力 与 治理 体系 的 一 次 大考 。</segment>
-		<segment id="12" parent="161" relname="joint-list">目前 ， 我国 新冠 疫情 已经 基本 稳定 ，</segment>
-		<segment id="13" parent="161" relname="joint-list">进入 了 疫情 防控 常态化 阶段 。</segment>
-		<segment id="14" parent="162" relname="joint-list">但 在 该 次 突发 疫情 中 ， 暴露 出 政府 在 责任 划分 和 合作 治理 等 方面 的 问题 ，</segment>
-		<segment id="15" parent="162" relname="joint-list">削弱 了 政府 在 突发 疫情 中 的 治理 能力 。</segment>
+		<segment id="9" parent="150" relname="span">最 严重 的 一 次 公共 卫生 突发 事件 ，</segment>
+		<segment id="10" parent="153" relname="joint-list">这 对 政府 的 治理 能力 与 治理 体系 提出 了 新 的 挑战 ，</segment>
+		<segment id="11" parent="153" relname="joint-list">也 是 对 中国 特色 社会 主义 治理 能力 与 治理 体系 的 一 次 大考 。</segment>
+		<segment id="12" parent="155" relname="joint-list">目前 ， 我国 新冠 疫情 已经 基本 稳定 ，</segment>
+		<segment id="13" parent="155" relname="joint-list">进入 了 疫情 防控 常态化 阶段 。</segment>
+		<segment id="14" parent="156" relname="joint-list">但 在 该 次 突发 疫情 中 ， 暴露 出 政府 在 责任 划分 和 合作 治理 等 方面 的 问题 ，</segment>
+		<segment id="15" parent="156" relname="joint-list">削弱 了 政府 在 突发 疫情 中 的 治理 能力 。</segment>
 		<segment id="16" parent="17" relname="mode-means">因此 ， 通过 完善 现有 法律 与 制度 ，</segment>
-		<segment id="17" parent="164" relname="span">优化 政府 治理 存在 必要性 与 紧迫性 ，</segment>
-		<segment id="18" parent="167" relname="same-unit">同时 也 是</segment>
-		<segment id="19" parent="165" relname="joint-list">实现 中国 特色 社会 主义 治理 能力</segment>
-		<segment id="20" parent="165" relname="joint-list">与 治理 体系 现代化 的</segment>
-		<segment id="21" parent="166" relname="span">必然 要求 。</segment>
-		<segment id="22" parent="293" relname="organization-heading">2. 相关 概念 与 制度</segment>
-		<segment id="23" parent="228" relname="organization-heading">2.1. 突发 疫情 的 定义 及 特点</segment>
-		<segment id="24" parent="176" relname="same-unit">突发 疫情 是 指 突发 的 、 群发 的 、</segment>
-		<segment id="25" parent="173" relname="span">对 公共 健康 或 经济 、 政治 、 社会 等 影响 大 的</segment>
-		<segment id="26" parent="172" relname="joint-disjunction">( 已 造成 危害</segment>
-		<segment id="27" parent="172" relname="joint-disjunction">或 可能 造成 危害 ) ，</segment>
-		<segment id="28" parent="174" relname="joint-list">需要 紧急 采取 控制 措施 ，</segment>
-		<segment id="29" parent="174" relname="joint-list">与 传染病 有关 的</segment>
-		<segment id="30" parent="175" relname="span">公共 卫生 事件</segment>
-		<segment id="31" parent="176" relname="explanation-evidence">[ 1 ] 。</segment>
-		<segment id="32" parent="178" relname="span">相对于 其他 突发 事件 ， 突发 疫情 本身 具有 显著 特点 ，</segment>
+		<segment id="17" parent="158" relname="span">优化 政府 治理 存在 必要性 与 紧迫性 ，</segment>
+		<segment id="18" parent="161" relname="same-unit">同时 也 是</segment>
+		<segment id="19" parent="159" relname="joint-list">实现 中国 特色 社会 主义 治理 能力</segment>
+		<segment id="20" parent="159" relname="joint-list">与 治理 体系 现代化 的</segment>
+		<segment id="21" parent="160" relname="span">必然 要求 。</segment>
+		<segment id="22" parent="286" relname="organization-heading">2. 相关 概念 与 制度</segment>
+		<segment id="23" parent="222" relname="organization-heading">2.1. 突发 疫情 的 定义 及 特点</segment>
+		<segment id="24" parent="170" relname="same-unit">突发 疫情 是 指 突发 的 、 群发 的 、</segment>
+		<segment id="25" parent="167" relname="span">对 公共 健康 或 经济 、 政治 、 社会 等 影响 大 的</segment>
+		<segment id="26" parent="166" relname="joint-disjunction">( 已 造成 危害</segment>
+		<segment id="27" parent="166" relname="joint-disjunction">或 可能 造成 危害 ) ，</segment>
+		<segment id="28" parent="168" relname="joint-list">需要 紧急 采取 控制 措施 ，</segment>
+		<segment id="29" parent="168" relname="joint-list">与 传染病 有关 的</segment>
+		<segment id="30" parent="169" relname="span">公共 卫生 事件</segment>
+		<segment id="31" parent="170" relname="explanation-evidence">[ 1 ] 。</segment>
+		<segment id="32" parent="172" relname="span">相对于 其他 突发 事件 ， 突发 疫情 本身 具有 显著 特点 ，</segment>
 		<segment id="33" parent="32" relname="causal-result">对 政府 治理 提出 了 更 高 的 要求 ，</segment>
-		<segment id="34" parent="178" relname="elaboration-additional">集中 体现 在 以下 三 个 方面 。</segment>
-		<segment id="35" parent="188" relname="organization-preparation">公共性 。</segment>
-		<segment id="36" parent="180" relname="context-background">突发 疫情 属于 公共 卫生 事件 的 一 种 ，</segment>
-		<segment id="37" parent="180" relname="span">突发 疫情 的 最初 范围 不 一定 是 在 普遍 的 公众 领域 ，</segment>
+		<segment id="34" parent="172" relname="elaboration-additional">集中 体现 在 以下 三 个 方面 。</segment>
+		<segment id="35" parent="182" relname="organization-preparation">公共性 。</segment>
+		<segment id="36" parent="174" relname="context-background">突发 疫情 属于 公共 卫生 事件 的 一 种 ，</segment>
+		<segment id="37" parent="174" relname="span">突发 疫情 的 最初 范围 不 一定 是 在 普遍 的 公众 领域 ，</segment>
 		<segment id="38" parent="37" relname="explanation-justify">很 可能 是 开始于 某 个 狭小 的 公众 领域 或 为数 不 多 的 特定 个体 ，</segment>
-		<segment id="39" parent="182" relname="causal-cause">但是 由于 疫情 的 传染性 ，</segment>
-		<segment id="40" parent="182" relname="same-unit">会</segment>
+		<segment id="39" parent="176" relname="causal-cause">但是 由于 疫情 的 传染性 ，</segment>
+		<segment id="40" parent="176" relname="same-unit">会</segment>
 		<segment id="41" parent="42" relname="mode-means">随着 人员 交流 、 人口 流动 、 社会 交往 等</segment>
-		<segment id="42" parent="181" relname="span">得以 进一步 的 扩散 ，</segment>
-		<segment id="43" parent="183" relname="causal-result">成为 一定 区域 乃至 全球 的 公共 卫生 事件 。</segment>
+		<segment id="42" parent="175" relname="span">得以 进一步 的 扩散 ，</segment>
+		<segment id="43" parent="177" relname="causal-result">成为 一定 区域 乃至 全球 的 公共 卫生 事件 。</segment>
 		<segment id="44" parent="45" relname="mode-means">因此 ， 政府 必须 通过 调动 和 整合 充足 的 公共 资源 ，</segment>
-		<segment id="45" parent="185" relname="span">跨 区域 协调 联动 ，</segment>
-		<segment id="46" parent="186" relname="joint-list">并且 消除 民众 心理 与 公共 评价 的 体系 中 的 不利 影响</segment>
-		<segment id="47" parent="187" relname="span">才 能 得以 解决 。</segment>
-		<segment id="48" parent="205" relname="organization-heading">突发性 。</segment>
-		<segment id="49" parent="192" relname="joint-list">突发 疫情 的 发生 是 不 可 预测 的 ，</segment>
-		<segment id="50" parent="192" relname="joint-list">容易 被 忽视 的 ，</segment>
-		<segment id="51" parent="193" relname="adversative-contrast">但是 却 具有 极 大 危害性 乃至 颠覆性 。</segment>
-		<segment id="52" parent="194" relname="causal-cause">公共 对策 研究 的 最大 困境 就 在于 很 难 对 事件 的 发生 和 发展 做出 预先 的 判断 ，</segment>
+		<segment id="45" parent="179" relname="span">跨 区域 协调 联动 ，</segment>
+		<segment id="46" parent="180" relname="joint-list">并且 消除 民众 心理 与 公共 评价 的 体系 中 的 不利 影响</segment>
+		<segment id="47" parent="181" relname="span">才 能 得以 解决 。</segment>
+		<segment id="48" parent="199" relname="organization-heading">突发性 。</segment>
+		<segment id="49" parent="186" relname="joint-list">突发 疫情 的 发生 是 不 可 预测 的 ，</segment>
+		<segment id="50" parent="186" relname="joint-list">容易 被 忽视 的 ，</segment>
+		<segment id="51" parent="187" relname="adversative-contrast">但是 却 具有 极 大 危害性 乃至 颠覆性 。</segment>
+		<segment id="52" parent="188" relname="causal-cause">公共 对策 研究 的 最大 困境 就 在于 很 难 对 事件 的 发生 和 发展 做出 预先 的 判断 ，</segment>
 		<segment id="53" parent="54" relname="contingency-condition">所以 事件 一旦 发生 ，</segment>
-		<segment id="54" parent="194" relname="span">公众 和 政府 容易 在 早期 陷入 被动 与 慌乱 。</segment>
-		<segment id="55" parent="198" relname="same-unit">同时</segment>
+		<segment id="54" parent="188" relname="span">公众 和 政府 容易 在 早期 陷入 被动 与 慌乱 。</segment>
+		<segment id="55" parent="192" relname="same-unit">同时</segment>
 		<segment id="56" parent="57" relname="elaboration-attribute">在 事件 中 不断 出现 的</segment>
-		<segment id="57" parent="196" relname="span">新 情况 也 往往 是 无章可循 的 ，</segment>
-		<segment id="58" parent="197" relname="span">需要 时间</segment>
+		<segment id="57" parent="190" relname="span">新 情况 也 往往 是 无章可循 的 ，</segment>
+		<segment id="58" parent="191" relname="span">需要 时间</segment>
 		<segment id="59" parent="58" relname="purpose-goal">进行 分析 和 对策 ，</segment>
-		<segment id="60" parent="200" relname="joint-sequence">这时 就 出现 了 “ 政策 真空 ” 的 时期 ，</segment>
-		<segment id="61" parent="200" relname="joint-sequence">事件 继续 恶化</segment>
-		<segment id="62" parent="200" relname="joint-sequence">走向 危机</segment>
-		<segment id="63" parent="201" relname="explanation-evidence">[ 2 ] 。</segment>
-		<segment id="64" parent="204" relname="causal-result">因此 ， 政府 对于 突发 疫情 的 发生 与 发展 的 预先 判断 对于 防止 疫情 的 进一步 扩大 至关重要 。</segment>
-		<segment id="65" parent="224" relname="organization-heading">危害性 。</segment>
-		<segment id="66" parent="223" relname="span">突发 疫情 的 危害性 体现 政治 、 经济 与 社会 生活 的 各个 方面 ，</segment>
-		<segment id="67" parent="208" relname="adversative-antithesis">相对于 短暂 的 卫生 事件 而言 ，</segment>
-		<segment id="68" parent="208" relname="joint-list">突发 疫情 的 危害性 也 是 相对 持久 的 ，</segment>
-		<segment id="69" parent="208" relname="joint-list">范围 也 是 会 波及 甚 广 。</segment>
-		<segment id="70" parent="220" relname="organization-preparation">就 经济 角度 而言 ，</segment>
-		<segment id="71" parent="220" relname="joint-list">新冠 疫情 对 中国 经济 的 发展 产生 巨大 影响 ，</segment>
-		<segment id="72" parent="211" relname="attribution-positive">要求</segment>
-		<segment id="73" parent="210" relname="same-unit">政府</segment>
+		<segment id="60" parent="194" relname="joint-sequence">这时 就 出现 了 “ 政策 真空 ” 的 时期 ，</segment>
+		<segment id="61" parent="194" relname="joint-sequence">事件 继续 恶化</segment>
+		<segment id="62" parent="194" relname="joint-sequence">走向 危机</segment>
+		<segment id="63" parent="195" relname="explanation-evidence">[ 2 ] 。</segment>
+		<segment id="64" parent="198" relname="causal-result">因此 ， 政府 对于 突发 疫情 的 发生 与 发展 的 预先 判断 对于 防止 疫情 的 进一步 扩大 至关重要 。</segment>
+		<segment id="65" parent="218" relname="organization-heading">危害性 。</segment>
+		<segment id="66" parent="217" relname="span">突发 疫情 的 危害性 体现 政治 、 经济 与 社会 生活 的 各个 方面 ，</segment>
+		<segment id="67" parent="202" relname="adversative-antithesis">相对于 短暂 的 卫生 事件 而言 ，</segment>
+		<segment id="68" parent="202" relname="joint-list">突发 疫情 的 危害性 也 是 相对 持久 的 ，</segment>
+		<segment id="69" parent="202" relname="joint-list">范围 也 是 会 波及 甚 广 。</segment>
+		<segment id="70" parent="214" relname="organization-preparation">就 经济 角度 而言 ，</segment>
+		<segment id="71" parent="214" relname="joint-list">新冠 疫情 对 中国 经济 的 发展 产生 巨大 影响 ，</segment>
+		<segment id="72" parent="205" relname="attribution-positive">要求</segment>
+		<segment id="73" parent="204" relname="same-unit">政府</segment>
 		<segment id="74" parent="75" relname="context-circumstance">在 防控 疫情 时 ，</segment>
-		<segment id="75" parent="209" relname="span">适时 恢复 社会 生产 ，</segment>
-		<segment id="76" parent="210" relname="purpose-goal">实现 防控 工作 与 经济 发展 的 平衡 。</segment>
-		<segment id="77" parent="217" relname="span">突发 疫情 是 非 常态 的 ，</segment>
+		<segment id="75" parent="203" relname="span">适时 恢复 社会 生产 ，</segment>
+		<segment id="76" parent="204" relname="purpose-goal">实现 防控 工作 与 经济 发展 的 平衡 。</segment>
+		<segment id="77" parent="211" relname="span">突发 疫情 是 非 常态 的 ，</segment>
 		<segment id="78" parent="77" relname="explanation-justify">会 在 一定 时间 内 ， 对 一定 区域 内 社会 格局 产生 持久性 的 消极 影响 。</segment>
-		<segment id="79" parent="214" relname="same-unit">对于</segment>
-		<segment id="80" parent="212" relname="joint-list">肩负 维护 社会 安全 与 稳定 、</segment>
-		<segment id="81" parent="212" relname="joint-list">保障 公民 各 项 权利 ，</segment>
-		<segment id="82" parent="212" relname="joint-list">促进 经济 发展 任务 的</segment>
-		<segment id="83" parent="213" relname="span">各 级 政府 组织 而言 ，</segment>
-		<segment id="84" parent="215" relname="joint-list">应对 突发 疫情 是 一 个 长期 的 、 持续 的 过程 ，</segment>
-		<segment id="85" parent="215" relname="joint-list">是 其 职能 所 系 ，</segment>
-		<segment id="86" parent="215" relname="joint-list">同时 也 对 政府 的 行政 能力 与 行政 合法性 层面 提出 了 要求 。</segment>
-		<segment id="87" parent="291" relname="organization-heading">2.2. 突发 疫情 下 政府 治理 的 相关 制度</segment>
-		<segment id="88" parent="268" relname="context-circumstance">自 2003年 非典 突发 疫情 以后 ，</segment>
-		<segment id="89" parent="268" relname="same-unit">中国 政府 加紧 建设</segment>
-		<segment id="90" parent="91" relname="elaboration-attribute">在 突发 状态 下 的</segment>
-		<segment id="91" parent="267" relname="span">政府 应急 治理 体系 建设 ，</segment>
-		<segment id="92" parent="231" relname="same-unit">主要 集中 体现 在 建立 与 完善</segment>
-		<segment id="93" parent="94" relname="elaboration-attribute">以 “ 一 案 三 制 ” 为 核心 的</segment>
-		<segment id="94" parent="230" relname="span">应急 管理 体系 建设 ，</segment>
-		<segment id="95" parent="237" relname="span">包括 紧急 预案 、 应急 体制 、 应急 机制 与 法制 ，</segment>
-		<segment id="96" parent="233" relname="same-unit">建立</segment>
-		<segment id="97" parent="98" relname="elaboration-attribute">“ 国家 统一 领导 、 综合 协调 、 分类 管理 、 分级 负责 、 属地 管理 为 主 的</segment>
-		<segment id="98" parent="232" relname="span">应急 管理 体制 ” ，</segment>
-		<segment id="99" parent="270" relname="same-unit">保证 了</segment>
-		<segment id="100" parent="101" relname="context-circumstance">突发 状态 下</segment>
-		<segment id="101" parent="269" relname="span">政府 的 应急 能力 与 治理 能力 。</segment>
-		<segment id="102" parent="247" relname="organization-heading">2.2.1. 紧急 预案</segment>
-		<segment id="103" parent="242" relname="same-unit">应急 预案 是 指</segment>
-		<segment id="104" parent="105" relname="purpose-attribute">承担 突发 事件 应对 职能 的</segment>
-		<segment id="105" parent="239" relname="span">国家 机关</segment>
-		<segment id="106" parent="107" relname="elaboration-additional">针对 突发 事件 的 预防 和 准备 、 监测 与 预警 、 处置 与 救援 、 恢复 与 重建 ， 以及 应急 管理 的 组织 、 指挥 、 保障 等 内容</segment>
-		<segment id="107" parent="299" relname="span">而 制定 的</segment>
-		<segment id="108" parent="241" relname="span">工作 计划 。</segment>
-		<segment id="109" parent="243" relname="joint-sequence">2005年 ， 国务院 审议 并 通过 了 《 国家 突发 公共 事件 总 应急 预案 》 ，</segment>
-		<segment id="110" parent="244" relname="attribution-positive">公共 卫生 事件 的 各 级 专项 预案 和 部门 预案 陆续 发布 ，</segment>
-		<segment id="111" parent="244" relname="span">将 突发 公共 卫生 危机 分为 特别 重大 、 重大 、 较大 和 一般 四 级 ，</segment>
-		<segment id="112" parent="113" relname="mode-means">分别 用 红 、 橙 、 黄 、 蓝色</segment>
-		<segment id="113" parent="245" relname="span">来 表示 。</segment>
-		<segment id="114" parent="262" relname="organization-heading">2.2.2. 应急 体制</segment>
-		<segment id="115" parent="250" relname="context-background">应急 体制 建设 是 国家 应急 体系 建设 中 一 个 重要 的 组成 部分 ，</segment>
-		<segment id="116" parent="250" relname="same-unit">在 《 中华 人民 共和国 突发 事件 应对法 》 中 ，</segment>
-		<segment id="117" parent="118" relname="mode-manner">根据 突发 疫情 发生 的 规模 程度 和 影响 范围 ，</segment>
-		<segment id="118" parent="249" relname="span">分别 由 各 级 政府 实施 应急 管理 ；</segment>
-		<segment id="119" parent="251" relname="joint-list">跨 省区 、 跨 部门 或 特别 重大 的 突发 疫情 ， 由 国务院 及 有关 部门 进行 直接 管理 ，</segment>
-		<segment id="120" parent="251" relname="joint-list">地方 各 级 政府 予以 协助 配合 ；</segment>
-		<segment id="121" parent="252" relname="joint-list">其他 局部性 的 或 一般性 的 疫情 ， 由 地方 相应 层级 政府 负责 处理 ，</segment>
-		<segment id="122" parent="252" relname="joint-list">上级 政府 或 有关 部门 可 予以 指导 、 支持 和 帮助 ，</segment>
-		<segment id="123" parent="254" relname="evaluation-comment">初步 形成 了 条块 结合 的 管理 结构 和 响应 体制 。</segment>
-		<segment id="124" parent="256" relname="span">总的来说 ， 我国 目前 已 初步 建立 了 新型 的 、 法治 基础 上 的 平战 结合</segment>
-		<segment id="125" parent="124" relname="restatement-partial">( 日常 与 紧急 时期 ) 、</segment>
-		<segment id="126" parent="127" relname="elaboration-attribute">常态 管理 与 非 常态 管理 相 结合 的</segment>
-		<segment id="127" parent="258" relname="span">新型 公共 卫生 应急 管理 体制 ，</segment>
-		<segment id="128" parent="257" relname="elaboration-additional">其 显著 特点 是 制度化 和 应急 管理 常态化 、 专业化</segment>
-		<segment id="129" parent="259" relname="explanation-evidence">[ 3 ] 。</segment>
-		<segment id="130" parent="275" relname="organization-heading">2.2.3. 应急 机制</segment>
-		<segment id="131" parent="132" relname="elaboration-attribute">突发 疫情 状态 下 的</segment>
-		<segment id="132" parent="271" relname="span">应急 机制 是 整个 应急 管理 体系 中 的 基础 部分 ，</segment>
-		<segment id="133" parent="265" relname="span">涉及 突发 疫情 状态 前后 政府 治理 的 各个 环节 ，</segment>
-		<segment id="134" parent="133" relname="elaboration-additional">包括 监测 预警 、 信息 公开 、 社会 动员 、 协调 联动 、 舆论 引导 以及 重建 等 方面 。</segment>
-		<segment id="135" parent="272" relname="attribution-positive">《 国家 公共 卫生 总预案 》 中 提出 ，</segment>
-		<segment id="136" parent="272" relname="same-unit">建立</segment>
-		<segment id="137" parent="266" relname="joint-list">功能 完善 、</segment>
-		<segment id="138" parent="266" relname="joint-list">反应 迅速 、</segment>
-		<segment id="139" parent="266" relname="joint-list">运转 协调 的</segment>
-		<segment id="140" parent="273" relname="span">突发 公共 卫生 应急 体制 ， 为 国家 在 突发 疫情 下 应急 体制 建设 建立 了 总 的 指导 原则 。</segment>
-		<segment id="141" parent="288" relname="organization-heading">2.2.4. 应急 法制</segment>
-		<segment id="142" parent="143" relname="context-circumstance">在 突发 疫情 状态 下 ，</segment>
-		<segment id="143" parent="277" relname="span">法律 体系 的 建设 为 政府 治理 提供 了 根本 保障 ，</segment>
-		<segment id="144" parent="277" relname="evaluation-comment">对于 政府 治理 具有 根本 意义 。</segment>
-		<segment id="145" parent="280" relname="context-circumstance">在 2003年 非典 疫情 过后 ，</segment>
-		<segment id="146" parent="280" relname="same-unit">国家 加紧 完善</segment>
-		<segment id="147" parent="148" relname="elaboration-attribute">关于 包括 突发 疫情 在内 的</segment>
-		<segment id="148" parent="279" relname="span">公共 卫生 法律 体系 ，</segment>
-		<segment id="149" parent="281" relname="elaboration-additional">先后 出台 了 《 突发 公共 卫生 事件 应急 条例 》 、 《 突发 公共 卫生 应急 总预案 》 、 《 重大 动物 疫情 应急 条例 》 、 《 中华 人民 共和国 传染病 防治法 》 、 《 中华 人民 共和国 动物 防疫法 》 等 一 系列 相关 法规 和 条例 ，</segment>
-		<segment id="150" parent="284" relname="attribution-positive">标志 着</segment>
-		<segment id="151" parent="283" relname="same-unit">我国</segment>
-		<segment id="152" parent="153" relname="elaboration-attribute">包括 突发 疫情 在内 的</segment>
-		<segment id="153" parent="282" relname="span">政府 应急 治理 进入 了 法制化 轨道 法制化 ，</segment>
-		<segment id="154" parent="284" relname="joint-list">进一步 完善 了 政府 应急 治理 机制 与 体制 。</segment>
-		<group id="155" type="multinuc" parent="159" relname="causal-cause"/>
-		<group id="156" type="span" parent="157" relname="same-unit"/>
-		<group id="157" type="multinuc" parent="6" relname="elaboration-additional"/>
-		<group id="158" type="span" parent="155" relname="joint-list"/>
-		<group id="159" type="multinuc" parent="160" relname="span"/>
-		<group id="160" type="span" parent="170" relname="span"/>
-		<group id="161" type="multinuc" parent="162" relname="adversative-concession"/>
+		<segment id="79" parent="208" relname="same-unit">对于</segment>
+		<segment id="80" parent="206" relname="joint-list">肩负 维护 社会 安全 与 稳定 、</segment>
+		<segment id="81" parent="206" relname="joint-list">保障 公民 各 项 权利 ，</segment>
+		<segment id="82" parent="206" relname="joint-list">促进 经济 发展 任务 的</segment>
+		<segment id="83" parent="207" relname="span">各 级 政府 组织 而言 ，</segment>
+		<segment id="84" parent="209" relname="joint-list">应对 突发 疫情 是 一 个 长期 的 、 持续 的 过程 ，</segment>
+		<segment id="85" parent="209" relname="joint-list">是 其 职能 所 系 ，</segment>
+		<segment id="86" parent="209" relname="joint-list">同时 也 对 政府 的 行政 能力 与 行政 合法性 层面 提出 了 要求 。</segment>
+		<segment id="87" parent="284" relname="organization-heading">2.2. 突发 疫情 下 政府 治理 的 相关 制度</segment>
+		<segment id="88" parent="89" relname="context-circumstance">自 2003年 非典 突发 疫情 以后 ，</segment>
+		<segment id="89" parent="293" relname="span">中国 政府 加紧 建设 在 突发 状态 下 的 政府 应急 治理 体系 建设 ，</segment>
+		<segment id="90" parent="225" relname="same-unit">主要 集中 体现 在 建立 与 完善</segment>
+		<segment id="91" parent="92" relname="elaboration-attribute">以 “ 一 案 三 制 ” 为 核心 的</segment>
+		<segment id="92" parent="224" relname="span">应急 管理 体系 建设 ，</segment>
+		<segment id="93" parent="231" relname="span">包括 紧急 预案 、 应急 体制 、 应急 机制 与 法制 ，</segment>
+		<segment id="94" parent="227" relname="same-unit">建立</segment>
+		<segment id="95" parent="96" relname="elaboration-attribute">“ 国家 统一 领导 、 综合 协调 、 分类 管理 、 分级 负责 、 属地 管理 为 主 的</segment>
+		<segment id="96" parent="226" relname="span">应急 管理 体制 ” ，</segment>
+		<segment id="97" parent="228" relname="joint-list">保证 了 突发 状态 下 政府 的 应急 能力 与 治理 能力 。</segment>
+		<segment id="98" parent="240" relname="organization-heading">2.2.1. 紧急 预案</segment>
+		<segment id="99" parent="235" relname="same-unit">应急 预案 是 指</segment>
+		<segment id="100" parent="101" relname="purpose-attribute">承担 突发 事件 应对 职能 的</segment>
+		<segment id="101" parent="233" relname="span">国家 机关</segment>
+		<segment id="102" parent="103" relname="elaboration-additional">针对 突发 事件 的 预防 和 准备 、 监测 与 预警 、 处置 与 救援 、 恢复 与 重建 ， 以及 应急 管理 的 组织 、 指挥 、 保障 等 内容</segment>
+		<segment id="103" parent="292" relname="span">而 制定 的</segment>
+		<segment id="104" parent="234" relname="span">工作 计划 。</segment>
+		<segment id="105" parent="236" relname="joint-sequence">2005年 ， 国务院 审议 并 通过 了 《 国家 突发 公共 事件 总 应急 预案 》 ，</segment>
+		<segment id="106" parent="237" relname="attribution-positive">公共 卫生 事件 的 各 级 专项 预案 和 部门 预案 陆续 发布 ，</segment>
+		<segment id="107" parent="237" relname="span">将 突发 公共 卫生 危机 分为 特别 重大 、 重大 、 较大 和 一般 四 级 ，</segment>
+		<segment id="108" parent="109" relname="mode-means">分别 用 红 、 橙 、 黄 、 蓝色</segment>
+		<segment id="109" parent="238" relname="span">来 表示 。</segment>
+		<segment id="110" parent="255" relname="organization-heading">2.2.2. 应急 体制</segment>
+		<segment id="111" parent="243" relname="context-background">应急 体制 建设 是 国家 应急 体系 建设 中 一 个 重要 的 组成 部分 ，</segment>
+		<segment id="112" parent="243" relname="same-unit">在 《 中华 人民 共和国 突发 事件 应对法 》 中 ，</segment>
+		<segment id="113" parent="114" relname="mode-manner">根据 突发 疫情 发生 的 规模 程度 和 影响 范围 ，</segment>
+		<segment id="114" parent="242" relname="span">分别 由 各 级 政府 实施 应急 管理 ；</segment>
+		<segment id="115" parent="244" relname="joint-list">跨 省区 、 跨 部门 或 特别 重大 的 突发 疫情 ， 由 国务院 及 有关 部门 进行 直接 管理 ，</segment>
+		<segment id="116" parent="244" relname="joint-list">地方 各 级 政府 予以 协助 配合 ；</segment>
+		<segment id="117" parent="245" relname="joint-list">其他 局部性 的 或 一般性 的 疫情 ， 由 地方 相应 层级 政府 负责 处理 ，</segment>
+		<segment id="118" parent="245" relname="joint-list">上级 政府 或 有关 部门 可 予以 指导 、 支持 和 帮助 ，</segment>
+		<segment id="119" parent="247" relname="evaluation-comment">初步 形成 了 条块 结合 的 管理 结构 和 响应 体制 。</segment>
+		<segment id="120" parent="249" relname="span">总的来说 ， 我国 目前 已 初步 建立 了 新型 的 、 法治 基础 上 的 平战 结合</segment>
+		<segment id="121" parent="120" relname="restatement-partial">( 日常 与 紧急 时期 ) 、</segment>
+		<segment id="122" parent="123" relname="elaboration-attribute">常态 管理 与 非 常态 管理 相 结合 的</segment>
+		<segment id="123" parent="251" relname="span">新型 公共 卫生 应急 管理 体制 ，</segment>
+		<segment id="124" parent="250" relname="elaboration-additional">其 显著 特点 是 制度化 和 应急 管理 常态化 、 专业化</segment>
+		<segment id="125" parent="252" relname="explanation-evidence">[ 3 ] 。</segment>
+		<segment id="126" parent="268" relname="organization-heading">2.2.3. 应急 机制</segment>
+		<segment id="127" parent="257" relname="joint-list">突发 疫情 状态 下 的 应急 机制 是 整个 应急 管理 体系 中 的 基础 部分 ，</segment>
+		<segment id="128" parent="258" relname="span">涉及 突发 疫情 状态 前后 政府 治理 的 各个 环节 ，</segment>
+		<segment id="129" parent="128" relname="elaboration-additional">包括 监测 预警 、 信息 公开 、 社会 动员 、 协调 联动 、 舆论 引导 以及 重建 等 方面 。</segment>
+		<segment id="130" parent="265" relname="attribution-positive">《 国家 公共 卫生 总预案 》 中 提出 ，</segment>
+		<segment id="131" parent="265" relname="same-unit">建立</segment>
+		<segment id="132" parent="259" relname="joint-list">功能 完善 、</segment>
+		<segment id="133" parent="259" relname="joint-list">反应 迅速 、</segment>
+		<segment id="134" parent="259" relname="joint-list">运转 协调 的</segment>
+		<segment id="135" parent="266" relname="span">突发 公共 卫生 应急 体制 ， 为 国家 在 突发 疫情 下 应急 体制 建设 建立 了 总 的 指导 原则 。</segment>
+		<segment id="136" parent="281" relname="organization-heading">2.2.4. 应急 法制</segment>
+		<segment id="137" parent="294" relname="joint-list">在 突发 疫情 状态 下 ， 法律 体系 的 建设 为 政府 治理 提供 了 根本 保障 ，</segment>
+		<segment id="138" parent="294" relname="joint-list">对于 政府 治理 具有 根本 意义 。</segment>
+		<segment id="139" parent="273" relname="context-circumstance">在 2003年 非典 疫情 过后 ，</segment>
+		<segment id="140" parent="273" relname="same-unit">国家 加紧 完善</segment>
+		<segment id="141" parent="142" relname="elaboration-attribute">关于 包括 突发 疫情 在内 的</segment>
+		<segment id="142" parent="272" relname="span">公共 卫生 法律 体系 ，</segment>
+		<segment id="143" parent="274" relname="elaboration-additional">先后 出台 了 《 突发 公共 卫生 事件 应急 条例 》 、 《 突发 公共 卫生 应急 总预案 》 、 《 重大 动物 疫情 应急 条例 》 、 《 中华 人民 共和国 传染病 防治法 》 、 《 中华 人民 共和国 动物 防疫法 》 等 一 系列 相关 法规 和 条例 ，</segment>
+		<segment id="144" parent="277" relname="attribution-positive">标志 着</segment>
+		<segment id="145" parent="276" relname="same-unit">我国</segment>
+		<segment id="146" parent="147" relname="elaboration-attribute">包括 突发 疫情 在内 的</segment>
+		<segment id="147" parent="275" relname="span">政府 应急 治理 进入 了 法制化 轨道 法制化 ，</segment>
+		<segment id="148" parent="277" relname="joint-list">进一步 完善 了 政府 应急 治理 机制 与 体制 。</segment>
+		<group id="149" type="multinuc" parent="153" relname="causal-cause"/>
+		<group id="150" type="span" parent="151" relname="same-unit"/>
+		<group id="151" type="multinuc" parent="6" relname="elaboration-additional"/>
+		<group id="152" type="span" parent="149" relname="joint-list"/>
+		<group id="153" type="multinuc" parent="154" relname="span"/>
+		<group id="154" type="span" parent="164" relname="span"/>
+		<group id="155" type="multinuc" parent="156" relname="adversative-concession"/>
+		<group id="156" type="multinuc" parent="157" relname="span"/>
+		<group id="157" type="span" parent="162" relname="causal-cause"/>
+		<group id="158" type="span" parent="162" relname="joint-list"/>
+		<group id="159" type="multinuc" parent="21" relname="purpose-attribute"/>
+		<group id="160" type="span" parent="161" relname="same-unit"/>
+		<group id="161" type="multinuc" parent="162" relname="joint-list"/>
 		<group id="162" type="multinuc" parent="163" relname="span"/>
-		<group id="163" type="span" parent="168" relname="causal-cause"/>
-		<group id="164" type="span" parent="168" relname="joint-list"/>
-		<group id="165" type="multinuc" parent="21" relname="purpose-attribute"/>
-		<group id="166" type="span" parent="167" relname="same-unit"/>
-		<group id="167" type="multinuc" parent="168" relname="joint-list"/>
-		<group id="168" type="multinuc" parent="169" relname="span"/>
-		<group id="169" type="span" parent="160" relname="elaboration-additional"/>
-		<group id="170" type="span" parent="171" relname="span"/>
-		<group id="171" type="span" parent="295" relname="joint-list"/>
-		<group id="172" type="multinuc" parent="25" relname="restatement-partial"/>
-		<group id="173" type="span" parent="174" relname="joint-list"/>
-		<group id="174" type="multinuc" parent="30" relname="elaboration-attribute"/>
+		<group id="163" type="span" parent="154" relname="elaboration-additional"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="288" relname="joint-list"/>
+		<group id="166" type="multinuc" parent="25" relname="restatement-partial"/>
+		<group id="167" type="span" parent="168" relname="joint-list"/>
+		<group id="168" type="multinuc" parent="30" relname="elaboration-attribute"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="222" relname="joint-list"/>
+		<group id="172" type="span" parent="173" relname="span"/>
+		<group id="173" type="span" parent="220" relname="organization-preparation"/>
+		<group id="174" type="span" parent="184" relname="span"/>
 		<group id="175" type="span" parent="176" relname="same-unit"/>
 		<group id="176" type="multinuc" parent="177" relname="span"/>
-		<group id="177" type="span" parent="228" relname="joint-list"/>
-		<group id="178" type="span" parent="179" relname="span"/>
-		<group id="179" type="span" parent="226" relname="organization-preparation"/>
-		<group id="180" type="span" parent="190" relname="span"/>
-		<group id="181" type="span" parent="182" relname="same-unit"/>
-		<group id="182" type="multinuc" parent="183" relname="span"/>
-		<group id="183" type="span" parent="184" relname="span"/>
-		<group id="184" type="span" parent="189" relname="span"/>
-		<group id="185" type="span" parent="186" relname="joint-list"/>
-		<group id="186" type="multinuc" parent="47" relname="contingency-condition"/>
-		<group id="187" type="span" parent="189" relname="causal-result"/>
-		<group id="188" type="span" parent="191" relname="span"/>
-		<group id="189" type="span" parent="188" relname="span"/>
-		<group id="190" type="span" parent="184" relname="adversative-concession"/>
-		<group id="191" type="span" parent="226" relname="joint-list"/>
-		<group id="192" type="multinuc" parent="193" relname="adversative-contrast"/>
-		<group id="193" type="multinuc" parent="204" relname="span"/>
-		<group id="194" type="span" parent="195" relname="span"/>
-		<group id="195" type="span" parent="203" relname="joint-other"/>
-		<group id="196" type="span" parent="198" relname="same-unit"/>
-		<group id="197" type="span" parent="199" relname="joint-list"/>
-		<group id="198" type="multinuc" parent="199" relname="joint-list"/>
-		<group id="199" type="multinuc" parent="200" relname="causal-cause"/>
-		<group id="200" type="multinuc" parent="201" relname="span"/>
-		<group id="201" type="span" parent="202" relname="span"/>
-		<group id="202" type="span" parent="203" relname="joint-other"/>
-		<group id="203" type="multinuc" parent="193" relname="explanation-evidence"/>
-		<group id="204" type="span" parent="205" relname="span"/>
-		<group id="205" type="span" parent="206" relname="span"/>
-		<group id="206" type="span" parent="226" relname="joint-list"/>
-		<group id="207" type="span" parent="66" relname="elaboration-additional"/>
-		<group id="208" type="multinuc" parent="207" relname="span"/>
-		<group id="209" type="span" parent="210" relname="same-unit"/>
-		<group id="210" type="multinuc" parent="211" relname="span"/>
-		<group id="211" type="span" parent="221" relname="span"/>
-		<group id="212" type="multinuc" parent="83" relname="elaboration-attribute"/>
-		<group id="213" type="span" parent="214" relname="same-unit"/>
-		<group id="214" type="multinuc" parent="215" relname="organization-preparation"/>
-		<group id="215" type="multinuc" parent="216" relname="span"/>
-		<group id="216" type="span" parent="218" relname="span"/>
-		<group id="217" type="span" parent="216" relname="context-background"/>
-		<group id="218" type="span" parent="222" relname="joint-list"/>
-		<group id="219" type="span" parent="222" relname="joint-list"/>
-		<group id="220" type="multinuc" parent="219" relname="span"/>
-		<group id="221" type="span" parent="220" relname="joint-list"/>
-		<group id="222" type="multinuc" parent="224" relname="span"/>
-		<group id="223" type="span" parent="222" relname="organization-preparation"/>
-		<group id="224" type="span" parent="225" relname="span"/>
-		<group id="225" type="span" parent="226" relname="joint-list"/>
-		<group id="226" type="multinuc" parent="227" relname="span"/>
-		<group id="227" type="span" parent="228" relname="joint-list"/>
-		<group id="228" type="multinuc" parent="229" relname="span"/>
-		<group id="229" type="span" parent="293" relname="joint-list"/>
-		<group id="230" type="span" parent="231" relname="same-unit"/>
-		<group id="231" type="multinuc" parent="235" relname="span"/>
-		<group id="232" type="span" parent="233" relname="same-unit"/>
-		<group id="233" type="multinuc" parent="234" relname="joint-list"/>
-		<group id="234" type="multinuc" parent="95" relname="explanation-justify"/>
-		<group id="235" type="span" parent="238" relname="span"/>
-		<group id="236" type="span" parent="235" relname="context-background"/>
-		<group id="237" type="span" parent="231" relname="elaboration-additional"/>
-		<group id="238" type="span" parent="291" relname="span"/>
-		<group id="239" type="span" parent="298" relname="same-unit"/>
-		<group id="241" type="span" parent="242" relname="same-unit"/>
-		<group id="242" type="multinuc" parent="243" relname="context-background"/>
-		<group id="243" type="multinuc" parent="247" relname="span"/>
-		<group id="244" type="span" parent="246" relname="span"/>
-		<group id="245" type="span" parent="111" relname="elaboration-additional"/>
-		<group id="246" type="span" parent="243" relname="joint-sequence"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" parent="183" relname="span"/>
+		<group id="179" type="span" parent="180" relname="joint-list"/>
+		<group id="180" type="multinuc" parent="47" relname="contingency-condition"/>
+		<group id="181" type="span" parent="183" relname="causal-result"/>
+		<group id="182" type="span" parent="185" relname="span"/>
+		<group id="183" type="span" parent="182" relname="span"/>
+		<group id="184" type="span" parent="178" relname="adversative-concession"/>
+		<group id="185" type="span" parent="220" relname="joint-list"/>
+		<group id="186" type="multinuc" parent="187" relname="adversative-contrast"/>
+		<group id="187" type="multinuc" parent="198" relname="span"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="197" relname="joint-other"/>
+		<group id="190" type="span" parent="192" relname="same-unit"/>
+		<group id="191" type="span" parent="193" relname="joint-list"/>
+		<group id="192" type="multinuc" parent="193" relname="joint-list"/>
+		<group id="193" type="multinuc" parent="194" relname="causal-cause"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="197" relname="joint-other"/>
+		<group id="197" type="multinuc" parent="187" relname="explanation-evidence"/>
+		<group id="198" type="span" parent="199" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="220" relname="joint-list"/>
+		<group id="201" type="span" parent="66" relname="elaboration-additional"/>
+		<group id="202" type="multinuc" parent="201" relname="span"/>
+		<group id="203" type="span" parent="204" relname="same-unit"/>
+		<group id="204" type="multinuc" parent="205" relname="span"/>
+		<group id="205" type="span" parent="215" relname="span"/>
+		<group id="206" type="multinuc" parent="83" relname="elaboration-attribute"/>
+		<group id="207" type="span" parent="208" relname="same-unit"/>
+		<group id="208" type="multinuc" parent="209" relname="organization-preparation"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="210" type="span" parent="212" relname="span"/>
+		<group id="211" type="span" parent="210" relname="context-background"/>
+		<group id="212" type="span" parent="216" relname="joint-list"/>
+		<group id="213" type="span" parent="216" relname="joint-list"/>
+		<group id="214" type="multinuc" parent="213" relname="span"/>
+		<group id="215" type="span" parent="214" relname="joint-list"/>
+		<group id="216" type="multinuc" parent="218" relname="span"/>
+		<group id="217" type="span" parent="216" relname="organization-preparation"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="joint-list"/>
+		<group id="220" type="multinuc" parent="221" relname="span"/>
+		<group id="221" type="span" parent="222" relname="joint-list"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="286" relname="joint-list"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="229" relname="span"/>
+		<group id="226" type="span" parent="227" relname="same-unit"/>
+		<group id="227" type="multinuc" parent="228" relname="joint-list"/>
+		<group id="228" type="multinuc" parent="93" relname="explanation-justify"/>
+		<group id="229" type="span" parent="232" relname="span"/>
+		<group id="231" type="span" parent="225" relname="elaboration-additional"/>
+		<group id="232" type="span" parent="284" relname="span"/>
+		<group id="233" type="span" parent="291" relname="same-unit"/>
+		<group id="234" type="span" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="236" relname="context-background"/>
+		<group id="236" type="multinuc" parent="240" relname="span"/>
+		<group id="237" type="span" parent="239" relname="span"/>
+		<group id="238" type="span" parent="107" relname="elaboration-additional"/>
+		<group id="239" type="span" parent="236" relname="joint-sequence"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="283" relname="joint-list"/>
+		<group id="242" type="span" parent="243" relname="same-unit"/>
+		<group id="243" type="multinuc" parent="254" relname="span"/>
+		<group id="244" type="multinuc" parent="246" relname="joint-disjunction"/>
+		<group id="245" type="multinuc" parent="246" relname="joint-disjunction"/>
+		<group id="246" type="multinuc" parent="254" relname="explanation-evidence"/>
 		<group id="247" type="span" parent="248" relname="span"/>
-		<group id="248" type="span" parent="290" relname="joint-list"/>
+		<group id="248" type="span" parent="253" relname="explanation-evidence"/>
 		<group id="249" type="span" parent="250" relname="same-unit"/>
-		<group id="250" type="multinuc" parent="261" relname="span"/>
-		<group id="251" type="multinuc" parent="253" relname="joint-disjunction"/>
-		<group id="252" type="multinuc" parent="253" relname="joint-disjunction"/>
-		<group id="253" type="multinuc" parent="261" relname="explanation-evidence"/>
-		<group id="254" type="span" parent="255" relname="span"/>
-		<group id="255" type="span" parent="260" relname="explanation-evidence"/>
-		<group id="256" type="span" parent="257" relname="same-unit"/>
-		<group id="257" type="multinuc" parent="259" relname="span"/>
-		<group id="258" type="span" parent="257" relname="same-unit"/>
-		<group id="259" type="span" parent="260" relname="span"/>
-		<group id="260" type="span" parent="262" relname="span"/>
-		<group id="261" type="span" parent="254" relname="span"/>
-		<group id="262" type="span" parent="263" relname="span"/>
-		<group id="263" type="span" parent="290" relname="joint-list"/>
-		<group id="264" type="multinuc" parent="274" relname="context-background"/>
-		<group id="265" type="span" parent="264" relname="joint-list"/>
-		<group id="266" type="multinuc" parent="140" relname="elaboration-attribute"/>
-		<group id="267" type="span" parent="268" relname="same-unit"/>
-		<group id="268" type="multinuc" parent="236" relname="span"/>
-		<group id="269" type="span" parent="270" relname="same-unit"/>
-		<group id="270" type="multinuc" parent="234" relname="joint-list"/>
-		<group id="271" type="span" parent="264" relname="joint-list"/>
-		<group id="272" type="multinuc" parent="274" relname="span"/>
-		<group id="273" type="span" parent="272" relname="same-unit"/>
-		<group id="274" type="span" parent="275" relname="span"/>
-		<group id="275" type="span" parent="276" relname="span"/>
-		<group id="276" type="span" parent="290" relname="joint-list"/>
-		<group id="277" type="span" parent="278" relname="span"/>
-		<group id="278" type="span" parent="286" relname="context-background"/>
-		<group id="279" type="span" parent="280" relname="same-unit"/>
-		<group id="280" type="multinuc" parent="281" relname="span"/>
-		<group id="281" type="span" parent="286" relname="span"/>
-		<group id="282" type="span" parent="283" relname="same-unit"/>
-		<group id="283" type="multinuc" parent="284" relname="joint-list"/>
-		<group id="284" type="multinuc" parent="285" relname="span"/>
-		<group id="285" type="span" parent="287" relname="evaluation-comment"/>
-		<group id="286" type="span" parent="287" relname="span"/>
-		<group id="287" type="span" parent="288" relname="span"/>
-		<group id="288" type="span" parent="289" relname="span"/>
-		<group id="289" type="span" parent="290" relname="joint-list"/>
-		<group id="290" type="multinuc" parent="238" relname="explanation-evidence"/>
-		<group id="291" type="span" parent="292" relname="span"/>
-		<group id="292" type="span" parent="293" relname="joint-list"/>
-		<group id="293" type="multinuc" parent="294" relname="span"/>
-		<group id="294" type="span" parent="295" relname="joint-list"/>
-		<group id="295" type="multinuc" parent="297" relname="span"/>
-		<group id="296" type="span" parent="295" relname="organization-heading"/>
-		<group id="297" type="span" />
-		<group id="298" type="multinuc" parent="108" relname="elaboration-attribute"/>
-		<group id="299" type="span" parent="298" relname="same-unit"/>
+		<group id="250" type="multinuc" parent="252" relname="span"/>
+		<group id="251" type="span" parent="250" relname="same-unit"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="255" relname="span"/>
+		<group id="254" type="span" parent="247" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="283" relname="joint-list"/>
+		<group id="257" type="multinuc" parent="267" relname="context-background"/>
+		<group id="258" type="span" parent="257" relname="joint-list"/>
+		<group id="259" type="multinuc" parent="135" relname="elaboration-attribute"/>
+		<group id="265" type="multinuc" parent="267" relname="span"/>
+		<group id="266" type="span" parent="265" relname="same-unit"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="283" relname="joint-list"/>
+		<group id="272" type="span" parent="273" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="279" relname="span"/>
+		<group id="275" type="span" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="277" relname="joint-list"/>
+		<group id="277" type="multinuc" parent="278" relname="span"/>
+		<group id="278" type="span" parent="280" relname="evaluation-comment"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="joint-list"/>
+		<group id="283" type="multinuc" parent="232" relname="explanation-evidence"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="286" relname="joint-list"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="288" relname="joint-list"/>
+		<group id="288" type="multinuc" parent="290" relname="span"/>
+		<group id="289" type="span" parent="288" relname="organization-heading"/>
+		<group id="290" type="span" />
+		<group id="291" type="multinuc" parent="104" relname="elaboration-attribute"/>
+		<group id="292" type="span" parent="291" relname="same-unit"/>
+		<group id="293" type="span" parent="229" relname="context-background"/>
+		<group id="294" type="multinuc" parent="279" relname="context-background"/>
 	</body>
 </rst>

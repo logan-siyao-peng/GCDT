@@ -113,7 +113,7 @@
 		<segment id="75" parent="238" relname="adversative-concession">无论 这 意味 着 什么 ， // whatever that means,</segment>
 		<segment id="76" parent="241" relname="organization-preparation">但 他们 需要 采取 媒体 道德 的 基本 步骤 ： // But they need to take basic steps in media ethics :</segment>
 		<segment id="77" parent="241" relname="joint-list">负 责任 、 // responsible,</segment>
-		<segment id="78" parent="241" relname="joint-list">透明 、 // Transparent ,</segment>
+		<segment id="78" parent="241" relname="joint-list">透明 、 // transparent ,</segment>
 		<segment id="79" parent="241" relname="joint-list">检查 文章 是否 有 偏见 或 不 完整 ， // Check articles for bias or incompleteness,</segment>
 		<segment id="80" parent="242" relname="span">文章 要 接受 独立 媒体 专家 的 检查 // Articles subject to review by independent media experts</segment>
 		<segment id="81" parent="80" relname="restatement-partial">（ Review ） ， // (Review),</segment>
@@ -173,7 +173,7 @@
 		<segment id="135" parent="293" relname="joint-list">做 什么 ， 对 事情 。 // do something right.</segment>
 		<segment id="136" parent="295" relname="span">有 一 个 巨大 的 讯息 真空 需要 填补 ， // There is a huge message vacuum that needs to be filled ,</segment>
 		<segment id="137" parent="136" relname="adversative-antithesis">而 这 个 真空 将 被 恐惧 和 错误 讯息 所 填补 ， 否则 。 // And that vacuum will be filled with fear and misinformation, otherwise.</segment>
-		<segment id="138" parent="296" relname="adversative-contrast">然而 ， 与 此 同时 ， 至关重要 的 是 ， 媒体 要 批判性 地 对待 官方 讯息 ， // At the same time , however , it is crucial that the media treat official messages critically ,</segment>
+		<segment id="138" parent="296" relname="adversative-contrast">然而 ， 与此同时 ， 至关重要 的 是 ， 媒体 要 批判性 地 对待 官方 讯息 ， // At the same time , however , it is crucial that the media treat official messages critically ,</segment>
 		<segment id="139" parent="296" relname="adversative-contrast">而 不 是 简单 地 “ 接受 ” 所有 讯息 。 // rather than simply "accepting" all messages.</segment>
 		<segment id="140" parent="296" relname="restatement-partial">他们 需要 进行 自己 的 独立 调查 和 报道 。 // They need to conduct their own independent investigation and reporting .</segment>
 		<segment id="141" parent="302" relname="span">在 北美 ， 它 的 纪录 好坏 参半 。 // In North America it has a mixed record .</segment>

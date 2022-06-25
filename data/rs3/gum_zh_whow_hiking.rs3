@@ -36,622 +36,616 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="616" relname="organization-heading">如何 徒步 旅行</segment>
-		<segment id="2" parent="323" relname="same-unit">很少 有 什么 事情 是</segment>
-		<segment id="3" parent="321" relname="joint-list">比 到 美丽 的 户外</segment>
-		<segment id="4" parent="321" relname="joint-list">去 徒步 旅行</segment>
-		<segment id="5" parent="322" relname="span">更 愉快 的 了 。</segment>
-		<segment id="6" parent="324" relname="joint-list">太阳 温暖 地 照耀 在 你 的 肩头 ，</segment>
-		<segment id="7" parent="324" relname="joint-list">你 置身于 大自然 之中 ，</segment>
-		<segment id="8" parent="326" relname="same-unit">眼前 会 出现</segment>
+		<segment id="1" parent="608" relname="organization-heading">如何 徒步 旅行</segment>
+		<segment id="2" parent="320" relname="same-unit">很少 有 什么 事情 是</segment>
+		<segment id="3" parent="318" relname="joint-list">比 到 美丽 的 户外</segment>
+		<segment id="4" parent="318" relname="joint-list">去 徒步 旅行</segment>
+		<segment id="5" parent="319" relname="span">更 愉快 的 了 。</segment>
+		<segment id="6" parent="321" relname="joint-list">太阳 温暖 地 照耀 在 你 的 肩头 ，</segment>
+		<segment id="7" parent="321" relname="joint-list">你 置身于 大自然 之中 ，</segment>
+		<segment id="8" parent="323" relname="same-unit">眼前 会 出现</segment>
 		<segment id="9" parent="10" relname="elaboration-attribute">令 人 难以置信 的</segment>
-		<segment id="10" parent="325" relname="span">景色</segment>
-		<segment id="11" parent="326" relname="elaboration-additional">—— 连 小径 都 会 成为 真正 的 天堂 。</segment>
+		<segment id="10" parent="322" relname="span">景色</segment>
+		<segment id="11" parent="323" relname="elaboration-additional">—— 连 小径 都 会 成为 真正 的 天堂 。</segment>
 		<segment id="12" parent="13" relname="contingency-condition">然而 ， 如果 没有 做好 正确 的 准备 的话 ，</segment>
-		<segment id="13" parent="328" relname="span">徒步 旅行 也 会 很 危险 。</segment>
-		<segment id="14" parent="331" relname="joint-list">为 徒步 旅行 做好 准备 ，</segment>
-		<segment id="15" parent="329" relname="attribution-positive">知道</segment>
+		<segment id="13" parent="325" relname="span">徒步 旅行 也 会 很 危险 。</segment>
+		<segment id="14" parent="328" relname="joint-list">为 徒步 旅行 做好 准备 ，</segment>
+		<segment id="15" parent="326" relname="attribution-positive">知道</segment>
 		<segment id="16" parent="17" relname="contingency-condition">一旦 上路</segment>
-		<segment id="17" parent="329" relname="span">你 要 做 什么 ，</segment>
-		<segment id="18" parent="331" relname="evaluation-comment">这些 都 是 相当 重要 的 。</segment>
-		<segment id="19" parent="338" relname="organization-preparation">警告 ：</segment>
-		<segment id="20" parent="333" relname="causal-cause">由于 新冠 肺炎 疫情 的 缘故 ，</segment>
-		<segment id="21" parent="333" relname="span">许多 徒步 路线 已经 关闭 ，</segment>
+		<segment id="17" parent="326" relname="span">你 要 做 什么 ，</segment>
+		<segment id="18" parent="328" relname="evaluation-comment">这些 都 是 相当 重要 的 。</segment>
+		<segment id="19" parent="335" relname="organization-preparation">警告 ：</segment>
+		<segment id="20" parent="330" relname="causal-cause">由于 新冠 肺炎 疫情 的 缘故 ，</segment>
+		<segment id="21" parent="330" relname="span">许多 徒步 路线 已经 关闭 ，</segment>
 		<segment id="22" parent="21" relname="purpose-goal">以 减缓 疾病 的 传播 。</segment>
-		<segment id="23" parent="336" relname="same-unit">上网 查询</segment>
+		<segment id="23" parent="333" relname="same-unit">上网 查询</segment>
 		<segment id="24" parent="25" relname="elaboration-attribute">你 想 去 的</segment>
-		<segment id="25" parent="335" relname="span">远足 路线 是否 开放 ，</segment>
-		<segment id="26" parent="336" relname="same-unit">以及</segment>
+		<segment id="25" parent="332" relname="span">远足 路线 是否 开放 ，</segment>
+		<segment id="26" parent="333" relname="same-unit">以及</segment>
 		<segment id="27" parent="28" relname="elaboration-attribute">任何 关于 路线 的</segment>
-		<segment id="28" parent="337" relname="span">最新 资讯 。</segment>
+		<segment id="28" parent="334" relname="span">最新 资讯 。</segment>
 		<segment id="29" parent="30" relname="organization-preparation">部分 1</segment>
-		<segment id="30" parent="339" relname="span">为 徒步 旅行 做 准备</segment>
-		<segment id="31" parent="380" relname="organization-preparation">1 购买 当地 旅游 指南 。</segment>
-		<segment id="32" parent="341" relname="same-unit">要 找到</segment>
+		<segment id="30" parent="336" relname="span">为 徒步 旅行 做 准备</segment>
+		<segment id="31" parent="377" relname="organization-preparation">1 购买 当地 旅游 指南 。</segment>
+		<segment id="32" parent="338" relname="same-unit">要 找到</segment>
 		<segment id="33" parent="34" relname="elaboration-attribute">适合 你 的</segment>
-		<segment id="34" parent="340" relname="span">远足 行程 ，</segment>
-		<segment id="35" parent="347" relname="span">远足 旅行 指南 是 必不可少 的 。</segment>
-		<segment id="36" parent="352" relname="span">你 周围 所有 的 自然 景观 都 能 在 当地 旅游 指南 中 找到</segment>
-		<segment id="37" parent="350" relname="same-unit">—— 从</segment>
+		<segment id="34" parent="337" relname="span">远足 行程 ，</segment>
+		<segment id="35" parent="344" relname="span">远足 旅行 指南 是 必不可少 的 。</segment>
+		<segment id="36" parent="349" relname="span">你 周围 所有 的 自然 景观 都 能 在 当地 旅游 指南 中 找到</segment>
+		<segment id="37" parent="347" relname="same-unit">—— 从</segment>
 		<segment id="38" parent="39" relname="context-circumstance">在 不同 季节 远足 时</segment>
-		<segment id="39" parent="348" relname="span">能 看到 的</segment>
-		<segment id="40" parent="349" relname="span">野花 ， 到</segment>
+		<segment id="39" parent="345" relname="span">能 看到 的</segment>
+		<segment id="40" parent="346" relname="span">野花 ， 到</segment>
 		<segment id="41" parent="42" relname="elaboration-attribute">头顶 飞过 的</segment>
-		<segment id="42" parent="351" relname="span">鸟儿 的 种类 。</segment>
-		<segment id="43" parent="354" relname="same-unit">你 应该 能 在</segment>
+		<segment id="42" parent="348" relname="span">鸟儿 的 种类 。</segment>
+		<segment id="43" parent="351" relname="same-unit">你 应该 能 在</segment>
 		<segment id="44" parent="45" relname="elaboration-attribute">自己 所 在 的</segment>
-		<segment id="45" parent="353" relname="span">当地 书店 、 户外 探险店 、 或是</segment>
+		<segment id="45" parent="350" relname="span">当地 书店 、 户外 探险店 、 或是</segment>
 		<segment id="46" parent="47" relname="elaboration-attribute">你 所 在</segment>
-		<segment id="47" parent="355" relname="span">区域 中 公园 的 游客 中心 买到 当地 远足 指南 。</segment>
-		<segment id="48" parent="356" relname="joint-list">网上 也 能够 买到 。</segment>
-		<segment id="49" parent="357" relname="joint-list">你 也 可以 在 网上 搜索 当地 的 徒步 旅行 。</segment>
-		<segment id="50" parent="359" relname="same-unit">即使 你 住在</segment>
+		<segment id="47" parent="352" relname="span">区域 中 公园 的 游客 中心 买到 当地 远足 指南 。</segment>
+		<segment id="48" parent="353" relname="joint-list">网上 也 能够 买到 。</segment>
+		<segment id="49" parent="354" relname="joint-list">你 也 可以 在 网上 搜索 当地 的 徒步 旅行 。</segment>
+		<segment id="50" parent="356" relname="same-unit">即使 你 住在</segment>
 		<segment id="51" parent="52" relname="elaboration-attribute">像 旧金山 一样 的</segment>
-		<segment id="52" parent="358" relname="span">中心 城市 ，</segment>
-		<segment id="53" parent="361" relname="attribution-positive">你 也 很 可能 会 发现</segment>
-		<segment id="54" parent="361" relname="same-unit">有 一 大堆 网站 详细 介绍 了</segment>
+		<segment id="52" parent="355" relname="span">中心 城市 ，</segment>
+		<segment id="53" parent="358" relname="attribution-positive">你 也 很 可能 会 发现</segment>
+		<segment id="54" parent="358" relname="same-unit">有 一 大堆 网站 详细 介绍 了</segment>
 		<segment id="55" parent="56" relname="elaboration-attribute">你 周边 能够 开展 的</segment>
-		<segment id="56" parent="360" relname="span">很 棒 的 远足 。</segment>
+		<segment id="56" parent="357" relname="span">很 棒 的 远足 。</segment>
 		<segment id="57" parent="58" relname="contingency-condition">（ 如果 你 确实 住在 旧金山 ，</segment>
-		<segment id="58" parent="364" relname="span">还是 找 一 找 马林 海岬 周边 的 吧！ ）</segment>
-		<segment id="59" parent="375" relname="attribution-positive">专家 提示</segment>
+		<segment id="58" parent="361" relname="span">还是 找 一 找 马林 海岬 周边 的 吧！ ）</segment>
+		<segment id="59" parent="372" relname="attribution-positive">专家 提示</segment>
 		<segment id="60" parent="61" relname="adversative-concession">尽管 纸质 地图 作为 安全 防护 措施 很 重要 ，</segment>
-		<segment id="61" parent="366" relname="span">但 科技 的 发展 让 徒步 旅行 变得 更 轻松 。</segment>
-		<segment id="62" parent="373" relname="attribution-positive">徒步 和 背包 旅行 领队 Thomas Churchill 介绍 说 ：</segment>
-		<segment id="63" parent="367" relname="attribution-positive">“ 我 建议</segment>
+		<segment id="61" parent="363" relname="span">但 科技 的 发展 让 徒步 旅行 变得 更 轻松 。</segment>
+		<segment id="62" parent="370" relname="attribution-positive">徒步 和 背包 旅行 领队 Thomas Churchill 介绍 说 ：</segment>
+		<segment id="63" parent="364" relname="attribution-positive">“ 我 建议</segment>
 		<segment id="64" parent="65" relname="context-circumstance">尝试 新 的 路线 之前 ，</segment>
-		<segment id="65" parent="367" relname="span">从 应用 商店 下载 Topomaps+ 或 类似 的 应用 。</segment>
-		<segment id="66" parent="369" relname="same-unit">你 可以</segment>
+		<segment id="65" parent="364" relname="span">从 应用 商店 下载 Topomaps+ 或 类似 的 应用 。</segment>
+		<segment id="66" parent="366" relname="same-unit">你 可以</segment>
 		<segment id="67" parent="68" relname="mode-means">通过 这些 应用</segment>
-		<segment id="68" parent="368" relname="span">下载 任何 路线 的 详细 徒步 地图 ，</segment>
+		<segment id="68" parent="365" relname="span">下载 任何 路线 的 详细 徒步 地图 ，</segment>
 		<segment id="69" parent="70" relname="adversative-concession">并且 就算 离线</segment>
-		<segment id="70" parent="370" relname="span">也 能 查看 地图 位置 。 ”</segment>
-		<segment id="71" parent="396" relname="organization-preparation">2 从 小型 旅行 开始 。</segment>
+		<segment id="70" parent="367" relname="span">也 能 查看 地图 位置 。 ”</segment>
+		<segment id="71" parent="393" relname="organization-preparation">2 从 小型 旅行 开始 。</segment>
 		<segment id="72" parent="73" relname="contingency-condition">如果 你 第一 次 进行 远足 ，</segment>
-		<segment id="73" parent="382" relname="span">你 应当 选 一 个 相对 简单 的 旅行 。</segment>
-		<segment id="74" parent="384" relname="mode-means">根据 自己 的 能力 ，</segment>
-		<segment id="75" parent="384" relname="same-unit">选 一 个</segment>
+		<segment id="73" parent="379" relname="span">你 应当 选 一 个 相对 简单 的 旅行 。</segment>
+		<segment id="74" parent="381" relname="mode-means">根据 自己 的 能力 ，</segment>
+		<segment id="75" parent="381" relname="same-unit">选 一 个</segment>
 		<segment id="76" parent="77" relname="elaboration-attribute">距离 在 可控 范围 内 的</segment>
-		<segment id="77" parent="383" relname="span">短 日程 旅行 。</segment>
-		<segment id="78" parent="386" relname="joint-list">如果 很少 出门</segment>
-		<segment id="79" parent="386" relname="joint-list">亲近 大自然 的话 ，</segment>
-		<segment id="80" parent="387" relname="span">你 可能 会 坚持 选择 一 段 一 到 两 公里 的 顺畅 的 旅途 。</segment>
-		<segment id="81" parent="389" relname="same-unit">对于 其他 那些</segment>
+		<segment id="77" parent="380" relname="span">短 日程 旅行 。</segment>
+		<segment id="78" parent="383" relname="joint-list">如果 很少 出门</segment>
+		<segment id="79" parent="383" relname="joint-list">亲近 大自然 的话 ，</segment>
+		<segment id="80" parent="384" relname="span">你 可能 会 坚持 选择 一 段 一 到 两 公里 的 顺畅 的 旅途 。</segment>
+		<segment id="81" parent="386" relname="same-unit">对于 其他 那些</segment>
 		<segment id="82" parent="83" relname="elaboration-attribute">经常 锻炼 的</segment>
-		<segment id="83" parent="388" relname="span">人 来说 ，</segment>
-		<segment id="84" parent="390" relname="span">简单 的 五 公里 往返 旅程 可能 更 符合 你 的 风格</segment>
-		<segment id="85" parent="391" relname="evaluation-comment">—— 这 完全 取决于 你 自己 。</segment>
-		<segment id="86" parent="392" relname="restatement-partial">第一 次 外出 ， 只要 不 把 自己 弄得 太 累 就 好 。</segment>
-		<segment id="87" parent="394" relname="explanation-evidence">[ 1 ]</segment>
-		<segment id="88" parent="413" relname="organization-preparation">3 带 大量 水 。</segment>
+		<segment id="83" parent="385" relname="span">人 来说 ，</segment>
+		<segment id="84" parent="387" relname="span">简单 的 五 公里 往返 旅程 可能 更 符合 你 的 风格</segment>
+		<segment id="85" parent="388" relname="evaluation-comment">—— 这 完全 取决于 你 自己 。</segment>
+		<segment id="86" parent="389" relname="restatement-partial">第一 次 外出 ， 只要 不 把 自己 弄得 太 累 就 好 。</segment>
+		<segment id="87" parent="391" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="88" parent="410" relname="organization-preparation">3 带 大量 水 。</segment>
 		<segment id="89" parent="90" relname="context-circumstance">在 学习 如何 安全 地 进行 徒步 旅行 中 ，</segment>
-		<segment id="90" parent="398" relname="span">很 重要 的 一 点 是 要 带 适量 的 水 。</segment>
-		<segment id="91" parent="400" relname="span">保持 水分 充足 相当 重要 ，</segment>
+		<segment id="90" parent="395" relname="span">很 重要 的 一 点 是 要 带 适量 的 水 。</segment>
+		<segment id="91" parent="397" relname="span">保持 水分 充足 相当 重要 ，</segment>
 		<segment id="92" parent="93" relname="context-circumstance">因此 ， 在 你 出门 远足 之前 ，</segment>
-		<segment id="93" parent="399" relname="span">一定 要 喝 大量 的 水 。</segment>
-		<segment id="94" parent="404" relname="same-unit">带上</segment>
-		<segment id="95" parent="402" relname="same-unit">比</segment>
+		<segment id="93" parent="396" relname="span">一定 要 喝 大量 的 水 。</segment>
+		<segment id="94" parent="401" relname="same-unit">带上</segment>
+		<segment id="95" parent="399" relname="same-unit">比</segment>
 		<segment id="96" parent="97" relname="attribution-positive">你 认为</segment>
-		<segment id="97" parent="401" relname="span">自己 需要 的</segment>
-		<segment id="98" parent="403" relname="span">更 多 的 水</segment>
-		<segment id="99" parent="406" relname="span">—— 带 过 多 的 水</segment>
-		<segment id="100" parent="405" relname="span">比起 没 带够 水</segment>
+		<segment id="97" parent="398" relname="span">自己 需要 的</segment>
+		<segment id="98" parent="400" relname="span">更 多 的 水</segment>
+		<segment id="99" parent="403" relname="span">—— 带 过 多 的 水</segment>
+		<segment id="100" parent="402" relname="span">比起 没 带够 水</segment>
 		<segment id="101" parent="100" relname="causal-result">而 脱水</segment>
-		<segment id="102" parent="407" relname="same-unit">要 好 多 了 。</segment>
+		<segment id="102" parent="404" relname="same-unit">要 好 多 了 。</segment>
 		<segment id="103" parent="104" relname="organization-preparation">告诉 你 一 个 不错 的 经验 法则 ：</segment>
-		<segment id="104" parent="408" relname="span">每 人 每 两 小时 需要 摄入 至少 一 升 的 水 。</segment>
-		<segment id="105" parent="412" relname="explanation-evidence">[ 2 ]</segment>
-		<segment id="106" parent="433" relname="organization-preparation">4 收拾 好 背包 。</segment>
-		<segment id="107" parent="415" relname="mode-means">根据 远足 的 长短 ，</segment>
+		<segment id="104" parent="405" relname="span">每 人 每 两 小时 需要 摄入 至少 一 升 的 水 。</segment>
+		<segment id="105" parent="409" relname="explanation-evidence">[ 2 ]</segment>
+		<segment id="106" parent="430" relname="organization-preparation">4 收拾 好 背包 。</segment>
+		<segment id="107" parent="412" relname="mode-means">根据 远足 的 长短 ，</segment>
 		<segment id="108" parent="109" relname="attribution-positive">你 需要 考虑</segment>
-		<segment id="109" parent="415" relname="span">带上 不同 的 东西 。</segment>
-		<segment id="110" parent="418" relname="same-unit">不过 ， 通常来说 ，</segment>
+		<segment id="109" parent="412" relname="span">带上 不同 的 东西 。</segment>
+		<segment id="110" parent="415" relname="same-unit">不过 ， 通常来说 ，</segment>
 		<segment id="111" parent="112" relname="adversative-concession">不论 旅途 的 长短 ，</segment>
-		<segment id="112" parent="422" relname="span">你 都 需要 带上 一些</segment>
+		<segment id="112" parent="419" relname="span">你 都 需要 带上 一些</segment>
 		<segment id="113" parent="114" relname="elaboration-attribute">能够 补充 能量 的</segment>
-		<segment id="114" parent="417" relname="span">零食</segment>
-		<segment id="115" parent="417" relname="explanation-evidence">（ 带上 什锦 干果 肯定 不 会 错 ） 、</segment>
-		<segment id="116" parent="419" relname="span">一 把 小刀</segment>
+		<segment id="114" parent="414" relname="span">零食</segment>
+		<segment id="115" parent="414" relname="explanation-evidence">（ 带上 什锦 干果 肯定 不 会 错 ） 、</segment>
+		<segment id="116" parent="416" relname="span">一 把 小刀</segment>
 		<segment id="117" parent="116" relname="elaboration-attribute">（ 瑞士 军刀 是 很 好 的 选择 ） 、</segment>
-		<segment id="118" parent="421" relname="span">指南针 以及 地图 、 手电筒 、 火柴 或是 打火机 ， 以及 额外 的 衣物</segment>
+		<segment id="118" parent="418" relname="span">指南针 以及 地图 、 手电筒 、 火柴 或是 打火机 ， 以及 额外 的 衣物</segment>
 		<segment id="119" parent="118" relname="purpose-attribute">（ 以防 天气 突变 。 ）</segment>
-		<segment id="120" parent="418" relname="explanation-evidence">[ 3 ]</segment>
+		<segment id="120" parent="415" relname="explanation-evidence">[ 3 ]</segment>
 		<segment id="121" parent="122" relname="attribution-positive">你 也 可以 考虑</segment>
-		<segment id="122" parent="424" relname="span">带上 急救箱 、 指南针 、 望远镜 等等 。</segment>
+		<segment id="122" parent="421" relname="span">带上 急救箱 、 指南针 、 望远镜 等等 。</segment>
 		<segment id="123" parent="124" relname="attribution-positive">只要 记住 ，</segment>
-		<segment id="124" parent="425" relname="span">不 要 让 自己 被 不 必要 的 东西 压垮 。</segment>
-		<segment id="125" parent="426" relname="adversative-contrast">但是 要 常备 水 。</segment>
+		<segment id="124" parent="422" relname="span">不 要 让 自己 被 不 必要 的 东西 压垮 。</segment>
+		<segment id="125" parent="423" relname="adversative-contrast">但是 要 常备 水 。</segment>
 		<segment id="126" parent="127" relname="contingency-condition">如果 你 要 在 新冠 肺炎 期间 去 徒步 旅行 ，</segment>
-		<segment id="127" parent="427" relname="span">一定 要 戴好 口罩 ；</segment>
+		<segment id="127" parent="424" relname="span">一定 要 戴好 口罩 ；</segment>
 		<segment id="128" parent="129" relname="contingency-condition">只要 路上 有 其他 人 同行 ，</segment>
-		<segment id="129" parent="428" relname="span">你 就 最好 戴上 口罩 。</segment>
-		<segment id="130" parent="442" relname="organization-preparation">5 避免 被 太阳 晒伤 。</segment>
-		<segment id="131" parent="436" relname="same-unit">除了</segment>
+		<segment id="129" parent="425" relname="span">你 就 最好 戴上 口罩 。</segment>
+		<segment id="130" parent="439" relname="organization-preparation">5 避免 被 太阳 晒伤 。</segment>
+		<segment id="131" parent="433" relname="same-unit">除了</segment>
 		<segment id="132" parent="133" relname="elaboration-attribute">装 在 包 里 的</segment>
-		<segment id="133" parent="435" relname="span">其他 东西 ，</segment>
-		<segment id="134" parent="438" relname="same-unit">你 还 需要 带上</segment>
+		<segment id="133" parent="432" relname="span">其他 东西 ，</segment>
+		<segment id="134" parent="435" relname="same-unit">你 还 需要 带上</segment>
 		<segment id="135" parent="136" relname="purpose-attribute">能 让 你 免受 晒伤 的</segment>
-		<segment id="136" parent="437" relname="span">物品 。</segment>
-		<segment id="137" parent="438" relname="explanation-evidence">包括 防晒霜 、 帽子 、 太阳镜 。</segment>
-		<segment id="138" parent="441" relname="span">中 了 太阳毒 或者 得 了 皮肤癌 可 不 是 闹 着 玩 的 ，</segment>
+		<segment id="136" parent="434" relname="span">物品 。</segment>
+		<segment id="137" parent="435" relname="explanation-evidence">包括 防晒霜 、 帽子 、 太阳镜 。</segment>
+		<segment id="138" parent="438" relname="span">中 了 太阳毒 或者 得 了 皮肤癌 可 不 是 闹 着 玩 的 ，</segment>
 		<segment id="139" parent="138" relname="causal-result">所以 ， 尽可能 地 让 自己 免受 太阳 的 强烈 辐射 。</segment>
-		<segment id="140" parent="459" relname="organization-preparation">6 穿 合适 的 鞋 。</segment>
-		<segment id="141" parent="445" relname="same-unit">穿上</segment>
+		<segment id="140" parent="456" relname="organization-preparation">6 穿 合适 的 鞋 。</segment>
+		<segment id="141" parent="442" relname="same-unit">穿上</segment>
 		<segment id="142" parent="143" relname="elaboration-attribute">便于 走路 的</segment>
-		<segment id="143" parent="444" relname="span">鞋 很 重要 。</segment>
+		<segment id="143" parent="441" relname="span">鞋 很 重要 。</segment>
 		<segment id="144" parent="145" relname="adversative-antithesis">别 穿 人字拖 ，</segment>
-		<segment id="145" parent="446" relname="span">穿 系带鞋 ，</segment>
-		<segment id="146" parent="446" relname="explanation-justify">这样 能 更 好 地 支撑 脚底 。</segment>
+		<segment id="145" parent="443" relname="span">穿 系带鞋 ，</segment>
+		<segment id="146" parent="443" relname="explanation-justify">这样 能 更 好 地 支撑 脚底 。</segment>
 		<segment id="147" parent="148" relname="contingency-condition">如果 可以 的话 ，</segment>
-		<segment id="148" parent="448" relname="span">穿 徒步鞋 或是 越野鞋</segment>
+		<segment id="148" parent="445" relname="span">穿 徒步鞋 或是 越野鞋</segment>
 		<segment id="149" parent="150" relname="context-circumstance">—— 面对 崎岖 的 地形 ，</segment>
-		<segment id="150" parent="449" relname="span">这些 鞋 是 最 好 的 选择 。</segment>
-		<segment id="151" parent="452" relname="same-unit">如果 你 有 一 双</segment>
+		<segment id="150" parent="446" relname="span">这些 鞋 是 最 好 的 选择 。</segment>
+		<segment id="151" parent="449" relname="same-unit">如果 你 有 一 双</segment>
 		<segment id="152" parent="153" relname="elaboration-attribute">以前 从来 没 穿 过 的</segment>
-		<segment id="153" parent="451" relname="span">新鞋 ，</segment>
+		<segment id="153" parent="448" relname="span">新鞋 ，</segment>
 		<segment id="154" parent="155" relname="context-circumstance">在 出行 之前 ，</segment>
-		<segment id="155" parent="453" relname="span">试 着 让 它 跟 你 的 脚 磨合 好 。</segment>
+		<segment id="155" parent="450" relname="span">试 着 让 它 跟 你 的 脚 磨合 好 。</segment>
 		<segment id="156" parent="157" relname="organization-preparation">否则 的话 ，</segment>
-		<segment id="157" parent="455" relname="span">你 的 脚 上 可能 会 被 磨出 讨厌 的 水泡 。</segment>
-		<segment id="158" parent="474" relname="organization-preparation">7 叫上 几 个 朋友 或是 家人 跟 你 一起 。</segment>
-		<segment id="159" parent="462" relname="same-unit">初级者</segment>
+		<segment id="157" parent="452" relname="span">你 的 脚 上 可能 会 被 磨出 讨厌 的 水泡 。</segment>
+		<segment id="158" parent="470" relname="organization-preparation">7 叫上 几 个 朋友 或是 家人 跟 你 一起 。</segment>
+		<segment id="159" parent="459" relname="same-unit">初级者</segment>
 		<segment id="160" parent="161" relname="context-circumstance">在 能够 独自 出行 之前 ，</segment>
-		<segment id="161" parent="461" relname="span">最好 是 抱团 ，</segment>
-		<segment id="162" parent="463" relname="joint-list">或者 跟 有 经验 的 远足者们 在 一起 。</segment>
-		<segment id="163" parent="469" relname="same-unit">这 是 因为</segment>
-		<segment id="164" parent="467" relname="adversative-antithesis">相比 跟 别人 在 一起 ，</segment>
-		<segment id="165" parent="466" relname="same-unit">如果</segment>
+		<segment id="161" parent="458" relname="span">最好 是 抱团 ，</segment>
+		<segment id="162" parent="460" relname="joint-list">或者 跟 有 经验 的 远足者们 在 一起 。</segment>
+		<segment id="163" parent="465" relname="same-unit">这 是 因为</segment>
+		<segment id="164" parent="463" relname="adversative-antithesis">相比 跟 别人 在 一起 ，</segment>
+		<segment id="165" parent="462" relname="same-unit">如果</segment>
 		<segment id="166" parent="167" relname="elaboration-attribute">你 一 个 人 远足 的</segment>
-		<segment id="167" parent="464" relname="span">时候</segment>
-		<segment id="168" parent="465" relname="span">发生 了 什么 事故 ，</segment>
-		<segment id="169" parent="467" relname="span">你 将 更 难 获得 帮助 。</segment>
-		<segment id="170" parent="171" relname="context-circumstance">计划 好 徒步 旅行 的 行程 后 ，</segment>
-		<segment id="171" parent="470" relname="span">叫上 你 的 朋友 一块儿 ，</segment>
-		<segment id="172" parent="471" relname="joint-list">这 不仅 可以 增添 乐趣 ，</segment>
-		<segment id="173" parent="471" relname="joint-list">也 是 为了 安全 起见 。</segment>
-		<segment id="174" parent="472" relname="explanation-evidence">[ 4 ]</segment>
-		<segment id="175" parent="176" relname="attribution-positive">如果 你 决定</segment>
-		<segment id="176" parent="476" relname="span">一 个 人 远足 ，</segment>
-		<segment id="177" parent="477" relname="attribution-positive">至少 让 其他 人 知道</segment>
-		<segment id="178" parent="477" relname="joint-list">你 要 去 哪儿 ，</segment>
-		<segment id="179" parent="477" relname="joint-list">以及 你 预计 什么 时候 回来 。</segment>
-		<segment id="180" parent="479" relname="attribution-positive">告诉 他们</segment>
-		<segment id="181" parent="182" relname="context-circumstance">当 你 结束 旅行 后 ，</segment>
-		<segment id="182" parent="479" relname="span">你 会 联系 他们 。</segment>
-		<segment id="183" parent="621" relname="span">千万 别 忘 了 回来 后 要 联系 他们 ，</segment>
-		<segment id="184" parent="620" relname="same-unit">否则 他们 可能</segment>
-		<segment id="185" parent="186" relname="mode-means">报警</segment>
-		<segment id="186" parent="619" relname="span">找 你 。</segment>
-		<segment id="187" parent="490" relname="attribution-positive">8 了解</segment>
-		<segment id="188" parent="189" relname="context-circumstance">遇到 紧急 情况</segment>
-		<segment id="189" parent="490" relname="span">要 做 什么 。</segment>
-		<segment id="190" parent="191" relname="adversative-concession">虽然 你 的 旅程 通常 会 进行 得 相当 顺利 ，</segment>
-		<segment id="191" parent="492" relname="span">但是 也 要 时常 为 未知 的 事物 做 准备 。</segment>
-		<segment id="192" parent="493" relname="joint-list">要 随身 携带 急救箱 ， 还有 手机 。</segment>
-		<segment id="193" parent="493" relname="joint-list">时刻 准备 好 ，</segment>
-		<segment id="194" parent="493" relname="adversative-concession">虽然 ， 你 可能 根本 不 会 到 森林 里 去 。</segment>
-		<segment id="195" parent="495" relname="elaboration-additional">更多 关于 野外 生存 的 指导 ， 请 参见 “ 如何 在 野外 生存 ” 。</segment>
-		<segment id="196" parent="197" relname="organization-preparation">部分 2</segment>
-		<segment id="197" parent="498" relname="span">上路 后</segment>
-		<segment id="198" parent="516" relname="organization-preparation">1 从 起点 标志 出发 。</segment>
-		<segment id="199" parent="515" relname="span">每 条 路 都 有 一 个 起始 标志</segment>
-		<segment id="200" parent="500" relname="same-unit">—— 这 个 标志 通常 能 表示 出 路名 以及</segment>
-		<segment id="201" parent="202" relname="elaboration-attribute">到 尽头 的</segment>
-		<segment id="202" parent="499" relname="span">距离</segment>
-		<segment id="203" parent="501" relname="joint-disjunction">（ 或是 环路 的 长度 。 ）</segment>
-		<segment id="204" parent="503" relname="same-unit">其他</segment>
-		<segment id="205" parent="206" relname="elaboration-attribute">像 在 国家 公园 内 的</segment>
-		<segment id="206" parent="502" relname="span">那些 起点 标志 ， 会 有 一 张</segment>
-		<segment id="207" parent="505" relname="adversative-contrast">显示 所有 与</segment>
-		<segment id="208" parent="209" relname="elaboration-attribute">你 所 在 的</segment>
-		<segment id="209" parent="504" relname="span">路 相连 路径 的</segment>
-		<segment id="210" parent="509" relname="span">地图 ，</segment>
-		<segment id="211" parent="508" relname="same-unit">地图 上 还 会 标志 出</segment>
-		<segment id="212" parent="213" relname="context-circumstance">徒步 旅行 时</segment>
-		<segment id="213" parent="506" relname="span">需要 留神 的</segment>
-		<segment id="214" parent="507" relname="span">其他 各 种 事物 。</segment>
-		<segment id="215" parent="216" relname="contingency-condition">如果 你 找 不到 起始 路标 ，</segment>
-		<segment id="216" parent="511" relname="span">可能 你 没有 在 正确 的 位置 。</segment>
-		<segment id="217" parent="511" relname="causal-result">向 别人 打听 一下 方向 。</segment>
-		<segment id="218" parent="512" relname="span">有些 其他 路 可能 没有 路标</segment>
-		<segment id="219" parent="218" relname="elaboration-additional">—— 这 一 情况 会 在 你 的 旅行 指南 上 提到 。</segment>
-		<segment id="220" parent="541" relname="organization-preparation">2 留意 路标 。</segment>
-		<segment id="221" parent="222" relname="context-circumstance">当 你 在 户外 远足 时 ，</segment>
-		<segment id="222" parent="518" relname="span">势必 会 碰到 交叉 路口 。</segment>
-		<segment id="223" parent="522" relname="same-unit">请</segment>
-		<segment id="224" parent="520" relname="same-unit">依照</segment>
-		<segment id="225" parent="226" relname="elaboration-attribute">路标 上 标 的</segment>
-		<segment id="226" parent="519" relname="span">路名</segment>
-		<segment id="227" parent="523" relname="span">前往</segment>
-		<segment id="228" parent="229" relname="elaboration-attribute">你 要 去 的</segment>
-		<segment id="229" parent="521" relname="span">地方 。</segment>
-		<segment id="230" parent="524" relname="span">如果 没有 路标</segment>
-		<segment id="231" parent="230" relname="adversative-concession">（ 这 是 比较 罕见 的 情况 ） ，</segment>
-		<segment id="232" parent="525" relname="joint-list">在 地图 上 查 一下 ，</segment>
-		<segment id="233" parent="529" relname="span">或是 找找 周围 有 没有 堆石 界标 。</segment>
-		<segment id="234" parent="528" relname="same-unit">堆石 界标 是</segment>
-		<segment id="235" parent="236" relname="purpose-attribute">用以 给 远足者们 指引 正确 道路 的</segment>
-		<segment id="236" parent="527" relname="span">石堆 。</segment>
-		<segment id="237" parent="531" relname="same-unit">你 可能 会 发现</segment>
-		<segment id="238" parent="239" relname="elaboration-attribute">从 路边 岔开 的</segment>
-		<segment id="239" parent="530" relname="span">小 岔路 。</segment>
-		<segment id="240" parent="536" relname="span">不 要 沿着 这些 岔路 走</segment>
-		<segment id="241" parent="535" relname="joint-list">—— 它们 往往 是 鹿 或 是 森林 中 其他 生物 的 小道 ，</segment>
-		<segment id="242" parent="535" relname="joint-list">它们 会 把 你 带到 未知 的 地方 去 。</segment>
-		<segment id="243" parent="534" relname="span">公园 管路员 以及 道路 维修员 通常 会 把 倒下 的 树枝 拖到 路口 ，</segment>
-		<segment id="244" parent="533" relname="same-unit">来 挡住</segment>
-		<segment id="245" parent="246" relname="elaboration-attribute">这些 动物 踩出 的</segment>
-		<segment id="246" parent="532" relname="span">小路 。</segment>
-		<segment id="247" parent="560" relname="organization-preparation">3 遵循 所有 标志 。</segment>
-		<segment id="248" parent="544" relname="same-unit">如果 你 看到 一 个</segment>
-		<segment id="249" parent="250" relname="attribution-positive">写 着</segment>
-		<segment id="250" parent="543" relname="span">“ 离开 此 路 ” 的</segment>
-		<segment id="251" parent="542" relname="span">标牌</segment>
-		<segment id="252" parent="253" relname="evaluation-comment">—— 猜对 了 ，</segment>
-		<segment id="253" parent="545" relname="span">你 应该 离开 。</segment>
-		<segment id="254" parent="547" relname="span">这 个 标牌 之所以 在 这儿 ，</segment>
-		<segment id="255" parent="254" relname="causal-cause">很 可能 是 因为 这 一 区域 的 植被 正在 恢复 生长 。</segment>
-		<segment id="256" parent="257" relname="contingency-condition">如果 太 多 人 进入 这 一 区域 而 非 其他 道路 的话 ，</segment>
-		<segment id="257" parent="548" relname="span">植被 可能 被 严重 破坏 。</segment>
-		<segment id="258" parent="549" relname="explanation-evidence">[ 5 ]</segment>
-		<segment id="259" parent="554" relname="same-unit">你 也 可能 看到</segment>
-		<segment id="260" parent="261" relname="attribution-positive">写 着</segment>
-		<segment id="261" parent="553" relname="span">不 要 给 野生 动物 喂食 的</segment>
-		<segment id="262" parent="552" relname="span">标志 。</segment>
-		<segment id="263" parent="557" relname="span">这 是 一 个 很 好 的 建议 ，</segment>
-		<segment id="264" parent="555" relname="joint-list">因为 这 一 行为 不仅 可能 伤到 动物 ，</segment>
-		<segment id="265" parent="555" relname="joint-list">还 会 伤到 你 自己 。</segment>
-		<segment id="266" parent="556" relname="span">千万 不 要 给 野生 动物 喂食</segment>
-		<segment id="267" parent="266" relname="adversative-concession">—— 无论 它们 看起来 有 多 可爱 。</segment>
-		<segment id="268" parent="562" relname="joint-list">4 休息 一下</segment>
-		<segment id="269" parent="562" relname="joint-list">然后 补充 水分 。</segment>
-		<segment id="270" parent="566" relname="adversative-antithesis">徒步 旅行 不 是 比赛 ，</segment>
-		<segment id="271" parent="566" relname="same-unit">而 是 一 次</segment>
-		<segment id="272" parent="564" relname="same-unit">可以</segment>
-		<segment id="273" parent="274" relname="mode-means">根据 你 自己 的 速度</segment>
-		<segment id="274" parent="563" relname="span">来 调整 的</segment>
-		<segment id="275" parent="565" relname="span">活动 。</segment>
-		<segment id="276" parent="568" relname="contingency-condition">如果 你 觉得 累 了 ，</segment>
-		<segment id="277" parent="278" relname="organization-preparation">别 担心 ，</segment>
-		<segment id="278" parent="568" relname="span">放慢 速度 吧 。</segment>
-		<segment id="279" parent="570" relname="adversative-concession">无论 何时 ，</segment>
-		<segment id="280" parent="570" relname="joint-disjunction">当 你 觉得 旅行 中 需要 喝水</segment>
-		<segment id="281" parent="570" relname="joint-disjunction">或是 坐 下来 休息 时 ，</segment>
-		<segment id="282" parent="572" relname="span">一定 就 要 这么 做 。</segment>
-		<segment id="283" parent="574" relname="explanation-evidence">[ 6 ]</segment>
-		<segment id="284" parent="578" relname="same-unit">5 留心</segment>
-		<segment id="285" parent="286" relname="elaboration-attribute">可能 出现 在 脚 底下 的</segment>
-		<segment id="286" parent="577" relname="span">小 动物 。</segment>
-		<segment id="287" parent="590" relname="attribution-positive">要 知道 ，</segment>
-		<segment id="288" parent="580" relname="same-unit">在</segment>
-		<segment id="289" parent="290" relname="elaboration-attribute">你 徒步 旅行 的</segment>
-		<segment id="290" parent="579" relname="span">过程 中 ，</segment>
-		<segment id="291" parent="582" relname="span">你 会 经过 许许多多 不同 生物 的 家</segment>
-		<segment id="292" parent="581" relname="joint-list">—— 小 到 最 小 的 虫子 ，</segment>
-		<segment id="293" parent="581" relname="joint-list">大 到 熊 。</segment>
-		<segment id="294" parent="584" relname="span">永远 不 要 试图 接近 或者 跟 野生 动物 进行 互动 ，</segment>
-		<segment id="295" parent="296" relname="organization-phatic">因为</segment>
-		<segment id="296" parent="583" relname="span">—— 毕竟 它们 是 野生 的 啊 。</segment>
-		<segment id="297" parent="588" relname="span">尤其 要 小心 蛇 。</segment>
-		<segment id="298" parent="299" relname="context-circumstance">当 走 在 岩石 嶙峋 的 地方 时 ，</segment>
-		<segment id="299" parent="585" relname="span">要 小心 ，</segment>
-		<segment id="300" parent="585" relname="causal-cause">这 是 常见 的 蛇群 居住地</segment>
-		<segment id="301" parent="586" relname="explanation-justify">—— 踩到 蛇 可 从来 不 是 什么 愉快 的 经历 。</segment>
-		<segment id="302" parent="606" relname="joint-list">6 只 留下 脚印 ，</segment>
-		<segment id="303" parent="606" relname="joint-list">只 带走 照片 。</segment>
-		<segment id="304" parent="596" relname="same-unit">这 是</segment>
-		<segment id="305" parent="306" relname="context-circumstance">我们 年轻 时</segment>
-		<segment id="306" parent="594" relname="span">就 被 教导 的</segment>
-		<segment id="307" parent="595" relname="span">话 ，</segment>
-		<segment id="308" parent="597" relname="adversative-contrast">现今 它 仍 是 正确 的 。</segment>
-		<segment id="309" parent="599" relname="same-unit">荒野 是 一 个</segment>
-		<segment id="310" parent="311" relname="elaboration-attribute">必须 被 尊重 的</segment>
-		<segment id="311" parent="598" relname="span">美丽 的 地方 。</segment>
-		<segment id="312" parent="600" relname="joint-list">不 要 把 垃圾 丢在 地上 ，</segment>
-		<segment id="313" parent="600" relname="joint-list">也 不 要 让 爆破 般 的 音乐 或是 声嘶 力竭 的 说话声 打破 荒野 的 宁静 。</segment>
-		<segment id="314" parent="315" relname="context-circumstance">当 你 离开 时 ，</segment>
-		<segment id="315" parent="601" relname="span">也 不 要 带走 这里 的 石头 ， 植物 或是 动物</segment>
-		<segment id="316" parent="317" relname="contingency-condition">—— 如果 你 这样 做 了 ，</segment>
-		<segment id="317" parent="602" relname="span">你 会 扰乱 你 周边 美丽 的 生态 系统 。</segment>
-		<segment id="318" parent="603" relname="span">要 成为 一 名 真正 的 徒步 旅行者 ，</segment>
-		<segment id="319" parent="318" relname="purpose-goal">必须 尊重 自然 。</segment>
-		<segment id="320" parent="607" relname="explanation-evidence">[ 7 ]</segment>
-		<group id="321" type="multinuc" parent="5" relname="adversative-antithesis"/>
+		<segment id="167" parent="461" relname="span">时候 发生 了 什么 事故 ，</segment>
+		<segment id="168" parent="463" relname="span">你 将 更 难 获得 帮助 。</segment>
+		<segment id="169" parent="170" relname="context-circumstance">计划 好 徒步 旅行 的 行程 后 ，</segment>
+		<segment id="170" parent="466" relname="span">叫上 你 的 朋友 一块儿 ，</segment>
+		<segment id="171" parent="467" relname="joint-list">这 不仅 可以 增添 乐趣 ，</segment>
+		<segment id="172" parent="467" relname="joint-list">也 是 为了 安全 起见 。</segment>
+		<segment id="173" parent="468" relname="explanation-evidence">[ 4 ]</segment>
+		<segment id="174" parent="175" relname="attribution-positive">如果 你 决定</segment>
+		<segment id="175" parent="472" relname="span">一 个 人 远足 ，</segment>
+		<segment id="176" parent="473" relname="attribution-positive">至少 让 其他 人 知道</segment>
+		<segment id="177" parent="473" relname="joint-list">你 要 去 哪儿 ，</segment>
+		<segment id="178" parent="473" relname="joint-list">以及 你 预计 什么 时候 回来 。</segment>
+		<segment id="179" parent="475" relname="attribution-positive">告诉 他们</segment>
+		<segment id="180" parent="181" relname="context-circumstance">当 你 结束 旅行 后 ，</segment>
+		<segment id="181" parent="475" relname="span">你 会 联系 他们 。</segment>
+		<segment id="182" parent="613" relname="span">千万 别 忘 了 回来 后 要 联系 他们 ，</segment>
+		<segment id="183" parent="612" relname="same-unit">否则 他们 可能</segment>
+		<segment id="184" parent="185" relname="mode-means">报警</segment>
+		<segment id="185" parent="611" relname="span">找 你 。</segment>
+		<segment id="186" parent="482" relname="attribution-positive">8 了解</segment>
+		<segment id="187" parent="188" relname="context-circumstance">遇到 紧急 情况</segment>
+		<segment id="188" parent="482" relname="span">要 做 什么 。</segment>
+		<segment id="189" parent="190" relname="adversative-concession">虽然 你 的 旅程 通常 会 进行 得 相当 顺利 ，</segment>
+		<segment id="190" parent="484" relname="span">但是 也 要 时常 为 未知 的 事物 做 准备 。</segment>
+		<segment id="191" parent="485" relname="joint-list">要 随身 携带 急救箱 ， 还有 手机 。</segment>
+		<segment id="192" parent="485" relname="joint-list">时刻 准备 好 ，</segment>
+		<segment id="193" parent="485" relname="adversative-concession">虽然 ， 你 可能 根本 不 会 到 森林 里 去 。</segment>
+		<segment id="194" parent="487" relname="elaboration-additional">更多 关于 野外 生存 的 指导 ， 请 参见 “ 如何 在 野外 生存 ” 。</segment>
+		<segment id="195" parent="196" relname="organization-preparation">部分 2</segment>
+		<segment id="196" parent="490" relname="span">上路 后</segment>
+		<segment id="197" parent="508" relname="organization-preparation">1 从 起点 标志 出发 。</segment>
+		<segment id="198" parent="507" relname="span">每 条 路 都 有 一 个 起始 标志</segment>
+		<segment id="199" parent="492" relname="same-unit">—— 这 个 标志 通常 能 表示 出 路名 以及</segment>
+		<segment id="200" parent="201" relname="elaboration-attribute">到 尽头 的</segment>
+		<segment id="201" parent="491" relname="span">距离</segment>
+		<segment id="202" parent="493" relname="joint-disjunction">（ 或是 环路 的 长度 。 ）</segment>
+		<segment id="203" parent="495" relname="same-unit">其他</segment>
+		<segment id="204" parent="205" relname="elaboration-attribute">像 在 国家 公园 内 的</segment>
+		<segment id="205" parent="494" relname="span">那些 起点 标志 ， 会 有 一 张</segment>
+		<segment id="206" parent="497" relname="adversative-contrast">显示 所有 与</segment>
+		<segment id="207" parent="208" relname="elaboration-attribute">你 所 在 的</segment>
+		<segment id="208" parent="496" relname="span">路 相连 路径 的</segment>
+		<segment id="209" parent="501" relname="span">地图 ，</segment>
+		<segment id="210" parent="500" relname="same-unit">地图 上 还 会 标志 出</segment>
+		<segment id="211" parent="212" relname="context-circumstance">徒步 旅行 时</segment>
+		<segment id="212" parent="498" relname="span">需要 留神 的</segment>
+		<segment id="213" parent="499" relname="span">其他 各 种 事物 。</segment>
+		<segment id="214" parent="215" relname="contingency-condition">如果 你 找 不到 起始 路标 ，</segment>
+		<segment id="215" parent="503" relname="span">可能 你 没有 在 正确 的 位置 。</segment>
+		<segment id="216" parent="503" relname="causal-result">向 别人 打听 一下 方向 。</segment>
+		<segment id="217" parent="504" relname="span">有些 其他 路 可能 没有 路标</segment>
+		<segment id="218" parent="217" relname="elaboration-additional">—— 这 一 情况 会 在 你 的 旅行 指南 上 提到 。</segment>
+		<segment id="219" parent="533" relname="organization-preparation">2 留意 路标 。</segment>
+		<segment id="220" parent="221" relname="context-circumstance">当 你 在 户外 远足 时 ，</segment>
+		<segment id="221" parent="510" relname="span">势必 会 碰到 交叉 路口 。</segment>
+		<segment id="222" parent="514" relname="same-unit">请</segment>
+		<segment id="223" parent="512" relname="same-unit">依照</segment>
+		<segment id="224" parent="225" relname="elaboration-attribute">路标 上 标 的</segment>
+		<segment id="225" parent="511" relname="span">路名</segment>
+		<segment id="226" parent="515" relname="span">前往</segment>
+		<segment id="227" parent="228" relname="elaboration-attribute">你 要 去 的</segment>
+		<segment id="228" parent="513" relname="span">地方 。</segment>
+		<segment id="229" parent="516" relname="span">如果 没有 路标</segment>
+		<segment id="230" parent="229" relname="adversative-concession">（ 这 是 比较 罕见 的 情况 ） ，</segment>
+		<segment id="231" parent="517" relname="joint-list">在 地图 上 查 一下 ，</segment>
+		<segment id="232" parent="521" relname="span">或是 找找 周围 有 没有 堆石 界标 。</segment>
+		<segment id="233" parent="520" relname="same-unit">堆石 界标 是</segment>
+		<segment id="234" parent="235" relname="purpose-attribute">用以 给 远足者们 指引 正确 道路 的</segment>
+		<segment id="235" parent="519" relname="span">石堆 。</segment>
+		<segment id="236" parent="523" relname="same-unit">你 可能 会 发现</segment>
+		<segment id="237" parent="238" relname="elaboration-attribute">从 路边 岔开 的</segment>
+		<segment id="238" parent="522" relname="span">小 岔路 。</segment>
+		<segment id="239" parent="528" relname="span">不 要 沿着 这些 岔路 走</segment>
+		<segment id="240" parent="527" relname="joint-list">—— 它们 往往 是 鹿 或 是 森林 中 其他 生物 的 小道 ，</segment>
+		<segment id="241" parent="527" relname="joint-list">它们 会 把 你 带到 未知 的 地方 去 。</segment>
+		<segment id="242" parent="526" relname="span">公园 管路员 以及 道路 维修员 通常 会 把 倒下 的 树枝 拖到 路口 ，</segment>
+		<segment id="243" parent="525" relname="same-unit">来 挡住</segment>
+		<segment id="244" parent="245" relname="elaboration-attribute">这些 动物 踩出 的</segment>
+		<segment id="245" parent="524" relname="span">小路 。</segment>
+		<segment id="246" parent="552" relname="organization-preparation">3 遵循 所有 标志 。</segment>
+		<segment id="247" parent="536" relname="same-unit">如果 你 看到 一 个</segment>
+		<segment id="248" parent="249" relname="attribution-positive">写 着</segment>
+		<segment id="249" parent="535" relname="span">“ 离开 此 路 ” 的</segment>
+		<segment id="250" parent="534" relname="span">标牌</segment>
+		<segment id="251" parent="252" relname="evaluation-comment">—— 猜对 了 ，</segment>
+		<segment id="252" parent="537" relname="span">你 应该 离开 。</segment>
+		<segment id="253" parent="539" relname="span">这 个 标牌 之所以 在 这儿 ，</segment>
+		<segment id="254" parent="253" relname="causal-cause">很 可能 是 因为 这 一 区域 的 植被 正在 恢复 生长 。</segment>
+		<segment id="255" parent="256" relname="contingency-condition">如果 太 多 人 进入 这 一 区域 而 非 其他 道路 的话 ，</segment>
+		<segment id="256" parent="540" relname="span">植被 可能 被 严重 破坏 。</segment>
+		<segment id="257" parent="541" relname="explanation-evidence">[ 5 ]</segment>
+		<segment id="258" parent="546" relname="same-unit">你 也 可能 看到</segment>
+		<segment id="259" parent="260" relname="attribution-positive">写 着</segment>
+		<segment id="260" parent="545" relname="span">不 要 给 野生 动物 喂食 的</segment>
+		<segment id="261" parent="544" relname="span">标志 。</segment>
+		<segment id="262" parent="549" relname="span">这 是 一 个 很 好 的 建议 ，</segment>
+		<segment id="263" parent="547" relname="joint-list">因为 这 一 行为 不仅 可能 伤到 动物 ，</segment>
+		<segment id="264" parent="547" relname="joint-list">还 会 伤到 你 自己 。</segment>
+		<segment id="265" parent="548" relname="span">千万 不 要 给 野生 动物 喂食</segment>
+		<segment id="266" parent="265" relname="adversative-concession">—— 无论 它们 看起来 有 多 可爱 。</segment>
+		<segment id="267" parent="554" relname="joint-list">4 休息 一下</segment>
+		<segment id="268" parent="554" relname="joint-list">然后 补充 水分 。</segment>
+		<segment id="269" parent="558" relname="adversative-antithesis">徒步 旅行 不 是 比赛 ，</segment>
+		<segment id="270" parent="558" relname="same-unit">而 是 一 次</segment>
+		<segment id="271" parent="556" relname="same-unit">可以</segment>
+		<segment id="272" parent="273" relname="mode-means">根据 你 自己 的 速度</segment>
+		<segment id="273" parent="555" relname="span">来 调整 的</segment>
+		<segment id="274" parent="557" relname="span">活动 。</segment>
+		<segment id="275" parent="560" relname="contingency-condition">如果 你 觉得 累 了 ，</segment>
+		<segment id="276" parent="277" relname="organization-preparation">别 担心 ，</segment>
+		<segment id="277" parent="560" relname="span">放慢 速度 吧 。</segment>
+		<segment id="278" parent="562" relname="adversative-concession">无论 何时 ，</segment>
+		<segment id="279" parent="562" relname="joint-disjunction">当 你 觉得 旅行 中 需要 喝水</segment>
+		<segment id="280" parent="562" relname="joint-disjunction">或是 坐 下来 休息 时 ，</segment>
+		<segment id="281" parent="564" relname="span">一定 就 要 这么 做 。</segment>
+		<segment id="282" parent="566" relname="explanation-evidence">[ 6 ]</segment>
+		<segment id="283" parent="570" relname="same-unit">5 留心</segment>
+		<segment id="284" parent="285" relname="elaboration-attribute">可能 出现 在 脚 底下 的</segment>
+		<segment id="285" parent="569" relname="span">小 动物 。</segment>
+		<segment id="286" parent="572" relname="same-unit">要 知道 ， 在</segment>
+		<segment id="287" parent="288" relname="elaboration-attribute">你 徒步 旅行 的</segment>
+		<segment id="288" parent="571" relname="span">过程 中 ， 你 会 经过 许许多多 不同 生物 的 家</segment>
+		<segment id="289" parent="573" relname="joint-list">—— 小 到 最 小 的 虫子 ，</segment>
+		<segment id="290" parent="573" relname="joint-list">大 到 熊 。</segment>
+		<segment id="291" parent="576" relname="span">永远 不 要 试图 接近 或者 跟 野生 动物 进行 互动 ，</segment>
+		<segment id="292" parent="293" relname="organization-phatic">因为</segment>
+		<segment id="293" parent="575" relname="span">—— 毕竟 它们 是 野生 的 啊 。</segment>
+		<segment id="294" parent="580" relname="span">尤其 要 小心 蛇 。</segment>
+		<segment id="295" parent="296" relname="context-circumstance">当 走 在 岩石 嶙峋 的 地方 时 ，</segment>
+		<segment id="296" parent="577" relname="span">要 小心 ，</segment>
+		<segment id="297" parent="577" relname="causal-cause">这 是 常见 的 蛇群 居住地</segment>
+		<segment id="298" parent="578" relname="explanation-justify">—— 踩到 蛇 可 从来 不 是 什么 愉快 的 经历 。</segment>
+		<segment id="299" parent="598" relname="joint-list">6 只 留下 脚印 ，</segment>
+		<segment id="300" parent="598" relname="joint-list">只 带走 照片 。</segment>
+		<segment id="301" parent="588" relname="same-unit">这 是</segment>
+		<segment id="302" parent="303" relname="context-circumstance">我们 年轻 时</segment>
+		<segment id="303" parent="586" relname="span">就 被 教导 的</segment>
+		<segment id="304" parent="587" relname="span">话 ，</segment>
+		<segment id="305" parent="589" relname="adversative-contrast">现今 它 仍 是 正确 的 。</segment>
+		<segment id="306" parent="591" relname="same-unit">荒野 是 一 个</segment>
+		<segment id="307" parent="308" relname="elaboration-attribute">必须 被 尊重 的</segment>
+		<segment id="308" parent="590" relname="span">美丽 的 地方 。</segment>
+		<segment id="309" parent="592" relname="joint-list">不 要 把 垃圾 丢在 地上 ，</segment>
+		<segment id="310" parent="592" relname="joint-list">也 不 要 让 爆破 般 的 音乐 或是 声嘶 力竭 的 说话声 打破 荒野 的 宁静 。</segment>
+		<segment id="311" parent="312" relname="context-circumstance">当 你 离开 时 ，</segment>
+		<segment id="312" parent="593" relname="span">也 不 要 带走 这里 的 石头 ， 植物 或是 动物</segment>
+		<segment id="313" parent="314" relname="contingency-condition">—— 如果 你 这样 做 了 ，</segment>
+		<segment id="314" parent="594" relname="span">你 会 扰乱 你 周边 美丽 的 生态 系统 。</segment>
+		<segment id="315" parent="595" relname="span">要 成为 一 名 真正 的 徒步 旅行者 ，</segment>
+		<segment id="316" parent="315" relname="purpose-goal">必须 尊重 自然 。</segment>
+		<segment id="317" parent="599" relname="explanation-evidence">[ 7 ]</segment>
+		<group id="318" type="multinuc" parent="5" relname="adversative-antithesis"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="341" relname="span"/>
+		<group id="321" type="multinuc" parent="320" relname="explanation-evidence"/>
 		<group id="322" type="span" parent="323" relname="same-unit"/>
-		<group id="323" type="multinuc" parent="344" relname="span"/>
-		<group id="324" type="multinuc" parent="323" relname="explanation-evidence"/>
-		<group id="325" type="span" parent="326" relname="same-unit"/>
-		<group id="326" type="multinuc" parent="327" relname="span"/>
-		<group id="327" type="span" parent="324" relname="joint-list"/>
-		<group id="328" type="span" parent="332" relname="explanation-justify"/>
-		<group id="329" type="span" parent="330" relname="span"/>
-		<group id="330" type="span" parent="331" relname="joint-list"/>
-		<group id="331" type="multinuc" parent="332" relname="span"/>
-		<group id="332" type="span" parent="343" relname="span"/>
-		<group id="333" type="span" parent="334" relname="span"/>
-		<group id="334" type="span" parent="336" relname="explanation-motivation"/>
-		<group id="335" type="span" parent="336" relname="same-unit"/>
-		<group id="336" type="multinuc" parent="338" relname="span"/>
-		<group id="337" type="span" parent="336" relname="same-unit"/>
-		<group id="338" type="span" parent="342" relname="span"/>
-		<group id="339" type="span" parent="614" relname="organization-heading"/>
-		<group id="340" type="span" parent="341" relname="same-unit"/>
-		<group id="341" type="multinuc" parent="35" relname="purpose-goal"/>
-		<group id="342" type="span" parent="345" relname="adversative-concession"/>
-		<group id="343" type="span" parent="345" relname="span"/>
-		<group id="344" type="span" parent="343" relname="explanation-motivation"/>
-		<group id="345" type="span" parent="346" relname="span"/>
-		<group id="346" type="span" parent="617" relname="organization-preparation"/>
-		<group id="347" type="span" parent="380" relname="span"/>
-		<group id="348" type="span" parent="40" relname="elaboration-attribute"/>
-		<group id="349" type="span" parent="350" relname="same-unit"/>
-		<group id="350" type="multinuc" parent="36" relname="explanation-evidence"/>
-		<group id="351" type="span" parent="350" relname="same-unit"/>
-		<group id="352" type="span" parent="377" relname="span"/>
-		<group id="353" type="span" parent="354" relname="same-unit"/>
-		<group id="354" type="multinuc" parent="356" relname="joint-list"/>
-		<group id="355" type="span" parent="354" relname="same-unit"/>
-		<group id="356" type="multinuc" parent="357" relname="joint-list"/>
-		<group id="357" type="multinuc" parent="352" relname="elaboration-additional"/>
-		<group id="358" type="span" parent="359" relname="same-unit"/>
-		<group id="359" type="multinuc" parent="362" relname="adversative-concession"/>
-		<group id="360" type="span" parent="361" relname="same-unit"/>
-		<group id="361" type="multinuc" parent="362" relname="span"/>
-		<group id="362" type="span" parent="363" relname="span"/>
-		<group id="363" type="span" parent="365" relname="span"/>
-		<group id="364" type="span" parent="363" relname="elaboration-additional"/>
-		<group id="365" type="span" parent="377" relname="explanation-evidence"/>
-		<group id="366" type="span" parent="374" relname="context-background"/>
-		<group id="367" type="span" parent="371" relname="span"/>
-		<group id="368" type="span" parent="369" relname="same-unit"/>
-		<group id="369" type="multinuc" parent="372" relname="span"/>
-		<group id="370" type="span" parent="369" relname="explanation-motivation"/>
-		<group id="371" type="span" parent="373" relname="span"/>
-		<group id="372" type="span" parent="371" relname="elaboration-additional"/>
-		<group id="373" type="span" parent="374" relname="span"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="321" relname="joint-list"/>
+		<group id="325" type="span" parent="329" relname="explanation-justify"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="328" relname="joint-list"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" parent="340" relname="span"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="333" relname="explanation-motivation"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="335" relname="span"/>
+		<group id="334" type="span" parent="333" relname="same-unit"/>
+		<group id="335" type="span" parent="339" relname="span"/>
+		<group id="336" type="span" parent="606" relname="organization-heading"/>
+		<group id="337" type="span" parent="338" relname="same-unit"/>
+		<group id="338" type="multinuc" parent="35" relname="purpose-goal"/>
+		<group id="339" type="span" parent="342" relname="adversative-concession"/>
+		<group id="340" type="span" parent="342" relname="span"/>
+		<group id="341" type="span" parent="340" relname="explanation-motivation"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="609" relname="organization-preparation"/>
+		<group id="344" type="span" parent="377" relname="span"/>
+		<group id="345" type="span" parent="40" relname="elaboration-attribute"/>
+		<group id="346" type="span" parent="347" relname="same-unit"/>
+		<group id="347" type="multinuc" parent="36" relname="explanation-evidence"/>
+		<group id="348" type="span" parent="347" relname="same-unit"/>
+		<group id="349" type="span" parent="374" relname="span"/>
+		<group id="350" type="span" parent="351" relname="same-unit"/>
+		<group id="351" type="multinuc" parent="353" relname="joint-list"/>
+		<group id="352" type="span" parent="351" relname="same-unit"/>
+		<group id="353" type="multinuc" parent="354" relname="joint-list"/>
+		<group id="354" type="multinuc" parent="349" relname="elaboration-additional"/>
+		<group id="355" type="span" parent="356" relname="same-unit"/>
+		<group id="356" type="multinuc" parent="359" relname="adversative-concession"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" parent="362" relname="span"/>
+		<group id="361" type="span" parent="360" relname="elaboration-additional"/>
+		<group id="362" type="span" parent="374" relname="explanation-evidence"/>
+		<group id="363" type="span" parent="371" relname="context-background"/>
+		<group id="364" type="span" parent="368" relname="span"/>
+		<group id="365" type="span" parent="366" relname="same-unit"/>
+		<group id="366" type="multinuc" parent="369" relname="span"/>
+		<group id="367" type="span" parent="366" relname="explanation-motivation"/>
+		<group id="368" type="span" parent="370" relname="span"/>
+		<group id="369" type="span" parent="368" relname="elaboration-additional"/>
+		<group id="370" type="span" parent="371" relname="span"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="373" relname="span"/>
+		<group id="373" type="span" parent="376" relname="joint-other"/>
 		<group id="374" type="span" parent="375" relname="span"/>
-		<group id="375" type="span" parent="376" relname="span"/>
-		<group id="376" type="span" parent="379" relname="joint-other"/>
+		<group id="375" type="span" parent="376" relname="joint-other"/>
+		<group id="376" type="multinuc" parent="344" relname="elaboration-additional"/>
 		<group id="377" type="span" parent="378" relname="span"/>
-		<group id="378" type="span" parent="379" relname="joint-other"/>
-		<group id="379" type="multinuc" parent="347" relname="elaboration-additional"/>
-		<group id="380" type="span" parent="381" relname="span"/>
-		<group id="381" type="span" parent="614" relname="joint-list"/>
-		<group id="382" type="span" parent="396" relname="span"/>
-		<group id="383" type="span" parent="384" relname="same-unit"/>
-		<group id="384" type="multinuc" parent="385" relname="span"/>
-		<group id="385" type="span" parent="394" relname="span"/>
-		<group id="386" type="multinuc" parent="80" relname="contingency-condition"/>
-		<group id="387" type="span" parent="391" relname="joint-list"/>
-		<group id="388" type="span" parent="389" relname="same-unit"/>
-		<group id="389" type="multinuc" parent="84" relname="contingency-condition"/>
-		<group id="390" type="span" parent="391" relname="joint-list"/>
-		<group id="391" type="multinuc" parent="392" relname="span"/>
-		<group id="392" type="span" parent="393" relname="span"/>
-		<group id="393" type="span" parent="385" relname="explanation-evidence"/>
-		<group id="394" type="span" parent="395" relname="span"/>
-		<group id="395" type="span" parent="382" relname="elaboration-additional"/>
-		<group id="396" type="span" parent="397" relname="span"/>
-		<group id="397" type="span" parent="614" relname="joint-list"/>
-		<group id="398" type="span" parent="409" relname="span"/>
-		<group id="399" type="span" parent="91" relname="causal-result"/>
-		<group id="400" type="span" parent="398" relname="explanation-justify"/>
-		<group id="401" type="span" parent="402" relname="same-unit"/>
-		<group id="402" type="multinuc" parent="98" relname="adversative-antithesis"/>
+		<group id="378" type="span" parent="606" relname="joint-list"/>
+		<group id="379" type="span" parent="393" relname="span"/>
+		<group id="380" type="span" parent="381" relname="same-unit"/>
+		<group id="381" type="multinuc" parent="382" relname="span"/>
+		<group id="382" type="span" parent="391" relname="span"/>
+		<group id="383" type="multinuc" parent="80" relname="contingency-condition"/>
+		<group id="384" type="span" parent="388" relname="joint-list"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="84" relname="contingency-condition"/>
+		<group id="387" type="span" parent="388" relname="joint-list"/>
+		<group id="388" type="multinuc" parent="389" relname="span"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" parent="382" relname="explanation-evidence"/>
+		<group id="391" type="span" parent="392" relname="span"/>
+		<group id="392" type="span" parent="379" relname="elaboration-additional"/>
+		<group id="393" type="span" parent="394" relname="span"/>
+		<group id="394" type="span" parent="606" relname="joint-list"/>
+		<group id="395" type="span" parent="406" relname="span"/>
+		<group id="396" type="span" parent="91" relname="causal-result"/>
+		<group id="397" type="span" parent="395" relname="explanation-justify"/>
+		<group id="398" type="span" parent="399" relname="same-unit"/>
+		<group id="399" type="multinuc" parent="98" relname="adversative-antithesis"/>
+		<group id="400" type="span" parent="401" relname="same-unit"/>
+		<group id="401" type="multinuc" parent="407" relname="span"/>
+		<group id="402" type="span" parent="99" relname="adversative-antithesis"/>
 		<group id="403" type="span" parent="404" relname="same-unit"/>
-		<group id="404" type="multinuc" parent="410" relname="span"/>
-		<group id="405" type="span" parent="99" relname="adversative-antithesis"/>
-		<group id="406" type="span" parent="407" relname="same-unit"/>
-		<group id="407" type="multinuc" parent="404" relname="explanation-motivation"/>
-		<group id="408" type="span" parent="410" relname="elaboration-additional"/>
-		<group id="409" type="span" parent="412" relname="span"/>
+		<group id="404" type="multinuc" parent="401" relname="explanation-motivation"/>
+		<group id="405" type="span" parent="407" relname="elaboration-additional"/>
+		<group id="406" type="span" parent="409" relname="span"/>
+		<group id="407" type="span" parent="408" relname="span"/>
+		<group id="408" type="span" parent="406" relname="elaboration-additional"/>
+		<group id="409" type="span" parent="410" relname="span"/>
 		<group id="410" type="span" parent="411" relname="span"/>
-		<group id="411" type="span" parent="409" relname="elaboration-additional"/>
+		<group id="411" type="span" parent="606" relname="joint-list"/>
 		<group id="412" type="span" parent="413" relname="span"/>
-		<group id="413" type="span" parent="414" relname="span"/>
-		<group id="414" type="span" parent="614" relname="joint-list"/>
-		<group id="415" type="span" parent="416" relname="span"/>
-		<group id="416" type="span" parent="432" relname="context-background"/>
-		<group id="417" type="span" parent="420" relname="span"/>
-		<group id="418" type="multinuc" parent="423" relname="span"/>
-		<group id="419" type="span" parent="418" relname="same-unit"/>
-		<group id="420" type="span" parent="418" relname="same-unit"/>
-		<group id="421" type="span" parent="418" relname="same-unit"/>
-		<group id="422" type="span" parent="418" relname="same-unit"/>
-		<group id="423" type="span" parent="429" relname="joint-list"/>
-		<group id="424" type="span" parent="429" relname="joint-list"/>
-		<group id="425" type="span" parent="426" relname="adversative-contrast"/>
-		<group id="426" type="multinuc" parent="429" relname="adversative-concession"/>
-		<group id="427" type="span" parent="431" relname="span"/>
+		<group id="413" type="span" parent="429" relname="context-background"/>
+		<group id="414" type="span" parent="417" relname="span"/>
+		<group id="415" type="multinuc" parent="420" relname="span"/>
+		<group id="416" type="span" parent="415" relname="same-unit"/>
+		<group id="417" type="span" parent="415" relname="same-unit"/>
+		<group id="418" type="span" parent="415" relname="same-unit"/>
+		<group id="419" type="span" parent="415" relname="same-unit"/>
+		<group id="420" type="span" parent="426" relname="joint-list"/>
+		<group id="421" type="span" parent="426" relname="joint-list"/>
+		<group id="422" type="span" parent="423" relname="adversative-contrast"/>
+		<group id="423" type="multinuc" parent="426" relname="adversative-concession"/>
+		<group id="424" type="span" parent="428" relname="span"/>
+		<group id="425" type="span" parent="424" relname="elaboration-additional"/>
+		<group id="426" type="multinuc" parent="427" relname="span"/>
+		<group id="427" type="span" parent="429" relname="span"/>
 		<group id="428" type="span" parent="427" relname="elaboration-additional"/>
-		<group id="429" type="multinuc" parent="430" relname="span"/>
-		<group id="430" type="span" parent="432" relname="span"/>
-		<group id="431" type="span" parent="430" relname="elaboration-additional"/>
-		<group id="432" type="span" parent="433" relname="span"/>
-		<group id="433" type="span" parent="434" relname="span"/>
-		<group id="434" type="span" parent="614" relname="joint-list"/>
-		<group id="435" type="span" parent="436" relname="same-unit"/>
-		<group id="436" type="multinuc" parent="440" relname="joint-list"/>
-		<group id="437" type="span" parent="438" relname="same-unit"/>
-		<group id="438" type="multinuc" parent="439" relname="span"/>
-		<group id="439" type="span" parent="440" relname="joint-list"/>
-		<group id="440" type="multinuc" parent="442" relname="span"/>
-		<group id="441" type="span" parent="440" relname="explanation-justify"/>
-		<group id="442" type="span" parent="443" relname="span"/>
-		<group id="443" type="span" parent="614" relname="joint-list"/>
-		<group id="444" type="span" parent="445" relname="same-unit"/>
-		<group id="445" type="multinuc" parent="459" relname="span"/>
-		<group id="446" type="span" parent="447" relname="span"/>
-		<group id="447" type="span" parent="457" relname="joint-list"/>
-		<group id="448" type="span" parent="450" relname="span"/>
-		<group id="449" type="span" parent="448" relname="evaluation-comment"/>
-		<group id="450" type="span" parent="457" relname="joint-list"/>
-		<group id="451" type="span" parent="452" relname="same-unit"/>
-		<group id="452" type="multinuc" parent="453" relname="contingency-condition"/>
-		<group id="453" type="span" parent="454" relname="span"/>
-		<group id="454" type="span" parent="456" relname="span"/>
-		<group id="455" type="span" parent="454" relname="adversative-antithesis"/>
-		<group id="456" type="span" parent="458" relname="joint-other"/>
-		<group id="457" type="multinuc" parent="458" relname="joint-other"/>
-		<group id="458" type="multinuc" parent="445" relname="explanation-evidence"/>
-		<group id="459" type="span" parent="460" relname="span"/>
-		<group id="460" type="span" parent="614" relname="joint-list"/>
+		<group id="429" type="span" parent="430" relname="span"/>
+		<group id="430" type="span" parent="431" relname="span"/>
+		<group id="431" type="span" parent="606" relname="joint-list"/>
+		<group id="432" type="span" parent="433" relname="same-unit"/>
+		<group id="433" type="multinuc" parent="437" relname="joint-list"/>
+		<group id="434" type="span" parent="435" relname="same-unit"/>
+		<group id="435" type="multinuc" parent="436" relname="span"/>
+		<group id="436" type="span" parent="437" relname="joint-list"/>
+		<group id="437" type="multinuc" parent="439" relname="span"/>
+		<group id="438" type="span" parent="437" relname="explanation-justify"/>
+		<group id="439" type="span" parent="440" relname="span"/>
+		<group id="440" type="span" parent="606" relname="joint-list"/>
+		<group id="441" type="span" parent="442" relname="same-unit"/>
+		<group id="442" type="multinuc" parent="456" relname="span"/>
+		<group id="443" type="span" parent="444" relname="span"/>
+		<group id="444" type="span" parent="454" relname="joint-list"/>
+		<group id="445" type="span" parent="447" relname="span"/>
+		<group id="446" type="span" parent="445" relname="evaluation-comment"/>
+		<group id="447" type="span" parent="454" relname="joint-list"/>
+		<group id="448" type="span" parent="449" relname="same-unit"/>
+		<group id="449" type="multinuc" parent="450" relname="contingency-condition"/>
+		<group id="450" type="span" parent="451" relname="span"/>
+		<group id="451" type="span" parent="453" relname="span"/>
+		<group id="452" type="span" parent="451" relname="adversative-antithesis"/>
+		<group id="453" type="span" parent="455" relname="joint-other"/>
+		<group id="454" type="multinuc" parent="455" relname="joint-other"/>
+		<group id="455" type="multinuc" parent="442" relname="explanation-evidence"/>
+		<group id="456" type="span" parent="457" relname="span"/>
+		<group id="457" type="span" parent="606" relname="joint-list"/>
+		<group id="458" type="span" parent="459" relname="same-unit"/>
+		<group id="459" type="multinuc" parent="460" relname="joint-list"/>
+		<group id="460" type="multinuc" parent="469" relname="span"/>
 		<group id="461" type="span" parent="462" relname="same-unit"/>
-		<group id="462" type="multinuc" parent="463" relname="joint-list"/>
-		<group id="463" type="multinuc" parent="473" relname="span"/>
-		<group id="464" type="span" parent="168" relname="context-circumstance"/>
-		<group id="465" type="span" parent="466" relname="same-unit"/>
-		<group id="466" type="multinuc" parent="169" relname="contingency-condition"/>
-		<group id="467" type="span" parent="468" relname="span"/>
-		<group id="468" type="span" parent="469" relname="same-unit"/>
-		<group id="469" type="multinuc" parent="463" relname="explanation-justify"/>
-		<group id="470" type="span" parent="472" relname="span"/>
-		<group id="471" type="multinuc" parent="470" relname="explanation-motivation"/>
-		<group id="472" type="span" parent="488" relname="span"/>
-		<group id="473" type="span" parent="474" relname="span"/>
-		<group id="474" type="span" parent="475" relname="span"/>
-		<group id="475" type="span" parent="614" relname="joint-list"/>
-		<group id="476" type="span" parent="486" relname="contingency-condition"/>
-		<group id="477" type="multinuc" parent="478" relname="span"/>
-		<group id="478" type="span" parent="486" relname="span"/>
-		<group id="479" type="span" parent="480" relname="span"/>
-		<group id="480" type="span" parent="485" relname="joint-list"/>
-		<group id="485" type="multinuc" parent="478" relname="elaboration-additional"/>
+		<group id="462" type="multinuc" parent="168" relname="contingency-condition"/>
+		<group id="463" type="span" parent="464" relname="span"/>
+		<group id="464" type="span" parent="465" relname="same-unit"/>
+		<group id="465" type="multinuc" parent="460" relname="explanation-justify"/>
+		<group id="466" type="span" parent="468" relname="span"/>
+		<group id="467" type="multinuc" parent="466" relname="explanation-motivation"/>
+		<group id="468" type="span" parent="480" relname="span"/>
+		<group id="469" type="span" parent="470" relname="span"/>
+		<group id="470" type="span" parent="471" relname="span"/>
+		<group id="471" type="span" parent="606" relname="joint-list"/>
+		<group id="472" type="span" parent="478" relname="contingency-condition"/>
+		<group id="473" type="multinuc" parent="474" relname="span"/>
+		<group id="474" type="span" parent="478" relname="span"/>
+		<group id="475" type="span" parent="476" relname="span"/>
+		<group id="476" type="span" parent="477" relname="joint-list"/>
+		<group id="477" type="multinuc" parent="474" relname="elaboration-additional"/>
+		<group id="478" type="span" parent="479" relname="span"/>
+		<group id="479" type="span" parent="481" relname="adversative-contrast"/>
+		<group id="480" type="span" parent="481" relname="adversative-contrast"/>
+		<group id="481" type="multinuc" parent="469" relname="explanation-evidence"/>
+		<group id="482" type="span" parent="483" relname="span"/>
+		<group id="483" type="span" parent="488" relname="organization-preparation"/>
+		<group id="484" type="span" parent="486" relname="context-background"/>
+		<group id="485" type="multinuc" parent="486" relname="span"/>
 		<group id="486" type="span" parent="487" relname="span"/>
-		<group id="487" type="span" parent="489" relname="adversative-contrast"/>
-		<group id="488" type="span" parent="489" relname="adversative-contrast"/>
-		<group id="489" type="multinuc" parent="473" relname="explanation-evidence"/>
-		<group id="490" type="span" parent="491" relname="span"/>
-		<group id="491" type="span" parent="496" relname="organization-preparation"/>
-		<group id="492" type="span" parent="494" relname="context-background"/>
-		<group id="493" type="multinuc" parent="494" relname="span"/>
-		<group id="494" type="span" parent="495" relname="span"/>
-		<group id="495" type="span" parent="496" relname="span"/>
-		<group id="496" type="span" parent="497" relname="span"/>
-		<group id="497" type="span" parent="614" relname="joint-list"/>
-		<group id="498" type="span" parent="611" relname="organization-heading"/>
-		<group id="499" type="span" parent="501" relname="joint-disjunction"/>
-		<group id="500" type="multinuc" parent="199" relname="elaboration-additional"/>
-		<group id="501" type="multinuc" parent="500" relname="same-unit"/>
-		<group id="502" type="span" parent="503" relname="same-unit"/>
-		<group id="503" type="multinuc" parent="510" relname="span"/>
-		<group id="504" type="span" parent="505" relname="adversative-contrast"/>
-		<group id="505" type="multinuc" parent="210" relname="elaboration-attribute"/>
-		<group id="506" type="span" parent="214" relname="elaboration-attribute"/>
-		<group id="507" type="span" parent="508" relname="same-unit"/>
-		<group id="508" type="multinuc" parent="503" relname="elaboration-additional"/>
-		<group id="509" type="span" parent="503" relname="same-unit"/>
-		<group id="510" type="span" parent="514" relname="span"/>
-		<group id="511" type="span" parent="513" relname="span"/>
-		<group id="512" type="span" parent="516" relname="joint-list"/>
-		<group id="513" type="span" parent="510" relname="context-circumstance"/>
-		<group id="514" type="span" parent="516" relname="joint-list"/>
-		<group id="515" type="span" parent="516" relname="joint-list"/>
-		<group id="516" type="multinuc" parent="517" relname="span"/>
-		<group id="517" type="span" parent="611" relname="joint-list"/>
-		<group id="518" type="span" parent="540" relname="organization-preparation"/>
+		<group id="487" type="span" parent="488" relname="span"/>
+		<group id="488" type="span" parent="489" relname="span"/>
+		<group id="489" type="span" parent="606" relname="joint-list"/>
+		<group id="490" type="span" parent="603" relname="organization-heading"/>
+		<group id="491" type="span" parent="493" relname="joint-disjunction"/>
+		<group id="492" type="multinuc" parent="198" relname="elaboration-additional"/>
+		<group id="493" type="multinuc" parent="492" relname="same-unit"/>
+		<group id="494" type="span" parent="495" relname="same-unit"/>
+		<group id="495" type="multinuc" parent="502" relname="span"/>
+		<group id="496" type="span" parent="497" relname="adversative-contrast"/>
+		<group id="497" type="multinuc" parent="209" relname="elaboration-attribute"/>
+		<group id="498" type="span" parent="213" relname="elaboration-attribute"/>
+		<group id="499" type="span" parent="500" relname="same-unit"/>
+		<group id="500" type="multinuc" parent="495" relname="elaboration-additional"/>
+		<group id="501" type="span" parent="495" relname="same-unit"/>
+		<group id="502" type="span" parent="506" relname="span"/>
+		<group id="503" type="span" parent="505" relname="span"/>
+		<group id="504" type="span" parent="508" relname="joint-list"/>
+		<group id="505" type="span" parent="502" relname="context-circumstance"/>
+		<group id="506" type="span" parent="508" relname="joint-list"/>
+		<group id="507" type="span" parent="508" relname="joint-list"/>
+		<group id="508" type="multinuc" parent="509" relname="span"/>
+		<group id="509" type="span" parent="603" relname="joint-list"/>
+		<group id="510" type="span" parent="532" relname="organization-preparation"/>
+		<group id="511" type="span" parent="512" relname="same-unit"/>
+		<group id="512" type="multinuc" parent="226" relname="mode-means"/>
+		<group id="513" type="span" parent="514" relname="same-unit"/>
+		<group id="514" type="multinuc" parent="531" relname="joint-disjunction"/>
+		<group id="515" type="span" parent="514" relname="same-unit"/>
+		<group id="516" type="span" parent="517" relname="adversative-antithesis"/>
+		<group id="517" type="multinuc" parent="518" relname="span"/>
+		<group id="518" type="span" parent="531" relname="joint-disjunction"/>
 		<group id="519" type="span" parent="520" relname="same-unit"/>
-		<group id="520" type="multinuc" parent="227" relname="mode-means"/>
-		<group id="521" type="span" parent="522" relname="same-unit"/>
-		<group id="522" type="multinuc" parent="539" relname="joint-disjunction"/>
-		<group id="523" type="span" parent="522" relname="same-unit"/>
-		<group id="524" type="span" parent="525" relname="adversative-antithesis"/>
-		<group id="525" type="multinuc" parent="526" relname="span"/>
-		<group id="526" type="span" parent="539" relname="joint-disjunction"/>
-		<group id="527" type="span" parent="528" relname="same-unit"/>
-		<group id="528" type="multinuc" parent="233" relname="elaboration-additional"/>
-		<group id="529" type="span" parent="525" relname="joint-list"/>
-		<group id="530" type="span" parent="531" relname="same-unit"/>
-		<group id="531" type="multinuc" parent="536" relname="context-background"/>
-		<group id="532" type="span" parent="533" relname="same-unit"/>
-		<group id="533" type="multinuc" parent="243" relname="purpose-goal"/>
-		<group id="534" type="span" parent="535" relname="causal-result"/>
-		<group id="535" type="multinuc" parent="537" relname="span"/>
-		<group id="536" type="span" parent="538" relname="span"/>
-		<group id="537" type="span" parent="240" relname="causal-cause"/>
-		<group id="538" type="span" parent="540" relname="joint-other"/>
-		<group id="539" type="multinuc" parent="540" relname="joint-other"/>
-		<group id="540" type="multinuc" parent="541" relname="span"/>
-		<group id="541" type="span" parent="612" relname="span"/>
-		<group id="542" type="span" parent="544" relname="same-unit"/>
-		<group id="543" type="span" parent="251" relname="elaboration-attribute"/>
-		<group id="544" type="multinuc" parent="545" relname="contingency-condition"/>
-		<group id="545" type="span" parent="546" relname="span"/>
-		<group id="546" type="span" parent="551" relname="span"/>
-		<group id="547" type="span" parent="549" relname="span"/>
-		<group id="548" type="span" parent="547" relname="elaboration-additional"/>
-		<group id="549" type="span" parent="550" relname="span"/>
-		<group id="550" type="span" parent="546" relname="explanation-justify"/>
-		<group id="551" type="span" parent="560" relname="joint-list"/>
-		<group id="552" type="span" parent="554" relname="same-unit"/>
-		<group id="553" type="span" parent="262" relname="elaboration-attribute"/>
-		<group id="554" type="multinuc" parent="558" relname="span"/>
-		<group id="555" type="multinuc" parent="263" relname="explanation-justify"/>
-		<group id="556" type="span" parent="558" relname="elaboration-additional"/>
-		<group id="557" type="span" parent="554" relname="evaluation-comment"/>
-		<group id="558" type="span" parent="559" relname="span"/>
-		<group id="559" type="span" parent="560" relname="joint-list"/>
-		<group id="560" type="multinuc" parent="561" relname="span"/>
-		<group id="561" type="span" parent="611" relname="joint-list"/>
-		<group id="562" type="multinuc" parent="575" relname="organization-preparation"/>
-		<group id="563" type="span" parent="564" relname="same-unit"/>
-		<group id="564" type="multinuc" parent="275" relname="elaboration-attribute"/>
-		<group id="565" type="span" parent="566" relname="same-unit"/>
-		<group id="566" type="multinuc" parent="567" relname="span"/>
-		<group id="567" type="span" parent="574" relname="span"/>
-		<group id="568" type="span" parent="569" relname="span"/>
-		<group id="569" type="span" parent="573" relname="joint-list"/>
-		<group id="570" type="multinuc" parent="571" relname="span"/>
-		<group id="571" type="span" parent="282" relname="contingency-condition"/>
-		<group id="572" type="span" parent="573" relname="joint-list"/>
-		<group id="573" type="multinuc" parent="567" relname="explanation-evidence"/>
-		<group id="574" type="span" parent="575" relname="span"/>
-		<group id="575" type="span" parent="576" relname="span"/>
-		<group id="576" type="span" parent="611" relname="joint-list"/>
-		<group id="577" type="span" parent="578" relname="same-unit"/>
-		<group id="578" type="multinuc" parent="592" relname="organization-preparation"/>
-		<group id="579" type="span" parent="580" relname="same-unit"/>
-		<group id="580" type="multinuc" parent="582" relname="adversative-antithesis"/>
-		<group id="581" type="multinuc" parent="291" relname="explanation-evidence"/>
-		<group id="582" type="span" parent="590" relname="span"/>
-		<group id="583" type="span" parent="294" relname="causal-cause"/>
-		<group id="584" type="span" parent="589" relname="span"/>
-		<group id="585" type="span" parent="586" relname="span"/>
-		<group id="586" type="span" parent="587" relname="span"/>
-		<group id="587" type="span" parent="297" relname="explanation-evidence"/>
-		<group id="588" type="span" parent="584" relname="elaboration-additional"/>
-		<group id="589" type="span" parent="592" relname="span"/>
-		<group id="590" type="span" parent="591" relname="span"/>
-		<group id="591" type="span" parent="589" relname="context-background"/>
-		<group id="592" type="span" parent="593" relname="span"/>
-		<group id="593" type="span" parent="611" relname="joint-list"/>
-		<group id="594" type="span" parent="307" relname="elaboration-attribute"/>
-		<group id="595" type="span" parent="596" relname="same-unit"/>
-		<group id="596" type="multinuc" parent="597" relname="adversative-contrast"/>
-		<group id="597" type="multinuc" parent="606" relname="elaboration-additional"/>
-		<group id="598" type="span" parent="599" relname="same-unit"/>
-		<group id="599" type="multinuc" parent="600" relname="context-background"/>
-		<group id="600" type="multinuc" parent="607" relname="span"/>
-		<group id="601" type="span" parent="605" relname="span"/>
-		<group id="602" type="span" parent="604" relname="span"/>
-		<group id="603" type="span" parent="602" relname="elaboration-additional"/>
-		<group id="604" type="span" parent="601" relname="explanation-justify"/>
-		<group id="605" type="span" parent="600" relname="joint-list"/>
-		<group id="606" type="multinuc" parent="609" relname="span"/>
-		<group id="607" type="span" parent="608" relname="span"/>
+		<group id="520" type="multinuc" parent="232" relname="elaboration-additional"/>
+		<group id="521" type="span" parent="517" relname="joint-list"/>
+		<group id="522" type="span" parent="523" relname="same-unit"/>
+		<group id="523" type="multinuc" parent="528" relname="context-background"/>
+		<group id="524" type="span" parent="525" relname="same-unit"/>
+		<group id="525" type="multinuc" parent="242" relname="purpose-goal"/>
+		<group id="526" type="span" parent="527" relname="causal-result"/>
+		<group id="527" type="multinuc" parent="529" relname="span"/>
+		<group id="528" type="span" parent="530" relname="span"/>
+		<group id="529" type="span" parent="239" relname="causal-cause"/>
+		<group id="530" type="span" parent="532" relname="joint-other"/>
+		<group id="531" type="multinuc" parent="532" relname="joint-other"/>
+		<group id="532" type="multinuc" parent="533" relname="span"/>
+		<group id="533" type="span" parent="604" relname="span"/>
+		<group id="534" type="span" parent="536" relname="same-unit"/>
+		<group id="535" type="span" parent="250" relname="elaboration-attribute"/>
+		<group id="536" type="multinuc" parent="537" relname="contingency-condition"/>
+		<group id="537" type="span" parent="538" relname="span"/>
+		<group id="538" type="span" parent="543" relname="span"/>
+		<group id="539" type="span" parent="541" relname="span"/>
+		<group id="540" type="span" parent="539" relname="elaboration-additional"/>
+		<group id="541" type="span" parent="542" relname="span"/>
+		<group id="542" type="span" parent="538" relname="explanation-justify"/>
+		<group id="543" type="span" parent="552" relname="joint-list"/>
+		<group id="544" type="span" parent="546" relname="same-unit"/>
+		<group id="545" type="span" parent="261" relname="elaboration-attribute"/>
+		<group id="546" type="multinuc" parent="550" relname="span"/>
+		<group id="547" type="multinuc" parent="262" relname="explanation-justify"/>
+		<group id="548" type="span" parent="550" relname="elaboration-additional"/>
+		<group id="549" type="span" parent="546" relname="evaluation-comment"/>
+		<group id="550" type="span" parent="551" relname="span"/>
+		<group id="551" type="span" parent="552" relname="joint-list"/>
+		<group id="552" type="multinuc" parent="553" relname="span"/>
+		<group id="553" type="span" parent="603" relname="joint-list"/>
+		<group id="554" type="multinuc" parent="567" relname="organization-preparation"/>
+		<group id="555" type="span" parent="556" relname="same-unit"/>
+		<group id="556" type="multinuc" parent="274" relname="elaboration-attribute"/>
+		<group id="557" type="span" parent="558" relname="same-unit"/>
+		<group id="558" type="multinuc" parent="559" relname="span"/>
+		<group id="559" type="span" parent="566" relname="span"/>
+		<group id="560" type="span" parent="561" relname="span"/>
+		<group id="561" type="span" parent="565" relname="joint-list"/>
+		<group id="562" type="multinuc" parent="563" relname="span"/>
+		<group id="563" type="span" parent="281" relname="contingency-condition"/>
+		<group id="564" type="span" parent="565" relname="joint-list"/>
+		<group id="565" type="multinuc" parent="559" relname="explanation-evidence"/>
+		<group id="566" type="span" parent="567" relname="span"/>
+		<group id="567" type="span" parent="568" relname="span"/>
+		<group id="568" type="span" parent="603" relname="joint-list"/>
+		<group id="569" type="span" parent="570" relname="same-unit"/>
+		<group id="570" type="multinuc" parent="584" relname="organization-preparation"/>
+		<group id="571" type="span" parent="572" relname="same-unit"/>
+		<group id="572" type="multinuc" parent="614" relname="span"/>
+		<group id="573" type="multinuc" parent="572" relname="elaboration-additional"/>
+		<group id="575" type="span" parent="291" relname="causal-cause"/>
+		<group id="576" type="span" parent="581" relname="span"/>
+		<group id="577" type="span" parent="578" relname="span"/>
+		<group id="578" type="span" parent="579" relname="span"/>
+		<group id="579" type="span" parent="294" relname="explanation-evidence"/>
+		<group id="580" type="span" parent="576" relname="elaboration-additional"/>
+		<group id="581" type="span" parent="584" relname="span"/>
+		<group id="584" type="span" parent="585" relname="span"/>
+		<group id="585" type="span" parent="603" relname="joint-list"/>
+		<group id="586" type="span" parent="304" relname="elaboration-attribute"/>
+		<group id="587" type="span" parent="588" relname="same-unit"/>
+		<group id="588" type="multinuc" parent="589" relname="adversative-contrast"/>
+		<group id="589" type="multinuc" parent="598" relname="elaboration-additional"/>
+		<group id="590" type="span" parent="591" relname="same-unit"/>
+		<group id="591" type="multinuc" parent="592" relname="context-background"/>
+		<group id="592" type="multinuc" parent="599" relname="span"/>
+		<group id="593" type="span" parent="597" relname="span"/>
+		<group id="594" type="span" parent="596" relname="span"/>
+		<group id="595" type="span" parent="594" relname="elaboration-additional"/>
+		<group id="596" type="span" parent="593" relname="explanation-justify"/>
+		<group id="597" type="span" parent="592" relname="joint-list"/>
+		<group id="598" type="multinuc" parent="601" relname="span"/>
+		<group id="599" type="span" parent="600" relname="span"/>
+		<group id="600" type="span" parent="602" relname="span"/>
+		<group id="601" type="span" parent="600" relname="context-background"/>
+		<group id="602" type="span" parent="603" relname="joint-list"/>
+		<group id="603" type="multinuc" parent="605" relname="span"/>
+		<group id="604" type="span" parent="603" relname="joint-list"/>
+		<group id="605" type="span" parent="609" relname="joint-list"/>
+		<group id="606" type="multinuc" parent="607" relname="span"/>
+		<group id="607" type="span" parent="609" relname="joint-list"/>
 		<group id="608" type="span" parent="610" relname="span"/>
-		<group id="609" type="span" parent="608" relname="context-background"/>
-		<group id="610" type="span" parent="611" relname="joint-list"/>
-		<group id="611" type="multinuc" parent="613" relname="span"/>
-		<group id="612" type="span" parent="611" relname="joint-list"/>
-		<group id="613" type="span" parent="617" relname="joint-list"/>
-		<group id="614" type="multinuc" parent="615" relname="span"/>
-		<group id="615" type="span" parent="617" relname="joint-list"/>
-		<group id="616" type="span" parent="618" relname="span"/>
-		<group id="617" type="multinuc" parent="616" relname="span"/>
-		<group id="618" type="span" />
-		<group id="619" type="span" parent="620" relname="same-unit"/>
-		<group id="620" type="multinuc" parent="183" relname="adversative-antithesis"/>
-		<group id="621" type="span" parent="485" relname="joint-list"/>
+		<group id="609" type="multinuc" parent="608" relname="span"/>
+		<group id="610" type="span" />
+		<group id="611" type="span" parent="612" relname="same-unit"/>
+		<group id="612" type="multinuc" parent="182" relname="adversative-antithesis"/>
+		<group id="613" type="span" parent="477" relname="joint-list"/>
+		<group id="614" type="span" parent="581" relname="context-background"/>
 	</body>
 </rst>

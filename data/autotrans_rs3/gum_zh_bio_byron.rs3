@@ -36,529 +36,519 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="531" relname="organization-heading">拜伦 勋爵 // Lord Byron</segment>
-		<segment id="2" parent="287" relname="span">乔治·戈登·拜伦 ， 第六 代 拜伦 男爵 // George Gordon Byron, 6th Baron Byron</segment>
+		<segment id="1" parent="510" relname="organization-heading">拜伦 勋爵 // Lord Byron</segment>
+		<segment id="2" parent="281" relname="span">乔治·戈登·拜伦 ， 第六 代 拜伦 男爵 // George Gordon Byron, 6th Baron Byron</segment>
 		<segment id="3" parent="2" relname="elaboration-attribute">（ George Gordon Byron , 6th Baron Byron ， 1788年 1月 22日 － 1824年 4月 19日 ） ， // (George Gordon Byron, 6th Baron Byron, 22 January 1788 - 19 April 1824),</segment>
-		<segment id="4" parent="288" relname="same-unit">中文 又 译 “ 摆伦 ” ， // Also translated in Chinese as "Zui Lun",</segment>
-		<segment id="5" parent="282" relname="joint-sequence">出生 于 英格兰 伦敦 ， // Born in London, England,</segment>
-		<segment id="6" parent="282" relname="joint-sequence">逝世于 希腊 ， 英国 诗人 、 革命家 ， // Died in Greece, British poet, revolutionary,</segment>
-		<segment id="7" parent="286" relname="joint-list">独领 风骚 的 浪漫 主义 文学 泰斗 。 // The leading romantic literary giant.</segment>
-		<segment id="8" parent="285" relname="span">世袭 男爵 ， // hereditary baron,</segment>
-		<segment id="9" parent="283" relname="span">人 称 “ 拜伦 勋爵 ” // Known as "Lord Byron"</segment>
+		<segment id="4" parent="282" relname="same-unit">中文 又 译 “ 摆伦 ” ， // Also translated in Chinese as "Zui Lun",</segment>
+		<segment id="5" parent="277" relname="joint-sequence">出生 于 英格兰 伦敦 ， // Born in London, England,</segment>
+		<segment id="6" parent="277" relname="joint-sequence">逝世于 希腊 ， 英国 诗人 、 革命家 ， // Died in Greece, British poet, revolutionary,</segment>
+		<segment id="7" parent="280" relname="joint-list">独领 风骚 的 浪漫 主义 文学 泰斗 。 // The leading romantic literary giant.</segment>
+		<segment id="8" parent="279" relname="span">世袭 男爵 ， // hereditary baron,</segment>
+		<segment id="9" parent="278" relname="span">人 称 “ 拜伦 勋爵 ” // Known as "Lord Byron"</segment>
 		<segment id="10" parent="9" relname="restatement-partial">（ Lord Byron ） 。 // (Lord Byron).</segment>
-		<segment id="11" parent="286" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="12" parent="295" relname="joint-other">拜伦 著名 的 作品 有 长篇 的 《 唐璜 》 及 《 恰尔德·哈罗尔德 游记 》 ， 以及 短篇 作品 《 她 举步 娉婷 》 。 // Byron is best known for his novels "Don Juan" and "Children Harold's Travels", as well as his short "She Walks Pingting".</segment>
-		<segment id="13" parent="290" relname="span">爱达·勒芙蕾丝 是 拜伦 的 女儿 ， // Ada Lovelace was Byron's daughter,</segment>
+		<segment id="11" parent="280" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="12" parent="289" relname="joint-other">拜伦 著名 的 作品 有 长篇 的 《 唐璜 》 及 《 恰尔德·哈罗尔德 游记 》 ， 以及 短篇 作品 《 她 举步 娉婷 》 。 // Byron is best known for his novels "Don Juan" and "Children Harold's Travels", as well as his short "She Walks Pingting".</segment>
+		<segment id="13" parent="284" relname="span">爱达·勒芙蕾丝 是 拜伦 的 女儿 ， // Ada Lovelace was Byron's daughter,</segment>
 		<segment id="14" parent="13" relname="elaboration-additional">其 有关 查尔斯·巴贝奇 分析机 的 研究 是 在 计算机 科学 上 的 重要 文献 。 // His work on the Charles Babbage Analytical Engine is an important literature in computer science .</segment>
-		<segment id="15" parent="291" relname="joint-list">幼年 夭折 的 奥格拉·拜伦 也 是 拜伦 的 小孩 ， // Ogra Byron, who died at an early age, was also Byron's child.</segment>
-		<segment id="16" parent="293" relname="same-unit">甚至 伊丽莎白·梅朵拉·李 可能 也 是 // Maybe even Elizabeth Medora Lee</segment>
+		<segment id="15" parent="285" relname="joint-list">幼年 夭折 的 奥格拉·拜伦 也 是 拜伦 的 小孩 ， // Ogra Byron, who died at an early age, was also Byron's child.</segment>
+		<segment id="16" parent="287" relname="same-unit">甚至 伊丽莎白·梅朵拉·李 可能 也 是 // Maybe even Elizabeth Medora Lee</segment>
 		<segment id="17" parent="18" relname="elaboration-attribute">拜伦 婚外 所 生 的 // Born out of wedlock by Byron</segment>
-		<segment id="18" parent="292" relname="span">女儿 // daughter</segment>
-		<segment id="19" parent="291" relname="explanation-evidence">[ 3 ] 。 // [3].</segment>
-		<segment id="20" parent="529" relname="organization-heading">生平 // life</segment>
-		<segment id="21" parent="302" relname="context-background">1788年 1月 22日 ， 拜伦 出生 于 伦敦 的 一 个 衰落 的 贵族 家庭 ， // Byron was born into a declining aristocratic family in London on January 22, 1788.</segment>
-		<segment id="22" parent="297" relname="context-background">他 的 父亲 是 没落 的 贵族 ， // His father was a fallen nobleman,</segment>
-		<segment id="23" parent="297" relname="same-unit">他 的 父亲 // his father</segment>
+		<segment id="18" parent="286" relname="span">女儿 // daughter</segment>
+		<segment id="19" parent="285" relname="explanation-evidence">[ 3 ] 。 // [3].</segment>
+		<segment id="20" parent="508" relname="organization-heading">生平 // life</segment>
+		<segment id="21" parent="296" relname="context-background">1788年 1月 22日 ， 拜伦 出生 于 伦敦 的 一 个 衰落 的 贵族 家庭 ， // Byron was born into a declining aristocratic family in London on January 22, 1788.</segment>
+		<segment id="22" parent="291" relname="context-background">他 的 父亲 是 没落 的 贵族 ， // His father was a fallen nobleman,</segment>
+		<segment id="23" parent="291" relname="same-unit">他 的 父亲 // his father</segment>
 		<segment id="24" parent="25" relname="context-circumstance">在 他 三 岁 时 // when he was three years old</segment>
-		<segment id="25" parent="296" relname="span">去世 // passed away</segment>
-		<segment id="26" parent="298" relname="explanation-evidence">[ 4 ] ， // [4],</segment>
-		<segment id="27" parent="300" relname="joint-list">拜伦 跟随 母亲 孤儿 寡母 // Byron follows the mother orphan widowed mother</segment>
-		<segment id="28" parent="300" relname="joint-list">在 苏格兰 过 着 节衣 缩食 的 清贫 生活 。 // Live a poor life of frugality in Scotland .</segment>
-		<segment id="29" parent="300" relname="explanation-evidence">[ 5 ] // [ 5 ]</segment>
-		<segment id="30" parent="304" relname="joint-list">拜伦 先天性 的 跛足 ， // Byron's congenital lameness,</segment>
-		<segment id="31" parent="304" relname="joint-list">而 他 的 母亲 性情 乖戾 、 喜怒 无常 ， // And his mother was surly and moody,</segment>
-		<segment id="32" parent="305" relname="span">这 两 方面 的 原因 使得 他 形成 了 孤僻 和 忧郁 的 性格 。 // These two reasons made him withdrawn and melancholy .</segment>
-		<segment id="33" parent="305" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="34" parent="307" relname="joint-sequence">1798年 ， 拜伦 继承 了 伯祖父 的 男爵 爵位 ， // In 1798, Byron succeeded his uncle and grandfather as a baron.</segment>
-		<segment id="35" parent="308" relname="joint-list">于是 和 母亲 移居 到 诺丁汉郡 的 世袭 领地 // So he and his mother moved to the hereditary domain of Nottinghamshire.</segment>
-		<segment id="36" parent="308" relname="joint-list">生活 。 // Life .</segment>
-		<segment id="37" parent="307" relname="explanation-evidence">[ 6 ] // [ 6 ]</segment>
-		<segment id="38" parent="310" relname="joint-list">诺丁汉郡 是 当时 英国 的 工业 重郡 ， // Nottinghamshire was an industrial heavy county in England at that time.</segment>
-		<segment id="39" parent="310" relname="joint-list">也 是 工人 运动 中心 之一 ， // It is also one of the centers of the workers' movement.</segment>
-		<segment id="40" parent="311" relname="joint-list">他 在 这里 了解 和 熟悉 了 工人 的 苦难 生活 和 被 剥削 和 压迫 的 命运 ， // Here he learned and became acquainted with the miserable life of workers and the fate of exploitation and oppression ,</segment>
-		<segment id="41" parent="311" relname="joint-list">他 对 工人们 的 遭遇 给予 了 深深 地 同情 ， // He has deep sympathy for the plight of the workers,</segment>
-		<segment id="42" parent="312" relname="span">立志 武装 斗争 ， // Aspire to armed struggle,</segment>
+		<segment id="25" parent="290" relname="span">去世 // passed away</segment>
+		<segment id="26" parent="292" relname="explanation-evidence">[ 4 ] ， // [4],</segment>
+		<segment id="27" parent="294" relname="joint-list">拜伦 跟随 母亲 孤儿 寡母 // Byron follows the mother orphan widowed mother</segment>
+		<segment id="28" parent="294" relname="joint-list">在 苏格兰 过 着 节衣 缩食 的 清贫 生活 。 // Live a poor life of frugality in Scotland .</segment>
+		<segment id="29" parent="294" relname="explanation-evidence">[ 5 ] // [ 5 ]</segment>
+		<segment id="30" parent="298" relname="joint-list">拜伦 先天性 的 跛足 ， // Byron's congenital lameness,</segment>
+		<segment id="31" parent="298" relname="joint-list">而 他 的 母亲 性情 乖戾 、 喜怒 无常 ， // And his mother was surly and moody,</segment>
+		<segment id="32" parent="299" relname="span">这 两 方面 的 原因 使得 他 形成 了 孤僻 和 忧郁 的 性格 。 // These two reasons made him withdrawn and melancholy .</segment>
+		<segment id="33" parent="299" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="34" parent="301" relname="joint-sequence">1798年 ， 拜伦 继承 了 伯祖父 的 男爵 爵位 ， // In 1798, Byron succeeded his uncle and grandfather as a baron.</segment>
+		<segment id="35" parent="302" relname="joint-list">于是 和 母亲 移居 到 诺丁汉郡 的 世袭 领地 // So he and his mother moved to the hereditary domain of Nottinghamshire.</segment>
+		<segment id="36" parent="302" relname="joint-list">生活 。 // Life .</segment>
+		<segment id="37" parent="301" relname="explanation-evidence">[ 6 ] // [ 6 ]</segment>
+		<segment id="38" parent="304" relname="joint-list">诺丁汉郡 是 当时 英国 的 工业 重郡 ， // Nottinghamshire was an industrial heavy county in England at that time.</segment>
+		<segment id="39" parent="304" relname="joint-list">也 是 工人 运动 中心 之一 ， // It is also one of the centers of the workers' movement.</segment>
+		<segment id="40" parent="305" relname="joint-list">他 在 这里 了解 和 熟悉 了 工人 的 苦难 生活 和 被 剥削 和 压迫 的 命运 ， // Here he learned and became acquainted with the miserable life of workers and the fate of exploitation and oppression ,</segment>
+		<segment id="41" parent="305" relname="joint-list">他 对 工人们 的 遭遇 给予 了 深深 地 同情 ， // He has deep sympathy for the plight of the workers,</segment>
+		<segment id="42" parent="306" relname="span">立志 武装 斗争 ， // Aspire to armed struggle,</segment>
 		<segment id="43" parent="42" relname="purpose-goal">为 劳苦 大众 争取 社会 权益 。 // Strive for social rights for the toiling masses .</segment>
-		<segment id="44" parent="314" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="45" parent="316" relname="joint-sequence">1805年 ， 拜伦 从 中学 毕业 ， // Byron graduated from high school in 1805,</segment>
-		<segment id="46" parent="316" relname="joint-sequence">进入 剑桥 大学 // Entry to Cambridge University</segment>
-		<segment id="47" parent="316" relname="joint-sequence">主修 文学 和 历史 。 // Majoring in literature and history .</segment>
-		<segment id="48" parent="316" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="49" parent="318" relname="causal-cause">大学 时期 ， 他 对 启蒙 思想家 的 著作 极其 感 兴趣 ， // During his college days, he was extremely interested in the writings of Enlightenment thinkers.</segment>
-		<segment id="50" parent="318" relname="joint-list">狂热 研读 伏尔泰 和 卢梭 的 作品 ， // Fanatical study of the works of Voltaire and Rousseau,</segment>
-		<segment id="51" parent="318" relname="joint-list">并且 开始 自己 创作 诗歌 。 // and started writing poetry on his own.</segment>
-		<segment id="52" parent="319" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="53" parent="325" relname="span">1807年 ， 拜伦 出版 了 诗集 《 懒散 的 时刻 》 ， // In 1807, Byron published a collection of poems, "Hours of Laziness,"</segment>
-		<segment id="54" parent="324" relname="joint-list">这 是 他 的 处女作 ， // This is his debut,</segment>
-		<segment id="55" parent="322" relname="same-unit">拜伦 // Byron</segment>
+		<segment id="44" parent="307" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="45" parent="309" relname="joint-sequence">1805年 ， 拜伦 从 中学 毕业 ， // Byron graduated from high school in 1805,</segment>
+		<segment id="46" parent="309" relname="joint-sequence">进入 剑桥 大学 // Entry to Cambridge University</segment>
+		<segment id="47" parent="309" relname="joint-sequence">主修 文学 和 历史 。 // Majoring in literature and history .</segment>
+		<segment id="48" parent="309" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="49" parent="311" relname="causal-cause">大学 时期 ， 他 对 启蒙 思想家 的 著作 极其 感 兴趣 ， // During his college days, he was extremely interested in the writings of Enlightenment thinkers.</segment>
+		<segment id="50" parent="311" relname="joint-list">狂热 研读 伏尔泰 和 卢梭 的 作品 ， // Fanatical study of the works of Voltaire and Rousseau,</segment>
+		<segment id="51" parent="311" relname="joint-list">并且 开始 自己 创作 诗歌 。 // and started writing poetry on his own.</segment>
+		<segment id="52" parent="312" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="53" parent="318" relname="span">1807年 ， 拜伦 出版 了 诗集 《 懒散 的 时刻 》 ， // In 1807, Byron published a collection of poems, "Hours of Laziness,"</segment>
+		<segment id="54" parent="317" relname="joint-list">这 是 他 的 处女作 ， // This is his debut,</segment>
+		<segment id="55" parent="315" relname="same-unit">拜伦 // Byron</segment>
 		<segment id="56" parent="57" relname="mode-means">透过 诗集 // through poetry</segment>
-		<segment id="57" parent="321" relname="span">表达 对 现实 生活 的 不满 和 对 贵族 生活 的 厌倦 和 鄙视 ， // To express dissatisfaction with real life and tiredness and contempt for noble life,</segment>
-		<segment id="58" parent="322" relname="causal-result">很 快 诗集 在 社会 上 受到 消极 浪漫 主义 刊物 的 攻击 和 奚落 。 // Soon the collection of poetry was attacked and ridiculed in society by passive romantic publications .</segment>
-		<segment id="59" parent="325" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="60" parent="327" relname="context-circumstance">1809年 ， 面对 接踵 而至 的 攻击 和 谩骂 ， // In 1809, in the face of ensuing attacks and abuse,</segment>
-		<segment id="61" parent="327" relname="span">拜伦 写出 长诗 《 英国 诗人 和 苏格兰 评论家 》 // Byron wrote the poem "The English Poet and Scottish Critic"</segment>
+		<segment id="57" parent="314" relname="span">表达 对 现实 生活 的 不满 和 对 贵族 生活 的 厌倦 和 鄙视 ， // To express dissatisfaction with real life and tiredness and contempt for noble life,</segment>
+		<segment id="58" parent="315" relname="causal-result">很 快 诗集 在 社会 上 受到 消极 浪漫 主义 刊物 的 攻击 和 奚落 。 // Soon the collection of poetry was attacked and ridiculed in society by passive romantic publications .</segment>
+		<segment id="59" parent="318" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="60" parent="320" relname="context-circumstance">1809年 ， 面对 接踵 而至 的 攻击 和 谩骂 ， // In 1809, in the face of ensuing attacks and abuse,</segment>
+		<segment id="61" parent="320" relname="span">拜伦 写出 长诗 《 英国 诗人 和 苏格兰 评论家 》 // Byron wrote the poem "The English Poet and Scottish Critic"</segment>
 		<segment id="62" parent="61" relname="purpose-goal">回击 攻击者 ， // hit back at the attacker,</segment>
-		<segment id="63" parent="328" relname="joint-list">却 意外 地 揭开 了 积极 浪漫 主义 对抗 消极 浪漫 主义 的 序幕 ， // But unexpectedly opened the prelude of positive romanticism against negative romanticism.</segment>
-		<segment id="64" parent="328" relname="joint-list">长诗 也 使得 拜伦 在 英国 诗歌 文坛 中 初露 锋芒 。 // The long poems also made Byron first appear in the British poetry and literary world .</segment>
-		<segment id="65" parent="330" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="66" parent="333" relname="joint-list">1809年 ， 拜伦 在 剑桥 大学 毕业 ， // Byron graduated from Cambridge University in 1809.</segment>
-		<segment id="67" parent="333" relname="joint-list">因为 贵族 世袭制 ， 使得 他 在 上议院 获得 了 议员 的 资格 。 // Because of hereditary aristocracy , he was qualified as a member of the House of Lords .</segment>
-		<segment id="68" parent="333" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="69" parent="335" relname="span">6月 ， 拜伦 开始 出国 游玩 ， // In June, Byron began to travel abroad,</segment>
+		<segment id="63" parent="321" relname="joint-list">却 意外 地 揭开 了 积极 浪漫 主义 对抗 消极 浪漫 主义 的 序幕 ， // But unexpectedly opened the prelude of positive romanticism against negative romanticism.</segment>
+		<segment id="64" parent="321" relname="joint-list">长诗 也 使得 拜伦 在 英国 诗歌 文坛 中 初露 锋芒 。 // The long poems also made Byron first appear in the British poetry and literary world .</segment>
+		<segment id="65" parent="323" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="66" parent="325" relname="joint-list">1809年 ， 拜伦 在 剑桥 大学 毕业 ， // Byron graduated from Cambridge University in 1809.</segment>
+		<segment id="67" parent="325" relname="joint-list">因为 贵族 世袭制 ， 使得 他 在 上议院 获得 了 议员 的 资格 。 // Because of hereditary aristocracy , he was qualified as a member of the House of Lords .</segment>
+		<segment id="68" parent="325" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="69" parent="327" relname="span">6月 ， 拜伦 开始 出国 游玩 ， // In June, Byron began to travel abroad,</segment>
 		<segment id="70" parent="69" relname="elaboration-additional">他 先后 到 葡萄牙 、 西班牙 、 马耳他岛 、 阿尔巴尼亚 、 希腊 和 土耳其 等 地方 。 // He has traveled to Portugal , Spain , Malta Island , Albania , Greece and Turkey .</segment>
-		<segment id="71" parent="335" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="72" parent="337" relname="context-background">1811年 7月 ， 拜伦 回到 了 英国 ， // Byron returned to England in July 1811,</segment>
-		<segment id="73" parent="337" relname="joint-list">拜伦 的 这 次 旅游 扩展 了 他 的 政治 视野 ， // Byron 's trip expanded his political horizons .</segment>
-		<segment id="74" parent="337" relname="joint-list">也 丰富 了 他 的 写作 素材 ， // It also enriched his writing materials.</segment>
-		<segment id="75" parent="338" relname="same-unit">他 亲眼 目睹 了 // He saw it with his own eyes</segment>
+		<segment id="71" parent="327" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="72" parent="329" relname="context-background">1811年 7月 ， 拜伦 回到 了 英国 ， // Byron returned to England in July 1811,</segment>
+		<segment id="73" parent="329" relname="joint-list">拜伦 的 这 次 旅游 扩展 了 他 的 政治 视野 ， // Byron 's trip expanded his political horizons .</segment>
+		<segment id="74" parent="329" relname="joint-list">也 丰富 了 他 的 写作 素材 ， // It also enriched his writing materials.</segment>
+		<segment id="75" parent="330" relname="same-unit">他 亲眼 目睹 了 // He saw it with his own eyes</segment>
 		<segment id="76" parent="77" relname="elaboration-attribute">欧洲 被 压迫 民族 为 自己 的 自由 和 独立 而 斗争 的 // The oppressed nations of Europe fought for their freedom and independence .</segment>
-		<segment id="77" parent="339" relname="span">场面 ， // scene,</segment>
-		<segment id="78" parent="341" relname="same-unit">也 了解 到 英国 // Also learned about the UK</segment>
+		<segment id="77" parent="331" relname="span">场面 ， // scene,</segment>
+		<segment id="78" parent="333" relname="same-unit">也 了解 到 英国 // Also learned about the UK</segment>
 		<segment id="79" parent="80" relname="elaboration-attribute">在 欧洲 大陆 明争 暗斗 // In the European Continent, open and secret battles</segment>
-		<segment id="80" parent="340" relname="span">不 光彩 的 一 面 。 // Disgraceful side.</segment>
-		<segment id="81" parent="344" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="82" parent="348" relname="span">1812年 ， 拜伦 发表 了 长诗 《 恰尔德·哈罗尔德 游记 》 第一 、 二 章 ， // In 1812, Byron published the first and second chapters of the long poem "The Travels of Childe Harold",</segment>
-		<segment id="83" parent="347" relname="joint-list">诗歌 立刻 轰动 文坛 ， // The poem immediately caused a sensation in the literary world.</segment>
-		<segment id="84" parent="347" relname="joint-list">给 他 带来 了 巨大 的 声誉 。 // brought him a great reputation.</segment>
-		<segment id="85" parent="348" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="86" parent="352" relname="context-background">同时 ， 英国 国内 的 卢德 运动 也 在 汹涌 蓬勃 ， // At the same time , the Luddite movement in the UK is also booming .</segment>
-		<segment id="87" parent="352" relname="same-unit">2月 ， 上议院 通过 了 // In February, the House of Lords passed</segment>
+		<segment id="80" parent="332" relname="span">不 光彩 的 一 面 。 // Disgraceful side.</segment>
+		<segment id="81" parent="336" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="82" parent="339" relname="span">1812年 ， 拜伦 发表 了 长诗 《 恰尔德·哈罗尔德 游记 》 第一 、 二 章 ， // In 1812, Byron published the first and second chapters of the long poem "The Travels of Childe Harold",</segment>
+		<segment id="83" parent="338" relname="joint-list">诗歌 立刻 轰动 文坛 ， // The poem immediately caused a sensation in the literary world.</segment>
+		<segment id="84" parent="338" relname="joint-list">给 他 带来 了 巨大 的 声誉 。 // brought him a great reputation.</segment>
+		<segment id="85" parent="339" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="86" parent="343" relname="context-background">同时 ， 英国 国内 的 卢德 运动 也 在 汹涌 蓬勃 ， // At the same time , the Luddite movement in the UK is also booming .</segment>
+		<segment id="87" parent="343" relname="same-unit">2月 ， 上议院 通过 了 // In February, the House of Lords passed</segment>
 		<segment id="88" parent="89" relname="elaboration-attribute">毁坏 机器 的 // destroy the machine</segment>
-		<segment id="89" parent="350" relname="span">工人 必须 判处 死刑 的 // Workers must be sentenced to death</segment>
-		<segment id="90" parent="351" relname="span">法案 ， // bill,</segment>
+		<segment id="89" parent="341" relname="span">工人 必须 判处 死刑 的 // Workers must be sentenced to death</segment>
+		<segment id="90" parent="342" relname="span">法案 ， // bill,</segment>
 		<segment id="91" parent="92" relname="adversative-concession">拜伦 虽然 在 议会 上 为 工人们 的 权益 而 辩护 ， // Although Byron defended workers' rights in parliament,</segment>
-		<segment id="92" parent="353" relname="span">但是 无济于事 ， // but to no avail,</segment>
+		<segment id="92" parent="344" relname="span">但是 无济于事 ， // but to no avail,</segment>
 		<segment id="93" parent="94" relname="context-circumstance">愤怒 的 拜伦 回到 家中 ， // An angry Byron went home,</segment>
-		<segment id="94" parent="354" relname="span">发表 了 讽刺 诗 《 反对 破坏 机器 法案 》 。 // Published the satirical poem "Against the Sabotage of the Machines Act ."</segment>
-		<segment id="95" parent="355" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="96" parent="359" relname="joint-list">4月 ， 拜伦 在 国会 发表 演说 ， // In April , Byron delivered a speech to Congress ,</segment>
-		<segment id="97" parent="359" relname="joint-list">支持 爱尔兰 独立 ， // support Irish independence</segment>
-		<segment id="98" parent="359" relname="joint-list">同时 发表 了 《 给 一 位 哭泣 的 贵妇人 》 。 // Also published "To a Weeping Dame".</segment>
-		<segment id="99" parent="359" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="100" parent="361" relname="joint-sequence">1813年 ， 拜伦 陆续 发表 了 《 异教徒 》 、 《 阿比道斯 的 新娘 》 ， // In 1813, Byron published "The Heretic" and "The Bride of Abydos" one after another.</segment>
-		<segment id="101" parent="361" relname="joint-sequence">1814年 ， 拜伦 发表 了 《 温莎 的 诗艺 》 、 《 海盗 》 、 《 莱拉 》 ， // In 1814, Byron published The Poetry of Windsor, The Pirates, Lyra,</segment>
-		<segment id="102" parent="361" relname="joint-sequence">1816年 ， 拜伦 发表 了 《 科林斯 的 围攻 》 、 《 巴里西纳 》 和 《 路德 分子 歌 》 ， // In 1816, Byron published "The Siege of Corinth," "Barisina," and "The Lutheran Song,"</segment>
-		<segment id="103" parent="362" relname="joint-list">这些 诗歌 总 称 为 “ 《 东方 叙事诗 》 ” ， // These poems are collectively called "Oriental Narrative Poems",</segment>
-		<segment id="104" parent="362" relname="joint-list">并且 塑造 了 出 文学史 上 “ 拜伦式 的 英雄 ” 佳话 ； // And shaped the story of "Byronic heroes" in the history of literature;</segment>
-		<segment id="105" parent="363" relname="adversative-concession">虽然 诗歌 为 拜伦 赢得 了 巨大 的 声誉 ， // Although poetry earned Byron a great reputation ,</segment>
+		<segment id="94" parent="345" relname="span">发表 了 讽刺 诗 《 反对 破坏 机器 法案 》 。 // Published the satirical poem "Against the Sabotage of the Machines Act ."</segment>
+		<segment id="95" parent="346" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="96" parent="350" relname="joint-list">4月 ， 拜伦 在 国会 发表 演说 ， // In April , Byron delivered a speech to Congress ,</segment>
+		<segment id="97" parent="350" relname="joint-list">支持 爱尔兰 独立 ， // support Irish independence</segment>
+		<segment id="98" parent="350" relname="joint-list">同时 发表 了 《 给 一 位 哭泣 的 贵妇人 》 。 // Also published "To a Weeping Dame".</segment>
+		<segment id="99" parent="350" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="100" parent="352" relname="joint-sequence">1813年 ， 拜伦 陆续 发表 了 《 异教徒 》 、 《 阿比道斯 的 新娘 》 ， // In 1813, Byron published "The Heretic" and "The Bride of Abydos" one after another.</segment>
+		<segment id="101" parent="352" relname="joint-sequence">1814年 ， 拜伦 发表 了 《 温莎 的 诗艺 》 、 《 海盗 》 、 《 莱拉 》 ， // In 1814, Byron published The Poetry of Windsor, The Pirates, Lyra,</segment>
+		<segment id="102" parent="352" relname="joint-sequence">1816年 ， 拜伦 发表 了 《 科林斯 的 围攻 》 、 《 巴里西纳 》 和 《 路德 分子 歌 》 ， // In 1816, Byron published "The Siege of Corinth," "Barisina," and "The Lutheran Song,"</segment>
+		<segment id="103" parent="353" relname="joint-list">这些 诗歌 总 称 为 “ 《 东方 叙事诗 》 ” ， // These poems are collectively called "Oriental Narrative Poems",</segment>
+		<segment id="104" parent="353" relname="joint-list">并且 塑造 了 出 文学史 上 “ 拜伦式 的 英雄 ” 佳话 ； // And shaped the story of "Byronic heroes" in the history of literature;</segment>
+		<segment id="105" parent="354" relname="adversative-concession">虽然 诗歌 为 拜伦 赢得 了 巨大 的 声誉 ， // Although poetry earned Byron a great reputation ,</segment>
 		<segment id="106" parent="107" relname="causal-cause">但是 由于 他 的 思想 和 英国 政坛 的 思想 截然 相反 ， // But because his ideas are diametrically opposed to those of British politics ,</segment>
-		<segment id="107" parent="363" relname="span">他 受到 了 政客 和 上流 社会 的 攻击 和 谩骂 。 // He was attacked and reviled by politicians and high society.</segment>
-		<segment id="108" parent="364" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="109" parent="370" relname="same-unit">1816年 ， 上流 社会 // 1816, high society</segment>
-		<segment id="110" parent="368" relname="same-unit">以 // by</segment>
+		<segment id="107" parent="354" relname="span">他 受到 了 政客 和 上流 社会 的 攻击 和 谩骂 。 // He was attacked and reviled by politicians and high society.</segment>
+		<segment id="108" parent="355" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="109" parent="361" relname="same-unit">1816年 ， 上流 社会 // 1816, high society</segment>
+		<segment id="110" parent="359" relname="same-unit">以 // by</segment>
 		<segment id="111" parent="112" relname="elaboration-attribute">他 和 妻子 离婚 的 // He and his wife divorced</segment>
-		<segment id="112" parent="367" relname="span">事情 炒作 和 攻击 ， // things hype and attack,</segment>
-		<segment id="113" parent="369" relname="span">使得 他 被迫 黯然 离开 故土 。 // So he was forced to leave his homeland sadly .</segment>
-		<segment id="114" parent="372" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="115" parent="374" relname="joint-list">拜伦 来到 了 比利时 ， // Byron came to Belgium,</segment>
-		<segment id="116" parent="374" relname="joint-list">亲自 去 了 滑铁卢 战场 ， // I went to the Waterloo battlefield in person,</segment>
-		<segment id="117" parent="375" relname="joint-list">随后 去 了 瑞士 ， // Then went to Switzerland,</segment>
-		<segment id="118" parent="375" relname="joint-list">并且 在 日内瓦 认识 了 珀西·比希·雪莱 ， // and met Percy Byshe Shelley in Geneva,</segment>
-		<segment id="119" parent="375" relname="joint-list">两 人 结下 了 深切 的 友谊 ， // The two forged a deep friendship,</segment>
-		<segment id="120" parent="382" relname="span">雪莱 的 诗歌 精神 影响 了 拜伦 ， // Shelley's poetic spirit influenced Byron,</segment>
-		<segment id="121" parent="378" relname="joint-list">这 时期 ， 他 创作 了 《 普罗米修斯 》 、 《 锡雍 的 囚徒 》 和 《 恰尔德·哈罗尔德 游记 》 第三 章 ， // During this period, he wrote "Prometheus", "The Prisoner of Zion" and "Child Harold's Travels" Chapter 3,</segment>
-		<segment id="122" parent="377" relname="causal-cause">同时 由于 欧洲 各 地 的 战场 和 人民 的 苦难 遭遇 ， // At the same time , due to the battlefields and the suffering of the people all over Europe ,</segment>
-		<segment id="123" parent="377" relname="adversative-contrast">拜伦 灰心 失望 到 了 极点 ， // Byron was desperately disappointed,</segment>
-		<segment id="124" parent="377" relname="adversative-contrast">他 创作 了 悲观 主义 诗歌 《 曼弗雷特 》 。 // He wrote the pessimistic poem "Manfret".</segment>
-		<segment id="125" parent="379" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="126" parent="384" relname="joint-list">1816年 下半年 ， 拜伦 去 了 意大利 ， // In the second half of 1816, Byron went to Italy,</segment>
-		<segment id="127" parent="384" relname="joint-list">他 投入 到 了 烧炭党人 的 运动 中 ， // He threw himself into the carbon burner movement ,</segment>
-		<segment id="128" parent="384" relname="joint-list">并且 成为 地方 组织 的 领袖 。 // and become the leader of a local organization .</segment>
-		<segment id="129" parent="384" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="130" parent="386" relname="span">同时 创作 了 《 恰尔德·哈罗尔德 游记 》 第四 章 、 《 马力诺·法里埃罗 》 、 《 该隐 》 、 《 审判 的 幻景 》 、 《 青铜 世纪 》 和 《 唐璜 》 ， // At the same time he wrote the fourth chapter of Childe Harold's Travels, Marino Farriero, Cain, Visions of Judgment, Bronze Century and Don Juan,</segment>
+		<segment id="112" parent="358" relname="span">事情 炒作 和 攻击 ， // things hype and attack,</segment>
+		<segment id="113" parent="360" relname="span">使得 他 被迫 黯然 离开 故土 。 // So he was forced to leave his homeland sadly .</segment>
+		<segment id="114" parent="362" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="115" parent="364" relname="joint-list">拜伦 来到 了 比利时 ， // Byron came to Belgium,</segment>
+		<segment id="116" parent="364" relname="joint-list">亲自 去 了 滑铁卢 战场 ， // I went to the Waterloo battlefield in person,</segment>
+		<segment id="117" parent="365" relname="joint-list">随后 去 了 瑞士 ， // Then went to Switzerland,</segment>
+		<segment id="118" parent="365" relname="joint-list">并且 在 日内瓦 认识 了 珀西·比希·雪莱 ， // and met Percy Byshe Shelley in Geneva,</segment>
+		<segment id="119" parent="365" relname="joint-list">两 人 结下 了 深切 的 友谊 ， // The two forged a deep friendship,</segment>
+		<segment id="120" parent="371" relname="span">雪莱 的 诗歌 精神 影响 了 拜伦 ， // Shelley's poetic spirit influenced Byron,</segment>
+		<segment id="121" parent="368" relname="joint-list">这 时期 ， 他 创作 了 《 普罗米修斯 》 、 《 锡雍 的 囚徒 》 和 《 恰尔德·哈罗尔德 游记 》 第三 章 ， // During this period, he wrote "Prometheus", "The Prisoner of Zion" and "Child Harold's Travels" Chapter 3,</segment>
+		<segment id="122" parent="367" relname="causal-cause">同时 由于 欧洲 各 地 的 战场 和 人民 的 苦难 遭遇 ， // At the same time , due to the battlefields and the suffering of the people all over Europe ,</segment>
+		<segment id="123" parent="367" relname="adversative-contrast">拜伦 灰心 失望 到 了 极点 ， // Byron was desperately disappointed,</segment>
+		<segment id="124" parent="367" relname="adversative-contrast">他 创作 了 悲观 主义 诗歌 《 曼弗雷特 》 。 // He wrote the pessimistic poem "Manfret".</segment>
+		<segment id="125" parent="369" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="126" parent="373" relname="joint-list">1816年 下半年 ， 拜伦 去 了 意大利 ， // In the second half of 1816, Byron went to Italy,</segment>
+		<segment id="127" parent="373" relname="joint-list">他 投入 到 了 烧炭党人 的 运动 中 ， // He threw himself into the carbon burner movement ,</segment>
+		<segment id="128" parent="373" relname="joint-list">并且 成为 地方 组织 的 领袖 。 // and become the leader of a local organization .</segment>
+		<segment id="129" parent="373" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="130" parent="375" relname="span">同时 创作 了 《 恰尔德·哈罗尔德 游记 》 第四 章 、 《 马力诺·法里埃罗 》 、 《 该隐 》 、 《 审判 的 幻景 》 、 《 青铜 世纪 》 和 《 唐璜 》 ， // At the same time he wrote the fourth chapter of Childe Harold's Travels, Marino Farriero, Cain, Visions of Judgment, Bronze Century and Don Juan,</segment>
 		<segment id="131" parent="130" relname="evaluation-comment">这 时期 他 的 创作 达到 了 辉煌 。 // During this period his creations reached brilliance .</segment>
-		<segment id="132" parent="387" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="132" parent="376" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
 		<segment id="133" parent="134" relname="context-circumstance">不久 之后 ， // Soon after ,</segment>
-		<segment id="134" parent="389" relname="span">烧炭党人 的 革命 活动 失败 ， // The revolutionary activities of the carbon burners failed,</segment>
-		<segment id="135" parent="390" relname="joint-list">1823年 7月 ， 拜伦 离开 意大利 // Byron leaves Italy in July 1823</segment>
-		<segment id="136" parent="390" relname="joint-list">去 了 希腊 ， // went to Greece,</segment>
-		<segment id="137" parent="392" relname="same-unit">加入 到 了 // joined in</segment>
+		<segment id="134" parent="378" relname="span">烧炭党人 的 革命 活动 失败 ， // The revolutionary activities of the carbon burners failed,</segment>
+		<segment id="135" parent="379" relname="joint-list">1823年 7月 ， 拜伦 离开 意大利 // Byron leaves Italy in July 1823</segment>
+		<segment id="136" parent="379" relname="joint-list">去 了 希腊 ， // went to Greece,</segment>
+		<segment id="137" parent="381" relname="same-unit">加入 到 了 // joined in</segment>
 		<segment id="138" parent="139" relname="purpose-attribute">反抗 奥斯曼 奴役 的 // against Ottoman slavery</segment>
-		<segment id="139" parent="391" relname="span">希腊 独立 战争 ， // Greek War of Independence,</segment>
-		<segment id="140" parent="393" relname="joint-list">他 担任 希腊 一 个 军队 的 司令 ， // He served as commander of an army in Greece,</segment>
-		<segment id="141" parent="393" relname="joint-list">每天 忙着 为 希腊 军队 筹集 物资 ， // Busy every day raising supplies for the Greek army,</segment>
-		<segment id="142" parent="393" relname="joint-list">购买 先进 武器 ， // buy advanced weapons,</segment>
-		<segment id="143" parent="393" relname="joint-list">调节 内部 纠纷 ， // Regulate internal disputes ,</segment>
-		<segment id="144" parent="398" relname="span">过度 的 劳累 和 奔波 使得 他 的 身体 健康 恶化 ， // Excessive fatigue and running around made his health deteriorate ,</segment>
-		<segment id="145" parent="394" relname="causal-cause">在 一 次 行军 途中 ， 拜伦 遇到 了 暴风雨 ， // On a march, Byron encountered a storm,</segment>
+		<segment id="139" parent="380" relname="span">希腊 独立 战争 ， // Greek War of Independence,</segment>
+		<segment id="140" parent="382" relname="joint-list">他 担任 希腊 一 个 军队 的 司令 ， // He served as commander of an army in Greece,</segment>
+		<segment id="141" parent="382" relname="joint-list">每天 忙着 为 希腊 军队 筹集 物资 ， // Busy every day raising supplies for the Greek army,</segment>
+		<segment id="142" parent="382" relname="joint-list">购买 先进 武器 ， // buy advanced weapons,</segment>
+		<segment id="143" parent="382" relname="joint-list">调节 内部 纠纷 ， // Regulate internal disputes ,</segment>
+		<segment id="144" parent="387" relname="span">过度 的 劳累 和 奔波 使得 他 的 身体 健康 恶化 ， // Excessive fatigue and running around made his health deteriorate ,</segment>
+		<segment id="145" parent="383" relname="causal-cause">在 一 次 行军 途中 ， 拜伦 遇到 了 暴风雨 ， // On a march, Byron encountered a storm,</segment>
 		<segment id="146" parent="147" relname="elaboration-attribute">经过 风雨 吹打 的 // weathered</segment>
-		<segment id="147" parent="394" relname="span">拜伦 从此 一病不起 ， // Byron has never been ill since then.</segment>
-		<segment id="148" parent="397" relname="same-unit">1824年 4月 19日 ， 拜伦 // Byron, April 19, 1824</segment>
+		<segment id="147" parent="383" relname="span">拜伦 从此 一病不起 ， // Byron has never been ill since then.</segment>
+		<segment id="148" parent="386" relname="same-unit">1824年 4月 19日 ， 拜伦 // Byron, April 19, 1824</segment>
 		<segment id="149" parent="150" relname="causal-cause">因 治疗 无效 // Ineffective due to treatment</segment>
-		<segment id="150" parent="396" relname="span">病逝于 希腊 军队 的 军帐 中 。 // Died in the camp of the Greek army.</segment>
-		<segment id="151" parent="397" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
-		<segment id="152" parent="404" relname="context-circumstance">临终 时 ， // When dying,</segment>
-		<segment id="153" parent="403" relname="attribution-positive">拜伦 的 遗嘱 说道 ： // Byron's will says:</segment>
-		<segment id="154" parent="403" relname="joint-list">“ 我 的 财产 ， 我 的 精力 都 献给 了 希腊 的 独立 战争 ， // "My property, my energies are dedicated to the Greek war of independence,</segment>
-		<segment id="155" parent="403" relname="joint-list">现在 连 生命 也 献上 吧 ！ ” // Give your life now! "</segment>
-		<segment id="156" parent="405" relname="causal-result">希腊 政府 为 拜伦 举行 了 隆重 的 国葬 仪式 。 // The Greek government held a grand state funeral for Byron .</segment>
-		<segment id="157" parent="406" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
-		<segment id="158" parent="452" relname="organization-heading">死后 // after death</segment>
-		<segment id="159" parent="409" relname="span">随后 ， 丁尼生 向 英国 国内 传达 了 拜伦 的 死讯 // Tennyson then relayed the news of Byron's death to the UK</segment>
+		<segment id="150" parent="385" relname="span">病逝于 希腊 军队 的 军帐 中 。 // Died in the camp of the Greek army.</segment>
+		<segment id="151" parent="386" relname="explanation-evidence">[ 1 ] // [ 1 ]</segment>
+		<segment id="152" parent="153" relname="context-circumstance">临终 时 ， // When dying,</segment>
+		<segment id="153" parent="514" relname="span">拜伦 的 遗嘱 说道 ： // Byron's will says:</segment>
+		<segment id="154" parent="392" relname="joint-list">“ 我 的 财产 ， 我 的 精力 都 献给 了 希腊 的 独立 战争 ， // "My property, my energies are dedicated to the Greek war of independence,</segment>
+		<segment id="155" parent="392" relname="joint-list">现在 连 生命 也 献上 吧 ！ ” // Give your life now! "</segment>
+		<segment id="156" parent="393" relname="causal-result">希腊 政府 为 拜伦 举行 了 隆重 的 国葬 仪式 。 // The Greek government held a grand state funeral for Byron .</segment>
+		<segment id="157" parent="394" relname="explanation-evidence">[ 1 ] [ 2 ] // [ 1 ] [ 2 ]</segment>
+		<segment id="158" parent="437" relname="organization-heading">死后 // after death</segment>
+		<segment id="159" parent="396" relname="span">随后 ， 丁尼生 向 英国 国内 传达 了 拜伦 的 死讯 // Tennyson then relayed the news of Byron's death to the UK</segment>
 		<segment id="160" parent="159" relname="explanation-evidence">[ 7 ] ， // [7],</segment>
-		<segment id="161" parent="412" relname="joint-list">而 希腊人 也 为 其 举办 了 国葬 ， // And the Greeks also held a state funeral for him.</segment>
-		<segment id="162" parent="411" relname="same-unit">把 他 // make him</segment>
+		<segment id="161" parent="399" relname="joint-list">而 希腊人 也 为 其 举办 了 国葬 ， // And the Greeks also held a state funeral for him.</segment>
+		<segment id="162" parent="398" relname="same-unit">把 他 // make him</segment>
 		<segment id="163" parent="164" relname="mode-manner">当作 一 位 英雄 // be a hero</segment>
-		<segment id="164" parent="410" relname="span">来 看待 。 // to look at.</segment>
-		<segment id="165" parent="412" relname="explanation-evidence">[ 8 ] [ 9 ] // [ 8 ] [ 9 ]</segment>
-		<segment id="166" parent="416" relname="span">希腊 的 大 诗人 狄俄尼索斯·索洛莫斯 专门 为 拜伦 写下 了 挽诗 ， 即 《 拜伦 之 死 》 。 // The great Greek poet Dionysus Solomos wrote an elegy for Byron, "The Death of Byron".</segment>
+		<segment id="164" parent="397" relname="span">来 看待 。 // to look at.</segment>
+		<segment id="165" parent="399" relname="explanation-evidence">[ 8 ] [ 9 ] // [ 8 ] [ 9 ]</segment>
+		<segment id="166" parent="402" relname="span">希腊 的 大 诗人 狄俄尼索斯·索洛莫斯 专门 为 拜伦 写下 了 挽诗 ， 即 《 拜伦 之 死 》 。 // The great Greek poet Dionysus Solomos wrote an elegy for Byron, "The Death of Byron".</segment>
 		<segment id="167" parent="166" relname="explanation-evidence">[ 10 ] // [ 10 ]</segment>
-		<segment id="168" parent="418" relname="same-unit">拜伦 的 遗体 // Byron's body</segment>
+		<segment id="168" parent="404" relname="same-unit">拜伦 的 遗体 // Byron's body</segment>
 		<segment id="169" parent="170" relname="mode-means">经过 防腐 处理 // Preserved</segment>
-		<segment id="170" parent="417" relname="span">保存 了 下来 。 // saved.</segment>
-		<segment id="171" parent="419" relname="attribution-positive">有 一 种 说法 是 // There is a saying that</segment>
-		<segment id="172" parent="419" relname="joint-list">他 的 心脏 被 取出 // His heart was taken out</segment>
-		<segment id="173" parent="419" relname="joint-list">留 在 了 迈索隆吉翁 // stayed in Mesolonghi</segment>
-		<segment id="174" parent="534" relname="explanation-evidence">[ 11 ] ， // [11],</segment>
-		<segment id="175" parent="424" relname="same-unit">但 可以 肯定 的 是 ， 其 遗体 的 大 部分 都 // But it is certain that most of his remains were</segment>
-		<segment id="176" parent="421" relname="span">在 其 男仆 提塔 // in its valet tita</segment>
+		<segment id="170" parent="403" relname="span">保存 了 下来 。 // saved.</segment>
+		<segment id="171" parent="405" relname="attribution-positive">有 一 种 说法 是 // There is a saying that</segment>
+		<segment id="172" parent="405" relname="joint-list">他 的 心脏 被 取出 // His heart was taken out</segment>
+		<segment id="173" parent="405" relname="joint-list">留 在 了 迈索隆吉翁 // stayed in Mesolonghi</segment>
+		<segment id="174" parent="513" relname="explanation-evidence">[ 11 ] ， // [11],</segment>
+		<segment id="175" parent="410" relname="same-unit">但 可以 肯定 的 是 ， 其 遗体 的 大 部分 都 // But it is certain that most of his remains were</segment>
+		<segment id="176" parent="407" relname="span">在 其 男仆 提塔 // in its valet tita</segment>
 		<segment id="177" parent="176" relname="restatement-partial">（ Tita ） // (Tita)</segment>
-		<segment id="178" parent="422" relname="same-unit">的 护送 下 // the escort under</segment>
-		<segment id="179" parent="423" relname="span">送囘 了 英格兰 ， // sent back to England,</segment>
+		<segment id="178" parent="408" relname="same-unit">的 护送 下 // the escort under</segment>
+		<segment id="179" parent="409" relname="span">送囘 了 英格兰 ， // sent back to England,</segment>
 		<segment id="180" parent="181" relname="attribution-positive">并 打算 // and intend to</segment>
-		<segment id="181" parent="425" relname="span">葬于 威斯敏斯特 教堂 。 // Buried in Westminster Abbey.</segment>
-		<segment id="182" parent="428" relname="same-unit">然而 ， 威斯敏斯特 教堂 却 // However, Westminster Abbey</segment>
+		<segment id="181" parent="411" relname="span">葬于 威斯敏斯特 教堂 。 // Buried in Westminster Abbey.</segment>
+		<segment id="182" parent="414" relname="same-unit">然而 ， 威斯敏斯特 教堂 却 // However, Westminster Abbey</segment>
 		<segment id="183" parent="184" relname="mode-means">以 拜伦 “ 道德 败坏 ” 为 由 // For Byron's "moral corruption"</segment>
-		<segment id="184" parent="427" relname="span">拒绝 了 这 一 请求 // rejected the request</segment>
-		<segment id="185" parent="430" relname="explanation-evidence">[ 12 ] [ 13 ] 。 // [12][13].</segment>
+		<segment id="184" parent="413" relname="span">拒绝 了 这 一 请求 // rejected the request</segment>
+		<segment id="185" parent="415" relname="explanation-evidence">[ 12 ] [ 13 ] 。 // [12][13].</segment>
 		<segment id="186" parent="187" relname="elaboration-attribute">拜伦 的 遗体 抵达 伦敦 的 // Byron's body arrives in London</segment>
-		<segment id="187" parent="432" relname="span">那 一 日 ， 有 很多 人 前去 瞻仰 // On that day, many people came to pay their respects</segment>
-		<segment id="188" parent="432" relname="explanation-evidence">[ 12 ] 。 // [12].</segment>
-		<segment id="189" parent="434" relname="span">他 最终 葬于 诺丁汉郡 哈克诺 的 圣抹大拉 教堂 // He was eventually buried at St Magdalene's Church in Hacknow, Nottinghamshire</segment>
+		<segment id="187" parent="417" relname="span">那 一 日 ， 有 很多 人 前去 瞻仰 // On that day, many people came to pay their respects</segment>
+		<segment id="188" parent="417" relname="explanation-evidence">[ 12 ] 。 // [12].</segment>
+		<segment id="189" parent="419" relname="span">他 最终 葬于 诺丁汉郡 哈克诺 的 圣抹大拉 教堂 // He was eventually buried at St Magdalene's Church in Hacknow, Nottinghamshire</segment>
 		<segment id="190" parent="189" relname="restatement-partial">（ Church of St. Mary Magdalene ） ， // (Church of St. Mary Magdalene),</segment>
 		<segment id="191" parent="192" relname="elaboration-attribute">希腊 国王 赠予 的 // gifted by the king of greece</segment>
-		<segment id="192" parent="435" relname="span">大理石 墓碑 立于 其 墓前 。 // Marble tombstones stand in front of his tomb.</segment>
-		<segment id="193" parent="436" relname="span">拜伦 的 朋友们 筹集 了 一千 镑 // Byron's friends raised a thousand pounds</segment>
+		<segment id="192" parent="420" relname="span">大理石 墓碑 立于 其 墓前 。 // Marble tombstones stand in front of his tomb.</segment>
+		<segment id="193" parent="421" relname="span">拜伦 的 朋友们 筹集 了 一千 镑 // Byron's friends raised a thousand pounds</segment>
 		<segment id="194" parent="193" relname="purpose-goal">为 他 制造 雕像 ， // make a statue for him,</segment>
-		<segment id="195" parent="437" relname="span">这 座 雕像 耗时 十 年 // The statue took ten years</segment>
+		<segment id="195" parent="422" relname="span">这 座 雕像 耗时 十 年 // The statue took ten years</segment>
 		<segment id="196" parent="195" relname="causal-result">乃 成 。 // It is.</segment>
 		<segment id="197" parent="198" relname="context-circumstance">但 1834年 雕成 之后 ， // But after it was carved in 1834,</segment>
-		<segment id="198" parent="439" relname="span">大英 博物馆 、 圣保罗 大 教堂 、 威斯敏斯特 教堂 和 国家 美术馆 都 拒绝 展出 此 作 ， // The British Museum , St Paul 's Cathedral , Westminster Abbey and the National Gallery all refused to exhibit the work .</segment>
+		<segment id="198" parent="424" relname="span">大英 博物馆 、 圣保罗 大 教堂 、 威斯敏斯特 教堂 和 国家 美术馆 都 拒绝 展出 此 作 ， // The British Museum , St Paul 's Cathedral , Westminster Abbey and the National Gallery all refused to exhibit the work .</segment>
 		<segment id="199" parent="200" relname="context-circumstance">久经 波折 之后 ， // After many twists and turns ,</segment>
-		<segment id="200" parent="440" relname="span">由 剑桥 大学 三一 学院 将 其 置于 自家 的 图书馆 里 // It was placed in its own library by Trinity College, Cambridge University</segment>
-		<segment id="201" parent="441" relname="explanation-evidence">[ 7 ] 。 // [7].</segment>
-		<segment id="202" parent="444" relname="same-unit">在 // exist</segment>
+		<segment id="200" parent="425" relname="span">由 剑桥 大学 三一 学院 将 其 置于 自家 的 图书馆 里 // It was placed in its own library by Trinity College, Cambridge University</segment>
+		<segment id="201" parent="426" relname="explanation-evidence">[ 7 ] 。 // [7].</segment>
+		<segment id="202" parent="429" relname="same-unit">在 // exist</segment>
 		<segment id="203" parent="204" relname="elaboration-attribute">拜伦 死去 145 年 后 的 // Byron 145 years after his death</segment>
-		<segment id="204" parent="443" relname="span">1969年 ， 另 一 座 拜伦 的 雕像 才 放入 威斯敏斯特 教堂 。 // Another byron statue was placed in westminster abbey in 1969 .</segment>
-		<segment id="205" parent="444" relname="explanation-evidence">[ 14 ] // [ 14 ]</segment>
-		<segment id="206" parent="522" relname="organization-heading">健康 及 外貌 // Health and Appearance</segment>
-		<segment id="207" parent="478" relname="organization-heading">性 倾向 // sexual orientation</segment>
-		<segment id="208" parent="454" relname="span">“ 我 以 奇怪 的 方式 由 善 和 恶 混杂 而 成 ， // "I am a mixture of good and evil in a strange way,</segment>
+		<segment id="204" parent="428" relname="span">1969年 ， 另 一 座 拜伦 的 雕像 才 放入 威斯敏斯特 教堂 。 // Another byron statue was placed in westminster abbey in 1969 .</segment>
+		<segment id="205" parent="429" relname="explanation-evidence">[ 14 ] // [ 14 ]</segment>
+		<segment id="206" parent="501" relname="organization-heading">健康 及 外貌 // Health and Appearance</segment>
+		<segment id="207" parent="462" relname="organization-heading">性 倾向 // sexual orientation</segment>
+		<segment id="208" parent="439" relname="span">“ 我 以 奇怪 的 方式 由 善 和 恶 混杂 而 成 ， // "I am a mixture of good and evil in a strange way,</segment>
 		<segment id="209" parent="208" relname="causal-result">要 形容 我 会 相当 困难 // It would be quite difficult to describe me</segment>
-		<segment id="210" parent="454" relname="explanation-evidence">[ 15 ] ” // [15]”</segment>
-		<segment id="211" parent="477" relname="span">学者们 对 拜伦 的 性 倾向 仍 没有 共识 ， // Scholars still have no consensus on byron 's sexuality</segment>
-		<segment id="212" parent="456" relname="restatement-repetition">伯恩哈德·杰克逊 // Bernhard Jackson</segment>
-		<segment id="213" parent="456" relname="restatement-repetition">（ Bernhard Jackson ） // (Bernhard Jackson)</segment>
-		<segment id="214" parent="457" relname="same-unit">的 结论 是 ： // The conclusion is:</segment>
-		<segment id="215" parent="464" relname="joint-list">“ 拜伦 的 性 倾向 一直 是 一 个 难题 ， // " Byron 's sexuality has always been a problem ,</segment>
-		<segment id="216" parent="459" relname="same-unit">更 不 要 说 // Not to mention</segment>
+		<segment id="210" parent="439" relname="explanation-evidence">[ 15 ] ” // [15]”</segment>
+		<segment id="211" parent="461" relname="span">学者们 对 拜伦 的 性 倾向 仍 没有 共识 ， // Scholars still have no consensus on byron 's sexuality</segment>
+		<segment id="212" parent="441" relname="restatement-repetition">伯恩哈德·杰克逊 // Bernhard Jackson</segment>
+		<segment id="213" parent="441" relname="restatement-repetition">（ Bernhard Jackson ） // (Bernhard Jackson)</segment>
+		<segment id="214" parent="442" relname="same-unit">的 结论 是 ： // The conclusion is:</segment>
+		<segment id="215" parent="449" relname="joint-list">“ 拜伦 的 性 倾向 一直 是 一 个 难题 ， // " Byron 's sexuality has always been a problem ,</segment>
+		<segment id="216" parent="444" relname="same-unit">更 不 要 说 // Not to mention</segment>
 		<segment id="217" parent="218" relname="elaboration-attribute">所 引起 的 // caused by</segment>
-		<segment id="218" parent="458" relname="span">争议 和 话题 ， // Controversy and Topics,</segment>
-		<segment id="219" parent="460" relname="joint-list">由于 证据 含糊不清 、 矛盾 // Due to vague and contradictory evidence</segment>
-		<segment id="220" parent="460" relname="joint-list">而且 寥寥无几 ， // and few,</segment>
-		<segment id="221" parent="462" relname="same-unit">任何 // any</segment>
+		<segment id="218" parent="443" relname="span">争议 和 话题 ， // Controversy and Topics,</segment>
+		<segment id="219" parent="445" relname="joint-list">由于 证据 含糊不清 、 矛盾 // Due to vague and contradictory evidence</segment>
+		<segment id="220" parent="445" relname="joint-list">而且 寥寥无几 ， // and few,</segment>
+		<segment id="221" parent="447" relname="same-unit">任何 // any</segment>
 		<segment id="222" parent="223" relname="elaboration-attribute">想要 讨论 此 议题 的 // would like to discuss this topic</segment>
-		<segment id="223" parent="461" relname="span">人 都 需要 有 一定 程度 的 推测 ” // Everyone needs some degree of guesswork .</segment>
-		<segment id="224" parent="467" relname="explanation-evidence">[ 16 ] [ 17 ] ， // [16][17],</segment>
-		<segment id="225" parent="469" relname="span">不过 克朗普顿 // But Crompton</segment>
+		<segment id="223" parent="446" relname="span">人 都 需要 有 一定 程度 的 推测 ” // Everyone needs some degree of guesswork .</segment>
+		<segment id="224" parent="451" relname="explanation-evidence">[ 16 ] [ 17 ] ， // [16][17],</segment>
+		<segment id="225" parent="453" relname="span">不过 克朗普顿 // But Crompton</segment>
 		<segment id="226" parent="225" relname="restatement-partial">（ Crompton ） // (Cropton)</segment>
-		<segment id="227" parent="470" relname="same-unit">认为 // think</segment>
-		<segment id="228" parent="473" relname="same-unit">“ 在 拜伦 那 个 时代 ， // "In Byron's day,</segment>
-		<segment id="229" parent="471" relname="adversative-concession">除了 拜伦 同伙 的 一 小 群 人 之外 ， // With the exception of a small group of Byron's associates,</segment>
+		<segment id="227" parent="454" relname="same-unit">认为 // think</segment>
+		<segment id="228" parent="457" relname="same-unit">“ 在 拜伦 那 个 时代 ， // "In Byron's day,</segment>
+		<segment id="229" parent="455" relname="adversative-concession">除了 拜伦 同伙 的 一 小 群 人 之外 ， // With the exception of a small group of Byron's associates,</segment>
 		<segment id="230" parent="231" relname="attribution-negative">其他 人 不 知道 // other people don't know</segment>
-		<segment id="231" parent="471" relname="span">拜伦 是 双性恋 。 ” // Byron is bisexual. "</segment>
-		<segment id="232" parent="474" relname="explanation-evidence">[ 18 ] // [ 18 ]</segment>
-		<segment id="233" parent="493" relname="organization-heading">先天 缺陷 // Birth defects</segment>
+		<segment id="231" parent="455" relname="span">拜伦 是 双性恋 。 ” // Byron is bisexual. "</segment>
+		<segment id="232" parent="458" relname="explanation-evidence">[ 18 ] // [ 18 ]</segment>
+		<segment id="233" parent="475" relname="organization-heading">先天 缺陷 // Birth defects</segment>
 		<segment id="234" parent="235" relname="context-circumstance">拜伦 一 出生 // Byron is born</segment>
-		<segment id="235" parent="480" relname="span">右脚 就 有 畸形 ， // The right foot is deformed,</segment>
-		<segment id="236" parent="480" relname="elaboration-additional">通常 被 称 为 “ 马蹄 内翻足 ” ， // Often referred to as "Clubfoot",</segment>
+		<segment id="235" parent="464" relname="span">右脚 就 有 畸形 ， // The right foot is deformed,</segment>
+		<segment id="236" parent="464" relname="elaboration-additional">通常 被 称 为 “ 马蹄 内翻足 ” ， // Often referred to as "Clubfoot",</segment>
 		<segment id="237" parent="238" relname="attribution-positive">有些 现代 的 医学家 认为 // Some modern medical scientists think that</segment>
-		<segment id="238" parent="482" relname="span">这 是 小儿 麻痹症 的 结果 ， // This is the result of polio,</segment>
+		<segment id="238" parent="466" relname="span">这 是 小儿 麻痹症 的 结果 ， // This is the result of polio,</segment>
 		<segment id="239" parent="240" relname="attribution-positive">也 有些 学者 认为 // Some scholars also think that</segment>
-		<segment id="240" parent="483" relname="span">是 骨骼 的 发育不良 // is skeletal dysplasia</segment>
-		<segment id="241" parent="484" relname="explanation-evidence">[ 19 ] : pp. 3–4 。 // [19]: pp. 3–4.</segment>
-		<segment id="242" parent="486" relname="adversative-concession">不论 原因 为 何 ， // Whatever the reason,</segment>
-		<segment id="243" parent="486" relname="joint-list">这 都 使得 拜伦 跛行 ， // This made Byron limp,</segment>
-		<segment id="244" parent="486" relname="joint-list">并 带来 一 辈子 心理 及 身体 的 痛苦 ， // And bring a lifetime of mental and physical pain ,</segment>
-		<segment id="245" parent="488" relname="same-unit">尤其是 // especially</segment>
-		<segment id="246" parent="247" relname="context-circumstance">幼年 时 // childhood</segment>
-		<segment id="247" parent="489" relname="span">痛苦 且 无效 的 “ 治疗 ” 更 加重 了 跛行 // Painful and ineffective 'treatment' worsens lameness</segment>
-		<segment id="248" parent="490" relname="explanation-evidence">[ 20 ] 。 // [20].</segment>
-		<segment id="249" parent="498" relname="organization-heading">体格 // physique</segment>
-		<segment id="250" parent="496" relname="same-unit">拜伦 // Byron</segment>
-		<segment id="251" parent="252" relname="context-circumstance">成年 时 // adult</segment>
-		<segment id="252" parent="495" relname="span">的 // of</segment>
-		<segment id="253" parent="497" relname="span">身高 为 174 公分 ， // Height is 174 cm,</segment>
-		<segment id="254" parent="504" relname="joint-list">体重 则 在 60 公斤 及 89 公斤 之间 。 // Weight is between 60kg and 89kg.</segment>
-		<segment id="255" parent="499" relname="span">拜伦 以 其 美貌 闻名 ， // Byron was known for his beauty,</segment>
-		<segment id="256" parent="255" relname="explanation-evidence">曾 为了 发型 晚上 戴 棉芯 卷 发 // Used to wear cotton wick curls at night for hairstyle</segment>
-		<segment id="257" parent="499" relname="explanation-evidence">[ 21 ] 。 // [ twenty one ] .</segment>
-		<segment id="258" parent="502" relname="span">拜伦 是 拳击手 、 骑师 及 杰出 的 游泳 选手 。 // Byron was a boxer , jockey and an outstanding swimmer .</segment>
-		<segment id="259" parent="501" relname="joint-list">他 参加 了 前 职业 拳击 冠军 约翰 “ 绅士 ” 杰克逊 在 邦德街 房间 的 付费 拳击 课程 ， // He attended former professional boxing champion John "The Gentleman" Jackson's paid boxing lessons in his Bond Street room,</segment>
-		<segment id="260" parent="501" relname="joint-list">并 记录 训练 会议 的 内容 ， // and record the content of the training session,</segment>
-		<segment id="261" parent="501" relname="joint-list">在 他 的 信 和 日记 中 称 杰克逊 为 “ 拳击界 的 皇帝 ” // In his letters and diaries he referred to Jackson as the "King of Boxing"</segment>
-		<segment id="262" parent="502" relname="explanation-evidence">[ 22 ] 。 // [ twenty two ] .</segment>
-		<segment id="263" parent="505" relname="span">拜伦 和 其他 的 作家 // byron and other writers</segment>
-		<segment id="264" parent="263" relname="elaboration-attribute">（ 例如 他 的 朋友 霍布豪斯 ） // (eg his friend Hobhouse)</segment>
-		<segment id="265" parent="506" relname="same-unit">仔细 地 描述 拜伦 的 饮食 习惯 。 // Carefully describe Byron's eating habits.</segment>
-		<segment id="266" parent="508" relname="same-unit">拜伦 // Byron</segment>
-		<segment id="267" parent="268" relname="context-circumstance">在 就读 剑桥 时 // While studying at Cambridge</segment>
-		<segment id="268" parent="507" relname="span">实行 严格 的 节食 // implement a strict diet</segment>
-		<segment id="269" parent="508" relname="purpose-goal">以 控制 其 体重 ， // to control its weight,</segment>
-		<segment id="270" parent="510" relname="joint-list">拜伦 的 运动量 很 大 ， // Byron has a lot of exercise.</segment>
-		<segment id="271" parent="511" relname="span">而且 穿 许多 衣服 // and wear a lot of clothes</segment>
-		<segment id="272" parent="271" relname="purpose-goal">使 自己 出汗 。 // Make yourself sweat.</segment>
-		<segment id="273" parent="513" relname="span">日常 生活 中 拜伦 多半 只 吃 素食 ， // In daily life, Byron mostly only eats vegetarian food.</segment>
-		<segment id="274" parent="512" relname="span">常常 几 天 只 靠 干 的 饼干 及 白 葡萄酒 维生 。 // Often subsisting on dry biscuits and white wine for a few days.</segment>
-		<segment id="275" parent="274" relname="adversative-concession">偶尔 他 会 吃 大量 的 肉 和 甜点 。 // Occasionally he eats lots of meat and desserts.</segment>
-		<segment id="276" parent="277" relname="attribution-positive">高尔特 和 其他 人 都 描述 // Galt and others describe</segment>
-		<segment id="277" parent="516" relname="span">拜伦 喜欢 暴力 的 运动 ， // Byron likes violent sports,</segment>
-		<segment id="278" parent="514" relname="attribution-positive">霍布豪斯 认为 // Hobhouse thinks</segment>
-		<segment id="279" parent="514" relname="joint-list">那 是 他 脚 畸形 的 疼痛 使得 身体 不 易 活动 ， // It was the pain of his deformed foot that made it difficult for him to move.</segment>
-		<segment id="280" parent="514" relname="joint-list">因此 也 造成 他 的 体重 问题 // It also caused his weight problems</segment>
-		<segment id="281" parent="517" relname="explanation-evidence">[ 21 ] 。 // [ twenty one ] .</segment>
-		<group id="282" type="multinuc" parent="286" relname="joint-list"/>
-		<group id="283" type="span" parent="8" relname="elaboration-additional"/>
-		<group id="285" type="span" parent="286" relname="joint-list"/>
-		<group id="286" type="multinuc" parent="289" relname="span"/>
-		<group id="287" type="span" parent="288" relname="same-unit"/>
-		<group id="288" type="multinuc" parent="286" relname="joint-list"/>
-		<group id="289" type="span" parent="295" relname="joint-other"/>
-		<group id="290" type="span" parent="291" relname="joint-list"/>
-		<group id="291" type="multinuc" parent="294" relname="span"/>
-		<group id="292" type="span" parent="293" relname="same-unit"/>
-		<group id="293" type="multinuc" parent="291" relname="joint-list"/>
-		<group id="294" type="span" parent="295" relname="joint-other"/>
-		<group id="295" type="multinuc" parent="530" relname="context-background"/>
-		<group id="296" type="span" parent="297" relname="same-unit"/>
-		<group id="297" type="multinuc" parent="298" relname="span"/>
-		<group id="298" type="span" parent="299" relname="span"/>
-		<group id="299" type="span" parent="302" relname="joint-list"/>
-		<group id="300" type="multinuc" parent="301" relname="span"/>
-		<group id="301" type="span" parent="302" relname="joint-list"/>
-		<group id="302" type="multinuc" parent="303" relname="span"/>
-		<group id="303" type="span" parent="527" relname="span"/>
-		<group id="304" type="multinuc" parent="32" relname="causal-cause"/>
-		<group id="305" type="span" parent="306" relname="span"/>
-		<group id="306" type="span" parent="303" relname="elaboration-additional"/>
-		<group id="307" type="multinuc" parent="309" relname="span"/>
-		<group id="308" type="multinuc" parent="307" relname="joint-sequence"/>
-		<group id="309" type="span" parent="524" relname="span"/>
-		<group id="310" type="multinuc" parent="311" relname="context-background"/>
-		<group id="311" type="multinuc" parent="314" relname="span"/>
-		<group id="312" type="span" parent="311" relname="joint-list"/>
-		<group id="314" type="span" parent="315" relname="span"/>
-		<group id="315" type="span" parent="309" relname="elaboration-additional"/>
-		<group id="316" type="multinuc" parent="317" relname="span"/>
-		<group id="317" type="span" parent="525" relname="span"/>
-		<group id="318" type="multinuc" parent="319" relname="span"/>
-		<group id="319" type="span" parent="320" relname="span"/>
-		<group id="320" type="span" parent="317" relname="elaboration-additional"/>
-		<group id="321" type="span" parent="322" relname="same-unit"/>
-		<group id="322" type="multinuc" parent="323" relname="span"/>
-		<group id="323" type="span" parent="324" relname="joint-list"/>
-		<group id="324" type="multinuc" parent="53" relname="adversative-antithesis"/>
-		<group id="325" type="span" parent="326" relname="span"/>
-		<group id="326" type="span" parent="526" relname="joint-sequence"/>
-		<group id="327" type="span" parent="329" relname="span"/>
-		<group id="328" type="multinuc" parent="329" relname="causal-result"/>
-		<group id="329" type="span" parent="330" relname="span"/>
-		<group id="330" type="span" parent="332" relname="span"/>
-		<group id="332" type="span" parent="526" relname="joint-sequence"/>
-		<group id="333" type="multinuc" parent="334" relname="span"/>
-		<group id="334" type="span" parent="526" relname="joint-sequence"/>
+		<segment id="240" parent="467" relname="span">是 骨骼 的 发育不良 // is skeletal dysplasia</segment>
+		<segment id="241" parent="468" relname="explanation-evidence">[ 19 ] : pp. 3–4 。 // [19]: pp. 3–4.</segment>
+		<segment id="242" parent="470" relname="adversative-concession">不论 原因 为 何 ， // Whatever the reason,</segment>
+		<segment id="243" parent="470" relname="joint-list">这 都 使得 拜伦 跛行 ， // This made Byron limp,</segment>
+		<segment id="244" parent="470" relname="joint-list">并 带来 一 辈子 心理 及 身体 的 痛苦 ， // And bring a lifetime of mental and physical pain ,</segment>
+		<segment id="245" parent="471" relname="elaboration-additional">尤其是 幼年 时 痛苦 且 无效 的 “ 治疗 ” 更 加重 了 跛行 // Especially painful and ineffective "treatments" in childhood aggravate the lameness</segment>
+		<segment id="246" parent="472" relname="explanation-evidence">[ 20 ] 。 // [20].</segment>
+		<segment id="247" parent="477" relname="organization-heading">体格 // physique</segment>
+		<segment id="248" parent="483" relname="joint-list">拜伦 成年 时 的 身高 为 174 公分 ， // Byron was 174 cm tall when he was an adult.</segment>
+		<segment id="249" parent="483" relname="joint-list">体重 则 在 60 公斤 及 89 公斤 之间 。 // Weight is between 60kg and 89kg.</segment>
+		<segment id="250" parent="478" relname="span">拜伦 以 其 美貌 闻名 ， // Byron was known for his beauty,</segment>
+		<segment id="251" parent="250" relname="explanation-evidence">曾 为了 发型 晚上 戴 棉芯 卷 发 // Used to wear cotton wick curls at night for hairstyle</segment>
+		<segment id="252" parent="478" relname="explanation-evidence">[ 21 ] 。 // [ twenty one ] .</segment>
+		<segment id="253" parent="481" relname="span">拜伦 是 拳击手 、 骑师 及 杰出 的 游泳 选手 。 // Byron was a boxer , jockey and an outstanding swimmer .</segment>
+		<segment id="254" parent="480" relname="joint-list">他 参加 了 前 职业 拳击 冠军 约翰 “ 绅士 ” 杰克逊 在 邦德街 房间 的 付费 拳击 课程 ， // He attended former professional boxing champion John "The Gentleman" Jackson's paid boxing lessons in his Bond Street room,</segment>
+		<segment id="255" parent="480" relname="joint-list">并 记录 训练 会议 的 内容 ， // and record the content of the training session,</segment>
+		<segment id="256" parent="480" relname="joint-list">在 他 的 信 和 日记 中 称 杰克逊 为 “ 拳击界 的 皇帝 ” // In his letters and diaries he referred to Jackson as the "King of Boxing"</segment>
+		<segment id="257" parent="481" relname="explanation-evidence">[ 22 ] 。 // [ twenty two ] .</segment>
+		<segment id="258" parent="484" relname="span">拜伦 和 其他 的 作家 // byron and other writers</segment>
+		<segment id="259" parent="258" relname="elaboration-attribute">（ 例如 他 的 朋友 霍布豪斯 ） // (eg his friend Hobhouse)</segment>
+		<segment id="260" parent="485" relname="same-unit">仔细 地 描述 拜伦 的 饮食 习惯 。 // Carefully describe Byron's eating habits.</segment>
+		<segment id="261" parent="487" relname="same-unit">拜伦 // Byron</segment>
+		<segment id="262" parent="263" relname="context-circumstance">在 就读 剑桥 时 // While studying at Cambridge</segment>
+		<segment id="263" parent="486" relname="span">实行 严格 的 节食 // implement a strict diet</segment>
+		<segment id="264" parent="487" relname="purpose-goal">以 控制 其 体重 ， // to control its weight,</segment>
+		<segment id="265" parent="489" relname="joint-list">拜伦 的 运动量 很 大 ， // Byron has a lot of exercise.</segment>
+		<segment id="266" parent="490" relname="span">而且 穿 许多 衣服 // and wear a lot of clothes</segment>
+		<segment id="267" parent="266" relname="purpose-goal">使 自己 出汗 。 // Make yourself sweat.</segment>
+		<segment id="268" parent="492" relname="span">日常 生活 中 拜伦 多半 只 吃 素食 ， // In daily life, Byron mostly only eats vegetarian food.</segment>
+		<segment id="269" parent="491" relname="span">常常 几 天 只 靠 干 的 饼干 及 白 葡萄酒 维生 。 // Often subsisting on dry biscuits and white wine for a few days.</segment>
+		<segment id="270" parent="269" relname="adversative-concession">偶尔 他 会 吃 大量 的 肉 和 甜点 。 // Occasionally he eats lots of meat and desserts.</segment>
+		<segment id="271" parent="272" relname="attribution-positive">高尔特 和 其他 人 都 描述 // Galt and others describe</segment>
+		<segment id="272" parent="495" relname="span">拜伦 喜欢 暴力 的 运动 ， // Byron likes violent sports,</segment>
+		<segment id="273" parent="493" relname="attribution-positive">霍布豪斯 认为 // Hobhouse thinks</segment>
+		<segment id="274" parent="493" relname="joint-list">那 是 他 脚 畸形 的 疼痛 使得 身体 不 易 活动 ， // It was the pain of his deformed foot that made it difficult for him to move.</segment>
+		<segment id="275" parent="493" relname="joint-list">因此 也 造成 他 的 体重 问题 // It also caused his weight problems</segment>
+		<segment id="276" parent="496" relname="explanation-evidence">[ 21 ] 。 // [ twenty one ] .</segment>
+		<group id="277" type="multinuc" parent="280" relname="joint-list"/>
+		<group id="278" type="span" parent="8" relname="elaboration-additional"/>
+		<group id="279" type="span" parent="280" relname="joint-list"/>
+		<group id="280" type="multinuc" parent="283" relname="span"/>
+		<group id="281" type="span" parent="282" relname="same-unit"/>
+		<group id="282" type="multinuc" parent="280" relname="joint-list"/>
+		<group id="283" type="span" parent="289" relname="joint-other"/>
+		<group id="284" type="span" parent="285" relname="joint-list"/>
+		<group id="285" type="multinuc" parent="288" relname="span"/>
+		<group id="286" type="span" parent="287" relname="same-unit"/>
+		<group id="287" type="multinuc" parent="285" relname="joint-list"/>
+		<group id="288" type="span" parent="289" relname="joint-other"/>
+		<group id="289" type="multinuc" parent="509" relname="context-background"/>
+		<group id="290" type="span" parent="291" relname="same-unit"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="296" relname="joint-list"/>
+		<group id="294" type="multinuc" parent="295" relname="span"/>
+		<group id="295" type="span" parent="296" relname="joint-list"/>
+		<group id="296" type="multinuc" parent="297" relname="span"/>
+		<group id="297" type="span" parent="506" relname="span"/>
+		<group id="298" type="multinuc" parent="32" relname="causal-cause"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="297" relname="elaboration-additional"/>
+		<group id="301" type="multinuc" parent="303" relname="span"/>
+		<group id="302" type="multinuc" parent="301" relname="joint-sequence"/>
+		<group id="303" type="span" parent="503" relname="span"/>
+		<group id="304" type="multinuc" parent="305" relname="context-background"/>
+		<group id="305" type="multinuc" parent="307" relname="span"/>
+		<group id="306" type="span" parent="305" relname="joint-list"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" parent="303" relname="elaboration-additional"/>
+		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="310" type="span" parent="504" relname="span"/>
+		<group id="311" type="multinuc" parent="312" relname="span"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="310" relname="elaboration-additional"/>
+		<group id="314" type="span" parent="315" relname="same-unit"/>
+		<group id="315" type="multinuc" parent="316" relname="span"/>
+		<group id="316" type="span" parent="317" relname="joint-list"/>
+		<group id="317" type="multinuc" parent="53" relname="adversative-antithesis"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="505" relname="joint-sequence"/>
+		<group id="320" type="span" parent="322" relname="span"/>
+		<group id="321" type="multinuc" parent="322" relname="causal-result"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="324" relname="span"/>
+		<group id="324" type="span" parent="505" relname="joint-sequence"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="505" relname="joint-sequence"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" parent="505" relname="joint-sequence"/>
+		<group id="329" type="multinuc" parent="335" relname="span"/>
+		<group id="330" type="multinuc" parent="334" relname="adversative-contrast"/>
+		<group id="331" type="span" parent="330" relname="same-unit"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="334" relname="adversative-contrast"/>
+		<group id="334" type="multinuc" parent="335" relname="elaboration-additional"/>
 		<group id="335" type="span" parent="336" relname="span"/>
-		<group id="336" type="span" parent="526" relname="joint-sequence"/>
-		<group id="337" type="multinuc" parent="343" relname="span"/>
-		<group id="338" type="multinuc" parent="342" relname="adversative-contrast"/>
-		<group id="339" type="span" parent="338" relname="same-unit"/>
-		<group id="340" type="span" parent="341" relname="same-unit"/>
-		<group id="341" type="multinuc" parent="342" relname="adversative-contrast"/>
-		<group id="342" type="multinuc" parent="343" relname="elaboration-additional"/>
-		<group id="343" type="span" parent="344" relname="span"/>
-		<group id="344" type="span" parent="346" relname="span"/>
-		<group id="346" type="span" parent="526" relname="joint-sequence"/>
-		<group id="347" type="multinuc" parent="82" relname="evaluation-comment"/>
-		<group id="348" type="span" parent="349" relname="span"/>
-		<group id="349" type="span" parent="526" relname="joint-sequence"/>
-		<group id="350" type="span" parent="90" relname="elaboration-attribute"/>
-		<group id="351" type="span" parent="352" relname="same-unit"/>
+		<group id="336" type="span" parent="337" relname="span"/>
+		<group id="337" type="span" parent="505" relname="joint-sequence"/>
+		<group id="338" type="multinuc" parent="82" relname="evaluation-comment"/>
+		<group id="339" type="span" parent="340" relname="span"/>
+		<group id="340" type="span" parent="505" relname="joint-sequence"/>
+		<group id="341" type="span" parent="90" relname="elaboration-attribute"/>
+		<group id="342" type="span" parent="343" relname="same-unit"/>
+		<group id="343" type="multinuc" parent="348" relname="span"/>
+		<group id="344" type="span" parent="347" relname="span"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="349" relname="span"/>
+		<group id="347" type="span" parent="345" relname="causal-cause"/>
+		<group id="348" type="span" parent="344" relname="context-background"/>
+		<group id="349" type="span" parent="505" relname="joint-sequence"/>
+		<group id="350" type="multinuc" parent="351" relname="span"/>
+		<group id="351" type="span" parent="505" relname="joint-sequence"/>
 		<group id="352" type="multinuc" parent="357" relname="span"/>
-		<group id="353" type="span" parent="356" relname="span"/>
+		<group id="353" type="multinuc" parent="352" relname="evaluation-comment"/>
 		<group id="354" type="span" parent="355" relname="span"/>
-		<group id="355" type="span" parent="358" relname="span"/>
-		<group id="356" type="span" parent="354" relname="causal-cause"/>
-		<group id="357" type="span" parent="353" relname="context-background"/>
-		<group id="358" type="span" parent="526" relname="joint-sequence"/>
-		<group id="359" type="multinuc" parent="360" relname="span"/>
-		<group id="360" type="span" parent="526" relname="joint-sequence"/>
-		<group id="361" type="multinuc" parent="366" relname="span"/>
-		<group id="362" type="multinuc" parent="361" relname="evaluation-comment"/>
-		<group id="363" type="span" parent="364" relname="span"/>
-		<group id="364" type="span" parent="365" relname="span"/>
-		<group id="365" type="span" parent="370" relname="context-background"/>
-		<group id="366" type="span" parent="526" relname="joint-sequence"/>
-		<group id="367" type="span" parent="368" relname="same-unit"/>
-		<group id="368" type="multinuc" parent="113" relname="mode-means"/>
-		<group id="369" type="span" parent="370" relname="same-unit"/>
-		<group id="370" type="multinuc" parent="372" relname="span"/>
-		<group id="372" type="span" parent="373" relname="span"/>
-		<group id="373" type="span" parent="526" relname="joint-sequence"/>
-		<group id="374" type="multinuc" parent="380" relname="joint-sequence"/>
-		<group id="375" type="multinuc" parent="380" relname="joint-sequence"/>
-		<group id="376" type="span" parent="378" relname="joint-list"/>
-		<group id="377" type="multinuc" parent="376" relname="span"/>
-		<group id="378" type="multinuc" parent="379" relname="span"/>
-		<group id="379" type="span" parent="383" relname="span"/>
-		<group id="380" type="multinuc" parent="120" relname="context-background"/>
-		<group id="382" type="span" parent="378" relname="context-background"/>
-		<group id="383" type="span" parent="526" relname="joint-sequence"/>
-		<group id="384" type="multinuc" parent="385" relname="span"/>
-		<group id="385" type="span" parent="387" relname="joint-list"/>
-		<group id="386" type="span" parent="387" relname="joint-list"/>
-		<group id="387" type="multinuc" parent="388" relname="span"/>
-		<group id="388" type="span" parent="526" relname="joint-sequence"/>
-		<group id="389" type="span" parent="390" relname="context-circumstance"/>
-		<group id="390" type="multinuc" parent="399" relname="span"/>
-		<group id="391" type="span" parent="392" relname="same-unit"/>
-		<group id="392" type="multinuc" parent="390" relname="joint-list"/>
-		<group id="393" type="multinuc" parent="400" relname="joint-list"/>
+		<group id="355" type="span" parent="356" relname="span"/>
+		<group id="356" type="span" parent="361" relname="context-background"/>
+		<group id="357" type="span" parent="505" relname="joint-sequence"/>
+		<group id="358" type="span" parent="359" relname="same-unit"/>
+		<group id="359" type="multinuc" parent="113" relname="mode-means"/>
+		<group id="360" type="span" parent="361" relname="same-unit"/>
+		<group id="361" type="multinuc" parent="362" relname="span"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="505" relname="joint-sequence"/>
+		<group id="364" type="multinuc" parent="370" relname="joint-sequence"/>
+		<group id="365" type="multinuc" parent="370" relname="joint-sequence"/>
+		<group id="366" type="span" parent="368" relname="joint-list"/>
+		<group id="367" type="multinuc" parent="366" relname="span"/>
+		<group id="368" type="multinuc" parent="369" relname="span"/>
+		<group id="369" type="span" parent="372" relname="span"/>
+		<group id="370" type="multinuc" parent="120" relname="context-background"/>
+		<group id="371" type="span" parent="368" relname="context-background"/>
+		<group id="372" type="span" parent="505" relname="joint-sequence"/>
+		<group id="373" type="multinuc" parent="374" relname="span"/>
+		<group id="374" type="span" parent="376" relname="joint-list"/>
+		<group id="375" type="span" parent="376" relname="joint-list"/>
+		<group id="376" type="multinuc" parent="377" relname="span"/>
+		<group id="377" type="span" parent="505" relname="joint-sequence"/>
+		<group id="378" type="span" parent="379" relname="context-circumstance"/>
+		<group id="379" type="multinuc" parent="388" relname="span"/>
+		<group id="380" type="span" parent="381" relname="same-unit"/>
+		<group id="381" type="multinuc" parent="379" relname="joint-list"/>
+		<group id="382" type="multinuc" parent="389" relname="joint-list"/>
+		<group id="383" type="span" parent="384" relname="span"/>
+		<group id="384" type="span" parent="390" relname="joint-list"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="391" relname="span"/>
+		<group id="387" type="span" parent="390" relname="joint-list"/>
+		<group id="388" type="span" parent="389" relname="joint-list"/>
+		<group id="389" type="multinuc" parent="144" relname="context-background"/>
+		<group id="390" type="multinuc" parent="505" relname="joint-sequence"/>
+		<group id="391" type="span" parent="507" relname="span"/>
+		<group id="392" type="multinuc" parent="393" relname="span"/>
+		<group id="393" type="span" parent="394" relname="span"/>
 		<group id="394" type="span" parent="395" relname="span"/>
-		<group id="395" type="span" parent="401" relname="joint-list"/>
-		<group id="396" type="span" parent="397" relname="same-unit"/>
-		<group id="397" type="multinuc" parent="402" relname="span"/>
-		<group id="398" type="span" parent="401" relname="joint-list"/>
-		<group id="399" type="span" parent="400" relname="joint-list"/>
-		<group id="400" type="multinuc" parent="144" relname="context-background"/>
-		<group id="401" type="multinuc" parent="526" relname="joint-sequence"/>
-		<group id="402" type="span" parent="528" relname="span"/>
-		<group id="403" type="multinuc" parent="404" relname="span"/>
-		<group id="404" type="span" parent="405" relname="span"/>
-		<group id="405" type="span" parent="406" relname="span"/>
-		<group id="406" type="span" parent="408" relname="span"/>
-		<group id="408" type="span" parent="402" relname="elaboration-additional"/>
-		<group id="409" type="span" parent="414" relname="joint-list"/>
-		<group id="410" type="span" parent="411" relname="same-unit"/>
-		<group id="411" type="multinuc" parent="412" relname="joint-list"/>
-		<group id="412" type="multinuc" parent="415" relname="span"/>
-		<group id="414" type="multinuc" parent="452" relname="joint-other"/>
-		<group id="415" type="span" parent="414" relname="joint-list"/>
-		<group id="416" type="span" parent="414" relname="joint-list"/>
-		<group id="417" type="span" parent="418" relname="same-unit"/>
-		<group id="418" type="multinuc" parent="420" relname="context-background"/>
-		<group id="419" type="multinuc" parent="534" relname="span"/>
-		<group id="420" type="span" parent="449" relname="span"/>
-		<group id="421" type="span" parent="422" relname="same-unit"/>
-		<group id="422" type="multinuc" parent="179" relname="context-circumstance"/>
-		<group id="423" type="span" parent="424" relname="same-unit"/>
-		<group id="424" type="multinuc" parent="450" relname="span"/>
-		<group id="425" type="span" parent="426" relname="joint-list"/>
-		<group id="426" type="multinuc" parent="430" relname="adversative-contrast"/>
-		<group id="427" type="span" parent="428" relname="same-unit"/>
-		<group id="428" type="multinuc" parent="430" relname="adversative-contrast"/>
-		<group id="430" type="multinuc" parent="431" relname="span"/>
-		<group id="431" type="span" parent="448" relname="span"/>
-		<group id="432" type="span" parent="433" relname="span"/>
-		<group id="433" type="span" parent="431" relname="elaboration-additional"/>
-		<group id="434" type="span" parent="447" relname="joint-other"/>
-		<group id="435" type="span" parent="447" relname="joint-other"/>
-		<group id="436" type="span" parent="438" relname="span"/>
-		<group id="437" type="span" parent="436" relname="elaboration-additional"/>
-		<group id="438" type="span" parent="441" relname="joint-sequence"/>
-		<group id="439" type="span" parent="441" relname="joint-sequence"/>
-		<group id="440" type="span" parent="441" relname="joint-sequence"/>
-		<group id="441" type="multinuc" parent="442" relname="span"/>
-		<group id="442" type="span" parent="446" relname="joint-sequence"/>
+		<group id="395" type="span" parent="391" relname="elaboration-additional"/>
+		<group id="396" type="span" parent="400" relname="joint-list"/>
+		<group id="397" type="span" parent="398" relname="same-unit"/>
+		<group id="398" type="multinuc" parent="399" relname="joint-list"/>
+		<group id="399" type="multinuc" parent="401" relname="span"/>
+		<group id="400" type="multinuc" parent="437" relname="joint-other"/>
+		<group id="401" type="span" parent="400" relname="joint-list"/>
+		<group id="402" type="span" parent="400" relname="joint-list"/>
+		<group id="403" type="span" parent="404" relname="same-unit"/>
+		<group id="404" type="multinuc" parent="406" relname="context-background"/>
+		<group id="405" type="multinuc" parent="513" relname="span"/>
+		<group id="406" type="span" parent="434" relname="span"/>
+		<group id="407" type="span" parent="408" relname="same-unit"/>
+		<group id="408" type="multinuc" parent="179" relname="context-circumstance"/>
+		<group id="409" type="span" parent="410" relname="same-unit"/>
+		<group id="410" type="multinuc" parent="435" relname="span"/>
+		<group id="411" type="span" parent="412" relname="joint-list"/>
+		<group id="412" type="multinuc" parent="415" relname="adversative-contrast"/>
+		<group id="413" type="span" parent="414" relname="same-unit"/>
+		<group id="414" type="multinuc" parent="415" relname="adversative-contrast"/>
+		<group id="415" type="multinuc" parent="416" relname="span"/>
+		<group id="416" type="span" parent="433" relname="span"/>
+		<group id="417" type="span" parent="418" relname="span"/>
+		<group id="418" type="span" parent="416" relname="elaboration-additional"/>
+		<group id="419" type="span" parent="432" relname="joint-other"/>
+		<group id="420" type="span" parent="432" relname="joint-other"/>
+		<group id="421" type="span" parent="423" relname="span"/>
+		<group id="422" type="span" parent="421" relname="elaboration-additional"/>
+		<group id="423" type="span" parent="426" relname="joint-sequence"/>
+		<group id="424" type="span" parent="426" relname="joint-sequence"/>
+		<group id="425" type="span" parent="426" relname="joint-sequence"/>
+		<group id="426" type="multinuc" parent="427" relname="span"/>
+		<group id="427" type="span" parent="431" relname="joint-sequence"/>
+		<group id="428" type="span" parent="429" relname="same-unit"/>
+		<group id="429" type="multinuc" parent="430" relname="span"/>
+		<group id="430" type="span" parent="431" relname="joint-sequence"/>
+		<group id="431" type="multinuc" parent="437" relname="joint-other"/>
+		<group id="432" type="multinuc" parent="436" relname="joint-sequence"/>
+		<group id="433" type="span" parent="436" relname="joint-sequence"/>
+		<group id="434" type="span" parent="410" relname="adversative-concession"/>
+		<group id="435" type="span" parent="412" relname="joint-list"/>
+		<group id="436" type="multinuc" parent="437" relname="joint-other"/>
+		<group id="437" type="multinuc" parent="438" relname="span"/>
+		<group id="438" type="span" parent="508" relname="joint-sequence"/>
+		<group id="439" type="span" parent="440" relname="span"/>
+		<group id="440" type="span" parent="461" relname="context-background"/>
+		<group id="441" type="multinuc" parent="442" relname="same-unit"/>
+		<group id="442" type="multinuc" parent="450" relname="attribution-positive"/>
 		<group id="443" type="span" parent="444" relname="same-unit"/>
-		<group id="444" type="multinuc" parent="445" relname="span"/>
-		<group id="445" type="span" parent="446" relname="joint-sequence"/>
-		<group id="446" type="multinuc" parent="452" relname="joint-other"/>
-		<group id="447" type="multinuc" parent="451" relname="joint-sequence"/>
-		<group id="448" type="span" parent="451" relname="joint-sequence"/>
-		<group id="449" type="span" parent="424" relname="adversative-concession"/>
-		<group id="450" type="span" parent="426" relname="joint-list"/>
-		<group id="451" type="multinuc" parent="452" relname="joint-other"/>
-		<group id="452" type="multinuc" parent="453" relname="span"/>
-		<group id="453" type="span" parent="529" relname="joint-sequence"/>
-		<group id="454" type="span" parent="455" relname="span"/>
-		<group id="455" type="span" parent="477" relname="context-background"/>
-		<group id="456" type="multinuc" parent="457" relname="same-unit"/>
-		<group id="457" type="multinuc" parent="465" relname="attribution-positive"/>
-		<group id="458" type="span" parent="459" relname="same-unit"/>
-		<group id="459" type="multinuc" parent="464" relname="joint-list"/>
-		<group id="460" type="multinuc" parent="462" relname="causal-cause"/>
-		<group id="461" type="span" parent="462" relname="same-unit"/>
-		<group id="462" type="multinuc" parent="463" relname="span"/>
-		<group id="463" type="span" parent="464" relname="explanation-justify"/>
-		<group id="464" type="multinuc" parent="465" relname="span"/>
-		<group id="465" type="span" parent="467" relname="span"/>
-		<group id="467" type="span" parent="468" relname="span"/>
-		<group id="468" type="span" parent="476" relname="adversative-contrast"/>
-		<group id="469" type="span" parent="470" relname="same-unit"/>
-		<group id="470" type="multinuc" parent="473" relname="attribution-positive"/>
+		<group id="444" type="multinuc" parent="449" relname="joint-list"/>
+		<group id="445" type="multinuc" parent="447" relname="causal-cause"/>
+		<group id="446" type="span" parent="447" relname="same-unit"/>
+		<group id="447" type="multinuc" parent="448" relname="span"/>
+		<group id="448" type="span" parent="449" relname="explanation-justify"/>
+		<group id="449" type="multinuc" parent="450" relname="span"/>
+		<group id="450" type="span" parent="451" relname="span"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" parent="460" relname="adversative-contrast"/>
+		<group id="453" type="span" parent="454" relname="same-unit"/>
+		<group id="454" type="multinuc" parent="457" relname="attribution-positive"/>
+		<group id="455" type="span" parent="456" relname="span"/>
+		<group id="456" type="span" parent="457" relname="same-unit"/>
+		<group id="457" type="multinuc" parent="458" relname="span"/>
+		<group id="458" type="span" parent="459" relname="span"/>
+		<group id="459" type="span" parent="460" relname="adversative-contrast"/>
+		<group id="460" type="multinuc" parent="211" relname="explanation-justify"/>
+		<group id="461" type="span" parent="462" relname="span"/>
+		<group id="462" type="span" parent="463" relname="span"/>
+		<group id="463" type="span" parent="501" relname="joint-other"/>
+		<group id="464" type="span" parent="465" relname="span"/>
+		<group id="465" type="span" parent="474" relname="span"/>
+		<group id="466" type="span" parent="468" relname="joint-list"/>
+		<group id="467" type="span" parent="468" relname="joint-list"/>
+		<group id="468" type="multinuc" parent="469" relname="span"/>
+		<group id="469" type="span" parent="465" relname="elaboration-additional"/>
+		<group id="470" type="multinuc" parent="471" relname="span"/>
 		<group id="471" type="span" parent="472" relname="span"/>
-		<group id="472" type="span" parent="473" relname="same-unit"/>
-		<group id="473" type="multinuc" parent="474" relname="span"/>
-		<group id="474" type="span" parent="475" relname="span"/>
-		<group id="475" type="span" parent="476" relname="adversative-contrast"/>
-		<group id="476" type="multinuc" parent="211" relname="explanation-justify"/>
-		<group id="477" type="span" parent="478" relname="span"/>
+		<group id="472" type="span" parent="473" relname="span"/>
+		<group id="473" type="span" parent="475" relname="joint-other"/>
+		<group id="474" type="span" parent="475" relname="joint-other"/>
+		<group id="475" type="multinuc" parent="476" relname="span"/>
+		<group id="476" type="span" parent="501" relname="joint-other"/>
+		<group id="477" type="multinuc" parent="500" relname="span"/>
 		<group id="478" type="span" parent="479" relname="span"/>
-		<group id="479" type="span" parent="522" relname="joint-other"/>
-		<group id="480" type="span" parent="481" relname="span"/>
-		<group id="481" type="span" parent="492" relname="span"/>
-		<group id="482" type="span" parent="484" relname="joint-list"/>
-		<group id="483" type="span" parent="484" relname="joint-list"/>
-		<group id="484" type="multinuc" parent="485" relname="span"/>
-		<group id="485" type="span" parent="481" relname="elaboration-additional"/>
-		<group id="486" type="multinuc" parent="487" relname="span"/>
-		<group id="487" type="span" parent="490" relname="span"/>
-		<group id="488" type="multinuc" parent="487" relname="elaboration-additional"/>
-		<group id="489" type="span" parent="488" relname="same-unit"/>
-		<group id="490" type="span" parent="491" relname="span"/>
-		<group id="491" type="span" parent="493" relname="joint-other"/>
-		<group id="492" type="span" parent="493" relname="joint-other"/>
+		<group id="479" type="span" parent="477" relname="joint-other"/>
+		<group id="480" type="multinuc" parent="253" relname="evaluation-comment"/>
+		<group id="481" type="span" parent="482" relname="span"/>
+		<group id="482" type="span" parent="477" relname="joint-other"/>
+		<group id="483" type="multinuc" parent="477" relname="joint-other"/>
+		<group id="484" type="span" parent="485" relname="same-unit"/>
+		<group id="485" type="multinuc" parent="488" relname="context-background"/>
+		<group id="486" type="span" parent="487" relname="same-unit"/>
+		<group id="487" type="multinuc" parent="488" relname="span"/>
+		<group id="488" type="span" parent="499" relname="span"/>
+		<group id="489" type="multinuc" parent="499" relname="explanation-evidence"/>
+		<group id="490" type="span" parent="489" relname="joint-list"/>
+		<group id="491" type="span" parent="268" relname="elaboration-additional"/>
+		<group id="492" type="span" parent="489" relname="joint-list"/>
 		<group id="493" type="multinuc" parent="494" relname="span"/>
-		<group id="494" type="span" parent="522" relname="joint-other"/>
-		<group id="495" type="span" parent="496" relname="same-unit"/>
-		<group id="496" type="multinuc" parent="253" relname="elaboration-attribute"/>
-		<group id="497" type="span" parent="504" relname="joint-list"/>
-		<group id="498" type="multinuc" parent="521" relname="span"/>
-		<group id="499" type="span" parent="500" relname="span"/>
-		<group id="500" type="span" parent="498" relname="joint-other"/>
-		<group id="501" type="multinuc" parent="258" relname="evaluation-comment"/>
-		<group id="502" type="span" parent="503" relname="span"/>
-		<group id="503" type="span" parent="498" relname="joint-other"/>
-		<group id="504" type="multinuc" parent="498" relname="joint-other"/>
-		<group id="505" type="span" parent="506" relname="same-unit"/>
-		<group id="506" type="multinuc" parent="509" relname="context-background"/>
-		<group id="507" type="span" parent="508" relname="same-unit"/>
-		<group id="508" type="multinuc" parent="509" relname="span"/>
-		<group id="509" type="span" parent="520" relname="span"/>
-		<group id="510" type="multinuc" parent="520" relname="explanation-evidence"/>
-		<group id="511" type="span" parent="510" relname="joint-list"/>
-		<group id="512" type="span" parent="273" relname="elaboration-additional"/>
-		<group id="513" type="span" parent="510" relname="joint-list"/>
-		<group id="514" type="multinuc" parent="515" relname="span"/>
-		<group id="515" type="span" parent="517" relname="joint-list"/>
-		<group id="516" type="span" parent="517" relname="joint-list"/>
-		<group id="517" type="multinuc" parent="518" relname="span"/>
-		<group id="518" type="span" parent="498" relname="joint-other"/>
-		<group id="519" type="span" parent="498" relname="joint-other"/>
-		<group id="520" type="span" parent="519" relname="span"/>
-		<group id="521" type="span" parent="522" relname="joint-other"/>
-		<group id="522" type="multinuc" parent="523" relname="span"/>
-		<group id="523" type="span" parent="530" relname="joint-other"/>
-		<group id="524" type="span" parent="526" relname="joint-sequence"/>
-		<group id="525" type="span" parent="526" relname="joint-sequence"/>
-		<group id="526" type="multinuc" parent="529" relname="joint-sequence"/>
-		<group id="527" type="span" parent="526" relname="joint-sequence"/>
-		<group id="528" type="span" parent="526" relname="joint-sequence"/>
-		<group id="529" type="multinuc" parent="533" relname="span"/>
-		<group id="530" type="multinuc" parent="531" relname="span"/>
-		<group id="531" type="span" parent="532" relname="span"/>
-		<group id="532" type="span" />
-		<group id="533" type="span" parent="530" relname="joint-other"/>
-		<group id="534" type="span" parent="420" relname="span"/>
+		<group id="494" type="span" parent="496" relname="joint-list"/>
+		<group id="495" type="span" parent="496" relname="joint-list"/>
+		<group id="496" type="multinuc" parent="497" relname="span"/>
+		<group id="497" type="span" parent="477" relname="joint-other"/>
+		<group id="498" type="span" parent="477" relname="joint-other"/>
+		<group id="499" type="span" parent="498" relname="span"/>
+		<group id="500" type="span" parent="501" relname="joint-other"/>
+		<group id="501" type="multinuc" parent="502" relname="span"/>
+		<group id="502" type="span" parent="509" relname="joint-other"/>
+		<group id="503" type="span" parent="505" relname="joint-sequence"/>
+		<group id="504" type="span" parent="505" relname="joint-sequence"/>
+		<group id="505" type="multinuc" parent="508" relname="joint-sequence"/>
+		<group id="506" type="span" parent="505" relname="joint-sequence"/>
+		<group id="507" type="span" parent="505" relname="joint-sequence"/>
+		<group id="508" type="multinuc" parent="512" relname="span"/>
+		<group id="509" type="multinuc" parent="510" relname="span"/>
+		<group id="510" type="span" parent="511" relname="span"/>
+		<group id="511" type="span" />
+		<group id="512" type="span" parent="509" relname="joint-other"/>
+		<group id="513" type="span" parent="406" relname="span"/>
+		<group id="514" type="span" parent="392" relname="attribution-positive"/>
 	</body>
 </rst>
