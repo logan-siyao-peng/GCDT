@@ -34,13 +34,15 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 				m_end = int(m.end(2))
 				m_text = m.group(2).strip()
 				print(m_text)
-				m_trans = translator.translate(m_text)
-				if re.match(r"^\d+$", m_text) or m_trans == None:
+				if re.match(r"^\d+$", m_text):
 					# list of special cases here:
 					# - do not translate numbers
 					# - * * *
-					
 					m_trans = m_text
+				else:
+					m_trans = translator.translate(m_text)
+					if m_trans == None:
+						m_trans = m_text
 				
 				m_trans = m_trans.replace(" & ", " &amp; ").strip()
 				
