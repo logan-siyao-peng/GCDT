@@ -36,653 +36,649 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="654" relname="organization-heading">如何 用 短信 调情</segment>
-		<segment id="2" parent="337" relname="organization-phatic">这么 说</segment>
-		<segment id="3" parent="336" relname="attribution-positive">你 打算</segment>
-		<segment id="4" parent="335" relname="mode-means">利用 简讯 、 微信 、 Whatsapp 等 即时 通讯 工具</segment>
-		<segment id="5" parent="335" relname="joint-list">撩撩 妹 、</segment>
-		<segment id="6" parent="335" relname="joint-list">调调 情 ，</segment>
-		<segment id="7" parent="339" relname="adversative-contrast">又 不 想 显得 太 主动 ， 甚至 猥琐 ？</segment>
+		<segment id="1" parent="642" relname="organization-heading">如何 用 短信 调情</segment>
+		<segment id="2" parent="335" relname="organization-phatic">这么 说</segment>
+		<segment id="3" parent="334" relname="attribution-positive">你 打算</segment>
+		<segment id="4" parent="333" relname="mode-means">利用 简讯 、 微信 、 Whatsapp 等 即时 通讯 工具</segment>
+		<segment id="5" parent="333" relname="joint-list">撩撩 妹 、</segment>
+		<segment id="6" parent="333" relname="joint-list">调调 情 ，</segment>
+		<segment id="7" parent="337" relname="adversative-contrast">又 不 想 显得 太 主动 ， 甚至 猥琐 ？</segment>
 		<segment id="8" parent="9" relname="attribution-positive">那么 恭喜</segment>
-		<segment id="9" parent="340" relname="span">你 找对 地方 了 ！</segment>
-		<segment id="10" parent="342" relname="attribution-positive">你 懂得</segment>
+		<segment id="9" parent="338" relname="span">你 找对 地方 了 ！</segment>
+		<segment id="10" parent="340" relname="attribution-positive">你 懂得</segment>
 		<segment id="11" parent="12" relname="context-circumstance">在 下手 之前</segment>
-		<segment id="12" parent="342" relname="span">先 做 功课 ，</segment>
-		<segment id="13" parent="344" relname="same-unit">就 已经 比 无数 调情 竞争 对手 强 得 多 了 。</segment>
-		<segment id="14" parent="348" relname="mode-manner">从 第一 个 步骤 逐一 看起 ，</segment>
-		<segment id="15" parent="346" relname="same-unit">学习 如何 在</segment>
+		<segment id="12" parent="340" relname="span">先 做 功课 ，</segment>
+		<segment id="13" parent="342" relname="same-unit">就 已经 比 无数 调情 竞争 对手 强 得 多 了 。</segment>
+		<segment id="14" parent="346" relname="mode-manner">从 第一 个 步骤 逐一 看起 ，</segment>
+		<segment id="15" parent="344" relname="same-unit">学习 如何 在</segment>
 		<segment id="16" parent="17" relname="elaboration-attribute">尊重 对方 的</segment>
-		<segment id="17" parent="345" relname="span">基础 上 充分 调动 你 的 机智</segment>
-		<segment id="18" parent="348" relname="joint-list">和 心仪 的 对象 调情 吧 。</segment>
+		<segment id="17" parent="343" relname="span">基础 上 充分 调动 你 的 机智</segment>
+		<segment id="18" parent="346" relname="joint-list">和 心仪 的 对象 调情 吧 。</segment>
 		<segment id="19" parent="20" relname="organization-preparation">方法 1</segment>
-		<segment id="20" parent="616" relname="span">该 做 什么</segment>
-		<segment id="21" parent="390" relname="organization-preparation">1 对话 的 开始 一定 要 轻松 随意 。</segment>
-		<segment id="22" parent="351" relname="mode-manner">和 线下 世界 一样 ，</segment>
-		<segment id="23" parent="351" relname="joint-list">调情 的 第一 步 永远 是 打破 沉默 ，</segment>
-		<segment id="24" parent="351" relname="joint-list">和 对方 展开 交流 。</segment>
-		<segment id="25" parent="354" relname="span">可以 向 对方 发 个 简短 的 信息</segment>
+		<segment id="20" parent="604" relname="span">该 做 什么</segment>
+		<segment id="21" parent="388" relname="organization-preparation">1 对话 的 开始 一定 要 轻松 随意 。</segment>
+		<segment id="22" parent="349" relname="mode-manner">和 线下 世界 一样 ，</segment>
+		<segment id="23" parent="349" relname="joint-list">调情 的 第一 步 永远 是 打破 沉默 ，</segment>
+		<segment id="24" parent="349" relname="joint-list">和 对方 展开 交流 。</segment>
+		<segment id="25" parent="352" relname="span">可以 向 对方 发 个 简短 的 信息</segment>
 		<segment id="26" parent="27" relname="attribution-positive">询问</segment>
-		<segment id="27" parent="353" relname="span">这 一 天 过得 怎么样 ，</segment>
-		<segment id="28" parent="356" relname="same-unit">也 可以</segment>
+		<segment id="27" parent="351" relname="span">这 一 天 过得 怎么样 ，</segment>
+		<segment id="28" parent="354" relname="same-unit">也 可以</segment>
 		<segment id="29" parent="30" relname="elaboration-additional">针对 对方 的 工作 或者 学习</segment>
-		<segment id="30" parent="355" relname="span">问 个 具体 的 问题 ，</segment>
-		<segment id="31" parent="357" relname="joint-list">哪 怕 简简单单 打声 招呼 也 行 。</segment>
-		<segment id="32" parent="359" relname="same-unit">其实 调情 最 难 的 是 最初 突破</segment>
+		<segment id="30" parent="353" relname="span">问 个 具体 的 问题 ，</segment>
+		<segment id="31" parent="355" relname="joint-list">哪 怕 简简单单 打声 招呼 也 行 。</segment>
+		<segment id="32" parent="357" relname="same-unit">其实 调情 最 难 的 是 最初 突破</segment>
 		<segment id="33" parent="34" relname="elaboration-attribute">你 给 自己 设置 的</segment>
-		<segment id="34" parent="358" relname="span">心理 防线 。</segment>
+		<segment id="34" parent="356" relname="span">心理 防线 。</segment>
 		<segment id="35" parent="36" relname="attribution-positive">如果 你 还是 害怕</segment>
-		<segment id="36" parent="360" relname="span">迈出 这 第一 步 ，</segment>
-		<segment id="37" parent="365" relname="attribution-positive">可以 试 着 告诉 自己 ，</segment>
-		<segment id="38" parent="364" relname="contingency-condition">哪怕 结果 再 不济 ，</segment>
-		<segment id="39" parent="364" relname="same-unit">也 比</segment>
-		<segment id="40" parent="361" relname="span">面对面 向 对方 发起 进攻</segment>
+		<segment id="36" parent="358" relname="span">迈出 这 第一 步 ，</segment>
+		<segment id="37" parent="363" relname="attribution-positive">可以 试 着 告诉 自己 ，</segment>
+		<segment id="38" parent="362" relname="contingency-condition">哪怕 结果 再 不济 ，</segment>
+		<segment id="39" parent="362" relname="same-unit">也 比</segment>
+		<segment id="40" parent="359" relname="span">面对面 向 对方 发起 进攻</segment>
 		<segment id="41" parent="40" relname="causal-result">失败</segment>
-		<segment id="42" parent="362" relname="same-unit">的</segment>
-		<segment id="43" parent="363" relname="span">情形 要 好 得 多 。</segment>
+		<segment id="42" parent="360" relname="same-unit">的</segment>
+		<segment id="43" parent="361" relname="span">情形 要 好 得 多 。</segment>
 		<segment id="44" parent="45" relname="mode-means">通过 微信 等 即时 通讯 工具</segment>
-		<segment id="45" parent="368" relname="span">调情 其实 真 没 什么 好 紧张 的 。</segment>
+		<segment id="45" parent="366" relname="span">调情 其实 真 没 什么 好 紧张 的 。</segment>
 		<segment id="46" parent="47" relname="contingency-condition">即便 对方 不 想 和 你 对话 ，</segment>
-		<segment id="47" parent="369" relname="span">也 可以 不 选择 完全 回复 了事 ，</segment>
+		<segment id="47" parent="367" relname="span">也 可以 不 选择 完全 回复 了事 ，</segment>
 		<segment id="48" parent="49" relname="organization-preparation">而 从 你 这 一 边 来看 ，</segment>
-		<segment id="49" parent="370" relname="span">和 对方 刚好 没有 看到 你 的 信息 也 没有 任何 区别 ，</segment>
-		<segment id="50" parent="370" relname="evaluation-comment">无所谓 尴尬 。</segment>
-		<segment id="51" parent="373" relname="organization-preparation">说 起来 ，</segment>
-		<segment id="52" parent="372" relname="contingency-condition">如果 你 和 对方 根本 不 熟 ，</segment>
+		<segment id="49" parent="368" relname="span">和 对方 刚好 没有 看到 你 的 信息 也 没有 任何 区别 ，</segment>
+		<segment id="50" parent="368" relname="evaluation-comment">无所谓 尴尬 。</segment>
+		<segment id="51" parent="371" relname="organization-preparation">说 起来 ，</segment>
+		<segment id="52" parent="370" relname="contingency-condition">如果 你 和 对方 根本 不 熟 ，</segment>
 		<segment id="53" parent="54" relname="mode-means">利用 通讯 工具</segment>
-		<segment id="54" parent="372" relname="span">发起 对话 还 可以 避免 尴尬 。</segment>
-		<segment id="55" parent="376" relname="same-unit">你 可以 向 对方 咨询</segment>
+		<segment id="54" parent="370" relname="span">发起 对话 还 可以 避免 尴尬 。</segment>
+		<segment id="55" parent="374" relname="same-unit">你 可以 向 对方 咨询</segment>
 		<segment id="56" parent="57" relname="elaboration-attribute">与 工作 或者 学习 有关 的</segment>
-		<segment id="57" parent="375" relname="span">问题</segment>
-		<segment id="58" parent="376" relname="evaluation-comment">就 是 个 不错 的 法子 。</segment>
+		<segment id="57" parent="373" relname="span">问题</segment>
+		<segment id="58" parent="374" relname="evaluation-comment">就 是 个 不错 的 法子 。</segment>
 		<segment id="59" parent="60" relname="contingency-condition">如果 对方 有 什么 特长 ，</segment>
-		<segment id="60" parent="378" relname="span">也 可以 就 此 展开 交流 。</segment>
-		<segment id="61" parent="380" relname="contingency-condition">比如说 ， 如果 对方 的 昵称 和 某 个 乐队 有关 ，</segment>
-		<segment id="62" parent="379" relname="attribution-positive">可以 这样 问 ：</segment>
+		<segment id="60" parent="376" relname="span">也 可以 就 此 展开 交流 。</segment>
+		<segment id="61" parent="378" relname="contingency-condition">比如说 ， 如果 对方 的 昵称 和 某 个 乐队 有关 ，</segment>
+		<segment id="62" parent="377" relname="attribution-positive">可以 这样 问 ：</segment>
 		<segment id="63" parent="64" relname="organization-preparation">“ 你 的 昵称 真 不错 ，</segment>
-		<segment id="64" parent="379" relname="span">去 过 某某 乐队 的 演唱会 吗 ？ ”</segment>
-		<segment id="65" parent="424" relname="organization-preparation">2 可以 稍作 寒暄 。</segment>
-		<segment id="66" parent="392" relname="context-circumstance">交换 过 亲切 友好 的 问候 之后 ，</segment>
-		<segment id="67" parent="392" relname="joint-list">就 可以 稍稍 寒暄 几 句 ，</segment>
+		<segment id="64" parent="377" relname="span">去 过 某某 乐队 的 演唱会 吗 ？ ”</segment>
+		<segment id="65" parent="422" relname="organization-preparation">2 可以 稍作 寒暄 。</segment>
+		<segment id="66" parent="390" relname="context-circumstance">交换 过 亲切 友好 的 问候 之后 ，</segment>
+		<segment id="67" parent="390" relname="joint-list">就 可以 稍稍 寒暄 几 句 ，</segment>
 		<segment id="68" parent="69" relname="attribution-positive">问问</segment>
-		<segment id="69" parent="420" relname="span">对方 最近 过 得 如何 了 。</segment>
-		<segment id="70" parent="396" relname="joint-list">可以 问候 对方 的 工作 、 学习 情况 ，</segment>
-		<segment id="71" parent="395" relname="same-unit">也 可以</segment>
+		<segment id="69" parent="418" relname="span">对方 最近 过 得 如何 了 。</segment>
+		<segment id="70" parent="394" relname="joint-list">可以 问候 对方 的 工作 、 学习 情况 ，</segment>
+		<segment id="71" parent="393" relname="same-unit">也 可以</segment>
 		<segment id="72" parent="73" relname="mode-means">根据 对方 的 兴趣 爱好 、 最近 的 旅行 经历 等</segment>
-		<segment id="73" parent="394" relname="span">提问 。</segment>
+		<segment id="73" parent="392" relname="span">提问 。</segment>
 		<segment id="74" parent="75" relname="context-background">除了 直接 问 人家 问题 ，</segment>
-		<segment id="75" parent="418" relname="span">还 可以 给出 你 自己 的 看法 。</segment>
-		<segment id="76" parent="399" relname="context-circumstance">等 对方 回答 你 的 问题 之后 ，</segment>
-		<segment id="77" parent="399" relname="joint-list">就 可以 简单 地 说 几 句 你 自己 的 看法 ，</segment>
-		<segment id="78" parent="398" relname="same-unit">或者</segment>
+		<segment id="75" parent="416" relname="span">还 可以 给出 你 自己 的 看法 。</segment>
+		<segment id="76" parent="397" relname="context-circumstance">等 对方 回答 你 的 问题 之后 ，</segment>
+		<segment id="77" parent="397" relname="joint-list">就 可以 简单 地 说 几 句 你 自己 的 看法 ，</segment>
+		<segment id="78" parent="396" relname="same-unit">或者</segment>
 		<segment id="79" parent="80" relname="mode-means">根据 对方 的 回答</segment>
-		<segment id="80" parent="397" relname="span">进一步 问 问题 。</segment>
-		<segment id="81" parent="416" relname="organization-preparation">但是 要 记住 ，</segment>
-		<segment id="82" parent="416" relname="joint-list">不 要 打探 对方 的 个人 生活 ，</segment>
-		<segment id="83" parent="416" relname="joint-list">一定 要 将 对话 气氛 控制 在 轻松 有趣 的 范围 之内 。</segment>
-		<segment id="84" parent="402" relname="span">不过 寒暄 问候 的 话题 不 要 拖 得 太 长 ，</segment>
-		<segment id="85" parent="401" relname="adversative-contrast">一 两 分钟 破冰 足矣 ，</segment>
-		<segment id="86" parent="401" relname="adversative-contrast">再 长 就 无聊 了 。</segment>
-		<segment id="87" parent="414" relname="organization-preparation">举 个 例子 ，</segment>
-		<segment id="88" parent="404" relname="same-unit">问过 对方</segment>
+		<segment id="80" parent="395" relname="span">进一步 问 问题 。</segment>
+		<segment id="81" parent="414" relname="organization-preparation">但是 要 记住 ，</segment>
+		<segment id="82" parent="414" relname="joint-list">不 要 打探 对方 的 个人 生活 ，</segment>
+		<segment id="83" parent="414" relname="joint-list">一定 要 将 对话 气氛 控制 在 轻松 有趣 的 范围 之内 。</segment>
+		<segment id="84" parent="400" relname="span">不过 寒暄 问候 的 话题 不 要 拖 得 太 长 ，</segment>
+		<segment id="85" parent="399" relname="adversative-contrast">一 两 分钟 破冰 足矣 ，</segment>
+		<segment id="86" parent="399" relname="adversative-contrast">再 长 就 无聊 了 。</segment>
+		<segment id="87" parent="412" relname="organization-preparation">举 个 例子 ，</segment>
+		<segment id="88" parent="402" relname="same-unit">问过 对方</segment>
 		<segment id="89" parent="90" relname="elaboration-attribute">以 乐队 取名 的</segment>
-		<segment id="90" parent="403" relname="span">昵称 之后 ，</segment>
-		<segment id="91" parent="405" relname="attribution-positive">很 自然 地 可以 继续 问</segment>
-		<segment id="92" parent="405" relname="joint-list">对方 喜欢 什么样 的 音乐 ，</segment>
-		<segment id="93" parent="405" relname="joint-list">不 喜欢 什么样 的 音乐 。</segment>
-		<segment id="94" parent="412" relname="span">你 还 可以 给出 自己 的 想法 ，</segment>
-		<segment id="95" parent="410" relname="attribution-positive">比如 可以 说 ：</segment>
-		<segment id="96" parent="408" relname="contingency-condition">“ 如果 你 喜欢 某某 乐队 ，</segment>
-		<segment id="97" parent="408" relname="span">我 再 向 你 推荐 一 个 某某某 乐队 ，</segment>
-		<segment id="98" parent="407" relname="span">他们 风格 很 像 ，</segment>
+		<segment id="90" parent="401" relname="span">昵称 之后 ，</segment>
+		<segment id="91" parent="403" relname="attribution-positive">很 自然 地 可以 继续 问</segment>
+		<segment id="92" parent="403" relname="joint-list">对方 喜欢 什么样 的 音乐 ，</segment>
+		<segment id="93" parent="403" relname="joint-list">不 喜欢 什么样 的 音乐 。</segment>
+		<segment id="94" parent="410" relname="span">你 还 可以 给出 自己 的 想法 ，</segment>
+		<segment id="95" parent="408" relname="attribution-positive">比如 可以 说 ：</segment>
+		<segment id="96" parent="406" relname="contingency-condition">“ 如果 你 喜欢 某某 乐队 ，</segment>
+		<segment id="97" parent="406" relname="span">我 再 向 你 推荐 一 个 某某某 乐队 ，</segment>
+		<segment id="98" parent="405" relname="span">他们 风格 很 像 ，</segment>
 		<segment id="99" parent="98" relname="adversative-concession">只是 风格 更 偏 黑暗系 一些 。</segment>
-		<segment id="100" parent="410" relname="joint-list">你 还 喜欢 其他 什么 乐队 ？ ”</segment>
-		<segment id="101" parent="462" relname="organization-preparation">3 适当 开 玩笑 。</segment>
-		<segment id="102" parent="443" relname="span">恰到好处 的 幽默 每 个 人 都 喜欢 。</segment>
-		<segment id="103" parent="426" relname="attribution-positive">玛丽莲·梦露 就 说 过 ，</segment>
+		<segment id="100" parent="408" relname="joint-list">你 还 喜欢 其他 什么 乐队 ？ ”</segment>
+		<segment id="101" parent="458" relname="organization-preparation">3 适当 开 玩笑 。</segment>
+		<segment id="102" parent="441" relname="span">恰到好处 的 幽默 每 个 人 都 喜欢 。</segment>
+		<segment id="103" parent="424" relname="attribution-positive">玛丽莲·梦露 就 说 过 ，</segment>
 		<segment id="104" parent="105" relname="contingency-condition">“ 如果 你 能 让 一 个 女人 笑 ，</segment>
-		<segment id="105" parent="426" relname="span">你 就 能 让 她 做 任何 事 。 ”</segment>
+		<segment id="105" parent="424" relname="span">你 就 能 让 她 做 任何 事 。 ”</segment>
 		<segment id="106" parent="107" relname="organization-phatic">（ 别 担心 ，</segment>
-		<segment id="107" parent="427" relname="span">对 男士 一样 适用 ）</segment>
-		<segment id="108" parent="429" relname="joint-list">所以 就 放松 你 紧绷 的 神经 ，</segment>
-		<segment id="109" parent="429" relname="joint-list">充分 发挥 你 的 幽默 才智 吧 ，</segment>
-		<segment id="110" parent="433" relname="same-unit">即使</segment>
+		<segment id="107" parent="425" relname="span">对 男士 一样 适用 ）</segment>
+		<segment id="108" parent="427" relname="joint-list">所以 就 放松 你 紧绷 的 神经 ，</segment>
+		<segment id="109" parent="427" relname="joint-list">充分 发挥 你 的 幽默 才智 吧 ，</segment>
+		<segment id="110" parent="431" relname="same-unit">即使</segment>
 		<segment id="111" parent="112" relname="mode-means">根据 情况</segment>
-		<segment id="112" parent="432" relname="span">稍稍 吐槽 一下</segment>
-		<segment id="113" parent="434" relname="span">也 无伤 大雅 。</segment>
+		<segment id="112" parent="430" relname="span">稍稍 吐槽 一下</segment>
+		<segment id="113" parent="432" relname="span">也 无伤 大雅 。</segment>
 		<segment id="114" parent="115" relname="attribution-positive">例如 ， 如果 对方 问</segment>
-		<segment id="115" parent="435" relname="span">你 忙 什么 呢 ，</segment>
+		<segment id="115" parent="433" relname="span">你 忙 什么 呢 ，</segment>
 		<segment id="116" parent="117" relname="attribution-negative">不 要 说</segment>
-		<segment id="117" parent="436" relname="span">“ 在 找人 勾搭 ” ，</segment>
-		<segment id="118" parent="440" relname="joint-list">可以 显得 调侃 一些 ，</segment>
-		<segment id="119" parent="438" relname="attribution-positive">说 ：</segment>
-		<segment id="120" parent="438" relname="joint-list">“ 正在 写 一 本 有史以来 最 伟大 的 书 ”</segment>
-		<segment id="121" parent="439" relname="joint-list">或者 “ 正在 举杯</segment>
-		<segment id="122" parent="439" relname="joint-list">望月 ，</segment>
-		<segment id="123" parent="439" relname="joint-list">伤春</segment>
-		<segment id="124" parent="439" relname="joint-list">悲秋 中 ” 等等 。</segment>
-		<segment id="125" parent="459" relname="same-unit">你 还 可以</segment>
+		<segment id="117" parent="434" relname="span">“ 在 找人 勾搭 ” ，</segment>
+		<segment id="118" parent="438" relname="joint-list">可以 显得 调侃 一些 ，</segment>
+		<segment id="119" parent="436" relname="attribution-positive">说 ：</segment>
+		<segment id="120" parent="436" relname="joint-list">“ 正在 写 一 本 有史以来 最 伟大 的 书 ”</segment>
+		<segment id="121" parent="437" relname="joint-list">或者 “ 正在 举杯</segment>
+		<segment id="122" parent="437" relname="joint-list">望月 ，</segment>
+		<segment id="123" parent="437" relname="joint-list">伤春</segment>
+		<segment id="124" parent="437" relname="joint-list">悲秋 中 ” 等等 。</segment>
+		<segment id="125" parent="455" relname="same-unit">你 还 可以</segment>
 		<segment id="126" parent="127" relname="mode-means">利用 这样 的 回答</segment>
-		<segment id="127" parent="458" relname="span">来 暗示 对方 你 的 兴趣 所 在 ，</segment>
-		<segment id="128" parent="445" relname="joint-list">如 你 业余 时间 确实 喜欢 写 东西 ，</segment>
-		<segment id="129" parent="445" relname="joint-list">或者 你 是 个 品酒 行家 等 。</segment>
-		<segment id="130" parent="447" relname="same-unit">还是</segment>
+		<segment id="127" parent="454" relname="span">来 暗示 对方 你 的 兴趣 所 在 ，</segment>
+		<segment id="128" parent="443" relname="joint-list">如 你 业余 时间 确实 喜欢 写 东西 ，</segment>
+		<segment id="129" parent="443" relname="joint-list">或者 你 是 个 品酒 行家 等 。</segment>
+		<segment id="130" parent="445" relname="same-unit">还是</segment>
 		<segment id="131" parent="132" relname="elaboration-attribute">刚刚 举 过 的</segment>
-		<segment id="132" parent="446" relname="span">乐队 的 例子 ， 你 可以 在</segment>
+		<segment id="132" parent="444" relname="span">乐队 的 例子 ， 你 可以 在</segment>
 		<segment id="133" parent="134" relname="elaboration-attribute">讨论 音乐 的</segment>
-		<segment id="134" parent="448" relname="span">时候 夹带 一 两 句 幽默 的 话 。</segment>
-		<segment id="135" parent="455" relname="attribution-positive">比如 ， 你 可以 说 ：</segment>
+		<segment id="134" parent="446" relname="span">时候 夹带 一 两 句 幽默 的 话 。</segment>
+		<segment id="135" parent="451" relname="attribution-positive">比如 ， 你 可以 说 ：</segment>
 		<segment id="136" parent="137" relname="attribution-negative">“ 我 也 不 明白</segment>
-		<segment id="137" parent="451" relname="span">最近 的 音乐 频道 里 为什么 总 放 某某 的 歌 ，</segment>
-		<segment id="138" parent="454" relname="same-unit">难道 他</segment>
+		<segment id="137" parent="447" relname="span">最近 的 音乐 频道 里 为什么 总 放 某某 的 歌 ，</segment>
+		<segment id="138" parent="450" relname="same-unit">难道 他</segment>
 		<segment id="139" parent="140" relname="elaboration-attribute">忙于 戒掉 嗑药 之</segment>
-		<segment id="140" parent="452" relname="span">余</segment>
-		<segment id="141" parent="453" relname="span">还 有 时间 录歌 ？ ”</segment>
-		<segment id="142" parent="497" relname="organization-preparation">4 适当 的 时候 可以 稍作 挑逗 之 语 。</segment>
-		<segment id="143" parent="465" relname="contingency-condition">待到 你 和 对方 已经 建立 了 轻松 友好 的 聊天 伙伴 关系 ，</segment>
-		<segment id="144" parent="465" relname="joint-list">就 可以 稍稍 再 进一步 ，</segment>
-		<segment id="145" parent="465" relname="joint-list">偶尔 用 适当 的 话 挑逗 对方 一下 了 。</segment>
+		<segment id="140" parent="448" relname="span">余</segment>
+		<segment id="141" parent="449" relname="span">还 有 时间 录歌 ？ ”</segment>
+		<segment id="142" parent="489" relname="organization-preparation">4 适当 的 时候 可以 稍作 挑逗 之 语 。</segment>
+		<segment id="143" parent="460" relname="contingency-condition">待到 你 和 对方 已经 建立 了 轻松 友好 的 聊天 伙伴 关系 ，</segment>
+		<segment id="144" parent="460" relname="joint-list">就 可以 稍稍 再 进一步 ，</segment>
+		<segment id="145" parent="460" relname="joint-list">偶尔 用 适当 的 话 挑逗 对方 一下 了 。</segment>
 		<segment id="146" parent="147" relname="attribution-positive">但是 一定 要 谨记 ，</segment>
-		<segment id="147" parent="466" relname="span">聊天 的 气氛 依然 要 保持 轻松 。</segment>
-		<segment id="148" parent="470" relname="same-unit">一 个 通用 规则 是 ，</segment>
+		<segment id="147" parent="461" relname="span">聊天 的 气氛 依然 要 保持 轻松 。</segment>
+		<segment id="148" parent="465" relname="same-unit">一 个 通用 规则 是 ，</segment>
 		<segment id="149" parent="150" relname="contingency-condition">你 和 对方 越 熟 ，</segment>
-		<segment id="150" parent="469" relname="span">你 的 话 就 可以 尺度 越 大 一些 。</segment>
+		<segment id="150" parent="464" relname="span">你 的 话 就 可以 尺度 越 大 一些 。</segment>
 		<segment id="151" parent="152" relname="adversative-concession">即使 是 挑逗 ，</segment>
-		<segment id="152" parent="471" relname="span">也 要 注意 分寸 。</segment>
-		<segment id="153" parent="473" relname="same-unit">首先 ， 避免 提及</segment>
+		<segment id="152" parent="466" relname="span">也 要 注意 分寸 。</segment>
+		<segment id="153" parent="468" relname="same-unit">首先 ， 避免 提及</segment>
 		<segment id="154" parent="155" relname="elaboration-attribute">涉嫌 窥探 对方 隐私 的</segment>
-		<segment id="155" parent="472" relname="span">话题 ，</segment>
-		<segment id="156" parent="474" relname="joint-list">其次 ， 也 不 要 拿 对方 的 职业 、 梦想 等等 开 玩笑 。</segment>
-		<segment id="157" parent="475" relname="joint-disjunction">是 调情</segment>
-		<segment id="158" parent="475" relname="joint-disjunction">还是 骚扰</segment>
-		<segment id="159" parent="476" relname="span">有 时候 区别 就 在 一 线 之间 ，</segment>
-		<segment id="160" parent="658" relname="span">因此 ， 不 确定 的 时候 ， 方法 还是 保守 一些 为 妙 。</segment>
-		<segment id="161" parent="481" relname="joint-sequence">过 一会 再 想 一 个 好 玩笑</segment>
-		<segment id="162" parent="481" relname="joint-sequence">发 过去 ，</segment>
-		<segment id="163" parent="482" relname="joint-sequence">总 比 你 弄得 对方 不 自在 ，</segment>
-		<segment id="164" parent="482" relname="joint-sequence">然后 又 试图 给 自己 解释</segment>
-		<segment id="165" parent="483" relname="same-unit">要 容易 得 多 。</segment>
-		<segment id="166" parent="491" relname="context-background">还是 用 上文 提到 的 例子 ，</segment>
-		<segment id="167" parent="486" relname="span">如果 你 这样 说 ，</segment>
+		<segment id="155" parent="467" relname="span">话题 ，</segment>
+		<segment id="156" parent="469" relname="joint-list">其次 ， 也 不 要 拿 对方 的 职业 、 梦想 等等 开 玩笑 。</segment>
+		<segment id="157" parent="470" relname="joint-disjunction">是 调情</segment>
+		<segment id="158" parent="470" relname="joint-disjunction">还是 骚扰</segment>
+		<segment id="159" parent="471" relname="span">有 时候 区别 就 在 一 线 之间 ，</segment>
+		<segment id="160" parent="646" relname="span">因此 ， 不 确定 的 时候 ， 方法 还是 保守 一些 为 妙 。</segment>
+		<segment id="161" parent="474" relname="joint-sequence">过 一会 再 想 一 个 好 玩笑</segment>
+		<segment id="162" parent="474" relname="joint-sequence">发 过去 ，</segment>
+		<segment id="163" parent="475" relname="joint-sequence">总 比 你 弄得 对方 不 自在 ，</segment>
+		<segment id="164" parent="475" relname="joint-sequence">然后 又 试图 给 自己 解释</segment>
+		<segment id="165" parent="476" relname="same-unit">要 容易 得 多 。</segment>
+		<segment id="166" parent="484" relname="context-background">还是 用 上文 提到 的 例子 ，</segment>
+		<segment id="167" parent="479" relname="span">如果 你 这样 说 ，</segment>
 		<segment id="168" parent="167" relname="evaluation-comment">是 在 开 对方 玩笑 ：</segment>
 		<segment id="169" parent="170" relname="organization-phatic">“ 啥 ？</segment>
-		<segment id="170" parent="485" relname="span">你 喜欢 那 个 乐队 ，</segment>
-		<segment id="171" parent="484" relname="adversative-contrast">看 不 出来 啊 …… ”</segment>
-		<segment id="172" parent="488" relname="attribution-positive">而 如果 你 说</segment>
-		<segment id="173" parent="488" relname="joint-list">“ 那 个 乐队 很 装逼 ，</segment>
-		<segment id="174" parent="488" relname="joint-list">他们 的 粉丝 也 很 差劲 ”</segment>
-		<segment id="175" parent="490" relname="span">对方 就 很 可能 会 生气 了 。</segment>
-		<segment id="176" parent="520" relname="organization-preparation">5 学会 使用 表情 。</segment>
+		<segment id="170" parent="478" relname="span">你 喜欢 那 个 乐队 ，</segment>
+		<segment id="171" parent="477" relname="adversative-contrast">看 不 出来 啊 …… ”</segment>
+		<segment id="172" parent="481" relname="attribution-positive">而 如果 你 说</segment>
+		<segment id="173" parent="481" relname="joint-list">“ 那 个 乐队 很 装逼 ，</segment>
+		<segment id="174" parent="481" relname="joint-list">他们 的 粉丝 也 很 差劲 ”</segment>
+		<segment id="175" parent="483" relname="span">对方 就 很 可能 会 生气 了 。</segment>
+		<segment id="176" parent="508" relname="organization-preparation">5 学会 使用 表情 。</segment>
 		<segment id="177" parent="178" relname="elaboration-attribute">利用 通讯 工具</segment>
-		<segment id="178" parent="500" relname="span">调情 的 一 大 好处 就 是 你 可以 使用 表情 ，</segment>
-		<segment id="179" parent="501" relname="adversative-contrast">而 其他 一些 方式 ， 如 电子 邮件 ， 则 不 方便 这么 做 。</segment>
-		<segment id="180" parent="656" relname="contingency-condition">有 了 表情 符号 的 帮助 ，</segment>
+		<segment id="178" parent="491" relname="span">调情 的 一 大 好处 就 是 你 可以 使用 表情 ，</segment>
+		<segment id="179" parent="492" relname="adversative-contrast">而 其他 一些 方式 ， 如 电子 邮件 ， 则 不 方便 这么 做 。</segment>
+		<segment id="180" parent="644" relname="contingency-condition">有 了 表情 符号 的 帮助 ，</segment>
 		<segment id="181" parent="182" relname="elaboration-attribute">你 想 表达 的</segment>
-		<segment id="182" parent="502" relname="span">意思 也 会 更加 明确 、 生动 。</segment>
+		<segment id="182" parent="493" relname="span">意思 也 会 更加 明确 、 生动 。</segment>
 		<segment id="183" parent="184" relname="elaboration-attribute">挑逗 对方 的</segment>
-		<segment id="184" parent="657" relname="span">时候 ， 可以 多 用用 眨眼 和 吐 舌头 这样 的 表情 。</segment>
-		<segment id="185" parent="517" relname="span">使用 聊天 工具 的 内置 表情 即可 ，</segment>
-		<segment id="186" parent="506" relname="joint-list">这样 既 可以 让 你 的 目的 既 呼之欲出 ，</segment>
-		<segment id="187" parent="506" relname="joint-list">又 稍稍 有 所 保留 。</segment>
+		<segment id="184" parent="645" relname="span">时候 ， 可以 多 用用 眨眼 和 吐 舌头 这样 的 表情 。</segment>
+		<segment id="185" parent="506" relname="span">使用 聊天 工具 的 内置 表情 即可 ，</segment>
+		<segment id="186" parent="495" relname="joint-list">这样 既 可以 让 你 的 目的 既 呼之欲出 ，</segment>
+		<segment id="187" parent="495" relname="joint-list">又 稍稍 有 所 保留 。</segment>
 		<segment id="188" parent="189" relname="attribution-positive">同时 要 注意 ，</segment>
-		<segment id="189" parent="507" relname="span">不 要 滥用 表情 符号 。</segment>
-		<segment id="190" parent="509" relname="same-unit">表情 符号</segment>
+		<segment id="189" parent="496" relname="span">不 要 滥用 表情 符号 。</segment>
+		<segment id="190" parent="498" relname="same-unit">表情 符号</segment>
 		<segment id="191" parent="192" relname="mode-manner">就 像 糖 一样 ，</segment>
-		<segment id="192" parent="508" relname="span">点到 即可 ，</segment>
-		<segment id="193" parent="511" relname="same-unit">可以 让</segment>
+		<segment id="192" parent="497" relname="span">点到 即可 ，</segment>
+		<segment id="193" parent="500" relname="same-unit">可以 让</segment>
 		<segment id="194" parent="195" relname="elaboration-attribute">你 表达 的</segment>
-		<segment id="195" parent="510" relname="span">意思 更加 清楚 。</segment>
+		<segment id="195" parent="499" relname="span">意思 更加 清楚 。</segment>
 		<segment id="196" parent="197" relname="contingency-condition">而 如果 你 用 得 太 多 ，</segment>
-		<segment id="197" parent="513" relname="span">就 显得 幼稚 、</segment>
-		<segment id="198" parent="513" relname="causal-result">让 人 厌烦 了 。</segment>
-		<segment id="199" parent="523" relname="same-unit">6</segment>
+		<segment id="197" parent="502" relname="span">就 显得 幼稚 、</segment>
+		<segment id="198" parent="502" relname="causal-result">让 人 厌烦 了 。</segment>
+		<segment id="199" parent="511" relname="same-unit">6</segment>
 		<segment id="200" parent="201" relname="contingency-condition">如果 收效 显著 ，</segment>
-		<segment id="201" parent="522" relname="span">那么 就 可以 趁热打铁 了 。</segment>
-		<segment id="202" parent="525" relname="same-unit">要是</segment>
+		<segment id="201" parent="510" relname="span">那么 就 可以 趁热打铁 了 。</segment>
+		<segment id="202" parent="513" relname="same-unit">要是</segment>
 		<segment id="203" parent="204" relname="elaboration-attribute">你 发给 对方 的</segment>
-		<segment id="204" parent="524" relname="span">笑话 和 调侃 的 话 对方 也 用 幽默 的 语言 来 回应 ，</segment>
-		<segment id="205" parent="526" relname="span">那么 你 就 可以 趁机 更 进一步 。</segment>
-		<segment id="206" parent="527" relname="attribution-positive">记住 ，</segment>
-		<segment id="207" parent="527" relname="joint-list">动作 一定 要 轻 ，</segment>
-		<segment id="208" parent="527" relname="joint-list">不 要 从 轻松 的 调情 一下子 进入 限制级 内容 模式 。</segment>
-		<segment id="209" parent="550" relname="span">相反 ， 要 擅用 含蓄 的 表达 。</segment>
-		<segment id="210" parent="531" relname="same-unit">这 种 方法 其实</segment>
-		<segment id="211" parent="529" relname="joint-list">不论 是 在 聊天 工具 的 交流 中</segment>
-		<segment id="212" parent="529" relname="joint-list">还是 现实 世界 的 交流 中 ，</segment>
-		<segment id="213" parent="530" relname="span">都 很 有 帮助 。</segment>
-		<segment id="214" parent="532" relname="joint-list">不 要 把 气氛 搞 得 太 严肃 ，</segment>
-		<segment id="215" parent="532" relname="joint-list">一定 要 自始至终 保持 轻松 的 聊天 气氛 。</segment>
+		<segment id="204" parent="512" relname="span">笑话 和 调侃 的 话 对方 也 用 幽默 的 语言 来 回应 ，</segment>
+		<segment id="205" parent="514" relname="span">那么 你 就 可以 趁机 更 进一步 。</segment>
+		<segment id="206" parent="515" relname="attribution-positive">记住 ，</segment>
+		<segment id="207" parent="515" relname="joint-list">动作 一定 要 轻 ，</segment>
+		<segment id="208" parent="515" relname="joint-list">不 要 从 轻松 的 调情 一下子 进入 限制级 内容 模式 。</segment>
+		<segment id="209" parent="538" relname="span">相反 ， 要 擅用 含蓄 的 表达 。</segment>
+		<segment id="210" parent="519" relname="same-unit">这 种 方法 其实</segment>
+		<segment id="211" parent="517" relname="joint-list">不论 是 在 聊天 工具 的 交流 中</segment>
+		<segment id="212" parent="517" relname="joint-list">还是 现实 世界 的 交流 中 ，</segment>
+		<segment id="213" parent="518" relname="span">都 很 有 帮助 。</segment>
+		<segment id="214" parent="520" relname="joint-list">不 要 把 气氛 搞 得 太 严肃 ，</segment>
+		<segment id="215" parent="520" relname="joint-list">一定 要 自始至终 保持 轻松 的 聊天 气氛 。</segment>
 		<segment id="216" parent="217" relname="causal-cause">其实 任何 调情 行为 都 有点 自作 聪明 的 意味 ，</segment>
-		<segment id="217" parent="533" relname="span">所以 你 也 就 不 用 显得 一本正经 ， 或者 一 副 志在必得 的 模样 ，</segment>
-		<segment id="218" parent="534" relname="adversative-contrast">这样 也 会 让 你 显得 更 坦诚 ，</segment>
-		<segment id="219" parent="534" relname="adversative-contrast">而 不 是 更 猥琐 。</segment>
-		<segment id="220" parent="536" relname="same-unit">还是 用</segment>
+		<segment id="217" parent="521" relname="span">所以 你 也 就 不 用 显得 一本正经 ， 或者 一 副 志在必得 的 模样 ，</segment>
+		<segment id="218" parent="522" relname="adversative-contrast">这样 也 会 让 你 显得 更 坦诚 ，</segment>
+		<segment id="219" parent="522" relname="adversative-contrast">而 不 是 更 猥琐 。</segment>
+		<segment id="220" parent="524" relname="same-unit">还是 用</segment>
 		<segment id="221" parent="222" relname="elaboration-attribute">我们 提到 的</segment>
-		<segment id="222" parent="537" relname="span">乐队 的 例子 ，</segment>
-		<segment id="223" parent="538" relname="attribution-positive">如果 对方 说 他 / 她 说</segment>
-		<segment id="224" parent="538" relname="joint-list">觉得 一 首 歌 很 不错 ，</segment>
-		<segment id="225" parent="538" relname="joint-list">曲调 撩人 ，</segment>
-		<segment id="226" parent="538" relname="joint-list">歌词 暧昧 ，</segment>
-		<segment id="227" parent="541" relname="same-unit">你 就 既 可以</segment>
+		<segment id="222" parent="525" relname="span">乐队 的 例子 ，</segment>
+		<segment id="223" parent="526" relname="attribution-positive">如果 对方 说 他 / 她 说</segment>
+		<segment id="224" parent="526" relname="joint-list">觉得 一 首 歌 很 不错 ，</segment>
+		<segment id="225" parent="526" relname="joint-list">曲调 撩人 ，</segment>
+		<segment id="226" parent="526" relname="joint-list">歌词 暧昧 ，</segment>
+		<segment id="227" parent="529" relname="same-unit">你 就 既 可以</segment>
 		<segment id="228" parent="229" relname="mode-manner">假装 严肃 地</segment>
-		<segment id="229" parent="540" relname="span">回应 道 ：</segment>
-		<segment id="230" parent="542" relname="restatement-repetition">“ 严肃 点 ，</segment>
-		<segment id="231" parent="542" relname="restatement-repetition">严肃 点 ，</segment>
-		<segment id="232" parent="542" relname="organization-phatic">咳咳 ”</segment>
+		<segment id="229" parent="528" relname="span">回应 道 ：</segment>
+		<segment id="230" parent="530" relname="restatement-repetition">“ 严肃 点 ，</segment>
+		<segment id="231" parent="530" relname="restatement-repetition">严肃 点 ，</segment>
+		<segment id="232" parent="530" relname="organization-phatic">咳咳 ”</segment>
 		<segment id="233" parent="234" relname="attribution-positive">或者 说 ：</segment>
-		<segment id="234" parent="545" relname="span">“ 不 是 吧 ？ ”</segment>
-		<segment id="235" parent="552" relname="joint-list">再 配 一 个 暧昧 的 表情 符号 。</segment>
-		<segment id="236" parent="588" relname="same-unit">7</segment>
-		<segment id="237" parent="556" relname="contingency-condition">而 如果 对方 显得 不 怎么 积极 ，</segment>
-		<segment id="238" parent="556" relname="joint-list">那么 就 知趣 点</segment>
-		<segment id="239" parent="556" relname="joint-list">及时 收手 吧 。</segment>
+		<segment id="234" parent="533" relname="span">“ 不 是 吧 ？ ”</segment>
+		<segment id="235" parent="540" relname="joint-list">再 配 一 个 暧昧 的 表情 符号 。</segment>
+		<segment id="236" parent="576" relname="same-unit">7</segment>
+		<segment id="237" parent="544" relname="contingency-condition">而 如果 对方 显得 不 怎么 积极 ，</segment>
+		<segment id="238" parent="544" relname="joint-list">那么 就 知趣 点</segment>
+		<segment id="239" parent="544" relname="joint-list">及时 收手 吧 。</segment>
 		<segment id="240" parent="241" relname="adversative-concession">不论 是 用 何 种 方式</segment>
-		<segment id="241" parent="558" relname="span">试图 和 他人 调情 ，</segment>
-		<segment id="242" parent="558" relname="elaboration-additional">被 拒绝 都 是 一 种 可能 。</segment>
+		<segment id="241" parent="546" relname="span">试图 和 他人 调情 ，</segment>
+		<segment id="242" parent="546" relname="elaboration-additional">被 拒绝 都 是 一 种 可能 。</segment>
 		<segment id="243" parent="244" relname="mode-means">利用 社交 网络</segment>
-		<segment id="244" parent="560" relname="span">进行 调情 成本 低 ，</segment>
-		<segment id="245" parent="562" relname="same-unit">又 没有</segment>
+		<segment id="244" parent="548" relname="span">进行 调情 成本 低 ，</segment>
+		<segment id="245" parent="550" relname="same-unit">又 没有</segment>
 		<segment id="246" parent="247" relname="context-circumstance">面对面 交流 时</segment>
-		<segment id="247" parent="561" relname="span">拉不下 脸 的</segment>
-		<segment id="248" parent="563" relname="span">问题 ，</segment>
-		<segment id="249" parent="566" relname="same-unit">其实</segment>
-		<segment id="250" parent="251" relname="elaboration-attribute">被 拒绝 的</segment>
-		<segment id="251" parent="565" relname="span">概率 更 高 。</segment>
-		<segment id="252" parent="253" relname="adversative-concession">如果 你 使劲 浑身解数</segment>
-		<segment id="253" parent="568" relname="span">都 只 是 剃头挑子一头热 ，</segment>
-		<segment id="254" parent="569" relname="joint-list">那么 就 趁早 作罢 ，</segment>
-		<segment id="255" parent="569" relname="joint-list">礼貌 地 结束 话题 。</segment>
-		<segment id="256" parent="571" relname="attribution-positive">你 可以 说</segment>
-		<segment id="257" parent="571" relname="joint-list">你 有事</segment>
-		<segment id="258" parent="571" relname="joint-list">要 去 忙 了 ，</segment>
-		<segment id="259" parent="572" relname="explanation-justify">工作 、 学习 、 睡觉 都 可以 当做 借口 。</segment>
-		<segment id="260" parent="574" relname="adversative-antithesis">用 什么 具体 的 借口 不 重要 ，</segment>
-		<segment id="261" parent="574" relname="same-unit">重要 的 是</segment>
-		<segment id="262" parent="575" relname="attribution-positive">这么 做 表明</segment>
-		<segment id="263" parent="575" relname="joint-list">你 尊重 对方 的 意愿 ，</segment>
-		<segment id="264" parent="576" relname="span">不 会 强行 把 谈话 进行 下去</segment>
-		<segment id="265" parent="264" relname="causal-result">让 两 方 都 尴尬 。</segment>
-		<segment id="266" parent="583" relname="organization-phatic">举例 说 ，</segment>
-		<segment id="267" parent="582" relname="adversative-contrast">如果 你 提到 一 首 具体 的 歌 ，</segment>
-		<segment id="268" parent="577" relname="attribution-positive">而 对方 说</segment>
-		<segment id="269" parent="577" relname="same-unit">这 是</segment>
-		<segment id="270" parent="271" relname="elaboration-attribute">他 / 她 另 一 半 最 喜欢 的</segment>
-		<segment id="271" parent="578" relname="span">歌 ，</segment>
-		<segment id="272" parent="580" relname="attribution-positive">那么 过 一会 你 就 可以 不动声色 地 说 ，</segment>
-		<segment id="273" parent="580" relname="joint-list">“ 我 有事</segment>
-		<segment id="274" parent="580" relname="joint-list">先 下线 了 ，</segment>
-		<segment id="275" parent="580" relname="joint-list">以后 聊 。 ”</segment>
-		<segment id="276" parent="595" relname="same-unit">8 记得 做</segment>
-		<segment id="277" parent="278" relname="elaboration-attribute">先 结束 对话 的</segment>
-		<segment id="278" parent="594" relname="span">那 个 人 。</segment>
-		<segment id="279" parent="280" relname="elaboration-attribute">在线 调情 的</segment>
-		<segment id="280" parent="596" relname="span">一 个 好 方法 ， 就 是 要 让 对方 回味 无穷 ，</segment>
-		<segment id="281" parent="596" relname="elaboration-additional">这 一 点 在 线下 同样 适用 。</segment>
-		<segment id="282" parent="600" relname="same-unit">在 虚拟 世界 的 调情 中 ，</segment>
-		<segment id="283" parent="284" relname="elaboration-attribute">先 结束 对话 的</segment>
-		<segment id="284" parent="599" relname="span">方法 可以 是</segment>
-		<segment id="285" parent="286" relname="context-circumstance">在 对话 即将 失去 热度 时</segment>
-		<segment id="286" parent="598" relname="span">简短 地 说 再见 。</segment>
-		<segment id="287" parent="601" relname="adversative-contrast">这样一来 ， 对方 在 这 段 对话 中 得到 的 只 有 乐趣 和 充满 趣味 回忆 ，</segment>
-		<segment id="288" parent="602" relname="adversative-contrast">而 不 是 聊天 聊到 强弩之末 ，</segment>
-		<segment id="289" parent="602" relname="adversative-contrast">你 却 没有 结束 的 意思 ，</segment>
-		<segment id="290" parent="604" relname="same-unit">对方 只 能</segment>
-		<segment id="291" parent="292" relname="elaboration-attribute">绞尽 脑汁 找 话 说 的</segment>
-		<segment id="292" parent="605" relname="span">尴尬 。</segment>
-		<segment id="293" parent="606" relname="contingency-condition">如果 对方 一直 都 对 你 积极 回应 ，</segment>
-		<segment id="294" parent="606" relname="span">那么 就 可以 想 办法</segment>
-		<segment id="295" parent="294" relname="purpose-goal">给 对方 留下 一 个 难忘 的 告别 了 。</segment>
-		<segment id="296" parent="610" relname="span">这 个 时候 ， 表情 就 又 派上用场 了 。</segment>
-		<segment id="297" parent="608" relname="adversative-concession">例如 ， 给 对方 发 “ 晚安 ” 可能 显得 很 平淡 ，</segment>
-		<segment id="298" parent="608" relname="joint-list">而 晚安 后面 配 一 个 表情 ， 就 生动 得 多 ，</segment>
-		<segment id="299" parent="608" relname="joint-list">也 显得 贴心 得 多 。</segment>
-		<segment id="300" parent="301" relname="organization-preparation">方法 2</segment>
-		<segment id="301" parent="617" relname="span">不 该 做 什么</segment>
-		<segment id="302" parent="619" relname="organization-preparation">1 不 要 说 妄自菲薄 的 话 。</segment>
-		<segment id="303" parent="619" relname="span">自信 是 最 有 魅力 的 。</segment>
-		<segment id="304" parent="305" relname="adversative-concession">这 一 点 在 现实 世界 中 要 比 虚拟 世界 里 还 重要 ，</segment>
-		<segment id="305" parent="618" relname="span">但是 聊天 工具 的 使用 中 ， 也 要 注意 保持 自信 。</segment>
-		<segment id="306" parent="307" relname="adversative-concession">例如 ， 不 要 总是 说 些 自黑 的 玩笑 ，</segment>
-		<segment id="307" parent="625" relname="span">偶尔 一 个 就 足够 了 ，</segment>
-		<segment id="308" parent="620" relname="adversative-contrast">而 不 要 一而再 再而三 地 拿 自己 开涮 ，</segment>
-		<segment id="309" parent="620" relname="adversative-antithesis">不然 很 快 对话 中 的 调情 意味 就 被 你 的 不 自信 和 缺乏 安全感 给 淹没 了 。</segment>
-		<segment id="310" parent="622" relname="span">另 一 方面 ， 也 不 要 黑 别人</segment>
-		<segment id="311" parent="310" relname="purpose-goal">来 开 玩笑 ，</segment>
-		<segment id="312" parent="623" relname="joint-list">不然 就 显得 你 既 心眼 不 好</segment>
-		<segment id="313" parent="623" relname="joint-list">又 小家子气 。</segment>
-		<segment id="314" parent="626" relname="evaluation-comment">所有 对 自己 或者 别人 的 消极 评价 都 要 避免 。</segment>
-		<segment id="315" parent="647" relname="organization-preparation">2 不 要 过于 殷勤 。</segment>
-		<segment id="316" parent="631" relname="organization-preparation">调情 重 在 乐趣 。</segment>
-		<segment id="317" parent="630" relname="organization-preparation">对 大多数 人 来说 ，</segment>
-		<segment id="318" parent="630" relname="adversative-contrast">适当 听听 恭维话 感觉 很 爽 ，</segment>
-		<segment id="319" parent="630" relname="adversative-contrast">但是 太 多 了 就 尴尬 了 。</segment>
-		<segment id="320" parent="644" relname="joint-list">这么 做 也 会 让 对方 质疑 你 的 动机 ，</segment>
-		<segment id="321" parent="632" relname="attribution-positive">让 人 觉得</segment>
-		<segment id="322" parent="323" relname="causal-cause">你 是 别有所图</segment>
-		<segment id="323" parent="632" relname="span">才 想 接近 对方 。</segment>
-		<segment id="324" parent="636" relname="joint-list">此外 ， 在 对话框 里 说 再 多 好听 的 话 也 是 廉价 的 ，</segment>
-		<segment id="325" parent="634" relname="same-unit">而且</segment>
-		<segment id="326" parent="327" relname="contingency-condition">越 多</segment>
-		<segment id="327" parent="633" relname="span">越 适得其反 。</segment>
-		<segment id="328" parent="329" relname="adversative-antithesis">语气 把 心思 花在 没完没了 地 恭维 上 ，</segment>
-		<segment id="329" parent="637" relname="span">不如 用心 和 对方 进行 真诚 有趣 的 交流 。</segment>
-		<segment id="330" parent="641" relname="span">你 的 原则 应该 是 “ 表现 重于 表达 ” 。</segment>
-		<segment id="331" parent="639" relname="organization-phatic">也就是说 ，</segment>
-		<segment id="332" parent="333" relname="mode-means">通过 用心 的 交流 态度</segment>
-		<segment id="333" parent="638" relname="span">向 对方 表达 你 的 尊重 和 欣赏 ，</segment>
-		<segment id="334" parent="639" relname="adversative-contrast">而 不 是 直白 地 说 出来 。</segment>
-		<group id="335" type="multinuc" parent="336" relname="span"/>
-		<group id="336" type="span" parent="337" relname="span"/>
-		<group id="337" type="span" parent="338" relname="span"/>
-		<group id="338" type="span" parent="339" relname="adversative-contrast"/>
-		<group id="339" type="multinuc" parent="340" relname="contingency-condition"/>
+		<segment id="247" parent="549" relname="span">拉不下 脸 的</segment>
+		<segment id="248" parent="551" relname="span">问题 ，</segment>
+		<segment id="249" parent="550" relname="adversative-concession">其实 被 拒绝 的 概率 更 高 。</segment>
+		<segment id="250" parent="251" relname="adversative-concession">如果 你 使劲 浑身解数</segment>
+		<segment id="251" parent="556" relname="span">都 只 是 剃头挑子一头热 ，</segment>
+		<segment id="252" parent="557" relname="joint-list">那么 就 趁早 作罢 ，</segment>
+		<segment id="253" parent="557" relname="joint-list">礼貌 地 结束 话题 。</segment>
+		<segment id="254" parent="559" relname="attribution-positive">你 可以 说</segment>
+		<segment id="255" parent="559" relname="joint-list">你 有事</segment>
+		<segment id="256" parent="559" relname="joint-list">要 去 忙 了 ，</segment>
+		<segment id="257" parent="560" relname="explanation-justify">工作 、 学习 、 睡觉 都 可以 当做 借口 。</segment>
+		<segment id="258" parent="562" relname="adversative-antithesis">用 什么 具体 的 借口 不 重要 ，</segment>
+		<segment id="259" parent="562" relname="same-unit">重要 的 是</segment>
+		<segment id="260" parent="563" relname="attribution-positive">这么 做 表明</segment>
+		<segment id="261" parent="563" relname="joint-list">你 尊重 对方 的 意愿 ，</segment>
+		<segment id="262" parent="564" relname="span">不 会 强行 把 谈话 进行 下去</segment>
+		<segment id="263" parent="262" relname="causal-result">让 两 方 都 尴尬 。</segment>
+		<segment id="264" parent="571" relname="organization-phatic">举例 说 ，</segment>
+		<segment id="265" parent="570" relname="adversative-contrast">如果 你 提到 一 首 具体 的 歌 ，</segment>
+		<segment id="266" parent="565" relname="attribution-positive">而 对方 说</segment>
+		<segment id="267" parent="565" relname="same-unit">这 是</segment>
+		<segment id="268" parent="269" relname="elaboration-attribute">他 / 她 另 一 半 最 喜欢 的</segment>
+		<segment id="269" parent="566" relname="span">歌 ，</segment>
+		<segment id="270" parent="568" relname="attribution-positive">那么 过 一会 你 就 可以 不动声色 地 说 ，</segment>
+		<segment id="271" parent="568" relname="joint-list">“ 我 有事</segment>
+		<segment id="272" parent="568" relname="joint-list">先 下线 了 ，</segment>
+		<segment id="273" parent="568" relname="joint-list">以后 聊 。 ”</segment>
+		<segment id="274" parent="583" relname="same-unit">8 记得 做</segment>
+		<segment id="275" parent="276" relname="elaboration-attribute">先 结束 对话 的</segment>
+		<segment id="276" parent="582" relname="span">那 个 人 。</segment>
+		<segment id="277" parent="278" relname="elaboration-attribute">在线 调情 的</segment>
+		<segment id="278" parent="584" relname="span">一 个 好 方法 ， 就 是 要 让 对方 回味 无穷 ，</segment>
+		<segment id="279" parent="584" relname="elaboration-additional">这 一 点 在 线下 同样 适用 。</segment>
+		<segment id="280" parent="588" relname="same-unit">在 虚拟 世界 的 调情 中 ，</segment>
+		<segment id="281" parent="282" relname="elaboration-attribute">先 结束 对话 的</segment>
+		<segment id="282" parent="587" relname="span">方法 可以 是</segment>
+		<segment id="283" parent="284" relname="context-circumstance">在 对话 即将 失去 热度 时</segment>
+		<segment id="284" parent="586" relname="span">简短 地 说 再见 。</segment>
+		<segment id="285" parent="589" relname="adversative-contrast">这样一来 ， 对方 在 这 段 对话 中 得到 的 只 有 乐趣 和 充满 趣味 回忆 ，</segment>
+		<segment id="286" parent="590" relname="adversative-contrast">而 不 是 聊天 聊到 强弩之末 ，</segment>
+		<segment id="287" parent="590" relname="adversative-contrast">你 却 没有 结束 的 意思 ，</segment>
+		<segment id="288" parent="592" relname="same-unit">对方 只 能</segment>
+		<segment id="289" parent="290" relname="elaboration-attribute">绞尽 脑汁 找 话 说 的</segment>
+		<segment id="290" parent="593" relname="span">尴尬 。</segment>
+		<segment id="291" parent="594" relname="contingency-condition">如果 对方 一直 都 对 你 积极 回应 ，</segment>
+		<segment id="292" parent="594" relname="span">那么 就 可以 想 办法</segment>
+		<segment id="293" parent="292" relname="purpose-goal">给 对方 留下 一 个 难忘 的 告别 了 。</segment>
+		<segment id="294" parent="598" relname="span">这 个 时候 ， 表情 就 又 派上用场 了 。</segment>
+		<segment id="295" parent="596" relname="adversative-concession">例如 ， 给 对方 发 “ 晚安 ” 可能 显得 很 平淡 ，</segment>
+		<segment id="296" parent="596" relname="joint-list">而 晚安 后面 配 一 个 表情 ， 就 生动 得 多 ，</segment>
+		<segment id="297" parent="596" relname="joint-list">也 显得 贴心 得 多 。</segment>
+		<segment id="298" parent="299" relname="organization-preparation">方法 2</segment>
+		<segment id="299" parent="605" relname="span">不 该 做 什么</segment>
+		<segment id="300" parent="607" relname="organization-preparation">1 不 要 说 妄自菲薄 的 话 。</segment>
+		<segment id="301" parent="607" relname="span">自信 是 最 有 魅力 的 。</segment>
+		<segment id="302" parent="303" relname="adversative-concession">这 一 点 在 现实 世界 中 要 比 虚拟 世界 里 还 重要 ，</segment>
+		<segment id="303" parent="606" relname="span">但是 聊天 工具 的 使用 中 ， 也 要 注意 保持 自信 。</segment>
+		<segment id="304" parent="305" relname="adversative-concession">例如 ， 不 要 总是 说 些 自黑 的 玩笑 ，</segment>
+		<segment id="305" parent="613" relname="span">偶尔 一 个 就 足够 了 ，</segment>
+		<segment id="306" parent="608" relname="adversative-contrast">而 不 要 一而再 再而三 地 拿 自己 开涮 ，</segment>
+		<segment id="307" parent="608" relname="adversative-antithesis">不然 很 快 对话 中 的 调情 意味 就 被 你 的 不 自信 和 缺乏 安全感 给 淹没 了 。</segment>
+		<segment id="308" parent="610" relname="span">另 一 方面 ， 也 不 要 黑 别人</segment>
+		<segment id="309" parent="308" relname="purpose-goal">来 开 玩笑 ，</segment>
+		<segment id="310" parent="611" relname="joint-list">不然 就 显得 你 既 心眼 不 好</segment>
+		<segment id="311" parent="611" relname="joint-list">又 小家子气 。</segment>
+		<segment id="312" parent="614" relname="evaluation-comment">所有 对 自己 或者 别人 的 消极 评价 都 要 避免 。</segment>
+		<segment id="313" parent="635" relname="organization-preparation">2 不 要 过于 殷勤 。</segment>
+		<segment id="314" parent="619" relname="organization-preparation">调情 重 在 乐趣 。</segment>
+		<segment id="315" parent="618" relname="organization-preparation">对 大多数 人 来说 ，</segment>
+		<segment id="316" parent="618" relname="adversative-contrast">适当 听听 恭维话 感觉 很 爽 ，</segment>
+		<segment id="317" parent="618" relname="adversative-contrast">但是 太 多 了 就 尴尬 了 。</segment>
+		<segment id="318" parent="632" relname="joint-list">这么 做 也 会 让 对方 质疑 你 的 动机 ，</segment>
+		<segment id="319" parent="620" relname="attribution-positive">让 人 觉得</segment>
+		<segment id="320" parent="321" relname="causal-cause">你 是 别有所图</segment>
+		<segment id="321" parent="620" relname="span">才 想 接近 对方 。</segment>
+		<segment id="322" parent="624" relname="joint-list">此外 ， 在 对话框 里 说 再 多 好听 的 话 也 是 廉价 的 ，</segment>
+		<segment id="323" parent="622" relname="same-unit">而且</segment>
+		<segment id="324" parent="325" relname="contingency-condition">越 多</segment>
+		<segment id="325" parent="621" relname="span">越 适得其反 。</segment>
+		<segment id="326" parent="327" relname="adversative-antithesis">语气 把 心思 花在 没完没了 地 恭维 上 ，</segment>
+		<segment id="327" parent="625" relname="span">不如 用心 和 对方 进行 真诚 有趣 的 交流 。</segment>
+		<segment id="328" parent="629" relname="span">你 的 原则 应该 是 “ 表现 重于 表达 ” 。</segment>
+		<segment id="329" parent="627" relname="organization-phatic">也就是说 ，</segment>
+		<segment id="330" parent="331" relname="mode-means">通过 用心 的 交流 态度</segment>
+		<segment id="331" parent="626" relname="span">向 对方 表达 你 的 尊重 和 欣赏 ，</segment>
+		<segment id="332" parent="627" relname="adversative-contrast">而 不 是 直白 地 说 出来 。</segment>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="337" relname="adversative-contrast"/>
+		<group id="337" type="multinuc" parent="338" relname="contingency-condition"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="347" relname="joint-list"/>
 		<group id="340" type="span" parent="341" relname="span"/>
-		<group id="341" type="span" parent="349" relname="joint-list"/>
-		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="341" type="span" parent="342" relname="same-unit"/>
+		<group id="342" type="multinuc" parent="347" relname="joint-list"/>
 		<group id="343" type="span" parent="344" relname="same-unit"/>
-		<group id="344" type="multinuc" parent="349" relname="joint-list"/>
-		<group id="345" type="span" parent="346" relname="same-unit"/>
-		<group id="346" type="multinuc" parent="348" relname="joint-list"/>
-		<group id="347" type="span" parent="350" relname="span"/>
-		<group id="348" type="multinuc" parent="347" relname="span"/>
-		<group id="349" type="multinuc" parent="347" relname="context-background"/>
-		<group id="350" type="span" parent="653" relname="context-background"/>
-		<group id="351" type="multinuc" parent="352" relname="span"/>
-		<group id="352" type="span" parent="389" relname="span"/>
-		<group id="353" type="span" parent="25" relname="purpose-goal"/>
-		<group id="354" type="span" parent="357" relname="joint-list"/>
-		<group id="355" type="span" parent="356" relname="same-unit"/>
-		<group id="356" type="multinuc" parent="357" relname="joint-list"/>
-		<group id="357" type="multinuc" parent="352" relname="elaboration-additional"/>
-		<group id="358" type="span" parent="359" relname="same-unit"/>
-		<group id="359" type="multinuc" parent="388" relname="span"/>
-		<group id="360" type="span" parent="366" relname="contingency-condition"/>
+		<group id="344" type="multinuc" parent="346" relname="joint-list"/>
+		<group id="345" type="span" parent="348" relname="span"/>
+		<group id="346" type="multinuc" parent="345" relname="span"/>
+		<group id="347" type="multinuc" parent="345" relname="context-background"/>
+		<group id="348" type="span" parent="641" relname="context-background"/>
+		<group id="349" type="multinuc" parent="350" relname="span"/>
+		<group id="350" type="span" parent="387" relname="span"/>
+		<group id="351" type="span" parent="25" relname="purpose-goal"/>
+		<group id="352" type="span" parent="355" relname="joint-list"/>
+		<group id="353" type="span" parent="354" relname="same-unit"/>
+		<group id="354" type="multinuc" parent="355" relname="joint-list"/>
+		<group id="355" type="multinuc" parent="350" relname="elaboration-additional"/>
+		<group id="356" type="span" parent="357" relname="same-unit"/>
+		<group id="357" type="multinuc" parent="386" relname="span"/>
+		<group id="358" type="span" parent="364" relname="contingency-condition"/>
+		<group id="359" type="span" parent="360" relname="same-unit"/>
+		<group id="360" type="multinuc" parent="43" relname="elaboration-attribute"/>
 		<group id="361" type="span" parent="362" relname="same-unit"/>
-		<group id="362" type="multinuc" parent="43" relname="elaboration-attribute"/>
-		<group id="363" type="span" parent="364" relname="same-unit"/>
-		<group id="364" type="multinuc" parent="365" relname="span"/>
-		<group id="365" type="span" parent="366" relname="span"/>
-		<group id="366" type="span" parent="367" relname="span"/>
-		<group id="367" type="span" parent="359" relname="adversative-concession"/>
-		<group id="368" type="span" parent="386" relname="span"/>
-		<group id="369" type="span" parent="385" relname="joint-list"/>
+		<group id="362" type="multinuc" parent="363" relname="span"/>
+		<group id="363" type="span" parent="364" relname="span"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="357" relname="adversative-concession"/>
+		<group id="366" type="span" parent="384" relname="span"/>
+		<group id="367" type="span" parent="383" relname="joint-list"/>
+		<group id="368" type="span" parent="369" relname="span"/>
+		<group id="369" type="span" parent="383" relname="joint-list"/>
 		<group id="370" type="span" parent="371" relname="span"/>
-		<group id="371" type="span" parent="385" relname="joint-list"/>
-		<group id="372" type="span" parent="373" relname="span"/>
-		<group id="373" type="span" parent="374" relname="span"/>
-		<group id="374" type="span" parent="384" relname="span"/>
-		<group id="375" type="span" parent="376" relname="same-unit"/>
-		<group id="376" type="multinuc" parent="377" relname="span"/>
-		<group id="377" type="span" parent="383" relname="joint-list"/>
-		<group id="378" type="span" parent="382" relname="span"/>
-		<group id="379" type="span" parent="380" relname="span"/>
-		<group id="380" type="span" parent="381" relname="span"/>
-		<group id="381" type="span" parent="378" relname="explanation-evidence"/>
-		<group id="382" type="span" parent="383" relname="joint-list"/>
-		<group id="383" type="multinuc" parent="374" relname="elaboration-additional"/>
-		<group id="384" type="span" parent="386" relname="explanation-evidence"/>
-		<group id="385" type="multinuc" parent="368" relname="explanation-justify"/>
-		<group id="386" type="span" parent="387" relname="span"/>
-		<group id="387" type="span" parent="390" relname="joint-other"/>
-		<group id="388" type="span" parent="390" relname="joint-other"/>
-		<group id="389" type="span" parent="390" relname="joint-other"/>
+		<group id="371" type="span" parent="372" relname="span"/>
+		<group id="372" type="span" parent="382" relname="span"/>
+		<group id="373" type="span" parent="374" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="381" relname="joint-list"/>
+		<group id="376" type="span" parent="380" relname="span"/>
+		<group id="377" type="span" parent="378" relname="span"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="376" relname="explanation-evidence"/>
+		<group id="380" type="span" parent="381" relname="joint-list"/>
+		<group id="381" type="multinuc" parent="372" relname="elaboration-additional"/>
+		<group id="382" type="span" parent="384" relname="explanation-evidence"/>
+		<group id="383" type="multinuc" parent="366" relname="explanation-justify"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" parent="388" relname="joint-other"/>
+		<group id="386" type="span" parent="388" relname="joint-other"/>
+		<group id="387" type="span" parent="388" relname="joint-other"/>
+		<group id="388" type="multinuc" parent="389" relname="span"/>
+		<group id="389" type="span" parent="639" relname="joint-list"/>
 		<group id="390" type="multinuc" parent="391" relname="span"/>
-		<group id="391" type="span" parent="651" relname="joint-list"/>
-		<group id="392" type="multinuc" parent="393" relname="span"/>
-		<group id="393" type="span" parent="421" relname="span"/>
-		<group id="394" type="span" parent="395" relname="same-unit"/>
-		<group id="395" type="multinuc" parent="396" relname="joint-list"/>
-		<group id="396" type="multinuc" parent="393" relname="explanation-evidence"/>
-		<group id="397" type="span" parent="398" relname="same-unit"/>
-		<group id="398" type="multinuc" parent="399" relname="joint-list"/>
-		<group id="399" type="multinuc" parent="400" relname="span"/>
-		<group id="400" type="span" parent="418" relname="elaboration-additional"/>
-		<group id="401" type="multinuc" parent="84" relname="elaboration-additional"/>
-		<group id="402" type="span" parent="416" relname="joint-list"/>
-		<group id="403" type="span" parent="404" relname="same-unit"/>
-		<group id="404" type="multinuc" parent="413" relname="context-circumstance"/>
-		<group id="405" type="multinuc" parent="406" relname="span"/>
-		<group id="406" type="span" parent="413" relname="joint-list"/>
-		<group id="407" type="span" parent="97" relname="causal-cause"/>
-		<group id="408" type="span" parent="409" relname="span"/>
-		<group id="409" type="span" parent="410" relname="joint-list"/>
-		<group id="410" type="multinuc" parent="411" relname="span"/>
-		<group id="411" type="span" parent="94" relname="explanation-evidence"/>
-		<group id="412" type="span" parent="413" relname="joint-list"/>
-		<group id="413" type="multinuc" parent="414" relname="span"/>
-		<group id="414" type="span" parent="415" relname="span"/>
-		<group id="415" type="span" parent="422" relname="explanation-evidence"/>
-		<group id="416" type="multinuc" parent="417" relname="span"/>
-		<group id="417" type="span" parent="422" relname="adversative-contrast"/>
-		<group id="418" type="span" parent="419" relname="span"/>
-		<group id="419" type="span" parent="422" relname="adversative-contrast"/>
-		<group id="420" type="span" parent="392" relname="joint-list"/>
-		<group id="421" type="span" parent="423" relname="context-background"/>
-		<group id="422" type="multinuc" parent="423" relname="span"/>
-		<group id="423" type="span" parent="424" relname="span"/>
-		<group id="424" type="span" parent="425" relname="span"/>
-		<group id="425" type="span" parent="651" relname="joint-list"/>
+		<group id="391" type="span" parent="419" relname="span"/>
+		<group id="392" type="span" parent="393" relname="same-unit"/>
+		<group id="393" type="multinuc" parent="394" relname="joint-list"/>
+		<group id="394" type="multinuc" parent="391" relname="explanation-evidence"/>
+		<group id="395" type="span" parent="396" relname="same-unit"/>
+		<group id="396" type="multinuc" parent="397" relname="joint-list"/>
+		<group id="397" type="multinuc" parent="398" relname="span"/>
+		<group id="398" type="span" parent="416" relname="elaboration-additional"/>
+		<group id="399" type="multinuc" parent="84" relname="elaboration-additional"/>
+		<group id="400" type="span" parent="414" relname="joint-list"/>
+		<group id="401" type="span" parent="402" relname="same-unit"/>
+		<group id="402" type="multinuc" parent="411" relname="context-circumstance"/>
+		<group id="403" type="multinuc" parent="404" relname="span"/>
+		<group id="404" type="span" parent="411" relname="joint-list"/>
+		<group id="405" type="span" parent="97" relname="causal-cause"/>
+		<group id="406" type="span" parent="407" relname="span"/>
+		<group id="407" type="span" parent="408" relname="joint-list"/>
+		<group id="408" type="multinuc" parent="409" relname="span"/>
+		<group id="409" type="span" parent="94" relname="explanation-evidence"/>
+		<group id="410" type="span" parent="411" relname="joint-list"/>
+		<group id="411" type="multinuc" parent="412" relname="span"/>
+		<group id="412" type="span" parent="413" relname="span"/>
+		<group id="413" type="span" parent="420" relname="explanation-evidence"/>
+		<group id="414" type="multinuc" parent="415" relname="span"/>
+		<group id="415" type="span" parent="420" relname="adversative-contrast"/>
+		<group id="416" type="span" parent="417" relname="span"/>
+		<group id="417" type="span" parent="420" relname="adversative-contrast"/>
+		<group id="418" type="span" parent="390" relname="joint-list"/>
+		<group id="419" type="span" parent="421" relname="context-background"/>
+		<group id="420" type="multinuc" parent="421" relname="span"/>
+		<group id="421" type="span" parent="422" relname="span"/>
+		<group id="422" type="span" parent="423" relname="span"/>
+		<group id="423" type="span" parent="639" relname="joint-list"/>
+		<group id="424" type="span" parent="426" relname="span"/>
+		<group id="425" type="span" parent="426" relname="elaboration-additional"/>
 		<group id="426" type="span" parent="428" relname="span"/>
-		<group id="427" type="span" parent="428" relname="elaboration-additional"/>
-		<group id="428" type="span" parent="430" relname="span"/>
-		<group id="429" type="multinuc" parent="430" relname="causal-result"/>
-		<group id="430" type="span" parent="431" relname="span"/>
-		<group id="431" type="span" parent="102" relname="explanation-justify"/>
-		<group id="432" type="span" parent="433" relname="same-unit"/>
-		<group id="433" type="multinuc" parent="113" relname="adversative-concession"/>
-		<group id="434" type="span" parent="443" relname="elaboration-additional"/>
-		<group id="435" type="span" parent="441" relname="context-circumstance"/>
-		<group id="436" type="span" parent="441" relname="adversative-contrast"/>
-		<group id="437" type="span" parent="440" relname="joint-list"/>
-		<group id="438" type="multinuc" parent="437" relname="span"/>
-		<group id="439" type="multinuc" parent="438" relname="joint-list"/>
-		<group id="440" type="multinuc" parent="441" relname="adversative-contrast"/>
-		<group id="441" type="multinuc" parent="442" relname="span"/>
-		<group id="442" type="span" parent="461" relname="joint-list"/>
-		<group id="443" type="span" parent="444" relname="span"/>
-		<group id="444" type="span" parent="462" relname="span"/>
-		<group id="445" type="multinuc" parent="459" relname="explanation-evidence"/>
-		<group id="446" type="span" parent="447" relname="same-unit"/>
-		<group id="447" type="multinuc" parent="457" relname="span"/>
-		<group id="448" type="span" parent="447" relname="same-unit"/>
-		<group id="451" type="span" parent="455" relname="span"/>
-		<group id="452" type="span" parent="141" relname="context-circumstance"/>
-		<group id="453" type="span" parent="454" relname="same-unit"/>
-		<group id="454" type="multinuc" parent="451" relname="topic-question"/>
-		<group id="455" type="span" parent="456" relname="span"/>
-		<group id="456" type="span" parent="447" relname="explanation-evidence"/>
-		<group id="457" type="span" parent="461" relname="joint-list"/>
-		<group id="458" type="span" parent="459" relname="same-unit"/>
-		<group id="459" type="multinuc" parent="460" relname="span"/>
-		<group id="460" type="span" parent="461" relname="joint-list"/>
-		<group id="461" type="multinuc" parent="444" relname="explanation-evidence"/>
+		<group id="427" type="multinuc" parent="428" relname="causal-result"/>
+		<group id="428" type="span" parent="429" relname="span"/>
+		<group id="429" type="span" parent="102" relname="explanation-justify"/>
+		<group id="430" type="span" parent="431" relname="same-unit"/>
+		<group id="431" type="multinuc" parent="113" relname="adversative-concession"/>
+		<group id="432" type="span" parent="441" relname="elaboration-additional"/>
+		<group id="433" type="span" parent="439" relname="context-circumstance"/>
+		<group id="434" type="span" parent="439" relname="adversative-contrast"/>
+		<group id="435" type="span" parent="438" relname="joint-list"/>
+		<group id="436" type="multinuc" parent="435" relname="span"/>
+		<group id="437" type="multinuc" parent="436" relname="joint-list"/>
+		<group id="438" type="multinuc" parent="439" relname="adversative-contrast"/>
+		<group id="439" type="multinuc" parent="440" relname="span"/>
+		<group id="440" type="span" parent="457" relname="joint-list"/>
+		<group id="441" type="span" parent="442" relname="span"/>
+		<group id="442" type="span" parent="458" relname="span"/>
+		<group id="443" type="multinuc" parent="455" relname="explanation-evidence"/>
+		<group id="444" type="span" parent="445" relname="same-unit"/>
+		<group id="445" type="multinuc" parent="453" relname="span"/>
+		<group id="446" type="span" parent="445" relname="same-unit"/>
+		<group id="447" type="span" parent="451" relname="span"/>
+		<group id="448" type="span" parent="141" relname="context-circumstance"/>
+		<group id="449" type="span" parent="450" relname="same-unit"/>
+		<group id="450" type="multinuc" parent="447" relname="topic-question"/>
+		<group id="451" type="span" parent="452" relname="span"/>
+		<group id="452" type="span" parent="445" relname="explanation-evidence"/>
+		<group id="453" type="span" parent="457" relname="joint-list"/>
+		<group id="454" type="span" parent="455" relname="same-unit"/>
+		<group id="455" type="multinuc" parent="456" relname="span"/>
+		<group id="456" type="span" parent="457" relname="joint-list"/>
+		<group id="457" type="multinuc" parent="442" relname="explanation-evidence"/>
+		<group id="458" type="span" parent="459" relname="span"/>
+		<group id="459" type="span" parent="639" relname="joint-list"/>
+		<group id="460" type="multinuc" parent="462" relname="span"/>
+		<group id="461" type="span" parent="462" relname="adversative-concession"/>
 		<group id="462" type="span" parent="463" relname="span"/>
-		<group id="463" type="span" parent="651" relname="joint-list"/>
-		<group id="465" type="multinuc" parent="467" relname="span"/>
-		<group id="466" type="span" parent="467" relname="adversative-concession"/>
-		<group id="467" type="span" parent="468" relname="span"/>
-		<group id="468" type="span" parent="495" relname="span"/>
-		<group id="469" type="span" parent="470" relname="same-unit"/>
-		<group id="470" type="multinuc" parent="468" relname="elaboration-additional"/>
-		<group id="471" type="span" parent="477" relname="span"/>
-		<group id="472" type="span" parent="473" relname="same-unit"/>
-		<group id="473" type="multinuc" parent="474" relname="joint-list"/>
-		<group id="474" type="multinuc" parent="471" relname="explanation-evidence"/>
-		<group id="475" type="multinuc" parent="159" relname="context-background"/>
-		<group id="476" type="span" parent="477" relname="explanation-justify"/>
-		<group id="477" type="span" parent="478" relname="span"/>
-		<group id="478" type="span" parent="494" relname="span"/>
-		<group id="481" type="multinuc" parent="483" relname="same-unit"/>
-		<group id="482" type="multinuc" parent="483" relname="same-unit"/>
-		<group id="483" type="multinuc" parent="160" relname="explanation-justify"/>
-		<group id="484" type="multinuc" parent="487" relname="span"/>
-		<group id="485" type="span" parent="484" relname="adversative-contrast"/>
-		<group id="486" type="span" parent="484" relname="attribution-positive"/>
-		<group id="487" type="span" parent="491" relname="adversative-contrast"/>
+		<group id="463" type="span" parent="487" relname="span"/>
+		<group id="464" type="span" parent="465" relname="same-unit"/>
+		<group id="465" type="multinuc" parent="463" relname="elaboration-additional"/>
+		<group id="466" type="span" parent="472" relname="span"/>
+		<group id="467" type="span" parent="468" relname="same-unit"/>
+		<group id="468" type="multinuc" parent="469" relname="joint-list"/>
+		<group id="469" type="multinuc" parent="466" relname="explanation-evidence"/>
+		<group id="470" type="multinuc" parent="159" relname="context-background"/>
+		<group id="471" type="span" parent="472" relname="explanation-justify"/>
+		<group id="472" type="span" parent="473" relname="span"/>
+		<group id="473" type="span" parent="486" relname="span"/>
+		<group id="474" type="multinuc" parent="476" relname="same-unit"/>
+		<group id="475" type="multinuc" parent="476" relname="same-unit"/>
+		<group id="476" type="multinuc" parent="160" relname="explanation-justify"/>
+		<group id="477" type="multinuc" parent="480" relname="span"/>
+		<group id="478" type="span" parent="477" relname="adversative-contrast"/>
+		<group id="479" type="span" parent="477" relname="attribution-positive"/>
+		<group id="480" type="span" parent="484" relname="adversative-contrast"/>
+		<group id="481" type="multinuc" parent="482" relname="span"/>
+		<group id="482" type="span" parent="175" relname="causal-cause"/>
+		<group id="483" type="span" parent="484" relname="adversative-contrast"/>
+		<group id="484" type="multinuc" parent="485" relname="span"/>
+		<group id="485" type="span" parent="488" relname="explanation-evidence"/>
+		<group id="486" type="span" parent="488" relname="adversative-contrast"/>
+		<group id="487" type="span" parent="488" relname="adversative-contrast"/>
 		<group id="488" type="multinuc" parent="489" relname="span"/>
-		<group id="489" type="span" parent="175" relname="causal-cause"/>
-		<group id="490" type="span" parent="491" relname="adversative-contrast"/>
-		<group id="491" type="multinuc" parent="492" relname="span"/>
-		<group id="492" type="span" parent="496" relname="explanation-evidence"/>
-		<group id="494" type="span" parent="496" relname="adversative-contrast"/>
-		<group id="495" type="span" parent="496" relname="adversative-contrast"/>
-		<group id="496" type="multinuc" parent="497" relname="span"/>
-		<group id="497" type="span" parent="499" relname="span"/>
-		<group id="499" type="span" parent="651" relname="joint-list"/>
-		<group id="500" type="span" parent="501" relname="adversative-contrast"/>
-		<group id="501" type="multinuc" parent="520" relname="span"/>
-		<group id="502" type="span" parent="656" relname="joint-list"/>
-		<group id="503" type="span" parent="519" relname="joint-other"/>
-		<group id="506" type="multinuc" parent="185" relname="elaboration-additional"/>
-		<group id="507" type="span" parent="516" relname="span"/>
-		<group id="508" type="span" parent="509" relname="same-unit"/>
-		<group id="509" type="multinuc" parent="512" relname="span"/>
+		<group id="489" type="span" parent="490" relname="span"/>
+		<group id="490" type="span" parent="639" relname="joint-list"/>
+		<group id="491" type="span" parent="492" relname="adversative-contrast"/>
+		<group id="492" type="multinuc" parent="508" relname="span"/>
+		<group id="493" type="span" parent="644" relname="joint-list"/>
+		<group id="494" type="span" parent="507" relname="joint-other"/>
+		<group id="495" type="multinuc" parent="185" relname="elaboration-additional"/>
+		<group id="496" type="span" parent="505" relname="span"/>
+		<group id="497" type="span" parent="498" relname="same-unit"/>
+		<group id="498" type="multinuc" parent="501" relname="span"/>
+		<group id="499" type="span" parent="500" relname="same-unit"/>
+		<group id="500" type="multinuc" parent="498" relname="causal-result"/>
+		<group id="501" type="span" parent="504" relname="adversative-contrast"/>
+		<group id="502" type="span" parent="503" relname="span"/>
+		<group id="503" type="span" parent="504" relname="adversative-contrast"/>
+		<group id="504" type="multinuc" parent="496" relname="explanation-justify"/>
+		<group id="505" type="span" parent="507" relname="joint-other"/>
+		<group id="506" type="span" parent="507" relname="joint-other"/>
+		<group id="507" type="multinuc" parent="492" relname="elaboration-additional"/>
+		<group id="508" type="span" parent="509" relname="span"/>
+		<group id="509" type="span" parent="639" relname="joint-list"/>
 		<group id="510" type="span" parent="511" relname="same-unit"/>
-		<group id="511" type="multinuc" parent="509" relname="causal-result"/>
-		<group id="512" type="span" parent="515" relname="adversative-contrast"/>
-		<group id="513" type="span" parent="514" relname="span"/>
-		<group id="514" type="span" parent="515" relname="adversative-contrast"/>
-		<group id="515" type="multinuc" parent="507" relname="explanation-justify"/>
-		<group id="516" type="span" parent="519" relname="joint-other"/>
-		<group id="517" type="span" parent="519" relname="joint-other"/>
-		<group id="519" type="multinuc" parent="501" relname="elaboration-additional"/>
-		<group id="520" type="span" parent="521" relname="span"/>
-		<group id="521" type="span" parent="651" relname="joint-list"/>
-		<group id="522" type="span" parent="523" relname="same-unit"/>
-		<group id="523" type="multinuc" parent="551" relname="organization-preparation"/>
-		<group id="524" type="span" parent="525" relname="same-unit"/>
-		<group id="525" type="multinuc" parent="205" relname="contingency-condition"/>
-		<group id="526" type="span" parent="551" relname="span"/>
-		<group id="527" type="multinuc" parent="528" relname="span"/>
-		<group id="528" type="span" parent="526" relname="adversative-concession"/>
-		<group id="529" type="multinuc" parent="213" relname="context-circumstance"/>
-		<group id="530" type="span" parent="531" relname="same-unit"/>
-		<group id="531" type="multinuc" parent="549" relname="joint-other"/>
-		<group id="532" type="multinuc" parent="549" relname="joint-other"/>
-		<group id="533" type="span" parent="535" relname="span"/>
-		<group id="534" type="multinuc" parent="533" relname="causal-cause"/>
-		<group id="535" type="span" parent="549" relname="joint-other"/>
-		<group id="536" type="multinuc" parent="547" relname="organization-preparation"/>
-		<group id="537" type="span" parent="536" relname="same-unit"/>
-		<group id="538" type="multinuc" parent="539" relname="span"/>
-		<group id="539" type="span" parent="552" relname="contingency-condition"/>
-		<group id="540" type="span" parent="541" relname="same-unit"/>
-		<group id="541" type="multinuc" parent="543" relname="attribution-positive"/>
-		<group id="542" type="multinuc" parent="543" relname="span"/>
-		<group id="543" type="span" parent="544" relname="span"/>
-		<group id="544" type="span" parent="546" relname="joint-list"/>
-		<group id="545" type="span" parent="546" relname="joint-list"/>
-		<group id="546" type="multinuc" parent="552" relname="joint-list"/>
-		<group id="547" type="span" parent="548" relname="span"/>
-		<group id="548" type="span" parent="550" relname="explanation-evidence"/>
-		<group id="549" type="multinuc" parent="209" relname="explanation-justify"/>
-		<group id="550" type="span" parent="553" relname="span"/>
-		<group id="551" type="span" parent="554" relname="span"/>
-		<group id="552" type="multinuc" parent="547" relname="span"/>
-		<group id="553" type="span" parent="555" relname="span"/>
-		<group id="554" type="span" parent="553" relname="context-background"/>
-		<group id="555" type="span" parent="651" relname="joint-list"/>
-		<group id="556" type="multinuc" parent="557" relname="span"/>
-		<group id="557" type="span" parent="588" relname="same-unit"/>
-		<group id="558" type="span" parent="559" relname="span"/>
-		<group id="559" type="span" parent="589" relname="joint-other"/>
-		<group id="560" type="span" parent="564" relname="joint-list"/>
-		<group id="561" type="span" parent="248" relname="elaboration-attribute"/>
-		<group id="562" type="multinuc" parent="564" relname="joint-list"/>
-		<group id="563" type="span" parent="567" relname="span"/>
-		<group id="564" type="multinuc" parent="589" relname="joint-other"/>
-		<group id="565" type="span" parent="566" relname="same-unit"/>
-		<group id="566" type="multinuc" parent="563" relname="elaboration-additional"/>
-		<group id="567" type="span" parent="562" relname="same-unit"/>
-		<group id="568" type="span" parent="569" relname="adversative-concession"/>
-		<group id="569" type="multinuc" parent="570" relname="span"/>
-		<group id="570" type="span" parent="587" relname="span"/>
-		<group id="571" type="multinuc" parent="572" relname="span"/>
-		<group id="572" type="span" parent="586" relname="span"/>
-		<group id="573" type="span" parent="574" relname="same-unit"/>
-		<group id="574" type="multinuc" parent="585" relname="span"/>
-		<group id="575" type="multinuc" parent="573" relname="span"/>
-		<group id="576" type="span" parent="575" relname="joint-list"/>
-		<group id="577" type="multinuc" parent="579" relname="span"/>
-		<group id="578" type="span" parent="577" relname="same-unit"/>
-		<group id="579" type="span" parent="582" relname="adversative-contrast"/>
-		<group id="580" type="multinuc" parent="581" relname="span"/>
-		<group id="581" type="span" parent="583" relname="span"/>
-		<group id="582" type="multinuc" parent="581" relname="contingency-condition"/>
-		<group id="583" type="span" parent="584" relname="span"/>
-		<group id="584" type="span" parent="591" relname="explanation-evidence"/>
-		<group id="585" type="span" parent="587" relname="explanation-justify"/>
-		<group id="586" type="span" parent="570" relname="explanation-evidence"/>
-		<group id="587" type="span" parent="591" relname="span"/>
-		<group id="588" type="multinuc" parent="590" relname="span"/>
-		<group id="589" type="multinuc" parent="588" relname="explanation-justify"/>
-		<group id="590" type="span" parent="593" relname="span"/>
-		<group id="591" type="span" parent="592" relname="span"/>
-		<group id="592" type="span" parent="590" relname="elaboration-additional"/>
-		<group id="593" type="span" parent="651" relname="joint-list"/>
-		<group id="594" type="span" parent="595" relname="same-unit"/>
-		<group id="595" type="multinuc" parent="614" relname="organization-preparation"/>
-		<group id="596" type="span" parent="597" relname="span"/>
-		<group id="597" type="span" parent="600" relname="context-background"/>
-		<group id="598" type="span" parent="600" relname="same-unit"/>
-		<group id="599" type="span" parent="600" relname="same-unit"/>
-		<group id="600" type="multinuc" parent="612" relname="span"/>
-		<group id="601" type="multinuc" parent="612" relname="explanation-justify"/>
-		<group id="602" type="multinuc" parent="603" relname="span"/>
-		<group id="603" type="span" parent="601" relname="adversative-contrast"/>
-		<group id="604" type="multinuc" parent="602" relname="causal-result"/>
-		<group id="605" type="span" parent="604" relname="same-unit"/>
-		<group id="606" type="span" parent="607" relname="span"/>
-		<group id="607" type="span" parent="610" relname="context-background"/>
+		<group id="511" type="multinuc" parent="539" relname="organization-preparation"/>
+		<group id="512" type="span" parent="513" relname="same-unit"/>
+		<group id="513" type="multinuc" parent="205" relname="contingency-condition"/>
+		<group id="514" type="span" parent="539" relname="span"/>
+		<group id="515" type="multinuc" parent="516" relname="span"/>
+		<group id="516" type="span" parent="514" relname="adversative-concession"/>
+		<group id="517" type="multinuc" parent="213" relname="context-circumstance"/>
+		<group id="518" type="span" parent="519" relname="same-unit"/>
+		<group id="519" type="multinuc" parent="537" relname="joint-other"/>
+		<group id="520" type="multinuc" parent="537" relname="joint-other"/>
+		<group id="521" type="span" parent="523" relname="span"/>
+		<group id="522" type="multinuc" parent="521" relname="causal-cause"/>
+		<group id="523" type="span" parent="537" relname="joint-other"/>
+		<group id="524" type="multinuc" parent="535" relname="organization-preparation"/>
+		<group id="525" type="span" parent="524" relname="same-unit"/>
+		<group id="526" type="multinuc" parent="527" relname="span"/>
+		<group id="527" type="span" parent="540" relname="contingency-condition"/>
+		<group id="528" type="span" parent="529" relname="same-unit"/>
+		<group id="529" type="multinuc" parent="531" relname="attribution-positive"/>
+		<group id="530" type="multinuc" parent="531" relname="span"/>
+		<group id="531" type="span" parent="532" relname="span"/>
+		<group id="532" type="span" parent="534" relname="joint-list"/>
+		<group id="533" type="span" parent="534" relname="joint-list"/>
+		<group id="534" type="multinuc" parent="540" relname="joint-list"/>
+		<group id="535" type="span" parent="536" relname="span"/>
+		<group id="536" type="span" parent="538" relname="explanation-evidence"/>
+		<group id="537" type="multinuc" parent="209" relname="explanation-justify"/>
+		<group id="538" type="span" parent="541" relname="span"/>
+		<group id="539" type="span" parent="542" relname="span"/>
+		<group id="540" type="multinuc" parent="535" relname="span"/>
+		<group id="541" type="span" parent="543" relname="span"/>
+		<group id="542" type="span" parent="541" relname="context-background"/>
+		<group id="543" type="span" parent="639" relname="joint-list"/>
+		<group id="544" type="multinuc" parent="545" relname="span"/>
+		<group id="545" type="span" parent="576" relname="same-unit"/>
+		<group id="546" type="span" parent="547" relname="span"/>
+		<group id="547" type="span" parent="577" relname="joint-other"/>
+		<group id="548" type="span" parent="552" relname="joint-list"/>
+		<group id="549" type="span" parent="248" relname="elaboration-attribute"/>
+		<group id="550" type="multinuc" parent="647" relname="span"/>
+		<group id="551" type="span" parent="550" relname="same-unit"/>
+		<group id="552" type="multinuc" parent="577" relname="joint-other"/>
+		<group id="556" type="span" parent="557" relname="adversative-concession"/>
+		<group id="557" type="multinuc" parent="558" relname="span"/>
+		<group id="558" type="span" parent="575" relname="span"/>
+		<group id="559" type="multinuc" parent="560" relname="span"/>
+		<group id="560" type="span" parent="574" relname="span"/>
+		<group id="561" type="span" parent="562" relname="same-unit"/>
+		<group id="562" type="multinuc" parent="573" relname="span"/>
+		<group id="563" type="multinuc" parent="561" relname="span"/>
+		<group id="564" type="span" parent="563" relname="joint-list"/>
+		<group id="565" type="multinuc" parent="567" relname="span"/>
+		<group id="566" type="span" parent="565" relname="same-unit"/>
+		<group id="567" type="span" parent="570" relname="adversative-contrast"/>
+		<group id="568" type="multinuc" parent="569" relname="span"/>
+		<group id="569" type="span" parent="571" relname="span"/>
+		<group id="570" type="multinuc" parent="569" relname="contingency-condition"/>
+		<group id="571" type="span" parent="572" relname="span"/>
+		<group id="572" type="span" parent="579" relname="explanation-evidence"/>
+		<group id="573" type="span" parent="575" relname="explanation-justify"/>
+		<group id="574" type="span" parent="558" relname="explanation-evidence"/>
+		<group id="575" type="span" parent="579" relname="span"/>
+		<group id="576" type="multinuc" parent="578" relname="span"/>
+		<group id="577" type="multinuc" parent="576" relname="explanation-justify"/>
+		<group id="578" type="span" parent="581" relname="span"/>
+		<group id="579" type="span" parent="580" relname="span"/>
+		<group id="580" type="span" parent="578" relname="elaboration-additional"/>
+		<group id="581" type="span" parent="639" relname="joint-list"/>
+		<group id="582" type="span" parent="583" relname="same-unit"/>
+		<group id="583" type="multinuc" parent="602" relname="organization-preparation"/>
+		<group id="584" type="span" parent="585" relname="span"/>
+		<group id="585" type="span" parent="588" relname="context-background"/>
+		<group id="586" type="span" parent="588" relname="same-unit"/>
+		<group id="587" type="span" parent="588" relname="same-unit"/>
+		<group id="588" type="multinuc" parent="600" relname="span"/>
+		<group id="589" type="multinuc" parent="600" relname="explanation-justify"/>
+		<group id="590" type="multinuc" parent="591" relname="span"/>
+		<group id="591" type="span" parent="589" relname="adversative-contrast"/>
+		<group id="592" type="multinuc" parent="590" relname="causal-result"/>
+		<group id="593" type="span" parent="592" relname="same-unit"/>
+		<group id="594" type="span" parent="595" relname="span"/>
+		<group id="595" type="span" parent="598" relname="context-background"/>
+		<group id="596" type="multinuc" parent="597" relname="span"/>
+		<group id="597" type="span" parent="294" relname="explanation-evidence"/>
+		<group id="598" type="span" parent="599" relname="span"/>
+		<group id="599" type="span" parent="601" relname="elaboration-additional"/>
+		<group id="600" type="span" parent="601" relname="span"/>
+		<group id="601" type="span" parent="602" relname="span"/>
+		<group id="602" type="span" parent="603" relname="span"/>
+		<group id="603" type="span" parent="639" relname="joint-list"/>
+		<group id="604" type="span" parent="639" relname="organization-heading"/>
+		<group id="605" type="span" parent="637" relname="organization-heading"/>
+		<group id="606" type="span" parent="301" relname="elaboration-additional"/>
+		<group id="607" type="span" parent="616" relname="span"/>
 		<group id="608" type="multinuc" parent="609" relname="span"/>
-		<group id="609" type="span" parent="296" relname="explanation-evidence"/>
-		<group id="610" type="span" parent="611" relname="span"/>
-		<group id="611" type="span" parent="613" relname="elaboration-additional"/>
-		<group id="612" type="span" parent="613" relname="span"/>
-		<group id="613" type="span" parent="614" relname="span"/>
-		<group id="614" type="span" parent="615" relname="span"/>
-		<group id="615" type="span" parent="651" relname="joint-list"/>
-		<group id="616" type="span" parent="651" relname="organization-heading"/>
-		<group id="617" type="span" parent="649" relname="organization-heading"/>
-		<group id="618" type="span" parent="303" relname="elaboration-additional"/>
-		<group id="619" type="span" parent="628" relname="span"/>
-		<group id="620" type="multinuc" parent="621" relname="span"/>
-		<group id="621" type="span" parent="626" relname="adversative-contrast"/>
-		<group id="622" type="span" parent="624" relname="span"/>
-		<group id="623" type="multinuc" parent="622" relname="adversative-antithesis"/>
-		<group id="624" type="span" parent="626" relname="adversative-contrast"/>
-		<group id="625" type="span" parent="620" relname="adversative-contrast"/>
-		<group id="626" type="multinuc" parent="627" relname="span"/>
-		<group id="627" type="span" parent="628" relname="explanation-evidence"/>
-		<group id="628" type="span" parent="629" relname="span"/>
-		<group id="629" type="span" parent="649" relname="joint-list"/>
-		<group id="630" type="multinuc" parent="631" relname="span"/>
-		<group id="631" type="span" parent="645" relname="span"/>
-		<group id="632" type="span" parent="635" relname="span"/>
-		<group id="633" type="span" parent="634" relname="same-unit"/>
-		<group id="634" type="multinuc" parent="636" relname="joint-list"/>
-		<group id="635" type="span" parent="644" relname="joint-list"/>
-		<group id="636" type="multinuc" parent="637" relname="context-background"/>
-		<group id="637" type="span" parent="643" relname="span"/>
-		<group id="638" type="span" parent="639" relname="adversative-contrast"/>
+		<group id="609" type="span" parent="614" relname="adversative-contrast"/>
+		<group id="610" type="span" parent="612" relname="span"/>
+		<group id="611" type="multinuc" parent="610" relname="adversative-antithesis"/>
+		<group id="612" type="span" parent="614" relname="adversative-contrast"/>
+		<group id="613" type="span" parent="608" relname="adversative-contrast"/>
+		<group id="614" type="multinuc" parent="615" relname="span"/>
+		<group id="615" type="span" parent="616" relname="explanation-evidence"/>
+		<group id="616" type="span" parent="617" relname="span"/>
+		<group id="617" type="span" parent="637" relname="joint-list"/>
+		<group id="618" type="multinuc" parent="619" relname="span"/>
+		<group id="619" type="span" parent="633" relname="span"/>
+		<group id="620" type="span" parent="623" relname="span"/>
+		<group id="621" type="span" parent="622" relname="same-unit"/>
+		<group id="622" type="multinuc" parent="624" relname="joint-list"/>
+		<group id="623" type="span" parent="632" relname="joint-list"/>
+		<group id="624" type="multinuc" parent="625" relname="context-background"/>
+		<group id="625" type="span" parent="631" relname="span"/>
+		<group id="626" type="span" parent="627" relname="adversative-contrast"/>
+		<group id="627" type="multinuc" parent="628" relname="span"/>
+		<group id="628" type="span" parent="328" relname="elaboration-additional"/>
+		<group id="629" type="span" parent="630" relname="span"/>
+		<group id="630" type="span" parent="634" relname="joint-other"/>
+		<group id="631" type="span" parent="629" relname="causal-cause"/>
+		<group id="632" type="multinuc" parent="634" relname="joint-other"/>
+		<group id="633" type="span" parent="634" relname="context-background"/>
+		<group id="634" type="multinuc" parent="635" relname="span"/>
+		<group id="635" type="span" parent="636" relname="span"/>
+		<group id="636" type="span" parent="637" relname="joint-list"/>
+		<group id="637" type="multinuc" parent="638" relname="span"/>
+		<group id="638" type="span" parent="641" relname="joint-list"/>
 		<group id="639" type="multinuc" parent="640" relname="span"/>
-		<group id="640" type="span" parent="330" relname="elaboration-additional"/>
-		<group id="641" type="span" parent="642" relname="span"/>
-		<group id="642" type="span" parent="646" relname="joint-other"/>
-		<group id="643" type="span" parent="641" relname="causal-cause"/>
-		<group id="644" type="multinuc" parent="646" relname="joint-other"/>
-		<group id="645" type="span" parent="646" relname="context-background"/>
-		<group id="646" type="multinuc" parent="647" relname="span"/>
-		<group id="647" type="span" parent="648" relname="span"/>
-		<group id="648" type="span" parent="649" relname="joint-list"/>
-		<group id="649" type="multinuc" parent="650" relname="span"/>
-		<group id="650" type="span" parent="653" relname="joint-list"/>
-		<group id="651" type="multinuc" parent="652" relname="span"/>
-		<group id="652" type="span" parent="653" relname="joint-list"/>
-		<group id="653" type="multinuc" parent="654" relname="span"/>
-		<group id="654" type="span" parent="655" relname="span"/>
-		<group id="655" type="span" />
-		<group id="656" type="multinuc" parent="503" relname="span"/>
-		<group id="657" type="span" parent="656" relname="joint-list"/>
-		<group id="658" type="span" parent="478" relname="causal-result"/>
+		<group id="640" type="span" parent="641" relname="joint-list"/>
+		<group id="641" type="multinuc" parent="642" relname="span"/>
+		<group id="642" type="span" parent="643" relname="span"/>
+		<group id="643" type="span" />
+		<group id="644" type="multinuc" parent="494" relname="span"/>
+		<group id="645" type="span" parent="644" relname="joint-list"/>
+		<group id="646" type="span" parent="473" relname="causal-result"/>
+		<group id="647" type="span" parent="552" relname="joint-list"/>
 	</body>
 </rst>

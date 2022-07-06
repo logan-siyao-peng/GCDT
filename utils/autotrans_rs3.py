@@ -3,7 +3,7 @@ import argparse
 from glob import glob
 from time import time
 from deep_translator import GoogleTranslator
-translator = GoogleTranslator(source='zh-CN', target='en')
+
 
 from utils import read_text_file, get_basename, write_lines_file, get_file_modified_time
 
@@ -33,12 +33,18 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 			if m is not None:
 				m_end = int(m.end(2))
 				m_text = m.group(2).strip()
-				if re.match(r"^\d+$", m_text):
+				if re.match(r"^\d+$", m_text) or re.match(r"^[*\s]+$", m_text):
+					# list of special cases here:
+					# - do not translate numbers
+					# - * * *
+					
 					m_trans = m_text
 				else:
 					m_trans = translator.translate(m_text)
-					m_trans.replace(" & ", " &amp; ")
-				rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:]
+					m_trans = m_trans.replace(" & ", " &amp; ").strip()
+				
+				rs3_lines[line_id] = rs3_lines[line_id].replace(">"+m_text+"<", ">"+m_trans+"<") #Logan: only translation
+				# rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:] # both source and translations
 				print("o Done with translating line: %d" % line_id, end="\r")
 	
 	# write autotrans_rs3_lines
@@ -48,16 +54,27 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
-	parser.add_argument("--rs3_dir", default="../data/rs3/")
-	parser.add_argument("--autotran_rs3_dir", default="../data/autotrans_rs3/")
+	parser.add_argument("--source_dir",
+	                    default="../../../code/loganfolked_DMRST_Parser/data/rs3/en-gum-20220625/",
+	                    # default="../data/rs3/",
+	                    )
+	parser.add_argument("--target_dir",
+	                    default="../../../code/loganfolked_DMRST_Parser/data/rs3/entranszh-gum-20220705/",
+	                    # default="../data/autotrans_rs3/",
+	                    )
+	parser.add_argument("--source_language", default='en')
+	parser.add_argument("--target_language", default='zh-CN')
 	args = parser.parse_args()
 	
-	rs3_files = sorted(glob(args.rs3_dir + "*.rs3", recursive=False))
+	translator = GoogleTranslator(source=args.source_language, target=args.target_language)
+	rs3_files = sorted(glob(args.source_dir + "*.rs3", recursive=False))
+	print("We have in total %d documents to translate from %s to %s:"
+	      % (len(rs3_files), args.source_language, args.target_language))
 	
 	# rs3_files = [
 	#              "/Users/loganpeng/Dropbox/Dissertation/data/GUM_Chinese/data/rs3/gum_zh_whow_quinoa.rs3",
 	# ]
 	
 	for file in rs3_files:
-		auto_trans_rs3(file, autotran_rs3_dir=args.autotran_rs3_dir)
+		auto_trans_rs3(file, autotran_rs3_dir=args.target_dir)
 

@@ -48,7 +48,7 @@
 		<segment id="10" parent="11" relname="organization-preparation">英语 中动态 具有 如下 特点 ： // Dynamics in English have the following characteristics :</segment>
 		<segment id="11" parent="362" relname="span">1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念 // 1) non-event; 2) generality; 3) agency; 4) modal concept</segment>
 		<segment id="12" parent="363" relname="explanation-evidence">[ 2 ] 。 // [ 2 ] .</segment>
-		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论 如何 先于 过程 对 受事 的 影响 ， // In the study of the iconicity of the main dynamics , the action of the agent produces whatever precedes the effect of the process on the subject ,</segment>
+		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论如何 先于 过程 对 受事 的 影响 ， // In the iconographic study of the dominant dynamics , the action of the agent produces whatever precedes the effect of the process on the subject ,</segment>
 		<segment id="14" parent="197" relname="span">也 就 是 因 // That is because</segment>
 		<segment id="15" parent="14" relname="restatement-partial">( 施事 ) // ( Serving )</segment>
 		<segment id="16" parent="199" relname="span">先于 果 // before fruit</segment>
@@ -134,7 +134,7 @@
 		<segment id="96" parent="95" relname="restatement-partial">( mismatch ) ] // ( mismatch )]</segment>
 		<segment id="97" parent="261" relname="purpose-goal">来 达到 意想不到 的 修辞 效果 。 // to achieve unexpected rhetorical effects .</segment>
 		<segment id="98" parent="278" relname="organization-preparation">Halliday 也 曾 明确 表示 了 象似性 的 概念 ， // Halliday also articulates the concept of iconicity,</segment>
-		<segment id="99" parent="276" relname="attribution-positive">他 说 ： // He said :</segment>
+		<segment id="99" parent="276" relname="attribution-positive">他 说 ： // He says :</segment>
 		<segment id="100" parent="268" relname="organization-preparation">在 语言 表达 中 存在 以下 规律 ， // The following rules exist in language expression ,</segment>
 		<segment id="101" parent="268" relname="same-unit">即 信息流 沿着 // i.e. the flow of information along</segment>
 		<segment id="102" parent="264" relname="span">从 旧 信息 // from old information</segment>

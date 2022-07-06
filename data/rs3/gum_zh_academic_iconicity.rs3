@@ -48,7 +48,7 @@
 		<segment id="10" parent="11" relname="organization-preparation">英语 中动态 具有 如下 特点 ：</segment>
 		<segment id="11" parent="362" relname="span">1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念</segment>
 		<segment id="12" parent="363" relname="explanation-evidence">[ 2 ] 。</segment>
-		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论 如何 先于 过程 对 受事 的 影响 ，</segment>
+		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论如何 先于 过程 对 受事 的 影响 ，</segment>
 		<segment id="14" parent="197" relname="span">也 就 是 因</segment>
 		<segment id="15" parent="14" relname="restatement-partial">( 施事 )</segment>
 		<segment id="16" parent="199" relname="span">先于 果</segment>

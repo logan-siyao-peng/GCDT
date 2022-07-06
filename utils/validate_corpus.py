@@ -10,9 +10,15 @@ def main_validator():
 	rs3_files = sorted(glob(args.rs3_dir + os.sep + "*.rs3"))
 	doc_stats_list = []
 	
+	prev_genre = ""
 	for rs3_file in rs3_files:
 		# Get basename and corresponding file names
 		basename = get_basename(rs3_file)
+		curr_genre = basename.split("_")[-2]
+		
+		if prev_genre != curr_genre:
+			print("\n\nStart genre: ", curr_genre)
+			prev_genre = curr_genre
 		
 		# print("o Start validating file: ", basename)
 		

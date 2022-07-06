@@ -25,7 +25,7 @@ def segmentation_agreement(y1, y2):
 	
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
-	parser.add_argument("--janet_dir", "-j", default="../data/JanetIAA/segmented/")
+	parser.add_argument("--janet_dir", "-j", default="../data/JanetIAA/segmented-part-2/")
 	parser.add_argument("--logan_dir", "-l", default="../data/rs3_extracted_edu/")
 	args = parser.parse_args()
 	

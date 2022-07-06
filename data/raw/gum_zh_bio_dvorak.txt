@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_dvorak" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-11-21" shortTitle="dvorak" sourceURL="https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%AE%81%C2%B7%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B" speakerCount="0" speakerList="none" title="安东宁·德沃夏克" type="bio">
+<text id="gum_zh_bio_dvorak" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-11-21" shortTitle="dvorak" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E5%AE%89%E4%B8%9C%E5%AE%81%C2%B7%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B&oldid=68753495" speakerCount="0" speakerList="none" title="安东宁·德沃夏克" type="bio">
 
 安东宁·德沃夏克
 

@@ -36,326 +36,323 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="170" relname="attribution-positive">美国 考虑 // United States considers</segment>
+		<segment id="1" parent="168" relname="attribution-positive">美国 考虑 // United States considers</segment>
 		<segment id="2" parent="3" relname="mode-manner">加大 力度 // Intensify</segment>
-		<segment id="3" parent="170" relname="span">扭转 房地产 颓势 // Reversing the downturn in real estate</segment>
-		<segment id="4" parent="323" relname="context-circumstance">【 2008年 12月 5日 讯 】 // 【 News on December 5, 2008 】</segment>
+		<segment id="3" parent="168" relname="span">扭转 房地产 颓势 // Reversing the downturn in real estate</segment>
+		<segment id="4" parent="317" relname="context-circumstance">【 2008年 12月 5日 讯 】 // 【 News on December 5, 2008 】</segment>
 		<segment id="5" parent="6" relname="attribution-negative">多 种 新 的 经济 数据 显示 ， // A variety of new economic data show that</segment>
-		<segment id="6" parent="172" relname="span">美国 经济 疲软 的 程度 还 在 加深 。 // The slack in the US economy is still deepening .</segment>
-		<segment id="7" parent="176" relname="attribution-positive">美国 政府 正在 考虑 // The US government is considering</segment>
-		<segment id="8" parent="174" relname="mode-manner">加大 力度 // Intensify</segment>
-		<segment id="9" parent="174" relname="same-unit">扭转 // twist</segment>
+		<segment id="6" parent="170" relname="span">美国 经济 疲软 的 程度 还 在 加深 。 // The slack in the US economy is still deepening .</segment>
+		<segment id="7" parent="174" relname="attribution-positive">美国 政府 正在 考虑 // The US government is considering</segment>
+		<segment id="8" parent="172" relname="mode-manner">加大 力度 // Intensify</segment>
+		<segment id="9" parent="172" relname="same-unit">扭转 // twist</segment>
 		<segment id="10" parent="11" relname="elaboration-attribute">房地产 市场 继续 恶化 的 // The real estate market continues to deteriorate</segment>
-		<segment id="11" parent="173" relname="span">势头 ， // momentum,</segment>
-		<segment id="12" parent="175" relname="purpose-goal">从 根源 上 缓解 经济 困境 。 // Alleviate the economic distress from the root cause .</segment>
-		<segment id="13" parent="181" relname="adversative-concession">美国 经济 衰退 虽然 已经 持续 了 一 年 ， // Although the US recession has been going on for a year ,</segment>
-		<segment id="14" parent="180" relname="attribution-positive">但 多 种 新 的 经济 数据 显示 ， // But a variety of new economic data show that</segment>
-		<segment id="15" parent="179" relname="joint-list">情况 不仅 没有 好转 的 迹象 ， // Not only is the situation showing no signs of getting better ,</segment>
-		<segment id="16" parent="179" relname="joint-list">反而 还 在 恶化 。 // Instead it's getting worse.</segment>
-		<segment id="17" parent="179" relname="elaboration-additional">美国 经济 的 最 糟糕 的 局面 可能 还 在 后面 。 // The worst for the US economy may be yet to come .</segment>
-		<segment id="18" parent="184" relname="joint-list">工厂 定单 下跌 // Factory orders fell</segment>
-		<segment id="19" parent="184" relname="joint-list">零售额 减少 // retail sales decrease</segment>
-		<segment id="20" parent="186" relname="attribution-positive">商务部 报告 说 ， // The Commerce Department reports that</segment>
-		<segment id="21" parent="186" relname="span">10月份 的 工厂 定单 猛跌 了 5.1% ， // Factory orders plunged 5.1% in October ,</segment>
-		<segment id="22" parent="185" relname="joint-list">跌幅 之 大 是 8 年 来 之 最 ， // The drop was the largest in 8 years.</segment>
-		<segment id="23" parent="189" relname="span">超过 了 9月份 的 跌幅 。 // more than the drop in September .</segment>
+		<segment id="11" parent="171" relname="span">势头 ， // momentum,</segment>
+		<segment id="12" parent="173" relname="purpose-goal">从 根源 上 缓解 经济 困境 。 // Alleviate the economic distress from the root cause .</segment>
+		<segment id="13" parent="179" relname="adversative-concession">美国 经济 衰退 虽然 已经 持续 了 一 年 ， // Although the US recession has been going on for a year ,</segment>
+		<segment id="14" parent="178" relname="attribution-positive">但 多 种 新 的 经济 数据 显示 ， // But a variety of new economic data show that</segment>
+		<segment id="15" parent="177" relname="joint-list">情况 不仅 没有 好转 的 迹象 ， // Not only is the situation showing no signs of getting better ,</segment>
+		<segment id="16" parent="177" relname="joint-list">反而 还 在 恶化 。 // Instead it's getting worse.</segment>
+		<segment id="17" parent="177" relname="elaboration-additional">美国 经济 的 最 糟糕 的 局面 可能 还 在 后面 。 // The worst for the US economy may be yet to come .</segment>
+		<segment id="18" parent="182" relname="joint-list">工厂 定单 下跌 // Factory orders fell</segment>
+		<segment id="19" parent="182" relname="joint-list">零售额 减少 // retail sales decrease</segment>
+		<segment id="20" parent="184" relname="attribution-positive">商务部 报告 说 ， // The Commerce Department reports that</segment>
+		<segment id="21" parent="184" relname="span">10月份 的 工厂 定单 猛跌 了 5.1% ， // Factory orders plunged 5.1% in October ,</segment>
+		<segment id="22" parent="183" relname="joint-list">跌幅 之 大 是 8 年 来 之 最 ， // The drop was the largest in 8 years.</segment>
+		<segment id="23" parent="187" relname="span">超过 了 9月份 的 跌幅 。 // more than the drop in September .</segment>
 		<segment id="24" parent="23" relname="elaboration-additional">9月 下跌 了 3.1% 。 // It fell 3.1% in September.</segment>
 		<segment id="25" parent="26" relname="elaboration-attribute">定单 减少 的 // Reduced order</segment>
-		<segment id="26" parent="188" relname="span">范围 非常 广泛 ， // The range is very broad,</segment>
-		<segment id="27" parent="188" relname="elaboration-additional">从 金属 、 电脑 、 机械 到 运输 设备 等 几乎 所有 的 行业 。 // Almost every industry , from metals , computers , machinery to transportation equipment .</segment>
-		<segment id="28" parent="190" relname="span">耐用品 定单 减少 了 约7% ， // Durable goods orders fell by about 7% ,</segment>
+		<segment id="26" parent="186" relname="span">范围 非常 广泛 ， // The range is very broad,</segment>
+		<segment id="27" parent="186" relname="elaboration-additional">从 金属 、 电脑 、 机械 到 运输 设备 等 几乎 所有 的 行业 。 // Almost every industry , from metals , computers , machinery to transportation equipment .</segment>
+		<segment id="28" parent="188" relname="span">耐用品 定单 减少 了 约7% ， // Durable goods orders fell by about 7% ,</segment>
 		<segment id="29" parent="28" relname="evaluation-comment">是 2006年 10月 以来 最 大 的 。 // It is the largest since October 2006 .</segment>
-		<segment id="30" parent="191" relname="joint-list">飞机 、 军事 设备 等 资本 商品 下跌 5% 。 // Capital goods such as aircraft and military equipment fell 5 percent .</segment>
+		<segment id="30" parent="189" relname="joint-list">飞机 、 军事 设备 等 资本 商品 下跌 5% 。 // Capital goods such as aircraft and military equipment fell 5 percent .</segment>
 		<segment id="31" parent="32" relname="attribution-positive">工厂 定单 的 大幅度 减少 表示 // The large reduction in factory orders indicates that</segment>
-		<segment id="32" parent="192" relname="span">企业 的 生产 活动 将 在 今后 几 个 月 里 进一步 放慢 。 // The production activity of enterprises will slow down further in the next few months .</segment>
-		<segment id="33" parent="196" relname="span">在 零售业 ， 情况 显然 非常 不妙 。 // In retail , things are obviously very bad .</segment>
-		<segment id="34" parent="193" relname="joint-list">虽然 黑色 星期五 商店 拥挤 不堪 ， // Although black friday stores are crowded ,</segment>
-		<segment id="35" parent="193" relname="joint-list">网上 销售 在 随后 的 星期一 也 出现 强劲 增长 ， // Online sales also saw strong growth the following Monday ,</segment>
+		<segment id="32" parent="190" relname="span">企业 的 生产 活动 将 在 今后 几 个 月 里 进一步 放慢 。 // The production activity of enterprises will slow down further in the next few months .</segment>
+		<segment id="33" parent="194" relname="span">在 零售业 ， 情况 显然 非常 不妙 。 // In retail , things are obviously very bad .</segment>
+		<segment id="34" parent="191" relname="joint-list">虽然 黑色 星期五 商店 拥挤 不堪 ， // Although black friday stores are crowded ,</segment>
+		<segment id="35" parent="191" relname="joint-list">网上 销售 在 随后 的 星期一 也 出现 强劲 增长 ， // Online sales also saw strong growth the following Monday ,</segment>
 		<segment id="36" parent="37" relname="organization-preparation">但 就 整个 11月 的 零售 表现 来看 ， // But in terms of retail performance throughout November ,</segment>
-		<segment id="37" parent="194" relname="span">情况 非常 糟糕 。 // The situation is very bad.</segment>
-		<segment id="38" parent="203" relname="span">高盛 / 国际 采购 中心 协会 的 销售 指数 在 11月 下跌 2.7% ， // The Goldman Sachs/International Association of Purchasing Centres sales index fell 2.7% in November,</segment>
-		<segment id="39" parent="199" relname="same-unit">是 // Yes</segment>
+		<segment id="37" parent="192" relname="span">情况 非常 糟糕 。 // The situation is very bad.</segment>
+		<segment id="38" parent="201" relname="span">高盛 / 国际 采购 中心 协会 的 销售 指数 在 11月 下跌 2.7% ， // The Goldman Sachs/International Association of Purchasing Centres sales index fell 2.7% in November,</segment>
+		<segment id="39" parent="197" relname="same-unit">是 // Yes</segment>
 		<segment id="40" parent="41" relname="elaboration-attribute">1969年 这 项 指数 设立 以来 // Since the index was established in 1969</segment>
-		<segment id="41" parent="198" relname="span">最差 的 ， // the worst ,</segment>
-		<segment id="42" parent="202" relname="same-unit">跌幅 大大 高于 // dropped significantly more than</segment>
+		<segment id="41" parent="196" relname="span">最差 的 ， // the worst ,</segment>
+		<segment id="42" parent="200" relname="same-unit">跌幅 大大 高于 // dropped significantly more than</segment>
 		<segment id="43" parent="44" relname="elaboration-attribute">一些 预测 机构 预测 的 // some forecasting agencies</segment>
-		<segment id="44" parent="201" relname="span">下跌 1% 。 // down 1%.</segment>
-		<segment id="45" parent="236" relname="organization-heading">领取 失业 救济 人数 26 年 来 最 高 // Unemployment claims highest in 26 years</segment>
-		<segment id="46" parent="211" relname="joint-list">劳工部 报告 的 // reported by the Department of Labor</segment>
-		<segment id="47" parent="211" relname="joint-list">上 个 星期 首 次 申请 失业 补贴 的 // who filed for unemployment benefits for the first time last week</segment>
-		<segment id="48" parent="210" relname="span">人数 出人意外 地 减少 了 2.1万 人 。 // The number dropped unexpectedly by 21,000 .</segment>
-		<segment id="49" parent="213" relname="same-unit">但是 // but</segment>
+		<segment id="44" parent="199" relname="span">下跌 1% 。 // down 1%.</segment>
+		<segment id="45" parent="234" relname="organization-heading">领取 失业 救济 人数 26 年 来 最 高 // Unemployment claims highest in 26 years</segment>
+		<segment id="46" parent="209" relname="joint-list">劳工部 报告 的 // reported by the Department of Labor</segment>
+		<segment id="47" parent="209" relname="joint-list">上 个 星期 首 次 申请 失业 补贴 的 // who filed for unemployment benefits for the first time last week</segment>
+		<segment id="48" parent="208" relname="span">人数 出人意外 地 减少 了 2.1万 人 。 // The number dropped unexpectedly by 21,000 .</segment>
+		<segment id="49" parent="211" relname="same-unit">但是 // but</segment>
 		<segment id="50" parent="51" relname="elaboration-attribute">持续 领取 这 项 补贴 一 个 星期 以上 的 // continue to receive this subsidy for more than one week</segment>
-		<segment id="51" parent="212" relname="span">人数 却 增加 了 6250 人 ， // The number has increased by 6250,</segment>
-		<segment id="52" parent="214" relname="joint-list">总数 达到 52.4万 人 。 // The total reached 524,000.</segment>
-		<segment id="53" parent="218" relname="attribution-positive">根据 劳工部 的 数据 ， // According to the Department of Labor ,</segment>
-		<segment id="54" parent="218" relname="same-unit">在 // exist</segment>
+		<segment id="51" parent="210" relname="span">人数 却 增加 了 6250 人 ， // The number has increased by 6250,</segment>
+		<segment id="52" parent="212" relname="joint-list">总数 达到 52.4万 人 。 // The total reached 524,000.</segment>
+		<segment id="53" parent="216" relname="attribution-positive">根据 劳工部 的 数据 ， // According to the Department of Labor ,</segment>
+		<segment id="54" parent="216" relname="same-unit">在 // exist</segment>
 		<segment id="55" parent="56" relname="elaboration-attribute">11月 22日 截止 的 // due 22 November</segment>
-		<segment id="56" parent="216" relname="span">那 个 星期 ， 总共 有 4百零9万 // That week, a total of 4.09 million</segment>
-		<segment id="57" parent="58" relname="elaboration-attribute">被 解雇 的 // fired</segment>
-		<segment id="58" parent="217" relname="span">美国人 持续 领取 // Americans continue to receive</segment>
-		<segment id="59" parent="60" relname="elaboration-attribute">政府 发放 的 // issued by the government</segment>
-		<segment id="60" parent="219" relname="span">失业 救济金 ， // Unemployment benefits ,</segment>
-		<segment id="61" parent="220" relname="evaluation-comment">是 过去 26 年 来 最 多 的 。 // The most in the past 26 years.</segment>
-		<segment id="62" parent="225" relname="same-unit">新 的 数据 跟 // new data with</segment>
-		<segment id="63" parent="222" relname="joint-list">美联储 公布 的 // announced by the Federal Reserve</segment>
-		<segment id="64" parent="65" relname="elaboration-attribute">反映 全国 各 地区 经济 状况 的 // reflect the economic situation of various regions of the country</segment>
-		<segment id="65" parent="223" relname="span">褐皮书 所 描述 的 // described in the beige book</segment>
-		<segment id="66" parent="224" relname="span">情况 是 一致 的 。 // The situation is consistent.</segment>
-		<segment id="67" parent="229" relname="attribution-positive">褐皮书 说 ， // The Beige Book says,</segment>
-		<segment id="68" parent="229" relname="same-unit">在 过去 6 个 星期 里 ， // In the past 6 weeks,</segment>
-		<segment id="69" parent="70" relname="elaboration-attribute">“ 美联储 管辖 的 // "The Federal Reserve</segment>
-		<segment id="70" parent="227" relname="span">各个 地区 的 经济 活动 总体上 看 // Economic activity in each region in general</segment>
-		<segment id="71" parent="72" relname="context-circumstance">比 上 次 报告 时 // compared to the last report</segment>
-		<segment id="72" parent="228" relname="span">进一步 走软 ” 。 // further softening".</segment>
-		<segment id="73" parent="230" relname="attribution-positive">大 部分 地区 都 报告 说 ， // Most regions report that</segment>
-		<segment id="74" parent="230" relname="joint-list">零售 、 汽车 销售 等 都 大幅度 下滑 。 // Retail sales , car sales , etc. have all fallen sharply .</segment>
-		<segment id="75" parent="230" relname="joint-list">旅游 开支 收紧 ， // Tourism spending has tightened</segment>
-		<segment id="76" parent="231" relname="span">服务业 、 制造业 都 在 收缩 ， // Services and manufacturing are shrinking.</segment>
-		<segment id="77" parent="76" relname="causal-result">新 定单 也 非常 疲软 。 // New orders are also very weak .</segment>
-		<segment id="78" parent="230" relname="joint-list">借贷 收紧 ， // Lending tightened,</segment>
-		<segment id="79" parent="230" relname="joint-list">房价 下滑 。 // House prices fell .</segment>
-		<segment id="80" parent="238" relname="joint-list">消费者 储蓄 上升 // Consumer savings rise</segment>
-		<segment id="81" parent="238" relname="joint-list">消费 减少 // consumption decreases</segment>
-		<segment id="82" parent="83" relname="elaboration-attribute">总部 设 在 科罗拉多州 Boulder 市 的 // Headquartered in Boulder, Colorado</segment>
-		<segment id="83" parent="248" relname="span">经济 咨询 公司 “ 行动 经济学 ” 的 首席 经济学家 麦克·恩格伦德 在 // Mike Englund, chief economist at the economic consultancy Action Economics</segment>
-		<segment id="84" parent="85" relname="elaboration-attribute">接受 采访 的 // interviewed</segment>
-		<segment id="85" parent="239" relname="span">时候 说 ， // time to say,</segment>
-		<segment id="86" parent="87" relname="attribution-positive">新 的 数据 显示 ， // The new data shows that</segment>
-		<segment id="87" parent="241" relname="span">经济 正在 进入 一 个 盘旋 下滑 的 通道 ： // The economy is entering a downward spiral :</segment>
-		<segment id="88" parent="242" relname="organization-preparation">“ 总体上 说 ， // "In general,</segment>
-		<segment id="89" parent="90" relname="attribution-positive">经济 数据 相当 一致 地 显示 ， // Economic data shows fairly consistently that</segment>
-		<segment id="90" parent="242" relname="span">经济 已经 进入 一 个 相当 强劲 的 盘旋 下滑 的 通道 。 // The economy has entered a rather strong downward spiral .</segment>
-		<segment id="91" parent="244" relname="span">从 九月 中旬 以来 ， 消费者 和 企业 都 在 加紧 ‘ 去杠杆化 ’ ， // Since mid-September, both consumers and businesses have stepped up 'deleveraging',</segment>
-		<segment id="92" parent="91" relname="elaboration-additional">也 就 是 收缩 开支 ， // That is, to reduce spending,</segment>
-		<segment id="93" parent="245" relname="joint-list">结果 导致 股市 大幅度 下跌 ， // As a result, the stock market fell sharply,</segment>
-		<segment id="94" parent="245" relname="joint-list">工厂 定单 下滑 ， // Factory orders fell ,</segment>
-		<segment id="95" parent="245" relname="joint-list">失业 人数 大增 ， // Unemployment has soared,</segment>
-		<segment id="96" parent="245" relname="joint-list">零售 大幅 滑坡 。 ” // Retail sales plummeted. "</segment>
-		<segment id="97" parent="98" relname="attribution-positive">恩格伦德 指出 ， // Englund pointed out,</segment>
-		<segment id="98" parent="268" relname="span">这 一 轮 经济 下滑 中 ， 最 主要 的 因素 是 消费者 心理 和 行为 发生 了 重大 的 变化 。 // In this round of economic downturn , the most important factor is the major changes in consumer psychology and behavior .</segment>
-		<segment id="99" parent="255" relname="same-unit">从 80年 以来 ， // Since 80 years,</segment>
-		<segment id="100" parent="101" relname="adversative-concession">无论 经济 遇到 什么 困难 ， // No matter what difficulties the economy encounters,</segment>
-		<segment id="101" parent="254" relname="span">企业 会 收缩 ， // Businesses will shrink,</segment>
-		<segment id="102" parent="253" relname="span">但 消费者 的 行为 一直 没有 大 的 变化 。 // But consumer behavior has not changed much .</segment>
-		<segment id="103" parent="102" relname="elaboration-additional">消费 开支 跟 收入 的 比例 几十 年 来 都 相当 稳定 。 // The ratio of consumer spending to income has been fairly stable for decades .</segment>
-		<segment id="104" parent="257" relname="context-background">但是 在 过去 的 8 到 10 个 星期 里 ， 情况 发生 了 变化 ， // But in the past 8 to 10 weeks, things have changed,</segment>
-		<segment id="105" parent="257" relname="span">储蓄率 迅速 上升 ， // The savings rate has risen rapidly,</segment>
-		<segment id="106" parent="105" relname="evaluation-comment">这 是 1980 以来 从来 没有 见 过 的 。 // This has not been seen since the 1980s.</segment>
-		<segment id="107" parent="259" relname="causal-cause">消费者 感到 了 恐慌 ， // consumers are panicking</segment>
-		<segment id="108" parent="259" relname="joint-sequence">把 自己 的 钱 从 其它 地方 收 回来 ， // Get your money back from elsewhere,</segment>
-		<segment id="109" parent="259" relname="joint-sequence">放到 银行 里 。 // Put it in the bank.</segment>
-		<segment id="110" parent="262" relname="attribution-positive">恩格伦德 说 ， // Englund said,</segment>
-		<segment id="111" parent="261" relname="joint-list">只要 消费者 紧缩 开支 ， // As long as consumers tighten their spending ,</segment>
-		<segment id="112" parent="261" relname="joint-list">增加 储蓄 ， // increase savings,</segment>
-		<segment id="113" parent="262" relname="span">经济 下滑 的 势头 就 不 会 停止 。 // The economic downturn will not stop .</segment>
-		<segment id="114" parent="271" relname="span">制定 计划 // making plans</segment>
-		<segment id="115" parent="114" relname="purpose-goal">解决 房地产 衰退 根源 // Addressing the root causes of the real estate recession</segment>
-		<segment id="116" parent="274" relname="organization-preparation">针对 经济 全面 下滑 的 情况 ， // In response to a general economic downturn ,</segment>
-		<segment id="117" parent="272" relname="joint-list">美联储 主席 伯南克 发表 讲话 ， // Fed Chairman Bernanke delivered a speech ,</segment>
-		<segment id="118" parent="272" relname="joint-list">表示 // express</segment>
-		<segment id="119" parent="273" relname="span">政府 正在 制定 新 的 计划 ， // The government is working on a new plan ,</segment>
-		<segment id="120" parent="119" relname="purpose-goal">加强 对 衰退 源头 房地产 市场 问题 的 治理 。 // Strengthen the governance of real estate market problems at the source of recession .</segment>
-		<segment id="121" parent="280" relname="attribution-positive">伯南克 说 ， // Bernanke said,</segment>
-		<segment id="122" parent="123" relname="adversative-concession">房地产 市场 是 这 次 衰退 的 起因 ， // The housing market is the cause of this recession ,</segment>
-		<segment id="123" parent="276" relname="span">但 现在 情况 越来越 复杂 ， // But now things are getting more complicated.</segment>
-		<segment id="124" parent="125" relname="causal-cause">信贷 紧缩 、 失业 扩大 ， 零售 下滑 等 各 种 问题 反 过来 又 给 房地产 市场 增加 了 很 大 的 压力 ， // Various problems such as the credit crunch , the expansion of unemployment , and the decline in retail sales have in turn put a lot of pressure on the real estate market .</segment>
-		<segment id="125" parent="277" relname="span">造成 了 更 多 的 房主 失去 自己 的 房屋 。 // causing more homeowners to lose their homes .</segment>
-		<segment id="126" parent="278" relname="joint-list">而 房地产 市场 形势 的 恶化 又 加快 了 衰退 的 速度 。 // And the deterioration of the housing market has accelerated the recession .</segment>
-		<segment id="127" parent="282" relname="purpose-goal">为了 打破 房地产 市场 和 其它 行业 衰退 之间 的 恶性 循环 ， // To break the vicious cycle between the housing market and other industry downturns ,</segment>
-		<segment id="128" parent="281" relname="attribution-positive">伯南克 表示 ， // Bernanke said,</segment>
-		<segment id="129" parent="281" relname="span">政府 正在 研究 新 的 计划 ， // The government is working on new plans ,</segment>
-		<segment id="130" parent="129" relname="purpose-goal">阻止 失赎 房屋 数量 的 增加 。 // Stop the increase in the number of foreclosed homes .</segment>
-		<segment id="131" parent="286" relname="adversative-concession">具体 做法 虽然 还 在 研究 之中 ， // Although the specific method is still under study ,</segment>
-		<segment id="132" parent="285" relname="attribution-positive">但 伯南克 表示 ， // But Bernanke said,</segment>
-		<segment id="133" parent="285" relname="joint-list">努力 方向 是 和 房贷 机构 协商 降低 房贷 利率 ， // The direction of the effort is to negotiate with the mortgage agency to reduce the mortgage interest rate,</segment>
-		<segment id="134" parent="284" relname="same-unit">减轻 // lighten</segment>
-		<segment id="135" parent="136" relname="elaboration-attribute">遇到 困难 的 // encountered difficulties</segment>
-		<segment id="136" parent="283" relname="span">房主 每月 还贷 的 压力 ， // Homeowners' pressure to make monthly mortgage payments,</segment>
-		<segment id="137" parent="285" relname="joint-list">同时 刺激 买房 需求 。 // At the same time stimulate the demand for housing .</segment>
-		<segment id="138" parent="291" relname="span">金融 信息 服务 网站 Bankrate 的 金融 分析师 格雷格·麦克布莱德 // Financial Information Services Website Bankrate Financial Analyst Greg McBride</segment>
-		<segment id="139" parent="138" relname="restatement-partial">（ Greg McBride ） // (Greg McBride)</segment>
-		<segment id="140" parent="295" relname="same-unit">在 // exist</segment>
-		<segment id="141" parent="142" relname="elaboration-attribute">接受 媒体 采访 的 // interviewed by the media</segment>
-		<segment id="142" parent="292" relname="span">时候 对 政府 的 新 的 做法 予以 肯定 ： // It's time to affirm the government's new approach:</segment>
-		<segment id="143" parent="144" relname="purpose-attribute">“ 降低 房贷 利率 的 // " lower mortgage rates</segment>
-		<segment id="144" parent="296" relname="span">目的 是 增加 // The purpose is to increase</segment>
-		<segment id="145" parent="146" relname="attribution-positive">那些 打算 // those intend to</segment>
-		<segment id="146" parent="297" relname="span">买 房子 的 // to buy a house</segment>
-		<segment id="147" parent="298" relname="span">人 腰包 里 的 购买力 。 // Purchasing power in people's pockets.</segment>
-		<segment id="148" parent="149" relname="contingency-condition">只要 你 想 买 房子 ， // As long as you want to buy a house,</segment>
-		<segment id="149" parent="300" relname="span">你 就 会 得到 好处 。 // You'll get the benefit.</segment>
-		<segment id="150" parent="302" relname="same-unit">这 同时 也 有利于 // This also benefits</segment>
-		<segment id="151" parent="152" relname="elaboration-attribute">那些 要 卖 房子 的 // those who are selling houses</segment>
-		<segment id="152" parent="301" relname="span">人 。 ” // people . "</segment>
-		<segment id="153" parent="306" relname="attribution-positive">美联储 最近 公布 了 // The Fed recently announced</segment>
-		<segment id="154" parent="306" relname="same-unit">要 大量 购买 房贷 融资 公司 房利美 、 房地美 和 Ginnie Mae 的 房贷 支持 债券 等 计划 ， 和 // programs such as mortgage-backed bonds from home loan financing companies Fannie Mae, Freddie Mac, and Ginnie Mae, and</segment>
-		<segment id="155" parent="156" relname="elaboration-attribute">采取 零 利率 的 // with zero interest</segment>
-		<segment id="156" parent="307" relname="span">意向 ， // intention,</segment>
-		<segment id="157" parent="311" relname="span">这些 动作 在 房贷 市场 引起 了 积极 的 反应 。 // These moves have sparked a positive reaction in the mortgage market .</segment>
-		<segment id="158" parent="309" relname="joint-list">上 周 的 30 年期 抵押 贷款 固定 利率 平均 水平 从 前 一 周 的 5.99% 下降 到 5.47% ， // The 30-year mortgage fixed rate average fell to 5.47% last week from 5.99% the previous week,</segment>
-		<segment id="159" parent="309" relname="joint-list">达到 2005年 6月 以来 的 最低点 。 // hit its lowest point since june 2005 .</segment>
-		<segment id="160" parent="310" relname="joint-list">房贷 申请 数量 大幅度 增加 。 // Mortgage applications have increased substantially .</segment>
-		<segment id="161" parent="310" relname="joint-list">购房 抵押 贷款 申请 和 再融资 贷款 申请 活动 都 异常 活跃 。 // Mortgage applications for home purchases and refinancing applications were both extremely active .</segment>
-		<segment id="162" parent="163" relname="attribution-positive">经济学家 恩格伦德 也 认为 ， // Economist Englund also believes that ,</segment>
-		<segment id="163" parent="318" relname="span">政府 在 刺激 购房 需求 方面 还 有 很 大 的 运做 空间 。 // The government still has a lot of room for maneuver in stimulating housing demand .</segment>
-		<segment id="164" parent="313" relname="same-unit">一 方面 可以 // On the one hand, it can</segment>
-		<segment id="165" parent="166" relname="mode-means">通过 税收 结构 的 调整 ， // Through the adjustment of tax structure ,</segment>
-		<segment id="166" parent="312" relname="span">给 购屋者 提供 优惠 ， // Offer discounts to homebuyers,</segment>
-		<segment id="167" parent="315" relname="same-unit">另 一 方面 可以 // On the other hand, you can</segment>
-		<segment id="168" parent="169" relname="mode-means">利用 政府 目前 对 房利美 和 房地美 等 房贷 融资 机构 的 控制 // Take advantage of the government 's current control over mortgage financing institutions such as Fannie Mae and Freddie Mac .</segment>
-		<segment id="169" parent="314" relname="span">来 降低 房贷 利率 。 // to lower mortgage rates.</segment>
-		<group id="170" type="span" parent="171" relname="span"/>
-		<group id="171" type="span" parent="324" relname="organization-heading"/>
-		<group id="172" type="span" parent="177" relname="context-background"/>
-		<group id="173" type="span" parent="174" relname="same-unit"/>
-		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<segment id="56" parent="214" relname="span">那 个 星期 ， 总共 有 4百零9万 被 解雇 的 美国人 持续 领取 // A total of 4.09 million laid off Americans continued to receive that week</segment>
+		<segment id="57" parent="58" relname="elaboration-attribute">政府 发放 的 // issued by the government</segment>
+		<segment id="58" parent="217" relname="span">失业 救济金 ， // Unemployment benefits ,</segment>
+		<segment id="59" parent="218" relname="evaluation-comment">是 过去 26 年 来 最 多 的 。 // The most in the past 26 years.</segment>
+		<segment id="60" parent="223" relname="same-unit">新 的 数据 跟 // new data with</segment>
+		<segment id="61" parent="220" relname="joint-list">美联储 公布 的 // announced by the Federal Reserve</segment>
+		<segment id="62" parent="63" relname="elaboration-attribute">反映 全国 各 地区 经济 状况 的 // reflect the economic situation of various regions of the country</segment>
+		<segment id="63" parent="221" relname="span">褐皮书 所 描述 的 // described in the beige book</segment>
+		<segment id="64" parent="222" relname="span">情况 是 一致 的 。 // The situation is consistent.</segment>
+		<segment id="65" parent="227" relname="attribution-positive">褐皮书 说 ， // The Beige Book says,</segment>
+		<segment id="66" parent="227" relname="same-unit">在 过去 6 个 星期 里 ， // In the past 6 weeks,</segment>
+		<segment id="67" parent="68" relname="elaboration-attribute">“ 美联储 管辖 的 // "The Federal Reserve</segment>
+		<segment id="68" parent="225" relname="span">各个 地区 的 经济 活动 总体上 看 // Economic activity in each region in general</segment>
+		<segment id="69" parent="70" relname="context-circumstance">比 上 次 报告 时 // compared to the last report</segment>
+		<segment id="70" parent="226" relname="span">进一步 走软 ” 。 // further softening".</segment>
+		<segment id="71" parent="228" relname="attribution-positive">大 部分 地区 都 报告 说 ， // Most regions report that</segment>
+		<segment id="72" parent="228" relname="joint-list">零售 、 汽车 销售 等 都 大幅度 下滑 。 // Retail sales , car sales , etc. have all fallen sharply .</segment>
+		<segment id="73" parent="228" relname="joint-list">旅游 开支 收紧 ， // Tourism spending has tightened</segment>
+		<segment id="74" parent="229" relname="span">服务业 、 制造业 都 在 收缩 ， // Services and manufacturing are shrinking.</segment>
+		<segment id="75" parent="74" relname="causal-result">新 定单 也 非常 疲软 。 // New orders are also very weak .</segment>
+		<segment id="76" parent="228" relname="joint-list">借贷 收紧 ， // Lending tightened,</segment>
+		<segment id="77" parent="228" relname="joint-list">房价 下滑 。 // House prices fell .</segment>
+		<segment id="78" parent="236" relname="joint-list">消费者 储蓄 上升 // Consumer savings rise</segment>
+		<segment id="79" parent="236" relname="joint-list">消费 减少 // consumption decreases</segment>
+		<segment id="80" parent="81" relname="elaboration-attribute">总部 设 在 科罗拉多州 Boulder 市 的 // Headquartered in Boulder, Colorado</segment>
+		<segment id="81" parent="245" relname="span">经济 咨询 公司 “ 行动 经济学 ” 的 首席 经济学家 麦克·恩格伦德 在 // Mike Englund, chief economist at the economic consultancy Action Economics</segment>
+		<segment id="82" parent="83" relname="elaboration-attribute">接受 采访 的 // interviewed</segment>
+		<segment id="83" parent="237" relname="span">时候 说 ， // time to say,</segment>
+		<segment id="84" parent="85" relname="attribution-positive">新 的 数据 显示 ， // The new data shows that</segment>
+		<segment id="85" parent="238" relname="span">经济 正在 进入 一 个 盘旋 下滑 的 通道 ： // The economy is entering a downward spiral :</segment>
+		<segment id="86" parent="239" relname="organization-preparation">“ 总体上 说 ， // "In general,</segment>
+		<segment id="87" parent="88" relname="attribution-positive">经济 数据 相当 一致 地 显示 ， // Economic data shows fairly consistently that</segment>
+		<segment id="88" parent="239" relname="span">经济 已经 进入 一 个 相当 强劲 的 盘旋 下滑 的 通道 。 // The economy has entered a rather strong downward spiral .</segment>
+		<segment id="89" parent="241" relname="span">从 九月 中旬 以来 ， 消费者 和 企业 都 在 加紧 ‘ 去杠杆化 ’ ， // Since mid-September, both consumers and businesses have stepped up 'deleveraging',</segment>
+		<segment id="90" parent="89" relname="elaboration-additional">也 就 是 收缩 开支 ， // That is, to reduce spending,</segment>
+		<segment id="91" parent="242" relname="joint-list">结果 导致 股市 大幅度 下跌 ， // As a result, the stock market fell sharply,</segment>
+		<segment id="92" parent="242" relname="joint-list">工厂 定单 下滑 ， // Factory orders fell ,</segment>
+		<segment id="93" parent="242" relname="joint-list">失业 人数 大增 ， // Unemployment has soared,</segment>
+		<segment id="94" parent="242" relname="joint-list">零售 大幅 滑坡 。 ” // Retail sales plummeted. "</segment>
+		<segment id="95" parent="96" relname="attribution-positive">恩格伦德 指出 ， // Englund pointed out,</segment>
+		<segment id="96" parent="264" relname="span">这 一 轮 经济 下滑 中 ， 最 主要 的 因素 是 消费者 心理 和 行为 发生 了 重大 的 变化 。 // In this round of economic downturn , the most important factor is the major changes in consumer psychology and behavior .</segment>
+		<segment id="97" parent="251" relname="same-unit">从 80年 以来 ， // Since 80 years,</segment>
+		<segment id="98" parent="99" relname="adversative-concession">无论 经济 遇到 什么 困难 ， // No matter what difficulties the economy encounters,</segment>
+		<segment id="99" parent="250" relname="span">企业 会 收缩 ， // Businesses will shrink,</segment>
+		<segment id="100" parent="249" relname="span">但 消费者 的 行为 一直 没有 大 的 变化 。 // But consumer behavior has not changed much .</segment>
+		<segment id="101" parent="100" relname="elaboration-additional">消费 开支 跟 收入 的 比例 几十 年 来 都 相当 稳定 。 // The ratio of consumer spending to income has been fairly stable for decades .</segment>
+		<segment id="102" parent="253" relname="context-background">但是 在 过去 的 8 到 10 个 星期 里 ， 情况 发生 了 变化 ， // But in the past 8 to 10 weeks, things have changed,</segment>
+		<segment id="103" parent="253" relname="span">储蓄率 迅速 上升 ， // The savings rate has risen rapidly,</segment>
+		<segment id="104" parent="103" relname="evaluation-comment">这 是 1980 以来 从来 没有 见 过 的 。 // This has not been seen since the 1980s.</segment>
+		<segment id="105" parent="255" relname="causal-cause">消费者 感到 了 恐慌 ， // consumers are panicking</segment>
+		<segment id="106" parent="255" relname="joint-sequence">把 自己 的 钱 从 其它 地方 收 回来 ， // Get your money back from elsewhere,</segment>
+		<segment id="107" parent="255" relname="joint-sequence">放到 银行 里 。 // Put it in the bank.</segment>
+		<segment id="108" parent="258" relname="attribution-positive">恩格伦德 说 ， // Englund said,</segment>
+		<segment id="109" parent="257" relname="joint-list">只要 消费者 紧缩 开支 ， // As long as consumers tighten their spending ,</segment>
+		<segment id="110" parent="257" relname="joint-list">增加 储蓄 ， // increase savings,</segment>
+		<segment id="111" parent="258" relname="span">经济 下滑 的 势头 就 不 会 停止 。 // The economic downturn will not stop .</segment>
+		<segment id="112" parent="267" relname="span">制定 计划 // making plans</segment>
+		<segment id="113" parent="112" relname="purpose-goal">解决 房地产 衰退 根源 // Addressing the root causes of the real estate recession</segment>
+		<segment id="114" parent="270" relname="organization-preparation">针对 经济 全面 下滑 的 情况 ， // In response to a general economic downturn ,</segment>
+		<segment id="115" parent="268" relname="joint-list">美联储 主席 伯南克 发表 讲话 ， // Fed Chairman Bernanke delivered a speech ,</segment>
+		<segment id="116" parent="268" relname="joint-list">表示 // express</segment>
+		<segment id="117" parent="269" relname="span">政府 正在 制定 新 的 计划 ， // The government is working on a new plan ,</segment>
+		<segment id="118" parent="117" relname="purpose-goal">加强 对 衰退 源头 房地产 市场 问题 的 治理 。 // Strengthen the governance of real estate market problems at the source of recession .</segment>
+		<segment id="119" parent="276" relname="attribution-positive">伯南克 说 ， // Bernanke said,</segment>
+		<segment id="120" parent="121" relname="adversative-concession">房地产 市场 是 这 次 衰退 的 起因 ， // The housing market is the cause of this recession ,</segment>
+		<segment id="121" parent="272" relname="span">但 现在 情况 越来越 复杂 ， // But now things are getting more complicated.</segment>
+		<segment id="122" parent="123" relname="causal-cause">信贷 紧缩 、 失业 扩大 ， 零售 下滑 等 各 种 问题 反 过来 又 给 房地产 市场 增加 了 很 大 的 压力 ， // Various problems such as the credit crunch , the expansion of unemployment , and the decline in retail sales have in turn put a lot of pressure on the real estate market .</segment>
+		<segment id="123" parent="273" relname="span">造成 了 更 多 的 房主 失去 自己 的 房屋 。 // causing more homeowners to lose their homes .</segment>
+		<segment id="124" parent="274" relname="joint-list">而 房地产 市场 形势 的 恶化 又 加快 了 衰退 的 速度 。 // And the deterioration of the housing market has accelerated the recession .</segment>
+		<segment id="125" parent="278" relname="purpose-goal">为了 打破 房地产 市场 和 其它 行业 衰退 之间 的 恶性 循环 ， // To break the vicious cycle between the housing market and other industry downturns ,</segment>
+		<segment id="126" parent="277" relname="attribution-positive">伯南克 表示 ， // Bernanke said,</segment>
+		<segment id="127" parent="277" relname="span">政府 正在 研究 新 的 计划 ， // The government is working on new plans ,</segment>
+		<segment id="128" parent="127" relname="purpose-goal">阻止 失赎 房屋 数量 的 增加 。 // Stop the increase in the number of foreclosed homes .</segment>
+		<segment id="129" parent="282" relname="adversative-concession">具体 做法 虽然 还 在 研究 之中 ， // Although the specific method is still under study ,</segment>
+		<segment id="130" parent="281" relname="attribution-positive">但 伯南克 表示 ， // But Bernanke said,</segment>
+		<segment id="131" parent="281" relname="joint-list">努力 方向 是 和 房贷 机构 协商 降低 房贷 利率 ， // The direction of the effort is to negotiate with the mortgage agency to reduce the mortgage interest rate,</segment>
+		<segment id="132" parent="280" relname="same-unit">减轻 // lighten</segment>
+		<segment id="133" parent="134" relname="elaboration-attribute">遇到 困难 的 // encountered difficulties</segment>
+		<segment id="134" parent="279" relname="span">房主 每月 还贷 的 压力 ， // Homeowners' pressure to make monthly mortgage payments,</segment>
+		<segment id="135" parent="281" relname="joint-list">同时 刺激 买房 需求 。 // At the same time stimulate the demand for housing .</segment>
+		<segment id="136" parent="287" relname="span">金融 信息 服务 网站 Bankrate 的 金融 分析师 格雷格·麦克布莱德 // Financial Information Services Website Bankrate Financial Analyst Greg McBride</segment>
+		<segment id="137" parent="136" relname="restatement-partial">（ Greg McBride ） // (Greg McBride)</segment>
+		<segment id="138" parent="289" relname="same-unit">在 // exist</segment>
+		<segment id="139" parent="140" relname="elaboration-attribute">接受 媒体 采访 的 // interviewed by the media</segment>
+		<segment id="140" parent="288" relname="span">时候 对 政府 的 新 的 做法 予以 肯定 ： // It's time to affirm the government's new approach:</segment>
+		<segment id="141" parent="142" relname="purpose-attribute">“ 降低 房贷 利率 的 // " lower mortgage rates</segment>
+		<segment id="142" parent="290" relname="span">目的 是 增加 // The purpose is to increase</segment>
+		<segment id="143" parent="144" relname="attribution-positive">那些 打算 // those intend to</segment>
+		<segment id="144" parent="291" relname="span">买 房子 的 // to buy a house</segment>
+		<segment id="145" parent="292" relname="span">人 腰包 里 的 购买力 。 // Purchasing power in people's pockets.</segment>
+		<segment id="146" parent="147" relname="contingency-condition">只要 你 想 买 房子 ， // As long as you want to buy a house,</segment>
+		<segment id="147" parent="294" relname="span">你 就 会 得到 好处 。 // You'll get the benefit.</segment>
+		<segment id="148" parent="296" relname="same-unit">这 同时 也 有利于 // This also benefits</segment>
+		<segment id="149" parent="150" relname="elaboration-attribute">那些 要 卖 房子 的 // those who are selling houses</segment>
+		<segment id="150" parent="295" relname="span">人 。 ” // people . "</segment>
+		<segment id="151" parent="300" relname="attribution-positive">美联储 最近 公布 了 // The Fed recently announced</segment>
+		<segment id="152" parent="300" relname="same-unit">要 大量 购买 房贷 融资 公司 房利美 、 房地美 和 Ginnie Mae 的 房贷 支持 债券 等 计划 ， 和 // programs such as mortgage-backed bonds from home loan financing companies Fannie Mae, Freddie Mac, and Ginnie Mae, and</segment>
+		<segment id="153" parent="154" relname="elaboration-attribute">采取 零 利率 的 // with zero interest</segment>
+		<segment id="154" parent="301" relname="span">意向 ， // intention,</segment>
+		<segment id="155" parent="305" relname="span">这些 动作 在 房贷 市场 引起 了 积极 的 反应 。 // These moves have sparked a positive reaction in the mortgage market .</segment>
+		<segment id="156" parent="303" relname="joint-list">上 周 的 30 年期 抵押 贷款 固定 利率 平均 水平 从 前 一 周 的 5.99% 下降 到 5.47% ， // The 30-year mortgage fixed rate average fell to 5.47% last week from 5.99% the previous week,</segment>
+		<segment id="157" parent="303" relname="joint-list">达到 2005年 6月 以来 的 最低点 。 // hit its lowest point since june 2005 .</segment>
+		<segment id="158" parent="304" relname="joint-list">房贷 申请 数量 大幅度 增加 。 // Mortgage applications have increased substantially .</segment>
+		<segment id="159" parent="304" relname="joint-list">购房 抵押 贷款 申请 和 再融资 贷款 申请 活动 都 异常 活跃 。 // Mortgage applications for home purchases and refinancing applications were both extremely active .</segment>
+		<segment id="160" parent="161" relname="attribution-positive">经济学家 恩格伦德 也 认为 ， // Economist Englund also believes that ,</segment>
+		<segment id="161" parent="312" relname="span">政府 在 刺激 购房 需求 方面 还 有 很 大 的 运做 空间 。 // The government still has a lot of room for maneuver in stimulating housing demand .</segment>
+		<segment id="162" parent="307" relname="same-unit">一 方面 可以 // On the one hand, it can</segment>
+		<segment id="163" parent="164" relname="mode-means">通过 税收 结构 的 调整 ， // Through the adjustment of tax structure ,</segment>
+		<segment id="164" parent="306" relname="span">给 购屋者 提供 优惠 ， // Offer discounts to homebuyers,</segment>
+		<segment id="165" parent="309" relname="same-unit">另 一 方面 可以 // On the other hand, you can</segment>
+		<segment id="166" parent="167" relname="mode-means">利用 政府 目前 对 房利美 和 房地美 等 房贷 融资 机构 的 控制 // Take advantage of the government 's current control over mortgage financing institutions such as Fannie Mae and Freddie Mac .</segment>
+		<segment id="167" parent="308" relname="span">来 降低 房贷 利率 。 // to lower mortgage rates.</segment>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" parent="318" relname="organization-heading"/>
+		<group id="170" type="span" parent="175" relname="context-background"/>
+		<group id="171" type="span" parent="172" relname="same-unit"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="175" relname="span"/>
 		<group id="175" type="span" parent="176" relname="span"/>
-		<group id="176" type="span" parent="177" relname="span"/>
-		<group id="177" type="span" parent="178" relname="span"/>
-		<group id="178" type="span" parent="183" relname="span"/>
-		<group id="179" type="multinuc" parent="180" relname="span"/>
-		<group id="180" type="span" parent="181" relname="span"/>
-		<group id="181" type="span" parent="182" relname="span"/>
-		<group id="182" type="span" parent="178" relname="explanation-justify"/>
-		<group id="183" type="span" parent="322" relname="context-background"/>
-		<group id="184" type="multinuc" parent="208" relname="organization-heading"/>
-		<group id="185" type="multinuc" parent="21" relname="evaluation-comment"/>
-		<group id="186" type="span" parent="187" relname="span"/>
-		<group id="187" type="span" parent="207" relname="span"/>
-		<group id="188" type="span" parent="204" relname="span"/>
-		<group id="189" type="span" parent="185" relname="joint-list"/>
-		<group id="190" type="span" parent="191" relname="joint-list"/>
-		<group id="191" type="multinuc" parent="197" relname="joint-list"/>
-		<group id="192" type="span" parent="197" relname="joint-list"/>
-		<group id="193" type="multinuc" parent="194" relname="adversative-concession"/>
-		<group id="194" type="span" parent="195" relname="span"/>
-		<group id="195" type="span" parent="206" relname="joint-list"/>
-		<group id="196" type="span" parent="208" relname="joint-list"/>
-		<group id="197" type="multinuc" parent="204" relname="explanation-evidence"/>
-		<group id="198" type="span" parent="199" relname="same-unit"/>
-		<group id="199" type="multinuc" parent="200" relname="joint-list"/>
-		<group id="200" type="multinuc" parent="38" relname="evaluation-comment"/>
-		<group id="201" type="span" parent="202" relname="same-unit"/>
-		<group id="202" type="multinuc" parent="200" relname="joint-list"/>
-		<group id="203" type="span" parent="206" relname="joint-list"/>
-		<group id="204" type="span" parent="205" relname="span"/>
-		<group id="205" type="span" parent="187" relname="elaboration-additional"/>
-		<group id="206" type="multinuc" parent="33" relname="explanation-evidence"/>
-		<group id="207" type="span" parent="208" relname="joint-list"/>
-		<group id="208" type="multinuc" parent="209" relname="span"/>
-		<group id="209" type="span" parent="322" relname="joint-other"/>
-		<group id="210" type="span" parent="215" relname="adversative-contrast"/>
-		<group id="211" type="multinuc" parent="48" relname="elaboration-attribute"/>
-		<group id="212" type="span" parent="213" relname="same-unit"/>
-		<group id="213" type="multinuc" parent="214" relname="joint-list"/>
-		<group id="214" type="multinuc" parent="226" relname="span"/>
-		<group id="215" type="multinuc" parent="236" relname="joint-other"/>
-		<group id="216" type="span" parent="218" relname="same-unit"/>
-		<group id="217" type="span" parent="218" relname="same-unit"/>
-		<group id="218" type="multinuc" parent="220" relname="span"/>
-		<group id="219" type="span" parent="218" relname="same-unit"/>
-		<group id="220" type="span" parent="221" relname="span"/>
-		<group id="221" type="span" parent="214" relname="elaboration-additional"/>
-		<group id="222" type="multinuc" parent="66" relname="elaboration-attribute"/>
-		<group id="223" type="span" parent="222" relname="joint-list"/>
-		<group id="224" type="span" parent="225" relname="same-unit"/>
-		<group id="225" type="multinuc" parent="235" relname="span"/>
-		<group id="226" type="span" parent="215" relname="adversative-contrast"/>
-		<group id="227" type="span" parent="229" relname="same-unit"/>
-		<group id="228" type="span" parent="229" relname="same-unit"/>
-		<group id="229" type="multinuc" parent="233" relname="span"/>
-		<group id="230" type="multinuc" parent="232" relname="span"/>
-		<group id="231" type="span" parent="230" relname="joint-list"/>
-		<group id="232" type="span" parent="234" relname="joint-list"/>
-		<group id="233" type="span" parent="234" relname="joint-list"/>
-		<group id="234" type="multinuc" parent="225" relname="explanation-evidence"/>
-		<group id="235" type="span" parent="236" relname="joint-other"/>
-		<group id="236" type="multinuc" parent="237" relname="span"/>
-		<group id="237" type="span" parent="322" relname="joint-other"/>
-		<group id="238" type="multinuc" parent="269" relname="organization-heading"/>
-		<group id="239" type="span" parent="250" relname="same-unit"/>
-		<group id="241" type="span" parent="251" relname="span"/>
-		<group id="242" type="span" parent="243" relname="span"/>
-		<group id="243" type="span" parent="247" relname="span"/>
-		<group id="244" type="span" parent="245" relname="causal-cause"/>
-		<group id="245" type="multinuc" parent="246" relname="span"/>
-		<group id="246" type="span" parent="243" relname="explanation-evidence"/>
-		<group id="247" type="span" parent="241" relname="elaboration-additional"/>
-		<group id="248" type="span" parent="250" relname="same-unit"/>
-		<group id="250" type="multinuc" parent="251" relname="attribution-positive"/>
-		<group id="251" type="span" parent="252" relname="span"/>
-		<group id="252" type="span" parent="267" relname="context-background"/>
-		<group id="253" type="span" parent="256" relname="adversative-contrast"/>
-		<group id="254" type="span" parent="255" relname="same-unit"/>
-		<group id="255" type="multinuc" parent="256" relname="adversative-contrast"/>
-		<group id="256" type="multinuc" parent="265" relname="context-background"/>
-		<group id="257" type="span" parent="258" relname="span"/>
-		<group id="258" type="span" parent="264" relname="span"/>
-		<group id="259" type="multinuc" parent="260" relname="span"/>
-		<group id="260" type="span" parent="258" relname="explanation-justify"/>
-		<group id="261" type="multinuc" parent="113" relname="contingency-condition"/>
-		<group id="262" type="span" parent="263" relname="span"/>
-		<group id="263" type="span" parent="264" relname="evaluation-comment"/>
-		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="176" type="span" parent="181" relname="span"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="176" relname="explanation-justify"/>
+		<group id="181" type="span" parent="316" relname="context-background"/>
+		<group id="182" type="multinuc" parent="206" relname="organization-heading"/>
+		<group id="183" type="multinuc" parent="21" relname="evaluation-comment"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="205" relname="span"/>
+		<group id="186" type="span" parent="202" relname="span"/>
+		<group id="187" type="span" parent="183" relname="joint-list"/>
+		<group id="188" type="span" parent="189" relname="joint-list"/>
+		<group id="189" type="multinuc" parent="195" relname="joint-list"/>
+		<group id="190" type="span" parent="195" relname="joint-list"/>
+		<group id="191" type="multinuc" parent="192" relname="adversative-concession"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="204" relname="joint-list"/>
+		<group id="194" type="span" parent="206" relname="joint-list"/>
+		<group id="195" type="multinuc" parent="202" relname="explanation-evidence"/>
+		<group id="196" type="span" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="198" type="multinuc" parent="38" relname="evaluation-comment"/>
+		<group id="199" type="span" parent="200" relname="same-unit"/>
+		<group id="200" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="201" type="span" parent="204" relname="joint-list"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="185" relname="elaboration-additional"/>
+		<group id="204" type="multinuc" parent="33" relname="explanation-evidence"/>
+		<group id="205" type="span" parent="206" relname="joint-list"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="316" relname="joint-other"/>
+		<group id="208" type="span" parent="213" relname="adversative-contrast"/>
+		<group id="209" type="multinuc" parent="48" relname="elaboration-attribute"/>
+		<group id="210" type="span" parent="211" relname="same-unit"/>
+		<group id="211" type="multinuc" parent="212" relname="joint-list"/>
+		<group id="212" type="multinuc" parent="224" relname="span"/>
+		<group id="213" type="multinuc" parent="234" relname="joint-other"/>
+		<group id="214" type="span" parent="216" relname="same-unit"/>
+		<group id="216" type="multinuc" parent="218" relname="span"/>
+		<group id="217" type="span" parent="216" relname="same-unit"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="212" relname="elaboration-additional"/>
+		<group id="220" type="multinuc" parent="64" relname="elaboration-attribute"/>
+		<group id="221" type="span" parent="220" relname="joint-list"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="223" type="multinuc" parent="233" relname="span"/>
+		<group id="224" type="span" parent="213" relname="adversative-contrast"/>
+		<group id="225" type="span" parent="227" relname="same-unit"/>
+		<group id="226" type="span" parent="227" relname="same-unit"/>
+		<group id="227" type="multinuc" parent="231" relname="span"/>
+		<group id="228" type="multinuc" parent="230" relname="span"/>
+		<group id="229" type="span" parent="228" relname="joint-list"/>
+		<group id="230" type="span" parent="232" relname="joint-list"/>
+		<group id="231" type="span" parent="232" relname="joint-list"/>
+		<group id="232" type="multinuc" parent="223" relname="explanation-evidence"/>
+		<group id="233" type="span" parent="234" relname="joint-other"/>
+		<group id="234" type="multinuc" parent="235" relname="span"/>
+		<group id="235" type="span" parent="316" relname="joint-other"/>
+		<group id="236" type="multinuc" parent="265" relname="organization-heading"/>
+		<group id="237" type="span" parent="246" relname="same-unit"/>
+		<group id="238" type="span" parent="247" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="244" relname="span"/>
+		<group id="241" type="span" parent="242" relname="causal-cause"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="240" relname="explanation-evidence"/>
+		<group id="244" type="span" parent="238" relname="elaboration-additional"/>
+		<group id="245" type="span" parent="246" relname="same-unit"/>
+		<group id="246" type="multinuc" parent="247" relname="attribution-positive"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="263" relname="context-background"/>
+		<group id="249" type="span" parent="252" relname="adversative-contrast"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="252" relname="adversative-contrast"/>
+		<group id="252" type="multinuc" parent="261" relname="context-background"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="260" relname="span"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="254" relname="explanation-justify"/>
+		<group id="257" type="multinuc" parent="111" relname="contingency-condition"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" parent="260" relname="evaluation-comment"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="264" relname="explanation-evidence"/>
+		<group id="263" type="span" parent="265" relname="span"/>
+		<group id="264" type="span" parent="263" relname="span"/>
 		<group id="265" type="span" parent="266" relname="span"/>
-		<group id="266" type="span" parent="268" relname="explanation-evidence"/>
-		<group id="267" type="span" parent="269" relname="span"/>
-		<group id="268" type="span" parent="267" relname="span"/>
+		<group id="266" type="span" parent="316" relname="joint-other"/>
+		<group id="267" type="span" parent="314" relname="organization-heading"/>
+		<group id="268" type="multinuc" parent="269" relname="attribution-positive"/>
 		<group id="269" type="span" parent="270" relname="span"/>
-		<group id="270" type="span" parent="322" relname="joint-other"/>
-		<group id="271" type="span" parent="320" relname="organization-heading"/>
-		<group id="272" type="multinuc" parent="273" relname="attribution-positive"/>
-		<group id="273" type="span" parent="274" relname="span"/>
-		<group id="274" type="span" parent="275" relname="span"/>
-		<group id="275" type="span" parent="290" relname="span"/>
-		<group id="276" type="span" parent="280" relname="span"/>
-		<group id="277" type="span" parent="278" relname="joint-list"/>
-		<group id="278" type="multinuc" parent="276" relname="explanation-justify"/>
-		<group id="279" type="span" parent="275" relname="elaboration-additional"/>
-		<group id="280" type="span" parent="279" relname="span"/>
-		<group id="281" type="span" parent="282" relname="span"/>
-		<group id="282" type="span" parent="288" relname="span"/>
-		<group id="283" type="span" parent="284" relname="same-unit"/>
-		<group id="284" type="multinuc" parent="285" relname="joint-list"/>
-		<group id="285" type="multinuc" parent="286" relname="span"/>
-		<group id="286" type="span" parent="287" relname="span"/>
-		<group id="287" type="span" parent="288" relname="elaboration-additional"/>
-		<group id="288" type="span" parent="289" relname="span"/>
-		<group id="289" type="span" parent="320" relname="joint-other"/>
-		<group id="290" type="span" parent="320" relname="joint-other"/>
-		<group id="291" type="span" parent="295" relname="same-unit"/>
-		<group id="292" type="span" parent="295" relname="same-unit"/>
-		<group id="295" type="multinuc" parent="304" relname="attribution-positive"/>
-		<group id="296" type="span" parent="299" relname="same-unit"/>
-		<group id="297" type="span" parent="147" relname="elaboration-attribute"/>
-		<group id="298" type="span" parent="299" relname="same-unit"/>
-		<group id="299" type="multinuc" parent="303" relname="span"/>
-		<group id="300" type="span" parent="299" relname="causal-cause"/>
-		<group id="301" type="span" parent="302" relname="same-unit"/>
-		<group id="302" type="multinuc" parent="304" relname="joint-list"/>
-		<group id="303" type="span" parent="304" relname="joint-list"/>
-		<group id="304" type="multinuc" parent="305" relname="span"/>
-		<group id="305" type="span" parent="320" relname="joint-other"/>
-		<group id="306" type="multinuc" parent="308" relname="span"/>
-		<group id="307" type="span" parent="306" relname="same-unit"/>
-		<group id="308" type="span" parent="157" relname="context-background"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="286" relname="span"/>
+		<group id="272" type="span" parent="276" relname="span"/>
+		<group id="273" type="span" parent="274" relname="joint-list"/>
+		<group id="274" type="multinuc" parent="272" relname="explanation-justify"/>
+		<group id="275" type="span" parent="271" relname="elaboration-additional"/>
+		<group id="276" type="span" parent="275" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="284" relname="span"/>
+		<group id="279" type="span" parent="280" relname="same-unit"/>
+		<group id="280" type="multinuc" parent="281" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="284" relname="elaboration-additional"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="314" relname="joint-other"/>
+		<group id="286" type="span" parent="314" relname="joint-other"/>
+		<group id="287" type="span" parent="289" relname="same-unit"/>
+		<group id="288" type="span" parent="289" relname="same-unit"/>
+		<group id="289" type="multinuc" parent="298" relname="attribution-positive"/>
+		<group id="290" type="span" parent="293" relname="same-unit"/>
+		<group id="291" type="span" parent="145" relname="elaboration-attribute"/>
+		<group id="292" type="span" parent="293" relname="same-unit"/>
+		<group id="293" type="multinuc" parent="297" relname="span"/>
+		<group id="294" type="span" parent="293" relname="causal-cause"/>
+		<group id="295" type="span" parent="296" relname="same-unit"/>
+		<group id="296" type="multinuc" parent="298" relname="joint-list"/>
+		<group id="297" type="span" parent="298" relname="joint-list"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="314" relname="joint-other"/>
+		<group id="300" type="multinuc" parent="302" relname="span"/>
+		<group id="301" type="span" parent="300" relname="same-unit"/>
+		<group id="302" type="span" parent="155" relname="context-background"/>
+		<group id="303" type="multinuc" parent="304" relname="joint-list"/>
+		<group id="304" type="multinuc" parent="305" relname="explanation-evidence"/>
+		<group id="305" type="span" parent="313" relname="span"/>
+		<group id="306" type="span" parent="307" relname="same-unit"/>
+		<group id="307" type="multinuc" parent="310" relname="joint-list"/>
+		<group id="308" type="span" parent="309" relname="same-unit"/>
 		<group id="309" type="multinuc" parent="310" relname="joint-list"/>
-		<group id="310" type="multinuc" parent="311" relname="explanation-evidence"/>
-		<group id="311" type="span" parent="319" relname="span"/>
-		<group id="312" type="span" parent="313" relname="same-unit"/>
-		<group id="313" type="multinuc" parent="316" relname="joint-list"/>
-		<group id="314" type="span" parent="315" relname="same-unit"/>
-		<group id="315" type="multinuc" parent="316" relname="joint-list"/>
-		<group id="316" type="multinuc" parent="318" relname="explanation-justify"/>
-		<group id="317" type="span" parent="320" relname="joint-other"/>
-		<group id="318" type="span" parent="317" relname="span"/>
-		<group id="319" type="span" parent="320" relname="joint-other"/>
-		<group id="320" type="multinuc" parent="321" relname="span"/>
-		<group id="321" type="span" parent="322" relname="joint-other"/>
-		<group id="322" type="multinuc" parent="323" relname="span"/>
-		<group id="323" type="span" parent="324" relname="span"/>
-		<group id="324" type="span" parent="325" relname="span"/>
-		<group id="325" type="span" />
+		<group id="310" type="multinuc" parent="312" relname="explanation-justify"/>
+		<group id="311" type="span" parent="314" relname="joint-other"/>
+		<group id="312" type="span" parent="311" relname="span"/>
+		<group id="313" type="span" parent="314" relname="joint-other"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="316" relname="joint-other"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" />
 	</body>
 </rst>
