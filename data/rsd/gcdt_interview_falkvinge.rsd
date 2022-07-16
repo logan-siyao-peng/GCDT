@@ -1,0 +1,233 @@
+1	维基 新闻 专访 瑞典 海盗党 领袖 里卡德·福尔克文	7	_	_	_	63	organization-heading_r	_	_
+2	【 2020年 11月 24日 讯 】	6	_	_	_	63	context-circumstance_r	_	_
+3	译者 注 ：	0	_	_	_	4	attribution-positive_r	_	_
+4	英文 维基 新闻 在 2006年 6月 20日 首 次 出版 此 稿	0	_	_	_	2	adversative-concession_r	_	_
+5	海盗党 是 是	2	_	_	_	9	context-background_r	_	_
+6	2006年 1月份 公开 出现 的	0	_	_	_	7	elaboration-attribute_r	_	_
+7	瑞典 新 政党 ，	0	_	_	_	5	same-unit_m	_	_
+8	该 党 希望	1	_	_	_	9	attribution-positive_r	_	_
+9	将	3	_	_	_	41	context-background_r	_	_
+10	使用 互联网	0	_	_	_	11	mode-means_r	_	_
+11	分享 音乐 、 电影 和 其他 版权 内容 的	0	_	_	_	12	elaboration-attribute_r	_	_
+12	行为 合法化 。	0	_	_	_	9	same-unit_m	_	_
+13	一 小 群 理想 主义者 的 努力 看似 注定 要 失败 ，	3	_	_	_	15	causal-result_r	_	_
+14	但 却 引起 了 媒体 的 极 大 关注 ，	0	_	_	_	13	adversative-contrast_m	_	_
+15	部分 原因 是 警方 曾 突袭 了	3	_	_	_	9	explanation-evidence_r	_	_
+16	极 受 欢迎 的	0	_	_	_	17	elaboration-attribute_r	_	_
+17	BitTorrent 追踪器 海盗湾	0	_	_	_	15	same-unit_m	_	_
+18	（ 见 维基 新闻 报道 ） 。	1	_	_	_	15	explanation-evidence_r	_	_
+19	海盗湾	2	_	_	_	15	elaboration-additional_r	_	_
+20	（ The Pirate Bay ）	0	_	_	_	19	restatement-partial_r	_	_
+21	允许 人们	1	_	_	_	19	same-unit_m	_	_
+22	使用 BitTorrent 协议	0	_	_	_	23	mode-means_r	_	_
+23	下载	1	_	_	_	19	same-unit_m	_	_
+24	其 数据库 中 列出 的	0	_	_	_	25	elaboration-attribute_r	_	_
+25	内容	1	_	_	_	19	same-unit_m	_	_
+26	（ 包括 最新 的 好莱坞 电影 或 电脑 游戏 ） ，	1	_	_	_	25	elaboration-attribute_r	_	_
+27	并 获得 了 某 种 国际 崇拜 的 地位 ，	2	_	_	_	19	joint-list_m	_	_
+28	部分 原因 是 其 对	0	_	_	_	27	causal-cause_r	_	_
+29	来自 大 公司 版权 律师 的	0	_	_	_	30	elaboration-attribute_r	_	_
+30	法律 威胁 的 公开 和 不敬 的 回应 。	0	_	_	_	28	same-unit_m	_	_
+31	该 网站	3	_	_	_	19	joint-other_m	_	_
+32	在 荷兰 服务器 被 突袭 后	0	_	_	_	33	context-circumstance_r	_	_
+33	几 天 重新 开放	0	_	_	_	31	same-unit_m	_	_
+34	（ 但 现在 又 回到 了 瑞典 ） 。	1	_	_	_	31	adversative-concession_r	_	_
+35	盗版党 领袖 里卡德·福尔克文	2	_	_	_	40	attribution-positive_r	_	_
+36	（ Rickard Falkvinge ）	0	_	_	_	35	restatement-partial_r	_	_
+37	认为 ，	1	_	_	_	35	same-unit_m	_	_
+38	无论 此 案 的 法律 结果 如何 ，	1	_	_	_	40	adversative-concession_r	_	_
+39	该 网站 都 表明	0	_	_	_	40	attribution-positive_r	_	_
+40	目前 形式 的 版权法 是 不 可 持续 的 。	3	_	_	_	19	joint-other_m	_	_
+41	该 党 采用 了	1	_	_	_	54	context-background_r	_	_
+42	被 人 诟病 的	0	_	_	_	43	elaboration-attribute_r	_	_
+43	“ 网络 海盗 ” 的 绰号 ，	0	_	_	_	41	same-unit_m	_	_
+44	主张	1	_	_	_	45	attribution-positive_r	_	_
+45	大幅 限制 版权法 的 范围 和 执行 ，	1	_	_	_	41	joint-list_m	_	_
+46	废除 专利法 ，	0	_	_	_	45	joint-list_m	_	_
+47	并 在	1	_	_	_	41	joint-list_m	_	_
+48	其 认为 的	0	_	_	_	49	elaboration-attribute_r	_	_
+49	“ 控制 和 监视 社会 ” 中	0	_	_	_	47	same-unit_m	_	_
+50	保护 隐私 。	0	_	_	_	47	same-unit_m	_	_
+51	该 党 希望	1	_	_	_	52	attribution-positive_r	_	_
+52	在 9月 的 选举 中 获得 足够 的 选票 ，	2	_	_	_	41	joint-other_m	_	_
+53	成为 下 届 瑞典 议会 中 一 个 小 而 重要 的 派系 。	0	_	_	_	52	joint-list_m	_	_
+54	里卡德·福尔克文 在 采访 和 党务 工作 的 间隙 ， 抽出 一些 时间	5	_	_	_	63	organization-preparation_r	_	_
+55	回答 了 英文 维基 新闻 的 问题 。	0	_	_	_	54	joint-list_m	_	_
+56	有 传言 称 ，	2	_	_	_	57	attribution-positive_r	_	_
+57	瑞典 政府 是 间接 代表 美国 美国 电影 协会	1	_	_	_	61	context-background_r	_	_
+58	（ MPAA ）	0	_	_	_	57	restatement-partial_r	_	_
+59	关闭 该 网站 。	1	_	_	_	57	joint-list_m	_	_
+60	你 觉得	0	_	_	_	61	attribution-positive_r	_	_
+61	你 的 政府 对 美国 的 利益 负责 吗 ？	3	_	_	_	63	topic-question_r	_	_
+62	哦 ， MPAA 自己 在 新闻稿 中 也 说 了 ，	0	_	_	_	63	attribution-positive_r	_	_
+63	这 不 仅仅 是 一 个 谣言 。	0	_	_	_	0	ROOT	_	_
+64	看看 他们 的 新闻稿	1	_	_	_	63	explanation-evidence_r	_	_
+65	《 瑞典 当局 击沉 海盗湾 》 。	0	_	_	_	64	elaboration-additional_r	_	_
+66	是 的 ， 这 一 特定 事实 在 瑞典 引起 了 一些 骚动 。	2	_	_	_	63	joint-list_m	_	_
+67	人们 普遍 认为 ，	1	_	_	_	68	attribution-positive_r	_	_
+68	瑞典 当局 或多或少 是 受 外国 势力 的 命令 ，	0	_	_	_	66	explanation-justify_r	_	_
+69	对 一 个	0	_	_	_	68	causal-result_r	_	_
+70	根据 瑞典 法律	0	_	_	_	71	mode-means_r	_	_
+71	最 差 也 是 处于 法律 灰色 地带 的	0	_	_	_	72	elaboration-attribute_r	_	_
+72	实体 采取 强硬 行动 。	0	_	_	_	69	same-unit_m	_	_
+73	今 次 突袭 一定 提高 了 你 的 知名度 。	1	_	_	_	74	context-background_r	_	_
+74	你们 目前 有 多少 成员 ，	3	_	_	_	80	topic-question_r	_	_
+75	以及 你们 的 筹款	0	_	_	_	74	joint-list_m	_	_
+76	努力 到 目前 为止	0	_	_	_	77	context-circumstance_r	_	_
+77	有 多 成功 ？	0	_	_	_	75	same-unit_m	_	_
+78	我们 的 会员 人数 是 6540 人 ，	0	_	_	_	79	adversative-antithesis_r	_	_
+79	不 ， 6541 人 ，	0	_	_	_	80	adversative-antithesis_r	_	_
+80	不 ， 等等 ， 6543 人 ……	4	_	_	_	63	joint-other_m	_	_
+81	嗯 ， 你 懂 的 。	2	_	_	_	82	organization-phatic_r	_	_
+82	我们 的 会员	1	_	_	_	80	explanation-justify_r	_	_
+83	在 以 电子 方式 支付 会员费 后 ，	0	_	_	_	84	context-circumstance_r	_	_
+84	在 我们 的 网站 上 注册 ，	0	_	_	_	82	same-unit_m	_	_
+85	这 有助于 大大 减少 我们 的 管理 负担 。	1	_	_	_	82	causal-result_r	_	_
+86	筹款 带来 了 10.8万 瑞典 克朗	2	_	_	_	80	joint-list_m	_	_
+87	（ 编者 注 ：	0	_	_	_	88	attribution-positive_r	_	_
+88	约 14700 美元 ） ，	0	_	_	_	86	restatement-partial_r	_	_
+89	足够 购买 300万 张 选票 ，	1	_	_	_	86	elaboration-additional_r	_	_
+90	这 是 某 种	0	_	_	_	89	joint-list_m	_	_
+91	至少 我们 不 会 挨饿 的	0	_	_	_	92	elaboration-attribute_r	_	_
+92	最低 标准 。	0	_	_	_	90	same-unit_m	_	_
+93	我们 没有 吃饱 ，	1	_	_	_	90	restatement-partial_r	_	_
+94	但 也 没有 挨饿 。	0	_	_	_	93	adversative-contrast_m	_	_
+95	在 突袭 海盗湾 之后 ，	0	_	_	_	96	context-circumstance_r	_	_
+96	我们 又 收到 了 5万 块 钱 的 捐款 。	2	_	_	_	86	joint-sequence_m	_	_
+97	我 真诚 地 感谢 每 一 位	3	_	_	_	86	elaboration-additional_r	_	_
+98	想要 帮助 我们 的	0	_	_	_	99	elaboration-attribute_r	_	_
+99	人 ；	0	_	_	_	97	same-unit_m	_	_
+100	我们 现在 正在 研究	0	_	_	_	101	attribution-positive_r	_	_
+101	获得 更 多 的 选票 ，	1	_	_	_	97	joint-list_m	_	_
+102	以 确保 我们 不 会 在 选举日 用完 。	1	_	_	_	101	purpose-goal_r	_	_
+103	（ 1000万 张 选票 是 我们 最初 的 满分 目标 ）	2	_	_	_	101	elaboration-additional_r	_	_
+104	你 认为	0	_	_	_	105	attribution-positive_r	_	_
+105	你 是否 有 能力 支付 未来 的 广播 和 电视 广告 等 费用 ？	4	_	_	_	108	topic-question_r	_	_
+106	在 突袭 海盗湾 后 ，	0	_	_	_	107	context-circumstance_r	_	_
+107	我们 的 会员 人数 增加 了 三 倍 ，	0	_	_	_	108	causal-cause_r	_	_
+108	我们 不 需要 广告 了 ，	4	_	_	_	63	joint-other_m	_	_
+109	上 周 全国 电视台 几乎 每 个 新闻 时段 都 提到 了 我们 的 名字 。	1	_	_	_	108	explanation-justify_r	_	_
+110	而且 ， 在 我们 成功 之后 ，	0	_	_	_	111	context-circumstance_r	_	_
+111	老牌 政党 也 开始 转向 了 。	3	_	_	_	114	organization-preparation_r	_	_
+112	代表 近 半数 民选 议会 的	0	_	_	_	113	elaboration-attribute_r	_	_
+113	党派 ， 现在 都 在 描述	0	_	_	_	114	attribution-positive_r	_	_
+114	今天 的 版权 状况 是 行 不 通 的 。	2	_	_	_	108	explanation-evidence_r	_	_
+115	不过 他们 还是 不 明白 为什么 ，	1	_	_	_	114	adversative-contrast_m	_	_
+116	他们 只 是 在 呼应	0	_	_	_	115	elaboration-additional_r	_	_
+117	我们 说 的	0	_	_	_	118	elaboration-attribute_r	_	_
+118	话 ，	0	_	_	_	116	same-unit_m	_	_
+119	却 不 明白 这些 话 的 意思 。	1	_	_	_	116	adversative-contrast_m	_	_
+120	我们 会 去 教 他们	2	_	_	_	114	elaboration-additional_r	_	_
+121	── 他们 和 选民 都 一样 。	0	_	_	_	120	elaboration-additional_r	_	_
+122	对于	0	_	_	_	125	organization-preparation_r	_	_
+123	不 关注 瑞典 媒体 的	0	_	_	_	124	elaboration-attribute_r	_	_
+124	人 来说 ，	0	_	_	_	122	same-unit_m	_	_
+125	这 可能 很 难 理解 ，	0	_	_	_	126	adversative-concession_r	_	_
+126	但 我们 已经 引起 了 很 大 的 轰动 。	7	_	_	_	135	organization-preparation_r	_	_
+127	今天 ， 我们 的 司法 部长 被 引用 说 ，	0	_	_	_	128	attribution-positive_r	_	_
+128	他 对 修改 版权法 ， 使 文件 共享 合法化 持 开放 态度 ，	4	_	_	_	135	context-background_r	_	_
+129	标题 是 《 博德斯特伦	1	_	_	_	128	elaboration-additional_r	_	_
+130	（ 他 的 名字 ）	0	_	_	_	129	restatement-partial_r	_	_
+131	对 文件 共享 翻脸 》 。	1	_	_	_	129	same-unit_m	_	_
+132	紧接着 是 海盗党 对 他 建议 的 评论 。	2	_	_	_	129	joint-list_m	_	_
+133	我们 再 来 看看 ：	3	_	_	_	135	organization-phatic_r	_	_
+134	当 一 个 部长 发表 关于 文件 共享 的 声明 时 ，	2	_	_	_	135	context-circumstance_r	_	_
+135	媒体 就 会	4	_	_	_	114	joint-list_m	_	_
+136	打 电话	0	_	_	_	137	mode-means_r	_	_
+137	给 我们 征求 意见 ，	0	_	_	_	135	same-unit_m	_	_
+138	并 在 声明 旁边 发表 。	1	_	_	_	135	joint-list_m	_	_
+139	自从 突袭 海盗湾 之后 ，	0	_	_	_	140	context-circumstance_r	_	_
+140	我们 就 变得 这么 大 了 。	5	_	_	_	135	evaluation-comment_r	_	_
+141	司法 部长 后来 向	0	_	_	_	144	attribution-negative_r	_	_
+142	报道 此 事 的	0	_	_	_	143	elaboration-attribute_r	_	_
+143	媒体 否认	0	_	_	_	141	same-unit_m	_	_
+144	发表 过 该 声明 。	6	_	_	_	135	adversative-concession_r	_	_
+145	在 我 看来 ，	0	_	_	_	146	organization-preparation_r	_	_
+146	我们 将 永远 无法 支付 电视 广告 费用 。	3	_	_	_	108	joint-other_m	_	_
+147	除非 有 一 个 非常 富有 的 捐赠者 上台 。	1	_	_	_	146	adversative-antithesis_r	_	_
+148	（ 如果 有 这样 的 人 在 读 这 篇 文章 ，	3	_	_	_	150	contingency-condition_r	_	_
+149	我们 已经 计划 好 了	1	_	_	_	150	attribution-positive_r	_	_
+150	如何 在 选举 之前 ， 以 一 种	2	_	_	_	146	elaboration-additional_r	_	_
+151	成本 效益 高 的	0	_	_	_	152	elaboration-attribute_r	_	_
+152	方式 ， 在	0	_	_	_	150	same-unit_m	_	_
+153	捐款 出现 的	0	_	_	_	154	elaboration-attribute_r	_	_
+154	情况 下 ， 花费 高 达 37.5万 美元 。	0	_	_	_	150	same-unit_m	_	_
+155	这 笔 支出 仍然 不 包括 任何 电视 广告 ）	2	_	_	_	150	adversative-concession_r	_	_
+156	你 是否 知道	0	_	_	_	157	attribution-negative_r	_	_
+157	其他 国家 有 类似 的 举措 ？	2	_	_	_	158	topic-question_r	_	_
+158	有些 国家 正在 尝试 ，	4	_	_	_	63	joint-other_m	_	_
+159	但 没有 一 个 国家 像 我们 这样 取得 必要 的 势头 和 临界 质量 。	0	_	_	_	158	adversative-contrast_m	_	_
+160	我们 期望	1	_	_	_	164	attribution-positive_r	_	_
+161	一旦 我们 进入 瑞典 议会 ，	0	_	_	_	164	contingency-condition_r	_	_
+162	并 显示 出	0	_	_	_	163	attribution-positive_r	_	_
+163	这 是 可以 做到 的 ，	0	_	_	_	161	joint-list_m	_	_
+164	这 种 势头 就 会 发生 。	1	_	_	_	158	joint-other_m	_	_
+165	“ 盗版党 ” 这 个 名字 似乎 将 该 党 与	1	_	_	_	170	context-background_r	_	_
+166	目前 被 定义 为 犯罪 的	0	_	_	_	167	elaboration-attribute_r	_	_
+167	行为 联系 在 一起 ：	0	_	_	_	165	same-unit_m	_	_
+168	盗版 软件 、 电影 、 音乐 等 。	1	_	_	_	165	elaboration-attribute_r	_	_
+169	既然 “ 盗版党 ” 这样 的 标签 被 如此 负面 地 使用 ，	0	_	_	_	170	context-circumstance_r	_	_
+170	那么 “ 盗版党 ” 这样 的 名字 会 不 会 引起 选民 的 反感 呢 ？	3	_	_	_	184	topic-question_r	_	_
+171	国外 那些	2	_	_	_	170	joint-list_m	_	_
+172	主张	0	_	_	_	173	attribution-positive_r	_	_
+173	建立 更 平衡 的 版权 制度 的	1	_	_	_	174	elaboration-attribute_r	_	_
+174	潜在 盟友 呢 ， 比如 电子 前沿 基金会	0	_	_	_	171	same-unit_m	_	_
+175	（ Electronic Frontier Foundation ）	0	_	_	_	174	restatement-partial_r	_	_
+176	或 创意 共享 组织	0	_	_	_	171	same-unit_m	_	_
+177	（ Creative Commons ） ？	0	_	_	_	176	restatement-partial_r	_	_
+178	哦 ， 这 是 一 种 犯罪 。	0	_	_	_	184	context-background_r	_	_
+179	这 才 是 问题 的 核心 ！	0	_	_	_	178	evaluation-comment_r	_	_
+180	问题 的 关键 在于 ，	1	_	_	_	178	elaboration-additional_r	_	_
+181	20% 的 选民 所 做 的	0	_	_	_	182	elaboration-attribute_r	_	_
+182	事情 是 非法 的 ，	0	_	_	_	180	same-unit_m	_	_
+183	要 受到 坐牢 的 惩罚 。	1	_	_	_	180	joint-list_m	_	_
+184	这 就 是 我们 要 改变 的 。	4	_	_	_	63	joint-other_m	_	_
+185	既定 政党 说	0	_	_	_	186	attribution-positive_r	_	_
+186	选民 坏 了 ，	1	_	_	_	184	explanation-justify_r	_	_
+187	我们 却 说	0	_	_	_	188	attribution-positive_r	_	_
+188	是 法律 坏 了 。	1	_	_	_	186	adversative-contrast_m	_	_
+189	另外 ， 这 也 是	1	_	_	_	195	organization-preparation_r	_	_
+190	收回 一 个 词 的	0	_	_	_	191	elaboration-attribute_r	_	_
+191	方式 。	0	_	_	_	189	same-unit_m	_	_
+192	媒体 集团 一直 对 我们 指指点点 ，	0	_	_	_	195	mode-means_r	_	_
+193	说	0	_	_	_	194	attribution-positive_r	_	_
+194	我们 是 海盗 ，	0	_	_	_	192	joint-list_m	_	_
+195	想 让 我们 感到 某 种 程度 上 的 羞耻 。	2	_	_	_	204	explanation-evidence_r	_	_
+196	这 没有用 。	2	_	_	_	195	evaluation-comment_r	_	_
+197	我们	3	_	_	_	195	adversative-contrast_m	_	_
+198	穿 着	0	_	_	_	202	mode-manner_r	_	_
+199	写 着 “ 海盗 ” 的	0	_	_	_	200	elaboration-attribute_r	_	_
+200	衣服 ，	0	_	_	_	198	same-unit_m	_	_
+201	穿 着 鲜艳 的 颜色	1	_	_	_	198	joint-list_m	_	_
+202	上街 。	0	_	_	_	197	same-unit_m	_	_
+203	是 的 ，	1	_	_	_	204	organization-phatic_r	_	_
+204	我们 是 海盗 ，	2	_	_	_	184	joint-other_m	_	_
+205	我们 也 很 自豪 。	0	_	_	_	204	joint-list_m	_	_
+206	此外 ， 这 个 词 在 瑞典 并不 那么 负面 ，	2	_	_	_	184	joint-other_m	_	_
+207	这 要 归功于 海盗局	0	_	_	_	206	causal-cause_r	_	_
+208	（ Piratbyrån ）	0	_	_	_	207	restatement-partial_r	_	_
+209	的 出色 工作 ，	1	_	_	_	207	same-unit_m	_	_
+210	他们 自 2003年 以来 一直 致力于 教育 公众 。	2	_	_	_	207	elaboration-additional_r	_	_
+211	如果 你 当选 ，	2	_	_	_	214	contingency-condition_r	_	_
+212	并 有 机会 成为 瑞典 下 一 届 政府 的 一 部分 ，	0	_	_	_	211	joint-list_m	_	_
+213	你 是否 打算	1	_	_	_	214	attribution-negative_r	_	_
+214	只 关注 你 的 纲领 中 的 问题	2	_	_	_	216	topic-question_r	_	_
+215	（ 知识 产权法 和 隐私 ） ？	0	_	_	_	214	elaboration-attribute_r	_	_
+216	我们 目前 的 计划 是 在 议会 中 支持 政府 ， 但 不 参与 其中 。	4	_	_	_	63	joint-other_m	_	_
+217	如果 我们 是 它 的 一 部分 ，	2	_	_	_	219	contingency-condition_r	_	_
+218	那 就 意味 着	1	_	_	_	219	attribution-positive_r	_	_
+219	我们 得到 了 既得 利益 ，	0	_	_	_	216	explanation-justify_r	_	_
+220	不 能 推翻 它 ，	0	_	_	_	219	joint-list_m	_	_
+221	如果 他们 开始 违背 我们 的 利益 ，	0	_	_	_	222	contingency-condition_r	_	_
+222	就 会 使 我们 处于 较 弱 的 地位 。	3	_	_	_	219	joint-list_m	_	_
+223	总的来说 ， 我们 的 策略 是 实现 权力 平衡 ，	1	_	_	_	216	adversative-antithesis_r	_	_
+224	左 右 两 块 都 需要 我们 的 选票	0	_	_	_	223	causal-cause_r	_	_
+225	来 实现 多数 ，	0	_	_	_	224	purpose-goal_r	_	_
+226	然后 支持	1	_	_	_	227	attribution-positive_r	_	_
+227	哪 一 个	1	_	_	_	223	joint-sequence_m	_	_
+228	同意 推动 我们 议题 的	0	_	_	_	229	elaboration-attribute_r	_	_
+229	政府 的 议题 最 强 。	0	_	_	_	227	same-unit_m	_	_
+230	基本上 ， 我们 把 我们 在 其他 议题 上 的 选票 卖给	2	_	_	_	223	elaboration-additional_r	_	_
+231	出价 最高 的	0	_	_	_	232	elaboration-attribute_r	_	_
+232	人 ，	0	_	_	_	230	same-unit_m	_	_
+233	以 换取 他们 推动 我们 的 议题 。	1	_	_	_	230	purpose-goal_r	_	_

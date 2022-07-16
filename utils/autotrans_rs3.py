@@ -46,8 +46,8 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 				
 				m_trans = m_trans.replace(" & ", " &amp; ").strip()
 				
-				rs3_lines[line_id] = rs3_lines[line_id].replace(">"+m_text+"<", ">"+m_trans+"<") #Logan: only translation
-				# rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:] # both source and translations
+				# rs3_lines[line_id] = rs3_lines[line_id].replace(">"+m_text+"<", ">"+m_trans+"<") #Logan: only translation
+				rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:] # both source and translations
 				print("o Done with translating line: %d" % line_id, end="\r")
 	
 	# write autotrans_rs3_lines
@@ -58,12 +58,12 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--source_dir",
-	                    default="../../../code/loganfolked_DMRST_Parser/data/rs3/en-gum-20220625/",
-	                    # default="../data/rs3/",
+	                    # default="../../../code/loganfolked_DMRST_Parser/data/rs3/en-gum-20220625/",
+	                    default="../data/rs3/",
 	                    )
 	parser.add_argument("--target_dir",
-	                    default="../../../code/loganfolked_DMRST_Parser/data/rs3/entranszh-gum-20220705/",
-	                    # default="../data/autotrans_rs3/",
+	                    # default="../../../code/loganfolked_DMRST_Parser/data/rs3/entranszh-gum-20220705/",
+	                    default="../data/autotrans_rs3/",
 	                    )
 	parser.add_argument("--source_language", default='en')
 	parser.add_argument("--target_language", default='zh-CN')

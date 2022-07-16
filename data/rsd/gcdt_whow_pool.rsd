@@ -1,0 +1,102 @@
+1	如何 摆放 台球	5	_	_	_	21	organization-heading_r	_	_
+2	你 想要 打 台球 吗 ？	2	_	_	_	3	explanation-motivation_r	_	_
+3	正确 地 摆放 台球 是	1	_	_	_	18	explanation-motivation_r	_	_
+4	游戏 顺利 进行 的	0	_	_	_	5	elaboration-attribute_r	_	_
+5	前提 ，	0	_	_	_	3	same-unit_m	_	_
+6	并且 让 你	1	_	_	_	3	joint-list_m	_	_
+7	在 游戏 开始 时	0	_	_	_	8	context-circumstance_r	_	_
+8	有	0	_	_	_	6	same-unit_m	_	_
+9	掌控 全局 的	0	_	_	_	10	elaboration-attribute_r	_	_
+10	感觉 。	0	_	_	_	6	same-unit_m	_	_
+11	虽然 台球 的 摆放 方法 相对 简单 ，	1	_	_	_	12	adversative-concession_r	_	_
+12	但	1	_	_	_	3	joint-list_m	_	_
+13	为了 确保 球 的 位置 准确 无误 ，	0	_	_	_	14	purpose-goal_r	_	_
+14	你 还是 要 遵循 一些 规则 和 技巧 。	0	_	_	_	12	same-unit_m	_	_
+15	下面 的 文章 介绍 了	0	_	_	_	18	context-background_r	_	_
+16	摆放 台球 的	0	_	_	_	17	elaboration-attribute_r	_	_
+17	正确 方法 ，	0	_	_	_	15	same-unit_m	_	_
+18	现在 就 来 了解 一下 吧 ！	4	_	_	_	21	organization-preparation_r	_	_
+19	方法 1	0	_	_	_	20	organization-preparation_r	_	_
+20	8球 的 摆放 方法	2	_	_	_	21	organization-heading_r	_	_
+21	1 先 摆放 三角框 顶端 的 那 个 球 。	0	_	_	_	0	ROOT	_	_
+22	这 个 位置 也 叫作 三角框 的 “ 顶点 ” 。	0	_	_	_	21	elaboration-additional_r	_	_
+23	-LSB- 1 -RSB-	0	_	_	_	22	explanation-evidence_r	_	_
+24	2 8号 球 一定 要 摆在 三角框 的 中点 。	1	_	_	_	21	joint-sequence_m	_	_
+25	框子 的 中点 也 就 是 三角形 的 中点 。	0	_	_	_	24	elaboration-additional_r	_	_
+26	这 个 点 在	0	_	_	_	25	joint-list_m	_	_
+27	从 上 往 下 数 的	0	_	_	_	28	elaboration-attribute_r	_	_
+28	第三 排 上 。	0	_	_	_	26	same-unit_m	_	_
+29	-LSB- 2 -RSB-	1	_	_	_	24	explanation-evidence_r	_	_
+30	3 三角框 底边 两 角 上 的 球 花色 不 能 相同 。	1	_	_	_	21	joint-sequence_m	_	_
+31	哪 种 花色 在 哪 个 角 不 重要 ，	0	_	_	_	30	elaboration-additional_r	_	_
+32	只 要 一 角 为 实色 ，	0	_	_	_	31	contingency-condition_r	_	_
+33	一 角 为 半色 即可 。	0	_	_	_	32	joint-list_m	_	_
+34	-LSB- 3 -RSB-	1	_	_	_	30	explanation-evidence_r	_	_
+35	4 其它 剩下 的 球 可以 随便 摆放 。	3	_	_	_	41	organization-heading_r	_	_
+36	注意 ， 一号 球 必须 放在 在 三角框 的 顶端 ，	0	_	_	_	41	contingency-condition_r	_	_
+37	8号 球 必须 放在 三角框 的 中间 ，	0	_	_	_	36	joint-list_m	_	_
+38	三角框 底边 两 角 要 摆放	0	_	_	_	36	joint-list_m	_	_
+39	花色 不同 的	0	_	_	_	40	elaboration-attribute_r	_	_
+40	两 个 球 ，	0	_	_	_	38	same-unit_m	_	_
+41	剩下 的 球 可以 随便 摆放 。	1	_	_	_	21	joint-sequence_m	_	_
+42	两 个 实色球 或 两 个 半色球 可以 相互 挨 着 。	1	_	_	_	41	elaboration-additional_r	_	_
+43	有 一 种 业余 玩法 是 将 边上 的 球	2	_	_	_	41	joint-list_m	_	_
+44	按照 半色 、 实色 、 半色 、 实色 的 顺序	0	_	_	_	45	mode-manner_r	_	_
+45	摆放 。	0	_	_	_	43	same-unit_m	_	_
+46	这么一来 ， 底边 两 角 的 两 个 球 就 变成 同样 花色 的 了 ，	1	_	_	_	43	causal-result_r	_	_
+47	也 就 是 两 个 都 是 实色球 或 半色球 。	0	_	_	_	46	restatement-partial_r	_	_
+48	业余 玩法 中 还 有 一 种 摆球 的 方法 ，	1	_	_	_	49	organization-preparation_r	_	_
+49	那 就 是 将 底边 的 球	2	_	_	_	41	joint-list_m	_	_
+50	按照	0	_	_	_	54	mode-manner_r	_	_
+51	从 左 到 右 ，	0	_	_	_	52	contingency-condition_r	_	_
+52	数字 从 大 到 小 的	0	_	_	_	53	elaboration-attribute_r	_	_
+53	顺序	0	_	_	_	50	same-unit_m	_	_
+54	排列 。	0	_	_	_	49	same-unit_m	_	_
+55	这么一来 ， 1号 球 就 总是 出现 在 顶端 ，	2	_	_	_	49	causal-result_r	_	_
+56	11 和 15号 球 出现 在 底边 的 两 个 角 上 ，	0	_	_	_	55	joint-list_m	_	_
+57	而 5号 球 则 会 占据 原来 8号 球 的 位置 。	0	_	_	_	55	joint-list_m	_	_
+58	5 将 顶端 的 球	1	_	_	_	21	joint-sequence_m	_	_
+59	（ 第一 个 球 ）	0	_	_	_	58	elaboration-attribute_r	_	_
+60	和 台球桌 中心 的 菱形 对齐 。	1	_	_	_	58	same-unit_m	_	_
+61	第一 个 球 的 中心 应该 在 台球桌 的 中线 上 ，	2	_	_	_	58	elaboration-additional_r	_	_
+62	球 中点 距 桌子 底边 的	0	_	_	_	63	elaboration-attribute_r	_	_
+63	距离 应该 为 桌子 长度 的 1/4 。	0	_	_	_	61	joint-list_m	_	_
+64	有些 台球 桌上	1	_	_	_	61	joint-disjunction_m	_	_
+65	摆放 顶球 的	0	_	_	_	66	elaboration-attribute_r	_	_
+66	位置 会 用 一 个 小点 作为 标记 。	0	_	_	_	64	same-unit_m	_	_
+67	-LSB- 4 -RSB-	1	_	_	_	64	explanation-evidence_r	_	_
+68	6 所有 的 球 必须 摆放 紧凑 。	1	_	_	_	21	joint-sequence_m	_	_
+69	当 球 与 球 之间 紧挨 着 时 ，	0	_	_	_	70	context-circumstance_r	_	_
+70	开球 的 效果 肯定 更 好 。	0	_	_	_	68	causal-cause_r	_	_
+71	7 将 三脚架 箍紧 ，	1	_	_	_	21	joint-sequence_m	_	_
+72	然后 抬 起来 。	0	_	_	_	71	joint-sequence_m	_	_
+73	这 下 你 就 可以 玩 8球 台球 了 。	0	_	_	_	71	joint-sequence_m	_	_
+74	方法 2	0	_	_	_	75	organization-preparation_r	_	_
+75	9球 的 摆放 方法	4	_	_	_	76	organization-heading_r	_	_
+76	1	3	_	_	_	21	joint-list_m	_	_
+77	可能 的话 ，	0	_	_	_	78	contingency-condition_r	_	_
+78	找到 菱形 的 9球 球框 。	0	_	_	_	76	same-unit_m	_	_
+79	9球 和 8球 的 摆放 方法 不同 ，	0	_	_	_	80	causal-cause_r	_	_
+80	所以 要 用到 不同 的 球框 。	1	_	_	_	76	explanation-justify_r	_	_
+81	菱形 球框 里 球 的 摆放 方式 是 按照 1 - 2 - 3 - 2 - 1 的 顺序 来 的 。	1	_	_	_	80	explanation-evidence_r	_	_
+82	传统 的 三角形 球框 也 可以 用来 摆 九球 ，	0	_	_	_	83	adversative-concession_r	_	_
+83	但是 球 之间 的 空隙 比较 大 。	0	_	_	_	81	joint-other_m	_	_
+84	-LSB- 5 -RSB-	2	_	_	_	76	explanation-evidence_r	_	_
+85	2 在 所有 9球 的 摆放 方法 中 ， 1号 球 都 位于 顶端 的 位置 ，	3	_	_	_	76	joint-sequence_m	_	_
+86	9号 球 位于 菱形 的 中心 。	0	_	_	_	85	joint-list_m	_	_
+87	1号 球 总是 首当其冲 ，	1	_	_	_	85	restatement-repetition_m	_	_
+88	位于 球框 的 最 前面 ，	0	_	_	_	87	joint-list_m	_	_
+89	9好 球 则 直接 位于 所有 球 的 正 中央 。	1	_	_	_	87	joint-list_m	_	_
+90	-LSB- 6 -RSB-	2	_	_	_	85	explanation-evidence_r	_	_
+91	3 其余 的 球 随意 摆放 在 1号 和 9号 球 的 周围 。	3	_	_	_	76	joint-sequence_m	_	_
+92	和 8球 台球 的 传统 摆法 一样 ，	0	_	_	_	93	mode-manner_r	_	_
+93	其余 所有 球 都 摆放 在 任意 的 位置 。	0	_	_	_	91	elaboration-additional_r	_	_
+94	-LSB- 7 -RSB-	1	_	_	_	93	explanation-evidence_r	_	_
+95	9球 台球 的 一 种 业余 玩法 规定 球	1	_	_	_	91	joint-disjunction_m	_	_
+96	按照 数字 顺序	0	_	_	_	97	mode-manner_r	_	_
+97	排列 ，	0	_	_	_	95	same-unit_m	_	_
+98	从 上 往 上 ， 从 左 往 右 数字 以此 增加 。	1	_	_	_	97	mode-manner_r	_	_
+99	唯一 的 例外 是 9号 球 位于 菱形 的 正 中央 。	1	_	_	_	95	elaboration-additional_r	_	_
+100	当 摆放 正确 时 ，	1	_	_	_	101	contingency-condition_r	_	_
+101	1号 球 位于 球框 顶端 ，	0	_	_	_	99	joint-list_m	_	_
+102	8号 球 位于 球框 最 下端 。	0	_	_	_	101	joint-list_m	_	_

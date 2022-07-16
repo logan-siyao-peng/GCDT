@@ -1,0 +1,114 @@
+1	如何 制作 彩虹 伏特加	4	_	_	_	17	organization-heading_r	_	_
+2	彩虹 伏特加	1	_	_	_	15	context-background_r	_	_
+3	制作 起来	0	_	_	_	4	context-circumstance_r	_	_
+4	非常 有趣 ，	0	_	_	_	2	same-unit_m	_	_
+5	还 能 给 普通 的 伏特加 增添 果味 和 色彩 。	1	_	_	_	2	joint-list_m	_	_
+6	其 制作 方法 非常 简单 ，	2	_	_	_	2	joint-other_m	_	_
+7	只要 把	0	_	_	_	6	explanation-justify_r	_	_
+8	你 最 喜欢 的	0	_	_	_	9	elaboration-attribute_r	_	_
+9	彩虹糖 混在 一起 ，	0	_	_	_	7	same-unit_m	_	_
+10	倒入 一 杯 或 一 瓶 伏特加 内 ，	1	_	_	_	7	joint-sequence_m	_	_
+11	然后 充分 溶合 即可 。	1	_	_	_	7	joint-sequence_m	_	_
+12	配好 的 彩虹 伏特加 可以 配制 色彩 艳丽 的 鸡尾酒 ，	2	_	_	_	2	joint-other_m	_	_
+13	也 可以 当 糖酒 饮用 。	0	_	_	_	12	joint-list_m	_	_
+14	掌握 诸多 制作 方法 后 ，	0	_	_	_	15	context-circumstance_r	_	_
+15	你 就 可以 品尝 色彩 绚丽 的 彩虹 伏特加 啦 ！	3	_	_	_	17	context-background_r	_	_
+16	素材	1	_	_	_	17	organization-heading_r	_	_
+17	每 袋 彩虹糖 配 1.9 升 伏特加	0	_	_	_	0	ROOT	_	_
+18	大 包 彩虹糖	0	_	_	_	17	joint-list_m	_	_
+19	方法 1	1	_	_	_	20	organization-preparation_r	_	_
+20	单 杯 彩虹 伏特加	4	_	_	_	22	organization-heading_r	_	_
+21	( 25 毫升 )	0	_	_	_	20	elaboration-attribute_r	_	_
+22	1 将	2	_	_	_	17	joint-other_m	_	_
+23	制作 彩虹 伏特加 的	0	_	_	_	24	elaboration-attribute_r	_	_
+24	彩虹糖	0	_	_	_	22	same-unit_m	_	_
+25	按 颜色	0	_	_	_	26	mode-manner_r	_	_
+26	分类 。	0	_	_	_	22	same-unit_m	_	_
+27	许多 人 都 不 喜欢 绿色 和 紫色 的 彩虹糖 ，	1	_	_	_	22	explanation-evidence_r	_	_
+28	这 两 种 颜色 的 糖果 在 正宗 的 彩虹糖 中 分别 是 青柠 和 葡萄 口味 。	0	_	_	_	27	elaboration-attribute_r	_	_
+29	它们 和 伏特加 混合 后	0	_	_	_	30	contingency-condition_r	_	_
+30	会 产生 一 种 奇怪 的 口感 ，	1	_	_	_	27	explanation-justify_r	_	_
+31	而且	1	_	_	_	30	joint-list_m	_	_
+32	混合 而 成 的	0	_	_	_	33	elaboration-attribute_r	_	_
+33	颜色 也 不尽 人意 。	0	_	_	_	31	same-unit_m	_	_
+34	如果 你 喜欢 ，	1	_	_	_	35	contingency-condition_r	_	_
+35	也 可以 选择 它们	2	_	_	_	27	elaboration-additional_r	_	_
+36	来 配制 彩虹 伏特加 。	0	_	_	_	35	purpose-goal_r	_	_
+37	如果 你 不 在乎 伏特加 的 色泽 ，	0	_	_	_	38	contingency-condition_r	_	_
+38	可以 忽略 这 一 步 。	2	_	_	_	22	adversative-concession_r	_	_
+39	2 每 6 颗 糖果 配 25 毫升 的 伏特加 。	3	_	_	_	22	joint-sequence_m	_	_
+40	不停 摇晃 酒杯	0	_	_	_	39	elaboration-additional_r	_	_
+41	直 至 彩虹糖 和 伏特加 几近 溶合 。	0	_	_	_	40	joint-sequence_m	_	_
+42	糖果 和 伏特加 的 搭配 比例 各 异 ，	2	_	_	_	44	context-background_r	_	_
+43	在 配制 大量 彩虹 伏特加 前 ，	1	_	_	_	44	context-circumstance_r	_	_
+44	先 找到	1	_	_	_	40	joint-other_m	_	_
+45	你 所 钟意 的	0	_	_	_	46	elaboration-attribute_r	_	_
+46	搭配 比例 。	0	_	_	_	44	same-unit_m	_	_
+47	3 将 残余 的 彩虹 糖渣 过滤 掉 。	3	_	_	_	22	joint-sequence_m	_	_
+48	经过 单杯 的 尝试 后 ，	1	_	_	_	49	context-circumstance_r	_	_
+49	你 会 找到	1	_	_	_	53	context-circumstance_r	_	_
+50	自己 钟意 的	0	_	_	_	51	elaboration-attribute_r	_	_
+51	口味 ，	0	_	_	_	49	same-unit_m	_	_
+52	如果 有 意愿 ，	0	_	_	_	53	contingency-condition_r	_	_
+53	可以 尝试 配制 大瓶 彩虹 伏特加 啦 。	3	_	_	_	56	organization-preparation_r	_	_
+54	方法 2	0	_	_	_	55	organization-preparation_r	_	_
+55	瓶装 彩虹 伏特加	2	_	_	_	56	organization-heading_r	_	_
+56	1 倒出 一点 伏特加 ，	5	_	_	_	22	joint-list_m	_	_
+57	为 彩虹糖 腾出 些 空间 。	0	_	_	_	56	purpose-goal_r	_	_
+58	2	1	_	_	_	56	joint-sequence_m	_	_
+59	按 颜色	0	_	_	_	60	mode-manner_r	_	_
+60	将 彩虹糖 分类 。	0	_	_	_	58	same-unit_m	_	_
+61	3 加入 彩虹糖 ，	1	_	_	_	56	joint-sequence_m	_	_
+62	每 350 毫升 伏特加 搭配 20 到 25 颗 糖果 。	0	_	_	_	61	elaboration-additional_r	_	_
+63	4 将	1	_	_	_	56	joint-sequence_m	_	_
+64	混合 好 的	0	_	_	_	65	elaboration-attribute_r	_	_
+65	酒 静置 一 两 天 。	0	_	_	_	63	same-unit_m	_	_
+66	时不时 地 摇摇 瓶子 ，	1	_	_	_	63	elaboration-additional_r	_	_
+67	让 糖果 和 伏特加 充分 混合 。	0	_	_	_	66	purpose-goal_r	_	_
+68	5 用 咖啡 滤纸 或 干净 的 T恤 等 将 糖渣 筛去 。	1	_	_	_	56	joint-sequence_m	_	_
+69	6 放置于 冰箱 中 一 晚 。	1	_	_	_	56	joint-sequence_m	_	_
+70	方法 3	0	_	_	_	71	organization-preparation_r	_	_
+71	洗碗机 制酒法	2	_	_	_	72	organization-heading_r	_	_
+72	1 将 5 袋 200 克 的 彩虹糖	5	_	_	_	22	joint-list_m	_	_
+73	按 颜色	0	_	_	_	74	mode-manner_r	_	_
+74	分类 。	0	_	_	_	72	same-unit_m	_	_
+75	2 用 5 个 700 毫升 的 瓶子 做 容器 ，	1	_	_	_	72	joint-sequence_m	_	_
+76	将 300 毫升 的 伏特加 倒入 壶中 ，	0	_	_	_	75	elaboration-additional_r	_	_
+77	然后 分别 倒入 5 个	0	_	_	_	76	joint-sequence_m	_	_
+78	装有 彩虹糖 的	0	_	_	_	79	elaboration-attribute_r	_	_
+79	瓶中 。	0	_	_	_	77	same-unit_m	_	_
+80	3 将 瓶子 放在 洗碗机 中 ，	1	_	_	_	72	joint-sequence_m	_	_
+81	然后 开启 强力 模式 。	0	_	_	_	80	joint-sequence_m	_	_
+82	时间 过去 三分之一 后 ，	0	_	_	_	83	context-circumstance_r	_	_
+83	将 每 瓶 酒 都 用力 摇 一 摇 。	0	_	_	_	80	joint-sequence_m	_	_
+84	时间 过去 三分之二 后 ，	0	_	_	_	85	context-circumstance_r	_	_
+85	再次 摇晃 酒瓶 。	0	_	_	_	80	joint-sequence_m	_	_
+86	4	1	_	_	_	72	joint-sequence_m	_	_
+87	洗碗机 停止 一 轮 工作 后 ，	0	_	_	_	88	context-circumstance_r	_	_
+88	再次 摇晃 每 个 瓶子 。	0	_	_	_	86	same-unit_m	_	_
+89	然后 将 瓶子 放到 冰箱 里 。	1	_	_	_	86	joint-sequence_m	_	_
+90	5	1	_	_	_	72	joint-sequence_m	_	_
+91	伏特加 冷藏 后	0	_	_	_	92	context-circumstance_r	_	_
+92	会 呈现 浆状 。	0	_	_	_	90	same-unit_m	_	_
+93	拿 一 个 筛子 ，	1	_	_	_	90	joint-sequence_m	_	_
+94	上置 纱布 或 咖啡 滤纸 ，	0	_	_	_	93	joint-sequence_m	_	_
+95	底下 放 一 个 大壶 ，	0	_	_	_	93	joint-sequence_m	_	_
+96	缓缓 倒入 伏特加 。	0	_	_	_	93	joint-sequence_m	_	_
+97	6	1	_	_	_	72	joint-sequence_m	_	_
+98	第一 瓶 彩虹 伏特加 过滤 完毕 后 ，	0	_	_	_	99	context-circumstance_r	_	_
+99	将 瓶子 洗 干净 ，	0	_	_	_	97	same-unit_m	_	_
+100	然后 将 彩虹 伏特加 倒回 瓶内 。	1	_	_	_	97	joint-sequence_m	_	_
+101	7 之后 几瓶 彩虹 伏特加 都	1	_	_	_	72	joint-sequence_m	_	_
+102	按 上述 方法	0	_	_	_	103	mode-manner_r	_	_
+103	制作 ，	0	_	_	_	101	same-unit_m	_	_
+104	注意	1	_	_	_	72	joint-sequence_m	_	_
+105	每次 用完	0	_	_	_	106	contingency-condition_r	_	_
+106	都 要 洗净 容器 ，	0	_	_	_	104	same-unit_m	_	_
+107	以防 混色 。	1	_	_	_	104	purpose-goal_r	_	_
+108	8 把 所有 的 酒瓶 都 放在 冰箱 里 ，	1	_	_	_	72	joint-sequence_m	_	_
+109	喝 的 时候 再 拿 出来 。	0	_	_	_	108	joint-sequence_m	_	_
+110	别 担心 ，	0	_	_	_	111	organization-phatic_r	_	_
+111	伏特加 不 会 结冻 。	1	_	_	_	108	elaboration-additional_r	_	_
+112	9	1	_	_	_	72	joint-sequence_m	_	_
+113	大功告成 ，	0	_	_	_	114	organization-preparation_r	_	_
+114	享受 你 的 美味 彩虹 伏特加 吧 ！	0	_	_	_	112	same-unit_m	_	_

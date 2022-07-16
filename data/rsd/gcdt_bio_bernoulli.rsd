@@ -1,0 +1,109 @@
+1	丹尼尔·伯努利	6	_	_	_	17	organization-heading_r	_	_
+2	丹尼尔·伯努利	5	_	_	_	17	context-background_r	_	_
+3	（ Daniel Bernoulli ， 1700年 2月 8日 － 1782年 3月 17日 ） ，	0	_	_	_	2	elaboration-attribute_r	_	_
+4	生于 荷兰 格罗宁根 ， 著名 数学家 ， 约翰·伯努利 之 子 ，	1	_	_	_	2	same-unit_m	_	_
+5	为 伯努利 家族 代表 人物 之一 。	2	_	_	_	2	joint-list_m	_	_
+6	其 伯努利 定律 适用 于	3	_	_	_	2	joint-other_m	_	_
+7	沿着 一 条 流线 的	0	_	_	_	8	elaboration-attribute_r	_	_
+8	稳定 、 非 粘滞 、 不可压缩流 ，	0	_	_	_	6	same-unit_m	_	_
+9	在 流体 力学 和 空气 动力学 中 有 关键性 的 作用 。	1	_	_	_	6	joint-list_m	_	_
+10	生平	3	_	_	_	17	organization-heading_r	_	_
+11	丹尼尔·伯努利 出生 于 荷兰 的 格罗宁根 ，	1	_	_	_	17	context-background_r	_	_
+12	但 一 生 大 部分 时间 居住 在 瑞士 巴塞尔 。	0	_	_	_	11	adversative-contrast_m	_	_
+13	他是 约翰·伯努利 的 儿子 、 雅各布·伯努利 的 侄子 。	2	_	_	_	15	context-background_r	_	_
+14	约翰·伯努利 希望	0	_	_	_	15	attribution-positive_r	_	_
+15	他 经商 ，	1	_	_	_	11	joint-other_m	_	_
+16	但是 他 仍然 从事 数学 。	1	_	_	_	15	adversative-contrast_m	_	_
+17	据说 他 和 他 父亲 关系 不 好 。	0	_	_	_	0	ROOT	_	_
+18	在 他们 同时 参加 并 试图 获得 巴黎 大学 的 科学 竞赛 的 第一 名 时 ，	1	_	_	_	19	context-circumstance_r	_	_
+19	约翰	0	_	_	_	17	explanation-evidence_r	_	_
+20	因为 不 能 承受	0	_	_	_	23	causal-cause_r	_	_
+21	和 他 的 后代 做 比较 的	0	_	_	_	22	elaboration-attribute_r	_	_
+22	“ 羞耻 ” ，	0	_	_	_	20	same-unit_m	_	_
+23	把 丹尼尔 逐出 他 的 家族 。	0	_	_	_	19	same-unit_m	_	_
+24	约翰 还 曾 试图 盗窃 丹尼尔 的 著作 《 Hydrodynamica 》	2	_	_	_	19	joint-other_m	_	_
+25	（ 流体 力学 ）	0	_	_	_	24	restatement-partial_r	_	_
+26	并 把 它 重新 命名 为 《 Hydraulica 》 。	1	_	_	_	24	joint-sequence_m	_	_
+27	虽然 丹尼尔 试图 妥协 ，	0	_	_	_	28	adversative-concession_r	_	_
+28	他 父亲 至 死 不 愿 和解 。	2	_	_	_	24	elaboration-additional_r	_	_
+29	他 是 欧拉 的 同 时代 人 ，	2	_	_	_	17	joint-other_m	_	_
+30	也 是 密友 。	0	_	_	_	29	joint-list_m	_	_
+31	和 欧拉 在 欧拉-伯努力 栋梁 方程 上 有 过 合作 。	1	_	_	_	29	joint-list_m	_	_
+32	他 于 1724年 前往 圣彼得堡	2	_	_	_	17	joint-other_m	_	_
+33	出任 数学 教授 ，	0	_	_	_	32	joint-list_m	_	_
+34	但 不 喜欢 那里 。	1	_	_	_	32	adversative-contrast_m	_	_
+35	1733年 一 场 短暂 的 病 给 了 他	2	_	_	_	32	joint-sequence_m	_	_
+36	离开 那里 的	0	_	_	_	37	elaboration-attribute_r	_	_
+37	理由 。	0	_	_	_	35	same-unit_m	_	_
+38	他 回到 巴塞尔 大学 ，	2	_	_	_	32	joint-sequence_m	_	_
+39	在 那里 他 曾 陆续 担任 医学 、 形而上学 和 自然哲学 的 教授	0	_	_	_	38	joint-list_m	_	_
+40	直 至 去世 。	1	_	_	_	38	context-circumstance_r	_	_
+41	学术 成就	5	_	_	_	42	organization-heading_r	_	_
+42	他 最早 的 数学 著作 是 《 数学习题 》	4	_	_	_	17	joint-other_m	_	_
+43	（ Exercitationes ） ，	0	_	_	_	42	restatement-partial_r	_	_
+44	它 发表 于 1724年 ，	1	_	_	_	42	elaboration-additional_r	_	_
+45	包含 了 对 里卡蒂 方程 的 一 个 解法 。	0	_	_	_	44	joint-list_m	_	_
+46	两 年 后 ， 他 第一 次 指出	0	_	_	_	47	attribution-positive_r	_	_
+47	求解 复合 运动 经常 需要 把 运动 分解 为 平移 和 转动 。	2	_	_	_	42	joint-sequence_m	_	_
+48	他 的 主要 著作 是 《 流体 力学 》	2	_	_	_	42	joint-sequence_m	_	_
+49	（ Hydrodynamique ） ，	0	_	_	_	48	restatement-partial_r	_	_
+50	发表 于 1738年 ；	1	_	_	_	48	elaboration-additional_r	_	_
+51	它 类似于 拉格朗日 的 《 分析 力学 》 ，	2	_	_	_	48	elaboration-additional_r	_	_
+52	书 中 所有 的 结果 都 是 一 个 原理 的 推论 ，	0	_	_	_	51	mode-manner_r	_	_
+53	也 就 是 能量 守恒 。	0	_	_	_	52	elaboration-additional_r	_	_
+54	随后 他 写 了 一 部 关于 潮汐 理论 的 论文集 ，	2	_	_	_	42	joint-sequence_m	_	_
+55	和 欧拉 以及 马克劳林 的 论文集 一起 获得 了 法国 科学院 的 一 个 奖励 ：	0	_	_	_	54	joint-list_m	_	_
+56	这 三 部 论文集 包含 了 该 主题 从 牛顿 的 《 自然 哲学 的 数学 原理 》 的 发表 和 拉普拉斯 的 研究 之间 的 所有 成果 。	1	_	_	_	54	elaboration-additional_r	_	_
+57	伯努利 也 发表 了 大量 关于 不同 机械 问题 的 论文 ， 特别是 关于 振动 弦 问题 的 ， 以及 布鲁克·泰勒 和 达朗贝尔 的 解法 。	2	_	_	_	42	joint-sequence_m	_	_
+58	他 是	3	_	_	_	42	joint-other_m	_	_
+59	最早 试图 采用 数学 方式	0	_	_	_	60	mode-means_r	_	_
+60	表述 分子 运动 论 的	0	_	_	_	61	elaboration-attribute_r	_	_
+61	人 ，	0	_	_	_	58	same-unit_m	_	_
+62	而且 他 试图	1	_	_	_	58	joint-list_m	_	_
+63	用 这 一 方式	0	_	_	_	64	mode-means_r	_	_
+64	解释 波义耳 定律 ，	0	_	_	_	62	same-unit_m	_	_
+65	这 是 和 波义耳 以及 马略特 相关 的 定律 。	1	_	_	_	62	elaboration-attribute_r	_	_
+66	1760年 , 丹尼尔·伯努利 曾 怀疑	0	_	_	_	67	attribution-negative_r	_	_
+67	静电 的 吸引 行为 遵循 平方 反比 定律 。	3	_	_	_	42	joint-other_m	_	_
+68	-LSB- 1 -RSB- : 51	1	_	_	_	67	explanation-evidence_r	_	_
+69	丹尼尔·伯努利 也 是 1738年 的 “ 风险 度量 的 新 理论 的 讨论 ” 的 作者 ，	3	_	_	_	42	joint-other_m	_	_
+70	（ 《 经济学 》 第22 卷 （ 1954年 ） ， 23 - 36 页 ； 《 斯坦福 哲学 百科 全书 》 ） ，	0	_	_	_	69	elaboration-attribute_r	_	_
+71	其中 ， 圣彼得堡 佯谬 是 风险 趋避 ， 风险 贴水 和 效用 的 经济 理论 的 基础 。	1	_	_	_	69	joint-list_m	_	_
+72	“ 风险 度量 的 新 理论 的 讨论 ” 值得 注意 的 是 它 并 非 自然 科学 领域 ，	0	_	_	_	73	adversative-concession_r	_	_
+73	是 丹尼尔．伯努利 一 项 开拓性 贡献 的 经济 理论 。	2	_	_	_	69	elaboration-additional_r	_	_
+74	“ 风险 度量 的 新 理论 的 讨论 ” ， 该 文件 是 写在 拉丁 美洲 ，	1	_	_	_	73	joint-other_m	_	_
+75	研究 期刊 则 发表 在 圣彼得堡 翰林院 。	0	_	_	_	74	adversative-contrast_m	_	_
+76	考虑 一 个 游戏 ，	2	_	_	_	81	organization-preparation_r	_	_
+77	不断 地 掷 同 一 枚 硬币 ，	1	_	_	_	81	context-background_r	_	_
+78	直 到 得到 正面 为 止 ，	0	_	_	_	77	joint-sequence_m	_	_
+79	如果 你 掷 了 X 次	0	_	_	_	81	contingency-condition_r	_	_
+80	才 最终 得到 正面 ，	0	_	_	_	79	causal-result_r	_	_
+81	你 将 获得 2^(X-1) 元 。	3	_	_	_	84	context-background_r	_	_
+82	游戏 的 报名费 是 100万 元 ，	3	_	_	_	81	joint-other_m	_	_
+83	就 我们 平常 来看 ，	1	_	_	_	84	organization-preparation_r	_	_
+84	这 个 游戏 真的 赚 不 了 什么 钱 ，	0	_	_	_	89	explanation-evidence_r	_	_
+85	也 就 不 会 去 参加 。	0	_	_	_	84	joint-list_m	_	_
+86	不过 ， 如果 我们 考虑 到	0	_	_	_	87	attribution-positive_r	_	_
+87	这 个 游戏 的 期望 收益 是 无穷 大 ，	0	_	_	_	88	contingency-condition_r	_	_
+88	我们 就 应该 参加 。	2	_	_	_	84	adversative-contrast_m	_	_
+89	这 就 是 所谓 的 圣彼得堡 悖论 。	2	_	_	_	90	context-background_r	_	_
+90	丹尼尔．伯努利 提出 一 个 理论	2	_	_	_	73	joint-other_m	_	_
+91	解决 了 这 个 悖论 ，	0	_	_	_	90	joint-list_m	_	_
+92	他 得出 了 一 条 原理 ，	2	_	_	_	94	organization-preparation_r	_	_
+93	“ 财富 越 多	0	_	_	_	94	contingency-condition_r	_	_
+94	人 越 满足 ，	1	_	_	_	90	elaboration-additional_r	_	_
+95	然而 随着 财富 的 增加 ，	0	_	_	_	96	context-circumstance_r	_	_
+96	满足 程度 的 增加 速度 不断 下降 ” 。	1	_	_	_	94	joint-list_m	_	_
+97	也 就 是	3	_	_	_	94	elaboration-additional_r	_	_
+98	现在 我们 所 说 的	0	_	_	_	99	elaboration-attribute_r	_	_
+99	“ 边际 效用 递减 ” 。	0	_	_	_	97	same-unit_m	_	_
+100	财富 从 无 到 有 ， 和 从 有 很多 到 有 更 多 ， 效用 是 完全 不 一样 的 。	4	_	_	_	94	evaluation-comment_r	_	_
+101	1766年 ， 丹尼尔·伯努利 第一 次 尝试 用 统计 数据 分析 问题 。	3	_	_	_	42	joint-other_m	_	_
+102	当时 的 数据 目前 仍 被 保存 着 ，	0	_	_	_	101	elaboration-additional_r	_	_
+103	这 个 数据 被 用来 分析 天花 的 传播 和 死亡率 ，	0	_	_	_	102	joint-other_m	_	_
+104	并 以 此 证明 疫苗 的 效力 。	0	_	_	_	103	purpose-goal_r	_	_
+105	现在 一些 经济学家 认为	0	_	_	_	106	attribution-positive_r	_	_
+106	“ 风险 度量 的 新 理论 的 讨论 ” 可 作为 经济学 的 基础论 。	4	_	_	_	42	evaluation-comment_r	_	_
+107	然而 边际 效用 的 这 个 想法 在 当时 的 100 年 后 的 捷文斯 的 眼里 是 不 合 时宜 的 ，	1	_	_	_	106	adversative-concession_r	_	_
+108	所以 他 建立 了 独立 的 预期 效用 理论 。	0	_	_	_	107	causal-result_r	_	_
+109	200 年 后 ， 数学家 冯诺依曼 和 经济学家 摩根斯坦 发表 了 一 个 大著 “ 博弈论 与 经济 行为 ” 。	1	_	_	_	107	joint-sequence_m	_	_

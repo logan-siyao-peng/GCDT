@@ -1,0 +1,111 @@
+1	如何 烹饪 奎藜	4	_	_	_	22	organization-heading_r	_	_
+2	藜麦	2	_	_	_	18	context-background_r	_	_
+3	（ 英文 ：	0	_	_	_	4	organization-preparation_r	_	_
+4	Quiona ）	0	_	_	_	2	restatement-partial_r	_	_
+5	是	1	_	_	_	2	same-unit_m	_	_
+6	秘鲁 生长 的	0	_	_	_	7	elaboration-attribute_r	_	_
+7	一 种 小米 。	1	_	_	_	2	same-unit_m	_	_
+8	印加人 认为	0	_	_	_	9	attribution-positive_r	_	_
+9	谷物 是 神圣 的 ，	2	_	_	_	2	joint-other_m	_	_
+10	称 藜麦 为 “ 谷物 之 母 ” 。	1	_	_	_	9	joint-list_m	_	_
+11	按照 传统 ，	1	_	_	_	12	mode-manner_r	_	_
+12	印加 皇帝 会	2	_	_	_	9	explanation-justify_r	_	_
+13	使用 “ 黄金 器皿 ”	0	_	_	_	14	mode-means_r	_	_
+14	播撒 当季 的 第一 批 种子 。	0	_	_	_	12	same-unit_m	_	_
+15	藜麦 富含 蛋白质 ，	1	_	_	_	18	causal-cause_r	_	_
+16	比 其它 谷物 轻质 很多 。	0	_	_	_	15	joint-list_m	_	_
+17	它 比 大米 更 容易 制作 食物 ，	0	_	_	_	15	joint-list_m	_	_
+18	正 逐渐 赢得 人们 的 青睐 ， 尤其是	3	_	_	_	22	context-background_r	_	_
+19	看重 其 高 蛋白 含量 的	0	_	_	_	20	elaboration-attribute_r	_	_
+20	素食 主义者 。	0	_	_	_	18	same-unit_m	_	_
+21	素材	1	_	_	_	22	organization-heading_r	_	_
+22	1 杯 藜麦	0	_	_	_	0	ROOT	_	_
+23	2 杯 水	0	_	_	_	22	joint-list_m	_	_
+24	（ 或 肉汤 ）	0	_	_	_	23	joint-disjunction_m	_	_
+25	橄榄油	0	_	_	_	22	joint-list_m	_	_
+26	（ 按 口味	0	_	_	_	27	mode-manner_r	_	_
+27	自选 ）	0	_	_	_	25	contingency-condition_r	_	_
+28	½ 茶匙 盐	0	_	_	_	22	joint-list_m	_	_
+29	（ 自选 ）	0	_	_	_	28	adversative-concession_r	_	_
+30	方法 1	0	_	_	_	31	organization-preparation_r	_	_
+31	炉灶 烹制	2	_	_	_	32	organization-heading_r	_	_
+32	1 用 水 清洗 藜麦 。	2	_	_	_	22	joint-other_m	_	_
+33	如果 你 买 的 是	0	_	_	_	36	contingency-condition_r	_	_
+34	清洗 过 的	0	_	_	_	35	elaboration-attribute_r	_	_
+35	盒装 藜麦 ，	0	_	_	_	33	adversative-contrast_m	_	_
+36	可以 跳过 这 一 步 。	2	_	_	_	37	adversative-concession_r	_	_
+37	清洗 方法 是 将 一 杯 藜麦 倒入 滤网 ，	0	_	_	_	32	elaboration-additional_r	_	_
+38	放在 水龙头 下	0	_	_	_	37	joint-sequence_m	_	_
+39	冲洗 几 分钟 。	0	_	_	_	38	purpose-goal_r	_	_
+40	这 一 步 很 有 必要 ，	1	_	_	_	37	joint-other_m	_	_
+41	可以 清洗 掉 谷粒 外皮 上 过多 的 植物 皂素 ，	0	_	_	_	40	causal-cause_r	_	_
+42	如果 不 去除 ，	0	_	_	_	43	contingency-condition_r	_	_
+43	这些 皂素 会 让 藜麦 带有 苦涩味 。	0	_	_	_	41	adversative-contrast_m	_	_
+44	2 在 平底锅 中 烘烤 藜麦	1	_	_	_	32	joint-sequence_m	_	_
+45	（ 自选 ） 。	0	_	_	_	44	adversative-concession_r	_	_
+46	在 平底锅 中 滴 一点 橄榄油 ，	1	_	_	_	44	elaboration-additional_r	_	_
+47	调到 中高火 。	0	_	_	_	46	joint-sequence_m	_	_
+48	放入 藜麦 ，	0	_	_	_	46	joint-sequence_m	_	_
+49	烘烤 一 分钟 左右 。	0	_	_	_	46	joint-sequence_m	_	_
+50	这 会 带出 藜麦	1	_	_	_	46	causal-result_r	_	_
+51	类似于 坚果 的	0	_	_	_	52	elaboration-attribute_r	_	_
+52	味道 。	0	_	_	_	50	same-unit_m	_	_
+53	3 煮 藜麦 。	1	_	_	_	32	joint-sequence_m	_	_
+54	将 两 杯 水 或 清汤 倒入 平底锅 中 ，	0	_	_	_	53	elaboration-additional_r	_	_
+55	与 藜麦 一起 中高火 煮沸 。	0	_	_	_	54	joint-sequence_m	_	_
+56	盖上 盖子 ，	0	_	_	_	54	joint-sequence_m	_	_
+57	调成 小火 ，	0	_	_	_	54	joint-sequence_m	_	_
+58	焖 15 分钟 ，	0	_	_	_	54	joint-sequence_m	_	_
+59	或者 直 到 籽粒 变成 半透明状 ，	0	_	_	_	58	joint-disjunction_m	_	_
+60	而且 籽粒 的 表面 出现 白色 的 螺旋状 胚芽 。	0	_	_	_	59	joint-list_m	_	_
+61	尽量 确保 胚芽	0	_	_	_	60	elaboration-additional_r	_	_
+62	咬 起来	0	_	_	_	63	context-circumstance_r	_	_
+63	有 嚼劲 ，	0	_	_	_	61	same-unit_m	_	_
+64	类似于 面食 一样 。	1	_	_	_	61	mode-means_r	_	_
+65	当 你 把 锅 拿离 灶台 之后	0	_	_	_	66	context-circumstance_r	_	_
+66	藜麦 还 会 继续 煮 一会 。	0	_	_	_	54	joint-sequence_m	_	_
+67	4 将 锅 拿离 灶台 ，	1	_	_	_	68	organization-preparation_r	_	_
+68	盖上 锅盖	1	_	_	_	32	joint-sequence_m	_	_
+69	放置 5 分钟 。	0	_	_	_	68	joint-sequence_m	_	_
+70	让 藜麦 充分 吸收	2	_	_	_	68	purpose-goal_r	_	_
+71	锅里 可能 剩余 的	0	_	_	_	72	elaboration-attribute_r	_	_
+72	水分 。	0	_	_	_	70	same-unit_m	_	_
+73	5 掀开 锅盖 ，	1	_	_	_	32	joint-sequence_m	_	_
+74	用 叉子 抖松 藜麦 。	0	_	_	_	73	joint-list_m	_	_
+75	藜麦 应该 看起来 蓬松 轻盈 ，	1	_	_	_	73	elaboration-additional_r	_	_
+76	你 应该 可以 看到	0	_	_	_	77	attribution-positive_r	_	_
+77	胚芽 与 籽粒 剥离 了 。	0	_	_	_	75	joint-list_m	_	_
+78	6 享用 。	1	_	_	_	32	joint-sequence_m	_	_
+79	刚 煮好 的	0	_	_	_	80	elaboration-attribute_r	_	_
+80	藜麦 应该 立即 享用 ，	0	_	_	_	78	elaboration-additional_r	_	_
+81	保持 营养 价值 和 好 的 口感 。	1	_	_	_	80	purpose-goal_r	_	_
+82	可以 和 以下 菜肴 搭配 ：	2	_	_	_	80	joint-other_m	_	_
+83	炒菜 ，	0	_	_	_	82	elaboration-additional_r	_	_
+84	藜麦 代替 米饭 。	0	_	_	_	83	joint-list_m	_	_
+85	咖喱 。	0	_	_	_	83	joint-list_m	_	_
+86	炖肉 。	0	_	_	_	83	joint-list_m	_	_
+87	沙拉 。	0	_	_	_	83	joint-list_m	_	_
+88	其他 任意 你 想 搭配 的	0	_	_	_	89	elaboration-attribute_r	_	_
+89	食物 ！	0	_	_	_	83	joint-list_m	_	_
+90	方法 2	0	_	_	_	91	organization-preparation_r	_	_
+91	电饭锅 烹制	3	_	_	_	92	organization-heading_r	_	_
+92	1 将 一 杯 藜麦 倒入 细 网筛 中	3	_	_	_	32	joint-list_m	_	_
+93	用 冷水 清洗 。	0	_	_	_	92	joint-sequence_m	_	_
+94	如果 你 买 的 是 包装 的 藜麦 ，	0	_	_	_	95	contingency-condition_r	_	_
+95	这 一 步 则 没有 必要 ，	1	_	_	_	92	elaboration-additional_r	_	_
+96	不过 安全 第一 ，	1	_	_	_	95	adversative-contrast_m	_	_
+97	还是 清洗 下 为 好 。	0	_	_	_	96	causal-result_r	_	_
+98	2 将 藜麦 倒入 电饭锅 。	2	_	_	_	92	joint-sequence_m	_	_
+99	在 放入 电饭锅 之前 ，	0	_	_	_	100	context-circumstance_r	_	_
+100	你 也 可以 先 烘烤 藜麦 ，	0	_	_	_	98	elaboration-additional_r	_	_
+101	参考 方法 一 中 的 步骤 二 。	1	_	_	_	100	mode-manner_r	_	_
+102	3 倒入 两 杯 水 和 1/2 茶匙 盐 。	2	_	_	_	92	joint-sequence_m	_	_
+103	水 、 鸡汤 或 肉汤 、 菜汤 都 可以 。	0	_	_	_	102	joint-disjunction_m	_	_
+104	4 煮 大概 15 分钟 。	2	_	_	_	92	joint-sequence_m	_	_
+105	一些 电饭锅 有 很多 的 设置 选项 ，	1	_	_	_	108	context-background_r	_	_
+106	而 不 仅仅 是 简单 的 “ 煮饭 ” 选项 。	0	_	_	_	105	adversative-antithesis_r	_	_
+107	如果 你 的 电饭锅 有 几 种 选项 ，	0	_	_	_	108	contingency-condition_r	_	_
+108	请 选择 “ 煮饭 ” 选项 。	0	_	_	_	104	elaboration-additional_r	_	_
+109	5 放置 5 分钟 左右 。	1	_	_	_	110	organization-preparation_r	_	_
+110	用 叉子 拌松 ，	2	_	_	_	92	joint-sequence_m	_	_
+111	就 可以 享用 了 。	0	_	_	_	110	joint-sequence_m	_	_

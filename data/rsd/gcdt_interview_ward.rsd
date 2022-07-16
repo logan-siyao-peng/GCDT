@@ -1,0 +1,174 @@
+1	史提芬·沃德 ：	0	_	_	_	2	attribution-positive_r	_	_
+2	人们 开始 生活 在 虚假 的 现实 中	6	_	_	_	31	organization-heading_r	_	_
+3	【 2020年 11月 18日 讯 】	5	_	_	_	31	context-circumstance_r	_	_
+4	地球 上 近 80亿 人 中 的 绝大多数 人 继续	2	_	_	_	12	context-circumstance_r	_	_
+5	通过 媒体 和 社交 网络	0	_	_	_	6	mode-means_r	_	_
+6	获得 有关 新冠 病毒 传播 的 讯息 。	0	_	_	_	4	same-unit_m	_	_
+7	与此同时 ， 在 世界 不同 地区 ， 当局 、 记者 和 公民 对 大 流行 的 威胁 和 长期 隔离 的 经济 后果 有 不同 的 认识 。	1	_	_	_	4	joint-list_m	_	_
+8	加拿大 新闻 学院 院长 、 英属哥伦比亚 大学 教授 史提芬·J·A·沃德	1	_	_	_	12	context-background_r	_	_
+9	（ Stephen J. A. Ward ） ，	0	_	_	_	8	restatement-partial_r	_	_
+10	同时 也 是 威斯康星 大学 新闻 伦理 中心 的 创始 主任 ，	1	_	_	_	8	same-unit_m	_	_
+11	他 在 接受 俄语 维基 新闻 采访 时 ，	0	_	_	_	12	context-circumstance_r	_	_
+12	谈到 了 他 对 当前 新冠 大 流行病 报道 形势 的 看法 。	4	_	_	_	31	context-background_r	_	_
+13	在 采访 时 ，	1	_	_	_	18	context-circumstance_r	_	_
+14	作为 前 战地 记者 和 加拿大 记者 协会	0	_	_	_	18	context-background_r	_	_
+15	（ CAJ ）	0	_	_	_	14	restatement-partial_r	_	_
+16	道德 委员会 的 负责人 罗马·巴拉宾	1	_	_	_	14	same-unit_m	_	_
+17	（ Roman Balabin ） ，	0	_	_	_	16	restatement-partial_r	_	_
+18	沃德 教授 评价 了 目前 媒体 对 病毒 的 报道 。	3	_	_	_	12	elaboration-additional_r	_	_
+19	2017年 ， 你 写道 ：	4	_	_	_	22	attribution-positive_r	_	_
+20	“ 互联网 曾经 风靡 一时 ，	3	_	_	_	22	context-background_r	_	_
+21	我们 曾 称赞	1	_	_	_	22	attribution-positive_r	_	_
+22	它 ‘ 使 媒体 民主化	1	_	_	_	30	context-background_r	_	_
+23	并 使 “ 我们 人民 ” 一 词 成为 现实 ’	0	_	_	_	22	joint-list_m	_	_
+24	一 个 由 巨魔 、 黑客 、 种族 主义者 、 狂热 分子 、 阴谋论者 和 政府	0	_	_	_	28	elaboration-attribute_r	_	_
+25	为 操纵 社交 网络 ，	0	_	_	_	26	purpose-goal_r	_	_
+26	而 创造	0	_	_	_	24	same-unit_m	_	_
+27	由 机器人 组成 的 ，	1	_	_	_	24	joint-list_m	_	_
+28	喧闹 而 又 经常 危险 的 全球 环境 。 ”	2	_	_	_	22	elaboration-additional_r	_	_
+29	你 认为	0	_	_	_	30	attribution-positive_r	_	_
+30	从 那 以后 情况 有 变化 吗 ？	2	_	_	_	31	topic-question_r	_	_
+31	不 ， 情况 并 没有 改变 ，	0	_	_	_	0	ROOT	_	_
+32	事实 上 它 已经 变得 更 糟 了 。	0	_	_	_	31	joint-list_m	_	_
+33	社会 的 公共 讯息 渠道	1	_	_	_	31	elaboration-additional_r	_	_
+34	── 今天 相当于 他们 与 世界 或 “ 现实 ” 的 接触 被 扭曲 ，	0	_	_	_	33	elaboration-attribute_r	_	_
+35	意味 着 他们 不仅 会 误解 问题 ，	1	_	_	_	33	same-unit_m	_	_
+36	而且 政府 和 其他 虚假 讯息 的 代理人 将 更 有 能力 操纵 他们 和 公众 舆论 。	2	_	_	_	33	joint-list_m	_	_
+37	公众 开始 生活 在 一 个	1	_	_	_	41	context-circumstance_r	_	_
+38	由 意识 形态 主义者 、 冒充 民粹 主义者 的	0	_	_	_	40	elaboration-attribute_r	_	_
+39	暴君 和 极右翼 团体 制造 的	0	_	_	_	38	joint-list_m	_	_
+40	虚假 现实 中 。	0	_	_	_	37	same-unit_m	_	_
+41	在 一 个	3	_	_	_	33	evaluation-comment_r	_	_
+42	如此 相互 联系	0	_	_	_	44	elaboration-attribute_r	_	_
+43	和 相互 依存 的	0	_	_	_	42	joint-list_m	_	_
+44	全球 世界 里 ， 我 想 不 出	0	_	_	_	41	same-unit_m	_	_
+45	比 这 更 危险 的	0	_	_	_	46	elaboration-attribute_r	_	_
+46	和平 共处 的 发展 了 。	0	_	_	_	41	same-unit_m	_	_
+47	只要 看看	0	_	_	_	50	contingency-condition_r	_	_
+48	围绕 COVID-19 流传 的	0	_	_	_	49	elaboration-attribute_r	_	_
+49	错误 讯息 的 程度	0	_	_	_	47	same-unit_m	_	_
+50	就 知道 了 。	4	_	_	_	33	explanation-evidence_r	_	_
+51	我们 已经 将 我们 的 公共 渠道 “ 政治化 ” ，	0	_	_	_	52	causal-cause_r	_	_
+52	以 至于 任何 人 都 难以 获得 合理 客观 、 非极化 的 讯息 。	1	_	_	_	50	explanation-justify_r	_	_
+53	维基 新闻 是 一 个 新闻 媒体 项目 ，	0	_	_	_	55	context-background_r	_	_
+54	任何 人 都 可以 编辑 任何 文章 。	0	_	_	_	53	joint-list_m	_	_
+55	这 是否 会 给 参与者 带来 任何 特殊 的 道德 问题 ？	4	_	_	_	74	topic-question_r	_	_
+56	这 个 问题 围绕 着 “ 任何 人 ” 。	4	_	_	_	68	organization-preparation_r	_	_
+57	就 像 任何 其他 维基 服务 的 用户 一样 ，	4	_	_	_	63	mode-manner_r	_	_
+58	我 看到 的	0	_	_	_	59	elaboration-attribute_r	_	_
+59	文章 ，	3	_	_	_	63	context-circumstance_r	_	_
+60	（ 例如 在 维基 媒体 上 ）	1	_	_	_	59	elaboration-attribute_r	_	_
+61	是 关于 非 政治 主题 的 ， 例如 ， 哲学家 或 作家 ，	2	_	_	_	59	same-unit_m	_	_
+62	我 知道	1	_	_	_	63	attribution-positive_r	_	_
+63	这些 文章 是 不 完整 的 ，	3	_	_	_	68	adversative-antithesis_r	_	_
+64	而且 似乎 是 倾斜 的 ，	0	_	_	_	63	joint-list_m	_	_
+65	但 我 并不 感到 惊讶 。	2	_	_	_	63	adversative-contrast_m	_	_
+66	但 当 涉及 到 新闻 时 ，	2	_	_	_	68	context-circumstance_r	_	_
+67	管理 维基 新闻 的	0	_	_	_	68	elaboration-attribute_r	_	_
+68	人 需要 格外 警惕 ，	3	_	_	_	74	context-background_r	_	_
+69	检查 谁 在 写 文章 ，	1	_	_	_	68	mode-means_r	_	_
+70	并 透明 地 提供 讯息 ，	0	_	_	_	69	joint-list_m	_	_
+71	说明	0	_	_	_	72	attribution-positive_r	_	_
+72	为什么 这 个 人 有 能力 写 这 篇 文章 。	0	_	_	_	70	elaboration-additional_r	_	_
+73	我 不 认为	0	_	_	_	74	attribution-negative_r	_	_
+74	维基 新闻 可以 保证 完全 的 客观性 或 公正性 ，	3	_	_	_	31	joint-other_m	_	_
+75	无论 这 意味 着 什么 ，	1	_	_	_	74	adversative-concession_r	_	_
+76	但 他们 需要 采取 媒体 道德 的 基本 步骤 ：	1	_	_	_	77	organization-preparation_r	_	_
+77	负 责任 、	2	_	_	_	74	adversative-contrast_m	_	_
+78	透明 、	0	_	_	_	77	joint-list_m	_	_
+79	检查 文章 是否 有 偏见 或 不 完整 ，	0	_	_	_	77	joint-list_m	_	_
+80	文章 要 接受 独立 媒体 专家 的 检查	0	_	_	_	77	joint-list_m	_	_
+81	（ Review ） ，	0	_	_	_	80	restatement-partial_r	_	_
+82	并 明确 阐述 他们 的 道德 准则 ，	0	_	_	_	77	joint-list_m	_	_
+83	这 是 强制性 的 。	2	_	_	_	77	elaboration-additional_r	_	_
+84	教授 克劳斯·梅耶	0	_	_	_	89	attribution-positive_r	_	_
+85	（ Klaus Meyer ）	0	_	_	_	84	restatement-partial_r	_	_
+86	和 温森克·维斯	1	_	_	_	84	same-unit_m	_	_
+87	（ Vincenz Wyss ）	0	_	_	_	86	restatement-partial_r	_	_
+88	争论 ，	1	_	_	_	84	same-unit_m	_	_
+89	在 2月 和 3月 初 ， 有关 COVID-19 流行病 的 新闻 “ 在 科学 估计 中 的 观点 多样性 和 偏见 很 少 得到 体现 ” 。	0	_	_	_	90	context-background_r	_	_
+90	您 是否 同意 这 种 观点 ？	5	_	_	_	99	topic-question_r	_	_
+91	覆盖 范围 大 部分 是 关键 的	1	_	_	_	90	joint-list_m	_	_
+92	还是 非 关键 的 ？	0	_	_	_	91	joint-disjunction_m	_	_
+93	报道 科学 上 的 不确定性 总是 一 个 问题 ，	2	_	_	_	96	adversative-concession_r	_	_
+94	公平 地 说 ，	1	_	_	_	96	organization-preparation_r	_	_
+95	今 次 大 流行病 包含 的	0	_	_	_	96	elaboration-attribute_r	_	_
+96	不确定性 超出 了 常规 。	3	_	_	_	99	context-background_r	_	_
+97	即使 是 世界 上 最 伟大 的 流行病 专家 ，	1	_	_	_	99	contingency-condition_r	_	_
+98	也 无法 确定	0	_	_	_	99	attribution-negative_r	_	_
+99	未来 会 发生 什么 。	3	_	_	_	31	joint-other_m	_	_
+100	这 不 是 因为 缺乏 知识 ，	2	_	_	_	99	explanation-justify_r	_	_
+101	而 是 人类 不 可能 总是 预测 复杂 疾病 的 后果 。	0	_	_	_	100	adversative-contrast_m	_	_
+102	有 这么 多 因素 。	0	_	_	_	101	causal-cause_r	_	_
+103	另 一 个 问题 是 ， 太 多 人 认为	0	_	_	_	104	attribution-positive_r	_	_
+104	科学 是 “ 确定 ” 的 知识 ，	4	_	_	_	99	joint-other_m	_	_
+105	或者 说	0	_	_	_	106	attribution-positive_r	_	_
+106	是 纯粹 的 事实 ，	1	_	_	_	104	restatement-partial_r	_	_
+107	而 不 是	2	_	_	_	104	adversative-contrast_m	_	_
+108	基于 现有 最佳 证据 和 推理 模型 的	0	_	_	_	109	elaboration-attribute_r	_	_
+109	可能 知识 。	0	_	_	_	107	same-unit_m	_	_
+110	所以 ， 当 记者 报道	0	_	_	_	111	attribution-positive_r	_	_
+111	科学家 对 某 件 事情 “ 不 确定 ” 时 ，	2	_	_	_	112	context-circumstance_r	_	_
+112	太 多 人 就 会 得出	3	_	_	_	104	causal-result_r	_	_
+113	科学家 不 知道	0	_	_	_	114	attribution-negative_r	_	_
+114	自己 在 说 什么 的	0	_	_	_	115	elaboration-attribute_r	_	_
+115	结论 ，	0	_	_	_	112	same-unit_m	_	_
+116	并 把 他们 和 非 专家 归 为 同 一 桶 。	1	_	_	_	112	joint-sequence_m	_	_
+117	我 赞成	0	_	_	_	118	attribution-positive_r	_	_
+118	对 不确定性 进行 细致 入微 的 报道 ，	4	_	_	_	99	joint-other_m	_	_
+119	我 知道	0	_	_	_	120	attribution-positive_r	_	_
+120	很多 报道 在 这 件 事 上 没有 做好 。	2	_	_	_	122	explanation-evidence_r	_	_
+121	这 说明	0	_	_	_	122	attribution-positive_r	_	_
+122	各 大 新闻 单位 需要 在 沟通 风险 和 不确定性 方面 进行 自我 宣传 ，	1	_	_	_	118	adversative-concession_r	_	_
+123	这 是 我 多 年 来 一直 强调 的 。	1	_	_	_	122	elaboration-additional_r	_	_
+124	也好 ， 新闻 学院 应该 把 它 作为 教学 的 一 部分 。	0	_	_	_	123	joint-list_m	_	_
+125	克劳斯·梅耶 和 温森克·维斯 还 表示 ，	2	_	_	_	127	attribution-positive_r	_	_
+126	“ 德国 和 瑞士 的 媒体 在 报道 时 ，	1	_	_	_	127	context-circumstance_r	_	_
+127	基本 没有 距离感	0	_	_	_	129	context-background_r	_	_
+128	── 他们 的 资讯 与 联邦 和 州 的 官方 讯息 一致 。 ”	0	_	_	_	127	explanation-justify_r	_	_
+129	你 同意 这 个 观点 吗 ？	6	_	_	_	134	topic-question_r	_	_
+130	美国 和 加拿大 的 情况 是 相似 ，	1	_	_	_	129	joint-list_m	_	_
+131	还是 不同 ？	0	_	_	_	130	joint-disjunction_m	_	_
+132	这 是 报道 健康 问题 和 严重 事态 发展 的 另 一 个 问题 。	4	_	_	_	134	organization-preparation_r	_	_
+133	新闻 媒体 必须 告诉 人们	1	_	_	_	134	attribution-positive_r	_	_
+134	他们 的 政府 和 相关 机构 在 说 什么 ，	3	_	_	_	31	joint-other_m	_	_
+135	做 什么 ， 对 事情 。	0	_	_	_	134	joint-list_m	_	_
+136	有 一 个 巨大 的 讯息 真空 需要 填补 ，	2	_	_	_	134	elaboration-additional_r	_	_
+137	而 这 个 真空 将 被 恐惧 和 错误 讯息 所 填补 ， 否则 。	0	_	_	_	136	adversative-antithesis_r	_	_
+138	然而 ， 与此同时 ， 至关重要 的 是 ， 媒体 要 批判性 地 对待 官方 讯息 ，	3	_	_	_	134	joint-list_m	_	_
+139	而 不 是 简单 地 “ 接受 ” 所有 讯息 。	0	_	_	_	138	adversative-contrast_m	_	_
+140	他们 需要 进行 自己 的 独立 调查 和 报道 。	1	_	_	_	138	restatement-partial_r	_	_
+141	在 北美 ， 它 的 纪录 好坏 参半 。	5	_	_	_	134	joint-other_m	_	_
+142	在 美国 ， 各 大 新闻 机构 都 对 特朗普 总统 及	0	_	_	_	141	explanation-evidence_r	_	_
+143	其 政权 产生 的	0	_	_	_	144	elaboration-attribute_r	_	_
+144	官方 路线 提出 了 严重 的 质疑 。	0	_	_	_	142	same-unit_m	_	_
+145	但 太 多 时候 ， 特朗普 每天 都 在 用 他 那 可笑 的 新闻 发布会	1	_	_	_	142	adversative-contrast_m	_	_
+146	来 主导 报道 ，	0	_	_	_	145	purpose-goal_r	_	_
+147	病毒 怀疑论 是 主题 。	1	_	_	_	145	elaboration-additional_r	_	_
+148	在 加拿大 ， 加拿大 广播 公司	1	_	_	_	141	joint-list_m	_	_
+149	（ CBC ）	0	_	_	_	148	restatement-partial_r	_	_
+150	在 平衡 官方 和 非 官方 讯息 方面 做 得 很 好 ，	1	_	_	_	148	same-unit_m	_	_
+151	各 大 报纸 也 是 如此 。	2	_	_	_	148	joint-list_m	_	_
+152	加拿大 的 主要 媒体 也 很 好 地 展示 了	1	_	_	_	153	attribution-positive_r	_	_
+153	加拿大 如何 反应 迟缓 ，	2	_	_	_	148	joint-list_m	_	_
+154	在 许多 方面 毫无 准备 。	0	_	_	_	153	joint-list_m	_	_
+155	病死 人数 在 俄罗斯 媒体 上 基本 被 表述 为 “ 真实 事实 ” 。	0	_	_	_	156	context-background_r	_	_
+156	能否 如此 命名 ？	2	_	_	_	157	topic-question_r	_	_
+157	不 ， 它们 不 是 “ 真实 的 事实 ” ，	3	_	_	_	31	joint-other_m	_	_
+158	如果 这 意味 着 不容置疑 或 肯定 的话 。	0	_	_	_	157	contingency-condition_r	_	_
+159	人们 为什么 要 接受 这样 的 宣传 ？	2	_	_	_	163	organization-preparation_r	_	_
+160	任何 一 个	1	_	_	_	163	attribution-positive_r	_	_
+161	有 理智 的	0	_	_	_	162	elaboration-attribute_r	_	_
+162	人 都 知道 ，	0	_	_	_	160	same-unit_m	_	_
+163	现有 的 关于 病毒 和 死亡 人数 等 数据 并不 完整 ，	1	_	_	_	157	elaboration-additional_r	_	_
+164	取决于 估计 ，	0	_	_	_	163	elaboration-additional_r	_	_
+165	而 估计 又 取决于 检测 的 多少 。	0	_	_	_	164	elaboration-attribute_r	_	_
+166	而 俄罗斯 或 其他 地方 的 政府 ， 都 有 一 个 利益	0	_	_	_	167	organization-preparation_r	_	_
+167	就 是 让 事实 看起来 尽可能 的 好 。	3	_	_	_	163	joint-list_m	_	_
+168	这 就 是 为什么 媒体 报道 需要 说	1	_	_	_	169	attribution-positive_r	_	_
+169	这 是	1	_	_	_	167	causal-result_r	_	_
+170	政府 公布 的	0	_	_	_	171	elaboration-attribute_r	_	_
+171	数据 ，	0	_	_	_	169	same-unit_m	_	_
+172	然后 继续 指出 任何 不确定 因素 。	2	_	_	_	169	joint-sequence_m	_	_
+173	例如 ， CBC 关于 病毒 的 网站 上 有 很多 关于 疾病 传播 的 图表 ；	3	_	_	_	169	explanation-evidence_r	_	_
+174	但是 ， 在 网页 的 开头 ， 它 明确 指出 了 这些 数据 的 局限性 ， 例如 采样 的 测试 次数 。	0	_	_	_	173	adversative-contrast_m	_	_

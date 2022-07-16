@@ -1,0 +1,317 @@
+1	如何 徒步 旅行	7	_	_	_	35	organization-heading_r	_	_
+2	很少 有 什么 事情 是	3	_	_	_	14	explanation-motivation_r	_	_
+3	比 到 美丽 的 户外	0	_	_	_	5	adversative-antithesis_r	_	_
+4	去 徒步 旅行	0	_	_	_	3	joint-list_m	_	_
+5	更 愉快 的 了 。	0	_	_	_	2	same-unit_m	_	_
+6	太阳 温暖 地 照耀 在 你 的 肩头 ，	1	_	_	_	2	explanation-evidence_r	_	_
+7	你 置身于 大自然 之中 ，	0	_	_	_	6	joint-list_m	_	_
+8	眼前 会 出现	0	_	_	_	6	joint-list_m	_	_
+9	令 人 难以置信 的	0	_	_	_	10	elaboration-attribute_r	_	_
+10	景色	0	_	_	_	8	same-unit_m	_	_
+11	—— 连 小径 都 会 成为 真正 的 天堂 。	1	_	_	_	8	elaboration-additional_r	_	_
+12	然而 ， 如果 没有 做好 正确 的 准备 的话 ，	0	_	_	_	13	contingency-condition_r	_	_
+13	徒步 旅行 也 会 很 危险 。	2	_	_	_	14	explanation-justify_r	_	_
+14	为 徒步 旅行 做好 准备 ，	6	_	_	_	35	organization-preparation_r	_	_
+15	知道	1	_	_	_	17	attribution-positive_r	_	_
+16	一旦 上路	0	_	_	_	17	contingency-condition_r	_	_
+17	你 要 做 什么 ，	0	_	_	_	14	joint-list_m	_	_
+18	这些 都 是 相当 重要 的 。	1	_	_	_	14	evaluation-comment_r	_	_
+19	警告 ：	2	_	_	_	23	organization-preparation_r	_	_
+20	由于 新冠 肺炎 疫情 的 缘故 ，	1	_	_	_	21	causal-cause_r	_	_
+21	许多 徒步 路线 已经 关闭 ，	1	_	_	_	23	explanation-motivation_r	_	_
+22	以 减缓 疾病 的 传播 。	0	_	_	_	21	purpose-goal_r	_	_
+23	上网 查询	4	_	_	_	14	adversative-concession_r	_	_
+24	你 想 去 的	0	_	_	_	25	elaboration-attribute_r	_	_
+25	远足 路线 是否 开放 ，	0	_	_	_	23	same-unit_m	_	_
+26	以及	0	_	_	_	23	same-unit_m	_	_
+27	任何 关于 路线 的	0	_	_	_	28	elaboration-attribute_r	_	_
+28	最新 资讯 。	0	_	_	_	23	same-unit_m	_	_
+29	部分 1	0	_	_	_	30	organization-preparation_r	_	_
+30	为 徒步 旅行 做 准备	4	_	_	_	35	organization-heading_r	_	_
+31	1 购买 当地 旅游 指南 。	2	_	_	_	35	organization-preparation_r	_	_
+32	要 找到	0	_	_	_	35	purpose-goal_r	_	_
+33	适合 你 的	0	_	_	_	34	elaboration-attribute_r	_	_
+34	远足 行程 ，	0	_	_	_	32	same-unit_m	_	_
+35	远足 旅行 指南 是 必不可少 的 。	0	_	_	_	0	ROOT	_	_
+36	你 周围 所有 的 自然 景观 都 能 在 当地 旅游 指南 中 找到	1	_	_	_	35	elaboration-additional_r	_	_
+37	—— 从	0	_	_	_	36	explanation-evidence_r	_	_
+38	在 不同 季节 远足 时	0	_	_	_	39	context-circumstance_r	_	_
+39	能 看到 的	0	_	_	_	40	elaboration-attribute_r	_	_
+40	野花 ， 到	0	_	_	_	37	same-unit_m	_	_
+41	头顶 飞过 的	0	_	_	_	42	elaboration-attribute_r	_	_
+42	鸟儿 的 种类 。	0	_	_	_	37	same-unit_m	_	_
+43	你 应该 能 在	1	_	_	_	36	elaboration-additional_r	_	_
+44	自己 所 在 的	0	_	_	_	45	elaboration-attribute_r	_	_
+45	当地 书店 、 户外 探险店 、 或是	0	_	_	_	43	same-unit_m	_	_
+46	你 所 在	0	_	_	_	47	elaboration-attribute_r	_	_
+47	区域 中 公园 的 游客 中心 买到 当地 远足 指南 。	0	_	_	_	43	same-unit_m	_	_
+48	网上 也 能够 买到 。	1	_	_	_	43	joint-list_m	_	_
+49	你 也 可以 在 网上 搜索 当地 的 徒步 旅行 。	2	_	_	_	43	joint-list_m	_	_
+50	即使 你 住在	2	_	_	_	54	adversative-concession_r	_	_
+51	像 旧金山 一样 的	0	_	_	_	52	elaboration-attribute_r	_	_
+52	中心 城市 ，	0	_	_	_	50	same-unit_m	_	_
+53	你 也 很 可能 会 发现	1	_	_	_	54	attribution-positive_r	_	_
+54	有 一 大堆 网站 详细 介绍 了	2	_	_	_	36	explanation-evidence_r	_	_
+55	你 周边 能够 开展 的	0	_	_	_	56	elaboration-attribute_r	_	_
+56	很 棒 的 远足 。	0	_	_	_	54	same-unit_m	_	_
+57	（ 如果 你 确实 住在 旧金山 ，	0	_	_	_	58	contingency-condition_r	_	_
+58	还是 找 一 找 马林 海岬 周边 的 吧！ ）	3	_	_	_	54	elaboration-additional_r	_	_
+59	专家 提示	5	_	_	_	65	attribution-positive_r	_	_
+60	尽管 纸质 地图 作为 安全 防护 措施 很 重要 ，	0	_	_	_	61	adversative-concession_r	_	_
+61	但 科技 的 发展 让 徒步 旅行 变得 更 轻松 。	4	_	_	_	65	context-background_r	_	_
+62	徒步 和 背包 旅行 领队 Thomas Churchill 介绍 说 ：	3	_	_	_	65	attribution-positive_r	_	_
+63	“ 我 建议	1	_	_	_	65	attribution-positive_r	_	_
+64	尝试 新 的 路线 之前 ，	0	_	_	_	65	context-circumstance_r	_	_
+65	从 应用 商店 下载 Topomaps+ 或 类似 的 应用 。	3	_	_	_	36	joint-other_m	_	_
+66	你 可以	2	_	_	_	65	elaboration-additional_r	_	_
+67	通过 这些 应用	0	_	_	_	68	mode-means_r	_	_
+68	下载 任何 路线 的 详细 徒步 地图 ，	0	_	_	_	66	same-unit_m	_	_
+69	并且 就算 离线	0	_	_	_	70	adversative-concession_r	_	_
+70	也 能 查看 地图 位置 。 ”	1	_	_	_	66	explanation-motivation_r	_	_
+71	2 从 小型 旅行 开始 。	2	_	_	_	73	organization-preparation_r	_	_
+72	如果 你 第一 次 进行 远足 ，	0	_	_	_	73	contingency-condition_r	_	_
+73	你 应当 选 一 个 相对 简单 的 旅行 。	3	_	_	_	35	joint-list_m	_	_
+74	根据 自己 的 能力 ，	1	_	_	_	75	mode-means_r	_	_
+75	选 一 个	1	_	_	_	73	elaboration-additional_r	_	_
+76	距离 在 可控 范围 内 的	0	_	_	_	77	elaboration-attribute_r	_	_
+77	短 日程 旅行 。	0	_	_	_	75	same-unit_m	_	_
+78	如果 很少 出门	0	_	_	_	80	contingency-condition_r	_	_
+79	亲近 大自然 的话 ，	0	_	_	_	78	joint-list_m	_	_
+80	你 可能 会 坚持 选择 一 段 一 到 两 公里 的 顺畅 的 旅途 。	2	_	_	_	75	explanation-evidence_r	_	_
+81	对于 其他 那些	0	_	_	_	84	contingency-condition_r	_	_
+82	经常 锻炼 的	0	_	_	_	83	elaboration-attribute_r	_	_
+83	人 来说 ，	0	_	_	_	81	same-unit_m	_	_
+84	简单 的 五 公里 往返 旅程 可能 更 符合 你 的 风格	1	_	_	_	80	joint-list_m	_	_
+85	—— 这 完全 取决于 你 自己 。	2	_	_	_	80	evaluation-comment_r	_	_
+86	第一 次 外出 ， 只要 不 把 自己 弄得 太 累 就 好 。	3	_	_	_	80	restatement-partial_r	_	_
+87	-LSB- 1 -RSB-	3	_	_	_	75	explanation-evidence_r	_	_
+88	3 带 大量 水 。	4	_	_	_	90	organization-preparation_r	_	_
+89	在 学习 如何 安全 地 进行 徒步 旅行 中 ，	0	_	_	_	90	context-circumstance_r	_	_
+90	很 重要 的 一 点 是 要 带 适量 的 水 。	3	_	_	_	35	joint-list_m	_	_
+91	保持 水分 充足 相当 重要 ，	1	_	_	_	90	explanation-justify_r	_	_
+92	因此 ， 在 你 出门 远足 之前 ，	0	_	_	_	93	context-circumstance_r	_	_
+93	一定 要 喝 大量 的 水 。	0	_	_	_	91	causal-result_r	_	_
+94	带上	2	_	_	_	90	elaboration-additional_r	_	_
+95	比	0	_	_	_	98	adversative-antithesis_r	_	_
+96	你 认为	0	_	_	_	97	attribution-positive_r	_	_
+97	自己 需要 的	0	_	_	_	95	same-unit_m	_	_
+98	更 多 的 水	0	_	_	_	94	same-unit_m	_	_
+99	—— 带 过 多 的 水	1	_	_	_	94	explanation-motivation_r	_	_
+100	比起 没 带够 水	0	_	_	_	99	adversative-antithesis_r	_	_
+101	而 脱水	0	_	_	_	100	causal-result_r	_	_
+102	要 好 多 了 。	1	_	_	_	99	same-unit_m	_	_
+103	告诉 你 一 个 不错 的 经验 法则 ：	0	_	_	_	104	organization-preparation_r	_	_
+104	每 人 每 两 小时 需要 摄入 至少 一 升 的 水 。	2	_	_	_	94	elaboration-additional_r	_	_
+105	-LSB- 2 -RSB-	3	_	_	_	90	explanation-evidence_r	_	_
+106	4 收拾 好 背包 。	6	_	_	_	110	organization-preparation_r	_	_
+107	根据 远足 的 长短 ，	1	_	_	_	109	mode-means_r	_	_
+108	你 需要 考虑	0	_	_	_	109	attribution-positive_r	_	_
+109	带上 不同 的 东西 。	5	_	_	_	110	context-background_r	_	_
+110	不过 ， 通常来说 ，	3	_	_	_	35	joint-list_m	_	_
+111	不论 旅途 的 长短 ，	0	_	_	_	112	adversative-concession_r	_	_
+112	你 都 需要 带上 一些	0	_	_	_	110	same-unit_m	_	_
+113	能够 补充 能量 的	0	_	_	_	114	elaboration-attribute_r	_	_
+114	零食	0	_	_	_	110	same-unit_m	_	_
+115	（ 带上 什锦 干果 肯定 不 会 错 ） 、	1	_	_	_	114	explanation-evidence_r	_	_
+116	一 把 小刀	0	_	_	_	110	same-unit_m	_	_
+117	（ 瑞士 军刀 是 很 好 的 选择 ） 、	0	_	_	_	116	elaboration-attribute_r	_	_
+118	指南针 以及 地图 、 手电筒 、 火柴 或是 打火机 ， 以及 额外 的 衣物	0	_	_	_	110	same-unit_m	_	_
+119	（ 以防 天气 突变 。 ）	0	_	_	_	118	purpose-attribute_r	_	_
+120	-LSB- 3 -RSB-	1	_	_	_	110	explanation-evidence_r	_	_
+121	你 也 可以 考虑	0	_	_	_	122	attribution-positive_r	_	_
+122	带上 急救箱 、 指南针 、 望远镜 等等 。	2	_	_	_	110	joint-list_m	_	_
+123	只要 记住 ，	0	_	_	_	124	attribution-positive_r	_	_
+124	不 要 让 自己 被 不 必要 的 东西 压垮 。	3	_	_	_	110	adversative-concession_r	_	_
+125	但是 要 常备 水 。	1	_	_	_	124	adversative-contrast_m	_	_
+126	如果 你 要 在 新冠 肺炎 期间 去 徒步 旅行 ，	0	_	_	_	127	contingency-condition_r	_	_
+127	一定 要 戴好 口罩 ；	4	_	_	_	110	elaboration-additional_r	_	_
+128	只要 路上 有 其他 人 同行 ，	0	_	_	_	129	contingency-condition_r	_	_
+129	你 就 最好 戴上 口罩 。	1	_	_	_	127	elaboration-additional_r	_	_
+130	5 避免 被 太阳 晒伤 。	3	_	_	_	131	organization-preparation_r	_	_
+131	除了	3	_	_	_	35	joint-list_m	_	_
+132	装 在 包 里 的	0	_	_	_	133	elaboration-attribute_r	_	_
+133	其他 东西 ，	0	_	_	_	131	same-unit_m	_	_
+134	你 还 需要 带上	1	_	_	_	131	joint-list_m	_	_
+135	能 让 你 免受 晒伤 的	0	_	_	_	136	purpose-attribute_r	_	_
+136	物品 。	0	_	_	_	134	same-unit_m	_	_
+137	包括 防晒霜 、 帽子 、 太阳镜 。	1	_	_	_	134	explanation-evidence_r	_	_
+138	中 了 太阳毒 或者 得 了 皮肤癌 可 不 是 闹 着 玩 的 ，	2	_	_	_	131	explanation-justify_r	_	_
+139	所以 ， 尽可能 地 让 自己 免受 太阳 的 强烈 辐射 。	0	_	_	_	138	causal-result_r	_	_
+140	6 穿 合适 的 鞋 。	2	_	_	_	141	organization-preparation_r	_	_
+141	穿上	3	_	_	_	35	joint-list_m	_	_
+142	便于 走路 的	0	_	_	_	143	elaboration-attribute_r	_	_
+143	鞋 很 重要 。	0	_	_	_	141	same-unit_m	_	_
+144	别 穿 人字拖 ，	0	_	_	_	145	adversative-antithesis_r	_	_
+145	穿 系带鞋 ，	1	_	_	_	141	explanation-evidence_r	_	_
+146	这样 能 更 好 地 支撑 脚底 。	1	_	_	_	145	explanation-justify_r	_	_
+147	如果 可以 的话 ，	0	_	_	_	148	contingency-condition_r	_	_
+148	穿 徒步鞋 或是 越野鞋	2	_	_	_	145	joint-list_m	_	_
+149	—— 面对 崎岖 的 地形 ，	0	_	_	_	150	context-circumstance_r	_	_
+150	这些 鞋 是 最 好 的 选择 。	1	_	_	_	148	evaluation-comment_r	_	_
+151	如果 你 有 一 双	1	_	_	_	155	contingency-condition_r	_	_
+152	以前 从来 没 穿 过 的	0	_	_	_	153	elaboration-attribute_r	_	_
+153	新鞋 ，	0	_	_	_	151	same-unit_m	_	_
+154	在 出行 之前 ，	0	_	_	_	155	context-circumstance_r	_	_
+155	试 着 让 它 跟 你 的 脚 磨合 好 。	3	_	_	_	145	joint-other_m	_	_
+156	否则 的话 ，	0	_	_	_	157	organization-preparation_r	_	_
+157	你 的 脚 上 可能 会 被 磨出 讨厌 的 水泡 。	2	_	_	_	155	adversative-antithesis_r	_	_
+158	7 叫上 几 个 朋友 或是 家人 跟 你 一起 。	4	_	_	_	159	organization-preparation_r	_	_
+159	初级者	3	_	_	_	35	joint-list_m	_	_
+160	在 能够 独自 出行 之前 ，	0	_	_	_	161	context-circumstance_r	_	_
+161	最好 是 抱团 ，	0	_	_	_	159	same-unit_m	_	_
+162	或者 跟 有 经验 的 远足者们 在 一起 。	1	_	_	_	159	joint-list_m	_	_
+163	这 是 因为	2	_	_	_	159	explanation-justify_r	_	_
+164	相比 跟 别人 在 一起 ，	1	_	_	_	168	adversative-antithesis_r	_	_
+165	如果	0	_	_	_	168	contingency-condition_r	_	_
+166	你 一 个 人 远足 的	0	_	_	_	167	elaboration-attribute_r	_	_
+167	时候 发生 了 什么 事故 ，	0	_	_	_	165	same-unit_m	_	_
+168	你 将 更 难 获得 帮助 。	0	_	_	_	163	same-unit_m	_	_
+169	计划 好 徒步 旅行 的 行程 后 ，	0	_	_	_	170	context-circumstance_r	_	_
+170	叫上 你 的 朋友 一块儿 ，	3	_	_	_	159	explanation-evidence_r	_	_
+171	这 不仅 可以 增添 乐趣 ，	1	_	_	_	170	explanation-motivation_r	_	_
+172	也 是 为了 安全 起见 。	0	_	_	_	171	joint-list_m	_	_
+173	-LSB- 4 -RSB-	2	_	_	_	170	explanation-evidence_r	_	_
+174	如果 你 决定	0	_	_	_	175	attribution-positive_r	_	_
+175	一 个 人 远足 ，	3	_	_	_	177	contingency-condition_r	_	_
+176	至少 让 其他 人 知道	1	_	_	_	177	attribution-positive_r	_	_
+177	你 要 去 哪儿 ，	3	_	_	_	170	adversative-contrast_m	_	_
+178	以及 你 预计 什么 时候 回来 。	0	_	_	_	177	joint-list_m	_	_
+179	告诉 他们	1	_	_	_	181	attribution-positive_r	_	_
+180	当 你 结束 旅行 后 ，	0	_	_	_	181	context-circumstance_r	_	_
+181	你 会 联系 他们 。	2	_	_	_	177	elaboration-additional_r	_	_
+182	千万 别 忘 了 回来 后 要 联系 他们 ，	2	_	_	_	181	joint-list_m	_	_
+183	否则 他们 可能	0	_	_	_	182	adversative-antithesis_r	_	_
+184	报警	0	_	_	_	185	mode-means_r	_	_
+185	找 你 。	0	_	_	_	183	same-unit_m	_	_
+186	8 了解	1	_	_	_	188	attribution-positive_r	_	_
+187	遇到 紧急 情况	0	_	_	_	188	context-circumstance_r	_	_
+188	要 做 什么 。	4	_	_	_	191	organization-preparation_r	_	_
+189	虽然 你 的 旅程 通常 会 进行 得 相当 顺利 ，	0	_	_	_	190	adversative-concession_r	_	_
+190	但是 也 要 时常 为 未知 的 事物 做 准备 。	2	_	_	_	191	context-background_r	_	_
+191	要 随身 携带 急救箱 ， 还有 手机 。	3	_	_	_	35	joint-list_m	_	_
+192	时刻 准备 好 ，	0	_	_	_	191	joint-list_m	_	_
+193	虽然 ， 你 可能 根本 不 会 到 森林 里 去 。	1	_	_	_	191	adversative-concession_r	_	_
+194	更多 关于 野外 生存 的 指导 ， 请 参见 “ 如何 在 野外 生存 ” 。	3	_	_	_	191	elaboration-additional_r	_	_
+195	部分 2	0	_	_	_	196	organization-preparation_r	_	_
+196	上路 后	4	_	_	_	198	organization-heading_r	_	_
+197	1 从 起点 标志 出发 。	2	_	_	_	198	organization-preparation_r	_	_
+198	每 条 路 都 有 一 个 起始 标志	5	_	_	_	35	joint-list_m	_	_
+199	—— 这 个 标志 通常 能 表示 出 路名 以及	0	_	_	_	198	elaboration-additional_r	_	_
+200	到 尽头 的	0	_	_	_	201	elaboration-attribute_r	_	_
+201	距离	0	_	_	_	199	same-unit_m	_	_
+202	（ 或是 环路 的 长度 。 ）	1	_	_	_	201	joint-disjunction_m	_	_
+203	其他	1	_	_	_	198	joint-list_m	_	_
+204	像 在 国家 公园 内 的	0	_	_	_	205	elaboration-attribute_r	_	_
+205	那些 起点 标志 ， 会 有 一 张	0	_	_	_	203	same-unit_m	_	_
+206	显示 所有 与	0	_	_	_	209	elaboration-attribute_r	_	_
+207	你 所 在 的	0	_	_	_	208	elaboration-attribute_r	_	_
+208	路 相连 路径 的	0	_	_	_	206	adversative-contrast_m	_	_
+209	地图 ，	0	_	_	_	203	same-unit_m	_	_
+210	地图 上 还 会 标志 出	1	_	_	_	203	elaboration-additional_r	_	_
+211	徒步 旅行 时	0	_	_	_	212	context-circumstance_r	_	_
+212	需要 留神 的	0	_	_	_	213	elaboration-attribute_r	_	_
+213	其他 各 种 事物 。	0	_	_	_	210	same-unit_m	_	_
+214	如果 你 找 不到 起始 路标 ，	0	_	_	_	215	contingency-condition_r	_	_
+215	可能 你 没有 在 正确 的 位置 。	2	_	_	_	203	context-circumstance_r	_	_
+216	向 别人 打听 一下 方向 。	1	_	_	_	215	causal-result_r	_	_
+217	有些 其他 路 可能 没有 路标	1	_	_	_	198	joint-list_m	_	_
+218	—— 这 一 情况 会 在 你 的 旅行 指南 上 提到 。	0	_	_	_	217	elaboration-additional_r	_	_
+219	2 留意 路标 。	4	_	_	_	222	organization-preparation_r	_	_
+220	当 你 在 户外 远足 时 ，	0	_	_	_	221	context-circumstance_r	_	_
+221	势必 会 碰到 交叉 路口 。	3	_	_	_	222	organization-preparation_r	_	_
+222	请	3	_	_	_	198	joint-list_m	_	_
+223	依照	0	_	_	_	226	mode-means_r	_	_
+224	路标 上 标 的	0	_	_	_	225	elaboration-attribute_r	_	_
+225	路名	0	_	_	_	223	same-unit_m	_	_
+226	前往	0	_	_	_	222	same-unit_m	_	_
+227	你 要 去 的	0	_	_	_	228	elaboration-attribute_r	_	_
+228	地方 。	0	_	_	_	222	same-unit_m	_	_
+229	如果 没有 路标	1	_	_	_	231	adversative-antithesis_r	_	_
+230	（ 这 是 比较 罕见 的 情况 ） ，	0	_	_	_	229	adversative-concession_r	_	_
+231	在 地图 上 查 一下 ，	1	_	_	_	222	joint-disjunction_m	_	_
+232	或是 找找 周围 有 没有 堆石 界标 。	0	_	_	_	231	joint-list_m	_	_
+233	堆石 界标 是	0	_	_	_	232	elaboration-additional_r	_	_
+234	用以 给 远足者们 指引 正确 道路 的	0	_	_	_	235	purpose-attribute_r	_	_
+235	石堆 。	0	_	_	_	233	same-unit_m	_	_
+236	你 可能 会 发现	1	_	_	_	239	context-background_r	_	_
+237	从 路边 岔开 的	0	_	_	_	238	elaboration-attribute_r	_	_
+238	小 岔路 。	0	_	_	_	236	same-unit_m	_	_
+239	不 要 沿着 这些 岔路 走	2	_	_	_	222	joint-other_m	_	_
+240	—— 它们 往往 是 鹿 或 是 森林 中 其他 生物 的 小道 ，	0	_	_	_	239	causal-cause_r	_	_
+241	它们 会 把 你 带到 未知 的 地方 去 。	0	_	_	_	240	joint-list_m	_	_
+242	公园 管路员 以及 道路 维修员 通常 会 把 倒下 的 树枝 拖到 路口 ，	1	_	_	_	240	causal-result_r	_	_
+243	来 挡住	0	_	_	_	242	purpose-goal_r	_	_
+244	这些 动物 踩出 的	0	_	_	_	245	elaboration-attribute_r	_	_
+245	小路 。	0	_	_	_	243	same-unit_m	_	_
+246	3 遵循 所有 标志 。	4	_	_	_	252	organization-preparation_r	_	_
+247	如果 你 看到 一 个	1	_	_	_	252	contingency-condition_r	_	_
+248	写 着	0	_	_	_	249	attribution-positive_r	_	_
+249	“ 离开 此 路 ” 的	0	_	_	_	250	elaboration-attribute_r	_	_
+250	标牌	0	_	_	_	247	same-unit_m	_	_
+251	—— 猜对 了 ，	0	_	_	_	252	evaluation-comment_r	_	_
+252	你 应该 离开 。	3	_	_	_	198	joint-list_m	_	_
+253	这 个 标牌 之所以 在 这儿 ，	2	_	_	_	252	explanation-justify_r	_	_
+254	很 可能 是 因为 这 一 区域 的 植被 正在 恢复 生长 。	0	_	_	_	253	causal-cause_r	_	_
+255	如果 太 多 人 进入 这 一 区域 而 非 其他 道路 的话 ，	0	_	_	_	256	contingency-condition_r	_	_
+256	植被 可能 被 严重 破坏 。	1	_	_	_	253	elaboration-additional_r	_	_
+257	-LSB- 5 -RSB-	2	_	_	_	253	explanation-evidence_r	_	_
+258	你 也 可能 看到	3	_	_	_	252	joint-list_m	_	_
+259	写 着	0	_	_	_	260	attribution-positive_r	_	_
+260	不 要 给 野生 动物 喂食 的	0	_	_	_	261	elaboration-attribute_r	_	_
+261	标志 。	0	_	_	_	258	same-unit_m	_	_
+262	这 是 一 个 很 好 的 建议 ，	1	_	_	_	258	evaluation-comment_r	_	_
+263	因为 这 一 行为 不仅 可能 伤到 动物 ，	0	_	_	_	262	explanation-justify_r	_	_
+264	还 会 伤到 你 自己 。	0	_	_	_	263	joint-list_m	_	_
+265	千万 不 要 给 野生 动物 喂食	2	_	_	_	258	elaboration-additional_r	_	_
+266	—— 无论 它们 看起来 有 多 可爱 。	0	_	_	_	265	adversative-concession_r	_	_
+267	4 休息 一下	4	_	_	_	270	organization-preparation_r	_	_
+268	然后 补充 水分 。	0	_	_	_	267	joint-list_m	_	_
+269	徒步 旅行 不 是 比赛 ，	1	_	_	_	270	adversative-antithesis_r	_	_
+270	而 是 一 次	3	_	_	_	198	joint-list_m	_	_
+271	可以	0	_	_	_	274	elaboration-attribute_r	_	_
+272	根据 你 自己 的 速度	0	_	_	_	273	mode-means_r	_	_
+273	来 调整 的	0	_	_	_	271	same-unit_m	_	_
+274	活动 。	0	_	_	_	270	same-unit_m	_	_
+275	如果 你 觉得 累 了 ，	1	_	_	_	277	contingency-condition_r	_	_
+276	别 担心 ，	0	_	_	_	277	organization-preparation_r	_	_
+277	放慢 速度 吧 。	2	_	_	_	270	explanation-evidence_r	_	_
+278	无论 何时 ，	1	_	_	_	279	adversative-concession_r	_	_
+279	当 你 觉得 旅行 中 需要 喝水	0	_	_	_	281	contingency-condition_r	_	_
+280	或是 坐 下来 休息 时 ，	0	_	_	_	279	joint-disjunction_m	_	_
+281	一定 就 要 这么 做 。	2	_	_	_	277	joint-list_m	_	_
+282	-LSB- 6 -RSB-	3	_	_	_	270	explanation-evidence_r	_	_
+283	5 留心	3	_	_	_	291	organization-preparation_r	_	_
+284	可能 出现 在 脚 底下 的	0	_	_	_	285	elaboration-attribute_r	_	_
+285	小 动物 。	0	_	_	_	283	same-unit_m	_	_
+286	要 知道 ， 在	2	_	_	_	291	context-background_r	_	_
+287	你 徒步 旅行 的	0	_	_	_	288	elaboration-attribute_r	_	_
+288	过程 中 ， 你 会 经过 许许多多 不同 生物 的 家	0	_	_	_	286	same-unit_m	_	_
+289	—— 小 到 最 小 的 虫子 ，	1	_	_	_	286	elaboration-additional_r	_	_
+290	大 到 熊 。	0	_	_	_	289	joint-list_m	_	_
+291	永远 不 要 试图 接近 或者 跟 野生 动物 进行 互动 ，	3	_	_	_	198	joint-list_m	_	_
+292	因为	0	_	_	_	293	organization-phatic_r	_	_
+293	—— 毕竟 它们 是 野生 的 啊 。	0	_	_	_	291	causal-cause_r	_	_
+294	尤其 要 小心 蛇 。	1	_	_	_	291	elaboration-additional_r	_	_
+295	当 走 在 岩石 嶙峋 的 地方 时 ，	0	_	_	_	296	context-circumstance_r	_	_
+296	要 小心 ，	0	_	_	_	294	explanation-evidence_r	_	_
+297	这 是 常见 的 蛇群 居住地	1	_	_	_	296	causal-cause_r	_	_
+298	—— 踩到 蛇 可 从来 不 是 什么 愉快 的 经历 。	2	_	_	_	296	explanation-justify_r	_	_
+299	6 只 留下 脚印 ，	3	_	_	_	309	context-background_r	_	_
+300	只 带走 照片 。	0	_	_	_	299	joint-list_m	_	_
+301	这 是	1	_	_	_	299	elaboration-additional_r	_	_
+302	我们 年轻 时	0	_	_	_	303	context-circumstance_r	_	_
+303	就 被 教导 的	0	_	_	_	304	elaboration-attribute_r	_	_
+304	话 ，	0	_	_	_	301	same-unit_m	_	_
+305	现今 它 仍 是 正确 的 。	1	_	_	_	301	adversative-contrast_m	_	_
+306	荒野 是 一 个	1	_	_	_	309	context-background_r	_	_
+307	必须 被 尊重 的	0	_	_	_	308	elaboration-attribute_r	_	_
+308	美丽 的 地方 。	0	_	_	_	306	same-unit_m	_	_
+309	不 要 把 垃圾 丢在 地上 ，	3	_	_	_	198	joint-list_m	_	_
+310	也 不 要 让 爆破 般 的 音乐 或是 声嘶 力竭 的 说话声 打破 荒野 的 宁静 。	0	_	_	_	309	joint-list_m	_	_
+311	当 你 离开 时 ，	0	_	_	_	312	context-circumstance_r	_	_
+312	也 不 要 带走 这里 的 石头 ， 植物 或是 动物	0	_	_	_	309	joint-list_m	_	_
+313	—— 如果 你 这样 做 了 ，	0	_	_	_	314	contingency-condition_r	_	_
+314	你 会 扰乱 你 周边 美丽 的 生态 系统 。	1	_	_	_	312	explanation-justify_r	_	_
+315	要 成为 一 名 真正 的 徒步 旅行者 ，	1	_	_	_	314	elaboration-additional_r	_	_
+316	必须 尊重 自然 。	0	_	_	_	315	purpose-goal_r	_	_
+317	-LSB- 7 -RSB-	2	_	_	_	309	explanation-evidence_r	_	_

@@ -1,0 +1,249 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="213" relname="organization-heading">樋口一叶 // Higuchi Ichiyo</segment>
+		<segment id="2" parent="113" relname="span">樋口一叶 // Higuchi Ichiyo</segment>
+		<segment id="3" parent="2" relname="elaboration-additional">（ 1872年 5月 2日 － 1896年 11月 23日 ） ， // (May 2, 1872 - November 23, 1896),</segment>
+		<segment id="4" parent="114" relname="same-unit">生于 东京 ， // Born in Tokyo,</segment>
+		<segment id="5" parent="115" relname="joint-list">原名 樋口奈津 或 樋口夏子 ， // Formerly known as Higuchi Najin or Higuchi Natsuko,</segment>
+		<segment id="6" parent="115" relname="joint-list">是 日本 明治 初期 主要 的 女性 小说家 。 // was Japan's leading female novelist in the early Meiji period.</segment>
+		<segment id="7" parent="118" relname="joint-list">樋口一叶 是 日本 平安 时代 一千余 年 后 出现 的 第一 位 女 作家 。 // Higuchi Ichiyo was the first female writer to appear more than a thousand years after the Heian period in Japan .</segment>
+		<segment id="8" parent="9" relname="causal-cause">因 肺结核 // due to pulmonary tuberculosis</segment>
+		<segment id="9" parent="116" relname="span">病逝 ， // died of illness,</segment>
+		<segment id="10" parent="117" relname="joint-list">得年 24 岁 。 // 24 years old.</segment>
+		<segment id="11" parent="118" relname="explanation-evidence">-LSB- 1 -RSB- // -LSB- 1 -RSB-</segment>
+		<segment id="12" parent="173" relname="organization-heading">生平 // life</segment>
+		<segment id="13" parent="120" relname="span">樋口一叶 出生 于 东京府 // Higuchi Ichiyo was born in Tokyo</segment>
+		<segment id="14" parent="13" relname="restatement-partial">（ 今 东京都 ） 。 // (today's Tokyo).</segment>
+		<segment id="15" parent="121" relname="joint-list">樋口一叶 为 家族 五 兄弟 姊妹 中 的 二女 ， // Higuchi Ichiyo is the second daughter of five brothers and sisters in the family.</segment>
+		<segment id="16" parent="123" relname="same-unit">父亲 樋口则义 是 个 // Father Noriyoshi Higuchi is a</segment>
+		<segment id="17" parent="18" relname="elaboration-attribute">从 农民 晋身 的 // promoted from peasant</segment>
+		<segment id="18" parent="122" relname="span">下级 官吏 ， // lower officials,</segment>
+		<segment id="19" parent="125" relname="same-unit">深明 // Deep understanding</segment>
+		<segment id="20" parent="21" relname="elaboration-attribute">知识 能 改变 命运 的 // Knowledge can change destiny</segment>
+		<segment id="21" parent="124" relname="span">道理 ， // reason ,</segment>
+		<segment id="22" parent="23" relname="attribution-positive">期望 // expect</segment>
+		<segment id="23" parent="126" relname="span">儿女 能 学有所成 ， // Children can learn something,</segment>
+		<segment id="24" parent="131" relname="span">可惜 母亲 樋口多喜 思想 保守 ， // It's a pity that my mother, Higuchi Taki, is conservative.</segment>
+		<segment id="25" parent="26" relname="attribution-positive">认为 // think</segment>
+		<segment id="26" parent="130" relname="span">女子 无 才 便 是 德 ， // A woman without talent is virtue,</segment>
+		<segment id="27" parent="133" relname="same-unit">所以 樋口 11 岁 // So Higuchi is 11 years old</segment>
+		<segment id="28" parent="29" relname="adversative-concession">还 没 念毕 小学 // Haven't finished primary school yet</segment>
+		<segment id="29" parent="132" relname="span">便 被迫 辍学 。 // was forced to drop out of school.</segment>
+		<segment id="30" parent="135" relname="same-unit">14 岁 那 年 才 在 父亲 的 安排 下 学艺 于 // At the age of 14, I learned art at the arrangement of my father.</segment>
+		<segment id="31" parent="134" relname="joint-list">当时 军政 要人 等 特权 阶级 的 家眷 才 能 入读 的 // At that time , military and political dignitaries waited for the family members of the privileged class to enter the school .</segment>
+		<segment id="32" parent="134" relname="joint-list">中岛 歌子 开设 的 // Opened by Utako Nakajima</segment>
+		<segment id="33" parent="136" relname="span">萩舍 。 // Hagisha.</segment>
+		<segment id="34" parent="138" relname="explanation-evidence">-LSB- 1 -RSB- // -LSB- 1 -RSB-</segment>
+		<segment id="35" parent="142" relname="span">1893年 7月 全家 为 生计 搬至 下谷区 龙泉寺町 // In July 1893, the whole family moved to Ryusenji Town, Shimotani District for a living.</segment>
+		<segment id="36" parent="35" relname="restatement-partial">（ 今 台东区 竜泉 一丁目 ） // (now Longquan 1-chome, Taito District)</segment>
+		<segment id="37" parent="143" relname="joint-list">经营 杂货店 ， // run a grocery store,</segment>
+		<segment id="38" parent="146" relname="adversative-concession">店子 虽然 只 经营 了 九 个 月 ， // Although the shop has only been in business for nine months,</segment>
+		<segment id="39" parent="146" relname="same-unit">但 此 期间 的 生活 与 // But life during this period was</segment>
+		<segment id="40" parent="41" relname="elaboration-attribute">接触 的 // contact</segment>
+		<segment id="41" parent="145" relname="span">人 与 事 对 她 的 写作 历程 影响 最 大 ， // People and events have the greatest influence on her writing process.</segment>
+		<segment id="42" parent="147" relname="joint-list">期间 她 经常 到 图书馆 // During this period, she often went to the library</segment>
+		<segment id="43" parent="147" relname="joint-list">借阅 研读 古典 文学 著作 如 《 万叶集 》 、 《 古今集 》 、 《 新古今集 》 等 ， // Borrow and study classical literature works such as "Manyoshu", "Ancient and Modern Collection", "New Ancient and Modern Collection", etc.</segment>
+		<segment id="44" parent="147" relname="causal-result">为 其 文学 修养 打下 基础 。 // Lay the foundation for its literary accomplishment .</segment>
+		<segment id="45" parent="151" relname="span">樋口 于 1891年 跟随 朝日 新闻 的 记者 半井桃水 // Higuchi following Asahi Shimbun reporter Moomizu Banai in 1891</segment>
+		<segment id="46" parent="45" relname="purpose-goal">学习 写作 技巧 ， // learn writing skills,</segment>
+		<segment id="47" parent="153" relname="same-unit">并 在 同年 秋天 // and in the fall of the same year</segment>
+		<segment id="48" parent="49" relname="mode-manner">取 “ 一叶 ” 为 笔名 // Take "Yi Ye" as a pseudonym</segment>
+		<segment id="49" parent="152" relname="span">发表 作品 ， // published works,</segment>
+		<segment id="50" parent="154" relname="joint-sequence">两 人 并 相恋 ， // The two fell in love,</segment>
+		<segment id="51" parent="156" relname="same-unit">但 终 // but in the end</segment>
+		<segment id="52" parent="53" relname="causal-cause">因 保护 名节 // Because of the protection of the name festival</segment>
+		<segment id="53" parent="155" relname="span">而 主动 断绝 了 来往 。 // And voluntarily cut off contact.</segment>
+		<segment id="54" parent="158" relname="span">樋口 在 1895年 9月 于 文艺 俱乐部 发表 了 多 篇 拟古文 作品 ， // In September 1895, Higuchi published a number of quasi-ancient literary works at the Literature and Art Club.</segment>
+		<segment id="55" parent="157" relname="joint-list">获得 高度 评价 ， // highly rated ,</segment>
+		<segment id="56" parent="157" relname="joint-list">有 “ 现代 紫式部 ” 之 誉 。 // It has the reputation of "Modern Purple Shikibu".</segment>
+		<segment id="57" parent="158" relname="explanation-evidence">-LSB- 1 -RSB- // -LSB- 1 -RSB-</segment>
+		<segment id="58" parent="160" relname="span">1894年 3月 左右 樋口 一 家 搬至 本乡区 丸山 福山町 // Around March 1894, the Higuchi family moved to Fukuyama-machi, Maruyama, Hongo District.</segment>
+		<segment id="59" parent="58" relname="elaboration-attribute">（ 今 文京区 西片 一丁目 ） // (now Bunkyo-ku Nishi-wat 1-chome)</segment>
+		<segment id="60" parent="160" relname="purpose-goal">生活 ， // Life ,</segment>
+		<segment id="61" parent="163" relname="same-unit">樋口 并 开始 发表 // Higuchi and began to publish</segment>
+		<segment id="62" parent="63" relname="elaboration-attribute">受 日本 文坛 注目 的 // attracted the attention of Japanese literary circles</segment>
+		<segment id="63" parent="162" relname="span">作品 《 青梅 竹马 》 ， // The work "Childhood Plum Bamboo Horse",</segment>
+		<segment id="64" parent="164" relname="joint-list">作品 细致 描绘 两 名 青春期 男女 若即若离 的 青涩 爱情 故事 ， // The work meticulously depicts the young love story of two adolescent men and women who are at odds with each other .</segment>
+		<segment id="65" parent="164" relname="joint-list">极 具 美感 ； // very beautiful;</segment>
+		<segment id="66" parent="167" relname="joint-sequence">但 樋口 于 1896年 4月 感到 身体 有异 ， // But Higuchi felt something different in April 1896.</segment>
+		<segment id="67" parent="167" relname="joint-sequence">8月 接受 诊断 为 肺结核 ， // Diagnosed with tuberculosis in August ,</segment>
+		<segment id="68" parent="168" relname="span">11月 23日 早上 在 本乡区 家中 逝世 ， // Died at home in Hongxiang district on the morning of November 23,</segment>
+		<segment id="69" parent="169" relname="span">结束 了 短暂 而 璀璨 的 一 生 ， // At the end of a short and splendid life,</segment>
+		<segment id="70" parent="69" relname="elaboration-attribute">在 日本 文学史 上 被 称 为 “ 奇迹 十四 个 月 ” 的 作家 生涯 ， // In the history of Japanese literature, the writer's career is called "fourteen months of miracles".</segment>
+		<segment id="71" parent="167" relname="joint-sequence">死后 葬于 东京都 杉并区 家族 墓 中 。 // After his death, he was buried in a family tomb in Suginami Ward, Tokyo.</segment>
+		<segment id="72" parent="167" relname="explanation-evidence">-LSB- 1 -RSB- // -LSB- 1 -RSB-</segment>
+		<segment id="73" parent="171" relname="span">日本 银行 于 2004年 11月 1日 将 樋口一叶 选为 新 发行 的 5000 日圆 面额 纸币 上 的 肖像 ， // Ichiyo Higuchi was selected by the Bank of Japan as the portrait on the newly issued 5000 yen note on November 1 , 2004 .</segment>
+		<segment id="74" parent="73" relname="causal-result">樋口一叶 成为 日本 纸币 上 的 第一 个 女性 人物 。 // Higuchi Ichiyo became the first female figure on Japanese banknotes .</segment>
+		<segment id="75" parent="171" relname="explanation-evidence">-LSB- 1 -RSB- // -LSB- 1 -RSB-</segment>
+		<segment id="76" parent="196" relname="organization-heading">作品 风格 // work style</segment>
+		<segment id="77" parent="176" relname="adversative-contrast">因为 她 的 作品 多 为 彷古文 形式 ， // Because most of her works are in the form of antiques,</segment>
+		<segment id="78" parent="176" relname="adversative-contrast">而 非 白话文 ， // rather than vernacular,</segment>
+		<segment id="79" parent="176" relname="evaluation-comment">较 难 看懂 ， // harder to understand,</segment>
+		<segment id="80" parent="180" relname="same-unit">加上 其 作品 // plus its works</segment>
+		<segment id="81" parent="181" relname="causal-cause">因为 题材 的 关系 // Because of the subject matter</segment>
+		<segment id="82" parent="181" relname="span">没有 列入 日本 学校 教育 之 相关 教材 中 // Not included in the relevant textbooks of Japanese school education</segment>
+		<segment id="83" parent="82" relname="restatement-partial">（ 列入 课本 范文 或 参考 介绍 等 ） ， // (Included in the textbook example or reference introduction, etc.),</segment>
+		<segment id="84" parent="178" relname="causal-result">故 不少 日本 民众 对 樋口 的 作品 较 陌生 。 // Therefore, many Japanese people are unfamiliar with Higuchi's works.</segment>
+		<segment id="85" parent="184" relname="same-unit">她 的 作品 多 为 感性 描述 // Her works are mostly emotional descriptions</segment>
+		<segment id="86" parent="87" relname="elaboration-attribute">在 家父长制 下 的 日本 妇女 ， 为 生活 而 吃尽 苦头 的 // Japanese women under the patriarchal system have suffered for life</segment>
+		<segment id="87" parent="183" relname="span">主题 ， // theme ,</segment>
+		<segment id="88" parent="185" relname="joint-list">内嵌 上 自己 的 亲身 经历 与 所见所闻 ， // Embedded with my own personal experience and what I have seen and heard,</segment>
+		<segment id="89" parent="187" relname="same-unit">再 加上 // Plus</segment>
+		<segment id="90" parent="91" relname="elaboration-attribute">作者 赋与 的 // endowed by the author</segment>
+		<segment id="91" parent="186" relname="span">批判 。 // critique.</segment>
+		<segment id="92" parent="189" relname="same-unit">故事 // story</segment>
+		<segment id="93" parent="94" relname="adversative-concession">于 今 细读 // Read it today</segment>
+		<segment id="94" parent="188" relname="span">也 不 觉 过时 ， // It doesn't feel outdated,</segment>
+		<segment id="95" parent="191" relname="adversative-contrast">且 寥寥 数 字 // and few numbers</segment>
+		<segment id="96" parent="191" relname="adversative-contrast">却 显 笔触 之 细腻 ， // But it shows the delicacy of brushstrokes,</segment>
+		<segment id="97" parent="192" relname="joint-list">体现 她 惊人 的 观察力 ， // Embodying her amazing power of observation ,</segment>
+		<segment id="98" parent="192" relname="joint-list">也 让 她 成为 女性 文学 的 先驱 作家 。 // It also made her a pioneering writer of women's literature .</segment>
+		<segment id="99" parent="194" relname="organization-phatic">-LSB- 来源 请求 -RSB- // -LSB-source request-RSB-</segment>
+		<segment id="100" parent="201" relname="organization-heading">逝后 百 年 // One hundred years after death</segment>
+		<segment id="101" parent="203" relname="same-unit">1996年 // year 1996</segment>
+		<segment id="102" parent="202" relname="purpose-goal">为 纪念 一叶 逝世 后 百 年 ， // To commemorate the hundred years after Yi Ye's death,</segment>
+		<segment id="103" parent="200" relname="span">出版界 重新 编辑 出版 《 樋口一叶 全集 》 // The publishing world re-edited and published "The Complete Works of Ichiyo Higuchi"</segment>
+		<segment id="104" parent="199" relname="span">（ 和歌集 、 日记 书信集 、 小说集 ， // (Waka Collection, Diary Letter Collection, Novel Collection,</segment>
+		<segment id="105" parent="104" relname="attribution-positive">由 筑摩 书房 出版 ） ， // Published by Tsukuma Shobo),</segment>
+		<segment id="106" parent="200" relname="elaboration-additional">部分 作品 有 日语 白话文 翻译本 ； // Some works have Japanese vernacular translations;</segment>
+		<segment id="107" parent="204" relname="span">在 东京都 台东区 龙泉 三丁目 设立 了 “ 一叶 纪念馆 ” ， // "Ichiba Memorial Hall" was established in Ryusen 3-chome, Taito-ku, Tokyo.</segment>
+		<segment id="108" parent="107" relname="elaboration-additional">她 亦 成为 了 2004年 11月 发行 的 新版 五千 日圆 纸币 上 的 人物 。 // She was also featured on the new 5000 yen note that was released in November 2004 .</segment>
+		<segment id="109" parent="206" relname="same-unit">同年 2月 台湾 洪范 出版社 出版 // Published by Taiwan Hongfan Publishing House in February of the same year</segment>
+		<segment id="110" parent="111" relname="elaboration-attribute">由 林文月 翻译 的 // Translated by Lin Wenyue</segment>
+		<segment id="111" parent="205" relname="span">首 本 樋口 作品 《 十三 夜 》 ， // The first Higuchi work "Thirteen Nights",</segment>
+		<segment id="112" parent="210" relname="joint-sequence">另外 樋口 的 一些 作品 ， 林文月 翻译 并 发表 至 《 联合 文学 》 杂志 中 ， 如 《 比肩 》 （ 1998年 1月 ） 、 《 浊江 》 （ 1998年 9月 ） 。 // In addition, some of Higuchi's works were translated and published by Lin Wenyue in "United Literature" magazines, such as "Jianjian" (January 1998) and "Zuojiang" (September 1998).</segment>
+		<group id="113" type="span" parent="114" relname="same-unit"/>
+		<group id="114" type="multinuc" parent="115" relname="joint-list"/>
+		<group id="115" type="multinuc" parent="118" relname="joint-list"/>
+		<group id="116" type="span" parent="117" relname="joint-list"/>
+		<group id="117" type="multinuc" parent="118" relname="joint-list"/>
+		<group id="118" type="multinuc" parent="139" relname="span"/>
+		<group id="120" type="span" parent="121" relname="joint-list"/>
+		<group id="121" type="multinuc" parent="129" relname="context-background"/>
+		<group id="122" type="span" parent="123" relname="same-unit"/>
+		<group id="123" type="multinuc" parent="127" relname="context-background"/>
+		<group id="124" type="span" parent="125" relname="same-unit"/>
+		<group id="125" type="multinuc" parent="127" relname="joint-list"/>
+		<group id="126" type="span" parent="127" relname="joint-list"/>
+		<group id="127" type="multinuc" parent="128" relname="span"/>
+		<group id="128" type="span" parent="129" relname="adversative-contrast"/>
+		<group id="129" type="multinuc" parent="140" relname="span"/>
+		<group id="130" type="span" parent="24" relname="elaboration-additional"/>
+		<group id="131" type="span" parent="129" relname="adversative-contrast"/>
+		<group id="132" type="span" parent="133" relname="same-unit"/>
+		<group id="133" type="multinuc" parent="137" relname="joint-sequence"/>
+		<group id="134" type="multinuc" parent="33" relname="elaboration-attribute"/>
+		<group id="135" type="multinuc" parent="137" relname="joint-sequence"/>
+		<group id="136" type="span" parent="135" relname="same-unit"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="138" type="span" parent="141" relname="span"/>
+		<group id="139" type="span" parent="212" relname="organization-preparation"/>
+		<group id="140" type="span" parent="137" relname="causal-cause"/>
+		<group id="141" type="span" parent="173" relname="joint-sequence"/>
+		<group id="142" type="span" parent="143" relname="joint-list"/>
+		<group id="143" type="multinuc" parent="149" relname="context-background"/>
+		<group id="144" type="span" parent="149" relname="span"/>
+		<group id="145" type="span" parent="146" relname="same-unit"/>
+		<group id="146" type="multinuc" parent="144" relname="span"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="148" type="span" parent="144" relname="explanation-evidence"/>
+		<group id="149" type="span" parent="174" relname="span"/>
+		<group id="151" type="span" parent="154" relname="joint-sequence"/>
+		<group id="152" type="span" parent="153" relname="joint-list"/>
+		<group id="153" type="multinuc" parent="154" relname="joint-sequence"/>
+		<group id="154" type="multinuc" parent="173" relname="joint-sequence"/>
+		<group id="155" type="span" parent="156" relname="same-unit"/>
+		<group id="156" type="multinuc" parent="154" relname="joint-sequence"/>
+		<group id="157" type="multinuc" parent="54" relname="evaluation-comment"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" parent="173" relname="joint-sequence"/>
+		<group id="160" type="span" parent="161" relname="span"/>
+		<group id="161" type="span" parent="166" relname="joint-list"/>
+		<group id="162" type="span" parent="163" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="165" relname="span"/>
+		<group id="164" type="multinuc" parent="163" relname="elaboration-additional"/>
+		<group id="165" type="span" parent="166" relname="joint-list"/>
+		<group id="166" type="multinuc" parent="173" relname="joint-sequence"/>
+		<group id="167" type="multinuc" parent="170" relname="span"/>
+		<group id="168" type="span" parent="167" relname="joint-sequence"/>
+		<group id="169" type="span" parent="68" relname="causal-result"/>
+		<group id="170" type="span" parent="173" relname="joint-sequence"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="173" relname="joint-sequence"/>
+		<group id="173" type="multinuc" parent="175" relname="span"/>
+		<group id="174" type="span" parent="173" relname="joint-sequence"/>
+		<group id="175" type="span" parent="212" relname="joint-other"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="joint-list"/>
+		<group id="178" type="multinuc" parent="182" relname="span"/>
+		<group id="179" type="span" parent="180" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="178" relname="joint-list"/>
+		<group id="181" type="span" parent="179" relname="span"/>
+		<group id="182" type="span" parent="195" relname="adversative-concession"/>
+		<group id="183" type="span" parent="184" relname="same-unit"/>
+		<group id="184" type="multinuc" parent="185" relname="joint-list"/>
+		<group id="185" type="multinuc" parent="193" relname="span"/>
+		<group id="186" type="span" parent="187" relname="same-unit"/>
+		<group id="187" type="multinuc" parent="185" relname="joint-list"/>
+		<group id="188" type="span" parent="189" relname="same-unit"/>
+		<group id="189" type="multinuc" parent="190" relname="joint-list"/>
+		<group id="190" type="multinuc" parent="185" relname="causal-result"/>
+		<group id="191" type="multinuc" parent="190" relname="joint-list"/>
+		<group id="192" type="multinuc" parent="193" relname="evaluation-comment"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="196" relname="span"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="212" relname="joint-other"/>
+		<group id="198" type="span" parent="203" relname="same-unit"/>
+		<group id="199" type="span" parent="103" relname="restatement-partial"/>
+		<group id="200" type="span" parent="202" relname="span"/>
+		<group id="201" type="multinuc" parent="211" relname="span"/>
+		<group id="202" type="span" parent="198" relname="span"/>
+		<group id="203" type="multinuc" parent="201" relname="joint-list"/>
+		<group id="204" type="span" parent="201" relname="joint-list"/>
+		<group id="205" type="span" parent="206" relname="same-unit"/>
+		<group id="206" type="multinuc" parent="210" relname="joint-sequence"/>
+		<group id="210" type="multinuc" parent="201" relname="joint-list"/>
+		<group id="211" type="span" parent="212" relname="joint-other"/>
+		<group id="212" type="multinuc" parent="213" relname="span"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" />
+	</body>
+</rst>

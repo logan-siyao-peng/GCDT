@@ -1,0 +1,148 @@
+1	突发 疫情 下 的 政府 治理 研究	5	_	_	_	10	organization-heading_r	_	_
+2	—— 以 新冠 疫情 为 例	0	_	_	_	1	explanation-evidence_r	_	_
+3	1. 引言	3	_	_	_	10	organization-heading_r	_	_
+4	新 世纪 以来 ， 中国 经济 进入 高速 发展 的 时期 ，	1	_	_	_	10	causal-cause_r	_	_
+5	全球化 的 发展 也 使得 人类 之间 的 联系 日益 密切 。	0	_	_	_	4	joint-list_m	_	_
+6	同时 ， 我国 也 进入 了 突发 疫情 的 高频 阶段 ，	0	_	_	_	4	joint-list_m	_	_
+7	2020年 新冠 疫情 则 是	0	_	_	_	6	elaboration-additional_r	_	_
+8	新 中国 成立 以来	0	_	_	_	9	context-circumstance_r	_	_
+9	最 严重 的 一 次 公共 卫生 突发 事件 ，	0	_	_	_	7	same-unit_m	_	_
+10	这 对 政府 的 治理 能力 与 治理 体系 提出 了 新 的 挑战 ，	0	_	_	_	0	ROOT	_	_
+11	也 是 对 中国 特色 社会 主义 治理 能力 与 治理 体系 的 一 次 大考 。	0	_	_	_	10	joint-list_m	_	_
+12	目前 ， 我国 新冠 疫情 已经 基本 稳定 ，	1	_	_	_	14	adversative-concession_r	_	_
+13	进入 了 疫情 防控 常态化 阶段 。	0	_	_	_	12	joint-list_m	_	_
+14	但 在 该 次 突发 疫情 中 ， 暴露 出 政府 在 责任 划分 和 合作 治理 等 方面 的 问题 ，	2	_	_	_	17	causal-cause_r	_	_
+15	削弱 了 政府 在 突发 疫情 中 的 治理 能力 。	0	_	_	_	14	joint-list_m	_	_
+16	因此 ， 通过 完善 现有 法律 与 制度 ，	0	_	_	_	17	mode-means_r	_	_
+17	优化 政府 治理 存在 必要性 与 紧迫性 ，	2	_	_	_	10	elaboration-additional_r	_	_
+18	同时 也 是	1	_	_	_	17	joint-list_m	_	_
+19	实现 中国 特色 社会 主义 治理 能力	0	_	_	_	21	purpose-attribute_r	_	_
+20	与 治理 体系 现代化 的	0	_	_	_	19	joint-list_m	_	_
+21	必然 要求 。	0	_	_	_	18	same-unit_m	_	_
+22	2. 相关 概念 与 制度	5	_	_	_	24	organization-heading_r	_	_
+23	2.1. 突发 疫情 的 定义 及 特点	3	_	_	_	24	organization-heading_r	_	_
+24	突发 疫情 是 指 突发 的 、 群发 的 、	4	_	_	_	10	joint-list_m	_	_
+25	对 公共 健康 或 经济 、 政治 、 社会 等 影响 大 的	0	_	_	_	30	elaboration-attribute_r	_	_
+26	( 已 造成 危害	0	_	_	_	25	restatement-partial_r	_	_
+27	或 可能 造成 危害 ) ，	0	_	_	_	26	joint-disjunction_m	_	_
+28	需要 紧急 采取 控制 措施 ，	1	_	_	_	25	joint-list_m	_	_
+29	与 传染病 有关 的	1	_	_	_	25	joint-list_m	_	_
+30	公共 卫生 事件	0	_	_	_	24	same-unit_m	_	_
+31	-LSB- 1 -RSB- 。	1	_	_	_	24	explanation-evidence_r	_	_
+32	相对于 其他 突发 事件 ， 突发 疫情 本身 具有 显著 特点 ，	7	_	_	_	40	organization-preparation_r	_	_
+33	对 政府 治理 提出 了 更 高 的 要求 ，	0	_	_	_	32	causal-result_r	_	_
+34	集中 体现 在 以下 三 个 方面 。	1	_	_	_	32	elaboration-additional_r	_	_
+35	公共性 。	5	_	_	_	40	organization-preparation_r	_	_
+36	突发 疫情 属于 公共 卫生 事件 的 一 种 ，	1	_	_	_	37	context-background_r	_	_
+37	突发 疫情 的 最初 范围 不 一定 是 在 普遍 的 公众 领域 ，	3	_	_	_	40	adversative-concession_r	_	_
+38	很 可能 是 开始于 某 个 狭小 的 公众 领域 或 为数 不 多 的 特定 个体 ，	0	_	_	_	37	explanation-justify_r	_	_
+39	但是 由于 疫情 的 传染性 ，	1	_	_	_	40	causal-cause_r	_	_
+40	会	2	_	_	_	24	joint-list_m	_	_
+41	随着 人员 交流 、 人口 流动 、 社会 交往 等	0	_	_	_	42	mode-means_r	_	_
+42	得以 进一步 的 扩散 ，	0	_	_	_	40	same-unit_m	_	_
+43	成为 一定 区域 乃至 全球 的 公共 卫生 事件 。	2	_	_	_	40	causal-result_r	_	_
+44	因此 ， 政府 必须 通过 调动 和 整合 充足 的 公共 资源 ，	0	_	_	_	45	mode-means_r	_	_
+45	跨 区域 协调 联动 ，	0	_	_	_	47	contingency-condition_r	_	_
+46	并且 消除 民众 心理 与 公共 评价 的 体系 中 的 不利 影响	1	_	_	_	45	joint-list_m	_	_
+47	才 能 得以 解决 。	4	_	_	_	40	causal-result_r	_	_
+48	突发性 。	4	_	_	_	49	organization-heading_r	_	_
+49	突发 疫情 的 发生 是 不 可 预测 的 ，	6	_	_	_	40	joint-list_m	_	_
+50	容易 被 忽视 的 ，	0	_	_	_	49	joint-list_m	_	_
+51	但是 却 具有 极 大 危害性 乃至 颠覆性 。	1	_	_	_	49	adversative-contrast_m	_	_
+52	公共 对策 研究 的 最大 困境 就 在于 很 难 对 事件 的 发生 和 发展 做出 预先 的 判断 ，	1	_	_	_	54	causal-cause_r	_	_
+53	所以 事件 一旦 发生 ，	0	_	_	_	54	contingency-condition_r	_	_
+54	公众 和 政府 容易 在 早期 陷入 被动 与 慌乱 。	2	_	_	_	49	explanation-evidence_r	_	_
+55	同时	1	_	_	_	60	causal-cause_r	_	_
+56	在 事件 中 不断 出现 的	0	_	_	_	57	elaboration-attribute_r	_	_
+57	新 情况 也 往往 是 无章可循 的 ，	0	_	_	_	55	same-unit_m	_	_
+58	需要 时间	1	_	_	_	55	joint-list_m	_	_
+59	进行 分析 和 对策 ，	0	_	_	_	58	purpose-goal_r	_	_
+60	这时 就 出现 了 “ 政策 真空 ” 的 时期 ，	2	_	_	_	54	joint-other_m	_	_
+61	事件 继续 恶化	0	_	_	_	60	joint-sequence_m	_	_
+62	走向 危机	0	_	_	_	60	joint-sequence_m	_	_
+63	-LSB- 2 -RSB- 。	2	_	_	_	60	explanation-evidence_r	_	_
+64	因此 ， 政府 对于 突发 疫情 的 发生 与 发展 的 预先 判断 对于 防止 疫情 的 进一步 扩大 至关重要 。	3	_	_	_	49	causal-result_r	_	_
+65	危害性 。	4	_	_	_	71	organization-heading_r	_	_
+66	突发 疫情 的 危害性 体现 政治 、 经济 与 社会 生活 的 各个 方面 ，	3	_	_	_	71	organization-preparation_r	_	_
+67	相对于 短暂 的 卫生 事件 而言 ，	1	_	_	_	68	adversative-antithesis_r	_	_
+68	突发 疫情 的 危害性 也 是 相对 持久 的 ，	0	_	_	_	66	elaboration-additional_r	_	_
+69	范围 也 是 会 波及 甚 广 。	0	_	_	_	68	joint-list_m	_	_
+70	就 经济 角度 而言 ，	1	_	_	_	71	organization-preparation_r	_	_
+71	新冠 疫情 对 中国 经济 的 发展 产生 巨大 影响 ，	6	_	_	_	40	joint-list_m	_	_
+72	要求	2	_	_	_	73	attribution-positive_r	_	_
+73	政府	0	_	_	_	71	joint-list_m	_	_
+74	在 防控 疫情 时 ，	0	_	_	_	75	context-circumstance_r	_	_
+75	适时 恢复 社会 生产 ，	0	_	_	_	73	same-unit_m	_	_
+76	实现 防控 工作 与 经济 发展 的 平衡 。	1	_	_	_	73	purpose-goal_r	_	_
+77	突发 疫情 是 非 常态 的 ，	2	_	_	_	84	context-background_r	_	_
+78	会 在 一定 时间 内 ， 对 一定 区域 内 社会 格局 产生 持久性 的 消极 影响 。	0	_	_	_	77	explanation-justify_r	_	_
+79	对于	1	_	_	_	84	organization-preparation_r	_	_
+80	肩负 维护 社会 安全 与 稳定 、	0	_	_	_	83	elaboration-attribute_r	_	_
+81	保障 公民 各 项 权利 ，	0	_	_	_	80	joint-list_m	_	_
+82	促进 经济 发展 任务 的	0	_	_	_	80	joint-list_m	_	_
+83	各 级 政府 组织 而言 ，	0	_	_	_	79	same-unit_m	_	_
+84	应对 突发 疫情 是 一 个 长期 的 、 持续 的 过程 ，	2	_	_	_	71	joint-list_m	_	_
+85	是 其 职能 所 系 ，	0	_	_	_	84	joint-list_m	_	_
+86	同时 也 对 政府 的 行政 能力 与 行政 合法性 层面 提出 了 要求 。	0	_	_	_	84	joint-list_m	_	_
+87	2.2. 突发 疫情 下 政府 治理 的 相关 制度	4	_	_	_	90	organization-heading_r	_	_
+88	自 2003年 非典 突发 疫情 以后 ，	0	_	_	_	89	context-circumstance_r	_	_
+89	中国 政府 加紧 建设 在 突发 状态 下 的 政府 应急 治理 体系 建设 ，	2	_	_	_	90	context-background_r	_	_
+90	主要 集中 体现 在 建立 与 完善	4	_	_	_	24	joint-list_m	_	_
+91	以 “ 一 案 三 制 ” 为 核心 的	0	_	_	_	92	elaboration-attribute_r	_	_
+92	应急 管理 体系 建设 ，	0	_	_	_	90	same-unit_m	_	_
+93	包括 紧急 预案 、 应急 体制 、 应急 机制 与 法制 ，	1	_	_	_	90	elaboration-additional_r	_	_
+94	建立	0	_	_	_	93	explanation-justify_r	_	_
+95	“ 国家 统一 领导 、 综合 协调 、 分类 管理 、 分级 负责 、 属地 管理 为 主 的	0	_	_	_	96	elaboration-attribute_r	_	_
+96	应急 管理 体制 ” ，	0	_	_	_	94	same-unit_m	_	_
+97	保证 了 突发 状态 下 政府 的 应急 能力 与 治理 能力 。	1	_	_	_	94	joint-list_m	_	_
+98	2.2.1. 紧急 预案	2	_	_	_	105	organization-heading_r	_	_
+99	应急 预案 是 指	1	_	_	_	105	context-background_r	_	_
+100	承担 突发 事件 应对 职能 的	0	_	_	_	101	purpose-attribute_r	_	_
+101	国家 机关	0	_	_	_	104	elaboration-attribute_r	_	_
+102	针对 突发 事件 的 预防 和 准备 、 监测 与 预警 、 处置 与 救援 、 恢复 与 重建 ， 以及 应急 管理 的 组织 、 指挥 、 保障 等 内容	0	_	_	_	103	elaboration-additional_r	_	_
+103	而 制定 的	1	_	_	_	101	same-unit_m	_	_
+104	工作 计划 。	0	_	_	_	99	same-unit_m	_	_
+105	2005年 ， 国务院 审议 并 通过 了 《 国家 突发 公共 事件 总 应急 预案 》 ，	3	_	_	_	90	explanation-evidence_r	_	_
+106	公共 卫生 事件 的 各 级 专项 预案 和 部门 预案 陆续 发布 ，	1	_	_	_	107	attribution-positive_r	_	_
+107	将 突发 公共 卫生 危机 分为 特别 重大 、 重大 、 较大 和 一般 四 级 ，	0	_	_	_	105	joint-sequence_m	_	_
+108	分别 用 红 、 橙 、 黄 、 蓝色	0	_	_	_	109	mode-means_r	_	_
+109	来 表示 。	0	_	_	_	107	elaboration-additional_r	_	_
+110	2.2.2. 应急 体制	5	_	_	_	120	organization-heading_r	_	_
+111	应急 体制 建设 是 国家 应急 体系 建设 中 一 个 重要 的 组成 部分 ，	1	_	_	_	112	context-background_r	_	_
+112	在 《 中华 人民 共和国 突发 事件 应对法 》 中 ，	4	_	_	_	120	explanation-evidence_r	_	_
+113	根据 突发 疫情 发生 的 规模 程度 和 影响 范围 ，	0	_	_	_	114	mode-manner_r	_	_
+114	分别 由 各 级 政府 实施 应急 管理 ；	0	_	_	_	112	same-unit_m	_	_
+115	跨 省区 、 跨 部门 或 特别 重大 的 突发 疫情 ， 由 国务院 及 有关 部门 进行 直接 管理 ，	2	_	_	_	112	explanation-evidence_r	_	_
+116	地方 各 级 政府 予以 协助 配合 ；	0	_	_	_	115	joint-list_m	_	_
+117	其他 局部性 的 或 一般性 的 疫情 ， 由 地方 相应 层级 政府 负责 处理 ，	1	_	_	_	115	joint-disjunction_m	_	_
+118	上级 政府 或 有关 部门 可 予以 指导 、 支持 和 帮助 ，	0	_	_	_	117	joint-list_m	_	_
+119	初步 形成 了 条块 结合 的 管理 结构 和 响应 体制 。	3	_	_	_	112	evaluation-comment_r	_	_
+120	总的来说 ， 我国 目前 已 初步 建立 了 新型 的 、 法治 基础 上 的 平战 结合	3	_	_	_	105	joint-list_m	_	_
+121	( 日常 与 紧急 时期 ) 、	0	_	_	_	120	restatement-partial_r	_	_
+122	常态 管理 与 非 常态 管理 相 结合 的	0	_	_	_	123	elaboration-attribute_r	_	_
+123	新型 公共 卫生 应急 管理 体制 ，	1	_	_	_	120	same-unit_m	_	_
+124	其 显著 特点 是 制度化 和 应急 管理 常态化 、 专业化	2	_	_	_	120	elaboration-additional_r	_	_
+125	-LSB- 3 -RSB- 。	3	_	_	_	120	explanation-evidence_r	_	_
+126	2.2.3. 应急 机制	3	_	_	_	131	organization-heading_r	_	_
+127	突发 疫情 状态 下 的 应急 机制 是 整个 应急 管理 体系 中 的 基础 部分 ，	2	_	_	_	131	context-background_r	_	_
+128	涉及 突发 疫情 状态 前后 政府 治理 的 各个 环节 ，	0	_	_	_	127	joint-list_m	_	_
+129	包括 监测 预警 、 信息 公开 、 社会 动员 、 协调 联动 、 舆论 引导 以及 重建 等 方面 。	0	_	_	_	128	elaboration-additional_r	_	_
+130	《 国家 公共 卫生 总预案 》 中 提出 ，	1	_	_	_	131	attribution-positive_r	_	_
+131	建立	3	_	_	_	105	joint-list_m	_	_
+132	功能 完善 、	0	_	_	_	135	elaboration-attribute_r	_	_
+133	反应 迅速 、	0	_	_	_	132	joint-list_m	_	_
+134	运转 协调 的	0	_	_	_	132	joint-list_m	_	_
+135	突发 公共 卫生 应急 体制 ， 为 国家 在 突发 疫情 下 应急 体制 建设 建立 了 总 的 指导 原则 。	0	_	_	_	131	same-unit_m	_	_
+136	2.2.4. 应急 法制	5	_	_	_	140	organization-heading_r	_	_
+137	在 突发 疫情 状态 下 ， 法律 体系 的 建设 为 政府 治理 提供 了 根本 保障 ，	3	_	_	_	140	context-background_r	_	_
+138	对于 政府 治理 具有 根本 意义 。	0	_	_	_	137	joint-list_m	_	_
+139	在 2003年 非典 疫情 过后 ，	1	_	_	_	140	context-circumstance_r	_	_
+140	国家 加紧 完善	3	_	_	_	105	joint-list_m	_	_
+141	关于 包括 突发 疫情 在内 的	0	_	_	_	142	elaboration-attribute_r	_	_
+142	公共 卫生 法律 体系 ，	0	_	_	_	140	same-unit_m	_	_
+143	先后 出台 了 《 突发 公共 卫生 事件 应急 条例 》 、 《 突发 公共 卫生 应急 总预案 》 、 《 重大 动物 疫情 应急 条例 》 、 《 中华 人民 共和国 传染病 防治法 》 、 《 中华 人民 共和国 动物 防疫法 》 等 一 系列 相关 法规 和 条例 ，	2	_	_	_	140	elaboration-additional_r	_	_
+144	标志 着	2	_	_	_	145	attribution-positive_r	_	_
+145	我国	4	_	_	_	140	evaluation-comment_r	_	_
+146	包括 突发 疫情 在内 的	0	_	_	_	147	elaboration-attribute_r	_	_
+147	政府 应急 治理 进入 了 法制化 轨道 法制化 ，	0	_	_	_	145	same-unit_m	_	_
+148	进一步 完善 了 政府 应急 治理 机制 与 体制 。	1	_	_	_	145	joint-list_m	_	_

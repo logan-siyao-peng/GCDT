@@ -1,0 +1,223 @@
+1	埃瓦里斯特·伽罗瓦	5	_	_	_	9	organization-heading_r	_	_
+2	埃瓦里斯特·伽罗瓦	3	_	_	_	9	context-background_r	_	_
+3	（ 法语 ：	0	_	_	_	2	elaboration-attribute_r	_	_
+4	Évariste Galois ，	0	_	_	_	3	elaboration-attribute_r	_	_
+5	1811年 10月 25日 － 1832年 5月 31日 ，	1	_	_	_	3	same-unit_m	_	_
+6	法语 发音 ：	1	_	_	_	3	same-unit_m	_	_
+7	-LSB- evaʁist ɡalwa -RSB- ） ，	0	_	_	_	6	elaboration-attribute_r	_	_
+8	著名 法国 数学家 。	1	_	_	_	2	same-unit_m	_	_
+9	在	0	_	_	_	0	ROOT	_	_
+10	他 还 只有 十几 岁 的	0	_	_	_	11	elaboration-attribute_r	_	_
+11	时候 ， 他 就 发现 了	0	_	_	_	9	same-unit_m	_	_
+12	n次 多项式 可以 用 根式 解 的	0	_	_	_	13	elaboration-attribute_r	_	_
+13	充要 条件 ，	0	_	_	_	9	same-unit_m	_	_
+14	解决 了	1	_	_	_	9	joint-list_m	_	_
+15	长期 困扰 数学界 的	0	_	_	_	16	elaboration-attribute_r	_	_
+16	问题 。	0	_	_	_	14	same-unit_m	_	_
+17	他 的 工作 为 伽罗瓦 理论	2	_	_	_	9	joint-other_m	_	_
+18	（ 一 个 抽象 代数 的 主要 分支 ）	0	_	_	_	17	elaboration-attribute_r	_	_
+19	以及 伽罗瓦 连接 领域 的 研究 奠定 了 基石 。	1	_	_	_	17	same-unit_m	_	_
+20	他 是 第一 个	2	_	_	_	9	joint-other_m	_	_
+21	使用 “ 群 ” 这 一 个 数学 术语	0	_	_	_	23	elaboration-attribute_r	_	_
+22	来 表示 一 组 置换 的	0	_	_	_	21	purpose-goal_r	_	_
+23	人 ，	0	_	_	_	20	same-unit_m	_	_
+24	与 尼尔斯·阿贝尔 并称 为 现代 群论 的 创始人 。	1	_	_	_	20	joint-list_m	_	_
+25	在	1	_	_	_	28	context-circumstance_r	_	_
+26	路易·菲利普 复辟 的	0	_	_	_	27	elaboration-attribute_r	_	_
+27	时期 ，	0	_	_	_	25	same-unit_m	_	_
+28	他 是 一 个 激进 的 共和 主义者 ，	2	_	_	_	9	joint-other_m	_	_
+29	并 因此 被 逮捕 、	0	_	_	_	28	joint-list_m	_	_
+30	坐牢 。	0	_	_	_	29	joint-list_m	_	_
+31	二十 岁 出狱 后 ，	0	_	_	_	32	context-circumstance_r	_	_
+32	他 在 一 次 几近 自杀 的 决斗 中 逝世 ， 引起 种种 揣测 。	2	_	_	_	28	joint-sequence_m	_	_
+33	生平	5	_	_	_	44	organization-heading_r	_	_
+34	出身	3	_	_	_	44	organization-heading_r	_	_
+35	伽罗瓦 出生 在 法国 皇后镇 拉格兰德 大街 20号	2	_	_	_	44	context-background_r	_	_
+36	-LSB- 1 -RSB-	0	_	_	_	35	explanation-evidence_r	_	_
+37	的 一 个	1	_	_	_	35	same-unit_m	_	_
+38	支持 革命 的	0	_	_	_	41	elaboration-attribute_r	_	_
+39	-LSB- 1 -RSB-	0	_	_	_	38	explanation-evidence_r	_	_
+40	有 着 共和 主义 传统 的	1	_	_	_	38	joint-list_m	_	_
+41	知识 分子 家庭	1	_	_	_	35	same-unit_m	_	_
+42	-LSB- 2 -RSB-	1	_	_	_	41	explanation-evidence_r	_	_
+43	中 。	1	_	_	_	35	same-unit_m	_	_
+44	他 的 祖父 ， 是 那 个 城市 学校 的 校长 ，	4	_	_	_	9	explanation-evidence_r	_	_
+45	见证 了	1	_	_	_	47	attribution-positive_r	_	_
+46	1789年 11月 2号 教会 学校 世俗化 后	0	_	_	_	47	context-circumstance_r	_	_
+47	市民 大量 涌入 的 历史 。	0	_	_	_	44	joint-list_m	_	_
+48	他 的 父亲 ， 尼克拉－加布里埃尔·伽罗瓦	1	_	_	_	44	joint-list_m	_	_
+49	（ Nicolas-Gabriel Galois ， 1775 - 1829 ） ，	0	_	_	_	48	elaboration-attribute_r	_	_
+50	轮值 机构 负责人	1	_	_	_	48	same-unit_m	_	_
+51	-LSB- 1 -RSB- ，	2	_	_	_	48	explanation-evidence_r	_	_
+52	在 百日王朝 后 ， 成为 了 皇后镇 的 自由派 市长	3	_	_	_	48	joint-list_m	_	_
+53	-LSB- 2 -RSB-	0	_	_	_	52	explanation-evidence_r	_	_
+54	直 到	1	_	_	_	52	elaboration-additional_r	_	_
+55	因 自杀	0	_	_	_	56	causal-cause_r	_	_
+56	而 死 。	0	_	_	_	54	same-unit_m	_	_
+57	他 的 母亲 阿德莱德－玛丽·德芒特	1	_	_	_	44	joint-list_m	_	_
+58	（ Adélaïde-Marie Demante ， 1788 - 1872 ）	0	_	_	_	57	elaboration-attribute_r	_	_
+59	出身 律师 、 法官 之 家	1	_	_	_	57	same-unit_m	_	_
+60	-LSB- 3 -RSB- ，	2	_	_	_	57	explanation-evidence_r	_	_
+61	能够 流利 地 阅读 拉丁文 以及 古典 文学 ；	3	_	_	_	57	joint-list_m	_	_
+62	他 的 姨母 是 安托万－玛丽·德芒特 ，	1	_	_	_	44	joint-list_m	_	_
+63	更 多 体现 为 斯多亚 学派 ，	0	_	_	_	62	joint-list_m	_	_
+64	而 不仅 是 基督 教徒	0	_	_	_	63	adversative-contrast_m	_	_
+65	-LSB- 2 -RSB- 。	1	_	_	_	62	explanation-evidence_r	_	_
+66	他 家 还 另外 有 两 个 孩子 ：	1	_	_	_	44	joint-list_m	_	_
+67	那塔利－提奥多 和 阿尔弗雷德 ，	0	_	_	_	66	elaboration-attribute_r	_	_
+68	分别 出生 于 1808年 和 1814年	1	_	_	_	66	elaboration-additional_r	_	_
+69	-LSB- 4 -RSB- 。	2	_	_	_	66	explanation-evidence_r	_	_
+70	他们 和 埃瓦里斯特 一样 ，	1	_	_	_	71	mode-manner_r	_	_
+71	在 12 岁 之前 都 由 他们 的 妈妈	3	_	_	_	66	elaboration-additional_r	_	_
+72	通过 一些 记忆 练习	0	_	_	_	73	mode-means_r	_	_
+73	教 他们	0	_	_	_	71	same-unit_m	_	_
+74	-LSB- 3 -RSB-	1	_	_	_	73	explanation-evidence_r	_	_
+75	一些 人文 学科	0	_	_	_	71	same-unit_m	_	_
+76	-LSB- 5 -RSB- 。	2	_	_	_	71	explanation-evidence_r	_	_
+77	早年 生活	4	_	_	_	84	organization-heading_r	_	_
+78	1823年 8月 ， 11 岁 的 伽罗瓦 进入 路易 皇家 中学	2	_	_	_	84	context-background_r	_	_
+79	就读 ，	0	_	_	_	78	joint-list_m	_	_
+80	虽然 在	1	_	_	_	84	adversative-concession_r	_	_
+81	学期 开始 的	0	_	_	_	82	elaboration-attribute_r	_	_
+82	时候 学校 有些 动荡	0	_	_	_	80	same-unit_m	_	_
+83	（ 有 一百多 名 学生 被 开除 ） ，	1	_	_	_	80	explanation-evidence_r	_	_
+84	伽罗瓦 却 在 前 两 年 保持 了 很 好 的 成绩 ，	4	_	_	_	44	joint-sequence_m	_	_
+85	拉丁语 还 得 了 一等 奖 。	0	_	_	_	84	explanation-evidence_r	_	_
+86	但 他 不久 就 对 学校 学习 厌烦 了 ，	3	_	_	_	87	context-background_r	_	_
+87	因为 他 14 岁 的 时候 开始 跟随 Vernier 老师	3	_	_	_	84	joint-sequence_m	_	_
+88	学习 数学 ，	0	_	_	_	87	joint-list_m	_	_
+89	并 疯狂 地 爱上 了 数学 ，	1	_	_	_	87	joint-list_m	_	_
+90	对于 其他 科目 再 也 提 不 起 任何 兴趣 了 。	2	_	_	_	87	elaboration-additional_r	_	_
+91	校方 描述	0	_	_	_	92	attribution-positive_r	_	_
+92	此时 的 伽罗瓦 是 “ 奇特 、 怪异 、 有 原创力 又 封闭 ” 。	4	_	_	_	87	evaluation-comment_r	_	_
+93	他 找到 了 一 本 阿德里安-马里·勒让德 的 几何 原理	5	_	_	_	87	explanation-evidence_r	_	_
+94	（ Éléments de Géométrie ） ，	0	_	_	_	93	restatement-partial_r	_	_
+95	像 小说 一样 地	0	_	_	_	96	mode-manner_r	_	_
+96	读完 了 它 ，	1	_	_	_	93	joint-list_m	_	_
+97	并且 在 第一 遍 阅读 就 学会 了 。	1	_	_	_	93	joint-list_m	_	_
+98	15 岁 的 时候 他 开始 读 约瑟夫·拉格朗日 的 原著 ， 比如 《 关于 方程 代数 解 的 思考 》	3	_	_	_	84	joint-sequence_m	_	_
+99	（ Réflexions sur la résolution algébrique des équations ，	0	_	_	_	98	elaboration-attribute_r	_	_
+100	有 可能 正 是 因此 ，	0	_	_	_	101	causal-cause_r	_	_
+101	他 后来 专注于 研究 方程 的 解 的 理论 ）	0	_	_	_	99	elaboration-additional_r	_	_
+102	和 《 函数 积分 教程 》	1	_	_	_	98	same-unit_m	_	_
+103	（ Leçons sur le calcul des fonctions ， 一 本 主要 是 面向 专业 数学 工作者 的 书 ） 。	0	_	_	_	102	elaboration-attribute_r	_	_
+104	这 之后 不久 ， 他 的 成绩 就 开始 平庸 了 ，	3	_	_	_	84	joint-sequence_m	_	_
+105	他 的 老师 指责	0	_	_	_	106	attribution-negative_r	_	_
+106	他 是 受到 了 理想 和 创造性 的 负面 影响	0	_	_	_	104	joint-list_m	_	_
+107	-LSB- 6 -RSB- 。	1	_	_	_	104	explanation-evidence_r	_	_
+108	结缘 数学	4	_	_	_	109	organization-heading_r	_	_
+109	1829年 3月 1日 伽罗瓦 的 第一 份 论文	4	_	_	_	44	joint-sequence_m	_	_
+110	-LSB- 7 -RSB-	0	_	_	_	109	explanation-evidence_r	_	_
+111	出版 了 ，	1	_	_	_	109	same-unit_m	_	_
+112	是 一 份 关于 连分数 的 论文 。	2	_	_	_	109	elaboration-additional_r	_	_
+113	几乎 同 个 时间 ， 他 开始 了 在 多项式 方程 方面 的 研究 。	5	_	_	_	115	context-background_r	_	_
+114	他 将 他 两 篇 多项式 方程 方面 的 研究 结果 呈交 给 了 法国 科学院 。	0	_	_	_	113	joint-list_m	_	_
+115	这 两 篇 论文 由 奥古斯丁·路易·柯西	3	_	_	_	109	joint-sequence_m	_	_
+116	（ Augustin Louis Cauchy ）	0	_	_	_	115	restatement-partial_r	_	_
+117	负责 审阅 ，	1	_	_	_	115	same-unit_m	_	_
+118	但 都 没有 准许 发表 ，	2	_	_	_	115	adversative-contrast_m	_	_
+119	其中 的 原因 至今 不明 。	3	_	_	_	115	evaluation-comment_r	_	_
+120	不过 也 有 说法 是	1	_	_	_	121	attribution-positive_r	_	_
+121	柯西 认识 到 了 这 两 篇 文章 的 重要性 ，	4	_	_	_	115	adversative-contrast_m	_	_
+122	只是 建议	0	_	_	_	123	attribution-positive_r	_	_
+123	把 它们 合并 起来	0	_	_	_	121	joint-list_m	_	_
+124	以期 参加 数学 学术 大奖 的 竞争 。	1	_	_	_	123	purpose-goal_r	_	_
+125	柯西 这 位 当时 的 一 位 极其 杰出 的 数学家 认为	0	_	_	_	126	attribution-positive_r	_	_
+126	他 的 论文 可能 获奖	0	_	_	_	121	joint-list_m	_	_
+127	-LSB- 8 -RSB- 。	1	_	_	_	126	explanation-evidence_r	_	_
+128	之后 伽罗瓦 自信 满满 地 投考 他 理想 中 的 大学 ，	3	_	_	_	109	joint-sequence_m	_	_
+129	法国 声誉 卓著 的	0	_	_	_	130	elaboration-attribute_r	_	_
+130	综合 工科 学校 ，	0	_	_	_	128	same-unit_m	_	_
+131	而 甚至 都 没有 复习 数学 。	1	_	_	_	128	mode-manner_r	_	_
+132	但是 他	2	_	_	_	128	adversative-contrast_m	_	_
+133	由于 口试 中 没有 解释 清楚 思路	0	_	_	_	134	causal-cause_r	_	_
+134	所以 未能 通过 。	0	_	_	_	132	same-unit_m	_	_
+135	当时 伽罗瓦 的 父亲	1	_	_	_	140	context-background_r	_	_
+136	在 一 场	0	_	_	_	139	context-circumstance_r	_	_
+137	同 当地 牧师 发生 的	0	_	_	_	138	elaboration-attribute_r	_	_
+138	痛苦 的 政治 纷争 中	0	_	_	_	136	same-unit_m	_	_
+139	自杀 身亡 。	0	_	_	_	135	same-unit_m	_	_
+140	几 天 后 ， 伽罗瓦 第二 次 尝试 报考 综合 工科 学校 ，	3	_	_	_	109	joint-sequence_m	_	_
+141	可是 又 一 次 失败 了 。	0	_	_	_	140	adversative-contrast_m	_	_
+142	这时 可以 说	0	_	_	_	143	attribution-positive_r	_	_
+143	伽罗瓦 毫无 疑问 超过 了 “ 合格 ” 的 标准 ；	2	_	_	_	140	elaboration-additional_r	_	_
+144	但是 不 知	0	_	_	_	145	attribution-negative_r	_	_
+145	为何 他 还是 遭遇 了 失败 。	1	_	_	_	143	adversative-contrast_m	_	_
+146	有 传说 说	1	_	_	_	147	attribution-positive_r	_	_
+147	他 对 考官 给 他 的 题目 毫无 兴趣 ，	2	_	_	_	143	explanation-evidence_r	_	_
+148	甚至 更 让 考官 恼怒 的 是 ， 他 将	0	_	_	_	147	joint-list_m	_	_
+149	擦 黑板 的	0	_	_	_	150	elaboration-attribute_r	_	_
+150	抹布 扔在 了 考官 的 脑袋 上	0	_	_	_	148	same-unit_m	_	_
+151	-LSB- 9 -RSB- -LSB- 10 -RSB- 。	2	_	_	_	147	explanation-evidence_r	_	_
+152	看似 合理 些 的	0	_	_	_	153	elaboration-attribute_r	_	_
+153	解释 说	1	_	_	_	154	attribution-positive_r	_	_
+154	伽罗瓦 在 逻辑 推理 中 跳 了 太 多 步骤 ， 使得 水准 不 高 的 考官 跟 不 上 他 的 思路 ，	3	_	_	_	147	joint-list_m	_	_
+155	导致 了 他 的 愤怒 。	0	_	_	_	154	joint-list_m	_	_
+156	不过 父亲 的 刚刚 去世 也许 也 是 影响 他 表现 的 原因 之一	2	_	_	_	154	adversative-concession_r	_	_
+157	-LSB- 6 -RSB- 。	3	_	_	_	154	explanation-evidence_r	_	_
+158	之后 ， 伽罗瓦 通过 考试	3	_	_	_	109	joint-sequence_m	_	_
+159	进入 法国 另 一 著名 大学 巴黎 高等 师范 学校 ，	0	_	_	_	158	joint-sequence_m	_	_
+160	现 成为 基础 数学 研究者 的 圣地 ，	0	_	_	_	159	elaboration-attribute_r	_	_
+161	并 在 1829年 12月 29日 获得 了 学位 。	0	_	_	_	158	joint-sequence_m	_	_
+162	他 的 数学 考官 曾 说	2	_	_	_	163	attribution-positive_r	_	_
+163	“ 这 个 孩子	1	_	_	_	158	elaboration-additional_r	_	_
+164	在 表达 他 的 想法 时	0	_	_	_	165	context-circumstance_r	_	_
+165	有些 困难 ，	0	_	_	_	163	same-unit_m	_	_
+166	但是 他 十分 聪明 ，	1	_	_	_	163	adversative-contrast_m	_	_
+167	并 体现 出 了 非凡 的 学术 精神 ” 。	0	_	_	_	166	joint-list_m	_	_
+168	学生 革命	4	_	_	_	175	organization-heading_r	_	_
+169	伽罗瓦 在 高等 师范 学校	2	_	_	_	175	context-background_r	_	_
+170	除了 继续 他 的 数学 研究 ，	0	_	_	_	171	context-background_r	_	_
+171	也 参加 了 政治 活动 。	0	_	_	_	169	same-unit_m	_	_
+172	1830年 法国 七月 革命 发生 ，	0	_	_	_	174	context-background_r	_	_
+173	保皇 势力 出亡 ，	0	_	_	_	172	joint-list_m	_	_
+174	高等 师范 学校 校长 将 学生 锁 在 高墙 内 ， 引起 伽罗瓦 强烈 不满 ，	0	_	_	_	175	causal-cause_r	_	_
+175	12月 伽罗瓦 在 校报 上 抨击 校长 的 作法 ，	4	_	_	_	44	joint-sequence_m	_	_
+176	由于 强烈 支持 共和 主义 ，	2	_	_	_	177	causal-cause_r	_	_
+177	从 1831年 5月 后 ， 伽罗瓦 两 度	1	_	_	_	175	joint-sequence_m	_	_
+178	因 政治 原因	0	_	_	_	179	causal-cause_r	_	_
+179	下狱 ，	0	_	_	_	177	same-unit_m	_	_
+180	也 曾 企图 自杀 。	1	_	_	_	177	joint-list_m	_	_
+181	关于 伽罗瓦 的 死亡 众说纷纭 ，	4	_	_	_	183	context-background_r	_	_
+182	有 一 个 说法 是	1	_	_	_	183	attribution-positive_r	_	_
+183	和 人 决斗 ，	3	_	_	_	175	joint-other_m	_	_
+184	时间 在 三 天 后 的 正午 。	0	_	_	_	183	context-circumstance_r	_	_
+185	自 知	0	_	_	_	186	attribution-positive_r	_	_
+186	必 死 的	0	_	_	_	187	elaboration-attribute_r	_	_
+187	伽罗瓦 在 决斗 前 三 夜 将 他 的 所有 数学 成果 狂笔 疾书	2	_	_	_	183	elaboration-additional_r	_	_
+188	纪录 下来 ，	1	_	_	_	187	joint-list_m	_	_
+189	并 时不时 在 一旁 写下	0	_	_	_	190	attribution-positive_r	_	_
+190	“ 我 没有 时间 ” ，	1	_	_	_	187	joint-list_m	_	_
+191	三 天 后 ， 他 在 决斗 中 腹部 中 了 3 个 子弹 ，	2	_	_	_	187	joint-sequence_m	_	_
+192	躺 了 几 天 后 身亡 ，	2	_	_	_	187	joint-sequence_m	_	_
+193	时间 是 1832年 5月 31日 。	0	_	_	_	192	context-circumstance_r	_	_
+194	这 个 传说 富 浪漫 主义 色彩 ，	3	_	_	_	183	evaluation-comment_r	_	_
+195	为 后世 史家 所 质疑	0	_	_	_	194	causal-result_r	_	_
+196	-LSB- 11 -RSB- 。	1	_	_	_	194	explanation-evidence_r	_	_
+197	他 的 朋友 Chevalier	4	_	_	_	210	context-background_r	_	_
+198	遵照 伽罗瓦 的 遗愿 ，	1	_	_	_	199	mode-means_r	_	_
+199	将 他 的 数学 论文 寄给 卡尔·弗里德里希·高斯 与 雅各比	0	_	_	_	197	same-unit_m	_	_
+200	( 又 翻译 作 ：	0	_	_	_	201	organization-preparation_r	_	_
+201	雅可比 ) ，	0	_	_	_	199	restatement-partial_r	_	_
+202	但 都 石沉大海 ，	1	_	_	_	197	adversative-contrast_m	_	_
+203	一直 到 1843年 ， 才 由 刘维尔 肯定 伽罗瓦 结果 之 正确 、 独创 与 深邃 ，	2	_	_	_	197	adversative-concession_r	_	_
+204	并 在 1846年 将 它 发表 。	0	_	_	_	203	joint-list_m	_	_
+205	伽罗瓦 使用 群论 的 想法	2	_	_	_	210	context-background_r	_	_
+206	去 讨论 方程式 的 可解性 ，	0	_	_	_	205	purpose-goal_r	_	_
+207	整套 想法 现称 为 伽罗瓦 理论 ，	1	_	_	_	205	joint-list_m	_	_
+208	是 当代 代数 与 数论 的 基本 支柱 之一 。	1	_	_	_	205	joint-list_m	_	_
+209	它 直接 推论 的	0	_	_	_	210	elaboration-attribute_r	_	_
+210	结果 十分 丰富 ：	3	_	_	_	175	joint-other_m	_	_
+211	他 系统化 地 阐释 了	1	_	_	_	212	attribution-positive_r	_	_
+212	为何 五次 以上 之 方程式 没有 根式解 ，	1	_	_	_	210	explanation-evidence_r	_	_
+213	而 四次 以下 有 根式解 。	0	_	_	_	212	adversative-contrast_m	_	_
+214	他 漂亮 地 证明 高斯 的 论断 ：	2	_	_	_	215	attribution-positive_r	_	_
+215	对 所有 质数 p ， 用 尺规 作图 能 作出 正 p 边形	2	_	_	_	212	joint-list_m	_	_
+216	当 且 仅 当 p=2^{2^{k}}+1	0	_	_	_	215	contingency-condition_r	_	_
+217	（ 所以 正 十七 边形 可 做图 ） 。	1	_	_	_	215	causal-result_r	_	_
+218	他 解决 了 古代 三 大 作图 问题 中 的 两 个 ：	2	_	_	_	212	joint-list_m	_	_
+219	“ 不 能 任意 三等分 角 ” ，	0	_	_	_	218	elaboration-additional_r	_	_
+220	“ 倍立方 不 可能 ” 。	0	_	_	_	219	joint-list_m	_	_
+221	另外 ， 怀尔斯 在	3	_	_	_	210	joint-other_m	_	_
+222	复证 费马 大 定理 的	0	_	_	_	223	elaboration-attribute_r	_	_
+223	时候 ， 亦 使用 到 伽罗瓦 理论 。	0	_	_	_	221	same-unit_m	_	_

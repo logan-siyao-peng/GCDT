@@ -1,0 +1,155 @@
+1	如何 以 自然 方法 驱逐 老鼠	4	_	_	_	17	organization-heading_r	_	_
+2	家里 有 老鼠 ， 既 烦人	1	_	_	_	11	context-background_r	_	_
+3	又 有害 健康 。	0	_	_	_	2	joint-list_m	_	_
+4	老鼠 不仅 会 造成 财产 损失 ，	1	_	_	_	2	elaboration-additional_r	_	_
+5	还 会 搞得 家里 一团糟 ，	0	_	_	_	4	joint-list_m	_	_
+6	甚至 留下 一 股 难闻 的 气味 。	0	_	_	_	4	joint-list_m	_	_
+7	但是 ， 如果 不 知道 怎幺 正确 地 驱逐 老鼠 ，	0	_	_	_	8	contingency-condition_r	_	_
+8	干 起来 确实 是 件 头疼 的 事 。	2	_	_	_	2	adversative-contrast_m	_	_
+9	像是 买 老鼠药 的	0	_	_	_	10	elaboration-attribute_r	_	_
+10	办法 又 存在 误伤 的 危险 。	1	_	_	_	8	explanation-evidence_r	_	_
+11	好 的 是 ， 我们 总结 出 了	3	_	_	_	17	organization-preparation_r	_	_
+12	不 用 老鼠药	0	_	_	_	13	adversative-concession_r	_	_
+13	就 能 简单 有效 地 驱逐 老鼠 的	0	_	_	_	14	elaboration-attribute_r	_	_
+14	方法 。	0	_	_	_	11	same-unit_m	_	_
+15	方法 1	0	_	_	_	16	organization-preparation_r	_	_
+16	自然 地 驱逐 老鼠	2	_	_	_	17	organization-heading_r	_	_
+17	1 保持 室内 整洁 。	0	_	_	_	0	ROOT	_	_
+18	老鼠 跑到 屋子 里 来 一般 都 是 受到 食物 的 诱惑 。	1	_	_	_	21	explanation-motivation_r	_	_
+19	如果 家里 什么 吃 的 都 没有 ，	0	_	_	_	20	contingency-condition_r	_	_
+20	老鼠 自然 也 就 不 怎么 呆 的 下去 了 。	0	_	_	_	18	adversative-antithesis_r	_	_
+21	把 食物 全 都 放在 密封 的 容器 里 ， 或者是	0	_	_	_	17	elaboration-additional_r	_	_
+22	老鼠 够 不 到 的	0	_	_	_	23	elaboration-attribute_r	_	_
+23	地方 。	0	_	_	_	21	same-unit_m	_	_
+24	-LSB- 1 -RSB-	2	_	_	_	21	explanation-evidence_r	_	_
+25	2 薄荷油 是 天然 的 驱逐剂 ，	1	_	_	_	17	joint-list_m	_	_
+26	对 啮齿类 动物 来说	0	_	_	_	27	organization-preparation_r	_	_
+27	太 刺激 ，	0	_	_	_	25	explanation-justify_r	_	_
+28	它们 都 避而远之 ，	1	_	_	_	27	causal-result_r	_	_
+29	并且 它 能 盖住	2	_	_	_	27	joint-list_m	_	_
+30	清洁 时	0	_	_	_	31	context-circumstance_r	_	_
+31	遗漏 的	0	_	_	_	32	elaboration-attribute_r	_	_
+32	食物 残渣 的 味道 ，	0	_	_	_	29	same-unit_m	_	_
+33	确实 是	3	_	_	_	27	evaluation-comment_r	_	_
+34	驱逐 老鼠 的	0	_	_	_	35	elaboration-attribute_r	_	_
+35	好 东西 。	0	_	_	_	33	same-unit_m	_	_
+36	大 部分 的 保健 食品 商店 和 大型 的 食品 杂货店 都 能 找到 薄荷油 。	4	_	_	_	27	elaboration-additional_r	_	_
+37	-LSB- 2 -RSB-	0	_	_	_	36	explanation-evidence_r	_	_
+38	在 棉球 上 滴 一 两 滴 薄荷油 。	1	_	_	_	25	explanation-evidence_r	_	_
+39	把 棉球 放在 垃圾桶 下面 ，	0	_	_	_	38	joint-list_m	_	_
+40	防止 老鼠 爬 进去 。	0	_	_	_	39	purpose-goal_r	_	_
+41	把 棉球 放在 老鼠 可能 的 入口处 ，	0	_	_	_	38	joint-list_m	_	_
+42	像是 门口 或者是 通风口 等等 。	0	_	_	_	41	joint-list_m	_	_
+43	棉球 每 5 - 7 天 就 得 换 一 次 ，	0	_	_	_	38	joint-list_m	_	_
+44	具体	0	_	_	_	43	mode-manner_r	_	_
+45	依据 薄荷油 的 质量	0	_	_	_	46	mode-manner_r	_	_
+46	而 定 。	0	_	_	_	44	same-unit_m	_	_
+47	在 入口处 放 几 盆 薄荷 盆栽 。	0	_	_	_	38	joint-list_m	_	_
+48	薄荷 既 能 用来 做菜 ，	0	_	_	_	47	causal-cause_r	_	_
+49	还 能 起到 驱逐剂 的 作用 。	0	_	_	_	48	joint-list_m	_	_
+50	3 收集 一些 干 的 蛇粪 ，	1	_	_	_	17	joint-list_m	_	_
+51	放在 入口处 和 其他	0	_	_	_	50	joint-sequence_m	_	_
+52	老鼠 活动 的	0	_	_	_	53	elaboration-attribute_r	_	_
+53	地方 ，	0	_	_	_	51	same-unit_m	_	_
+54	能 震慑 它们 。	1	_	_	_	50	purpose-goal_r	_	_
+55	当地 的 爬行 动物 中心 、 宠物店 或者是 动物园 都 能 找到 蛇粪 。	2	_	_	_	50	elaboration-additional_r	_	_
+56	-LSB- 3 -RSB-	0	_	_	_	55	explanation-evidence_r	_	_
+57	一定 要 把 蛇粪 放在	1	_	_	_	55	joint-other_m	_	_
+58	孩子 和 宠物 够 不 着 的	0	_	_	_	59	elaboration-attribute_r	_	_
+59	地方 。	0	_	_	_	57	same-unit_m	_	_
+60	4 用 超声波 灭鼠 。	1	_	_	_	17	joint-list_m	_	_
+61	市面 上 有 很多 超声波 发声器 ， 可以 发出	0	_	_	_	60	elaboration-additional_r	_	_
+62	老鼠 讨厌 的	0	_	_	_	63	elaboration-attribute_r	_	_
+63	蜂鸣声 ，	0	_	_	_	61	same-unit_m	_	_
+64	在 当地 的 家居店 或者 网上 都 能 买到 。	1	_	_	_	61	elaboration-additional_r	_	_
+65	这些 超声波 灭鼠器 的 作用 范围 都 在 一 条 直线 上 ，	0	_	_	_	66	causal-cause_r	_	_
+66	所以 使用 前 需要 弄 清楚 老鼠 活动 具体 的 路线 。	2	_	_	_	61	joint-list_m	_	_
+67	这 种 超声波 可能 只 在 短 时间 内 起效 ，	2	_	_	_	61	joint-list_m	_	_
+68	因为 老鼠 可能 很 快 就 能 适应 它 。	0	_	_	_	67	causal-cause_r	_	_
+69	-LSB- 4 -RSB-	3	_	_	_	61	explanation-evidence_r	_	_
+70	5 买 有机 驱鼠剂 。	1	_	_	_	17	joint-list_m	_	_
+71	许多	0	_	_	_	70	elaboration-additional_r	_	_
+72	专注于 有机 园艺 和 居家 产品 的	0	_	_	_	73	elaboration-attribute_r	_	_
+73	公司 会 生产 有机 驱鼠剂 ，	0	_	_	_	71	same-unit_m	_	_
+74	大多 是 用 薄荷 等	1	_	_	_	71	elaboration-additional_r	_	_
+75	老鼠 讨厌 的	0	_	_	_	76	elaboration-attribute_r	_	_
+76	纯 天然 成分 制成 的 ，	0	_	_	_	74	same-unit_m	_	_
+77	而 这 种 有机 驱鼠剂	2	_	_	_	71	joint-other_m	_	_
+78	和 传统 的 老鼠药 相比	0	_	_	_	79	context-circumstance_r	_	_
+79	更 有利于 保护 环境 。	0	_	_	_	77	same-unit_m	_	_
+80	有机 驱鼠剂 虽然 不 会 杀死 老鼠 ，	1	_	_	_	81	adversative-concession_r	_	_
+81	但	1	_	_	_	77	explanation-justify_r	_	_
+82	放 了 药 的	0	_	_	_	83	elaboration-attribute_r	_	_
+83	地方 也 定 是 看 不 到 老鼠 的 踪迹 了 。	0	_	_	_	81	same-unit_m	_	_
+84	有机 驱鼠剂 在 当地 的 园艺 或者 家具店 里 应该 就 能 买到 。	2	_	_	_	71	joint-other_m	_	_
+85	如果 你 有	2	_	_	_	89	contingency-condition_r	_	_
+86	想 买 的	0	_	_	_	87	elaboration-attribute_r	_	_
+87	特定 的 驱鼠剂 ，	0	_	_	_	85	same-unit_m	_	_
+88	上网	0	_	_	_	89	mode-manner_r	_	_
+89	搜 一 搜 ，	0	_	_	_	84	joint-disjunction_m	_	_
+90	看	0	_	_	_	91	attribution-positive_r	_	_
+91	具体 哪里 可以 买到 。	1	_	_	_	89	purpose-goal_r	_	_
+92	6 养 只 猫 ，	1	_	_	_	17	joint-list_m	_	_
+93	家猫 可以 解决 这 个 问题 ，	0	_	_	_	92	causal-cause_r	_	_
+94	特别是 有 专门 的 室外猫 / 室内猫 。	0	_	_	_	93	explanation-evidence_r	_	_
+95	长期 在 室外 活动 的	0	_	_	_	96	elaboration-attribute_r	_	_
+96	猫 更 可能 自己 觅食 ，	1	_	_	_	93	explanation-evidence_r	_	_
+97	追踪 老鼠 。	1	_	_	_	96	joint-list_m	_	_
+98	但是 要 明白 ， 并不 是 所有 的 猫 都 有 足够 的 精力 和 兴趣 抓 老鼠 。	1	_	_	_	92	adversative-contrast_m	_	_
+99	像 室内 的	0	_	_	_	98	explanation-evidence_r	_	_
+100	喂食 充足 的	0	_	_	_	101	elaboration-attribute_r	_	_
+101	宠物 小 猫咪 可能 就 把 老鼠 当 玩具 而已 ，	0	_	_	_	99	same-unit_m	_	_
+102	可能	1	_	_	_	99	joint-sequence_m	_	_
+103	玩 累 了	0	_	_	_	104	contingency-condition_r	_	_
+104	就 失去 对 老鼠 的 兴趣 了 。	0	_	_	_	102	same-unit_m	_	_
+105	对于 一 只 猫 是否 是 捕鼠 能手 ，	1	_	_	_	106	organization-preparation_r	_	_
+106	动物 收养所 一般 不 会 知道 的 ，	2	_	_	_	92	elaboration-additional_r	_	_
+107	一般 也 不 会 去 测试 。	0	_	_	_	106	joint-list_m	_	_
+108	有的 地方 会 提供 这 类 信息 ，	2	_	_	_	106	elaboration-additional_r	_	_
+109	但 有的 没有 。	0	_	_	_	108	adversative-contrast_m	_	_
+110	就算 有的 捕鼠 能手 可能 适合 做 宠物 ，	3	_	_	_	106	joint-other_m	_	_
+111	但 也 不 是 所有 猫 都 这样 。	0	_	_	_	110	adversative-contrast_m	_	_
+112	有的 野猫 很 会 捕鼠 ，	1	_	_	_	110	joint-list_m	_	_
+113	但 和 人类 却 相处 不 来 。	0	_	_	_	112	adversative-contrast_m	_	_
+114	就算 你 没有 猫 ，	1	_	_	_	115	adversative-concession_r	_	_
+115	也 可以	3	_	_	_	106	joint-other_m	_	_
+116	用 用过 的 猫砂	0	_	_	_	117	mode-means_r	_	_
+117	来 抵御 老鼠 。	0	_	_	_	115	same-unit_m	_	_
+118	用 盆子 装些 用过 的 猫砂	1	_	_	_	121	causal-cause_r	_	_
+119	放在 门口 ，	0	_	_	_	118	joint-sequence_m	_	_
+120	老鼠 一旦 问到 猫尿液 的 味道 ，	0	_	_	_	121	contingency-condition_r	_	_
+121	自己 就 马上 逃走 了 。	2	_	_	_	115	explanation-justify_r	_	_
+122	如果 家里 老鼠 太 多 ，	0	_	_	_	123	contingency-condition_r	_	_
+123	一 只 猫 可能 不 能 把 它们 赶尽 杀绝 。	3	_	_	_	106	joint-other_m	_	_
+124	但 如果 你 已经 灭掉 了 家里 所有 的 老鼠 ，	0	_	_	_	125	contingency-condition_r	_	_
+125	养 一 只 猫 倒是 完全 可以 防止 老鼠 在家 做窝 。	1	_	_	_	123	adversative-contrast_m	_	_
+126	-LSB- 5 -RSB-	2	_	_	_	123	explanation-evidence_r	_	_
+127	7 把 垃圾袋 扔 得 远 一些 。	1	_	_	_	17	joint-list_m	_	_
+128	老鼠	2	_	_	_	134	causal-cause_r	_	_
+129	一般 都 是 闻到 垃圾 的 味道	0	_	_	_	130	causal-cause_r	_	_
+130	才 跑到 家里 来 的 。	0	_	_	_	128	same-unit_m	_	_
+131	如果 你 把 垃圾袋 扔到	1	_	_	_	134	contingency-condition_r	_	_
+132	离 你 家 足够 远 的	0	_	_	_	133	elaboration-attribute_r	_	_
+133	地方 ，	0	_	_	_	131	same-unit_m	_	_
+134	那么	0	_	_	_	127	elaboration-additional_r	_	_
+135	老鼠 在 你 家 落脚 的	0	_	_	_	136	elaboration-attribute_r	_	_
+136	可能性 自然 也 就 小 了 。	0	_	_	_	134	same-unit_m	_	_
+137	8 在 花园 里 建 一 个 鸟屋 ，	1	_	_	_	17	joint-list_m	_	_
+138	提高	0	_	_	_	137	purpose-goal_r	_	_
+139	飞禽 居住 的	0	_	_	_	140	elaboration-attribute_r	_	_
+140	可能性 ，	0	_	_	_	138	same-unit_m	_	_
+141	吸引 它们 在 院里 定居 。	1	_	_	_	138	joint-list_m	_	_
+142	这 可能 需要 花 点 时间 ，	1	_	_	_	146	adversative-concession_r	_	_
+143	但是 如果 真 能 引来	0	_	_	_	146	contingency-condition_r	_	_
+144	吃 老鼠 的	0	_	_	_	145	elaboration-attribute_r	_	_
+145	鸟类 ，	0	_	_	_	143	same-unit_m	_	_
+146	那 这 点 等待 也 是 值得 的 。	1	_	_	_	137	evaluation-comment_r	_	_
+147	-LSB- 6 -RSB-	2	_	_	_	146	explanation-evidence_r	_	_
+148	检查 看 鸟屋 里 有 没有 钉子 或者	2	_	_	_	137	elaboration-additional_r	_	_
+149	其他 可能 伤害 到 它们 的	0	_	_	_	150	elaboration-attribute_r	_	_
+150	东西 。	0	_	_	_	148	same-unit_m	_	_
+151	仓鸮	0	_	_	_	154	context-background_r	_	_
+152	（ 猫头鹰 的 一 种 ）	0	_	_	_	151	elaboration-attribute_r	_	_
+153	是 最 适合 的 飞禽 。	1	_	_	_	151	same-unit_m	_	_
+154	一窝 仓鸮 一 个 晚上 就 能 吃掉 许多 的 老鼠 。	1	_	_	_	148	joint-list_m	_	_
+155	但是 你 的 鸟屋 很 可能 吸引 来 其他 种类 的 猫头鹰 或者是 鸟类 。	1	_	_	_	154	adversative-concession_r	_	_

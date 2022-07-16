@@ -1,0 +1,243 @@
+1	道家 生态 美学 思想 及 其 当代 价值	5	_	_	_	238	organization-heading_r	_	_
+2	2. 自然 生态美 思想	4	_	_	_	238	organization-heading_r	_	_
+3	道家 的 最高 本体 是 道 ，	0	_	_	_	5	context-background_r	_	_
+4	而 道 又 具有 规律 的 意思 。	0	_	_	_	3	joint-list_m	_	_
+5	作为 规律 的 道 主要 是 指 ， 本体 之 道 或 万事 万物 ， 自然而然 的 属性 或 状态 。	4	_	_	_	9	context-background_r	_	_
+6	在 道家 看来 ，	3	_	_	_	9	organization-preparation_r	_	_
+7	不管 从 纵 的 时间 的 维度 来看 ，	2	_	_	_	9	organization-preparation_r	_	_
+8	还是 从 横 的 空间 的 维度 来看 ，	0	_	_	_	7	joint-disjunction_m	_	_
+9	本体 之 道 都 是 无 ，	3	_	_	_	238	explanation-evidence_r	_	_
+10	是 非 存在 ，	0	_	_	_	9	joint-list_m	_	_
+11	“ 道 以 无有 为 体 ”	1	_	_	_	9	explanation-evidence_r	_	_
+12	( 《 文子·上德 》 ) 。	0	_	_	_	11	explanation-evidence_r	_	_
+13	而 这 个 无 、 这 个 非 存在 的 本体 之 道 却 又 是 确确实实 地 存在 着 。	5	_	_	_	9	adversative-contrast_m	_	_
+14	它 先于 鬼神 、	0	_	_	_	13	elaboration-additional_r	_	_
+15	先于 上帝 ，	0	_	_	_	14	joint-list_m	_	_
+16	是 天地 之 根 、 万物 之 祖 。	0	_	_	_	14	joint-list_m	_	_
+17	万事 万物 都 是 由 道 生化 出来 的 。	6	_	_	_	9	elaboration-additional_r	_	_
+18	“ 夫 道	3	_	_	_	19	attribution-positive_r	_	_
+19	有 情	0	_	_	_	17	elaboration-additional_r	_	_
+20	有 信 ，	0	_	_	_	19	joint-list_m	_	_
+21	无 为	1	_	_	_	19	joint-list_m	_	_
+22	无 形 ；	0	_	_	_	21	joint-list_m	_	_
+23	可 传	1	_	_	_	19	joint-list_m	_	_
+24	而 不 可 受 ，	0	_	_	_	23	adversative-contrast_m	_	_
+25	可 得	1	_	_	_	19	joint-list_m	_	_
+26	而 不 可 见 ；	0	_	_	_	25	adversative-contrast_m	_	_
+27	自本	1	_	_	_	19	joint-list_m	_	_
+28	自根 ，	0	_	_	_	27	joint-list_m	_	_
+29	未 有 天地 ，	1	_	_	_	27	adversative-contrast_m	_	_
+30	自 古	0	_	_	_	31	context-circumstance_r	_	_
+31	以 固存 ；	1	_	_	_	19	joint-list_m	_	_
+32	神鬼 神帝 ，	1	_	_	_	19	joint-list_m	_	_
+33	生 天	0	_	_	_	32	joint-list_m	_	_
+34	生 地 ；	0	_	_	_	33	joint-list_m	_	_
+35	在 太极 之先	0	_	_	_	36	adversative-concession_r	_	_
+36	而 不 为 高 ，	1	_	_	_	19	joint-list_m	_	_
+37	在 六极 之下	0	_	_	_	38	adversative-concession_r	_	_
+38	而 不 为 深 ，	1	_	_	_	19	joint-list_m	_	_
+39	先 天地 生	0	_	_	_	40	adversative-concession_r	_	_
+40	而 不 为 久 ，	1	_	_	_	19	joint-list_m	_	_
+41	长于 上古	0	_	_	_	42	adversative-concession_r	_	_
+42	而 不 为 老 。 ”	1	_	_	_	19	joint-list_m	_	_
+43	( 《 庄子·大宗师 》 )	2	_	_	_	19	explanation-evidence_r	_	_
+44	道 化生 出 万物 ，	1	_	_	_	17	joint-list_m	_	_
+45	不管是 从 纵 的 时间 的 维度 来看 、	0	_	_	_	47	organization-preparation_r	_	_
+46	还是 从 横 的 空间 的 维度 来看 ，	0	_	_	_	45	joint-disjunction_m	_	_
+47	都 使 万物 形成 一 个 有机 联系 的 和谐 整体 。	0	_	_	_	44	same-unit_m	_	_
+48	“ 道 生 一 ，	7	_	_	_	9	joint-other_m	_	_
+49	一 生 二 ，	0	_	_	_	48	joint-sequence_m	_	_
+50	二 生 三 ，	0	_	_	_	48	joint-sequence_m	_	_
+51	三 生 万物 。	0	_	_	_	48	joint-sequence_m	_	_
+52	万物 负阴	0	_	_	_	53	contingency-condition_r	_	_
+53	而 抱阳 ，	1	_	_	_	48	joint-list_m	_	_
+54	冲气	0	_	_	_	55	mode-means_r	_	_
+55	以 为 和 。 ”	1	_	_	_	53	joint-list_m	_	_
+56	( 《 道德经 》 第42 章 )	2	_	_	_	48	explanation-evidence_r	_	_
+57	是 道家	3	_	_	_	48	evaluation-comment_r	_	_
+58	道 生 万物 的	0	_	_	_	59	elaboration-attribute_r	_	_
+59	典型 模式 。	0	_	_	_	57	same-unit_m	_	_
+60	其中 的 “ 一 ” ， 即是 道 ，	4	_	_	_	48	elaboration-additional_r	_	_
+61	是 原始 的 精气 ；	0	_	_	_	60	elaboration-additional_r	_	_
+62	“ 二 ” 是	1	_	_	_	60	joint-list_m	_	_
+63	由 原始 的 精气 分化 出来 的	0	_	_	_	64	elaboration-attribute_r	_	_
+64	阴阳 二 气 ；	0	_	_	_	62	same-unit_m	_	_
+65	“ 和 ” 是	1	_	_	_	60	joint-list_m	_	_
+66	由 阴阳 二 气 合 在 一块	0	_	_	_	67	mode-means_r	_	_
+67	而 形成 的	0	_	_	_	68	elaboration-attribute_r	_	_
+68	和气 。	0	_	_	_	65	same-unit_m	_	_
+69	因此 ，	5	_	_	_	48	causal-result_r	_	_
+70	由 道 生出 的	0	_	_	_	71	elaboration-attribute_r	_	_
+71	每 一 个 事物 都 包含 着 道 ，	0	_	_	_	69	same-unit_m	_	_
+72	包含 着 精气 、	1	_	_	_	69	joint-list_m	_	_
+73	包含 着 阴阳 二 气 ，	1	_	_	_	69	joint-list_m	_	_
+74	包含 着 和气 ，	1	_	_	_	69	joint-list_m	_	_
+75	每 个 事物 自身 都 是 和谐 的 ，	2	_	_	_	69	joint-list_m	_	_
+76	每 个 事物 和 其他 事物 都 是 平等 的 ，	2	_	_	_	69	joint-list_m	_	_
+77	每 个 事物 之间 都 有 交感 的 关系 。	2	_	_	_	69	joint-list_m	_	_
+78	具体 地 说 ， 这 种	3	_	_	_	81	organization-preparation_r	_	_
+79	道 生 万物 的	0	_	_	_	80	elaboration-attribute_r	_	_
+80	生成 模式 有 以下 几 种 表现 形式 ：	0	_	_	_	78	same-unit_m	_	_
+81	第一 ， 由 精气 直接 生出 万事 万物 。	6	_	_	_	48	elaboration-additional_r	_	_
+82	“ 精微者 天地 之 始 也 。 ”	0	_	_	_	81	restatement-repetition_m	_	_
+83	( 《 鹖冠子·泰录 》 )	0	_	_	_	82	explanation-evidence_r	_	_
+84	这 种 原始 的 精气 本身 是 和谐 的 ，	1	_	_	_	85	causal-cause_r	_	_
+85	所以 ，	1	_	_	_	81	elaboration-additional_r	_	_
+86	它 生出 的	0	_	_	_	87	elaboration-attribute_r	_	_
+87	万物 也 是 和谐 的 。	0	_	_	_	85	same-unit_m	_	_
+88	第二 ，	2	_	_	_	81	joint-list_m	_	_
+89	由 阴阳 二 气 合和	0	_	_	_	90	mode-means_r	_	_
+90	而 生出 万事 万物 。	0	_	_	_	88	same-unit_m	_	_
+91	“ 天地 之 气 ， 莫 大于 和 。	1	_	_	_	88	explanation-evidence_r	_	_
+92	和 者 ， 阴阳 调 ，	3	_	_	_	95	causal-cause_r	_	_
+93	日夜 分 ，	0	_	_	_	92	joint-list_m	_	_
+94	故 万物 春分	0	_	_	_	95	context-circumstance_r	_	_
+95	而 生 ，	0	_	_	_	91	explanation-justify_r	_	_
+96	秋分	0	_	_	_	97	context-circumstance_r	_	_
+97	而 成 ，	1	_	_	_	95	joint-list_m	_	_
+98	生 与 成 ， 必 得 和 之 精 。 ”	2	_	_	_	95	evaluation-comment_r	_	_
+99	( 《 文子·上仁 》 )	1	_	_	_	91	explanation-evidence_r	_	_
+100	阴阳 二 气 相互 配合 ，	0	_	_	_	102	contingency-condition_r	_	_
+101	达 至 和谐 ，	0	_	_	_	100	joint-list_m	_	_
+102	才 能 生出 万物 ，	2	_	_	_	88	restatement-partial_r	_	_
+103	因此 ， 万物 是 和谐 的 。	1	_	_	_	102	causal-result_r	_	_
+104	第三 ， 由 阴阳 二 气 的 表现 天地 生出 万物 。	2	_	_	_	81	joint-list_m	_	_
+105	“ 天地 感	0	_	_	_	106	causal-cause_r	_	_
+106	而 万物 化生 。 ”	0	_	_	_	104	explanation-evidence_r	_	_
+107	( 《 周易·咸 》 )	1	_	_	_	106	explanation-evidence_r	_	_
+108	天地 也 只有 相互 配合 、	1	_	_	_	110	contingency-condition_r	_	_
+109	相互 交感 ，	0	_	_	_	108	adversative-contrast_m	_	_
+110	达 至 和谐 ，	1	_	_	_	104	explanation-justify_r	_	_
+111	才 能 生出 万物 ，	0	_	_	_	110	joint-list_m	_	_
+112	因此 ， 万物 是 和谐 的 。	2	_	_	_	110	causal-result_r	_	_
+113	第四 ， 由 天地 的 一些 要素 或 力量 而 生出 万物 。	2	_	_	_	81	joint-list_m	_	_
+114	“ 故 水 火 相 逮 ，	0	_	_	_	113	elaboration-additional_r	_	_
+115	雷 风 不 相 悖 ，	0	_	_	_	114	joint-list_m	_	_
+116	山 泽 通气 ，	0	_	_	_	114	joint-list_m	_	_
+117	然后 能 变化 ，	0	_	_	_	114	joint-list_m	_	_
+118	既 成 万物 也 。 ”	1	_	_	_	114	causal-result_r	_	_
+119	( 《 周易·说卦 》 )	2	_	_	_	114	explanation-evidence_r	_	_
+120	天地 间 的 各 种 要素 很 好 地 协调	0	_	_	_	121	contingency-condition_r	_	_
+121	才 能 使 万物 成长 。	3	_	_	_	114	restatement-partial_r	_	_
+122	总之 ， 由 道 、 精气 、 阴阳 等 的 和谐性 ， 而 致使	4	_	_	_	81	evaluation-comment_r	_	_
+123	它们 生出 的	0	_	_	_	124	elaboration-attribute_r	_	_
+124	万物 也 具有 和谐性 。	0	_	_	_	122	same-unit_m	_	_
+125	万物 是 由 道 生 出来 的 ，	7	_	_	_	9	joint-other_m	_	_
+126	万物 内部 都 含有 道 ，	0	_	_	_	125	joint-list_m	_	_
+127	从 这 个 意义 来说 ，	2	_	_	_	128	organization-preparation_r	_	_
+128	万物 ，	1	_	_	_	125	elaboration-additional_r	_	_
+129	包括 道 ，	0	_	_	_	128	elaboration-attribute_r	_	_
+130	是 平等 的 。	1	_	_	_	128	same-unit_m	_	_
+131	道 生出 万物 之后 ，	0	_	_	_	132	context-circumstance_r	_	_
+132	还 要 赋予 万物 以 特性 。	2	_	_	_	125	joint-sequence_m	_	_
+133	因 道 在 万物 内部 的 存在 形式 、 表现 形式 不同 ，	0	_	_	_	134	causal-cause_r	_	_
+134	因此 ， 万物 的 特性 也 各 不 相同 。	1	_	_	_	135	organization-preparation_r	_	_
+135	道 赋予 万物 不同 的 特性 ，	1	_	_	_	132	elaboration-additional_r	_	_
+136	万物 的 特性 都 是 适于 自己 、 自然而然 、 不 假 人为 、 不 假 外求 的 。	0	_	_	_	135	elaboration-additional_r	_	_
+137	且 在 自然 之中 ， 万物 也 都 有 自己 独特 的 存在 价值 ，	0	_	_	_	136	joint-list_m	_	_
+138	是 不可或缺 的 。	0	_	_	_	136	joint-list_m	_	_
+139	道 生出 万物 、	3	_	_	_	141	context-circumstance_r	_	_
+140	赋予 万物 特性 之后 ，	0	_	_	_	139	joint-list_m	_	_
+141	还 要 以	2	_	_	_	125	joint-sequence_m	_	_
+142	无为 而 无不为 的	0	_	_	_	143	elaboration-attribute_r	_	_
+143	方式 ， 抚育 万物 、	0	_	_	_	141	same-unit_m	_	_
+144	成就 万物 ，	1	_	_	_	141	joint-list_m	_	_
+145	而 又 不 把 万物 据 为 己有 、	2	_	_	_	141	adversative-antithesis_r	_	_
+146	居功 自傲 。	0	_	_	_	145	joint-list_m	_	_
+147	就 像 佘正荣 所 说 ：	3	_	_	_	148	attribution-positive_r	_	_
+148	“ 故 不仅 天地 万物 是 由 道 的 运作 生成 的 ，	3	_	_	_	125	explanation-evidence_r	_	_
+149	而且 宇宙 中 的 一切 实体 、 关系 、 结构 和 秩序 ， 也 是 由 道 的 运作 生成 的 ，	0	_	_	_	148	joint-list_m	_	_
+150	而 道 创生 了 天地 万物 之后 ，	2	_	_	_	152	context-circumstance_r	_	_
+151	并 非 就 大功告成 ，	1	_	_	_	152	adversative-antithesis_r	_	_
+152	它 还 继续 生养 万物 ，	1	_	_	_	148	joint-other_m	_	_
+153	运化 万物 ，	0	_	_	_	152	joint-list_m	_	_
+154	参与 万物 的 流行 变化 ，	0	_	_	_	152	joint-list_m	_	_
+155	养育 和 辅助 万物 的 成长 发育 。	0	_	_	_	152	joint-list_m	_	_
+156	但是 ， 道 生养 万物 和 哺育 万物 成长 ， 并 非 出于 有意 的 行为 ，	1	_	_	_	148	joint-other_m	_	_
+157	也 不 是 外力 作用 的 结果 ，	0	_	_	_	156	joint-list_m	_	_
+158	而 是	1	_	_	_	156	adversative-contrast_m	_	_
+159	固存于 一切 事物 和 过程 中 的	0	_	_	_	160	elaboration-attribute_r	_	_
+160	自然 趋势 和 结果 。	0	_	_	_	158	same-unit_m	_	_
+161	天地 万物	1	_	_	_	148	joint-other_m	_	_
+162	因 其 自然 之 本性	0	_	_	_	163	causal-cause_r	_	_
+163	而 生成 、	0	_	_	_	161	same-unit_m	_	_
+164	运行	1	_	_	_	161	joint-list_m	_	_
+165	和 显现 。 ”	1	_	_	_	161	joint-list_m	_	_
+166	( -LSB- 1 -RSB- , pp. 73 - 79 ) 。	2	_	_	_	148	explanation-evidence_r	_	_
+167	道 生出 万物 之后 ，	0	_	_	_	168	context-circumstance_r	_	_
+168	万物 就 有 纵 的 时间 维度 上 的 生成 关系 及 横 的 空间 维度 上 的 相互 作用 关系 。	5	_	_	_	172	organization-preparation_r	_	_
+169	从 纵 的 时间 维度 来说 ，	3	_	_	_	172	organization-preparation_r	_	_
+170	尽管 从 终极 的 根源 来说 ，	0	_	_	_	171	adversative-concession_r	_	_
+171	万物 都 是 由 道 生 出来 的 ，	2	_	_	_	172	adversative-concession_r	_	_
+172	但 万物 之间 也 有 生成 的 关系 ，	4	_	_	_	125	joint-list_m	_	_
+173	动物 、 植物 是 由 它们 的 祖先 繁衍 下来 的 ，	0	_	_	_	172	elaboration-additional_r	_	_
+174	人 也 一样 ，	0	_	_	_	173	joint-list_m	_	_
+175	且 事物 的 繁衍 、 发展 是 不断 进化 的 。	1	_	_	_	172	joint-list_m	_	_
+176	从 横 的 空间 的 维度 来说 ，	2	_	_	_	178	organization-preparation_r	_	_
+177	道 生出 万物 之后 ，	1	_	_	_	178	context-circumstance_r	_	_
+178	万物 之间 有	4	_	_	_	172	joint-list_m	_	_
+179	相互 作用 的	0	_	_	_	180	elaboration-attribute_r	_	_
+180	关系 。	0	_	_	_	178	same-unit_m	_	_
+181	比如 ， 同类 的 物种 会 聚集 在 一块 ，	3	_	_	_	178	elaboration-additional_r	_	_
+182	共同 占据 一 个 生态 领地 ，	0	_	_	_	181	joint-list_m	_	_
+183	而 不 让 别 的 物种 侵入 ；	0	_	_	_	181	joint-list_m	_	_
+184	同 一 个 物种 之间 及 不同 的 物种 之间	1	_	_	_	181	joint-list_m	_	_
+185	通过 生存 竞争 、 优胜 劣汰	0	_	_	_	186	mode-means_r	_	_
+186	而 使 物种 得以 不断 进化 。	0	_	_	_	184	same-unit_m	_	_
+187	物种 之间 有 相 食 的 食物 链 的 关系 。	1	_	_	_	188	causal-cause_r	_	_
+188	保持 物种 平衡 、 生态 平衡 是	2	_	_	_	181	explanation-justify_r	_	_
+189	保证 自然 生态美 的	0	_	_	_	190	elaboration-attribute_r	_	_
+190	基本 条件 。	0	_	_	_	188	same-unit_m	_	_
+191	道 生出 万物 ，	1	_	_	_	192	context-background_r	_	_
+192	万物	4	_	_	_	125	joint-list_m	_	_
+193	因 内部 都 含有 道	0	_	_	_	194	causal-cause_r	_	_
+194	而 相互 之间 会 有 交感 关系 。	0	_	_	_	192	same-unit_m	_	_
+195	这 种 交感 关系 最 能 体现 物 与 物 之间 的 和谐美 ，	2	_	_	_	192	evaluation-comment_r	_	_
+196	最能 体现 自然 生态美 。	0	_	_	_	195	joint-list_m	_	_
+197	总之 ， 道 生出 万物 之后 ，	0	_	_	_	198	context-background_r	_	_
+198	万物 及 整个 世界 就 像 一 张 天网 。	5	_	_	_	125	evaluation-comment_r	_	_
+199	每 个 事物 都 像 天网 上 的 一 个 纽结 ，	1	_	_	_	198	elaboration-additional_r	_	_
+200	都 在 天网 上 占据 着 自己 的 一定 的 位置 ，	0	_	_	_	199	joint-list_m	_	_
+201	和 别 的 纽结 、 别 的 事物 联 在 一起 。	0	_	_	_	199	joint-list_m	_	_
+202	整个 世界 就 这样 形成 了 一 个 有机 联系 的 和谐 整体 。	2	_	_	_	198	joint-list_m	_	_
+203	这 就 是	0	_	_	_	202	elaboration-additional_r	_	_
+204	道家 所 说 的	0	_	_	_	205	attribution-positive_r	_	_
+205	“ 天网 恢恢 ， 疏 而 不 失 。 ”	0	_	_	_	203	same-unit_m	_	_
+206	( 《 道德经 》 第73 章 )	1	_	_	_	203	explanation-evidence_r	_	_
+207	道家 认为 ，	4	_	_	_	209	attribution-positive_r	_	_
+208	由 道 生出 的	0	_	_	_	209	elaboration-attribute_r	_	_
+209	万事 万物 ，	7	_	_	_	9	joint-other_m	_	_
+210	即使 是 天地 ，	1	_	_	_	209	adversative-concession_r	_	_
+211	都 不 可能 长久 地 生存 下去 ，	2	_	_	_	209	same-unit_m	_	_
+212	都 必然 要 逝去 、	3	_	_	_	209	joint-list_m	_	_
+213	消亡 。	3	_	_	_	209	joint-list_m	_	_
+214	而 它们 的	5	_	_	_	209	joint-list_m	_	_
+215	逝去 、	0	_	_	_	217	elaboration-attribute_r	_	_
+216	消亡 之	0	_	_	_	215	joint-list_m	_	_
+217	处 正 是	0	_	_	_	214	same-unit_m	_	_
+218	生出 它们 的	0	_	_	_	219	elaboration-attribute_r	_	_
+219	本根 之 道 。	0	_	_	_	214	same-unit_m	_	_
+220	我们 人 就 是 要	6	_	_	_	209	joint-other_m	_	_
+221	通过 自我 修养	0	_	_	_	222	mode-means_r	_	_
+222	而 看到 万物 的	0	_	_	_	220	same-unit_m	_	_
+223	归根 复命 之	0	_	_	_	224	elaboration-attribute_r	_	_
+224	状 ，	0	_	_	_	220	same-unit_m	_	_
+225	并且	1	_	_	_	220	joint-list_m	_	_
+226	在 自我 的 归根 复命 中 ，	0	_	_	_	227	context-circumstance_r	_	_
+227	使 自己 与 道 融 为 一体 。	0	_	_	_	225	same-unit_m	_	_
+228	这 是 一 种	2	_	_	_	220	evaluation-comment_r	_	_
+229	意味 悠长 的	0	_	_	_	230	elaboration-attribute_r	_	_
+230	生命 体验 、 审美 体验 。	0	_	_	_	228	same-unit_m	_	_
+231	由 上 可 见 ，	2	_	_	_	238	organization-preparation_r	_	_
+232	从 最 形而上 的 层面 来说 ，	2	_	_	_	233	organization-preparation_r	_	_
+233	万事 万物 ，	1	_	_	_	238	causal-cause_r	_	_
+234	包括 人 、 人 的 精神 及 社会 等	0	_	_	_	233	elaboration-attribute_r	_	_
+235	都 是 由 道 衍生 出来 的 。	1	_	_	_	233	same-unit_m	_	_
+236	但 从 较 形而下 的 层面 来说 ，	0	_	_	_	237	organization-preparation_r	_	_
+237	人 、 人 的 精神 及 社会 等 又 是 由 自然 演化 而 来 的 。	3	_	_	_	233	adversative-contrast_m	_	_
+238	因此 ， 人 、 人 的 精神 及 社会 等 从属于 自然 ，	0	_	_	_	0	ROOT	_	_
+239	是 自然 的 不同 的 表现 形式 ，	0	_	_	_	238	joint-list_m	_	_
+240	内蕴 自然 的 本质 与 规律 ，	0	_	_	_	238	joint-list_m	_	_
+241	与 自然 具有 高度 的 一致性 ，	0	_	_	_	238	joint-list_m	_	_
+242	要 效法 自然 、	0	_	_	_	238	joint-list_m	_	_
+243	遵循 自然 的 规律 。	0	_	_	_	238	joint-list_m	_	_

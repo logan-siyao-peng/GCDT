@@ -1,0 +1,168 @@
+1	十月 革命 百 年	0	_	_	_	2	organization-preparation_r	_	_
+2	乌克兰 纪念 大 饥荒	7	_	_	_	10	organization-heading_r	_	_
+3	【 2017年 11月 26日 讯 】	6	_	_	_	10	context-circumstance_r	_	_
+4	乌克兰 星期六 再次 纪念 大 饥荒 。	3	_	_	_	7	organization-preparation_r	_	_
+5	在 十月 革命 百 年 之 际 ，	2	_	_	_	7	context-circumstance_r	_	_
+6	今年 的 大 饥荒 纪念 活动 特别 强调 ，	1	_	_	_	7	attribution-positive_r	_	_
+7	独裁者 斯大林 人为 制造 和 利用 大 饥荒	5	_	_	_	10	context-background_r	_	_
+8	消灭 乌克兰 社会 ， 特别是 农村 中 对 苏共 政权 的 不满 。	0	_	_	_	7	purpose-goal_r	_	_
+9	全国 默哀	3	_	_	_	10	organization-heading_r	_	_
+10	乌克兰 星期六 再次 举行 全国性 活动 ，	0	_	_	_	0	ROOT	_	_
+11	悼念 1932年 到 1933年 乌克兰 大 饥荒 中 的 受难者 。	0	_	_	_	10	joint-list_m	_	_
+12	同 每年 的 活动 一样 ，	1	_	_	_	13	context-background_r	_	_
+13	下午 4点 时 乌克兰 全国 默哀 ，	1	_	_	_	10	elaboration-additional_r	_	_
+14	然后 点燃 蜡烛 。	0	_	_	_	13	joint-sequence_m	_	_
+15	乌克兰 总统 和 总理 率领 高官 和 社会 人士 向 首都 基辅 的 大 饥荒 纪念碑 献 花圈 。	2	_	_	_	13	explanation-evidence_r	_	_
+16	乌克兰 各 地 也 同时 举行 了 献 花圈 活动 。	0	_	_	_	15	joint-list_m	_	_
+17	乌克兰 各 政府 机关 和 有关 机构 星期六 下 半旗 ，	2	_	_	_	10	joint-other_m	_	_
+18	并 在 国旗 上 悬挂 致哀 用 的 黑色 丝带 ，	0	_	_	_	17	joint-list_m	_	_
+19	各 种 娱乐 活动 当天 受到 限制 ，	1	_	_	_	17	joint-list_m	_	_
+20	乌克兰 全国 各 地 教堂 都 举行 了 安灵 弥撒 活动 。	1	_	_	_	17	joint-list_m	_	_
+21	镇压 民族 复兴	4	_	_	_	40	organization-heading_r	_	_
+22	用 大 饥荒 报复	0	_	_	_	21	joint-list_m	_	_
+23	在	1	_	_	_	26	context-circumstance_r	_	_
+24	十月 革命 百 年 之	0	_	_	_	25	elaboration-attribute_r	_	_
+25	际 ，	0	_	_	_	23	same-unit_m	_	_
+26	今年 乌克兰 大 饥荒 纪念 活动 的 主题 是 ， 共产党 政权 当年 人为 制造 大 饥荒 ， 目的 是 报复	2	_	_	_	40	context-background_r	_	_
+27	当时 所 兴起 的	0	_	_	_	28	elaboration-attribute_r	_	_
+28	乌克兰 民族 复兴 运动 。	0	_	_	_	26	joint-list_m	_	_
+29	一百 年 前 沙俄 帝国 崩溃 ，	1	_	_	_	30	context-background_r	_	_
+30	末代 沙皇 被 推翻	1	_	_	_	32	context-circumstance_r	_	_
+31	和 十月 革命 爆发 后 ，	0	_	_	_	30	joint-list_m	_	_
+32	芬兰 ， 以及	0	_	_	_	35	context-background_r	_	_
+33	与 乌克兰 拥有 密切 历史 和 文化 渊源 的	0	_	_	_	34	elaboration-attribute_r	_	_
+34	波兰 先后 独立 ，	0	_	_	_	32	same-unit_m	_	_
+35	乌克兰 知识界 从 1917年 起 积极 寻找 乌克兰 的 文化 和 民族 定位 。	2	_	_	_	26	joint-list_m	_	_
+36	与此同时 ， 富裕 的 乌克兰 农村 对	1	_	_	_	35	joint-list_m	_	_
+37	布尔什维克 政权 强制 推行 的	0	_	_	_	38	elaboration-attribute_r	_	_
+38	集体 农庄 运动 日益 抵触 ，	0	_	_	_	36	same-unit_m	_	_
+39	乌克兰 媒体 说 ，	1	_	_	_	40	attribution-positive_r	_	_
+40	大 饥荒 就 成为	4	_	_	_	10	joint-other_m	_	_
+41	斯大林 专制 政权 对 乌克兰 寻求 自由 和 民族 革命 的	0	_	_	_	42	elaboration-attribute_r	_	_
+42	一 场 报复 。	0	_	_	_	40	same-unit_m	_	_
+43	目前 定居 波兰 的	0	_	_	_	44	elaboration-attribute_r	_	_
+44	美国 记者 和 专栏 作家 阿普勒鲍姆 几 天 前 在 乌克兰 首都 基辅 表示 ，	1	_	_	_	45	attribution-positive_r	_	_
+45	斯大林	3	_	_	_	40	joint-list_m	_	_
+46	利用 大 饥荒	0	_	_	_	47	mode-means_r	_	_
+47	来 镇压 乌克兰 社会 当时 的 抗议 和 不满 。	0	_	_	_	45	same-unit_m	_	_
+48	在 今年 大 饥荒 纪念 活动 前夕 ， 这 位 普利策奖 得主 在 基辅 特别 介绍 了	2	_	_	_	45	context-background_r	_	_
+49	她 撰写 的	0	_	_	_	50	elaboration-attribute_r	_	_
+50	新 书 《 红色 饥荒 ， 斯大林	0	_	_	_	48	same-unit_m	_	_
+51	针对 乌克兰 的	0	_	_	_	52	elaboration-attribute_r	_	_
+52	战争 》 。	0	_	_	_	48	same-unit_m	_	_
+53	她 撰写 这 本 书 时	0	_	_	_	54	context-circumstance_r	_	_
+54	研究 了 当年 斯大林 与 乌克兰 共产党 领导人 之间 的 往来 信件 。	1	_	_	_	48	joint-list_m	_	_
+55	阿普勒鲍姆 认为 ，	1	_	_	_	56	attribution-positive_r	_	_
+56	斯大林 在 1917年 时 就 对 乌克兰 的 民族 运动 深感 恐惧 ，	2	_	_	_	59	causal-cause_r	_	_
+57	因为 他 害怕	0	_	_	_	58	attribution-positive_r	_	_
+58	乌克兰 民族 运动 会 与 布尔什维克 革命 相 竞争 。	0	_	_	_	56	causal-cause_r	_	_
+59	斯大林	3	_	_	_	45	elaboration-additional_r	_	_
+60	利用 大 饥荒	0	_	_	_	61	mode-means_r	_	_
+61	解决 了 所谓 的 “ 乌克兰 问题 ” ，	0	_	_	_	59	same-unit_m	_	_
+62	那 就 是 首先 跟除 了 乌克兰 农民 中 的 抗议 潜力 ，	1	_	_	_	59	elaboration-additional_r	_	_
+63	接下来 镇压 迫害 乌克兰 知识 阶层 ，	0	_	_	_	62	joint-sequence_m	_	_
+64	最终 目的 是 不 让 乌克兰 对 布尔什维克 政权 构成 威胁 。	0	_	_	_	62	joint-sequence_m	_	_
+65	阿普勒鲍姆 的 夫婿 是 波兰 前 外长 和 前 国会 议长 西科尔斯基 。	3	_	_	_	59	elaboration-additional_r	_	_
+66	饥荒 都 发生 在 黑 土地	5	_	_	_	71	organization-heading_r	_	_
+67	消灭 反抗 力量	0	_	_	_	66	purpose-goal_r	_	_
+68	俄罗斯 时事 评论 人士 伊赫洛夫 说 ，	2	_	_	_	71	attribution-positive_r	_	_
+69	看 一下 地图	0	_	_	_	70	contingency-condition_r	_	_
+70	就 知道 ，	1	_	_	_	71	attribution-positive_r	_	_
+71	苏联 北部 土地 贫瘠 的 地区 没有 发生 饥荒 。	4	_	_	_	10	joint-other_m	_	_
+72	大 饥荒 都 发生 在 乌克兰 、 俄罗斯 ， 以及 哈萨克斯坦 那些 肥沃 的 黑 土地 地区 。	0	_	_	_	71	adversative-contrast_m	_	_
+73	伊赫洛夫 认为 ，	1	_	_	_	74	attribution-positive_r	_	_
+74	大 饥荒 更 消灭 了	3	_	_	_	71	joint-other_m	_	_
+75	对 共产党 政权 不满	0	_	_	_	77	elaboration-attribute_r	_	_
+76	并 构成 潜在 威胁 的	0	_	_	_	75	joint-list_m	_	_
+77	农民 阶层 。	0	_	_	_	74	same-unit_m	_	_
+78	伊赫洛夫 说 ：	2	_	_	_	82	attribution-positive_r	_	_
+79	“ 尽管 大 饥荒 中 饿死 的 以 乌克兰人 和 哈萨克人 居多 ，	1	_	_	_	80	adversative-concession_r	_	_
+80	但 那 场 民族 灭绝 行动 不 仅仅 针对 单一 民族 ，	1	_	_	_	82	organization-preparation_r	_	_
+81	也 同样 针对 某 个 社会 阶层 ，	0	_	_	_	80	joint-list_m	_	_
+82	那 就 是 有意	4	_	_	_	71	explanation-evidence_r	_	_
+83	利用 大 饥荒	0	_	_	_	84	mode-means_r	_	_
+84	来 彻底 消灭 那些 比较 富裕 ， 很 独立 自主 的 农村 地区 中 的 农民 。 ”	0	_	_	_	82	same-unit_m	_	_
+85	饥荒 之后 俄语 居民 填充 空旷 农村	3	_	_	_	89	organization-heading_r	_	_
+86	伊赫洛夫 说 ，	1	_	_	_	88	attribution-positive_r	_	_
+87	当 苏共 政权 派 军队 到 农村 持枪 强行 征收 粮食 和 农民 手 中 的 食品 后 ，	0	_	_	_	88	context-circumstance_r	_	_
+88	饥荒 立刻 开始 。	2	_	_	_	89	context-background_r	_	_
+89	今天 乌克兰 境内 的 很多 俄语系 居民 就 是 在 大 饥荒 之后 被 迁移 到 了 空旷 已无人烟 的 乌克兰 农村 ，	4	_	_	_	10	joint-other_m	_	_
+90	然后 定居 了 下来 。	0	_	_	_	89	joint-sequence_m	_	_
+91	乌克兰 人口学家 最近 公布 的	0	_	_	_	92	elaboration-attribute_r	_	_
+92	研究 结果 显示 ，	1	_	_	_	93	attribution-positive_r	_	_
+93	在	1	_	_	_	89	joint-other_m	_	_
+94	大 饥荒 爆发 后 的	0	_	_	_	95	elaboration-attribute_r	_	_
+95	头 7 个 月 ， 就 有 3百万 人 丧生 ，	0	_	_	_	93	same-unit_m	_	_
+96	说明	0	_	_	_	97	attribution-positive_r	_	_
+97	当时 的 饿死 现象 非常 集中 。	2	_	_	_	93	evaluation-comment_r	_	_
+98	推动 立法	4	_	_	_	105	organization-heading_r	_	_
+99	否认	0	_	_	_	100	attribution-negative_r	_	_
+100	大 饥荒 将 承担 责任	0	_	_	_	98	joint-list_m	_	_
+101	乌克兰 总统 波罗申科 星期六 说 ，	1	_	_	_	102	attribution-positive_r	_	_
+102	乌克兰 永远 不 会 忘记 那 场 可怕 的 犯罪 行动 的 组织者 ，	2	_	_	_	105	context-background_r	_	_
+103	反 人类 犯罪 行为 永远 没有 时间 期限 。	0	_	_	_	102	joint-list_m	_	_
+104	波罗申科 在 纪念 活动 上 表示 ，	1	_	_	_	105	attribution-positive_r	_	_
+105	乌克兰 必须 立法 ，	4	_	_	_	10	joint-other_m	_	_
+106	如同 否认 纳粹 屠杀 犹太人 将 承担 责任 一样 ，	1	_	_	_	107	context-background_r	_	_
+107	那些	0	_	_	_	105	explanation-motivation_r	_	_
+108	否认 乌克兰 大 饥荒 的	0	_	_	_	109	elaboration-attribute_r	_	_
+109	行为 也 应 受到 惩处 ，	0	_	_	_	107	same-unit_m	_	_
+110	这样 做 能 让 后人 牢记 ，	1	_	_	_	111	attribution-positive_r	_	_
+111	苏共 政权 不但 人为 制造 ，	2	_	_	_	107	joint-list_m	_	_
+112	更 精心 策划 了 大 饥荒 。	0	_	_	_	111	joint-list_m	_	_
+113	波罗申科 9月份	1	_	_	_	117	attribution-positive_r	_	_
+114	在 纽约 联合国 大会 发言 时	0	_	_	_	115	context-circumstance_r	_	_
+115	也 强调 ，	0	_	_	_	113	same-unit_m	_	_
+116	斯大林 专制 政权 人为 制造 的	0	_	_	_	117	elaboration-attribute_r	_	_
+117	大 饥荒 造成 7百万 到 1千万 乌克兰人 丧生 ，	3	_	_	_	120	explanation-evidence_r	_	_
+118	他 呼吁	2	_	_	_	120	attribution-positive_r	_	_
+119	国际 社会 承认	1	_	_	_	120	attribution-positive_r	_	_
+120	大 饥荒 是	3	_	_	_	105	joint-list_m	_	_
+121	针对 乌克兰人 的	0	_	_	_	122	elaboration-attribute_r	_	_
+122	民族 灭绝 行动 。	0	_	_	_	120	same-unit_m	_	_
+123	目前 已经 有 20多 个 国家 ， 美国 的 几 个 州 都 承认	0	_	_	_	124	attribution-positive_r	_	_
+124	乌克兰 大 饥荒 是 民族 灭绝 行动 。	4	_	_	_	120	causal-result_r	_	_
+125	乌克兰 驻 美国 大使 查伊拉 说 ，	1	_	_	_	126	attribution-positive_r	_	_
+126	乌克兰 正 积极 推动 美国 国会	1	_	_	_	124	joint-list_m	_	_
+127	通过 有关 决议 。	0	_	_	_	126	purpose-goal_r	_	_
+128	与此同时 ， 乌克兰 总统 和 总理 ， 以及 其他 政府 高官 也	1	_	_	_	124	joint-list_m	_	_
+129	利用 各 种 外交 活动	0	_	_	_	130	mode-manner_r	_	_
+130	推动 更 多 国家 做出 相应 决定 。	0	_	_	_	128	same-unit_m	_	_
+131	苏联 噤声	3	_	_	_	135	organization-heading_r	_	_
+132	俄罗斯 沉默	0	_	_	_	131	joint-list_m	_	_
+133	乌克兰 国家 安全局 今年 2月 公布 的	0	_	_	_	134	elaboration-attribute_r	_	_
+134	前 苏联 秘密 警察 的 解密 档案 显示 ，	0	_	_	_	135	attribution-positive_r	_	_
+135	苏共 当局 尽量 对 大 饥荒 议题 噤声 。	4	_	_	_	10	joint-other_m	_	_
+136	乌克兰 克格勃 负责人 在 1988年 的 一 份 秘密 文件 中 说 ，	2	_	_	_	137	attribution-positive_r	_	_
+137	国外 反苏 势力	1	_	_	_	135	explanation-evidence_r	_	_
+138	利用 大 饥荒	0	_	_	_	139	mode-manner_r	_	_
+139	对 苏联 从事 意识 形态 上 的 破坏 行动 ，	0	_	_	_	137	same-unit_m	_	_
+140	苏联 有关 部门 应 对 出国 访问 的 文化 和 知识界 人士 事先 “ 洗脑 ” ，	1	_	_	_	137	joint-list_m	_	_
+141	以便 让 他们 能 抵制	0	_	_	_	140	purpose-goal_r	_	_
+142	针对 苏联 的	0	_	_	_	143	elaboration-attribute_r	_	_
+143	负面 声音 。	0	_	_	_	141	same-unit_m	_	_
+144	普京 统治 下 的 俄罗斯 虽然 当年 同样 也 遭受 过 大 饥荒 ，	0	_	_	_	145	adversative-concession_r	_	_
+145	但 俄罗斯 目前 对 大 饥荒 议题 基本 保持 沉默 。	2	_	_	_	135	joint-list_m	_	_
+146	俄罗斯 甚至 指责	0	_	_	_	147	attribution-positive_r	_	_
+147	乌克兰 把 大 饥荒 议题 政治化 。	1	_	_	_	145	elaboration-additional_r	_	_
+148	不 忘 祖辈 血泪 历史	3	_	_	_	153	organization-heading_r	_	_
+149	除了	0	_	_	_	153	adversative-antithesis_r	_	_
+150	被 民众 推翻 的	0	_	_	_	152	elaboration-attribute_r	_	_
+151	亲 俄罗斯 的	0	_	_	_	150	joint-list_m	_	_
+152	前 总统 亚努科维奇 不 太 重视 大 饥荒 议题 外 ，	0	_	_	_	149	same-unit_m	_	_
+153	乌克兰 前 总统 库奇马 ， 尤先科 ， 以及 现任 总统 波罗申科 一直 关注 大 饥荒 的 纪念 活动 。	4	_	_	_	10	joint-other_m	_	_
+154	乌克兰 多 年 前 确定	0	_	_	_	155	attribution-positive_r	_	_
+155	每年 11月份 的 最后 一 个 星期六 是 大 饥荒 的 纪念 日 。	1	_	_	_	153	joint-list_m	_	_
+156	在 每年 的 乌克兰 大 饥荒 纪念 日 到来 前 ，	1	_	_	_	157	context-circumstance_r	_	_
+157	幸存者 回忆 过去 ，	2	_	_	_	153	joint-other_m	_	_
+158	中小 学生 会 参观 有关 的 展览 和 纪念馆 。	0	_	_	_	157	joint-list_m	_	_
+159	乌克兰 今年 还 推出 了 一些 新 的 大 饥荒 纪录 影片 。	2	_	_	_	157	joint-list_m	_	_
+160	一 家 乌克兰 媒体 说 ，	1	_	_	_	161	attribution-positive_r	_	_
+161	许多 乌克兰人 都 能 讲述	3	_	_	_	157	causal-result_r	_	_
+162	自己 祖辈 在 大 饥荒 中 所 经历 的	0	_	_	_	163	elaboration-attribute_r	_	_
+163	血泪 历史 。	0	_	_	_	161	same-unit_m	_	_
+164	有 欧洲 粮仓 之 称 的	0	_	_	_	165	elaboration-attribute_r	_	_
+165	乌克兰 在 十月 革命 后 的 20年代 和	0	_	_	_	168	adversative-concession_r	_	_
+166	二战 结束 后 的	0	_	_	_	167	elaboration-attribute_r	_	_
+167	40年代 也 曾 爆发 过 另外 两 场 大 饥荒 ，	1	_	_	_	165	same-unit_m	_	_
+168	但 30年代 的 饥荒 规模 最 大 。	2	_	_	_	153	joint-other_m	_	_

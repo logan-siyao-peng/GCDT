@@ -1,0 +1,196 @@
+1	香港 最新 失业率 创 十六 年 来 高位	7	_	_	_	10	organization-heading_r	_	_
+2	【 2021年 1月 20日 讯 】	6	_	_	_	10	context-circumstance_r	_	_
+3	根据	1	_	_	_	10	attribution-positive_r	_	_
+4	政府 统计处 今日	0	_	_	_	7	elaboration-attribute_r	_	_
+5	（ 1月 19日 ）	0	_	_	_	4	restatement-partial_r	_	_
+6	发表 的	1	_	_	_	4	same-unit_m	_	_
+7	最新 劳动 人口 统计 数码	0	_	_	_	3	same-unit_m	_	_
+8	（ 即 2020年 10月 至 12月 的 临时 数字 ） ，	1	_	_	_	7	elaboration-attribute_r	_	_
+9	经 季节性 调整 的	0	_	_	_	10	elaboration-attribute_r	_	_
+10	失业率 由 2020年 9月 至 11月 的 6.3% 上升 至 2020年 10月 至 12月 的 6.6% 。	0	_	_	_	0	ROOT	_	_
+11	就业 不足率 在 该 两 段 期间 则 保持 不 变 ，	2	_	_	_	10	joint-list_m	_	_
+12	维持 于 3.4% 的 水平 。	0	_	_	_	11	elaboration-additional_r	_	_
+13	“ 与 二零二零年 九月 至 十一月 比较 ，	2	_	_	_	14	contingency-condition_r	_	_
+14	在 二零二零年 十月 至 十二月 期间 ， 大多数 主要 经济 行业 的 失业率	3	_	_	_	10	explanation-evidence_r	_	_
+15	（ 不 经 季节性 调整 ）	0	_	_	_	14	contingency-condition_r	_	_
+16	均 见 上升 ，	1	_	_	_	14	same-unit_m	_	_
+17	其中 零售 、 住宿 及 膳食 服务业 有 相对 明显 的 上升 。	3	_	_	_	14	elaboration-additional_r	_	_
+18	就业 不足率 方面 ， 下跌 主要 见于 货仓 及 运输 辅助 活动业 ，	4	_	_	_	14	joint-list_m	_	_
+19	而 上升 主要 见于 零售业 。	0	_	_	_	18	adversative-contrast_m	_	_
+20	总 就业 人数 由 二零二零年 九月 至 十一月 的 3650100 人 ， 下跌 至 二零二零年 十月 至 十二月 的 3647700 人 ，	5	_	_	_	14	explanation-evidence_r	_	_
+21	减少 约 2400 人 。	0	_	_	_	20	restatement-partial_r	_	_
+22	二零二零年 十月 至 十二月 的 总 劳动 人口 为 3893400 人 ，	1	_	_	_	20	joint-list_m	_	_
+23	与 二零二零年 九月 至 十一月 的 数码	0	_	_	_	22	elaboration-additional_r	_	_
+24	（ 3894400 人 ）	0	_	_	_	23	elaboration-attribute_r	_	_
+25	大致 相若 。	1	_	_	_	23	same-unit_m	_	_
+26	失业 人数	1	_	_	_	20	joint-list_m	_	_
+27	（ 不 经 季节性 调整 ）	0	_	_	_	26	contingency-condition_r	_	_
+28	由 二零二零年 九月 至 十一月 的 244300 人 上升 至 二零二零年 十月 至 十二月 的 245800 人 ，	1	_	_	_	26	same-unit_m	_	_
+29	增加 约 1500 人 。	2	_	_	_	26	restatement-partial_r	_	_
+30	同期 的 就业 不足 人数 亦 由 133100 人 上升 至 133800 人 ，	1	_	_	_	20	joint-list_m	_	_
+31	增加 约 700 人 。 ”	0	_	_	_	30	restatement-partial_r	_	_
+32	—— 新闻 稿 上 写道	6	_	_	_	14	attribution-positive_r	_	_
+33	劳工 及 福利局 局长 罗致光	1	_	_	_	37	attribution-positive_r	_	_
+34	评论 最新 失业 数字 时	0	_	_	_	35	context-circumstance_r	_	_
+35	表示 ，	0	_	_	_	33	same-unit_m	_	_
+36	香港 第四 波 疫情 在 11月 后期 开始 爆发 ，	0	_	_	_	37	causal-cause_r	_	_
+37	导致 劳工 市场 再度 恶化 。	4	_	_	_	10	evaluation-comment_r	_	_
+38	经 季节性 调整 的	0	_	_	_	39	elaboration-attribute_r	_	_
+39	失业率 在 2020年 10月 至 十12月 较 2020年 9月 至 11月 上升 0.3 个 百分点 至 6.6% ，	2	_	_	_	37	explanation-evidence_r	_	_
+40	为 16 年 来 的 高位 ，	1	_	_	_	39	evaluation-comment_r	_	_
+41	就业 不足率 则 维持 于 3.4% 不 变 。	2	_	_	_	39	joint-list_m	_	_
+42	同时 ， 总 就业 人数 较 上 一 个 期间 微跌 0.1% 至 3647700 人 ，	2	_	_	_	39	joint-list_m	_	_
+43	失业 人数 增加 0.6% 至 245800 人 。	2	_	_	_	39	joint-list_m	_	_
+44	按 行业 分析 ，	1	_	_	_	48	context-background_r	_	_
+45	与 消费 及 旅游 相关 行业	0	_	_	_	48	elaboration-attribute_r	_	_
+46	（ 即 零售 、 住宿 及 膳食 服务业 ）	0	_	_	_	45	elaboration-attribute_r	_	_
+47	合计 的	1	_	_	_	45	same-unit_m	_	_
+48	失业率 在 2020年 10月 至 12月 较 2020年 9月 至 11月 回升 0.5 个 百分点 至 10.6% 。	3	_	_	_	37	elaboration-additional_r	_	_
+49	其中 ， 餐饮 服务 活动业 的 失业率 升 至 13.8% 。	2	_	_	_	48	elaboration-additional_r	_	_
+50	多 个 其他 行业 的 失业率 亦 上升 。	0	_	_	_	49	joint-list_m	_	_
+51	展望 未来 ，	0	_	_	_	52	context-background_r	_	_
+52	罗致光 说 ，	1	_	_	_	55	attribution-positive_r	_	_
+53	由于 本地 第四 波 疫情 继续 影响 本地 消费 气氛	0	_	_	_	55	causal-cause_r	_	_
+54	及 干扰 经济 活动 ，	0	_	_	_	53	joint-list_m	_	_
+55	劳工 市场 在 短期 内 仍 将 显著 受压 。	4	_	_	_	37	joint-other_m	_	_
+56	称	2	_	_	_	57	attribution-positive_r	_	_
+57	政府 最近 已 推出 针对性 措施 ，	2	_	_	_	55	joint-other_m	_	_
+58	为	0	_	_	_	57	purpose-goal_r	_	_
+59	受 重创 的	0	_	_	_	60	elaboration-attribute_r	_	_
+60	行业 提供 进一步 支援 ，	0	_	_	_	58	same-unit_m	_	_
+61	将 继续 密切 留意 相关 情况 。	1	_	_	_	57	joint-list_m	_	_
+62	“ 大家 知道 ，	2	_	_	_	63	organization-phatic_r	_	_
+63	政府 刚刚 公布	6	_	_	_	91	context-background_r	_	_
+64	二零二零年 十月 至 十二月 的 三 个 月 经 季节性 调整 的	0	_	_	_	65	elaboration-attribute_r	_	_
+65	失业率 ，	0	_	_	_	63	same-unit_m	_	_
+66	由 二零二零年 九月 至 十一月	1	_	_	_	63	elaboration-additional_r	_	_
+67	经 季节性 调整 的	0	_	_	_	68	elaboration-attribute_r	_	_
+68	失业率 6.3% ， 上升 至 6.6% 。	0	_	_	_	66	same-unit_m	_	_
+69	当然 ， 我 想 在 此 与 大家 先 谈 一 个 稍为 技术 的 问题 ，	4	_	_	_	91	organization-preparation_r	_	_
+70	让 大家 明白 有关 数字 。	0	_	_	_	69	purpose-goal_r	_	_
+71	大家 知道 ，	2	_	_	_	76	organization-phatic_r	_	_
+72	因为 十二月 正值 第四 波 疫情 的 高峰期 ，	1	_	_	_	76	causal-cause_r	_	_
+73	加上 ‘ 保 就业 ’ 计划 结束 ，	0	_	_	_	72	joint-list_m	_	_
+74	失业率 上升 ，	0	_	_	_	72	joint-list_m	_	_
+75	我 相信	0	_	_	_	76	attribution-positive_r	_	_
+76	是 大家 预期 之内 。	2	_	_	_	91	explanation-evidence_r	_	_
+77	不过 在 技术 上 希望	3	_	_	_	80	attribution-positive_r	_	_
+78	大家 明白 ，	2	_	_	_	80	attribution-positive_r	_	_
+79	刚才 说 的	0	_	_	_	80	elaboration-attribute_r	_	_
+80	数字 是	3	_	_	_	76	adversative-contrast_m	_	_
+81	经 季节性 调整 的	0	_	_	_	82	elaboration-attribute_r	_	_
+82	数字 。	1	_	_	_	80	same-unit_m	_	_
+83	过往而言 ， 历年 十二月 香港 的 经济 一般 比较 旺盛 ，	0	_	_	_	84	causal-cause_r	_	_
+84	所以 失业率 在 十二月 有 机会 向下 调整 ；	4	_	_	_	76	adversative-contrast_m	_	_
+85	所以 相反而言 ， 当 今 次 十二月	2	_	_	_	90	context-circumstance_r	_	_
+86	因 疫情 关系 、	0	_	_	_	87	causal-cause_r	_	_
+87	‘ 保 就业 ’ 计划 结束 ，	0	_	_	_	85	same-unit_m	_	_
+88	当 失业率 上升 ，	1	_	_	_	90	contingency-condition_r	_	_
+89	经 季节性 调整 的	0	_	_	_	90	evaluation-comment_r	_	_
+90	失业率 会 较 实际 情况 大 。	1	_	_	_	84	adversative-contrast_m	_	_
+91	因为 季节性 调整 是 以 过往 的 趋势 调整 月份 的 偏差	3	_	_	_	55	explanation-evidence_r	_	_
+92	而 不 会 出现 太 大 波幅 ，	0	_	_	_	91	joint-list_m	_	_
+93	但 今 次 十二月 与 过往 的 十二月 有 明显 差距 ，	1	_	_	_	95	context-background_r	_	_
+94	故 经 季节性 调整 后	0	_	_	_	95	context-circumstance_r	_	_
+95	就 会 出现 较大 差异 。	1	_	_	_	91	adversative-contrast_m	_	_
+96	所以 如果 大家 留意 公布 的 数字 ，	0	_	_	_	97	contingency-condition_r	_	_
+97	另 一 个 数字 是 二零二零年 十月 至 十二月 的 平均 失业 人数 升 了 1500 人 ，	3	_	_	_	91	joint-list_m	_	_
+98	等于 什么 数字 ？	0	_	_	_	99	organization-preparation_r	_	_
+99	即 等于 就业 人口 的 约 0.04% ，	1	_	_	_	97	elaboration-additional_r	_	_
+100	但	2	_	_	_	97	adversative-contrast_m	_	_
+101	经 季节性 调整 的	0	_	_	_	102	elaboration-attribute_r	_	_
+102	失业率 则 升 了 0.3 个 百分点 ，	0	_	_	_	100	same-unit_m	_	_
+103	这 是 一 个 很 明显 的 差距 。	3	_	_	_	97	evaluation-comment_r	_	_
+104	希望	1	_	_	_	106	attribution-positive_r	_	_
+105	大家 明白	0	_	_	_	106	attribution-positive_r	_	_
+106	如何 理解 这些 数字 ，	2	_	_	_	109	organization-preparation_r	_	_
+107	就 是 基于 技术 上 经 季节性 调整 ，	0	_	_	_	108	causal-cause_r	_	_
+108	以致 一 个 明显 的 增幅 ，	0	_	_	_	109	causal-cause_r	_	_
+109	而 偏离 实际 失业 人数 的 增加 ，	5	_	_	_	91	elaboration-additional_r	_	_
+110	即 仅 1500 人 这 个 数字 。 ”	1	_	_	_	109	elaboration-attribute_r	_	_
+111	—— 罗致光	7	_	_	_	91	attribution-positive_r	_	_
+112	罗致光 称 ：	1	_	_	_	113	attribution-positive_r	_	_
+113	“ 创造 就业 方面 ， 政府 已 开设 约 30000 个 临时 职位 。	8	_	_	_	91	joint-other_m	_	_
+114	可以 给 大家 知道 一些 最新 数字 ，	2	_	_	_	115	organization-preparation_r	_	_
+115	大约 半数 在 政府 中 ，	0	_	_	_	113	explanation-evidence_r	_	_
+116	另外 半数 则 在 非 政府 机构 。	0	_	_	_	115	joint-list_m	_	_
+117	截至 去年 十二月 底 ， 超过 14000 人 已 入职 ，	1	_	_	_	115	joint-list_m	_	_
+118	余下 17000 个 职位 中 ， 大 部分 在 招聘 中 ，	0	_	_	_	117	joint-list_m	_	_
+119	部分 则 快 进行 有关 招聘 工作 ，	0	_	_	_	118	joint-list_m	_	_
+120	即	1	_	_	_	118	restatement-partial_r	_	_
+121	暂时 政府 建立 的	0	_	_	_	122	elaboration-attribute_r	_	_
+122	临时 职位 有 17000 个 尚 待 招聘 。 ”	0	_	_	_	120	same-unit_m	_	_
+123	罗致光	0	_	_	_	126	attribution-positive_r	_	_
+124	在 记者会 回答 问题	0	_	_	_	125	context-circumstance_r	_	_
+125	指 ，	0	_	_	_	123	same-unit_m	_	_
+126	对于 未来 一 、 两 个 月 的 失业 情况 也 不 乐观 。	8	_	_	_	91	joint-other_m	_	_
+127	他 提到	3	_	_	_	129	attribution-positive_r	_	_
+128	较早前 接受 电视台 节目 采访 时	0	_	_	_	129	context-circumstance_r	_	_
+129	说	1	_	_	_	126	explanation-justify_r	_	_
+130	“ 二元 优惠 计划 可能 要 调高 金额 至 三元 ” 的	0	_	_	_	131	elaboration-attribute_r	_	_
+131	讲法 ，	1	_	_	_	129	same-unit_m	_	_
+132	称	0	_	_	_	133	attribution-positive_r	_	_
+133	这 不 是 政府 的 立场 ，	2	_	_	_	129	joint-list_m	_	_
+134	希望	0	_	_	_	135	attribution-positive_r	_	_
+135	不 要 引起 一些 不 必要 的 误会 。	2	_	_	_	129	joint-list_m	_	_
+136	不少 政党 建议	0	_	_	_	137	attribution-positive_r	_	_
+137	政府 推出 失业 援助金 。	7	_	_	_	140	adversative-concession_r	_	_
+138	行政 长官 林郑月娥 表示 ，	3	_	_	_	140	attribution-positive_r	_	_
+139	该 建议 难以 落实 ，	2	_	_	_	140	causal-cause_r	_	_
+140	她 正 与 劳工 及 福利局 研究	4	_	_	_	37	joint-other_m	_	_
+141	放宽 在职 家庭 津贴	0	_	_	_	144	elaboration-attribute_r	_	_
+142	（ 职津 ）	0	_	_	_	141	restatement-partial_r	_	_
+143	的	1	_	_	_	141	same-unit_m	_	_
+144	申请 门槛 ，	0	_	_	_	140	same-unit_m	_	_
+145	让	1	_	_	_	140	purpose-goal_r	_	_
+146	只能 做 散工 、	0	_	_	_	148	elaboration-attribute_r	_	_
+147	工作 时数 不 多 的	0	_	_	_	146	joint-list_m	_	_
+148	市民 可以 申请 。	0	_	_	_	145	same-unit_m	_	_
+149	林郑 指 ，	1	_	_	_	150	attribution-positive_r	_	_
+150	失业 援助 涉及 大量 公帑 ，	4	_	_	_	140	joint-other_m	_	_
+151	政府 对 这 个 建议 的 态度 是 一贯 的 。	0	_	_	_	150	joint-list_m	_	_
+152	她 表示 ，	1	_	_	_	153	attribution-positive_r	_	_
+153	政府 有 很多 计划	2	_	_	_	150	explanation-evidence_r	_	_
+154	帮助 失业 或 就业 不足 的 人 。	0	_	_	_	153	purpose-attribute_r	_	_
+155	她 表示 ，	1	_	_	_	156	attribution-positive_r	_	_
+156	会 继续 创造 就业 机会 ，	2	_	_	_	153	joint-list_m	_	_
+157	研究 减少 职津 工作 时间 。	0	_	_	_	156	joint-list_m	_	_
+158	目前 ， 职津 的 要求 分为 三 个 等级 。	3	_	_	_	159	organization-preparation_r	_	_
+159	对于 非 单亲 家庭 ， 可 申请 基本 津贴 ，	2	_	_	_	156	context-background_r	_	_
+160	每 月 至少 工作 144 小时 ；	0	_	_	_	159	elaboration-attribute_r	_	_
+161	单亲 家庭 至少 需要 36 小时 。	1	_	_	_	159	joint-list_m	_	_
+162	补贴 金额 从 500 元 到 1400 港元 不等 。	2	_	_	_	159	joint-list_m	_	_
+163	劳动 保障局 局长 罗致光 表示 ，	0	_	_	_	164	attribution-positive_r	_	_
+164	职津 的 设计 特点 是 “ 多 劳 多 得 ” 。	3	_	_	_	175	context-background_r	_	_
+165	疫情 期间 ， 部分 市民 就业 不足 ，	1	_	_	_	164	explanation-evidence_r	_	_
+166	收入 减少 ，	0	_	_	_	165	joint-list_m	_	_
+167	同时 失去 高额 补贴 。	0	_	_	_	165	joint-list_m	_	_
+168	罗致光 还 提到 ，	2	_	_	_	170	attribution-positive_r	_	_
+169	有 一些 工种 的 月薪 超过 了 职津 收入 上限 ，	1	_	_	_	170	adversative-concession_r	_	_
+170	但	1	_	_	_	165	joint-other_m	_	_
+171	当 没有 开工 时 ，	0	_	_	_	172	context-circumstance_r	_	_
+172	就 无法 满足 职津 的 要求 。	0	_	_	_	170	same-unit_m	_	_
+173	他 表示 ，	2	_	_	_	175	attribution-positive_r	_	_
+174	政府 正在 探讨	0	_	_	_	175	attribution-positive_r	_	_
+175	如何 处理 ，	5	_	_	_	140	joint-other_m	_	_
+176	待 构思 成熟 后	0	_	_	_	177	contingency-condition_r	_	_
+177	会 公布 方案 。	1	_	_	_	175	joint-sequence_m	_	_
+178	社会 福利署 同日	2	_	_	_	182	organization-preparation_r	_	_
+179	（ 19日 ）	0	_	_	_	178	elaboration-attribute_r	_	_
+180	发表 最新 的 领取 综援 个案 数字 。	1	_	_	_	178	same-unit_m	_	_
+181	2020年 12月份 整体 领取 综援 的	0	_	_	_	182	elaboration-attribute_r	_	_
+182	个案 较 11月份 增加 476 宗 ，	6	_	_	_	140	explanation-evidence_r	_	_
+183	按 月 升幅 为 0.2% 。	1	_	_	_	182	joint-list_m	_	_
+184	罗致光	3	_	_	_	188	attribution-positive_r	_	_
+185	亦 就 法定 假日 数量 逐渐 增加	0	_	_	_	186	context-background_r	_	_
+186	称 ：	0	_	_	_	184	same-unit_m	_	_
+187	“ 我们 认为	1	_	_	_	188	attribution-positive_r	_	_
+188	一定 可以 解决 十多 年 来	4	_	_	_	37	joint-other_m	_	_
+189	关于 法定 假日 与 公众 假期 接轨 的	0	_	_	_	190	elaboration-attribute_r	_	_
+190	矛盾 或 争议 案 。	0	_	_	_	188	same-unit_m	_	_
+191	会 在 咨询 人力 事务 委员会 后 ，	0	_	_	_	192	context-circumstance_r	_	_
+192	进行 立法 程序 。	2	_	_	_	188	mode-manner_r	_	_
+193	当 我们 完成 内部 程序 后 ，	0	_	_	_	194	context-circumstance_r	_	_
+194	我们 会 向 立法会 提交 条例 草案 。 ”	1	_	_	_	192	joint-sequence_m	_	_
+195	载列 最新 劳工 统计 数字 的	0	_	_	_	196	elaboration-attribute_r	_	_
+196	统计表 可 于 政府 统计处 网站 下载 。	5	_	_	_	10	elaboration-additional_r	_	_

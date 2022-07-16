@@ -1,0 +1,217 @@
+1	据报	0	_	_	_	2	attribution-positive_r	_	_
+2	台湾 与 帕劳 的 “ 旅游 泡泡 ” 有 重大 进展	8	_	_	_	20	organization-heading_r	_	_
+3	【 2021年 3月 7日 讯 】	7	_	_	_	20	context-circumstance_r	_	_
+4	据报	1	_	_	_	6	attribution-positive_r	_	_
+5	台湾 与 帕劳 之间 讨论 已 久 的	0	_	_	_	6	elaboration-attribute_r	_	_
+6	“ 旅游 泡泡 ” 将 有 重大 进展 。	6	_	_	_	20	context-background_r	_	_
+7	据报	2	_	_	_	9	attribution-positive_r	_	_
+8	旅游 业者 传出 ，	1	_	_	_	9	attribution-positive_r	_	_
+9	帕劳 总统 预计 15日 来 台	2	_	_	_	6	explanation-evidence_r	_	_
+10	宣布 相关 措施 ，	0	_	_	_	9	joint-list_m	_	_
+11	双方 打算	0	_	_	_	12	attribution-positive_r	_	_
+12	每 周 各 飞 8 次 ，	3	_	_	_	9	joint-list_m	_	_
+13	指挥 中心 将 在 2 、 3 天 内 讨论 相关 细节 。	3	_	_	_	9	joint-list_m	_	_
+14	苹果 日报 引述 消息	1	_	_	_	17	attribution-positive_r	_	_
+15	报道 ，	0	_	_	_	14	joint-list_m	_	_
+16	若 研议 顺利 ，	0	_	_	_	17	contingency-condition_r	_	_
+17	最 快 3月 中旬 即 可 开放 “ 旅游 泡泡 ” 。	4	_	_	_	9	joint-other_m	_	_
+18	中央社 引述 旅游 业者	1	_	_	_	20	attribution-positive_r	_	_
+19	报道 ，	0	_	_	_	18	joint-list_m	_	_
+20	目前 台 帛 “ 旅游 泡泡 ” 计划 是 采用 “ 团进 团出 ” ，	0	_	_	_	0	ROOT	_	_
+21	双方 每 周 各 飞 8 班 。	0	_	_	_	20	joint-list_m	_	_
+22	中华 航空 每 周 6 班 ，	0	_	_	_	21	elaboration-additional_r	_	_
+23	长荣 航空 每 周 2 班 ，	0	_	_	_	22	joint-list_m	_	_
+24	帕劳 太平洋 航空 每 周 8 班 ，	0	_	_	_	22	joint-list_m	_	_
+25	由 台湾 虎航 湿租 。	0	_	_	_	24	elaboration-additional_r	_	_
+26	湿租 是 指 航空 公司 向 另 一 家 公司 租赁 飞机 以及 机组 人员 。	0	_	_	_	25	elaboration-attribute_r	_	_
+27	苹果 日报 引述 知情 人士	1	_	_	_	29	attribution-positive_r	_	_
+28	报道 ，	0	_	_	_	27	joint-list_m	_	_
+29	每 架 飞机 只 搭载 7成 旅客 。	2	_	_	_	20	joint-other_m	_	_
+30	计划	0	_	_	_	31	attribution-positive_r	_	_
+31	前往 帕劳 的	1	_	_	_	32	elaboration-attribute_r	_	_
+32	旅客 ， 必须 在 飞行 前 3 天 提供 核酸 测试	0	_	_	_	29	joint-other_m	_	_
+33	（ PCR ）	0	_	_	_	32	elaboration-attribute_r	_	_
+34	阴性 报告 ，	2	_	_	_	32	same-unit_m	_	_
+35	在 帕劳 机场 再 接受 1 次 采检 。	3	_	_	_	32	joint-sequence_m	_	_
+36	不过 旅客 回台 后	0	_	_	_	37	context-circumstance_r	_	_
+37	仍 需 居家 检疫 5 天 ，	3	_	_	_	32	joint-sequence_m	_	_
+38	检疫 结束 前	0	_	_	_	39	context-circumstance_r	_	_
+39	会 再 进行 PCR 采检 。	3	_	_	_	32	joint-sequence_m	_	_
+40	而 旅客 入境 帕劳 后 ，	0	_	_	_	41	context-circumstance_r	_	_
+41	必须 在 当地 机场 接受 检 ；	0	_	_	_	29	joint-other_m	_	_
+42	报道 指	0	_	_	_	43	attribution-positive_r	_	_
+43	由于 帕劳 现有 的 检验量 难以 承受 ，	1	_	_	_	45	causal-cause_r	_	_
+44	盼	0	_	_	_	45	attribution-positive_r	_	_
+45	台湾 能够 支援 当地 。	1	_	_	_	41	elaboration-additional_r	_	_
+46	联合报 引述 旅游 业者	2	_	_	_	49	attribution-positive_r	_	_
+47	报道 ，	0	_	_	_	46	joint-list_m	_	_
+48	台 帛 “ 旅游 泡泡 ” 一直 在 谈 ，	1	_	_	_	49	adversative-concession_r	_	_
+49	但 “ 一直 压 着	2	_	_	_	20	joint-other_m	_	_
+50	等 帕劳 总统 来	0	_	_	_	51	contingency-condition_r	_	_
+51	才 会 宣布 ” 。	0	_	_	_	49	joint-list_m	_	_
+52	报道 称 ，	3	_	_	_	55	attribution-positive_r	_	_
+53	业界 传出	1	_	_	_	55	attribution-positive_r	_	_
+54	3月 15日 访台 时	0	_	_	_	55	context-circumstance_r	_	_
+55	将 拍板 。	3	_	_	_	49	explanation-evidence_r	_	_
+56	但 细节 仍 在 规划 中 ，	2	_	_	_	55	adversative-contrast_m	_	_
+57	尚 未 完全 定案 。	0	_	_	_	56	joint-list_m	_	_
+58	中央社	3	_	_	_	61	attribution-positive_r	_	_
+59	引述 旅游 业者 的 话	0	_	_	_	60	mode-means_r	_	_
+60	说 ，	0	_	_	_	58	same-unit_m	_	_
+61	帕劳	2	_	_	_	20	joint-other_m	_	_
+62	受限于 机场 ，	0	_	_	_	63	causal-cause_r	_	_
+63	只 能 起降 100 座 以上 的 单走道 飞机 ，	0	_	_	_	61	same-unit_m	_	_
+64	旅客量 不 多 ，	1	_	_	_	61	causal-result_r	_	_
+65	但 总算 是 个 好 的 开始 ，	2	_	_	_	61	evaluation-comment_r	_	_
+66	希望	0	_	_	_	67	attribution-positive_r	_	_
+67	未来 能 有 更 多 旅游 泡泡 。	0	_	_	_	65	joint-list_m	_	_
+68	苹果 日报 引述 知情 人士	4	_	_	_	70	attribution-positive_r	_	_
+69	报道 ，	0	_	_	_	68	joint-list_m	_	_
+70	帕劳 旅游 泡泡 原 计划 周三	2	_	_	_	20	joint-other_m	_	_
+71	（ 3月 10日 ）	0	_	_	_	70	elaboration-attribute_r	_	_
+72	由 指挥 中心 召开 会议	0	_	_	_	73	mode-means_r	_	_
+73	讨论 防疫 细节 。	1	_	_	_	70	same-unit_m	_	_
+74	如果 一切 顺利 ，	1	_	_	_	75	contingency-condition_r	_	_
+75	将 于 3月 15日 正式 启动 ，	2	_	_	_	70	elaboration-additional_r	_	_
+76	3月 20日 左右 会 有 首航 。	0	_	_	_	75	joint-sequence_m	_	_
+77	前往 帕劳 的	0	_	_	_	78	elaboration-attribute_r	_	_
+78	旅客 ，	3	_	_	_	70	joint-other_m	_	_
+79	在 结束 5 天 或 7 天 的 行程 后	0	_	_	_	80	context-circumstance_r	_	_
+80	返回 台湾 ，	1	_	_	_	78	same-unit_m	_	_
+81	帕劳 总统 惠恕仁 也 将	2	_	_	_	78	joint-list_m	_	_
+82	搭乘 此 班机	0	_	_	_	83	mode-means_r	_	_
+83	前往 台湾 ，	0	_	_	_	81	same-unit_m	_	_
+84	宣示 两国 友好 关系 ，	1	_	_	_	81	joint-list_m	_	_
+85	重启 旅游 泡沫 ，	1	_	_	_	81	joint-list_m	_	_
+86	振兴 两国 旅游 经济 。	1	_	_	_	81	joint-list_m	_	_
+87	不过 ， 苹果 日报 引述 知情 人士	1	_	_	_	89	attribution-positive_r	_	_
+88	表示 ，	0	_	_	_	87	joint-list_m	_	_
+89	双方 对 上述 方案 仍 有 少许 分歧 。	5	_	_	_	70	elaboration-additional_r	_	_
+90	例如 ， 有 台湾 专家 认为 ，	1	_	_	_	93	attribution-positive_r	_	_
+91	旅客 在 抵达 帕劳 前	0	_	_	_	92	context-circumstance_r	_	_
+92	已 提供 PCR 阴性 报告 ，	0	_	_	_	93	causal-cause_r	_	_
+93	没有 必要 在 帕劳 机场 再 做 一 次 采检 ；	0	_	_	_	89	explanation-evidence_r	_	_
+94	另外 ， 也 有 专家 认为 ，	3	_	_	_	100	attribution-positive_r	_	_
+95	由于 双方 没有 社区 感染 ，	2	_	_	_	100	causal-cause_r	_	_
+96	疫情 控制 顺利 ，	0	_	_	_	95	joint-list_m	_	_
+97	回台 后 没有 必要 进行 采检 ，	1	_	_	_	100	adversative-antithesis_r	_	_
+98	甚至 没有 必要 进行 居家 检疫 ，	0	_	_	_	97	joint-list_m	_	_
+99	称	0	_	_	_	100	attribution-positive_r	_	_
+100	自主 健康 管理 即可 。	2	_	_	_	93	joint-list_m	_	_
+101	报道 指	1	_	_	_	102	attribution-positive_r	_	_
+102	这些 不同 的 意见 都 将 在 周三 的 会议 上 进行 讨论 和 整合 ，	2	_	_	_	89	elaboration-additional_r	_	_
+103	所有 的 计划 还 需要 指挥 中心 最后 确定 。	0	_	_	_	102	joint-list_m	_	_
+104	苹果 日报 引述 消息	3	_	_	_	110	attribution-positive_r	_	_
+105	称 ，	0	_	_	_	104	joint-list_m	_	_
+106	如果	2	_	_	_	110	contingency-condition_r	_	_
+107	回台 后 检疫 期满 前	0	_	_	_	108	context-circumstance_r	_	_
+108	需要 检疫 ，	0	_	_	_	106	same-unit_m	_	_
+109	目前 计划	1	_	_	_	110	attribution-positive_r	_	_
+110	在 北 、 中 、 南 、 东 等 地 选择 几 家 医院 ，	3	_	_	_	89	joint-other_m	_	_
+111	检疫 费用 也 将 从 目前 的 7000 元 新台币 降 至 5500 或 5000 元 ，	0	_	_	_	110	joint-list_m	_	_
+112	以 降低 旅客 成本 。	0	_	_	_	111	purpose-goal_r	_	_
+113	中央 流行 疫情 指挥 中心 发言人 庄人祥 今天	2	_	_	_	116	attribution-positive_r	_	_
+114	（ 3月 7日 ）	0	_	_	_	113	elaboration-attribute_r	_	_
+115	在 记者会 上 表示 ， 帕劳 旅游 泡泡 。	1	_	_	_	113	same-unit_m	_	_
+116	此前 已 派 防疫 医生 到 帕劳	3	_	_	_	20	joint-other_m	_	_
+117	了解 开放 日程 等 细节 。	0	_	_	_	116	purpose-goal_r	_	_
+118	2 至 3 天 内 将 进行 更 详细 的 讨论 ，	1	_	_	_	116	joint-sequence_m	_	_
+119	讨论 后 将 公布 。	1	_	_	_	116	joint-sequence_m	_	_
+120	不过 指	0	_	_	_	121	attribution-positive_r	_	_
+121	最终 的 计划 还 没有 确定 下来 。	3	_	_	_	116	adversative-concession_r	_	_
+122	庄人祥	3	_	_	_	126	attribution-positive_r	_	_
+123	解释	0	_	_	_	124	purpose-goal_r	_	_
+124	说 ，	0	_	_	_	122	same-unit_m	_	_
+125	之前 暂停 讨论 帕劳 旅游 泡泡 ， 主要 是 因为 2月 28日 的 秋冬 专案 。	2	_	_	_	126	context-background_r	_	_
+126	目前 当地 的 当地 医疗 、 检验 由 均 由 新光 医院 支援 ，	4	_	_	_	116	joint-other_m	_	_
+127	也 只 对 台湾 的 航班 开放 ，	0	_	_	_	126	joint-list_m	_	_
+128	不 存在	1	_	_	_	126	causal-result_r	_	_
+129	因 其他 因素	0	_	_	_	130	causal-cause_r	_	_
+130	而 耽搁 的	0	_	_	_	131	elaboration-attribute_r	_	_
+131	情况 。	0	_	_	_	128	same-unit_m	_	_
+132	帕劳 当地 从 未 发生 疫情 ，	1	_	_	_	128	explanation-evidence_r	_	_
+133	目前 只 开放 台湾 的 飞机	0	_	_	_	132	joint-list_m	_	_
+134	可以 前往 当地 。	0	_	_	_	133	elaboration-attribute_r	_	_
+135	指	1	_	_	_	136	attribution-positive_r	_	_
+136	台湾 对 当地 情况 的 掌控度 很 高 ，	0	_	_	_	132	joint-list_m	_	_
+137	双方 的 疫情 讯息 也 相当 透明 。	0	_	_	_	136	joint-list_m	_	_
+138	至于 帕劳 总统 是否 来台 ，	2	_	_	_	140	organization-preparation_r	_	_
+139	庄人祥 说 ：	1	_	_	_	140	attribution-positive_r	_	_
+140	“ 这 要 问 外交部 ，	4	_	_	_	116	joint-other_m	_	_
+141	指挥 中心 并不 清楚 。 ”	0	_	_	_	140	adversative-antithesis_r	_	_
+142	帕劳 当地 没有 社区 感染者 。	1	_	_	_	143	context-background_r	_	_
+143	对于	2	_	_	_	147	context-background_r	_	_
+144	从 帕劳 返台 的	0	_	_	_	145	elaboration-attribute_r	_	_
+145	民众 是否 只 需 管理 自己 的 健康 ，	0	_	_	_	143	same-unit_m	_	_
+146	庄仁祥 表示 ，	1	_	_	_	147	attribution-positive_r	_	_
+147	这 部分 还 在 讨论 中 ，	4	_	_	_	116	joint-other_m	_	_
+148	相关 配套 设施 还 在 讨论 中 。	0	_	_	_	147	joint-list_m	_	_
+149	至于 帕劳 目前	4	_	_	_	155	context-background_r	_	_
+150	对 入境 的 外国人 采取 的	0	_	_	_	151	elaboration-attribute_r	_	_
+151	检疫 措施 ，	0	_	_	_	149	same-unit_m	_	_
+152	庄仁祥 表示 ，	3	_	_	_	155	attribution-positive_r	_	_
+153	据 他 了解 ，	2	_	_	_	155	attribution-positive_r	_	_
+154	帕劳 目前 要求	1	_	_	_	155	attribution-positive_r	_	_
+155	入境 后 至少 要 检疫 5 天 ，	4	_	_	_	116	joint-other_m	_	_
+156	检疫 期满 后 ，	0	_	_	_	157	context-circumstance_r	_	_
+157	检疫 为 阴性	0	_	_	_	155	joint-sequence_m	_	_
+158	再 进行 自主 健康 管理 。	0	_	_	_	155	joint-sequence_m	_	_
+159	中央社 引述 中央 流行 疫情 指挥 中心 副指挥官 陈宗彦	2	_	_	_	166	attribution-positive_r	_	_
+160	指 ，	0	_	_	_	159	joint-list_m	_	_
+161	指挥 中心 先前 曾	1	_	_	_	166	adversative-concession_r	_	_
+162	针对 部分 国家	0	_	_	_	163	elaboration-additional_r	_	_
+163	研议 开放 旅游 泡 ，	0	_	_	_	161	same-unit_m	_	_
+164	并 曾 派 两 名 医师 到 当地	1	_	_	_	161	joint-list_m	_	_
+165	了解 情况 ，	0	_	_	_	164	purpose-goal_r	_	_
+166	但 后来	5	_	_	_	116	joint-other_m	_	_
+167	因 疫情 等 因素	0	_	_	_	168	causal-cause_r	_	_
+168	而 延滞 。	0	_	_	_	166	same-unit_m	_	_
+169	但 他 坦言 ，	2	_	_	_	170	attribution-positive_r	_	_
+170	近期 确实 有	3	_	_	_	166	adversative-contrast_m	_	_
+171	重启 旅游 泡泡 的	0	_	_	_	172	elaboration-attribute_r	_	_
+172	计划 ，	0	_	_	_	170	same-unit_m	_	_
+173	预计 未来 两 三 天 会 召开 会议 ，	1	_	_	_	170	joint-list_m	_	_
+174	讨论 延续 之前 的 计划 ，	0	_	_	_	173	purpose-goal_r	_	_
+175	相关 的 开放 细节 和 时程	1	_	_	_	170	joint-list_m	_	_
+176	要 等到 会议 结束 后	0	_	_	_	177	context-circumstance_r	_	_
+177	才 会 有 一 个 比较 明确 的 结论 。	0	_	_	_	175	same-unit_m	_	_
+178	观光 局长 张锡聪 低调 回应 ，	0	_	_	_	179	attribution-positive_r	_	_
+179	一切 听从 指挥 中心 的 规划 和 安排 。	5	_	_	_	116	joint-other_m	_	_
+180	有 旅游 业者 表示 ，	2	_	_	_	186	attribution-positive_r	_	_
+181	今年 1月 赴 帕劳	0	_	_	_	183	elaboration-attribute_r	_	_
+182	参加 当地 总统 就职 典礼 的	0	_	_	_	181	joint-list_m	_	_
+183	外交 部长 吴钊燮	0	_	_	_	186	attribution-positive_r	_	_
+184	在 接受 当地 媒体 采访 时 ，	0	_	_	_	185	context-circumstance_r	_	_
+185	表示	1	_	_	_	183	same-unit_m	_	_
+186	看好 台湾 与 帕劳 之间 建立 旅游 泡泡 ，	5	_	_	_	116	joint-other_m	_	_
+187	但 提到	0	_	_	_	188	attribution-positive_r	_	_
+188	其中 有 挑战 。	1	_	_	_	186	adversative-contrast_m	_	_
+189	外交部 也 在 1月 的 记者会 上 表示 ，	1	_	_	_	190	attribution-positive_r	_	_
+190	政府 将 继续 致力于 推动 台湾 与 帕劳 之间 的 安全 旅游 泡沫 ，	3	_	_	_	186	joint-list_m	_	_
+191	同时 确保 防疫 工作 到位 。	0	_	_	_	190	joint-list_m	_	_
+192	中央社 引述 帕劳 媒体	3	_	_	_	197	attribution-positive_r	_	_
+193	报道 ，	0	_	_	_	192	joint-list_m	_	_
+194	帕劳 新任 总统 惠恕仁	2	_	_	_	197	attribution-positive_r	_	_
+195	（ SurangelWhipps ）	0	_	_	_	194	restatement-partial_r	_	_
+196	极力 主张	1	_	_	_	194	same-unit_m	_	_
+197	与 台湾 建立 台湾 与 帕劳 “ 无菌 廊道 ”	4	_	_	_	20	joint-other_m	_	_
+198	（ sterile corridor ） ，	0	_	_	_	197	restatement-partial_r	_	_
+199	以 恢复 和 加强 两国 在 医药 、 商业 等 领域 的 交流 与 合作 ，	1	_	_	_	197	purpose-goal_r	_	_
+200	并 重振	0	_	_	_	199	joint-list_m	_	_
+201	受 疫情 影响 的	0	_	_	_	202	elaboration-attribute_r	_	_
+202	旅游业 。	0	_	_	_	200	same-unit_m	_	_
+203	惠恕仁 在 1月 21日 的 揭牌 仪式 上 致辞 时	0	_	_	_	204	context-circumstance_r	_	_
+204	表示 ，	1	_	_	_	206	attribution-positive_r	_	_
+205	“ 无菌 廊道 ” 一旦 成功 建立 ，	0	_	_	_	206	contingency-condition_r	_	_
+206	台湾 和 帕劳 将 是 世界 上 第一 个 首例 。	4	_	_	_	197	elaboration-additional_r	_	_
+207	帕劳 ，	5	_	_	_	20	context-background_r	_	_
+208	又 称 帛琉 ，	0	_	_	_	207	elaboration-attribute_r	_	_
+209	是 位于 西 太平洋 的 岛屿 国家 ，	1	_	_	_	207	same-unit_m	_	_
+210	四 季 皆 为 夏天 。	2	_	_	_	207	joint-list_m	_	_
+211	帕劳 也 是 台湾 邦交国 之一 ，	3	_	_	_	207	joint-other_m	_	_
+212	台湾 与 帕劳 相互 给予 对方 90 天 入境 免签 待遇 。	0	_	_	_	211	explanation-evidence_r	_	_
+213	台湾 由 出发 到 帕劳 只 需 4 小时 的 飞行 时间 ，	3	_	_	_	207	joint-other_m	_	_
+214	当地 比 台湾 快 1 小时 。	0	_	_	_	213	joint-list_m	_	_
+215	左临 菲律宾 ，	3	_	_	_	207	joint-other_m	_	_
+216	右靠 是 关岛 ，	0	_	_	_	215	joint-list_m	_	_
+217	上方 为 菲律宾海 。	0	_	_	_	215	joint-list_m	_	_

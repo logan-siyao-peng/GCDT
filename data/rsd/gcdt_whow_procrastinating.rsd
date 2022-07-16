@@ -1,0 +1,358 @@
+1	如何 停止 拖延	9	_	_	_	21	organization-heading_r	_	_
+2	如果 你 是 慢性 拖延症 患者 ，	1	_	_	_	3	contingency-condition_r	_	_
+3	你 一定 知道	2	_	_	_	9	context-background_r	_	_
+4	把 所有 事情 堆到 最后 一 分钟	0	_	_	_	5	contingency-condition_r	_	_
+5	来 做 的	0	_	_	_	6	elaboration-attribute_r	_	_
+6	压力 和 痛苦 。	0	_	_	_	3	same-unit_m	_	_
+7	即使 你 想 做事 ，	0	_	_	_	8	adversative-concession_r	_	_
+8	大概 也 很 难 采取 行动 。	2	_	_	_	3	elaboration-additional_r	_	_
+9	很多 方法 可以 立刻 治愈 拖延症 ，	8	_	_	_	21	explanation-motivation_r	_	_
+10	所以 赶快 往下 读 。	0	_	_	_	9	causal-result_r	_	_
+11	此外 ， 你 也 可以 改变 生活 方式 ，	1	_	_	_	9	elaboration-additional_r	_	_
+12	防止 拖延症 再次 发作 。	0	_	_	_	11	purpose-goal_r	_	_
+13	方法 1	0	_	_	_	14	organization-preparation_r	_	_
+14	改变 你 的 观点	6	_	_	_	21	organization-heading_r	_	_
+15	1 不 要	4	_	_	_	21	context-background_r	_	_
+16	因为 拖延	0	_	_	_	17	causal-cause_r	_	_
+17	而 惩罚 自己 。	0	_	_	_	15	same-unit_m	_	_
+18	压力 越 大 ，	0	_	_	_	19	contingency-condition_r	_	_
+19	你 就 越 难 把 事情 做完 。	1	_	_	_	15	joint-list_m	_	_
+20	不 要 对 自己 生气 ，	1	_	_	_	21	adversative-antithesis_r	_	_
+21	继续 做事 ，	0	_	_	_	0	ROOT	_	_
+22	把 所有 注意力 放在	0	_	_	_	21	joint-list_m	_	_
+23	要 做 的	0	_	_	_	24	elaboration-attribute_r	_	_
+24	事情 上 。	0	_	_	_	22	same-unit_m	_	_
+25	-LSB- 1 -RSB-	2	_	_	_	21	explanation-evidence_r	_	_
+26	自责 和 后悔 等 情绪 很 容易 让 人 感觉 筋疲力尽 。	3	_	_	_	21	explanation-justify_r	_	_
+27	假设 你 发现	1	_	_	_	29	attribution-positive_r	_	_
+28	两 周 前 就 该 动笔 的	0	_	_	_	29	elaboration-attribute_r	_	_
+29	两千 字 短文 到 现在 还 没 写 ，	1	_	_	_	30	contingency-condition_r	_	_
+30	浪费 时间 自责 只 会 让 自己 变得 更加 疲惫 和 沮丧 ，	0	_	_	_	26	explanation-evidence_r	_	_
+31	并 施加 压力 ，	0	_	_	_	30	joint-list_m	_	_
+32	让 你 感觉	0	_	_	_	33	attribution-positive_r	_	_
+33	几乎 不 可能 完成 这 个 任务 。	0	_	_	_	30	joint-list_m	_	_
+34	2	5	_	_	_	41	context-background_r	_	_
+35	花 15 分钟	0	_	_	_	36	mode-means_r	_	_
+36	处理 你 最 重要 的 事 。	0	_	_	_	34	same-unit_m	_	_
+37	与其 去 思考	0	_	_	_	38	attribution-positive_r	_	_
+38	做完 整个 工作 需要 多少 时间 ，	0	_	_	_	39	adversative-concession_r	_	_
+39	不如 直接 动手 。	1	_	_	_	34	elaboration-additional_r	_	_
+40	告诉 自己	0	_	_	_	41	attribution-positive_r	_	_
+41	你 只 需要 做 15 分钟 的 事情 ，	5	_	_	_	21	joint-list_m	_	_
+42	这 能 减少	1	_	_	_	41	explanation-justify_r	_	_
+43	要 在 短 时间 完成 整个 任务 所 带来 的	0	_	_	_	44	elaboration-attribute_r	_	_
+44	恐惧 。	0	_	_	_	42	same-unit_m	_	_
+45	相信 在	1	_	_	_	42	joint-list_m	_	_
+46	你 停止 工作 的	0	_	_	_	47	elaboration-attribute_r	_	_
+47	时候 ， 已经 过去 不止 15 分钟 了 。	0	_	_	_	45	same-unit_m	_	_
+48	-LSB- 2 -RSB-	2	_	_	_	41	explanation-evidence_r	_	_
+49	如果 感觉	0	_	_	_	50	attribution-positive_r	_	_
+50	15 分钟 还是 太 长 ，	0	_	_	_	51	contingency-condition_r	_	_
+51	不如 给 自己 规定 3 分钟 的 工作量 。	3	_	_	_	41	adversative-concession_r	_	_
+52	-LSB- 3 -RSB-	1	_	_	_	51	explanation-evidence_r	_	_
+53	做完 一 轮 的 工作 后 ，	0	_	_	_	54	context-circumstance_r	_	_
+54	可以 休息 2 分钟 ，	4	_	_	_	41	elaboration-additional_r	_	_
+55	再 投入 到 下 一 轮 15 分钟 的 工作 之中 。	1	_	_	_	54	joint-sequence_m	_	_
+56	3 把 任务 拆分 成 几 个 小 部分 。	6	_	_	_	61	organization-preparation_r	_	_
+57	一次性 完成 一 整 篇 文章 或者 一 个 星期 的 工作量 ， 可能 会 让 你 感觉 头痛 。	3	_	_	_	61	context-background_r	_	_
+58	与其 把	1	_	_	_	61	adversative-antithesis_r	_	_
+59	你 要 做 的	0	_	_	_	60	elaboration-attribute_r	_	_
+60	所有 事情 当作 一 个 巨大 的 障碍 ，	0	_	_	_	58	same-unit_m	_	_
+61	不如 把 它们 划分 成 几 个 小 部分 ，	5	_	_	_	21	joint-list_m	_	_
+62	从 最 小 的 任务 做起 ，	0	_	_	_	61	joint-sequence_m	_	_
+63	一 步 一 步 地 向前 推进 。	0	_	_	_	61	joint-sequence_m	_	_
+64	-LSB- 4 -RSB-	2	_	_	_	61	explanation-evidence_r	_	_
+65	举 个 例子 ，	3	_	_	_	70	organization-phatic_r	_	_
+66	与其 想 着	2	_	_	_	70	adversative-antithesis_r	_	_
+67	要 在 今晚 10点 之前	0	_	_	_	68	context-circumstance_r	_	_
+68	完成 论文 ，	0	_	_	_	66	same-unit_m	_	_
+69	不如 告诉 自己	1	_	_	_	70	attribution-positive_r	_	_
+70	就 简单 地 做 个 大纲 ，	4	_	_	_	61	explanation-evidence_r	_	_
+71	然后 扩展 每 个 部分 ，	0	_	_	_	70	joint-sequence_m	_	_
+72	接着 找好 引文 。	0	_	_	_	70	joint-sequence_m	_	_
+73	考虑	0	_	_	_	74	attribution-positive_r	_	_
+74	采用 番茄 工作法 。	5	_	_	_	61	joint-other_m	_	_
+75	番茄 工作法 可以 合理 安排 工作 ，	1	_	_	_	74	explanation-justify_r	_	_
+76	让 你 每 工作 一 段 时间 休息 一 次 。	0	_	_	_	75	joint-list_m	_	_
+77	-LSB- 5 -RSB-	1	_	_	_	75	explanation-evidence_r	_	_
+78	不 要 列 一 个 冗长 、 无序 的 待办 清单 。	1	_	_	_	80	adversative-antithesis_r	_	_
+79	这 种 方式 通常 都 会 失败 。	0	_	_	_	78	evaluation-comment_r	_	_
+80	把 所有 待办 事项 分为 “ 家庭 ” 、 “ 工作 ” 或者 “ 趣味 ” 等 类别 ，	5	_	_	_	61	joint-other_m	_	_
+81	然后 每天 尝试 完成 各 分类 里 的 部分 任务 。	0	_	_	_	80	joint-sequence_m	_	_
+82	4 从 最 难 的 事情 做起 。	5	_	_	_	90	organization-preparation_r	_	_
+83	在 早上 做好 计划 ，	2	_	_	_	90	context-background_r	_	_
+84	并 先 做 最 难 的 任务 。	0	_	_	_	83	joint-list_m	_	_
+85	人 一 天 中 精力 最 充沛 的	0	_	_	_	86	elaboration-attribute_r	_	_
+86	时候 ， 一般 是	1	_	_	_	90	context-background_r	_	_
+87	吃过 早饭 ，	0	_	_	_	89	elaboration-attribute_r	_	_
+88	完全 从 睡梦 中 清醒 的	0	_	_	_	87	joint-list_m	_	_
+89	时候 。	1	_	_	_	86	same-unit_m	_	_
+90	这 个 时候 适合 处理 任务 清单 中 最 难 的 事情 。	5	_	_	_	21	joint-list_m	_	_
+91	一旦 做完 了 最 难 的 事情 ，	0	_	_	_	92	contingency-condition_r	_	_
+92	你 会 感觉 轻松 很多 。	0	_	_	_	90	explanation-justify_r	_	_
+93	而 剩下 的 时间 ， 你 便 可以 处理 一些 更 简单 的 任务 了 。	3	_	_	_	90	joint-list_m	_	_
+94	弄 清楚 你 在 什么 时候 最 有 动力 、 最 机敏 。	4	_	_	_	90	joint-other_m	_	_
+95	计划 好 一 天 ，	0	_	_	_	94	joint-list_m	_	_
+96	充分 利用 这 个 时间 。	0	_	_	_	94	joint-list_m	_	_
+97	比如说 ， 你 在 早上 精力 最 充沛 ，	1	_	_	_	99	contingency-condition_r	_	_
+98	那么 在 醒来 之后 ，	0	_	_	_	99	context-circumstance_r	_	_
+99	立刻 做 最 困难 的 工作 。	1	_	_	_	94	explanation-evidence_r	_	_
+100	但 如果 你 早上 总是 昏昏 沉沉 ，	3	_	_	_	102	contingency-condition_r	_	_
+101	那 一 开始 就 做 最 困难 的 工作 ，	2	_	_	_	102	causal-cause_r	_	_
+102	你 会 更 容易	2	_	_	_	99	adversative-contrast_m	_	_
+103	因为 粗心	0	_	_	_	104	causal-cause_r	_	_
+104	而 犯错 ，	0	_	_	_	102	same-unit_m	_	_
+105	或者	1	_	_	_	102	joint-list_m	_	_
+106	因为 工作 不 顺利	0	_	_	_	107	causal-cause_r	_	_
+107	而 受到 打击 。	0	_	_	_	105	same-unit_m	_	_
+108	5 给 自己 打气 。	5	_	_	_	109	organization-preparation_r	_	_
+109	“ 自我 对话 ” 是	5	_	_	_	21	joint-list_m	_	_
+110	让 自己 镇定 ，	0	_	_	_	113	elaboration-attribute_r	_	_
+111	集中 精神	0	_	_	_	110	joint-list_m	_	_
+112	并 达成 目标 的	0	_	_	_	110	joint-list_m	_	_
+113	好 方法 。	0	_	_	_	109	same-unit_m	_	_
+114	叫 自己 的 名字 ，	1	_	_	_	109	explanation-evidence_r	_	_
+115	跟 自己 对话 ，	0	_	_	_	114	joint-list_m	_	_
+116	告诉 自己	0	_	_	_	117	attribution-positive_r	_	_
+117	一定 能 做到 。	0	_	_	_	114	joint-list_m	_	_
+118	-LSB- 6 -RSB-	2	_	_	_	109	explanation-evidence_r	_	_
+119	你 可以 像 这样 跟 自己 说话 ：	3	_	_	_	122	attribution-positive_r	_	_
+120	“ 小明 ，	2	_	_	_	122	organization-phatic_r	_	_
+121	我 知道	1	_	_	_	122	attribution-positive_r	_	_
+122	这 周 你 很 辛苦 、 很 不 容易 ，	3	_	_	_	109	explanation-evidence_r	_	_
+123	但 你 已经 写过 无数 篇 文章 了 ，	0	_	_	_	124	causal-cause_r	_	_
+124	这 次 也 一定 可以 的 。 ”	0	_	_	_	122	adversative-contrast_m	_	_
+125	你 也 可以 试 着 问 自己 ：	2	_	_	_	127	attribution-positive_r	_	_
+126	“ 小明 ，	1	_	_	_	127	attribution-positive_r	_	_
+127	你 怎么 这么 紧张 啊 ？	4	_	_	_	122	joint-list_m	_	_
+128	你 知道	0	_	_	_	129	attribution-positive_r	_	_
+129	你 可以 的 。 ”	0	_	_	_	127	joint-list_m	_	_
+130	如果 可以 ，	0	_	_	_	131	contingency-condition_r	_	_
+131	大声 地 自我 鼓励 。	4	_	_	_	109	elaboration-additional_r	_	_
+132	如果 你 在 公共 场所 ，	0	_	_	_	133	contingency-condition_r	_	_
+133	可以 在 脑中 默念 这些 话 。	1	_	_	_	131	joint-disjunction_m	_	_
+134	6 不 求 完美 ，	6	_	_	_	140	organization-preparation_r	_	_
+135	只 求 完成 。	0	_	_	_	134	adversative-contrast_m	_	_
+136	极力 追求 完美 也 可能 是	3	_	_	_	140	context-background_r	_	_
+137	阻止 你 前进 的	0	_	_	_	138	elaboration-attribute_r	_	_
+138	原因 。	0	_	_	_	136	same-unit_m	_	_
+139	完成 不 了 的	0	_	_	_	140	elaboration-attribute_r	_	_
+140	东西 再 完美	5	_	_	_	21	joint-list_m	_	_
+141	也 是 徒劳 。	1	_	_	_	140	evaluation-comment_r	_	_
+142	所以 不 要 憧憬	1	_	_	_	143	attribution-negative_r	_	_
+143	做出 一 个 完美 的 作品 ，	2	_	_	_	140	causal-result_r	_	_
+144	或者	0	_	_	_	143	joint-disjunction_m	_	_
+145	为了 追求 完美	0	_	_	_	146	purpose-goal_r	_	_
+146	而 感到 恐慌 。	0	_	_	_	144	same-unit_m	_	_
+147	什么 东西 都 没有 ，	0	_	_	_	148	contingency-condition_r	_	_
+148	你 拿 什么 改 呢 ？	4	_	_	_	140	restatement-partial_r	_	_
+149	-LSB- 7 -RSB-	5	_	_	_	140	explanation-evidence_r	_	_
+150	7 设定 奖励	6	_	_	_	158	organization-preparation_r	_	_
+151	来 激励 自己 。	0	_	_	_	150	purpose-goal_r	_	_
+152	想到 自己	0	_	_	_	155	context-circumstance_r	_	_
+153	要 花 好 几 个 小时	0	_	_	_	154	contingency-condition_r	_	_
+154	才 能 完成 这 个 任务 ，	0	_	_	_	152	same-unit_m	_	_
+155	你 大概 会 觉得 很 恐惧 。	4	_	_	_	158	context-background_r	_	_
+156	告诉 自己	2	_	_	_	158	attribution-positive_r	_	_
+157	一切 结束 之后 ，	1	_	_	_	158	context-circumstance_r	_	_
+158	你 会	5	_	_	_	21	joint-list_m	_	_
+159	用 最爱 的 东西	0	_	_	_	160	mode-means_r	_	_
+160	来 奖励 自己 。	0	_	_	_	158	same-unit_m	_	_
+161	利用 这样 的 期待	0	_	_	_	162	mode-means_r	_	_
+162	来 帮 你 克服 整个 过程 中 的 艰辛 。	3	_	_	_	158	elaboration-additional_r	_	_
+163	-LSB- 8 -RSB-	5	_	_	_	158	explanation-evidence_r	_	_
+164	方法 2	0	_	_	_	165	organization-preparation_r	_	_
+165	减少 环境 的 干扰	5	_	_	_	170	organization-heading_r	_	_
+166	1 选择	3	_	_	_	170	organization-preparation_r	_	_
+167	适合 你 的	0	_	_	_	168	elaboration-attribute_r	_	_
+168	工作 环境 。	0	_	_	_	166	same-unit_m	_	_
+169	想 一 想	0	_	_	_	170	attribution-positive_r	_	_
+170	你 大多 在 什么 地方 工作 ，	7	_	_	_	21	joint-list_m	_	_
+171	尽可能 地 减少 这 个 地方 的 干扰 。	1	_	_	_	170	joint-list_m	_	_
+172	把 它 打造 成 一 个	1	_	_	_	170	joint-list_m	_	_
+173	适合 工作 的	0	_	_	_	174	elaboration-attribute_r	_	_
+174	场所 。	0	_	_	_	172	same-unit_m	_	_
+175	将 放松 和 工作 的 地点 分开 。	2	_	_	_	170	joint-other_m	_	_
+176	拥有 一 个	0	_	_	_	175	explanation-justify_r	_	_
+177	你 可以 全 身心 投入 工作 的	0	_	_	_	178	elaboration-attribute_r	_	_
+178	地方 是 很 重要 的 。	0	_	_	_	176	same-unit_m	_	_
+179	你 可以 把 图书馆 、 咖啡店 、 书店 或者 书房 当作 你 的 工作 场所 。	1	_	_	_	175	explanation-evidence_r	_	_
+180	2 下载 应用 程序	5	_	_	_	186	organization-preparation_r	_	_
+181	来 减少 手机 对 你 的 干扰 。	0	_	_	_	180	purpose-goal_r	_	_
+182	智能 手机 有时 就 像 一 个 黑洞 ，	0	_	_	_	183	context-background_r	_	_
+183	它 把 我们 所有 的 时间 和 注意 都 吸走 了 。	0	_	_	_	184	adversative-concession_r	_	_
+184	好在 有的 应用 程序 能 帮 你 解决 这 个 问题 。	2	_	_	_	186	context-background_r	_	_
+185	根据 自己 的 情况 ，	1	_	_	_	186	contingency-condition_r	_	_
+186	马上 下载 一 个	4	_	_	_	170	joint-list_m	_	_
+187	可以 解决 拖延 问题 的	0	_	_	_	188	elaboration-attribute_r	_	_
+188	应用 程序 。	0	_	_	_	186	same-unit_m	_	_
+189	-LSB- 9 -RSB-	3	_	_	_	186	explanation-evidence_r	_	_
+190	“ 戒 应用 ”	4	_	_	_	186	explanation-evidence_r	_	_
+191	（ App Detox ）	0	_	_	_	190	restatement-repetition_m	_	_
+192	的 效果 立竿见影 。	1	_	_	_	190	same-unit_m	_	_
+193	“ 我 要 当 学霸 ” 可以 设定 一 个 手机 使用 时间 。	2	_	_	_	190	joint-list_m	_	_
+194	超过 这 个 时间	2	_	_	_	195	contingency-condition_r	_	_
+195	就 会 强制 退出	0	_	_	_	193	elaboration-additional_r	_	_
+196	正在 使用 的	0	_	_	_	197	elaboration-attribute_r	_	_
+197	程序 ，	0	_	_	_	195	same-unit_m	_	_
+198	迫使 你 去 做 其他 的 事情 。	1	_	_	_	195	joint-list_m	_	_
+199	“ Procraster ” 可以 帮 你 识别 拖延 的 根本 原因 ，	3	_	_	_	190	joint-list_m	_	_
+200	然后	0	_	_	_	199	joint-sequence_m	_	_
+201	根据 你 的 问题	0	_	_	_	202	contingency-condition_r	_	_
+202	给出 建议 。	0	_	_	_	200	same-unit_m	_	_
+203	下载 一 个 简单 的 定时器	3	_	_	_	190	joint-list_m	_	_
+204	帮 你 分配 学习 和 休息 的 时间 。	0	_	_	_	203	purpose-goal_r	_	_
+205	定时器 的 闹钟 响起 时 ，	1	_	_	_	206	context-circumstance_r	_	_
+206	要 快速 投入 你 的 工作 ，	1	_	_	_	203	elaboration-additional_r	_	_
+207	并 坚持 你 的 计划 。	0	_	_	_	206	joint-list_m	_	_
+208	3 使用 小 程序 或者 浏览器 附件	4	_	_	_	211	organization-preparation_r	_	_
+209	来 减少 网络 的 干扰 。	0	_	_	_	208	purpose-goal_r	_	_
+210	如果 不停 地 浏览 网页 是 你 最 大 的 问题 ，	1	_	_	_	211	contingency-condition_r	_	_
+211	那么 下载 一 个 应用 程序	4	_	_	_	170	joint-list_m	_	_
+212	来 解决 你 的 网瘾 。	0	_	_	_	211	purpose-goal_r	_	_
+213	不管是 Windows	0	_	_	_	215	adversative-concession_r	_	_
+214	还是 Mac 操作 系统 ，	0	_	_	_	213	joint-disjunction_m	_	_
+215	都 能 找到 许多 类似 的 应用 程序 。	2	_	_	_	211	elaboration-additional_r	_	_
+216	-LSB- 10 -RSB-	1	_	_	_	215	explanation-evidence_r	_	_
+217	如果 你 的 自我 控制 能力 比较 好 ，	2	_	_	_	219	contingency-condition_r	_	_
+218	在 你 打开 那些 耗费 时间 的 网页 之前 ，	0	_	_	_	219	context-circumstance_r	_	_
+219	先 定 个 时 ，	3	_	_	_	211	explanation-evidence_r	_	_
+220	等到	1	_	_	_	219	joint-sequence_m	_	_
+221	铃声 响 的	0	_	_	_	222	elaboration-attribute_r	_	_
+222	时候 马上 回去 工作 。	0	_	_	_	220	same-unit_m	_	_
+223	“ Freedom ” 适用于 所有 的 设备 和 操作 系统 。	3	_	_	_	219	joint-list_m	_	_
+224	Mac 可以 使用 “ 自我 控制 ”	3	_	_	_	219	joint-list_m	_	_
+225	（ Self-Control Focus ） ，	0	_	_	_	224	restatement-partial_r	_	_
+226	在 你 的 工作 时间 帮 你 屏蔽 一 系列 的 网页 ，	1	_	_	_	224	explanation-justify_r	_	_
+227	并且 它 是 免费 的 。	0	_	_	_	226	joint-list_m	_	_
+228	Windows 用户 可以 使用 “ Cold Turkey ” 。	3	_	_	_	219	joint-list_m	_	_
+229	这 个 软件 也 是 免费 的 ，	0	_	_	_	228	elaboration-additional_r	_	_
+230	但 如果 你 要 使用 全部 的 功能 ，	0	_	_	_	231	contingency-condition_r	_	_
+231	可能 要 支付 一定 的 费用 。	0	_	_	_	229	adversative-concession_r	_	_
+232	这 类 软件 很多 都 是 免费 的 ，	1	_	_	_	233	context-background_r	_	_
+233	谷歌 浏览器 可以 使用 “ Stay Focused ” ，	3	_	_	_	219	joint-list_m	_	_
+234	火狐 浏览器 可以 使用 “ Leech Block ” 。	0	_	_	_	233	joint-list_m	_	_
+235	4	4	_	_	_	239	organization-preparation_r	_	_
+236	如 有 必要 ，	0	_	_	_	237	contingency-condition_r	_	_
+237	把 手机 放在 其它 地方 。	0	_	_	_	235	same-unit_m	_	_
+238	如果 你 无法 忍住 不 玩 手机 ，	0	_	_	_	239	contingency-condition_r	_	_
+239	那 就 把 手机 放在 其它 房间 或者 直接 关机 。	4	_	_	_	170	joint-list_m	_	_
+240	不 光 是 手机 ，	1	_	_	_	239	elaboration-additional_r	_	_
+241	你 也 可以 用 同样 的 方式 处理 其它 类似 的 设备 ， 比如 平板 、 Kindles 电子 阅读器 ， 甚至是 电脑 。	0	_	_	_	240	joint-list_m	_	_
+242	-LSB- 11 -RSB-	2	_	_	_	239	explanation-evidence_r	_	_
+243	如果 你	0	_	_	_	246	contingency-condition_r	_	_
+244	因为 家庭 或者 工作 原因	0	_	_	_	245	causal-cause_r	_	_
+245	需要 开 着 手机 ，	0	_	_	_	243	same-unit_m	_	_
+246	那么 把 短信 、 电话 以外 的 所有 通知 全 关掉 。	3	_	_	_	239	adversative-concession_r	_	_
+247	5 听 纯 音乐 。	2	_	_	_	256	organization-preparation_r	_	_
+248	很多 人 很 难 在 完全 安静 的 房间 工作	0	_	_	_	256	explanation-motivation_r	_	_
+249	或者 集中 注意力 ，	0	_	_	_	248	joint-list_m	_	_
+250	但是 如果 听	1	_	_	_	253	contingency-condition_r	_	_
+251	有 歌词 的	0	_	_	_	252	elaboration-attribute_r	_	_
+252	音乐 ，	0	_	_	_	250	same-unit_m	_	_
+253	你 很 容易	1	_	_	_	248	adversative-contrast_m	_	_
+254	因为 歌词	0	_	_	_	255	causal-cause_r	_	_
+255	而 分心 。	0	_	_	_	253	same-unit_m	_	_
+256	试试 听 白 噪音 或 纯 音乐 。	4	_	_	_	170	joint-list_m	_	_
+257	-LSB- 12 -RSB-	1	_	_	_	256	explanation-evidence_r	_	_
+258	方法 3	0	_	_	_	259	organization-preparation_r	_	_
+259	长期 对抗 拖延症	5	_	_	_	262	organization-heading_r	_	_
+260	1 用 待办 清单	3	_	_	_	262	organization-preparation_r	_	_
+261	来 设定 目标 。	0	_	_	_	260	purpose-goal_r	_	_
+262	把	7	_	_	_	21	joint-list_m	_	_
+263	所有 需要 完成 的	0	_	_	_	264	elaboration-attribute_r	_	_
+264	任务 都 记 下来 。	0	_	_	_	262	same-unit_m	_	_
+265	待办 清单 上 不仅 要 写明	1	_	_	_	262	elaboration-additional_r	_	_
+266	需要 完成 的	0	_	_	_	267	elaboration-attribute_r	_	_
+267	短期 任务 ，	0	_	_	_	265	same-unit_m	_	_
+268	也 要 记下	1	_	_	_	265	joint-list_m	_	_
+269	需要 花 几 个 月 ， 甚至 几 年	0	_	_	_	271	elaboration-attribute_r	_	_
+270	来 完成 的	0	_	_	_	269	purpose-goal_r	_	_
+271	长期 目标 。	0	_	_	_	268	same-unit_m	_	_
+272	写下 待办 清单 可 帮 你 计划 好	2	_	_	_	265	explanation-justify_r	_	_
+273	实现 所有 目标 要 做 的	0	_	_	_	274	elaboration-attribute_r	_	_
+274	事情 。	0	_	_	_	272	same-unit_m	_	_
+275	-LSB- 13 -RSB-	1	_	_	_	272	explanation-evidence_r	_	_
+276	在 纸上 写下 待办 清单 。	2	_	_	_	262	joint-other_m	_	_
+277	即使 你 有	0	_	_	_	280	adversative-concession_r	_	_
+278	用 手机 记录 购物 清单 、 生日 愿望 清单 的	0	_	_	_	279	elaboration-attribute_r	_	_
+279	习惯 ，	0	_	_	_	277	same-unit_m	_	_
+280	也 不 要 用 手机 记录 待办 清单 。	0	_	_	_	276	adversative-concession_r	_	_
+281	写下 待 完成 任务 的	0	_	_	_	282	elaboration-attribute_r	_	_
+282	过程	1	_	_	_	276	explanation-motivation_r	_	_
+283	对 思考 如何 完成 这些 任务	0	_	_	_	284	purpose-goal_r	_	_
+284	很 重要 。	1	_	_	_	282	same-unit_m	_	_
+285	2	3	_	_	_	288	organization-preparation_r	_	_
+286	根据 预定 完成 日期	0	_	_	_	287	elaboration-additional_r	_	_
+287	给 不同 的 目标 排序 。	0	_	_	_	285	same-unit_m	_	_
+288	用 计划表 规划 自己 的 时间 。	4	_	_	_	262	joint-list_m	_	_
+289	把 短期 任务 放在 每周 或者 每天 的 计划 清单 里 ，	0	_	_	_	288	elaboration-additional_r	_	_
+290	并 给 每 个 任务 标上 截止 时间 。	0	_	_	_	289	joint-list_m	_	_
+291	把 长期 目标 放在 每月 的 待办 清单 里 ，	1	_	_	_	289	joint-list_m	_	_
+292	同样 设置 好 任务 的 截止 时间 。	0	_	_	_	291	joint-list_m	_	_
+293	-LSB- 14 -RSB-	1	_	_	_	288	explanation-evidence_r	_	_
+294	在 计划表 里 写下	2	_	_	_	288	elaboration-additional_r	_	_
+295	所有 你 需要 完成 的	0	_	_	_	296	elaboration-attribute_r	_	_
+296	事情 。	0	_	_	_	294	same-unit_m	_	_
+297	比方说 ， 你 要 在 星期五 完成 生物 作业 ，	0	_	_	_	298	context-circumstance_r	_	_
+298	留出 至少 三 个 晚上 的 时间 给 这 个 作业 。	1	_	_	_	294	explanation-evidence_r	_	_
+299	如果 你 还 需要 到 商场	0	_	_	_	301	contingency-condition_r	_	_
+300	购置 牙刷 、 维生素 补充剂 等 度假用 的 物品 ，	0	_	_	_	299	joint-list_m	_	_
+301	那么 在 星期四 的 晚上 购物 。	1	_	_	_	298	joint-list_m	_	_
+302	如果 一 个 月 后 有 一 场 英语 大考 ，	1	_	_	_	303	contingency-condition_r	_	_
+303	那么 这 周 至少 花 3 个 小时	1	_	_	_	298	joint-list_m	_	_
+304	来 背 单词 。	0	_	_	_	303	purpose-goal_r	_	_
+305	使用 高效 的 方法	0	_	_	_	306	mode-means_r	_	_
+306	来 给 你 的 任务 排序 。	2	_	_	_	294	joint-other_m	_	_
+307	简单来说 就 是 把	2	_	_	_	311	organization-preparation_r	_	_
+308	所有 要 做 的	0	_	_	_	309	elaboration-attribute_r	_	_
+309	事情 分为 四 个 大类 ：	0	_	_	_	307	same-unit_m	_	_
+310	必须 要 马上 完成 的	0	_	_	_	311	elaboration-attribute_r	_	_
+311	任务 ；	1	_	_	_	306	elaboration-additional_r	_	_
+312	不 那么 着急	0	_	_	_	315	elaboration-attribute_r	_	_
+313	或者 可以 再 找 时间	0	_	_	_	312	joint-disjunction_m	_	_
+314	完成 的	1	_	_	_	312	purpose-goal_r	_	_
+315	任务 ；	1	_	_	_	311	same-unit_m	_	_
+316	可以 让 别人 完成 的	0	_	_	_	317	elaboration-attribute_r	_	_
+317	任务 ；	1	_	_	_	311	same-unit_m	_	_
+318	以及	1	_	_	_	311	same-unit_m	_	_
+319	不 重要	0	_	_	_	321	elaboration-attribute_r	_	_
+320	或者 可以 不 做 的	0	_	_	_	319	joint-disjunction_m	_	_
+321	任务 。	1	_	_	_	311	same-unit_m	_	_
+322	这 个 方法 不仅 可以 帮 你 很 好 地 应对	3	_	_	_	311	evaluation-comment_r	_	_
+323	需要 在 短 时间 内 马上 完成 的	0	_	_	_	324	elaboration-attribute_r	_	_
+324	任务 ，	0	_	_	_	322	same-unit_m	_	_
+325	同样 也 适用于 几 周 甚至 几 个 月 的 长期 规划 。	1	_	_	_	322	joint-list_m	_	_
+326	-LSB- 15 -RSB-	2	_	_	_	306	explanation-evidence_r	_	_
+327	3 不 要 同时 处理 好 几 个 任务 。	4	_	_	_	333	organization-preparation_r	_	_
+328	一 次 只 专注于 一 件 事情 。	0	_	_	_	327	restatement-repetition_m	_	_
+329	同时 处理 好 几 件 事情 ， 会 给 你 一 种	2	_	_	_	333	context-background_r	_	_
+330	自己 做 了 好多 事 的	0	_	_	_	331	elaboration-attribute_r	_	_
+331	错觉 。	0	_	_	_	329	same-unit_m	_	_
+332	实际 上 ， 此时 的 你 很 难 高效 又 快速 地 完成 任务 。	1	_	_	_	329	adversative-contrast_m	_	_
+333	一 次 只 专注于 一 件 事情 ，	4	_	_	_	262	joint-list_m	_	_
+334	并 尽 全力	0	_	_	_	335	mode-manner_r	_	_
+335	去 完成 它 。	0	_	_	_	333	joint-list_m	_	_
+336	这样 能 避免 你	1	_	_	_	333	explanation-motivation_r	_	_
+337	被 忙碌 的 日程 压 得	0	_	_	_	338	causal-cause_r	_	_
+338	喘 不 过 气 。	0	_	_	_	336	same-unit_m	_	_
+339	-LSB- 16 -RSB-	3	_	_	_	333	explanation-evidence_r	_	_
+340	4 找 个 人	4	_	_	_	346	organization-preparation_r	_	_
+341	监督 你 。	0	_	_	_	340	purpose-goal_r	_	_
+342	一 个 人 做事 的	0	_	_	_	343	elaboration-attribute_r	_	_
+343	时候 很 难 杜绝 干扰	3	_	_	_	346	context-background_r	_	_
+344	和 按时 完成 工作 。	1	_	_	_	343	joint-list_m	_	_
+345	每 个 人 或多或少 都 有 拖延 的 习惯 。	2	_	_	_	343	causal-cause_r	_	_
+346	找 一 个	4	_	_	_	262	joint-list_m	_	_
+347	愿意 和 你 搭档 的	0	_	_	_	348	elaboration-attribute_r	_	_
+348	朋友 或者 家人 ，	0	_	_	_	346	same-unit_m	_	_
+349	两 个 人 相互 监督 彼此 的 工作 习惯 和 完成 进度 。	1	_	_	_	346	joint-list_m	_	_
+350	你 可以 和 搭档 约定	1	_	_	_	352	attribution-positive_r	_	_
+351	在 完成 任务 后	0	_	_	_	352	context-circumstance_r	_	_
+352	一起 出去 玩 ，	2	_	_	_	346	elaboration-additional_r	_	_
+353	以 此 奖励 自己 。	2	_	_	_	352	purpose-goal_r	_	_
+354	如果 你们 还是 改 不 掉 拖延 的 习惯 ，	1	_	_	_	355	contingency-condition_r	_	_
+355	那 就 取消	3	_	_	_	352	adversative-contrast_m	_	_
+356	出去 玩 的	0	_	_	_	357	elaboration-attribute_r	_	_
+357	计划	0	_	_	_	355	same-unit_m	_	_
+358	作为 惩罚 。	2	_	_	_	355	purpose-goal_r	_	_

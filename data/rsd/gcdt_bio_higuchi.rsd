@@ -1,0 +1,112 @@
+1	樋口一叶	8	_	_	_	27	organization-heading_r	_	_
+2	樋口一叶	7	_	_	_	27	organization-preparation_r	_	_
+3	（ 1872年 5月 2日 － 1896年 11月 23日 ） ，	0	_	_	_	2	elaboration-additional_r	_	_
+4	生于 东京 ，	1	_	_	_	2	same-unit_m	_	_
+5	原名 樋口奈津 或 樋口夏子 ，	2	_	_	_	2	joint-list_m	_	_
+6	是 日本 明治 初期 主要 的 女性 小说家 。	2	_	_	_	2	joint-list_m	_	_
+7	樋口一叶 是 日本 平安 时代 一千余 年 后 出现 的 第一 位 女 作家 。	3	_	_	_	2	joint-list_m	_	_
+8	因 肺结核	0	_	_	_	9	causal-cause_r	_	_
+9	病逝 ，	3	_	_	_	2	joint-list_m	_	_
+10	得年 24 岁 。	1	_	_	_	9	joint-list_m	_	_
+11	-LSB- 1 -RSB-	4	_	_	_	2	explanation-evidence_r	_	_
+12	生平	5	_	_	_	27	organization-heading_r	_	_
+13	樋口一叶 出生 于 东京府	4	_	_	_	19	context-background_r	_	_
+14	（ 今 东京都 ） 。	0	_	_	_	13	restatement-partial_r	_	_
+15	樋口一叶 为 家族 五 兄弟 姊妹 中 的 二女 ，	1	_	_	_	13	joint-list_m	_	_
+16	父亲 樋口则义 是 个	2	_	_	_	19	context-background_r	_	_
+17	从 农民 晋身 的	0	_	_	_	18	elaboration-attribute_r	_	_
+18	下级 官吏 ，	0	_	_	_	16	same-unit_m	_	_
+19	深明	2	_	_	_	27	causal-cause_r	_	_
+20	知识 能 改变 命运 的	0	_	_	_	21	elaboration-attribute_r	_	_
+21	道理 ，	0	_	_	_	19	same-unit_m	_	_
+22	期望	0	_	_	_	23	attribution-positive_r	_	_
+23	儿女 能 学有所成 ，	1	_	_	_	19	joint-list_m	_	_
+24	可惜 母亲 樋口多喜 思想 保守 ，	3	_	_	_	19	adversative-contrast_m	_	_
+25	认为	0	_	_	_	26	attribution-positive_r	_	_
+26	女子 无 才 便 是 德 ，	0	_	_	_	24	elaboration-additional_r	_	_
+27	所以 樋口 11 岁	0	_	_	_	0	ROOT	_	_
+28	还 没 念毕 小学	0	_	_	_	29	adversative-concession_r	_	_
+29	便 被迫 辍学 。	0	_	_	_	27	same-unit_m	_	_
+30	14 岁 那 年 才 在 父亲 的 安排 下 学艺 于	1	_	_	_	27	joint-sequence_m	_	_
+31	当时 军政 要人 等 特权 阶级 的 家眷 才 能 入读 的	0	_	_	_	33	elaboration-attribute_r	_	_
+32	中岛 歌子 开设 的	0	_	_	_	31	joint-list_m	_	_
+33	萩舍 。	0	_	_	_	30	same-unit_m	_	_
+34	-LSB- 1 -RSB-	3	_	_	_	27	explanation-evidence_r	_	_
+35	1893年 7月 全家 为 生计 搬至 下谷区 龙泉寺町	3	_	_	_	39	context-background_r	_	_
+36	（ 今 台东区 竜泉 一丁目 ）	0	_	_	_	35	restatement-partial_r	_	_
+37	经营 杂货店 ，	1	_	_	_	35	joint-list_m	_	_
+38	店子 虽然 只 经营 了 九 个 月 ，	1	_	_	_	39	adversative-concession_r	_	_
+39	但 此 期间 的 生活 与	4	_	_	_	27	joint-sequence_m	_	_
+40	接触 的	0	_	_	_	41	elaboration-attribute_r	_	_
+41	人 与 事 对 她 的 写作 历程 影响 最 大 ，	0	_	_	_	39	same-unit_m	_	_
+42	期间 她 经常 到 图书馆	2	_	_	_	39	explanation-evidence_r	_	_
+43	借阅 研读 古典 文学 著作 如 《 万叶集 》 、 《 古今集 》 、 《 新古今集 》 等 ，	0	_	_	_	42	joint-list_m	_	_
+44	为 其 文学 修养 打下 基础 。	1	_	_	_	42	causal-result_r	_	_
+45	樋口 于 1891年 跟随 朝日 新闻 的 记者 半井桃水	4	_	_	_	27	joint-sequence_m	_	_
+46	学习 写作 技巧 ，	0	_	_	_	45	purpose-goal_r	_	_
+47	并 在 同年 秋天	1	_	_	_	45	joint-sequence_m	_	_
+48	取 “ 一叶 ” 为 笔名	0	_	_	_	49	mode-manner_r	_	_
+49	发表 作品 ，	0	_	_	_	47	joint-list_m	_	_
+50	两 人 并 相恋 ，	1	_	_	_	45	joint-sequence_m	_	_
+51	但 终	1	_	_	_	45	joint-sequence_m	_	_
+52	因 保护 名节	0	_	_	_	53	causal-cause_r	_	_
+53	而 主动 断绝 了 来往 。	0	_	_	_	51	same-unit_m	_	_
+54	樋口 在 1895年 9月 于 文艺 俱乐部 发表 了 多 篇 拟古文 作品 ，	4	_	_	_	27	joint-sequence_m	_	_
+55	获得 高度 评价 ，	0	_	_	_	54	evaluation-comment_r	_	_
+56	有 “ 现代 紫式部 ” 之 誉 。	0	_	_	_	55	joint-list_m	_	_
+57	-LSB- 1 -RSB-	1	_	_	_	54	explanation-evidence_r	_	_
+58	1894年 3月 左右 樋口 一 家 搬至 本乡区 丸山 福山町	4	_	_	_	27	joint-sequence_m	_	_
+59	（ 今 文京区 西片 一丁目 ）	0	_	_	_	58	elaboration-attribute_r	_	_
+60	生活 ，	1	_	_	_	58	purpose-goal_r	_	_
+61	樋口 并 开始 发表	2	_	_	_	58	joint-list_m	_	_
+62	受 日本 文坛 注目 的	0	_	_	_	63	elaboration-attribute_r	_	_
+63	作品 《 青梅 竹马 》 ，	0	_	_	_	61	same-unit_m	_	_
+64	作品 细致 描绘 两 名 青春期 男女 若即若离 的 青涩 爱情 故事 ，	1	_	_	_	61	elaboration-additional_r	_	_
+65	极 具 美感 ；	0	_	_	_	64	joint-list_m	_	_
+66	但 樋口 于 1896年 4月 感到 身体 有异 ，	4	_	_	_	27	joint-sequence_m	_	_
+67	8月 接受 诊断 为 肺结核 ，	0	_	_	_	66	joint-sequence_m	_	_
+68	11月 23日 早上 在 本乡区 家中 逝世 ，	0	_	_	_	66	joint-sequence_m	_	_
+69	结束 了 短暂 而 璀璨 的 一 生 ，	0	_	_	_	68	causal-result_r	_	_
+70	在 日本 文学史 上 被 称 为 “ 奇迹 十四 个 月 ” 的 作家 生涯 ，	0	_	_	_	69	elaboration-attribute_r	_	_
+71	死后 葬于 东京都 杉并区 家族 墓 中 。	0	_	_	_	66	joint-sequence_m	_	_
+72	-LSB- 1 -RSB-	1	_	_	_	66	explanation-evidence_r	_	_
+73	日本 银行 于 2004年 11月 1日 将 樋口一叶 选为 新 发行 的 5000 日圆 面额 纸币 上 的 肖像 ，	4	_	_	_	27	joint-sequence_m	_	_
+74	樋口一叶 成为 日本 纸币 上 的 第一 个 女性 人物 。	0	_	_	_	73	causal-result_r	_	_
+75	-LSB- 1 -RSB-	1	_	_	_	73	explanation-evidence_r	_	_
+76	作品 风格	6	_	_	_	85	organization-heading_r	_	_
+77	因为 她 的 作品 多 为 彷古文 形式 ，	5	_	_	_	85	adversative-concession_r	_	_
+78	而 非 白话文 ，	0	_	_	_	77	adversative-contrast_m	_	_
+79	较 难 看懂 ，	1	_	_	_	77	evaluation-comment_r	_	_
+80	加上 其 作品	2	_	_	_	77	joint-list_m	_	_
+81	因为 题材 的 关系	1	_	_	_	82	causal-cause_r	_	_
+82	没有 列入 日本 学校 教育 之 相关 教材 中	0	_	_	_	80	same-unit_m	_	_
+83	（ 列入 课本 范文 或 参考 介绍 等 ） ，	0	_	_	_	82	restatement-partial_r	_	_
+84	故 不少 日本 民众 对 樋口 的 作品 较 陌生 。	3	_	_	_	77	causal-result_r	_	_
+85	她 的 作品 多 为 感性 描述	6	_	_	_	27	joint-other_m	_	_
+86	在 家父长制 下 的 日本 妇女 ， 为 生活 而 吃尽 苦头 的	0	_	_	_	87	elaboration-attribute_r	_	_
+87	主题 ，	0	_	_	_	85	same-unit_m	_	_
+88	内嵌 上 自己 的 亲身 经历 与 所见所闻 ，	1	_	_	_	85	joint-list_m	_	_
+89	再 加上	1	_	_	_	85	joint-list_m	_	_
+90	作者 赋与 的	0	_	_	_	91	elaboration-attribute_r	_	_
+91	批判 。	0	_	_	_	89	same-unit_m	_	_
+92	故事	2	_	_	_	85	causal-result_r	_	_
+93	于 今 细读	0	_	_	_	94	adversative-concession_r	_	_
+94	也 不 觉 过时 ，	0	_	_	_	92	same-unit_m	_	_
+95	且 寥寥 数 字	1	_	_	_	92	joint-list_m	_	_
+96	却 显 笔触 之 细腻 ，	0	_	_	_	95	adversative-contrast_m	_	_
+97	体现 她 惊人 的 观察力 ，	3	_	_	_	85	evaluation-comment_r	_	_
+98	也 让 她 成为 女性 文学 的 先驱 作家 。	0	_	_	_	97	joint-list_m	_	_
+99	-LSB- 来源 请求 -RSB-	4	_	_	_	85	organization-phatic_r	_	_
+100	逝后 百 年	2	_	_	_	101	organization-heading_r	_	_
+101	1996年	6	_	_	_	27	joint-other_m	_	_
+102	为 纪念 一叶 逝世 后 百 年 ，	2	_	_	_	103	purpose-goal_r	_	_
+103	出版界 重新 编辑 出版 《 樋口一叶 全集 》	0	_	_	_	101	same-unit_m	_	_
+104	（ 和歌集 、 日记 书信集 、 小说集 ，	0	_	_	_	103	restatement-partial_r	_	_
+105	由 筑摩 书房 出版 ） ，	0	_	_	_	104	attribution-positive_r	_	_
+106	部分 作品 有 日语 白话文 翻译本 ；	1	_	_	_	103	elaboration-additional_r	_	_
+107	在 东京都 台东区 龙泉 三丁目 设立 了 “ 一叶 纪念馆 ” ，	1	_	_	_	101	joint-list_m	_	_
+108	她 亦 成为 了 2004年 11月 发行 的 新版 五千 日圆 纸币 上 的 人物 。	0	_	_	_	107	elaboration-additional_r	_	_
+109	同年 2月 台湾 洪范 出版社 出版	1	_	_	_	101	joint-list_m	_	_
+110	由 林文月 翻译 的	0	_	_	_	111	elaboration-attribute_r	_	_
+111	首 本 樋口 作品 《 十三 夜 》 ，	0	_	_	_	109	same-unit_m	_	_
+112	另外 樋口 的 一些 作品 ， 林文月 翻译 并 发表 至 《 联合 文学 》 杂志 中 ， 如 《 比肩 》 （ 1998年 1月 ） 、 《 浊江 》 （ 1998年 9月 ） 。	1	_	_	_	109	joint-sequence_m	_	_

@@ -29,6 +29,10 @@ if __name__ == '__main__':
 	elif args.lang == "bi":
 		rs3_dir = "../data/autotrans_rs3/"
 		extracted_edu_dir = "../data/autotrans_extracted_edu/"
+		
+	
+	# rs3_dir = "../../../code/paragraph_analysis/data/gcdt/rs3/"
+	# extracted_edu_dir = "../../../code/paragraph_analysis/data/gcdt/edus/"
 	
 	if not os.path.isdir(extracted_edu_dir):
 		os.makedirs(extracted_edu_dir)
@@ -38,7 +42,7 @@ if __name__ == '__main__':
 	
 	for rs3_file in rs3_files:
 		basename = get_basename(rs3_file)
-		extracted_edu_file = extracted_edu_dir + basename + ".edu"
+		extracted_edu_file = extracted_edu_dir + basename + ".edus"
 		
 		# if the edu file is newer than the rs3 file then don't translate this file
 		if os.path.exists(extracted_edu_file):

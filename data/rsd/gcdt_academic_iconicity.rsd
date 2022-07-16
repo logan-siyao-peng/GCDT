@@ -1,0 +1,188 @@
+1	英语 中动态 的 象似性 分析	6	_	_	_	6	organization-heading_r	_	_
+2	1. 导论	4	_	_	_	6	organization-heading_r	_	_
+3	从 广义 的 角度 来看 ，	1	_	_	_	4	mode-manner_r	_	_
+4	英语 中 主要 分为 三 个 “ 态 ” ：	2	_	_	_	6	context-background_r	_	_
+5	主动态 ， 中动态 和 被动态 。	0	_	_	_	4	elaboration-additional_r	_	_
+6	英语 中动态 是 一 种 特殊 的 语态 形式 ，	0	_	_	_	0	ROOT	_	_
+7	因为 它 缺少 施事	0	_	_	_	6	causal-cause_r	_	_
+8	-LSB- 1 -RSB- 。	1	_	_	_	6	explanation-evidence_r	_	_
+9	从 语义 的 角度 来看 ，	1	_	_	_	11	organization-preparation_r	_	_
+10	英语 中动态 具有 如下 特点 ：	0	_	_	_	11	organization-preparation_r	_	_
+11	1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念	3	_	_	_	6	joint-list_m	_	_
+12	-LSB- 2 -RSB- 。	2	_	_	_	11	explanation-evidence_r	_	_
+13	在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论如何 先于 过程 对 受事 的 影响 ，	2	_	_	_	27	context-background_r	_	_
+14	也 就 是 因	0	_	_	_	13	restatement-partial_r	_	_
+15	( 施事 )	0	_	_	_	14	restatement-partial_r	_	_
+16	先于 果	1	_	_	_	14	same-unit_m	_	_
+17	( 过程 对 受事 的 影响 ) ，	0	_	_	_	16	restatement-partial_r	_	_
+18	因此 ， 主动态 是	1	_	_	_	13	causal-result_r	_	_
+19	最 符合 象似性 原则 的	0	_	_	_	20	elaboration-attribute_r	_	_
+20	表达 。	0	_	_	_	18	same-unit_m	_	_
+21	在 被动态 结构 中 ， 施事 先于 受事 ，	2	_	_	_	13	joint-list_m	_	_
+22	明显 违背 了 象似性 原则 。	0	_	_	_	21	causal-result_r	_	_
+23	那么 ， 就 中动态 而言 ，	1	_	_	_	24	organization-preparation_r	_	_
+24	它 的 语法 结构 是 主动态 的 ，	2	_	_	_	13	joint-list_m	_	_
+25	但是 各 参与 成分 之间 的 关系 是 被动态 的 ，	0	_	_	_	24	adversative-contrast_m	_	_
+26	我们 如何 从 象似性 角度 来 分析 它 呢 ？	0	_	_	_	27	organization-preparation_r	_	_
+27	本 文 主要 探讨 了 英语 中动态 的 象似性 特点 。	3	_	_	_	6	joint-list_m	_	_
+28	本 文 提出 的	0	_	_	_	29	elaboration-attribute_r	_	_
+29	问题 如下 ：	1	_	_	_	30	organization-preparation_r	_	_
+30	① 英语 中动态 是 如何 遵守 或 违背 象似性 原则 的 ？	1	_	_	_	27	elaboration-additional_r	_	_
+31	② 英语 中动态 违背 象似性 原则 的	0	_	_	_	32	elaboration-attribute_r	_	_
+32	理据 为 何 ？	0	_	_	_	30	joint-list_m	_	_
+33	2. 象似性 原则	5	_	_	_	36	organization-heading_r	_	_
+34	2.1. 顺序 象似性	3	_	_	_	36	organization-heading_r	_	_
+35	顺序 象似性 可以 定义 为 ：	0	_	_	_	36	organization-preparation_r	_	_
+36	思维 的 顺序 与 语言 单位 排列 的 顺序 象似	5	_	_	_	6	joint-other_m	_	_
+37	-LSB- 3 -RSB- 。	1	_	_	_	36	explanation-evidence_r	_	_
+38	Greenberg 也 表示 ：	1	_	_	_	39	attribution-positive_r	_	_
+39	“ 语言 成分 的 顺序 对应 与 物理 现实 经验 顺序 或 知识 顺序 ”	2	_	_	_	36	elaboration-additional_r	_	_
+40	the order of elements in language parallels that in physical experience or the order of knowledge	0	_	_	_	39	restatement-repetition_m	_	_
+41	-LSB- 4 -RSB- 。	2	_	_	_	39	explanation-evidence_r	_	_
+42	文旭 ( 2009 ) 将 这 一 原则 进一步 分为 两 个 原则	3	_	_	_	39	joint-list_m	_	_
+43	-LSB- 5 -RSB- ：	0	_	_	_	42	explanation-evidence_r	_	_
+44	1) 线性 序列 时间 原则 ：	1	_	_	_	42	elaboration-additional_r	_	_
+45	连贯 话语 中 分句 的 顺序 对应于	0	_	_	_	44	elaboration-additional_r	_	_
+46	其 所 描写 的	0	_	_	_	47	elaboration-attribute_r	_	_
+47	事件 发生 的	0	_	_	_	48	elaboration-attribute_r	_	_
+48	时间 顺序 。	0	_	_	_	45	same-unit_m	_	_
+49	比如 “ I came , I saw , I conquered . ”	1	_	_	_	45	explanation-evidence_r	_	_
+50	又 比如 ：	3	_	_	_	52	organization-preparation_r	_	_
+51	Max hit Harry and Harry hit Max 表示	1	_	_	_	52	attribution-positive_r	_	_
+52	Max hit Harry 在先 ，	0	_	_	_	49	joint-list_m	_	_
+53	Harry hit Max 在后 。	0	_	_	_	52	joint-sequence_m	_	_
+54	而 Max and Harry hit each other 则 没有 体现 出 这 种 时间 先后 的 概念 。	2	_	_	_	52	adversative-contrast_m	_	_
+55	2) 线性 序列 信息 原则 。	1	_	_	_	44	joint-list_m	_	_
+56	该 原则 主要 是 与 信息 的 分配 相 联系 。	0	_	_	_	55	elaboration-additional_r	_	_
+57	谈到 信息 分配 ，	0	_	_	_	58	organization-preparation_r	_	_
+58	我们 主要 采用 的 是 Halliday 系统 功能 语言学 关于 信息 分布 的 观点 。	5	_	_	_	62	organization-preparation_r	_	_
+59	Halliday & Matthiessen	3	_	_	_	62	attribution-positive_r	_	_
+60	-LSB- 1 -RSB-	0	_	_	_	59	explanation-evidence_r	_	_
+61	认为	1	_	_	_	59	same-unit_m	_	_
+62	主位	1	_	_	_	55	elaboration-additional_r	_	_
+63	( theme )	0	_	_	_	62	restatement-repetition_m	_	_
+64	是 句 中 信息 的 起点 ，	1	_	_	_	62	same-unit_m	_	_
+65	是 整个 小句 所 关注 和 讨论 的 ，	2	_	_	_	62	joint-list_m	_	_
+66	也 是	2	_	_	_	62	joint-list_m	_	_
+67	小句 得以 展开 的	0	_	_	_	68	elaboration-attribute_r	_	_
+68	背景 。	0	_	_	_	66	same-unit_m	_	_
+69	小句 中 发展 主位 的	1	_	_	_	70	elaboration-attribute_r	_	_
+70	部分 被 称 之 为 述位	4	_	_	_	62	joint-other_m	_	_
+71	( Rheme ) 。	0	_	_	_	70	restatement-partial_r	_	_
+72	通常 在 陈述句 中 非 标记性 主位	2	_	_	_	70	joint-list_m	_	_
+73	( unmarked theme )	0	_	_	_	72	restatement-partial_r	_	_
+74	与 主语 重合 ，	1	_	_	_	72	same-unit_m	_	_
+75	主语 以外 的 任何 成分 都 是 标记性 主位	2	_	_	_	72	adversative-contrast_m	_	_
+76	( marked theme )	0	_	_	_	75	restatement-partial_r	_	_
+77	-LSB- 1 -RSB- 。	3	_	_	_	72	explanation-evidence_r	_	_
+78	就 信息 结构 在 语言 结构 中 的 体现 而言 ，	3	_	_	_	81	organization-preparation_r	_	_
+79	非 标记式 匹配 是 ：	2	_	_	_	81	organization-preparation_r	_	_
+80	与 主语 重合 的	0	_	_	_	81	elaboration-attribute_r	_	_
+81	非 标记性 主位 传达 的 是 旧 信息 ，	4	_	_	_	62	joint-other_m	_	_
+82	而 述位 传达 的 是 新 信息 。	1	_	_	_	81	adversative-contrast_m	_	_
+83	在 语言 使用 过程 中 ，	1	_	_	_	84	context-circumstance_r	_	_
+84	我们 会 调整 主位 的 实现 成分	4	_	_	_	62	joint-other_m	_	_
+85	重新 分配 信息量 ，	0	_	_	_	84	purpose-goal_r	_	_
+86	这样 ， 标记性 或 非 象似性 表达 就 产生 了 。	2	_	_	_	84	causal-result_r	_	_
+87	线性 序列 信息 原则 表示	1	_	_	_	88	attribution-positive_r	_	_
+88	最 熟悉 的 已知 背景 信息 先 出现 ，	6	_	_	_	62	joint-other_m	_	_
+89	最 不 熟悉 的 新 信息 后 出现 。	0	_	_	_	88	joint-sequence_m	_	_
+90	Halliday & Matthiessen	0	_	_	_	93	attribution-positive_r	_	_
+91	-LSB- 1 -RSB-	0	_	_	_	90	explanation-evidence_r	_	_
+92	认为	1	_	_	_	90	same-unit_m	_	_
+93	主位 表达 旧 信息 ， 述位 表达 新 信息 是 非 标记性 信息 匹配 结构 ；	2	_	_	_	88	elaboration-additional_r	_	_
+94	但是 在 语言 使用 中 ， 我们 可以 利用 主谓 结构 和 信息 结构	1	_	_	_	93	adversative-contrast_m	_	_
+95	-LSB- 的 错配	0	_	_	_	94	elaboration-attribute_r	_	_
+96	( mismatch ) -RSB-	0	_	_	_	95	restatement-partial_r	_	_
+97	来 达到 意想不到 的 修辞 效果 。	1	_	_	_	94	purpose-goal_r	_	_
+98	Halliday 也 曾 明确 表示 了 象似性 的 概念 ，	5	_	_	_	101	organization-preparation_r	_	_
+99	他 说 ：	4	_	_	_	101	attribution-positive_r	_	_
+100	在 语言 表达 中 存在 以下 规律 ，	1	_	_	_	101	organization-preparation_r	_	_
+101	即 信息流 沿着	6	_	_	_	62	joint-other_m	_	_
+102	从 旧 信息	0	_	_	_	107	elaboration-attribute_r	_	_
+103	( 主位 )	0	_	_	_	102	restatement-partial_r	_	_
+104	流 向 新 信息	1	_	_	_	102	same-unit_m	_	_
+105	( 述位 )	0	_	_	_	104	elaboration-attribute_r	_	_
+106	的	1	_	_	_	102	same-unit_m	_	_
+107	方向 移动 ，	0	_	_	_	101	same-unit_m	_	_
+108	这 种	2	_	_	_	101	joint-list_m	_	_
+109	遵循 时间 顺序 的	0	_	_	_	110	elaboration-attribute_r	_	_
+110	移动 象似性 地 始解 了 信息流 的 传播 方向	0	_	_	_	108	same-unit_m	_	_
+111	( There is a movement from a given Theme	3	_	_	_	101	restatement-repetition_m	_	_
+112	( background )	0	_	_	_	111	restatement-partial_r	_	_
+113	to rhematic New	1	_	_	_	111	same-unit_m	_	_
+114	( foreground ) ;	0	_	_	_	113	restatement-partial_r	_	_
+115	this movement in time construes iconically the flow of information )	2	_	_	_	111	joint-list_m	_	_
+116	-LSB- 6 -RSB- 。	6	_	_	_	101	explanation-evidence_r	_	_
+117	2.2. 距离 象似性	3	_	_	_	121	organization-heading_r	_	_
+118	根据 文旭	1	_	_	_	121	attribution-positive_r	_	_
+119	-LSB- 5 -RSB- ，	0	_	_	_	118	explanation-evidence_r	_	_
+120	距离 象似性 定义 如下 ：	0	_	_	_	121	organization-preparation_r	_	_
+121	概念 间 的 距离 对应于 语言 成分 之间 的 距离 。	4	_	_	_	36	joint-other_m	_	_
+122	Haiman	1	_	_	_	125	attribution-positive_r	_	_
+123	-LSB- 7 -RSB-	0	_	_	_	122	explanation-evidence_r	_	_
+124	认为	1	_	_	_	122	same-unit_m	_	_
+125	两 个 观点 在 概念 的 接近 必须 满足 以下 四 个 条件 ：	2	_	_	_	121	elaboration-additional_r	_	_
+126	1) 彼此 享有 语义 特点 或 部分 ；	0	_	_	_	125	elaboration-additional_r	_	_
+127	2) 相互 影响 ；	0	_	_	_	126	joint-list_m	_	_
+128	3) 在 现实 中 不 可 分离 ；	0	_	_	_	126	joint-list_m	_	_
+129	4) 不管 在 现实 中 可 不 可以 分离 ，	0	_	_	_	130	adversative-concession_r	_	_
+130	均 视 为 一 个 整体 。	0	_	_	_	126	joint-list_m	_	_
+131	2.3. 数量 象似性	5	_	_	_	135	organization-heading_r	_	_
+132	根据 王寅	3	_	_	_	135	attribution-positive_r	_	_
+133	-LSB- 8 -RSB-	0	_	_	_	132	explanation-evidence_r	_	_
+134	数量 象似性 的 定义 为 ：	2	_	_	_	135	organization-preparation_r	_	_
+135	语言 单位 的 数量 与	4	_	_	_	36	joint-other_m	_	_
+136	所 表示 的	0	_	_	_	137	elaboration-attribute_r	_	_
+137	概念 的 量 和 复杂 程度 成 正比 象似 ，	0	_	_	_	135	same-unit_m	_	_
+138	与 可预测度 成 反比 。	1	_	_	_	135	joint-list_m	_	_
+139	数量 象似性 的 认知 基础 是 ：	3	_	_	_	141	organization-preparation_r	_	_
+140	语言 单位 数量 一 多 ，	1	_	_	_	141	contingency-condition_r	_	_
+141	就 会 更 多 地 引起 人们 的 注意力 ，	4	_	_	_	135	joint-other_m	_	_
+142	心智 加工 也 就 更 复杂 ，	0	_	_	_	141	joint-list_m	_	_
+143	传递 的	0	_	_	_	144	elaboration-attribute_r	_	_
+144	信息量 自然 也 会 更 多	0	_	_	_	141	joint-list_m	_	_
+145	-LSB- 9 -RSB- 。	2	_	_	_	141	explanation-evidence_r	_	_
+146	Givon	3	_	_	_	150	attribution-positive_r	_	_
+147	-LSB- 10 -RSB-	0	_	_	_	146	explanation-evidence_r	_	_
+148	指出 ，	1	_	_	_	146	same-unit_m	_	_
+149	信息 处理 过程 中	1	_	_	_	150	context-circumstance_r	_	_
+150	投入 更 多 的 心智 努力	4	_	_	_	135	joint-other_m	_	_
+151	( mental effort )	0	_	_	_	150	restatement-partial_r	_	_
+152	需要 更 多 的 语言 编码 材料	2	_	_	_	150	causal-result_r	_	_
+153	来 表达 。	0	_	_	_	152	purpose-goal_r	_	_
+154	语言 的 每 一 个 单位 得以 被 应用	1	_	_	_	155	contingency-condition_r	_	_
+155	都 有	4	_	_	_	135	joint-other_m	_	_
+156	它 能 被 使用 的	0	_	_	_	157	elaboration-attribute_r	_	_
+157	价值 ，	0	_	_	_	155	same-unit_m	_	_
+158	这 个 价值 就 是 传递 相应 的 意义 ，	2	_	_	_	155	elaboration-additional_r	_	_
+159	因此 ， 语言 单位 越 多 ，	0	_	_	_	160	contingency-condition_r	_	_
+160	必定 要 传递 更 多 的 概念 。	3	_	_	_	155	causal-cause_r	_	_
+161	2.4. 对称 象似性	5	_	_	_	164	organization-heading_r	_	_
+162	根据 Haiman	3	_	_	_	164	attribution-positive_r	_	_
+163	-LSB- 7 -RSB-	0	_	_	_	162	explanation-evidence_r	_	_
+164	对称 象似性 指 的 是 语言 形式 的 对称 或 非 对称 形式 表达 了	4	_	_	_	36	joint-other_m	_	_
+165	语言 形式 各 部分 代表 的 概念 之间 存在 的	0	_	_	_	166	elaboration-attribute_r	_	_
+166	对称 关系 或 不对称 关系	0	_	_	_	164	same-unit_m	_	_
+167	( (a)symmetry of form will reflect conceptual (a)symmetry ) 。	1	_	_	_	164	restatement-partial_r	_	_
+168	比如 similarity 表达 的 是 绝对 对称性 概念 。	2	_	_	_	164	explanation-evidence_r	_	_
+169	Harry is similar to Max 与 Max is similar to Harry 是 完全 对称 的 。	0	_	_	_	168	explanation-evidence_r	_	_
+170	Like 表示 的 不 是 绝对 对称 概念 ，	1	_	_	_	168	adversative-contrast_m	_	_
+171	比如 Max likes Harry 并不 与 Harry likes Max 对称 。	0	_	_	_	170	explanation-evidence_r	_	_
+172	Haiman	0	_	_	_	175	attribution-positive_r	_	_
+173	通过 多 语言 对比 ，	0	_	_	_	174	mode-manner_r	_	_
+174	发现	0	_	_	_	172	same-unit_m	_	_
+175	and 也 可以 被 用作 因果 丛句 和 条件 丛句 。	4	_	_	_	164	joint-other_m	_	_
+176	比如 ：	1	_	_	_	177	organization-preparation_r	_	_
+177	Sammy ’s mad and I ’m glad 和 He comes , I will stay 。	1	_	_	_	175	explanation-evidence_r	_	_
+178	在 这 两 句 中 ， Summy ’ mad 和 He comes 被 看作 是	0	_	_	_	177	explanation-justify_r	_	_
+179	表 原因 的	0	_	_	_	180	purpose-attribute_r	_	_
+180	小句 。	0	_	_	_	178	same-unit_m	_	_
+181	Haiman	2	_	_	_	184	attribution-positive_r	_	_
+182	-LSB- 7 -RSB-	0	_	_	_	181	explanation-evidence_r	_	_
+183	认为	1	_	_	_	181	same-unit_m	_	_
+184	这 是 一 种	2	_	_	_	175	elaboration-additional_r	_	_
+185	概念 对称 的	0	_	_	_	186	elaboration-attribute_r	_	_
+186	体现 ，	0	_	_	_	184	same-unit_m	_	_
+187	因为 根据 时间 的 线性 特点 ，	0	_	_	_	188	mode-manner_r	_	_
+188	最 先 发生 的 可以 看作 是 背景 ， 原因 ， 条件 。	1	_	_	_	184	causal-cause_r	_	_

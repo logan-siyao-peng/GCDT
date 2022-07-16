@@ -1,0 +1,119 @@
+1	TikTok 出售 或 须 先 得 北京 同意	5	_	_	_	39	organization-heading_r	_	_
+2	【 2020年 8月 31日 讯 】	4	_	_	_	39	context-circumstance_r	_	_
+3	中国 日前 对 科技 出口 制定 新 的 管制 规定 。	4	_	_	_	6	context-background_r	_	_
+4	一 名 中国 专家 说 ，	2	_	_	_	6	attribution-positive_r	_	_
+5	这 意味 着	1	_	_	_	6	attribution-positive_r	_	_
+6	字节跳动 公司	3	_	_	_	39	context-background_r	_	_
+7	如果 出售 美国 TikTok 业务	0	_	_	_	8	contingency-condition_r	_	_
+8	需要 先 得到 北京 的 同意 。	0	_	_	_	6	same-unit_m	_	_
+9	这 个 规定 将 使得	3	_	_	_	6	joint-list_m	_	_
+10	原本 已经 与 政治 因素 有关 的	0	_	_	_	11	elaboration-attribute_r	_	_
+11	TikTok 剥离 要求 更加 复杂化 。	0	_	_	_	9	same-unit_m	_	_
+12	美国 总统 特朗普	1	_	_	_	17	attribution-positive_r	_	_
+13	以	0	_	_	_	16	mode-manner_r	_	_
+14	TikTok 可能 存在 损害 美国 国家 安全 的	0	_	_	_	15	elaboration-attribute_r	_	_
+15	威胁 为 由 ，	0	_	_	_	13	same-unit_m	_	_
+16	于 8月 14日 下令	0	_	_	_	12	same-unit_m	_	_
+17	中国 公司 字节跳动 在 90 天 内 ， 从	5	_	_	_	6	joint-list_m	_	_
+18	在 美国 运营 的	0	_	_	_	19	elaboration-attribute_r	_	_
+19	视频 共享 应用 程序 TikTok 撤资 。	0	_	_	_	17	same-unit_m	_	_
+20	这 个 命令 增加 了	2	_	_	_	17	evaluation-comment_r	_	_
+21	字节跳动 从 TikTok 剥离 的	0	_	_	_	22	elaboration-attribute_r	_	_
+22	压力 ，	0	_	_	_	20	same-unit_m	_	_
+23	并 合法 支持 特朗普 政府 对 这 个 中国 社交 媒体 应用 程序 的 封杀 。	1	_	_	_	20	joint-list_m	_	_
+24	此前 8月 6日 ， 总统 特朗普 签署 行政令 ，	1	_	_	_	25	attribution-positive_r	_	_
+25	将 在 45 天 后 禁止	3	_	_	_	17	context-background_r	_	_
+26	美国 司法 管辖 的	0	_	_	_	27	elaboration-attribute_r	_	_
+27	任何 人 或 企业 与 TikTok 母公司 进行 任何 交易 。	0	_	_	_	25	same-unit_m	_	_
+28	北京 则 谴责	0	_	_	_	29	attribution-positive_r	_	_
+29	特朗普 的 打压 是 政治 行为 。	4	_	_	_	17	evaluation-comment_r	_	_
+30	目前	5	_	_	_	6	joint-list_m	_	_
+31	有意 收购 TikTok 在 美国 、 加拿大 、 新西兰 和 澳大利亚 业务 的	1	_	_	_	32	elaboration-attribute_r	_	_
+32	买家 包括 微软	0	_	_	_	30	same-unit_m	_	_
+33	（ Microsoft Corp ) 、	0	_	_	_	32	restatement-partial_r	_	_
+34	甲骨文	0	_	_	_	30	same-unit_m	_	_
+35	（ Oracle Corp )	0	_	_	_	34	restatement-repetition_m	_	_
+36	和 沃尔玛	0	_	_	_	30	same-unit_m	_	_
+37	（ Walmart Inc. )	0	_	_	_	36	restatement-partial_r	_	_
+38	等 。	0	_	_	_	30	same-unit_m	_	_
+39	不过 ， 中国 商务部 与 科技部 8月 28日 调整 发布 了 “ 中国 禁止 出口 限制 出口 技术 目录 ” 。	0	_	_	_	0	ROOT	_	_
+40	这 是 中国 12 年 来 首 次 这么 做 。	0	_	_	_	39	elaboration-additional_r	_	_
+41	新华社 星期天	1	_	_	_	45	attribution-positive_r	_	_
+42	（ 8月 30日 ）	0	_	_	_	43	context-circumstance_r	_	_
+43	报道 说 ，	0	_	_	_	41	same-unit_m	_	_
+44	对外 经济 贸易 大学 的 国际 贸易 教授 崔凡 认为 ，	0	_	_	_	45	attribution-positive_r	_	_
+45	这些 修订 都 适用于 TikTok 。	1	_	_	_	39	elaboration-additional_r	_	_
+46	报道	1	_	_	_	52	attribution-positive_r	_	_
+47	援引 他 的 话	0	_	_	_	48	mode-means_r	_	_
+48	说 ：	0	_	_	_	46	same-unit_m	_	_
+49	“ 如果	0	_	_	_	52	contingency-condition_r	_	_
+50	字节跳动 计划	0	_	_	_	51	attribution-positive_r	_	_
+51	出口 相关 技术 ，	0	_	_	_	49	same-unit_m	_	_
+52	应该 履行 申请 许可 程序 。 ”	2	_	_	_	45	joint-list_m	_	_
+53	中国 商务部 在 新规 中 增加 了 23 个 项 限制类 条目 ，	2	_	_	_	39	joint-other_m	_	_
+54	对 21 项 条 目的 控制 要点 和 技术 参数 进行 了 修改 。	0	_	_	_	53	joint-list_m	_	_
+55	路透社 星期天 报道 说 ，	2	_	_	_	57	attribution-positive_r	_	_
+56	新增 限制 的	0	_	_	_	57	elaboration-attribute_r	_	_
+57	项目 中 包括 ：	1	_	_	_	53	elaboration-additional_r	_	_
+58	根据 数据 分析 与 人工 智能 互动 接口 技术 的	0	_	_	_	59	elaboration-attribute_r	_	_
+59	个人 信息 推播 服务 ，	2	_	_	_	62	explanation-evidence_r	_	_
+60	如果 要 出口 这些 技术	1	_	_	_	62	contingency-condition_r	_	_
+61	需要 最多 30 天	0	_	_	_	62	purpose-goal_r	_	_
+62	才 能 得到 初步 批准 。	1	_	_	_	57	elaboration-additional_r	_	_
+63	崔凡	1	_	_	_	66	attribution-positive_r	_	_
+64	接受 新华社 采访 时	0	_	_	_	65	context-circumstance_r	_	_
+65	说 ，	0	_	_	_	63	same-unit_m	_	_
+66	字节跳动 的 国际 业务 能 快速 发展 ， 依靠 的 是 其 国内 强大 的 技术 支撑 ，	3	_	_	_	57	joint-list_m	_	_
+67	它 源源不断 的 向 境外 公司 提供 最新 的 核心 算法 服务 ，	0	_	_	_	66	explanation-evidence_r	_	_
+68	就 是 一 种 典型 的 技术 服务 出口 。	0	_	_	_	67	elaboration-additional_r	_	_
+69	他 说 ，	3	_	_	_	72	attribution-positive_r	_	_
+70	如果 它 的 国际 业务 要 继续 顺利 运营 ，	2	_	_	_	72	contingency-condition_r	_	_
+71	无论 其 新 的 所有者 和 运营者 是 谁 ，	1	_	_	_	72	context-circumstance_r	_	_
+72	很 可能 都 需要 从 中国 境内 向 境外 转让 软件 代码 或 其 使用权 ，	3	_	_	_	57	joint-list_m	_	_
+73	也 可能 需要 从 中国 境内 向 境外 提供 技术 服务 。	0	_	_	_	72	joint-disjunction_m	_	_
+74	崔凡 建议 ，	2	_	_	_	75	attribution-positive_r	_	_
+75	字节跳动 认真 研究	3	_	_	_	57	joint-list_m	_	_
+76	调整 后 的	0	_	_	_	77	elaboration-attribute_r	_	_
+77	目录 ，	0	_	_	_	75	same-unit_m	_	_
+78	严肃 并 慎重 考虑	0	_	_	_	79	attribution-positive_r	_	_
+79	是否 需要 暂停 相关 交易 的 实质性 谈判 ，	1	_	_	_	75	joint-list_m	_	_
+80	履行 好 法定 申报 程序 ，	1	_	_	_	75	joint-list_m	_	_
+81	然后 再	1	_	_	_	75	joint-list_m	_	_
+82	看 情况	0	_	_	_	83	mode-means_r	_	_
+83	采取 进一步 行动 。	0	_	_	_	81	same-unit_m	_	_
+84	字节跳动 星期天 没有 回复	4	_	_	_	57	adversative-contrast_m	_	_
+85	路透社 有关 置评 的	0	_	_	_	86	elaboration-attribute_r	_	_
+86	请求 。	0	_	_	_	84	same-unit_m	_	_
+87	TikTok 的 母公司 字节跳动 8月 24日 正式 启动 对 特朗普 政府 的 司法 诉讼 程序 ，	2	_	_	_	39	joint-other_m	_	_
+88	挑战	0	_	_	_	87	joint-list_m	_	_
+89	特朗普 总统 8月 6日 签署 的	1	_	_	_	91	elaboration-attribute_r	_	_
+90	禁止 与 TikTok 一切 交易 的	0	_	_	_	91	purpose-attribute_r	_	_
+91	行政 命令 。	0	_	_	_	88	same-unit_m	_	_
+92	中国 官媒 中新网 说 ，	1	_	_	_	95	attribution-positive_r	_	_
+93	字节跳动 宣布 正式 起诉 的	0	_	_	_	94	elaboration-attribute_r	_	_
+94	同时 ，	0	_	_	_	95	context-circumstance_r	_	_
+95	开始 准备 美国 业务 的 “ 关停 预案 ” 。	1	_	_	_	87	elaboration-additional_r	_	_
+96	这 个 高调 起诉 行动 引发 了	2	_	_	_	95	elaboration-additional_r	_	_
+97	对 字节跳动 是 正当 维权	0	_	_	_	99	elaboration-attribute_r	_	_
+98	还是 政治 操弄 的	0	_	_	_	97	joint-disjunction_m	_	_
+99	探讨 。	0	_	_	_	96	same-unit_m	_	_
+100	有 观察 人士 认为 ，	2	_	_	_	102	attribution-positive_r	_	_
+101	中国 以 种种 理由 把 谷歌 搜索 引擎 、 脸书 和 推特 拒之门外 ，	1	_	_	_	102	causal-cause_r	_	_
+102	美国	3	_	_	_	95	joint-list_m	_	_
+103	就算 不 以 国家 安全 为 由 ，	0	_	_	_	104	adversative-concession_r	_	_
+104	单 凭 对等 原则 就 应该 对 中国 资讯 软件 下手 。	0	_	_	_	102	same-unit_m	_	_
+105	中国 官媒 则 指责	1	_	_	_	106	attribution-positive_r	_	_
+106	美国	3	_	_	_	95	joint-list_m	_	_
+107	以 国家 安全 为 借口	0	_	_	_	108	mode-means_r	_	_
+108	来 围堵 中国 ，	0	_	_	_	106	same-unit_m	_	_
+109	认为	0	_	_	_	110	attribution-positive_r	_	_
+110	字节跳动 起诉 特朗普 政府 是 企业 正当 的 维权 举动 。	2	_	_	_	106	joint-list_m	_	_
+111	纽约 城市 大学 亨特 学院 兼任 教授 滕彪 对 美国之音 说 ，	2	_	_	_	113	attribution-positive_r	_	_
+112	由于 字节跳动 并不 是 一般 意义 的 私营 企业 ，	1	_	_	_	113	causal-cause_r	_	_
+113	美国 政府	3	_	_	_	95	joint-list_m	_	_
+114	以 国家 安全 为 由	0	_	_	_	115	mode-means_r	_	_
+115	下达 这 个 行政 命令 有 其 正当性 。	0	_	_	_	113	same-unit_m	_	_
+116	美国 官员 担心	0	_	_	_	117	attribution-positive_r	_	_
+117	字节跳动 会 把 美国 用户 的 数据 资料 转交 给 中国 政府 ，	3	_	_	_	95	joint-list_m	_	_
+118	字节跳动 对 此 予以 否认 。	1	_	_	_	117	adversative-contrast_m	_	_
+119	TikTok 在 美国 目前 有 高 达 8千万 活跃 用户 。	2	_	_	_	39	joint-other_m	_	_

@@ -1,0 +1,139 @@
+1	康文署 重开 康乐 设施	5	_	_	_	8	organization-heading_r	_	_
+2	【 2020年 5月 11日 讯 】	4	_	_	_	8	context-circumstance_r	_	_
+3	康乐 及 文化 事务署	1	_	_	_	8	attribution-positive_r	_	_
+4	（ 康文署 ）	0	_	_	_	3	restatement-partial_r	_	_
+5	今日	1	_	_	_	3	same-unit_m	_	_
+6	（ 5月 10日 ）	0	_	_	_	5	restatement-partial_r	_	_
+7	宣布 ，	1	_	_	_	3	same-unit_m	_	_
+8	鉴于 2019 冠状 病毒病 的 最新 情况 ， 康乐 文化署 的 更 多 康乐 及 文化 场地 将 于 5月 21日 重新 开放 。	0	_	_	_	0	ROOT	_	_
+9	而 康乐 和 体育 活动 训练班 及 外展 音乐 课程 ， 也 将 从 6月 1日 开始 恢复 。	0	_	_	_	8	joint-list_m	_	_
+10	将于 5月 21日	1	_	_	_	13	elaboration-attribute_r	_	_
+11	（ 星期四 ）	0	_	_	_	10	restatement-partial_r	_	_
+12	重新 开放 的	1	_	_	_	10	same-unit_m	_	_
+13	休闲 设施 包括 大 部分 公共 游泳池	2	_	_	_	8	elaboration-additional_r	_	_
+14	（ 仅 针对 特定 的 游泳池 设施 ， 例如 主池 、 副池 ）	0	_	_	_	13	elaboration-attribute_r	_	_
+15	舞蹈室 ／ 活动室 、 健身室 、 运动 攀登 设施 、 英式 ／ 美式 桌球台 、 体操 训练场 、 烧烤场 、 贝澳 营地 、 水上 活动 中心 、 屯门 康乐 体育 中心 户外 运动 攀登墙 及 绳网阵 将 在 适当 时候 宣布	2	_	_	_	13	joint-list_m	_	_
+16	将 重新 开放 的	0	_	_	_	17	elaboration-attribute_r	_	_
+17	设施 的 详细 信息 。	0	_	_	_	15	same-unit_m	_	_
+18	此外 ，	2	_	_	_	13	joint-list_m	_	_
+19	康文署 重新 开放 的	0	_	_	_	20	elaboration-attribute_r	_	_
+20	收费 场地	0	_	_	_	18	same-unit_m	_	_
+21	（ 例如 运动场 、 体育馆 、 壁球场 、 网球场 、 草地 滚球场 及 屯门 康乐 体育 中心 ）	1	_	_	_	20	elaboration-attribute_r	_	_
+22	的 更衣室 及 淋浴 设施 ， 将 于 明日	0	_	_	_	18	same-unit_m	_	_
+23	（ 5月 11日 ）	0	_	_	_	22	restatement-partial_r	_	_
+24	重新 开放 。	0	_	_	_	18	same-unit_m	_	_
+25	将 采取 特殊 措施 ，	1	_	_	_	18	joint-list_m	_	_
+26	例如 打开 备用 淋浴间 或 淋浴 喷头 ，	0	_	_	_	25	elaboration-additional_r	_	_
+27	安排 体温 检查	0	_	_	_	26	joint-list_m	_	_
+28	以及 加强 对 淋浴间 和 储物柜 的 定期 清洁 和 消毒 。	0	_	_	_	26	joint-list_m	_	_
+29	市民 可 于 5月 20日	3	_	_	_	13	joint-other_m	_	_
+30	（ 星期三 ）	0	_	_	_	29	restatement-partial_r	_	_
+31	开始 ，	1	_	_	_	29	same-unit_m	_	_
+32	透过 康体通 互联网 订票 服务 ， 各 区 康乐 事务 办事处 康体通 预约室 ，	0	_	_	_	35	mode-means_r	_	_
+33	重新 开放 设施 的	0	_	_	_	34	elaboration-attribute_r	_	_
+34	康体通 预约室 及 自助 服务亭 ，	0	_	_	_	32	same-unit_m	_	_
+35	预订	1	_	_	_	29	same-unit_m	_	_
+36	已 重新 开放 的	0	_	_	_	37	elaboration-attribute_r	_	_
+37	室内 休闲 设施 ） 。	1	_	_	_	29	same-unit_m	_	_
+38	水上 运动 中心 的 休闲 链接 预订处 将 在	2	_	_	_	29	joint-list_m	_	_
+39	休闲 设施 重新 开放 的	0	_	_	_	40	elaboration-attribute_r	_	_
+40	同 一 天 恢复 预订 服务 。	0	_	_	_	38	same-unit_m	_	_
+41	对于	3	_	_	_	29	joint-list_m	_	_
+42	与 较早 关闭 场所 有关 的	0	_	_	_	43	elaboration-attribute_r	_	_
+43	退款 安排	0	_	_	_	41	same-unit_m	_	_
+44	（ 没有 补场 安排 ） ，	1	_	_	_	43	contingency-condition_r	_	_
+45	租房者 可以 向	0	_	_	_	41	same-unit_m	_	_
+46	重新 开放 的	0	_	_	_	47	elaboration-attribute_r	_	_
+47	康文署 休闲 场所 或 地区 休闲 服务 办公室 的 休闲 链接 预订处 提交 一 份 完整 的 退款 申请表 以及 原始 预订 许可 。	0	_	_	_	41	same-unit_m	_	_
+48	可以 从 以下 网站 下载 申请表 。	1	_	_	_	41	elaboration-additional_r	_	_
+49	康乐 文化署 呼吁	3	_	_	_	50	attribution-positive_r	_	_
+50	场地 使用者 遵守 《 预防 及 控制 疾病	3	_	_	_	13	joint-other_m	_	_
+51	（ 禁止 群组 聚集 ）	0	_	_	_	50	elaboration-attribute_r	_	_
+52	规例 》	1	_	_	_	50	same-unit_m	_	_
+53	（ 第599G 章 ） ，	0	_	_	_	52	elaboration-attribute_r	_	_
+54	禁止 团体 聚会 人数 超过	2	_	_	_	50	joint-list_m	_	_
+55	法律 规定 的	0	_	_	_	56	elaboration-attribute_r	_	_
+56	人数 。	0	_	_	_	54	same-unit_m	_	_
+57	康文署 会 在 休憩 设施 采取 特别 措施 ，	4	_	_	_	50	joint-list_m	_	_
+58	以 重新 开放 。	0	_	_	_	57	purpose-goal_r	_	_
+59	措施 包括 加强 清洁 工作 ， 安排 所有	1	_	_	_	57	elaboration-additional_r	_	_
+60	进入 室内 场所 的	0	_	_	_	61	elaboration-attribute_r	_	_
+61	人 的 体温 检查 ， 限制 场所 使用者 的 数量 以及 打开 备用 桌子 或 有 特定 距离 的 桌子 。	0	_	_	_	59	same-unit_m	_	_
+62	康乐 文化署 亦 会 于 6月 1日	4	_	_	_	13	joint-sequence_m	_	_
+63	（ 星期一 ）	0	_	_	_	62	restatement-partial_r	_	_
+64	在 户外 及 室内 场地 ， 以及	1	_	_	_	62	same-unit_m	_	_
+65	在 水上 运动 中心 举办 的	0	_	_	_	66	elaboration-attribute_r	_	_
+66	康体 活动 ， 恢复 一些 娱乐 节目 。	1	_	_	_	62	same-unit_m	_	_
+67	这些 包括 康乐 及 体育 活动 训练班 ，	2	_	_	_	62	elaboration-additional_r	_	_
+68	包括 网球 、 高尔夫球 、 太极 、 草地 滚球 、 羽毛球 、 壁球 、 乒乓球 、 健体舞 、 器械 健体 、 社交舞 、 独木舟 、 滑浪 风帆 等 。	0	_	_	_	67	joint-list_m	_	_
+69	为 减少 社交 接触 和 感染 风险 ，	2	_	_	_	70	purpose-goal_r	_	_
+70	参加 人数 每 个 程序 最多 可 容纳 八 人	3	_	_	_	62	joint-other_m	_	_
+71	（ 包括 导师 ）	0	_	_	_	70	elaboration-attribute_r	_	_
+72	或 法律 规定 的 人数 。	1	_	_	_	70	same-unit_m	_	_
+73	公众 人士 可 自 2020年 5月 25日	3	_	_	_	62	joint-other_m	_	_
+74	（ 星期一 ）	0	_	_	_	73	restatement-partial_r	_	_
+75	起 ，	1	_	_	_	73	same-unit_m	_	_
+76	通过 互联网 ，	1	_	_	_	78	mode-means_r	_	_
+77	在 康文署 的 区 康乐 事务 办事处 预订 柜台 ， 设有 康乐通 服务 及 自助 服务亭 的	0	_	_	_	78	elaboration-attribute_r	_	_
+78	康乐 场所 ， 以	1	_	_	_	73	same-unit_m	_	_
+79	先到 先得 的	0	_	_	_	80	elaboration-attribute_r	_	_
+80	方式 报名 。	1	_	_	_	73	same-unit_m	_	_
+81	有关 课程 及 报名 的 详情 ， 稍后 会 上载 至 康文署 网页 。	2	_	_	_	73	elaboration-additional_r	_	_
+82	公众 也 可以 向 地区 休闲 服务 办公室 查询 。	3	_	_	_	73	joint-list_m	_	_
+83	处理 及 接受 部门 的 非 收费 土地 康乐 及 体育 设施 的 个人 及 集体 预订 申请 ，	1	_	_	_	84	organization-preparation_r	_	_
+84	针对 收费 土地 康乐 及 体育 设施 的 集体 预订 申请 ， 婚礼 场地 ， 圆形 剧场 及 非 收费 休闲 场地 的 使用 申请 非 指定 用途 / 销售 活动 将 暂停 ，	5	_	_	_	13	elaboration-additional_r	_	_
+85	直 到 另行 通知 。	0	_	_	_	84	adversative-concession_r	_	_
+86	公共 游泳池 重新 开放 后 ，	0	_	_	_	87	context-circumstance_r	_	_
+87	将 宣布 对 游泳池 设施 进行 整体 预订 的 安排 。	2	_	_	_	84	joint-other_m	_	_
+88	关于 文化 场所 ， 另外 12 个 地区 图书馆 的 成人 和 儿童 图书馆 将 于 5月 21日 部分 开放 ，	2	_	_	_	84	joint-other_m	_	_
+89	并 实行 特殊 的 开放 时间 。	0	_	_	_	88	joint-list_m	_	_
+90	它们 包括 香港仔 公共 图书馆 ， 柴湾 公共 图书馆 ， 骆克道 公共 图书馆 ， 荔枝角 公共 图书馆 ， 蓝田 公共 图书馆 ， 牛池湾 公共 图书馆 ， 油麻地 公共 图书馆 ， 粉岭 公共 图书馆 ， 大埔 公共 图书馆 ， 调乌坑岭 公共 图书馆 ， 青衣 公共 图书馆 和 东涌 公共 图书馆 。	1	_	_	_	88	explanation-evidence_r	_	_
+91	这 12 个 地区 图书馆 的 开放 时间 为 周一 至 周六 的 下午 1点 至 晚上 8点 ， 周日 和 公众 假期 的 上午 9点 至 下午 5点 。	0	_	_	_	90	joint-list_m	_	_
+92	为了 避免 人们 聚集 ，	2	_	_	_	93	purpose-goal_r	_	_
+93	图书馆 将	2	_	_	_	88	elaboration-additional_r	_	_
+94	按 时段	0	_	_	_	95	mode-manner_r	_	_
+95	安排 入场 ，	0	_	_	_	93	same-unit_m	_	_
+96	每 个 时段 持续 约 一 小时 。	1	_	_	_	93	elaboration-additional_r	_	_
+97	入学单 将 以	3	_	_	_	93	joint-other_m	_	_
+98	先到 先得 的	0	_	_	_	99	elaboration-attribute_r	_	_
+99	方式 分配 ，	0	_	_	_	97	same-unit_m	_	_
+100	以 参加 每届 会议 。	1	_	_	_	97	purpose-goal_r	_	_
+101	12 岁 以下 的 儿童	2	_	_	_	97	joint-list_m	_	_
+102	仅 在 成人 陪同 下	0	_	_	_	103	contingency-condition_r	_	_
+103	才 能 进入 。	0	_	_	_	101	same-unit_m	_	_
+104	将 提供 有限 的 服务 ，	3	_	_	_	93	joint-other_m	_	_
+105	包括 借出 和 退还 图书馆 资料 以及 领取 保留 的 图书馆 资料 。	0	_	_	_	104	elaboration-additional_r	_	_
+106	一些 计算机 设施 将 恢复 服务	1	_	_	_	104	joint-list_m	_	_
+107	并 开放 供 电话 预订 。	0	_	_	_	106	joint-list_m	_	_
+108	报纸 和 期刊区 将 保持 关闭 。	1	_	_	_	104	joint-list_m	_	_
+109	上述 12 个 公共 图书馆 和 5 个	3	_	_	_	93	joint-other_m	_	_
+110	已 重新 开放 的	0	_	_	_	111	elaboration-attribute_r	_	_
+111	主要 图书馆	0	_	_	_	109	same-unit_m	_	_
+112	（ 包括 九龙 ， 坪山 天水围 ， 沙田 ， 荃湾 ， 屯门 公共 图书馆 ）	1	_	_	_	109	elaboration-attribute_r	_	_
+113	的 学生 学习室 将 在 同 一 天 恢复 服务 。	2	_	_	_	109	same-unit_m	_	_
+114	学生 自习室 将	3	_	_	_	109	joint-other_m	_	_
+115	与 上述 图书馆 一样	0	_	_	_	116	mode-manner_r	_	_
+116	实行 特殊 的 开放 时间 。	0	_	_	_	114	same-unit_m	_	_
+117	入场 是	3	_	_	_	109	joint-other_m	_	_
+118	按 会话	0	_	_	_	119	mode-manner_r	_	_
+119	安排 的 ，	0	_	_	_	117	same-unit_m	_	_
+120	每 次 会话 持续 约 三 个 小时 ，	1	_	_	_	117	elaboration-additional_r	_	_
+121	并且 用户 数量 有限 。	0	_	_	_	120	joint-list_m	_	_
+122	港岛东 体育馆 休憩处 ， 香港 文化 中心 及 大围 荃南路 的 自助 图书馆站 ， 以及 香港 公共 图书馆 的 所有 掉书 服务 ，	3	_	_	_	93	joint-other_m	_	_
+123	包括 港铁 中环 ， 九龙塘 及 南区 青站	0	_	_	_	122	elaboration-attribute_r	_	_
+124	已 恢复 服务 。	1	_	_	_	122	same-unit_m	_	_
+125	公共 图书馆 将 继续 提供 在线 服务 ， 例如 电子书 和 电子 数据库 。	2	_	_	_	122	joint-list_m	_	_
+126	有关 详细 信息 ， 请 访问 康文署 网站 。	3	_	_	_	122	elaboration-additional_r	_	_
+127	此外 ， 音乐 事务处 成人 外展 音乐 课程 将 于 6月 1日 恢复 ，	2	_	_	_	84	joint-other_m	_	_
+128	参加 课程 的	0	_	_	_	129	elaboration-attribute_r	_	_
+129	人数 不得 超过 八 名	0	_	_	_	127	elaboration-additional_r	_	_
+130	（ 包括 导师 ）	1	_	_	_	129	elaboration-attribute_r	_	_
+131	或 法律 规定 的 人数 。	2	_	_	_	129	same-unit_m	_	_
+132	参观 公共 图书馆 和 音乐 事务处 音乐 中心 的	0	_	_	_	133	elaboration-attribute_r	_	_
+133	游客 将 需要 使用 酒精 搓手液 ，	3	_	_	_	129	joint-other_m	_	_
+134	入场 前 要 进行 体温 检测 ，	1	_	_	_	133	joint-list_m	_	_
+135	还 建议 戴好 口罩 。	1	_	_	_	133	joint-list_m	_	_
+136	将 采取 加强 清洁 措施 ，	3	_	_	_	129	joint-other_m	_	_
+137	包括 在 会议 之间 进行 清洁 。	0	_	_	_	136	elaboration-additional_r	_	_
+138	康文署 会 继续 密切 监察 情况 ，	3	_	_	_	8	elaboration-additional_r	_	_
+139	并 及时 检讨 有关 安排 。	0	_	_	_	138	joint-list_m	_	_

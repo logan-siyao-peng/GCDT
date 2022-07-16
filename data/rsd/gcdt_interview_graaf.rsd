@@ -1,0 +1,145 @@
+1	2020年 美国 总统 大选 7月 竞选 活动	8	_	_	_	46	organization-heading_r	_	_
+2	约翰·德·格拉夫	7	_	_	_	46	organization-heading_r	_	_
+3	（ 面包 和 玫瑰党 ）	0	_	_	_	2	elaboration-additional_r	_	_
+4	整个 7月 ， 由 马利兰 大学 研究 学者 杰罗姆·石格尔	1	_	_	_	13	mode-means_r	_	_
+5	（ Jerome Segal ）	0	_	_	_	4	restatement-partial_r	_	_
+6	担任 总统 、	1	_	_	_	4	same-unit_m	_	_
+7	电影 制片人 约翰·德·格拉夫	2	_	_	_	4	joint-list_m	_	_
+8	（ John de Graaf ）	0	_	_	_	7	restatement-partial_r	_	_
+9	担任 副总统 ，	1	_	_	_	7	same-unit_m	_	_
+10	为 面包 与 玫瑰党	0	_	_	_	13	purpose-goal_r	_	_
+11	（ Bread and Roses Party ）	0	_	_	_	10	restatement-partial_r	_	_
+12	获得 投票权	1	_	_	_	10	same-unit_m	_	_
+13	进行 了 请愿 。	1	_	_	_	36	context-background_r	_	_
+14	为了 避免 破坏者 效应 ，	1	_	_	_	15	purpose-goal_r	_	_
+15	该 党 只 在 非摇摆州 寻求	2	_	_	_	13	elaboration-additional_r	_	_
+16	获得 选票 的	0	_	_	_	17	elaboration-attribute_r	_	_
+17	机会 ，	0	_	_	_	15	same-unit_m	_	_
+18	因为 在 这些 州 ， 某 一 个 主要 政党 预计 将 赢得 选举 。	2	_	_	_	15	causal-cause_r	_	_
+19	在 摇摆州 ， 该 党 支持 民主党 的 总统票 。	3	_	_	_	15	adversative-contrast_m	_	_
+20	西格尔 在 2018年 成立 了 面包 和 玫瑰党 ，	4	_	_	_	15	joint-other_m	_	_
+21	其 名称 源于	0	_	_	_	20	elaboration-additional_r	_	_
+22	1912年 马萨诸塞州 移民 纺织 工人 罢工 时	0	_	_	_	23	context-circumstance_r	_	_
+23	的	0	_	_	_	24	elaboration-attribute_r	_	_
+24	号召力 。	0	_	_	_	21	same-unit_m	_	_
+25	该 党 持 左派 、	1	_	_	_	21	joint-list_m	_	_
+26	自称 “ 社会 主义 ” 的	0	_	_	_	27	elaboration-attribute_r	_	_
+27	立场 ，	0	_	_	_	25	same-unit_m	_	_
+28	包括 就业权 、 带薪 休假 、	1	_	_	_	25	elaboration-additional_r	_	_
+29	缩短 每 周 工作 时间 、	0	_	_	_	28	joint-list_m	_	_
+30	承认 巴勒斯坦国 等 。	0	_	_	_	28	joint-list_m	_	_
+31	2019年 8月 ， 该 党 提名 塞加尔 为 总统 ，	1	_	_	_	20	joint-sequence_m	_	_
+32	今年 4月 ， 他 宣布 德格拉夫 为 竞选 伙伴 。	1	_	_	_	20	joint-sequence_m	_	_
+33	作为 一 名 电影人 ， 德格拉夫 已经 制作 了 40 部 纪录片 。	0	_	_	_	32	elaboration-additional_r	_	_
+34	此外 ， 他 还 与 人 合写 了 4 本 书 ，	0	_	_	_	33	joint-list_m	_	_
+35	并 为 《 进步 》 、 《 国家 》 和 《 纽约 时报 》 等 刊物 撰写 了 大量 文章 。	0	_	_	_	33	joint-list_m	_	_
+36	帕特尔 与 维基 新闻 就 竞选 活动 进行 了 交谈 ，	6	_	_	_	46	context-background_r	_	_
+37	一起 讨论 了	1	_	_	_	38	attribution-positive_r	_	_
+38	他 为什么 要 加入 面包 和 玫瑰党 ，	0	_	_	_	36	joint-list_m	_	_
+39	他 作为 副总统 候选人 的 角色 是 什么 ，	0	_	_	_	38	joint-list_m	_	_
+40	以及 为什么 非摇摆州 的 选民 应该 选择 投票 给 西格尔 和 格拉夫 。	0	_	_	_	38	joint-list_m	_	_
+41	你 为什么 决定	0	_	_	_	42	attribution-positive_r	_	_
+42	竞选 面包 和 玫瑰党 的 副总统 候选人 ？	4	_	_	_	46	topic-question_r	_	_
+43	杰罗姆 邀请 我	0	_	_	_	44	attribution-positive_r	_	_
+44	成为 面包 和 玫瑰党 的 竞选 伙伴 ，	1	_	_	_	46	context-background_r	_	_
+45	我 认为	0	_	_	_	46	attribution-positive_r	_	_
+46	这 是 一 种 荣誉 ，	0	_	_	_	0	ROOT	_	_
+47	因为	2	_	_	_	51	organization-preparation_r	_	_
+48	半 个 世纪 以来 ，	0	_	_	_	49	context-circumstance_r	_	_
+49	我 一直 在 倡导 其 原则 。	0	_	_	_	47	same-unit_m	_	_
+50	我们 相信 ，	0	_	_	_	51	attribution-positive_r	_	_
+51	生活 质量 比 金钱 或 商品 的 数量 更 重要 ，	2	_	_	_	46	causal-cause_r	_	_
+52	我们 国家 优先 考虑 的	0	_	_	_	53	elaboration-attribute_r	_	_
+53	经济 增长 、 对 股市 的 崇拜 和 不断 减税	1	_	_	_	51	explanation-justify_r	_	_
+54	以 促进 盲目 消费 ，	1	_	_	_	53	purpose-goal_r	_	_
+55	都 威胁 着 地球 的 生命 系统 ，	2	_	_	_	53	same-unit_m	_	_
+56	并 忽视 了 “ 玫瑰 ” 在 我们 生活 中 的 重要性 ， 如 自然 、 自然美 和 聪明 的 人类 设计 、 艺术 、 社会 联系 、 健康 ， 尤其是 足够 的 休闲 时间	3	_	_	_	53	joint-list_m	_	_
+57	来 实际 享受 我们 巨大 的 劳动 成果 。	0	_	_	_	56	purpose-goal_r	_	_
+58	我们 出身 于	1	_	_	_	62	adversative-concession_r	_	_
+59	抵制 消费 主义 的	0	_	_	_	60	elaboration-attribute_r	_	_
+60	“ 自愿 简朴 ” 运动 ，	0	_	_	_	58	same-unit_m	_	_
+61	但 明白	0	_	_	_	62	attribution-positive_r	_	_
+62	简单 和 生态 的 生活 并不 只 是 个人 的 选择 。	1	_	_	_	63	context-background_r	_	_
+63	我们 需要 制定 政策 ，	3	_	_	_	46	joint-other_m	_	_
+64	让 人们 更 容易 赚取 适度	0	_	_	_	63	purpose-goal_r	_	_
+65	但 有 保障 的	0	_	_	_	66	elaboration-attribute_r	_	_
+66	收入 ，	0	_	_	_	64	same-unit_m	_	_
+67	而 不 是 为了 生产 而 生产 ，	1	_	_	_	64	adversative-contrast_m	_	_
+68	也 不 是 为了	0	_	_	_	67	joint-list_m	_	_
+69	有 意义 的	0	_	_	_	70	elaboration-attribute_r	_	_
+70	工作 、 人 与 人 之间 的 联系 和 美丽 的 环境 能够 给 我们 带来 的	0	_	_	_	71	elaboration-attribute_r	_	_
+71	满足感 。	0	_	_	_	68	same-unit_m	_	_
+72	杰罗姆 还 长期 倡导 中东 和平	1	_	_	_	75	context-background_r	_	_
+73	和 为 巴勒斯坦 人 伸张 正义 ，	0	_	_	_	72	joint-list_m	_	_
+74	在 以色列 实现 两国 解决 方案 。	0	_	_	_	72	joint-list_m	_	_
+75	我们 支持 这 一 点 ，	3	_	_	_	46	joint-other_m	_	_
+76	也 支持	0	_	_	_	77	attribution-positive_r	_	_
+77	为了 世界 和平 而 大 规模 削减 核武器 和 军备 集结 。	0	_	_	_	75	joint-list_m	_	_
+78	作为 一 个 国家 ， 我们 的 优先 事项 根本 就 不 正常 ，	0	_	_	_	79	context-background_r	_	_
+79	我们 想 说明 这 一 点 ，	2	_	_	_	75	elaboration-additional_r	_	_
+80	并 提出 对 美好 生活 的 不同 看法 。	1	_	_	_	79	joint-list_m	_	_
+81	虽然 他 是 一 个 学者 和 学者 ，	3	_	_	_	46	joint-other_m	_	_
+82	但 我 是 一 个 电影 制片人 和 传播者 ，	0	_	_	_	81	adversative-contrast_m	_	_
+83	他 花 了 四十 年 时间	1	_	_	_	81	elaboration-additional_r	_	_
+84	为 公共 广播 电视 公司 制作 关于 生活 质量 问题 的 纪录片 。	0	_	_	_	83	purpose-goal_r	_	_
+85	作为 面包 和 玫瑰党 的 副总统 提名人 ， 你 有 什么 职责 和 责任 ？	5	_	_	_	90	topic-question_r	_	_
+86	在 这 一 点 上 ， 只 是 为了 帮助 宣传 ，	3	_	_	_	90	context-background_r	_	_
+87	因为 我们 并不 抱有 获胜 的 幻想 。	0	_	_	_	86	causal-cause_r	_	_
+88	我们 的 目标 是 教育性 的 ，	1	_	_	_	86	adversative-contrast_m	_	_
+89	我们 希望	2	_	_	_	90	attribution-positive_r	_	_
+90	我们 的 关键 概念 ，	5	_	_	_	46	joint-other_m	_	_
+91	即 保证 工作 或 收入 ，	0	_	_	_	90	elaboration-attribute_r	_	_
+92	让 人们 过上 适度	0	_	_	_	91	joint-list_m	_	_
+93	但 有 保障 的	0	_	_	_	94	elaboration-attribute_r	_	_
+94	生活 ，	0	_	_	_	92	same-unit_m	_	_
+95	以及 让 “ 美丽 新政 ” 和 “ 绿色 新政 ” 能 被 主要 政党 的 候选人 和 领导人 接受 。	1	_	_	_	90	same-unit_m	_	_
+96	当然 ， 我们 很 难 期望	0	_	_	_	97	attribution-positive_r	_	_
+97	美国 政府党 会 认真 对待 我们 ，	2	_	_	_	99	adversative-concession_r	_	_
+98	但 我们 知道	1	_	_	_	99	attribution-positive_r	_	_
+99	许多 民主党人 与 我们 的 价值观 相同 ，	2	_	_	_	102	context-background_r	_	_
+100	并 将 受到 我们 的 建议 的 启发 。	0	_	_	_	99	joint-list_m	_	_
+101	我们 希望 看到	0	_	_	_	102	attribution-positive_r	_	_
+102	民主党 内 有 一 个 “ 面包 与 玫瑰 核心 小组 ” ，	4	_	_	_	90	joint-other_m	_	_
+103	我们 同意	0	_	_	_	104	attribution-positive_r	_	_
+104	它 呼吁 更 大 的 平等 、 气候 行动 、 种族 正义 、 同情心 和 善良 。	1	_	_	_	102	joint-list_m	_	_
+105	我们 还 认为 ，	1	_	_	_	106	attribution-positive_r	_	_
+106	这 应该 关注 “ 玫瑰 ” ，	1	_	_	_	102	joint-list_m	_	_
+107	应该 努力 减少 国际 紧张 局势 。	0	_	_	_	106	joint-list_m	_	_
+108	我们 将 继续 作为 第三党 和 在 民主党 内 为 这些 理念 而 努力 。	3	_	_	_	102	elaboration-additional_r	_	_
+109	预计 你们 的 得票 会 以 哪些 州份 为 主 ？	4	_	_	_	116	topic-question_r	_	_
+110	为什么 这些 州 的 选民 应该 选择 投给 你们 ？	0	_	_	_	109	joint-list_m	_	_
+111	因为 2019 冠状 病毒病 疫情 大 流行 ，	1	_	_	_	112	causal-cause_r	_	_
+112	我们 很 难 收集 到 许多 州 的 选票 ，	2	_	_	_	116	context-background_r	_	_
+113	你 只 能 在	0	_	_	_	112	elaboration-additional_r	_	_
+114	杰罗姆 居住 的	0	_	_	_	115	elaboration-attribute_r	_	_
+115	马利兰州 和 佛蒙特州 看到 我们 今年 的 选票 。	0	_	_	_	113	same-unit_m	_	_
+116	我们 并不 寻求 成为 破坏者 ，	5	_	_	_	46	joint-other_m	_	_
+117	也 无意 在	0	_	_	_	116	joint-list_m	_	_
+118	导致 拜登 落选 的	0	_	_	_	119	elaboration-attribute_r	_	_
+119	州 进行 竞选 ，	0	_	_	_	117	same-unit_m	_	_
+120	因为 我们 认为	0	_	_	_	121	attribution-positive_r	_	_
+121	目前 最 重要 的 事情 是 结束 特朗普 总统 任期 的 畸形 状态 。	1	_	_	_	116	causal-cause_r	_	_
+122	我们 认为	0	_	_	_	123	attribution-positive_r	_	_
+123	佛蒙特州 和 马利兰州 是 联盟 中 最 蓝 的 州 之一 ，	3	_	_	_	128	context-background_r	_	_
+124	在 那里 ， 一些 左派 人士 也 有 可能 不 参加 选举 ，	1	_	_	_	123	explanation-justify_r	_	_
+125	因为 他们 知道	0	_	_	_	126	attribution-positive_r	_	_
+126	拜登 在 该 州 的 胜利 是 肯定 的 。	0	_	_	_	124	causal-cause_r	_	_
+127	相反 ， 我们 希望	2	_	_	_	128	attribution-positive_r	_	_
+128	他们 会 出来	3	_	_	_	116	joint-other_m	_	_
+129	投 我们 的 票 ，	0	_	_	_	128	joint-list_m	_	_
+130	然后 再 投给 更 往下 的 其他 进步 人士 。	1	_	_	_	128	joint-sequence_m	_	_
+131	如果 我们	1	_	_	_	135	contingency-condition_r	_	_
+132	获得 足够 的 选票	0	_	_	_	133	mode-means_r	_	_
+133	而 被 注意 到 ，	0	_	_	_	131	same-unit_m	_	_
+134	我们 希望	0	_	_	_	135	attribution-positive_r	_	_
+135	我们 可以 创造 一 个 新 的 对话 ， 关于 “ 玫瑰花 ” 在 政治 思想 中 的 重要性 。	4	_	_	_	128	elaboration-additional_r	_	_
+136	在 其他 安全 的 蓝州 或 深红 的 州 ， 选民 可以 给 我们 写信 ，	3	_	_	_	116	joint-other_m	_	_
+137	发出 关于 生活 质量 的 讯息 。	0	_	_	_	136	joint-list_m	_	_
+138	当 我们 从 2019 冠状 病毒病 疫情 大 流行 中 脱颖而出 时 ，	2	_	_	_	140	context-circumstance_r	_	_
+139	我们 不 希望	1	_	_	_	140	attribution-negative_r	_	_
+140	回到 一 个 严重 不 平等 、 过度 劳累 的 美国 的 旧 常态 ，	1	_	_	_	136	joint-other_m	_	_
+141	沉迷于 物质 主义 价值观 ，	0	_	_	_	142	causal-cause_r	_	_
+142	而 牺牲 我们 的 环境 、 健康 和 幸福 。	0	_	_	_	140	elaboration-additional_r	_	_
+143	我 希望	1	_	_	_	145	attribution-positive_r	_	_
+144	读到 这 篇 文章 的	0	_	_	_	145	elaboration-attribute_r	_	_
+145	人 能够 查看 我们 的 网页 和 我们 的 Facebook 专页 。	1	_	_	_	136	joint-other_m	_	_

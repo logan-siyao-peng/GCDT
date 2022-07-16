@@ -1,0 +1,170 @@
+1	2021年 Apple 秋季 新品 发布会 ：	8	_	_	_	16	organization-heading_r	_	_
+2	iPhone 13 系列 等 新 产品 上市	0	_	_	_	1	elaboration-additional_r	_	_
+3	【 2021年 9月 16日 讯 】	7	_	_	_	16	context-circumstance_r	_	_
+4	2021年 Apple 秋季 新品 发布会 于 美国 西岸 时间 9月 14日 上午 10点 ， 台北 时间 9月 15日 凌晨 1点 举办 。	2	_	_	_	12	context-background_r	_	_
+5	采用	0	_	_	_	4	joint-list_m	_	_
+6	与 去年 相同 的	0	_	_	_	7	elaboration-attribute_r	_	_
+7	线上 会议 形式 ，	0	_	_	_	5	same-unit_m	_	_
+8	正式 发表 新一代 iPhone 13 系列 、 iPad 9 、 iPad mini 6 、 及 Apple Watch Series 7 等 系列 新品 。	0	_	_	_	4	joint-list_m	_	_
+9	几 款 新品	1	_	_	_	12	explanation-motivation_r	_	_
+10	相较 前代 产品	0	_	_	_	11	context-circumstance_r	_	_
+11	均 有 不同 方面 的 提升 ，	0	_	_	_	9	same-unit_m	_	_
+12	下面 请 看	6	_	_	_	16	context-background_r	_	_
+13	记者 总结 的	0	_	_	_	14	elaboration-attribute_r	_	_
+14	产品 概况 汇总 。	0	_	_	_	12	same-unit_m	_	_
+15	iPhone 13 系列	4	_	_	_	16	organization-heading_r	_	_
+16	作为 Apple 公司 最新 的 旗舰 智能 手机 系列 ， iPhone 13 全 系列 取消 了 64 GB 内存 版本 ，	0	_	_	_	0	ROOT	_	_
+17	改以 128 GB 为 最低 内存 版本 。	0	_	_	_	16	joint-list_m	_	_
+18	搭载 5 nm 制程 的	0	_	_	_	19	elaboration-attribute_r	_	_
+19	A15 仿生 芯片 ， 拥有 近 150亿 个 晶体管 。	1	_	_	_	16	joint-list_m	_	_
+20	根据 官方 资料 ，	2	_	_	_	22	attribution-positive_r	_	_
+21	具有 两 个 高性能 内核 和 四 个 高效 内核 的	0	_	_	_	22	elaboration-attribute_r	_	_
+22	全新 6 核 CPU 比 竞争 对手 快 50% ，	1	_	_	_	16	joint-list_m	_	_
+23	而 新 的 4 核 GPU 比 竞争 对手 快 30% 。	1	_	_	_	22	joint-list_m	_	_
+24	新 的 16 核 神经 引擎 每 秒 可 进行 15.8万亿 次 运算 ，	1	_	_	_	16	joint-list_m	_	_
+25	能 带来 更 快 的 机器 学习 计算 等 功能 。	0	_	_	_	24	causal-result_r	_	_
+26	iPhone 13 Pro 的 相机 被 认为 是	2	_	_	_	16	joint-other_m	_	_
+27	iPhone 历代 以来 最大 幅度 的	0	_	_	_	28	elaboration-attribute_r	_	_
+28	升级 。	0	_	_	_	26	same-unit_m	_	_
+29	虽然 仍然 是 三 镜头 设计 ，	0	_	_	_	30	adversative-concession_r	_	_
+30	但 每 颗 镜头 都 有 明显 的 进步 。	4	_	_	_	34	organization-preparation_r	_	_
+31	首先 介绍 广角 主 镜头 部分 ，	2	_	_	_	34	organization-preparation_r	_	_
+32	全幅 等效 焦距 同样 是 26 mm ，	1	_	_	_	34	adversative-concession_r	_	_
+33	像素 密度 1.9 微米 ，	0	_	_	_	32	joint-list_m	_	_
+34	但 光圈 拓展 到 了 史上 最 大 的 f/1.5 ，	1	_	_	_	26	elaboration-additional_r	_	_
+35	同时 具备 感光 元件 位移 的 光学式 影像 稳定 功能 。	0	_	_	_	34	joint-list_m	_	_
+36	超广角镜 等效 焦距 则 为 13 mm ，	3	_	_	_	34	joint-list_m	_	_
+37	光 圈 更 大 达到 f/1.8 ，	0	_	_	_	36	joint-list_m	_	_
+38	并 新增 微距 模式 ，	0	_	_	_	36	joint-list_m	_	_
+39	最近 对焦 距离 仅 只有 2 cm 。	0	_	_	_	38	elaboration-additional_r	_	_
+40	望远 镜头 则 改 为 稍 远 的 77 mm 望远 镜头 ，	3	_	_	_	34	joint-list_m	_	_
+41	并 具备 3 倍 光学 变焦 。	0	_	_	_	40	joint-list_m	_	_
+42	iPhone 13 也 在 录影 功能 上 加入 了 “ 电影 效果 模式 ” ，	2	_	_	_	16	joint-other_m	_	_
+43	即是 说 手机	0	_	_	_	42	elaboration-additional_r	_	_
+44	在 录影 时	0	_	_	_	45	context-circumstance_r	_	_
+45	会 记录 更 多 画面 的 深度 资讯 。	0	_	_	_	43	same-unit_m	_	_
+46	当 画面 中 有 显眼 的 新 的 主体 进入 时 ，	2	_	_	_	47	context-circumstance_r	_	_
+47	手机 会 自动 辨识 ，	1	_	_	_	42	elaboration-additional_r	_	_
+48	并 将 焦点 自然 的 转移 到 新 的 主体 上 ，	0	_	_	_	47	joint-list_m	_	_
+49	让 画面 变化 更 有 “ 电影感 ” 。	1	_	_	_	47	causal-result_r	_	_
+50	除此之外 ，	2	_	_	_	42	joint-list_m	_	_
+51	手机 厉害 之	0	_	_	_	52	elaboration-attribute_r	_	_
+52	处 还 能	0	_	_	_	50	same-unit_m	_	_
+53	在 后制 时	0	_	_	_	54	context-circumstance_r	_	_
+54	调整 录影 画面 的 焦点 ，	0	_	_	_	50	same-unit_m	_	_
+55	是	1	_	_	_	50	evaluation-comment_r	_	_
+56	目前 市场 上 唯一 支援 拍摄 后 景深 编辑 的	0	_	_	_	57	elaboration-attribute_r	_	_
+57	手机 。	0	_	_	_	55	same-unit_m	_	_
+58	而 两 款 入门版 iPhone 13 系列 手机 ， 分别 为	3	_	_	_	16	joint-list_m	_	_
+59	屏幕 5.4 吋 的	0	_	_	_	60	elaboration-attribute_r	_	_
+60	iPhone 13 mini ， 以及	0	_	_	_	58	same-unit_m	_	_
+61	屏幕 6.1 吋 的	0	_	_	_	62	elaboration-attribute_r	_	_
+62	iPhone 13 。	0	_	_	_	58	same-unit_m	_	_
+63	它们 搭载 A15 Bionic 处理器 ，	1	_	_	_	58	elaboration-additional_r	_	_
+64	屏幕 同样 采用 OLED 面版 。	0	_	_	_	63	joint-list_m	_	_
+65	相较于 上 一 代	1	_	_	_	66	organization-preparation_r	_	_
+66	最大 改变 在于 Face ID 的 浏海 缩小 了 20% 、	0	_	_	_	63	joint-list_m	_	_
+67	听筒 位置 也 移到 上方 边缘 ，	0	_	_	_	66	joint-list_m	_	_
+68	双镜头组 则 经过 重新 设计 。	0	_	_	_	66	joint-list_m	_	_
+69	去年 iPhone 12 Pro 中 所 搭载 的	0	_	_	_	70	elaboration-attribute_r	_	_
+70	感光 元件 位移式 稳定 功能 ， 这 次 也 下放 给 iPhone 13 与 iPhone 13 mini ，	0	_	_	_	63	joint-list_m	_	_
+71	让	1	_	_	_	70	purpose-goal_r	_	_
+72	手 不 稳 的	0	_	_	_	73	elaboration-attribute_r	_	_
+73	使用者 也 能 拍出 平稳 画面 。	0	_	_	_	71	same-unit_m	_	_
+74	第九 代 iPad	3	_	_	_	76	organization-heading_r	_	_
+75	Apple 更新 了 入门 等级 的 第九 代 iPad ，	1	_	_	_	76	organization-preparation_r	_	_
+76	搭载 10.2 吋 屏幕	5	_	_	_	16	joint-other_m	_	_
+77	且 支援 TureTone 原彩 显示 技术 ，	0	_	_	_	76	joint-list_m	_	_
+78	内建 全新 A13 仿生 芯片 ，	0	_	_	_	76	joint-list_m	_	_
+79	同时 结合 周边 配件	0	_	_	_	76	joint-list_m	_	_
+80	也 可 带给 使用者们 更 好 的 使用 体验 。	0	_	_	_	79	causal-result_r	_	_
+81	采用 了 A13 仿生 芯片 的	0	_	_	_	82	elaboration-attribute_r	_	_
+82	iPad 9 ，	2	_	_	_	76	joint-other_m	_	_
+83	相较于 前 一 代 ， A13 仿生 芯片	0	_	_	_	84	context-circumstance_r	_	_
+84	效能 提升 了 20% ，	1	_	_	_	82	same-unit_m	_	_
+85	绘图 引擎 和 神经 网络 引擎 也 同步 效能 提升 了 20% 之多 。	2	_	_	_	82	joint-list_m	_	_
+86	搭载 800万 画素 主镜头 和 1200万 画素 前置 镜头 ，	2	_	_	_	76	joint-other_m	_	_
+87	前 镜头 更 支援 Center Stage ，	0	_	_	_	86	joint-list_m	_	_
+88	当 视讯 时	0	_	_	_	89	context-circumstance_r	_	_
+89	会 自动 追踪 影像 中 的 人物 ，	0	_	_	_	87	elaboration-additional_r	_	_
+90	不论 怎么 移动	0	_	_	_	91	adversative-concession_r	_	_
+91	都 会 影像 中 的 人 都 会 居中 。	1	_	_	_	89	elaboration-additional_r	_	_
+92	第六 代 iPad mini	4	_	_	_	95	organization-heading_r	_	_
+93	除 新 发布 的 iPad 9 之外 ，	0	_	_	_	94	context-background_r	_	_
+94	Apple 也 更新 了 iPad mini 产品 系列 。	3	_	_	_	95	organization-preparation_r	_	_
+95	iPad mini 6 采用 了 全新 设计 ，	5	_	_	_	16	joint-other_m	_	_
+96	搭载 了	0	_	_	_	95	joint-list_m	_	_
+97	与 iPhone 13 系列 相同 的	0	_	_	_	98	elaboration-attribute_r	_	_
+98	A15 芯片 ，	0	_	_	_	96	same-unit_m	_	_
+99	性能 更加 强劲 ，	1	_	_	_	96	causal-result_r	_	_
+100	并 有 粉红色 、 星光色 、 紫色 ， 以及 太空 灰色 ， 共 四 种 颜色 可 供 选择 ， ，	0	_	_	_	95	joint-list_m	_	_
+101	机身 采用 直角 的 边缘 设计 加 圆润 的 边角 ，	0	_	_	_	95	joint-list_m	_	_
+102	可以 说	1	_	_	_	103	organization-phatic_r	_	_
+103	是	1	_	_	_	95	evaluation-comment_r	_	_
+104	近来 改变 最 大 的	0	_	_	_	105	elaboration-attribute_r	_	_
+105	iPad mini 系列 产品 。	0	_	_	_	103	same-unit_m	_	_
+106	屏幕 为 Liquid Retina 显示器 ，	2	_	_	_	95	joint-other_m	_	_
+107	亮度 为 500 尼特 ，	0	_	_	_	106	joint-list_m	_	_
+108	并 具备 P3 广色域 、 原彩 显示 技术 ，	0	_	_	_	106	joint-list_m	_	_
+109	并 为 全 平面 贴合 设计 。	0	_	_	_	106	joint-list_m	_	_
+110	音效 部分 搭载 立体声 模式 的 全新 扬声器 系统 ，	2	_	_	_	95	joint-other_m	_	_
+111	提供 了 更 棒 的 音质 表现 。	0	_	_	_	110	joint-list_m	_	_
+112	Apple Watch Series 7	4	_	_	_	116	organization-heading_r	_	_
+113	最新款 Apple Watch Series 7 并 不	1	_	_	_	116	adversative-antithesis_r	_	_
+114	如 之前 Rumors 所 透露 的	0	_	_	_	115	elaboration-attribute_r	_	_
+115	具备 方正 设计 ，	0	_	_	_	113	same-unit_m	_	_
+116	而 是 仍然 维持 传统 造型 ，	5	_	_	_	16	joint-other_m	_	_
+117	且 外型 显得 更加 圆润 了 一些 ，	0	_	_	_	116	joint-list_m	_	_
+118	并 强化 耐用性 ，	2	_	_	_	116	joint-list_m	_	_
+119	具备 IP6X 防尘 ，	2	_	_	_	116	joint-list_m	_	_
+120	采用 新 的 水晶 玻璃 ，	2	_	_	_	116	joint-list_m	_	_
+121	此外 ， 它 也 拥有 更 快 的 充电 速度 ，	3	_	_	_	116	joint-other_m	_	_
+122	相较 上 一 代 提升 了 33% ，	0	_	_	_	121	explanation-evidence_r	_	_
+123	但 续航力 依旧 维持 18 小时 。	0	_	_	_	122	adversative-contrast_m	_	_
+124	另 一 项 实用性 方面 的 更新 在于 与 Apple Fitness+ 的 协同 运作 ，	3	_	_	_	116	joint-other_m	_	_
+125	当 使用者 戴上 Apple Watch Series 7	1	_	_	_	127	context-circumstance_r	_	_
+126	运动 时 ，	0	_	_	_	125	joint-list_m	_	_
+127	可以 将 运动 数据 输出 至 iPhone 上 ，	0	_	_	_	124	explanation-justify_r	_	_
+128	并 用 子母 画面 或是 辅助 数据 的 方式 观看 即时 的 运动 数值 ，	0	_	_	_	127	joint-list_m	_	_
+129	对于 室内 健身 的 朋友 来说	0	_	_	_	130	organization-preparation_r	_	_
+130	也 更加 方便 。	2	_	_	_	127	joint-other_m	_	_
+131	新品 价格 汇总	5	_	_	_	136	organization-heading_r	_	_
+132	最后 是	4	_	_	_	136	organization-preparation_r	_	_
+133	有 记者 整理 的	0	_	_	_	134	elaboration-attribute_r	_	_
+134	新品 价格 汇总 ：	0	_	_	_	132	same-unit_m	_	_
+135	iPhone 13 Mini	2	_	_	_	136	organization-heading_r	_	_
+136	售价 从 699 美元	5	_	_	_	16	joint-other_m	_	_
+137	（ 约 19,362 新台币 ，	0	_	_	_	136	elaboration-attribute_r	_	_
+138	台湾 官网 售价 22,900 元 ）	0	_	_	_	137	joint-list_m	_	_
+139	起跳 。	1	_	_	_	136	same-unit_m	_	_
+140	iPhone 13	2	_	_	_	141	organization-heading_r	_	_
+141	售价 从 799 美元	3	_	_	_	136	joint-list_m	_	_
+142	（ 约 22,132 新台币 ，	0	_	_	_	141	elaboration-attribute_r	_	_
+143	台湾 官网 售价 25,900 元 ）	0	_	_	_	142	joint-list_m	_	_
+144	起跳 。	1	_	_	_	141	same-unit_m	_	_
+145	iPhone 13 Pro	2	_	_	_	146	organization-heading_r	_	_
+146	售价 从 999 美元	3	_	_	_	136	joint-list_m	_	_
+147	（ 约 27,672 新台币 ，	0	_	_	_	146	elaboration-attribute_r	_	_
+148	台湾 官网 售价 32,900 元 ）	0	_	_	_	147	joint-list_m	_	_
+149	起跳 。	1	_	_	_	146	same-unit_m	_	_
+150	iPhone 13 Pro Max	2	_	_	_	151	organization-heading_r	_	_
+151	售价 从 1099 美元	3	_	_	_	136	joint-list_m	_	_
+152	（ 约 30,442 新台币 ，	0	_	_	_	151	elaboration-attribute_r	_	_
+153	台湾 官网 售价 36,900 元 ）	0	_	_	_	152	joint-list_m	_	_
+154	起跳 。	1	_	_	_	151	same-unit_m	_	_
+155	iPad 9	3	_	_	_	156	organization-heading_r	_	_
+156	售价 329 美元	3	_	_	_	136	joint-list_m	_	_
+157	（ 约 9,113 新台币 ）	0	_	_	_	156	elaboration-attribute_r	_	_
+158	起跳 ，	1	_	_	_	156	same-unit_m	_	_
+159	台湾 官网 售价 iPad Wi-Fi 机型 售价 新台币 10500 元 起 ，	2	_	_	_	156	joint-list_m	_	_
+160	Wi-Fi + 移动 网络 机型 售价 新台币 14,500 元 起 。	2	_	_	_	156	joint-list_m	_	_
+161	iPad mini 6	3	_	_	_	162	organization-heading_r	_	_
+162	售价 499 美元	3	_	_	_	136	joint-list_m	_	_
+163	（ 约 13,822 新台币 ）	0	_	_	_	162	elaboration-attribute_r	_	_
+164	起跳 ，	1	_	_	_	162	same-unit_m	_	_
+165	台湾 官网 售价 1万4900 元 起 ，	2	_	_	_	162	joint-list_m	_	_
+166	Wi-Fi + 移动 网络 机型 售价 1万9400 元 起 。	2	_	_	_	162	joint-list_m	_	_
+167	Apple Watch Series 7	1	_	_	_	168	organization-heading_r	_	_
+168	起跳价 S3 型 199 美元 、	3	_	_	_	136	joint-list_m	_	_
+169	SE 型 279 美元 、	0	_	_	_	168	joint-list_m	_	_
+170	S7 型 399 美元 。	0	_	_	_	168	joint-list_m	_	_

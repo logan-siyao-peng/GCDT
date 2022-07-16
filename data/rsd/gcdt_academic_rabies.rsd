@@ -1,0 +1,228 @@
+1	狂犬病 疫苗 研究 进展	6	_	_	_	3	organization-heading_r	_	_
+2	1. 引言	4	_	_	_	3	organization-heading_r	_	_
+3	狂犬病 是 一 种	0	_	_	_	0	ROOT	_	_
+4	人 畜 共患 的	0	_	_	_	5	elaboration-attribute_r	_	_
+5	疾病 ，	0	_	_	_	3	same-unit_m	_	_
+6	感染 是 通过 患病 的 动物 传染 给 人类 的 。	1	_	_	_	3	joint-list_m	_	_
+7	引起 狂犬病 的	0	_	_	_	8	elaboration-attribute_r	_	_
+8	动物 主要 有 狗 、 浣熊 、 臭鼬 、 蝙蝠 和 狐狸 。	2	_	_	_	3	elaboration-additional_r	_	_
+9	狂犬病 是 由 病毒 引起 的 ，	3	_	_	_	3	joint-other_m	_	_
+10	病毒	0	_	_	_	9	joint-list_m	_	_
+11	攻击 神经 系统 后	1	_	_	_	13	context-circumstance_r	_	_
+12	通过 唾液	0	_	_	_	13	mode-means_r	_	_
+13	排出 。	0	_	_	_	10	same-unit_m	_	_
+14	狂犬病 影响 大脑 和 脊髓	3	_	_	_	3	joint-other_m	_	_
+15	( 中枢 神经 系统 ) ，	0	_	_	_	14	restatement-partial_r	_	_
+16	初始 症状 类似 流感 、 发烧 、 头痛 ，	1	_	_	_	14	elaboration-additional_r	_	_
+17	但是 感染 可以 快速 发展 到 幻觉 、 瘫痪 ，	0	_	_	_	16	joint-sequence_m	_	_
+18	并 最终 死亡 ，	0	_	_	_	16	joint-sequence_m	_	_
+19	目前 没有 有效 的 疗法 。	2	_	_	_	14	joint-list_m	_	_
+20	一旦 发生 疾病 ，	0	_	_	_	21	contingency-condition_r	_	_
+21	死亡率 近 100% 。	0	_	_	_	19	causal-result_r	_	_
+22	狂犬病 在 150多 个 国家 和 地区 都 有 存在 。	3	_	_	_	3	joint-other_m	_	_
+23	据 世卫 组织 估计 ，	0	_	_	_	24	attribution-positive_r	_	_
+24	每 年 有 近 55,000 人 死于 狂犬病 。	0	_	_	_	22	elaboration-additional_r	_	_
+25	狗 是 这 背后 的 主要 原因 ，	1	_	_	_	24	elaboration-additional_r	_	_
+26	其中 大约 99% 人类 死亡 是 狗 咬伤 导致 的 。	0	_	_	_	25	explanation-evidence_r	_	_
+27	发展中 国家 和 亚 发展中 国家 都 是 狂犬病 的 受害者 。	1	_	_	_	25	joint-list_m	_	_
+28	有 了 接触 后 预防 制度 ，	0	_	_	_	29	contingency-condition_r	_	_
+29	每 年 有 327,000 人 可以 预防 这 种 疾病	2	_	_	_	24	adversative-concession_r	_	_
+30	-LSB- 1 -RSB- 。	1	_	_	_	22	explanation-evidence_r	_	_
+31	狂犬病 是	1	_	_	_	34	organization-preparation_r	_	_
+32	感染 狂犬 病毒 导致 的	0	_	_	_	33	elaboration-attribute_r	_	_
+33	一 种 病毒性 疾病 。	0	_	_	_	31	same-unit_m	_	_
+34	狂犬病 病毒 呈 子弹状 ， 弹状 病毒科 狂犬 病毒属 的 模式种 ，	3	_	_	_	3	joint-other_m	_	_
+35	病毒 具有 包膜 和 单反 密码股 的 RNA 基因组 ，	0	_	_	_	34	joint-list_m	_	_
+36	基因组 编码 的 5 个 基因 是 高度 保守 的 ，	0	_	_	_	34	joint-list_m	_	_
+37	这些 基因 编码 核 蛋白	0	_	_	_	36	elaboration-additional_r	_	_
+38	( N ) 、	0	_	_	_	37	elaboration-attribute_r	_	_
+39	磷 蛋白质	1	_	_	_	37	same-unit_m	_	_
+40	( P ) 、	0	_	_	_	39	elaboration-attribute_r	_	_
+41	基质 蛋白	1	_	_	_	37	same-unit_m	_	_
+42	( M ) 、	0	_	_	_	41	elaboration-attribute_r	_	_
+43	糖蛋白	1	_	_	_	37	same-unit_m	_	_
+44	( G )	0	_	_	_	43	elaboration-attribute_r	_	_
+45	和 病毒 RNA 聚合 酶	1	_	_	_	37	same-unit_m	_	_
+46	( L ) ，	0	_	_	_	45	elaboration-attribute_r	_	_
+47	其中 G 蛋白 是 主要 的 保护性 抗原	2	_	_	_	37	joint-list_m	_	_
+48	-LSB- 2 -RSB- 。	2	_	_	_	34	explanation-evidence_r	_	_
+49	2. 狂犬病 疫苗 的 起源	5	_	_	_	51	organization-heading_r	_	_
+50	狂犬 病毒 在 自然界 中 广泛 传播 。	2	_	_	_	51	organization-preparation_r	_	_
+51	1804年 ， Georg Gottfried Zinke	5	_	_	_	3	joint-list_m	_	_
+52	使用 唾液 注入 的 方法	0	_	_	_	53	mode-means_r	_	_
+53	第一 个 将 狂犬病 病毒 从	0	_	_	_	51	same-unit_m	_	_
+54	患 狂犬病 的	0	_	_	_	55	elaboration-attribute_r	_	_
+55	狗 到 正常 的 狗 ， 从 狗 到 一 只 兔子 和 一 只 母鸡 进行 传播 。	0	_	_	_	51	same-unit_m	_	_
+56	这 证明 了	0	_	_	_	57	attribution-positive_r	_	_
+57	该 疾病 具有 传染性 ，	1	_	_	_	51	evaluation-comment_r	_	_
+58	但 物种 敏感性 还 不 清楚 ，	1	_	_	_	57	adversative-contrast_m	_	_
+59	直 到 Victor Galtier 展示 了 狂犬病 病毒 从 狗 到 兔子 再 到 兔子 的 传播 。	2	_	_	_	57	adversative-concession_r	_	_
+60	然后 他 用	3	_	_	_	51	joint-sequence_m	_	_
+61	患 狂犬病 的	0	_	_	_	62	elaboration-attribute_r	_	_
+62	唾液 静脉 注射 接种	0	_	_	_	60	same-unit_m	_	_
+63	来 免疫 绵羊 ，	1	_	_	_	60	purpose-goal_r	_	_
+64	这 并 没有 产生 疾病 ，	1	_	_	_	65	adversative-concession_r	_	_
+65	但 有趣 的 是 ， 它 保护 动物	2	_	_	_	60	evaluation-comment_r	_	_
+66	免受 进一步 感染 的 影响	0	_	_	_	65	elaboration-additional_r	_	_
+67	-LSB- 3 -RSB- 。	2	_	_	_	65	explanation-evidence_r	_	_
+68	1885年 7月 6日 ， 9 岁 的 Joseph Meister 从 阿尔萨斯 被 带走 ，	1	_	_	_	77	context-background_r	_	_
+69	他 于 7月 4日 被	0	_	_	_	68	joint-list_m	_	_
+70	染 了 狂犬病 的	0	_	_	_	71	elaboration-attribute_r	_	_
+71	狗 咬伤 。	0	_	_	_	69	same-unit_m	_	_
+72	Grancher 说服 了 巴斯德 提供	1	_	_	_	68	joint-list_m	_	_
+73	6月 21日 死于 狂犬病 的	0	_	_	_	74	elaboration-attribute_r	_	_
+74	兔子 脊髓 中 获得 的	0	_	_	_	75	elaboration-attribute_r	_	_
+75	乳剂	0	_	_	_	72	same-unit_m	_	_
+76	( 乳剂 在 干燥 的 空气 中 保存 了 15 天 ) 。	1	_	_	_	72	elaboration-attribute_r	_	_
+77	在 10 天 内 ， 孩子 得到 13 次 深层 接种 ，	3	_	_	_	51	joint-sequence_m	_	_
+78	脊髓 的 部分 逐渐 更 新鲜	0	_	_	_	77	joint-sequence_m	_	_
+79	( 毒力 更 强 ) ，	0	_	_	_	78	restatement-partial_r	_	_
+80	直 到 三 个 月 零 三 天 后 ， 他 宣布 孩子 的 生命 脱离 危险 。	0	_	_	_	77	joint-sequence_m	_	_
+81	10月 20日 ， 他 成功 治疗 一 个	3	_	_	_	51	joint-sequence_m	_	_
+82	六 天 前 被 疯狗 感染 的	0	_	_	_	83	elaboration-attribute_r	_	_
+83	病人 。	0	_	_	_	81	same-unit_m	_	_
+84	到 1886年 ， 他 治疗 了	3	_	_	_	51	joint-sequence_m	_	_
+85	来自 欧洲 各 地 、 俄罗斯 和 美国 的	0	_	_	_	86	elaboration-attribute_r	_	_
+86	350 例 病人	0	_	_	_	84	same-unit_m	_	_
+87	-LSB- 4 -RSB- 。	1	_	_	_	84	explanation-evidence_r	_	_
+88	尽管 有 一些 对于	0	_	_	_	91	adversative-concession_r	_	_
+89	含有 致命 病毒	0	_	_	_	90	elaboration-attribute_r	_	_
+90	疫苗 安全性 的 抨击 ，	0	_	_	_	88	same-unit_m	_	_
+91	但是 医学界 还是 迅速 接受 了 巴斯德 的 治疗 方法 。	5	_	_	_	95	organization-preparation_r	_	_
+92	为了 使 患者 避免	1	_	_	_	95	purpose-goal_r	_	_
+93	疫苗 中 病毒 引起 的	0	_	_	_	94	elaboration-attribute_r	_	_
+94	医源性 感染 ，	0	_	_	_	92	same-unit_m	_	_
+95	Fermi 和 Semple 引进 了 在 神经 组织 疫苗 制备 中 的 一些 修改 ，	4	_	_	_	51	joint-sequence_m	_	_
+96	他们 靠 苯酚 部分 或 完全 灭活 病毒 。	0	_	_	_	95	elaboration-additional_r	_	_
+97	即使 这些 修改 仍 存在 疫苗 接种 后	0	_	_	_	106	adversative-concession_r	_	_
+98	通过	0	_	_	_	101	mode-means_r	_	_
+99	不完全 灭活 的	0	_	_	_	100	elaboration-attribute_r	_	_
+100	病毒 或 疫苗 中 的 成分 与 成年 哺乳 动物 神经 组织 的 反应	0	_	_	_	98	same-unit_m	_	_
+101	引起 麻痹 的	0	_	_	_	102	elaboration-attribute_r	_	_
+102	情况 发生 ，	0	_	_	_	97	same-unit_m	_	_
+103	表现 为	1	_	_	_	97	joint-list_m	_	_
+104	靠 敏化 髓鞘 碱性 蛋白质 引起 的	0	_	_	_	105	elaboration-attribute_r	_	_
+105	变态 反应性 脑脊髓炎 ，	0	_	_	_	103	same-unit_m	_	_
+106	Semple 疫苗 仍然 是 用于 亚洲 和 非洲 人类	2	_	_	_	95	elaboration-additional_r	_	_
+107	-LSB- 5 -RSB- 。	1	_	_	_	106	explanation-evidence_r	_	_
+108	Fuenzalida 和 同事 引进 第一 个 无髓 磷脂 的	3	_	_	_	95	joint-list_m	_	_
+109	制备于 新生 小鼠 大脑 的	0	_	_	_	110	elaboration-attribute_r	_	_
+110	狂犬病 病毒 灭活 疫苗	0	_	_	_	108	same-unit_m	_	_
+111	-LSB- 6 -RSB- ，	1	_	_	_	108	explanation-evidence_r	_	_
+112	这 种 疫苗 仍 广泛 应用于 南美洲 。	2	_	_	_	108	elaboration-additional_r	_	_
+113	所以 ， 狂犬病	4	_	_	_	95	evaluation-comment_r	_	_
+114	靠 接种 疫苗	0	_	_	_	115	mode-means_r	_	_
+115	是 可 预防 的 ，	0	_	_	_	113	same-unit_m	_	_
+116	并且 一些 新 的 狂犬病 疫苗 已 被 成功 进行 了 研究 。	1	_	_	_	113	joint-other_m	_	_
+117	3. 鸭 胚胎 疫苗	5	_	_	_	130	organization-heading_r	_	_
+118	严重 反应 较 少 的	1	_	_	_	119	elaboration-attribute_r	_	_
+119	另 一 个 疫苗 是 鸭胚 疫苗	3	_	_	_	130	context-background_r	_	_
+120	( duck embryo vaccine	0	_	_	_	119	elaboration-attribute_r	_	_
+121	简称 DEV ) ，	0	_	_	_	120	joint-list_m	_	_
+122	该 疫苗	2	_	_	_	119	elaboration-additional_r	_	_
+123	通过	0	_	_	_	126	mode-means_r	_	_
+124	在 受孕 鸭蛋 里 传播 的	0	_	_	_	125	elaboration-attribute_r	_	_
+125	病毒	0	_	_	_	123	same-unit_m	_	_
+126	制备	0	_	_	_	122	same-unit_m	_	_
+127	-LSB- 7 -RSB- -LSB- 8 -RSB- 。	1	_	_	_	122	explanation-evidence_r	_	_
+128	然而 ， DEV 不如 脑 组织 疫苗 的 免疫 原性 强 ，	3	_	_	_	119	adversative-contrast_m	_	_
+129	并不 总是 能 预防 狂犬病 。	0	_	_	_	128	joint-list_m	_	_
+130	瑞士 血清 和 疫苗 研究所 随后	5	_	_	_	3	joint-list_m	_	_
+131	通过 引入 纯化 的 DEV	0	_	_	_	133	mode-means_r	_	_
+132	( PDEV )	0	_	_	_	131	restatement-partial_r	_	_
+133	改善 了 DEV ，	0	_	_	_	130	same-unit_m	_	_
+134	PDEV 含有 约 1% 的 DEV 蛋白质 ，	0	_	_	_	135	causal-cause_r	_	_
+135	因此 降低 了 过敏 反应 的 风险	1	_	_	_	130	explanation-justify_r	_	_
+136	-LSB- 9 -RSB- -LSB- 10 -RSB- 。	2	_	_	_	130	explanation-evidence_r	_	_
+137	密度 梯度 超速 离心法 产生 的	0	_	_	_	138	elaboration-attribute_r	_	_
+138	病毒 浓度 大幅度 增加 了 疫苗 的 有效性 和	4	_	_	_	130	evaluation-comment_r	_	_
+139	其 引起 人类 病毒 中和 抗体 应答 反应 的	0	_	_	_	140	elaboration-attribute_r	_	_
+140	能力 。	1	_	_	_	138	same-unit_m	_	_
+141	PDEV 至今 仍 在 生产 ，	2	_	_	_	138	causal-result_r	_	_
+142	并 用于 全球 人类 的 疫苗 接种 。	0	_	_	_	141	joint-list_m	_	_
+143	4. 细胞 培养 疫苗	6	_	_	_	145	organization-heading_r	_	_
+144	细胞 培养 狂犬病 疫苗 作为 一 种 新 的 发展 逐渐 蔓延 。	4	_	_	_	145	organization-preparation_r	_	_
+145	第一 次 组织 培养 疫苗 来自	5	_	_	_	3	joint-list_m	_	_
+146	生长 在 仓鼠 肾 细胞 的	0	_	_	_	147	elaboration-attribute_r	_	_
+147	病毒	0	_	_	_	145	same-unit_m	_	_
+148	-LSB- 10 -RSB- -LSB- 11 -RSB- 。	1	_	_	_	145	explanation-evidence_r	_	_
+149	仓鼠 肾 细胞 狂犬病 疫苗	2	_	_	_	145	elaboration-additional_r	_	_
+150	( PHKCV )	0	_	_	_	149	restatement-partial_r	_	_
+151	是 在 莫斯科 开发 的 ，	1	_	_	_	149	same-unit_m	_	_
+152	现在 批准 在 中国 使用 和 生产 。	2	_	_	_	149	joint-list_m	_	_
+153	紧随 其 后 的	0	_	_	_	154	elaboration-attribute_r	_	_
+154	狂犬 病毒 固定 株 是 在 人类 二倍体 细胞 株 中 生长	3	_	_	_	145	joint-sequence_m	_	_
+155	-LSB- 12 -RSB- 。	1	_	_	_	154	explanation-evidence_r	_	_
+156	最初 使用 肺 细胞 株 WI-38 ，	2	_	_	_	154	elaboration-additional_r	_	_
+157	但 随后 转用 MRC-5 细胞 株 ，	0	_	_	_	156	joint-sequence_m	_	_
+158	该 细胞 株 促使 了 1970年代 中期 人类 二倍体 细胞 疫苗	0	_	_	_	157	elaboration-attribute_r	_	_
+159	( HDCV )	0	_	_	_	158	restatement-partial_r	_	_
+160	的 发展 和 许可 。	1	_	_	_	158	same-unit_m	_	_
+161	然后 Pitman-Moore 狂犬病 病毒 株 适应 了 WI-38	3	_	_	_	145	joint-sequence_m	_	_
+162	-LSB- 13 -RSB- ，	0	_	_	_	161	explanation-evidence_r	_	_
+163	自由 病毒 被 β- 丙内酯 灭活 ，	1	_	_	_	161	joint-list_m	_	_
+164	超速 离心 浓缩	0	_	_	_	163	joint-list_m	_	_
+165	-LSB- 14 -RSB- 。	1	_	_	_	163	explanation-evidence_r	_	_
+166	人类 二倍体 细胞 疫苗	2	_	_	_	161	elaboration-additional_r	_	_
+167	( HDCV )	0	_	_	_	166	restatement-partial_r	_	_
+168	比 在 那 段 时间 其他 所有 的 疫苗 更 好 地 诱导 了 动物 和 人类 免疫 反应	1	_	_	_	166	same-unit_m	_	_
+169	-LSB- 15 -RSB- -LSB- 16 -RSB- 。	2	_	_	_	166	explanation-evidence_r	_	_
+170	接种 HDCV 不仅 产生 更 高 的 抗体 水平 ，	3	_	_	_	166	joint-other_m	_	_
+171	而且	0	_	_	_	170	joint-list_m	_	_
+172	接种 疫苗 后	0	_	_	_	173	context-circumstance_r	_	_
+173	抗体 出现 的 更 早 。	0	_	_	_	171	same-unit_m	_	_
+174	使用 这 种 疫苗 ， 可能 首 次 表明	2	_	_	_	176	attribution-positive_r	_	_
+175	恶性 病毒 感染 几 个 小时 后	1	_	_	_	176	context-circumstance_r	_	_
+176	疫苗 的 注射 可以 保护 动物	3	_	_	_	166	joint-other_m	_	_
+177	免于 狂犬病	0	_	_	_	176	joint-list_m	_	_
+178	-LSB- 17 -RSB- 。	3	_	_	_	176	explanation-evidence_r	_	_
+179	自 那时 起 ，	2	_	_	_	183	context-circumstance_r	_	_
+180	为了 在 较 低 的 成本 下 生产	1	_	_	_	183	purpose-goal_r	_	_
+181	像 HDCV 类似 效价 的	0	_	_	_	182	elaboration-attribute_r	_	_
+182	疫苗 ，	0	_	_	_	180	same-unit_m	_	_
+183	全球 开始 了 一 系列	6	_	_	_	186	context-background_r	_	_
+184	不同 细胞 培养 疫苗 的	0	_	_	_	185	elaboration-attribute_r	_	_
+185	开发 。	0	_	_	_	183	same-unit_m	_	_
+186	狂犬病 吸附 疫苗	5	_	_	_	145	joint-other_m	_	_
+187	( RVA )	0	_	_	_	186	restatement-partial_r	_	_
+188	是 由	1	_	_	_	186	same-unit_m	_	_
+189	已 适应 二倍体 猴肺 成纤维 细胞系 的	0	_	_	_	190	elaboration-attribute_r	_	_
+190	狂犬病 病毒 株 制备 的 。	1	_	_	_	186	same-unit_m	_	_
+191	狂犬 病毒 靠 β- 丙内酯 灭活 ，	2	_	_	_	186	elaboration-additional_r	_	_
+192	靠 吸附 到 磷酸铝 进行 浓缩	0	_	_	_	191	joint-list_m	_	_
+193	-LSB- 18 -RSB- -LSB- 19 -RSB- 。	1	_	_	_	191	explanation-evidence_r	_	_
+194	在 效价 和 安全性 方面 ， 该 疫苗 被 认为 是 等同于 HDCV 的	2	_	_	_	191	joint-other_m	_	_
+195	-LSB- 20 -RSB- 。	0	_	_	_	194	explanation-evidence_r	_	_
+196	HDCV 的 另 一 种 选择 是 使用 纯化 的 小鸡 胚胎 细胞	3	_	_	_	186	joint-list_m	_	_
+197	( PCEC )	0	_	_	_	196	restatement-partial_r	_	_
+198	-LSB- 21 -RSB- 。	1	_	_	_	196	explanation-evidence_r	_	_
+199	PCECV 是	2	_	_	_	196	elaboration-additional_r	_	_
+200	通过	0	_	_	_	203	mode-means_r	_	_
+201	生长 在 原始 的 小鸡 胚胎 成纤维 细胞 的	0	_	_	_	202	elaboration-attribute_r	_	_
+202	狂犬 病毒 毒株	0	_	_	_	200	same-unit_m	_	_
+203	制备 的	0	_	_	_	204	elaboration-attribute_r	_	_
+204	鸡胚 疫苗 。	0	_	_	_	199	same-unit_m	_	_
+205	病毒 用 β- 丙内酯 灭活 ，	1	_	_	_	199	elaboration-additional_r	_	_
+206	蔗糖 梯度 区域 离心	0	_	_	_	205	joint-list_m	_	_
+207	纯化 浓缩 。	0	_	_	_	205	joint-list_m	_	_
+208	对比 HDCV 试验 显示	0	_	_	_	209	attribution-positive_r	_	_
+209	两 种 疫苗 之间 没有 显著 差异	4	_	_	_	186	evaluation-comment_r	_	_
+210	-LSB- 22 -RSB- -LSB- 23 -RSB- 。	1	_	_	_	209	explanation-evidence_r	_	_
+211	现在 ， 这些 疫苗 在 全球 范围 内 得到 了 成功 应用 。	2	_	_	_	209	joint-list_m	_	_
+212	一 个 连续 的 非洲 绿猴 肾 细胞系 Vero 被 用于 生产 另 一 个 狂犬病 疫苗	5	_	_	_	186	joint-list_m	_	_
+213	-LSB- 24 -RSB- 。	0	_	_	_	212	explanation-evidence_r	_	_
+214	纯化 的 Vero 细胞 狂犬病 疫苗	1	_	_	_	212	elaboration-additional_r	_	_
+215	( PVRV )	0	_	_	_	214	restatement-partial_r	_	_
+216	是	1	_	_	_	214	same-unit_m	_	_
+217	基于 狂犬 病毒 的	0	_	_	_	218	elaboration-attribute_r	_	_
+218	Pitmanman-Moore 毒株 ，	1	_	_	_	214	same-unit_m	_	_
+219	该 毒株 用 β- 丙内酯 灭活 ，	2	_	_	_	214	joint-other_m	_	_
+220	通过 离心 及 超滤	0	_	_	_	221	mode-means_r	_	_
+221	进行 浓缩 纯化 。	0	_	_	_	219	joint-list_m	_	_
+222	初始 和 增强 接种 后 的	0	_	_	_	223	elaboration-attribute_r	_	_
+223	抗体 反应 与	2	_	_	_	212	evaluation-comment_r	_	_
+224	接种 HDCV 之后	0	_	_	_	225	context-circumstance_r	_	_
+225	的	0	_	_	_	226	elaboration-attribute_r	_	_
+226	抗体 反应 可以 相 媲美	1	_	_	_	223	same-unit_m	_	_
+227	-LSB- 25 -RSB- 。	2	_	_	_	223	explanation-evidence_r	_	_
+228	在 欧洲 和 许多 发展中 国家 ， PVRV 许可 用于 人类 。	3	_	_	_	223	joint-list_m	_	_

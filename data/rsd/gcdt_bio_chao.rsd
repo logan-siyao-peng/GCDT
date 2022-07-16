@@ -1,0 +1,230 @@
+1	赵元任	3	_	_	_	22	organization-heading_r	_	_
+2	赵元任	2	_	_	_	22	context-background_r	_	_
+3	（ 英语 ：	0	_	_	_	4	organization-preparation_r	_	_
+4	Yuen Ren Chao ， 1892年 11月 3日 － 1982年 2月 24日	0	_	_	_	2	elaboration-attribute_r	_	_
+5	-LSB- 8 -RSB- ） ，	1	_	_	_	4	explanation-evidence_r	_	_
+6	字 宜仲 ，	1	_	_	_	2	same-unit_m	_	_
+7	生于 天津 ， 江苏 阳湖人 ， 语言学家 ，	2	_	_	_	2	joint-list_m	_	_
+8	精研 北方话 与 吴语 方言 的 音系 。	2	_	_	_	2	joint-list_m	_	_
+9	一 生 会 讲 33 种 汉语 方言 。	2	_	_	_	2	joint-list_m	_	_
+10	被 称 为 “ 汉 语言学 ” 之 父 ，	2	_	_	_	2	joint-list_m	_	_
+11	与 “ 非 汉语 ” 语言学 之 父 之 称 的 李方桂 比肩 ，	0	_	_	_	10	elaboration-additional_r	_	_
+12	丁邦新 评价	0	_	_	_	13	attribution-positive_r	_	_
+13	“ 中国人 在 世界 语言学界 居于 领导 地位 的 有 赵元任 、 李方桂 两 先生 ” 。	1	_	_	_	10	explanation-evidence_r	_	_
+14	-LSB- 9 -RSB-	1	_	_	_	13	explanation-evidence_r	_	_
+15	长期 任教于 加州 大学 伯克利 分校 。	2	_	_	_	2	joint-list_m	_	_
+16	-LSB- 10 -RSB-	0	_	_	_	15	explanation-evidence_r	_	_
+17	1954年 起 兼 有 美国 国籍 。	2	_	_	_	2	joint-list_m	_	_
+18	赵元任 以 跨 专业 天才 著称 ，	2	_	_	_	2	joint-list_m	_	_
+19	康乃尔 大学 本科 主修 数学 ，	0	_	_	_	18	explanation-evidence_r	_	_
+20	哈佛 大学 博士 主攻 哲学 。	0	_	_	_	19	joint-list_m	_	_
+21	家世	0	_	_	_	22	organization-heading_r	_	_
+22	六世祖 赵翼 是 乾隆 二十六年 辛巳 恩科 进士 。	0	_	_	_	0	ROOT	_	_
+23	生平	2	_	_	_	24	organization-heading_r	_	_
+24	1892年 生于 直隶省 天津 ，	1	_	_	_	22	joint-other_m	_	_
+25	10 岁 前 随 做官 的 祖父 赵执治 辗转 居于 直隶省 各 地 ，	0	_	_	_	24	joint-sequence_m	_	_
+26	4 岁 住 磁县 ，	0	_	_	_	25	elaboration-additional_r	_	_
+27	5 岁 住 祁州 ，	0	_	_	_	26	joint-sequence_m	_	_
+28	6 岁 住 保定 ，	0	_	_	_	26	joint-sequence_m	_	_
+29	7 岁 住 冀州 ，	0	_	_	_	26	joint-sequence_m	_	_
+30	8 岁 回 保定 ，	0	_	_	_	26	joint-sequence_m	_	_
+31	9 岁 回 冀州 ，	0	_	_	_	26	joint-sequence_m	_	_
+32	10 岁 才 回 祖籍 地 江苏 常州 。	0	_	_	_	26	joint-sequence_m	_	_
+33	回 常州 后 ，	1	_	_	_	34	context-circumstance_r	_	_
+34	学会 了 吴语	0	_	_	_	24	joint-sequence_m	_	_
+35	（ 常熟话 、 常州话 和 苏州话 等 ) 。	0	_	_	_	34	elaboration-attribute_r	_	_
+36	1907年 入 南京 江南 高等 学堂 预科 ，	0	_	_	_	24	joint-sequence_m	_	_
+37	学习 英语 、 德语 、 音乐 ，	0	_	_	_	36	joint-list_m	_	_
+38	学会 多 种 汉语 方言 。	0	_	_	_	36	joint-list_m	_	_
+39	1910年 7月 考取	0	_	_	_	24	joint-sequence_m	_	_
+40	清朝 政府 游美 学务处 招考 的	0	_	_	_	41	elaboration-attribute_r	_	_
+41	庚款 游美 官费生 。	0	_	_	_	39	same-unit_m	_	_
+42	8月 入 美国 康乃尔 大学 ，	0	_	_	_	24	joint-sequence_m	_	_
+43	主修 数学 ，	0	_	_	_	42	joint-list_m	_	_
+44	选修 物理 、 音乐 ，	0	_	_	_	42	joint-list_m	_	_
+45	1914年 毕业 。	0	_	_	_	24	joint-sequence_m	_	_
+46	1915年 参与 发起 中国 科学社 ，	0	_	_	_	24	joint-sequence_m	_	_
+47	同年 考入 哈佛 大学	0	_	_	_	24	joint-sequence_m	_	_
+48	读 研究所 ，	0	_	_	_	47	joint-list_m	_	_
+49	修读 哲学 ，	0	_	_	_	47	joint-list_m	_	_
+50	并 选修 音乐 ，	0	_	_	_	47	joint-list_m	_	_
+51	1918年 获 哲学 博士 学位 ，	0	_	_	_	24	joint-sequence_m	_	_
+52	后 再 获 美国 哈佛 大学 博士后 旅行 奖学金	0	_	_	_	24	joint-sequence_m	_	_
+53	— 谢尔登 博士后 研究 奖学金	0	_	_	_	52	restatement-partial_r	_	_
+54	（ Post－doctorate Sheldon Fellowship ）	0	_	_	_	53	restatement-repetition_m	_	_
+55	-LSB- 11 -RSB- -LSB- 12 -RSB- -LSB- 13 -RSB- ，	1	_	_	_	52	explanation-evidence_r	_	_
+56	到 美国 芝加哥 大学 、 加州 大学 伯克利 分校 游学 ，	2	_	_	_	52	joint-list_m	_	_
+57	以 《 科学 的 哲学 》 为 题	0	_	_	_	58	elaboration-additional_r	_	_
+58	进行 博士后 研究 。	2	_	_	_	52	joint-list_m	_	_
+59	1919年 回到 康乃尔 大学	0	_	_	_	24	joint-sequence_m	_	_
+60	担任 物理系 讲师 。	0	_	_	_	59	joint-list_m	_	_
+61	1920年 8月 从 美国 返回 中国 ，	0	_	_	_	24	joint-sequence_m	_	_
+62	在 清华 大学 任教 。	0	_	_	_	61	joint-list_m	_	_
+63	1920年 哲学家 伯特兰·罗素 来 清华	1	_	_	_	65	context-background_r	_	_
+64	参观 讲学 ，	0	_	_	_	63	joint-list_m	_	_
+65	赵元任 任 翻译 ，	0	_	_	_	24	joint-sequence_m	_	_
+66	陪同 罗素	0	_	_	_	65	joint-list_m	_	_
+67	周游 全国 各 地 ，	0	_	_	_	65	joint-list_m	_	_
+68	每 到 一 个 地方 ，	1	_	_	_	69	contingency-condition_r	_	_
+69	就	0	_	_	_	65	joint-list_m	_	_
+70	用 当地 方言	0	_	_	_	71	mode-means_r	_	_
+71	翻译 。	0	_	_	_	69	same-unit_m	_	_
+72	1921年 6月 ， 与 医生 杨步伟 结婚 。	0	_	_	_	24	joint-sequence_m	_	_
+73	1921年 － 1923年 应 美国 哈佛 大学 哲学系 教授 伍兹 教授	0	_	_	_	24	joint-sequence_m	_	_
+74	（ James Haughton Woods ， 1864 — 1935 ， 美国 希腊 哲学 、 印度 哲学 学者 ）	0	_	_	_	73	elaboration-attribute_r	_	_
+75	之 邀	1	_	_	_	73	same-unit_m	_	_
+76	回到 美国 ，	2	_	_	_	73	joint-list_m	_	_
+77	担任 哈佛 大学 哲学系 、 中文系 讲师 ，	2	_	_	_	73	joint-list_m	_	_
+78	开设 中国 哲学 、 中国 语言 。	2	_	_	_	73	joint-list_m	_	_
+79	继 戈鲲化	3	_	_	_	73	evaluation-comment_r	_	_
+80	（ Ge Kunhua ）	0	_	_	_	79	elaboration-attribute_r	_	_
+81	之后 第二 位 于 哈佛 大学 任教 的 华人 。	1	_	_	_	79	same-unit_m	_	_
+82	1924年 升任 哈佛 大学 中文系 教授 ，	0	_	_	_	24	joint-sequence_m	_	_
+83	同年 推荐 梅光迪 到 哈佛 大学 任教 。	0	_	_	_	82	joint-list_m	_	_
+84	其后 ， 任赴 欧洲 研究 语言学 ，	0	_	_	_	24	joint-sequence_m	_	_
+85	结识 英国 语言学家 丹尼尔·琼斯 、 法国 语言学家 安东尼·梅耶 ； 欧洲 汉学家 高本汉 、 伯希和 及 昂利·马伯乐 等 。	0	_	_	_	84	joint-list_m	_	_
+86	1925年 － 1929年 应聘 清华 大学 清华 国学 研究院 导师 ，	0	_	_	_	24	joint-sequence_m	_	_
+87	为 当时 时称 的 四 大 导师	0	_	_	_	86	joint-list_m	_	_
+88	（ 王国维 、 梁启超 、 陈寅恪 、 赵元任 ）	0	_	_	_	87	elaboration-attribute_r	_	_
+89	中 最 年轻 的 一 位 。	1	_	_	_	87	same-unit_m	_	_
+90	1932年 2月 — 1933年 10月 ， 任 清华 留美 学生 监督处 主任 。	0	_	_	_	24	joint-sequence_m	_	_
+91	1939年 起 ， 历任 美国 耶鲁 大学 访问 教授	0	_	_	_	24	joint-sequence_m	_	_
+92	（ 1939年 — 1941年 ） 、	0	_	_	_	91	context-circumstance_r	_	_
+93	美国 哈佛 燕京 学社 《 汉 英 大 辞典 》 编辑	1	_	_	_	91	same-unit_m	_	_
+94	（ 1941年 － 1946年 ） 、	0	_	_	_	93	context-circumstance_r	_	_
+95	哈佛 大学 东亚 语言 及 文化 学系	1	_	_	_	91	same-unit_m	_	_
+96	（ Department of East Asian Languages and Civilizations ， EALC ）	0	_	_	_	95	restatement-repetition_m	_	_
+97	中国 语言 讲师	1	_	_	_	91	same-unit_m	_	_
+98	（ Lecturer in Chinese Language ） ，	0	_	_	_	97	restatement-repetition_m	_	_
+99	1942年 － 1946年 ） 、	1	_	_	_	97	context-circumstance_r	_	_
+100	美国 海外 语言 特训班 中文 主任	1	_	_	_	91	same-unit_m	_	_
+101	（ 1943年 － 1944年 ） 、	0	_	_	_	100	context-circumstance_r	_	_
+102	其中 1945年 赵元任 当选 为 美国 语言 学会 会长 、 密歇根 大学 语言 研究所 教授	2	_	_	_	91	joint-list_m	_	_
+103	（ 1946年 － 1947年 ） 。	0	_	_	_	102	context-circumstance_r	_	_
+104	1947年 起 ， 专任 加州 大学 伯克利 分校 教授 ，	0	_	_	_	24	joint-sequence_m	_	_
+105	1965年 退休 ，	0	_	_	_	24	joint-sequence_m	_	_
+106	任 该 校 离职 教授 至 逝世 。	0	_	_	_	105	joint-list_m	_	_
+107	1982年 2月 25日 ， 病逝于 马萨诸塞 剑桥 黄山 医院 ，	0	_	_	_	24	joint-sequence_m	_	_
+108	享年 89 岁 。	0	_	_	_	107	joint-list_m	_	_
+109	1948年 以后 在 美国 任教 期间 ，	0	_	_	_	110	context-circumstance_r	_	_
+110	英文 著作 有 《 中国语 字典 》 、 《 粤语 入门 》 、 《 中国语 语法 之 研究 》 、 《 湖北 方言 调查 》 等 。	1	_	_	_	24	joint-other_m	_	_
+111	1950年代 后期 ， 曾 在 台北 作 “ 语言 问题 ” 的 系统 讲演 ，	1	_	_	_	110	joint-list_m	_	_
+112	并 结集 成书 ，	0	_	_	_	111	joint-list_m	_	_
+113	由 商务 印书馆 出版 。	0	_	_	_	111	joint-list_m	_	_
+114	此外 也 录制 有关 语言 的 唱片 ，	1	_	_	_	110	joint-list_m	_	_
+115	单 是 中国 华中 、 华南 各 省 方言 的 录音 唱片 ， 就 有 2000多 张 。	0	_	_	_	114	explanation-evidence_r	_	_
+116	并 在 胡适 商请 下 ， 发明 注音 符号 ，	1	_	_	_	110	joint-list_m	_	_
+117	协助 国人 学习 国语 即 普通话 ，	0	_	_	_	116	purpose-goal_r	_	_
+118	1965年 退休 后 ， 出版 《 语言学 跟 符号 系统 》 、 《 中国话 的 文法 》 、 《 白话 读物 》 等 。	1	_	_	_	116	joint-list_m	_	_
+119	此外 尚 有 《 绿信 》	1	_	_	_	116	joint-list_m	_	_
+120	（ green letter ）	0	_	_	_	119	restatement-partial_r	_	_
+121	五 册 ，	1	_	_	_	119	same-unit_m	_	_
+122	记述 自己 的 思想 、 感情 和 生活 。	2	_	_	_	119	elaboration-additional_r	_	_
+123	把 《 康熙 字典 》 里 两万 多 字 ， “ 浓缩 ” 为 2000 个 常用 字 ，	1	_	_	_	116	joint-list_m	_	_
+124	取名 为 《 通字 方案 》 。	0	_	_	_	123	joint-list_m	_	_
+125	五度 标音法 发明者 。	1	_	_	_	116	joint-list_m	_	_
+126	语言 天分	3	_	_	_	127	organization-heading_r	_	_
+127	1904年 12 岁 父母 先后 去世 ，	1	_	_	_	22	joint-other_m	_	_
+128	被 送到 苏州 学会 苏州话 。	0	_	_	_	127	joint-list_m	_	_
+129	1905年 13 岁 回到 常州	1	_	_	_	127	joint-sequence_m	_	_
+130	由 伯母 照管 ，	0	_	_	_	129	elaboration-additional_r	_	_
+131	伯母 在 福州 住 过 多 年 ，	0	_	_	_	132	context-background_r	_	_
+132	跟 她 学 了 一点 福州话 。	1	_	_	_	129	joint-list_m	_	_
+133	进 私立 溪山 学校	1	_	_	_	129	joint-list_m	_	_
+134	学 英文 。	0	_	_	_	133	joint-list_m	_	_
+135	1907年 15 岁 南京 江南 高等 学校 预科 读书 ，	1	_	_	_	127	joint-sequence_m	_	_
+136	跟 美国人 嘉化	0	_	_	_	135	joint-list_m	_	_
+137	（ David John Carver ）	0	_	_	_	136	restatement-partial_r	_	_
+138	学 英文 ，	1	_	_	_	136	same-unit_m	_	_
+139	选修 拉丁文 和 德文 ，	0	_	_	_	135	joint-list_m	_	_
+140	学会 南京话 。	0	_	_	_	135	joint-list_m	_	_
+141	-LSB- 14 -RSB-	1	_	_	_	135	explanation-evidence_r	_	_
+142	在 《 早年 自传 》	3	_	_	_	148	attribution-positive_r	_	_
+143	（ Life with Chaos ）	0	_	_	_	142	restatement-partial_r	_	_
+144	记录	1	_	_	_	142	same-unit_m	_	_
+145	当年 为 伯特兰·罗素 翻译 的	0	_	_	_	146	elaboration-attribute_r	_	_
+146	故事 ：	1	_	_	_	142	same-unit_m	_	_
+147	“ 我 和 罗素 一 行 经 杭州 、 南京 、 长沙 ， 然后 北上 北京 。	2	_	_	_	148	context-background_r	_	_
+148	我	1	_	_	_	127	joint-sequence_m	_	_
+149	利用 这 种 机会	0	_	_	_	150	mode-means_r	_	_
+150	演习 我 的 方言 。	0	_	_	_	148	same-unit_m	_	_
+151	在 杭州 我 以 杭州 方言 翻译 罗素 的 讲词 。	1	_	_	_	148	explanation-evidence_r	_	_
+152	去 湖南 长沙 途中 ， 在 江永轮 上 有 湖南 赞助人 杨瑞六 ，	0	_	_	_	153	context-background_r	_	_
+153	我 从 他 那里 学 了 一点 湖南 方言 。	2	_	_	_	158	context-background_r	_	_
+154	10月 26日 晚 ， 我 翻译 了 罗素 的 讲演 ，	1	_	_	_	158	context-circumstance_r	_	_
+155	讲完 后 ，	1	_	_	_	156	context-circumstance_r	_	_
+156	一 个 学生 走上 前来	0	_	_	_	158	attribution-positive_r	_	_
+157	问 我 ：	0	_	_	_	156	joint-list_m	_	_
+158	‘ 你 是 哪 县 人 ？ ’	0	_	_	_	151	joint-list_m	_	_
+159	我 学 湖南话 还 不到 一 个 星期 ，	2	_	_	_	161	context-background_r	_	_
+160	他 以为	1	_	_	_	161	attribution-positive_r	_	_
+161	我 是 湖南人 ，	3	_	_	_	158	elaboration-additional_r	_	_
+162	说 不 好 官话 ，	0	_	_	_	161	adversative-contrast_m	_	_
+163	实际 上 我 能 说 官话 ，	3	_	_	_	161	adversative-contrast_m	_	_
+164	而 说 不 好 湖南话 。 ”	0	_	_	_	163	adversative-contrast_m	_	_
+165	作家 吴组缃 1930年代 时 在 清华 大学 中国 文学系 读书 ，	1	_	_	_	166	context-background_r	_	_
+166	第一 堂 课 赵元任 点名 ，	0	_	_	_	174	causal-cause_r	_	_
+167	看到 吴组缃 的 籍贯 是 安徽 泾县 。	0	_	_	_	166	joint-list_m	_	_
+168	上 完 课 后 ，	1	_	_	_	169	context-circumstance_r	_	_
+169	找 吴组缃 交谈 ，	2	_	_	_	166	joint-sequence_m	_	_
+170	并 请 他 到 家中 作客 。	0	_	_	_	169	joint-list_m	_	_
+171	吴组缃 以后 每天 下课 到 赵家 吃饭 ，	1	_	_	_	172	context-background_r	_	_
+172	赵元任 虚心 求教 安徽 方言 ，	2	_	_	_	166	joint-sequence_m	_	_
+173	没有 老师 架子 。	0	_	_	_	172	evaluation-comment_r	_	_
+174	一 星期 后 ， 赵元任 就 掌握 了 吴 的 家乡 方言 。	1	_	_	_	127	joint-sequence_m	_	_
+175	赵元任 一 生 会 讲 33 种 汉语 方言 ，	2	_	_	_	127	evaluation-comment_r	_	_
+176	会 说 英 、 法 、 德 、 日 、 西班牙语 等 多 种 外语 。	0	_	_	_	175	joint-list_m	_	_
+177	他 自己 说 ：	1	_	_	_	178	attribution-positive_r	_	_
+178	“ 在 应用文 方面 ， 英文 、 德文 、 法文 没有 问题 。	0	_	_	_	176	explanation-evidence_r	_	_
+179	至于 一般 用法 ， 则 日本 、 古 希腊 、 拉丁 、 俄罗斯 等 文字 都 不 成 问题 。 ”	0	_	_	_	178	joint-list_m	_	_
+180	具有 “ 录音机 的 耳朵 ” 和	0	_	_	_	175	joint-list_m	_	_
+181	学说 语言 的	0	_	_	_	182	elaboration-attribute_r	_	_
+182	能力 。	0	_	_	_	180	same-unit_m	_	_
+183	家庭	8	_	_	_	185	organization-heading_r	_	_
+184	育有 四 个 女儿 ：	5	_	_	_	185	organization-preparation_r	_	_
+185	长女	1	_	_	_	22	joint-other_m	_	_
+186	－ 赵如兰	0	_	_	_	185	elaboration-attribute_r	_	_
+187	（ Iris ， 1922年 4月 19日 — 2013年 11月 30日 ） ，	1	_	_	_	185	elaboration-attribute_r	_	_
+188	拉德克利夫 学院 中国 音乐 博士 ， 哈佛 大学 教授 ，	2	_	_	_	185	same-unit_m	_	_
+189	其 夫婿 卞学𨱑	3	_	_	_	185	joint-list_m	_	_
+190	（ 1919年 1月 18日 — 2009年 6月 20日 ）	0	_	_	_	189	elaboration-attribute_r	_	_
+191	同 为 中央 研究院 院士 。	1	_	_	_	189	same-unit_m	_	_
+192	次女	4	_	_	_	185	joint-list_m	_	_
+193	－ 赵新那	0	_	_	_	192	elaboration-attribute_r	_	_
+194	（ Nova ， 1923年 5月 14日 — 2020年 12月 22日 ） ，	1	_	_	_	192	elaboration-attribute_r	_	_
+195	哈佛 大学 化学系 ， 长沙 中南 矿冶 学院 教授 ，	2	_	_	_	192	same-unit_m	_	_
+196	其 夫婿 黄培云	3	_	_	_	192	joint-list_m	_	_
+197	（ 1917年 8月 23日 — 2012年 2月 6日 ）	0	_	_	_	196	elaboration-attribute_r	_	_
+198	为 中国 工程院 院士 。	1	_	_	_	196	same-unit_m	_	_
+199	三女	4	_	_	_	185	joint-list_m	_	_
+200	－ 赵来思	0	_	_	_	199	elaboration-attribute_r	_	_
+201	（ Lensey , 1929年 6月 14日 — ） ，	1	_	_	_	199	elaboration-attribute_r	_	_
+202	伯克利 加州 大学 数学 研究所 毕业 ，	2	_	_	_	199	same-unit_m	_	_
+203	出版 过 23 本 书 包括 一些 儿童 读物 ，	3	_	_	_	199	joint-list_m	_	_
+204	其 夫婿 波冈维作	4	_	_	_	199	joint-list_m	_	_
+205	（ 1928年 4月 25日 — ）	0	_	_	_	204	elaboration-attribute_r	_	_
+206	为 华盛顿 大学 数学 教授 。	1	_	_	_	204	same-unit_m	_	_
+207	四女	4	_	_	_	185	joint-list_m	_	_
+208	－ 赵小中	0	_	_	_	207	elaboration-attribute_r	_	_
+209	（ Bella ， 1931年 5月 24日 — ） ，	1	_	_	_	207	elaboration-attribute_r	_	_
+210	学 物理 ，	2	_	_	_	207	same-unit_m	_	_
+211	毕业于 康奈尔 大学 ，	3	_	_	_	207	joint-list_m	_	_
+212	任职于 马萨诸塞 理工 学院 ；	3	_	_	_	207	joint-list_m	_	_
+213	前夫 为 天文学家 邱宏义 。	4	_	_	_	207	joint-list_m	_	_
+214	-LSB- 15 -RSB-	6	_	_	_	185	explanation-evidence_r	_	_
+215	赵元任 惧内 一 事 后来 还 传到 蒋介石 的 耳中 。	4	_	_	_	228	organization-preparation_r	_	_
+216	民国 19 、 20年 ， 改制 为 国立 的	0	_	_	_	217	elaboration-attribute_r	_	_
+217	清华 大学 学生 代表 先后 驱逐 了 罗家伦 、 吴南轩 两 位 校长 ，	2	_	_	_	221	context-background_r	_	_
+218	国民 政府 决定	0	_	_	_	219	attribution-positive_r	_	_
+219	“ 另选 贤能 ” ，	1	_	_	_	217	joint-sequence_m	_	_
+220	当时 便 有 人 提议	0	_	_	_	221	attribution-positive_r	_	_
+221	聘请 赵元任 ，	2	_	_	_	228	adversative-concession_r	_	_
+222	蒋介石 本来 要 同意 ，	1	_	_	_	221	joint-list_m	_	_
+223	没 想到 吴稚晖 先生 一 句	0	_	_	_	228	attribution-positive_r	_	_
+224	“ 不如 圈定 杨步伟 女士 ，	0	_	_	_	226	elaboration-attribute_r	_	_
+225	反正 之后 终 要 归 她 管 ” 的	0	_	_	_	224	joint-list_m	_	_
+226	戏言 ， 导致	0	_	_	_	223	same-unit_m	_	_
+227	蒋介石 也 知道	0	_	_	_	223	same-unit_m	_	_
+228	他 惧内 ，	7	_	_	_	185	joint-other_m	_	_
+229	最后 另择 梅贻琦 担任 清华 大学 校长 。	1	_	_	_	228	causal-result_r	_	_
+230	-LSB- 16 -RSB-	3	_	_	_	228	explanation-evidence_r	_	_

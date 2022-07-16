@@ -1,0 +1,192 @@
+1	抗议 薪资 不公	0	_	_	_	2	purpose-goal_r	_	_
+2	天堂 执法者 亚裔 演员 走人	6	_	_	_	15	organization-heading_r	_	_
+3	【 2017年 7月 11日 讯 】	5	_	_	_	15	context-circumstance_r	_	_
+4	上 星期	2	_	_	_	15	context-background_r	_	_
+5	哥伦比亚 广播 公司 收视率 很 高 的	0	_	_	_	6	elaboration-attribute_r	_	_
+6	警匪秀 “ 天堂 执法者 ” 的 主要 演员 ， 亚裔 的 丹尼尔·金 和 朴敏庆 爆出	0	_	_	_	4	same-unit_m	_	_
+7	双双 退出 的	0	_	_	_	8	elaboration-attribute_r	_	_
+8	新闻 ，	0	_	_	_	4	same-unit_m	_	_
+9	引起 各 界 关注 。	1	_	_	_	4	causal-result_r	_	_
+10	观察家 指出 ，	1	_	_	_	11	attribution-positive_r	_	_
+11	一些	1	_	_	_	15	context-background_r	_	_
+12	在 好莱坞 已经 熬出 字号 的	0	_	_	_	13	elaboration-attribute_r	_	_
+13	亚裔 演员 依然 要 面对 许多 障碍 ，	0	_	_	_	11	same-unit_m	_	_
+14	据 报道 ，	0	_	_	_	15	attribution-positive_r	_	_
+15	导火线 是 他们 的 演出 酬劳 低于 电视 系列剧 的 另 两 个 白人 演员 。	0	_	_	_	0	ROOT	_	_
+16	尽管	0	_	_	_	19	adversative-concession_r	_	_
+17	以 夏威夷 为 背景 的	0	_	_	_	18	elaboration-attribute_r	_	_
+18	“ 天堂 执法者 ” 以 多元化 的 演员 为 号召 ，	0	_	_	_	16	same-unit_m	_	_
+19	丹尼尔·金 和 朴敏庆 却 可能 被 制片厂 视 为 两 个 白人 主演 的 配角 。	3	_	_	_	15	elaboration-additional_r	_	_
+20	今年 春天 有关 合同 谈判 陷入 僵局 ，	3	_	_	_	24	organization-preparation_r	_	_
+21	制作群 虽然 想	0	_	_	_	22	attribution-positive_r	_	_
+22	把 两 个 亚裔 演员 拉 回来 ，	2	_	_	_	24	adversative-concession_r	_	_
+23	但 报道 称	1	_	_	_	24	attribution-positive_r	_	_
+24	两 人 都 拒绝 接受	1	_	_	_	19	explanation-evidence_r	_	_
+25	比 白人 主演 少 的	0	_	_	_	26	elaboration-attribute_r	_	_
+26	片酬 。	0	_	_	_	24	same-unit_m	_	_
+27	哥伦比亚 广播 公司 和 节目 制作人 否认	0	_	_	_	28	attribution-negative_r	_	_
+28	丹尼尔·金 和 朴敏庆 被 不 公平 对待 。	2	_	_	_	19	adversative-contrast_m	_	_
+29	一 个 消息 来源 说 ，	1	_	_	_	30	attribution-positive_r	_	_
+30	丹尼尔·金 每 集 的 片酬 被 大幅 提高 到 十九万五千 美元 ，	1	_	_	_	28	explanation-evidence_r	_	_
+31	只 比 白人 主演 少 五千 美元 。	0	_	_	_	30	joint-list_m	_	_
+32	丹尼尔·金 从 “ 天堂 执法者 ” 2010年 首播 就 是 主要 角色 ，	3	_	_	_	19	explanation-evidence_r	_	_
+33	他 在 自己 的 脸书 上 说 ，	3	_	_	_	36	attribution-positive_r	_	_
+34	身为 亚裔 演员 ，	1	_	_	_	36	contingency-condition_r	_	_
+35	他 亲身 体验	0	_	_	_	36	attribution-positive_r	_	_
+36	要 找到 任何 工作 机会 是 多么 困难 ，	0	_	_	_	32	elaboration-additional_r	_	_
+37	更 不 用 说 能 演出 一 个	2	_	_	_	36	elaboration-additional_r	_	_
+38	像 秦禾 这样	0	_	_	_	39	context-background_r	_	_
+39	有 深度 的 、 真实 的	0	_	_	_	40	elaboration-attribute_r	_	_
+40	角色 。	0	_	_	_	37	same-unit_m	_	_
+41	但 他 最终 还是 决定	0	_	_	_	42	attribution-positive_r	_	_
+42	离开 这 个 当红 的 秀 。	1	_	_	_	32	adversative-contrast_m	_	_
+43	丹尼尔·金 在 脸书 上 表示 ，	2	_	_	_	48	attribution-positive_r	_	_
+44	尽管 他 表明	0	_	_	_	45	attribution-positive_r	_	_
+45	可以 回来 ，	0	_	_	_	46	adversative-concession_r	_	_
+46	但 哥伦比亚 广播 公司 和 他 未能 同意 新 合同 的 条件 ，	1	_	_	_	48	causal-cause_r	_	_
+47	所以 他 做出 艰难 的 选择 ，	0	_	_	_	48	organization-preparation_r	_	_
+48	不再 继续 。	2	_	_	_	32	explanation-evidence_r	_	_
+49	“ 天堂 执法者 ” 的 执行 制片 比特·列诺科夫 则 指出 ，	3	_	_	_	51	attribution-positive_r	_	_
+50	两 位 演员 选择 不再 续约 ，	2	_	_	_	51	context-background_r	_	_
+51	哥伦比亚 广播 公司 在 续约 谈判 中 非常 慷慨 和 积极 主动 ，	3	_	_	_	32	adversative-contrast_m	_	_
+52	两 个 演员 都 可 获得 前所未有 的 加薪 ，	0	_	_	_	51	explanation-evidence_r	_	_
+53	但 他们 最终 选择 离开 。	1	_	_	_	51	adversative-concession_r	_	_
+54	这 个 薪资 争议 激起 一些 演员 对 好莱坞 数十 年 来 各 种 不 公平 的 现象 发出 不平 之 鸣 。	4	_	_	_	15	joint-other_m	_	_
+55	两 年 前 奥斯卡奖 出现 白人 演员 获得 压倒性 的 提名 ，	0	_	_	_	56	causal-cause_r	_	_
+56	引发 所谓 的 “ 奥斯卡 太 白 ” 运动 ，	2	_	_	_	58	context-background_r	_	_
+57	揭开 了 好莱坞 电影 工业 在 雇用 和 选角 方面 的 种族 问题 后 ，	0	_	_	_	58	context-circumstance_r	_	_
+58	电影 和 电视 工业 近年 来 开始 重视 多元化 ，	0	_	_	_	62	adversative-concession_r	_	_
+59	一些	1	_	_	_	58	explanation-evidence_r	_	_
+60	由 少数 族裔 担纲 的	0	_	_	_	61	elaboration-attribute_r	_	_
+61	电视 节目 取得 出色 的 收视率 ，	0	_	_	_	59	same-unit_m	_	_
+62	但 问题 依旧 存在 ， 特别是 对 亚裔 演员 。	0	_	_	_	54	explanation-evidence_r	_	_
+63	一些 电影 和 电视 节目 的 亚裔 角色 选用 白人 演员 ，	1	_	_	_	62	explanation-evidence_r	_	_
+64	有的 制片人 声称	1	_	_	_	65	attribution-positive_r	_	_
+65	“ 因为	0	_	_	_	63	causal-cause_r	_	_
+66	来自 亚洲 的	0	_	_	_	67	elaboration-attribute_r	_	_
+67	演员 英语 不 好 。 ”	0	_	_	_	65	same-unit_m	_	_
+68	拜欧拉 大学 研究 种族 和 民族 的	0	_	_	_	69	elaboration-attribute_r	_	_
+69	南西·王 教授 表示 ，	0	_	_	_	70	attribution-positive_r	_	_
+70	有 一 种 对 亚裔 美国人 的 偏见 ，	3	_	_	_	72	organization-preparation_r	_	_
+71	她 说 ：	2	_	_	_	72	attribution-positive_r	_	_
+72	“ 我 觉得 社会 看 不到 我们 ，	1	_	_	_	63	joint-list_m	_	_
+73	我们 平板 单调 ，	0	_	_	_	72	elaboration-additional_r	_	_
+74	既 不 存在于 场景	0	_	_	_	73	joint-list_m	_	_
+75	也 没有 对白 ，	0	_	_	_	73	joint-list_m	_	_
+76	从 某 方面 来说	0	_	_	_	77	organization-preparation_r	_	_
+77	是 去人性化 了 。	1	_	_	_	72	joint-list_m	_	_
+78	我们 只 是 布景 的 一 部分 。 ”	1	_	_	_	77	explanation-justify_r	_	_
+79	亚裔 演员 近来 的 工作 机会 其实 增多 了 ，	1	_	_	_	80	causal-result_r	_	_
+80	很 大 程度 上 是 因为	2	_	_	_	62	adversative-concession_r	_	_
+81	来自 中国 的	0	_	_	_	82	elaboration-attribute_r	_	_
+82	财源 。	0	_	_	_	80	same-unit_m	_	_
+83	中国 作为 世界 第二 大 的 电影 市场 ， 好莱坞 的 制片厂 老板 希望	0	_	_	_	84	attribution-positive_r	_	_
+84	巩固 电影 在 中国 市场 的 前景 ，	2	_	_	_	80	elaboration-additional_r	_	_
+85	就 用 亚裔 演员 来 充数 ，	1	_	_	_	84	mode-manner_r	_	_
+86	然而 那些 经常 是 背景 角色 。	0	_	_	_	85	adversative-concession_r	_	_
+87	也 有 人 指出 ，	1	_	_	_	89	attribution-positive_r	_	_
+88	那 是 因为 制片厂 老板 不 觉得	0	_	_	_	89	attribution-negative_r	_	_
+89	亚裔 符合 他们 心目 中 的 主角 形象 。	3	_	_	_	62	elaboration-additional_r	_	_
+90	美国 影视 演员 工会 的 亚太裔 媒体 委员会 主席 哈纳米 则 认为	0	_	_	_	91	attribution-positive_r	_	_
+91	这 是 体制 问题 。	4	_	_	_	62	joint-other_m	_	_
+92	她 表示 ，	1	_	_	_	96	attribution-positive_r	_	_
+93	制片厂 的 头头 多数 是 白人 ，	0	_	_	_	96	context-background_r	_	_
+94	也 有些 女性 和 有色 人种 。	0	_	_	_	93	joint-list_m	_	_
+95	然后 是 节目 的 原创者 ， 大多 来自 写作 和 常春藤 盟校 ，	1	_	_	_	93	joint-list_m	_	_
+96	所有 决策者 其实 都 是 在 反映 自己 。	1	_	_	_	91	explanation-evidence_r	_	_
+97	南加州 大学 的 媒体 、 多元化 和 社会 变迁 项目 的 研究 发现 ，	2	_	_	_	98	attribution-positive_r	_	_
+98	在 所有 的	2	_	_	_	91	explanation-evidence_r	_	_
+99	有 对白 的	0	_	_	_	100	elaboration-attribute_r	_	_
+100	角色 里 ， 亚裔 美国人 特别 难得 见到 ，	0	_	_	_	98	same-unit_m	_	_
+101	至少 半数 的 电影 和 电视 剧 ， 没有 一 个	1	_	_	_	98	explanation-evidence_r	_	_
+102	有 对白 的	0	_	_	_	104	elaboration-attribute_r	_	_
+103	或是 有 名字 的	0	_	_	_	102	joint-disjunction_m	_	_
+104	亚洲人 或 亚裔 美国人 的 角色 。	0	_	_	_	101	same-unit_m	_	_
+105	曾 赢得 奥斯卡 短片 奖 的	0	_	_	_	106	elaboration-attribute_r	_	_
+106	克里斯·田岛 说 ，	2	_	_	_	108	attribution-positive_r	_	_
+107	为什么 没有 出现 亚裔 大 明星 ？	1	_	_	_	108	organization-preparation_r	_	_
+108	因为 你 必须 要 让 他们 有 戏 演	3	_	_	_	98	joint-list_m	_	_
+109	才 有 可能 。	0	_	_	_	108	causal-result_r	_	_
+110	比起	1	_	_	_	116	context-background_r	_	_
+111	电影 “ 第凡 内 早餐 ” 里米基·鲁尼 扮演 大 暴牙 的	0	_	_	_	112	elaboration-attribute_r	_	_
+112	日裔 的 时代 ， 好莱坞 的 电影 工业 已经 蜕变 的 更 有 包容性 ，	0	_	_	_	110	same-unit_m	_	_
+113	尽管	1	_	_	_	110	adversative-concession_r	_	_
+114	亚裔 领衔 的	0	_	_	_	115	elaboration-attribute_r	_	_
+115	角色 仍然 有如 凤毛麟角 。	0	_	_	_	113	same-unit_m	_	_
+116	南加州 大学 去年 就 400多 部 电影 和 电视 系列剧 做出 研究 ，	3	_	_	_	98	joint-list_m	_	_
+117	发现	1	_	_	_	118	attribution-positive_r	_	_
+118	里面 亚裔 演员	0	_	_	_	116	joint-list_m	_	_
+119	有 对白 的	0	_	_	_	120	elaboration-attribute_r	_	_
+120	角色 只 占 百分之五 。	0	_	_	_	118	same-unit_m	_	_
+121	好莱坞 的 韩裔 演员 爱德华·金 演出 过 几十 部 电影 和 电视剧 ，	4	_	_	_	123	context-background_r	_	_
+122	他 说 ：	2	_	_	_	123	attribution-positive_r	_	_
+123	“ 好莱坞 有 很多 机会 ，	3	_	_	_	98	joint-list_m	_	_
+124	但 总是 些	0	_	_	_	123	adversative-contrast_m	_	_
+125	只 有 一 句 对白 的	0	_	_	_	126	elaboration-attribute_r	_	_
+126	小 角色 ，	0	_	_	_	124	same-unit_m	_	_
+127	如果 你 想 演 个 商店 老板 ， 指甲店 的 美容师 ， 或者 IT 技术 人员 ，	0	_	_	_	128	contingency-condition_r	_	_
+128	这些 角色 都 有 ，	1	_	_	_	123	explanation-evidence_r	_	_
+129	但 我们 难得 有 机会 担任 主角 。 ”	1	_	_	_	128	adversative-contrast_m	_	_
+130	爱德华·金 说	1	_	_	_	131	attribution-positive_r	_	_
+131	自己 并不 愤世嫉俗 ，	3	_	_	_	123	evaluation-comment_r	_	_
+132	他 只是 实事求是 的 面对 作为 一 个 好莱坞 亚裔 演员 的 困境 。	0	_	_	_	131	joint-list_m	_	_
+133	社交 媒体 上 有些 批评者 指出 ，	1	_	_	_	137	attribution-positive_r	_	_
+134	制片厂 强调	0	_	_	_	135	attribution-positive_r	_	_
+135	给 演员 大幅 加薪 ，	0	_	_	_	137	attribution-positive_r	_	_
+136	说明 了	1	_	_	_	135	same-unit_m	_	_
+137	演员 这些 年 一直 薪资 过 低 。	1	_	_	_	54	joint-list_m	_	_
+138	薪资 争议 也 引起 政界 注意 。	1	_	_	_	54	joint-list_m	_	_
+139	纽约州 的 华裔 联邦 众议员 孟昭文 上 星期	2	_	_	_	146	attribution-positive_r	_	_
+140	发表 声明	0	_	_	_	141	mode-means_r	_	_
+141	说 ，	0	_	_	_	139	same-unit_m	_	_
+142	两 名 亚裔 演员 的 片酬 少于	1	_	_	_	146	attribution-positive_r	_	_
+143	共同 演出 的	0	_	_	_	144	elaboration-attribute_r	_	_
+144	白人 演员 ， 表明	0	_	_	_	142	same-unit_m	_	_
+145	好莱坞 的 种族 不 平等 的	0	_	_	_	146	elaboration-attribute_r	_	_
+146	现象 有待 解决 。	0	_	_	_	138	explanation-evidence_r	_	_
+147	孟昭文 还 表示 ，	2	_	_	_	150	attribution-positive_r	_	_
+148	亚裔 美国人 在 好莱坞 已经 面对 许多 问题 ，	1	_	_	_	150	causal-cause_r	_	_
+149	包括 刻板 角色 和 角色 白人化 ， 酬劳 不 平等	0	_	_	_	148	elaboration-additional_r	_	_
+150	更 加深 了 问题 ，	3	_	_	_	146	joint-list_m	_	_
+151	为 亚裔 演员 在 娱乐业 制造 障碍 。	0	_	_	_	150	joint-list_m	_	_
+152	孟昭文 呼吁	1	_	_	_	153	attribution-positive_r	_	_
+153	好莱坞 制片厂 和 制作人 关注	3	_	_	_	146	joint-list_m	_	_
+154	片酬 不 平等 、	0	_	_	_	155	elaboration-attribute_r	_	_
+155	伤人 的 刻板 印象 、 以及 亚裔 美国人 在 银幕 前后 的 代表性 不足 等 问题 。	0	_	_	_	153	same-unit_m	_	_
+156	至于 好莱坞 的 亚裔 演员 是否 整体 遭受 低薪 待遇 ，	0	_	_	_	157	context-background_r	_	_
+157	演员 工会 并 没有 片酬 记录 ，	4	_	_	_	15	joint-other_m	_	_
+158	因为 这 是	1	_	_	_	157	causal-cause_r	_	_
+159	制片厂 、 经纪人 和 个别 演员 间 不 公开 的	0	_	_	_	160	elaboration-attribute_r	_	_
+160	信息 。	0	_	_	_	158	same-unit_m	_	_
+161	影剧圈 的 专家 表示 ，	1	_	_	_	162	attribution-positive_r	_	_
+162	天堂 执法者 的 片酬 争议 和	4	_	_	_	15	joint-other_m	_	_
+163	丹尼尔·金 为 此 挺身而出 的	0	_	_	_	164	elaboration-attribute_r	_	_
+164	表现 ，	0	_	_	_	162	same-unit_m	_	_
+165	可能 标志 了 一 个 转折点 。	0	_	_	_	162	same-unit_m	_	_
+166	华裔 制片人 杨燕子 担任 奥斯卡 评委 15 年 ，	2	_	_	_	168	context-background_r	_	_
+167	两 年 前 在 奥斯卡奖 演员 项目 全部 提名 白人 之后 ，	1	_	_	_	168	context-circumstance_r	_	_
+168	她 参与 撰写 评论 《 好莱坞 大片 需要 颜色 》	5	_	_	_	176	context-background_r	_	_
+169	在 洛杉矶 时报 刊载 。	0	_	_	_	168	elaboration-attribute_r	_	_
+170	杨燕子 问道 ：	1	_	_	_	171	attribution-positive_r	_	_
+171	“ 亚洲人 呢 ？	4	_	_	_	176	organization-preparation_r	_	_
+172	拉丁人 呢 ？	0	_	_	_	171	joint-list_m	_	_
+173	其他 中东人 呢 ？ ”	0	_	_	_	171	joint-list_m	_	_
+174	杨燕子 认为	2	_	_	_	176	attribution-positive_r	_	_
+175	不论 从 票房 或者 美国 立国 精神 考虑 ，	1	_	_	_	176	adversative-concession_r	_	_
+176	制片厂 都 应该 努力 多元化 ，	2	_	_	_	162	explanation-evidence_r	_	_
+177	给 有色 人种 更 多 的 竞争 机会 。	0	_	_	_	176	joint-list_m	_	_
+178	她 认为	1	_	_	_	180	attribution-positive_r	_	_
+179	“ 奥斯卡 太 白 ” 运动 鼓励 了	0	_	_	_	180	attribution-positive_r	_	_
+180	亚裔 美国人 挺身 争取 自己 的 权利 。	3	_	_	_	176	joint-other_m	_	_
+181	她 说 ，	1	_	_	_	182	attribution-positive_r	_	_
+182	非洲裔 美国人 社区 在 这 方面 领军 多 年 ，	3	_	_	_	176	joint-other_m	_	_
+183	现在 扩大 到 其它 少数 族裔 。	0	_	_	_	182	joint-list_m	_	_
+184	丹尼尔·金 在 脸书 上 结语 ：	3	_	_	_	187	attribution-positive_r	_	_
+185	尽管 过度期 可能 困难 ，	2	_	_	_	187	adversative-concession_r	_	_
+186	他 鼓励	1	_	_	_	187	attribution-positive_r	_	_
+187	大家 把 眼光 放远 ，	6	_	_	_	176	joint-list_m	_	_
+188	超越 此 刻 的 失望 ，	0	_	_	_	187	joint-list_m	_	_
+189	看到 更 广阔 的 前景 。	0	_	_	_	187	joint-list_m	_	_
+190	他 说 ：	4	_	_	_	187	restatement-partial_r	_	_
+191	“ 通往 平等 的	0	_	_	_	192	elaboration-attribute_r	_	_
+192	道路 很少 是 平顺 的 。 ”	0	_	_	_	190	same-unit_m	_	_

@@ -1,0 +1,290 @@
+1	诺顿 一世	5	_	_	_	2	organization-heading_r	_	_
+2	约书亚·亚伯拉罕·诺顿	0	_	_	_	0	ROOT	_	_
+3	（ 英语 ：	0	_	_	_	4	organization-preparation_r	_	_
+4	Joshua Abraham Norton ， 1818年 2月 4日 － 1880年 1月 8日 ）	0	_	_	_	2	elaboration-additional_r	_	_
+5	又 称 “ 诺顿 一世 ”	1	_	_	_	2	same-unit_m	_	_
+6	（ Emperor Norton I ） ，	0	_	_	_	5	restatement-partial_r	_	_
+7	美国 旧金山 著名 市民 ，	1	_	_	_	2	same-unit_m	_	_
+8	分别 在 1859年 9月 17日 和 1863年 自封 为 “ 美利坚 合众国 皇帝 ”	2	_	_	_	2	joint-list_m	_	_
+9	（ Emperor of the United States ）	0	_	_	_	8	restatement-partial_r	_	_
+10	和 “ 墨西哥 摄政王 ”	1	_	_	_	8	same-unit_m	_	_
+11	（ Protector of Mexico ） 。	0	_	_	_	10	restatement-partial_r	_	_
+12	尽管 他 无职无权 ，	0	_	_	_	16	adversative-concession_r	_	_
+13	也 只 有 一些	0	_	_	_	12	joint-list_m	_	_
+14	拿 他 开心 的	0	_	_	_	15	purpose-attribute_r	_	_
+15	人 承认 他 的 “ 权威 ” ，	0	_	_	_	13	same-unit_m	_	_
+16	但是 他 还是 在 旧金山 受到 了 优待 ，	3	_	_	_	2	joint-other_m	_	_
+17	他 发行 的	0	_	_	_	18	elaboration-attribute_r	_	_
+18	“ 货币 ” 在	1	_	_	_	16	explanation-evidence_r	_	_
+19	他 常 光顾 的	0	_	_	_	20	elaboration-attribute_r	_	_
+20	店铺 被 接受 。	1	_	_	_	18	same-unit_m	_	_
+21	他 曾 给 英国 维多利亚 女王 写信 ，	2	_	_	_	18	joint-list_m	_	_
+22	而且 在 其 逝世 时 ，	0	_	_	_	23	context-circumstance_r	_	_
+23	当地 媒体 和 民众 对 他 尊称 “ 皇帝 陛下 ” 。	2	_	_	_	18	joint-list_m	_	_
+24	虽然 他 一般 被 认为 精神 不 正常 ， 甚至 疯狂 ，	2	_	_	_	18	joint-list_m	_	_
+25	但 在 19 世纪 中期 ， 旧金山 的 居民们 很 以 他 的 存在 、 幽默 和 行为 为 乐 。	0	_	_	_	24	adversative-contrast_m	_	_
+26	他 最 声名远播 的 行为 是 下令	0	_	_	_	27	attribution-positive_r	_	_
+27	用 武力 解散 美国 国会	1	_	_	_	24	explanation-evidence_r	_	_
+28	（ 但 旨令 被 美国 国会 和 美国 军队 忽略 ） ，	1	_	_	_	27	adversative-concession_r	_	_
+29	并且 屡次 下旨	2	_	_	_	27	joint-list_m	_	_
+30	要求	1	_	_	_	31	attribution-positive_r	_	_
+31	修造	0	_	_	_	29	joint-list_m	_	_
+32	横跨 旧金山湾 的	0	_	_	_	33	elaboration-attribute_r	_	_
+33	大桥 。	0	_	_	_	31	same-unit_m	_	_
+34	美国 小说家 马克·吐温 是 诺顿 一世 “ 统治 ” 期间 的 其中 一 名 “ 臣民 ” ，	3	_	_	_	27	adversative-contrast_m	_	_
+35	据说 马克·吐温 其中 一 本 著作 《 哈克贝利·费恩 历险记 》 中 的 国王 角色 是 以 诺顿 一世 为 原型 的	0	_	_	_	34	explanation-evidence_r	_	_
+36	-LSB- 1 -RSB- ，	1	_	_	_	34	explanation-evidence_r	_	_
+37	而 罗伯特·路易斯·史蒂文森 、 莫里斯 、 勒内·戈西尼 、 塞尔玛·拉格洛夫 和 尼尔·盖曼 笔 下 也 有	2	_	_	_	34	joint-list_m	_	_
+38	以 他 为 原型 的	0	_	_	_	39	elaboration-attribute_r	_	_
+39	角色 。	0	_	_	_	37	same-unit_m	_	_
+40	甚至 有 一些 新 宗教 团体 视 他 为 圣人 。	2	_	_	_	34	joint-list_m	_	_
+41	早期 的 生活	4	_	_	_	43	organization-heading_r	_	_
+42	诺顿 一世 在 英国 出生 ，	0	_	_	_	43	adversative-concession_r	_	_
+43	但 日期 和 出生地 纪录 有 多 个 版本 。	4	_	_	_	2	elaboration-additional_r	_	_
+44	旧金山 纪事报 的 诺顿 一世 讣文 中 表示 ：	1	_	_	_	48	attribution-positive_r	_	_
+45	“ 根据 最 可靠 的 资讯 来源 ” ，	0	_	_	_	47	mode-manner_r	_	_
+46	即 援引 他 棺材 上 的 银盘 刻印 ，	0	_	_	_	45	elaboration-additional_r	_	_
+47	认为	0	_	_	_	48	attribution-positive_r	_	_
+48	他 是 “ 年 约 65 岁 。 ”	1	_	_	_	43	explanation-evidence_r	_	_
+49	-LSB- 2 -RSB-	2	_	_	_	48	explanation-evidence_r	_	_
+50	所以 推出 1814年 为 他 的 出生 年 。	3	_	_	_	48	causal-result_r	_	_
+51	其他 非 主要 来源 则 指	0	_	_	_	52	attribution-positive_r	_	_
+52	他 于 1819年 2月 14日 在 伦敦 出生 。	4	_	_	_	48	adversative-contrast_m	_	_
+53	-LSB- 3 -RSB-	1	_	_	_	52	explanation-evidence_r	_	_
+54	根据 1820年 移民 纪录 表明 ，	1	_	_	_	56	attribution-positive_r	_	_
+55	他 两 岁 时	0	_	_	_	56	context-circumstance_r	_	_
+56	他 的 父母 由 英国 移居 到 南非	5	_	_	_	48	joint-sequence_m	_	_
+57	-LSB- 4 -RSB- 。	2	_	_	_	56	explanation-evidence_r	_	_
+58	南非洲 家谱 学会	2	_	_	_	61	attribution-positive_r	_	_
+59	-LSB- 5 -RSB-	0	_	_	_	58	explanation-evidence_r	_	_
+60	表示	1	_	_	_	58	same-unit_m	_	_
+61	他 的 父亲 是 约翰·诺顿	2	_	_	_	43	joint-other_m	_	_
+62	（ 卒 于 1848年 8月 ） ，	0	_	_	_	61	elaboration-additional_r	_	_
+63	而 他 的 母亲 是 萨拉·诺丹 。	1	_	_	_	61	joint-list_m	_	_
+64	萨拉 是 亚伯拉罕·诺丹 的 女儿 ，	0	_	_	_	63	elaboration-additional_r	_	_
+65	也 是 一 位 成功 的 犹太 客商 本杰明·诺丹 的 甥女 。	0	_	_	_	64	joint-list_m	_	_
+66	本杰明 曾 经常 起诉 家庭 成员 ，	3	_	_	_	61	elaboration-additional_r	_	_
+67	这 让 人 觉得 他 不 太 正常 。	0	_	_	_	66	causal-result_r	_	_
+68	这 说法	4	_	_	_	61	evaluation-comment_r	_	_
+69	和 罗拔·高云 （ 1923年 ） 声称	2	_	_	_	70	attribution-positive_r	_	_
+70	“ 那 个 皇帝 诺顿 一世 拥有 希伯来	0	_	_	_	68	same-unit_m	_	_
+71	（ 犹太 ）	0	_	_	_	70	restatement-partial_r	_	_
+72	血统 ”	1	_	_	_	70	same-unit_m	_	_
+73	相 吻合 。	0	_	_	_	68	same-unit_m	_	_
+74	-LSB- 3 -RSB-	1	_	_	_	68	explanation-evidence_r	_	_
+75	1849年 ， 诺顿 继承 父亲 的 遗产 后 ，	3	_	_	_	43	joint-sequence_m	_	_
+76	变卖 父亲 庄园 ，	0	_	_	_	75	joint-sequence_m	_	_
+77	得到 四万 美元 ，	0	_	_	_	75	joint-sequence_m	_	_
+78	从 南非 移居 到 了 旧金山 。	0	_	_	_	75	joint-sequence_m	_	_
+79	据 罗拔·高云 在 1923年 所 说 ，	0	_	_	_	80	attribution-positive_r	_	_
+80	在 1853年 以前 ， 诺顿 的 财富 积累 了 到 二十五万 美元	0	_	_	_	75	joint-sequence_m	_	_
+81	-LSB- 3 -RSB- 。	1	_	_	_	80	explanation-evidence_r	_	_
+82	他 最初 的 商业 成功 来自于 房地产 投资 。	2	_	_	_	92	context-background_r	_	_
+83	后来 ， 由于 中国 发生 了 严重 的 饥荒	0	_	_	_	84	causal-cause_r	_	_
+84	以至于 中国 不再 出口 大米 ，	1	_	_	_	85	causal-cause_r	_	_
+85	从而 使 米价 在 旧金山 由 每 磅 4 美分 狂飙 到 每 磅 36 美分	0	_	_	_	82	joint-sequence_m	_	_
+86	（ 即 一 公斤 9 美分 升到 一 公斤 79 美分 ） 。	0	_	_	_	85	restatement-partial_r	_	_
+87	他 听说 有 一 艘	0	_	_	_	92	context-circumstance_r	_	_
+88	从 秘鲁 来 的	1	_	_	_	89	elaboration-attribute_r	_	_
+89	船 上 载有 20万 磅	0	_	_	_	87	same-unit_m	_	_
+90	（ 100 吨 ）	0	_	_	_	89	restatement-partial_r	_	_
+91	米 后	0	_	_	_	87	same-unit_m	_	_
+92	就 把 它 全部 买下 ，	3	_	_	_	43	joint-sequence_m	_	_
+93	希望	0	_	_	_	94	attribution-positive_r	_	_
+94	哄抬 米市 。	1	_	_	_	92	causal-cause_r	_	_
+95	不幸 的 是 ， 之后 一 船 接着 一 船 的 大米 自 秘鲁 运抵 旧金山 ，	3	_	_	_	92	adversative-contrast_m	_	_
+96	米价 大幅 回落 。	0	_	_	_	95	causal-result_r	_	_
+97	结果 他 和 他 的 财政 伙伴 在 1853年 和 1857年 兴起 诉讼 。	2	_	_	_	99	causal-cause_r	_	_
+98	虽然 诺顿 在 一般 法院 获得 胜利 ，	0	_	_	_	99	adversative-concession_r	_	_
+99	但 他 最终 在 最高 法院 败诉	4	_	_	_	92	causal-result_r	_	_
+100	-LSB- 3 -RSB- 。	1	_	_	_	99	explanation-evidence_r	_	_
+101	1858年 ， 诺顿 宣布 破产 。	3	_	_	_	99	joint-sequence_m	_	_
+102	他 接着 离开 了 城市 几 年 ，	3	_	_	_	43	joint-sequence_m	_	_
+103	返回 之后	0	_	_	_	104	context-circumstance_r	_	_
+104	很 快 向 市 公告局 宣布 了 他 的 皇帝 称号 。	0	_	_	_	102	joint-sequence_m	_	_
+105	没有 任何 文件 表明	2	_	_	_	106	attribution-negative_r	_	_
+106	诺顿	1	_	_	_	102	evaluation-comment_r	_	_
+107	在 破产 之前	0	_	_	_	108	context-circumstance_r	_	_
+108	个性 或 行为 有 何 异常 ，	0	_	_	_	106	same-unit_m	_	_
+109	因此 不 知	1	_	_	_	110	attribution-negative_r	_	_
+110	他 的 怪癖 是否 为 心理 问题 ，	1	_	_	_	106	causal-result_r	_	_
+111	或是 由于 1850年代 的 中国 大米 事件 刺激 所 致 。	0	_	_	_	110	joint-disjunction_m	_	_
+112	在 他 突然 的 损失 财富 之后 ，	3	_	_	_	113	context-circumstance_r	_	_
+113	诺顿 似乎 变得 有些	3	_	_	_	106	adversative-contrast_m	_	_
+114	（ 没有 被 适当 的 诊断 过 ）	0	_	_	_	113	adversative-concession_r	_	_
+115	“ 奇怪 ” ，	1	_	_	_	113	same-unit_m	_	_
+116	开始 想像	0	_	_	_	117	attribution-positive_r	_	_
+117	自己 是 伟大 的 人物 ，	2	_	_	_	113	explanation-evidence_r	_	_
+118	但 很 可能 所有 他 的 声明 和 行为 都 是	4	_	_	_	113	evaluation-comment_r	_	_
+119	对于 贫穷 的 压力 而 产生 的	0	_	_	_	121	elaboration-attribute_r	_	_
+120	富于 创意 的	0	_	_	_	119	joint-list_m	_	_
+121	反应 。	0	_	_	_	118	same-unit_m	_	_
+122	皇帝 旨令	7	_	_	_	128	organization-heading_r	_	_
+123	自封 皇帝	5	_	_	_	128	organization-heading_r	_	_
+124	由于 对 联邦 和 加州 政府 的 政治 结构 的 不 完善	0	_	_	_	125	causal-cause_r	_	_
+125	而 越来越 不满 ，	0	_	_	_	126	adversative-antithesis_r	_	_
+126	诺顿 决定 亲自 解决 。	3	_	_	_	128	organization-preparation_r	_	_
+127	于是 诺顿 在 1859年 9月 17日 给 当地 各种各样 的 报纸 写信 ，	0	_	_	_	128	organization-preparation_r	_	_
+128	在 信件 中 概略 地 自称 “ 美利坚 合众国 皇帝 ” ：	5	_	_	_	43	joint-other_m	_	_
+129	—— “ 根据 大多数 的 美利坚 合众国 公民 的 请求 ，	2	_	_	_	130	explanation-evidence_r	_	_
+130	我 约书亚·诺顿 ，	1	_	_	_	128	explanation-evidence_r	_	_
+131	从前 居住 在 亚高那 海湾 的 好望角 ，	0	_	_	_	130	elaboration-attribute_r	_	_
+132	最近 九 年 零 十 个 月 居位 在 加利福尼亚 的 旧金山 ，	0	_	_	_	131	joint-sequence_m	_	_
+133	宣布 和 自封 为 美利坚 合众国 皇帝 。	1	_	_	_	130	same-unit_m	_	_
+134	我 并且 任命 德性 之 当局 ，	3	_	_	_	130	joint-list_m	_	_
+135	特此 下令	0	_	_	_	136	attribution-positive_r	_	_
+136	于 2月 第1 天 ， 不同 联邦 的 代表 聚集 在 这 个 城市 之 音乐 厅 。	3	_	_	_	130	joint-list_m	_	_
+137	接着 ， 立即 改变 联邦 现有 的 法律 ，	3	_	_	_	130	joint-list_m	_	_
+138	改良	0	_	_	_	137	joint-list_m	_	_
+139	奴役 国家 劳动者 的	0	_	_	_	140	elaboration-attribute_r	_	_
+140	恶法 ，	0	_	_	_	138	same-unit_m	_	_
+141	使 其 从此 重回 生存 之 信心 ，	1	_	_	_	137	purpose-goal_r	_	_
+142	并 在 国内 国外 ， 都 感受 到 我国 的 稳定 和 廉正 。	0	_	_	_	141	joint-list_m	_	_
+143	诺顿 一世 ， 美利坚 合众国 皇帝 ”	4	_	_	_	130	attribution-positive_r	_	_
+144	-LSB- 3 -RSB- -LSB- 6 -RSB-	5	_	_	_	130	explanation-evidence_r	_	_
+145	他 偶尔 会 增加 “ 墨西哥 摄政王 ” 这 个 封号 。	2	_	_	_	128	joint-list_m	_	_
+146	从此 他 开始 了 史无前例 ， 异想天开 ， 和	4	_	_	_	128	causal-result_r	_	_
+147	对 整个 美国 历史 几乎 无关紧要 的	0	_	_	_	148	elaboration-attribute_r	_	_
+148	21 年 的 “ 统治 ” 。	0	_	_	_	146	same-unit_m	_	_
+149	解散 国会	4	_	_	_	153	organization-heading_r	_	_
+150	为 符合	0	_	_	_	153	purpose-goal_r	_	_
+151	他 自封 皇帝 的	0	_	_	_	152	elaboration-attribute_r	_	_
+152	角色 ，	0	_	_	_	150	same-unit_m	_	_
+153	诺顿 一世 发布 了 许多 旨令 。	6	_	_	_	128	joint-other_m	_	_
+154	他 自视 拥有 足够 的 权力 ，	0	_	_	_	155	causal-cause_r	_	_
+155	所以 不再 须要 立法 机关 。	1	_	_	_	153	explanation-evidence_r	_	_
+156	在 1859年 10月 12日 ， 他 下旨	1	_	_	_	155	causal-result_r	_	_
+157	宣布	0	_	_	_	158	attribution-positive_r	_	_
+158	正式 “ 解散 ” 美国 国会 。	0	_	_	_	156	joint-list_m	_	_
+159	他 并且 认为 ：	2	_	_	_	160	attribution-positive_r	_	_
+160	—— “ …… …… 欺骗 和 腐败 充斥 阻碍 公众 言论 。	2	_	_	_	155	joint-list_m	_	_
+161	法律	0	_	_	_	160	joint-list_m	_	_
+162	因为 政治 派系 过度 的 影响 ，	0	_	_	_	163	causal-cause_r	_	_
+163	已 由 暴民 、 党派 、 和 黑帮 被 公开 侵害 。	0	_	_	_	161	same-unit_m	_	_
+164	公民 没有 得到	1	_	_	_	160	causal-result_r	_	_
+165	应 有 的	0	_	_	_	166	elaboration-attribute_r	_	_
+166	人身 和 财产 保护 。 ”	0	_	_	_	164	same-unit_m	_	_
+167	-LSB- 7 -RSB-	3	_	_	_	160	explanation-evidence_r	_	_
+168	所以 ， 皇帝 命令 “ 各个 利益 集团 ” 在 1860年 2月 会集 在 旧金山 的 帕斯 音乐厅 “ 补救	4	_	_	_	160	causal-result_r	_	_
+169	被 大家 抱怨 的	0	_	_	_	170	elaboration-attribute_r	_	_
+170	罪恶 ”	0	_	_	_	168	same-unit_m	_	_
+171	-LSB- 7 -RSB- 。	1	_	_	_	168	explanation-evidence_r	_	_
+172	1860年 1月 ， 在 另 一 个 “ 旨令 ” 中 ， 皇帝 诺顿 一世 召唤 军队	2	_	_	_	155	joint-list_m	_	_
+173	废除 国会 的 当选 议员 ：	0	_	_	_	172	purpose-goal_r	_	_
+174	—— “ 鉴于 ， 华盛顿市 有 一 群 人 自称 国会 议员 ，	1	_	_	_	175	explanation-justify_r	_	_
+175	这 违反 了	1	_	_	_	172	explanation-evidence_r	_	_
+176	10月 12日 发表 宣布	0	_	_	_	178	elaboration-attribute_r	_	_
+177	国会 被 废除 的	0	_	_	_	176	joint-list_m	_	_
+178	皇家 法令 ；	0	_	_	_	175	same-unit_m	_	_
+179	鉴于 ， 朕 有 必要 严密 地 遵照 帝国 的 旨令 ；	2	_	_	_	182	explanation-justify_r	_	_
+180	现在 ， 因此 朕 命令 和 指示 军队 的 最高 司令官 ， 陆军 少将 史考特 ，	1	_	_	_	182	attribution-positive_r	_	_
+181	收到 朕 的 旨令 后 ，	0	_	_	_	182	context-circumstance_r	_	_
+182	立刻 以 适当 的 力量 清洗 国会 大厅 。 ”	2	_	_	_	175	joint-list_m	_	_
+183	-LSB- 7 -RSB-	3	_	_	_	182	explanation-evidence_r	_	_
+184	诺顿 一世 的 “ 命令 ” 当然 对 军队 起 不 了 任何 作用 ，	2	_	_	_	172	causal-result_r	_	_
+185	国会 同样 依然 照常 运作 。	0	_	_	_	184	joint-list_m	_	_
+186	1860年 诺顿 一世 进一步 发布 “ 旨令 ”	2	_	_	_	155	joint-list_m	_	_
+187	声称	1	_	_	_	188	attribution-positive_r	_	_
+188	解散 共和国	0	_	_	_	186	joint-list_m	_	_
+189	和 禁止 所有 国会 的 议员 集会	0	_	_	_	188	joint-list_m	_	_
+190	-LSB- 7 -RSB- 。	1	_	_	_	186	explanation-evidence_r	_	_
+191	这 个 指令	2	_	_	_	186	evaluation-comment_r	_	_
+192	像 所有 诺顿 一世 的 旨令 一样 ，	0	_	_	_	193	mode-manner_r	_	_
+193	华盛顿 政府 和 国内 大多数 人 对 此 都 不屑一顾 。	0	_	_	_	191	same-unit_m	_	_
+194	诺顿 一世 在 他 的 整个 “ 统治 ” 期间 从 未 放弃	2	_	_	_	153	causal-result_r	_	_
+195	反对 美国 当选 领导者 的	0	_	_	_	196	purpose-attribute_r	_	_
+196	斗争 。	0	_	_	_	194	same-unit_m	_	_
+197	但 最终 看起来 诺顿 一世	1	_	_	_	194	adversative-contrast_m	_	_
+198	像是 有些 遗憾 地	0	_	_	_	199	mode-manner_r	_	_
+199	接受	0	_	_	_	197	same-unit_m	_	_
+200	国会 继续	0	_	_	_	203	elaboration-attribute_r	_	_
+201	没有 他 的 允许	0	_	_	_	202	context-circumstance_r	_	_
+202	仍 会 存在 的	0	_	_	_	200	same-unit_m	_	_
+203	事实 。	0	_	_	_	197	same-unit_m	_	_
+204	他 企图 推翻 美国 当选 政府 的	0	_	_	_	205	purpose-attribute_r	_	_
+205	行动 被 挫败 后 ，	0	_	_	_	206	context-circumstance_r	_	_
+206	诺顿 一世 把 他 的 注意力 和 宣旨 转移 到 其它 政治 和 社会 事物 。	5	_	_	_	208	organization-preparation_r	_	_
+207	例如 。	2	_	_	_	208	organization-preparation_r	_	_
+208	在 1869年 8月 12日 ，	3	_	_	_	153	joint-other_m	_	_
+209	“ 为 希望	0	_	_	_	210	attribution-positive_r	_	_
+210	缓和 朕 的 领土 中 党 与 党 的 冲突 ”	0	_	_	_	211	purpose-goal_r	_	_
+211	他 “ 废除 了 ” 民主党 和 共和党	0	_	_	_	208	same-unit_m	_	_
+212	-LSB- 8 -RSB-	1	_	_	_	208	explanation-evidence_r	_	_
+213	（ 美国 南北 战争 之 时 ，	2	_	_	_	214	context-circumstance_r	_	_
+214	诺顿 一世 曾 去信 总统 亚伯拉罕·林肯 和 南方 总统 杰斐逊·戴维斯 ，	3	_	_	_	208	context-background_r	_	_
+215	要求	0	_	_	_	216	attribution-positive_r	_	_
+216	他们 到 旧金山 作 停战 谈判 ，	0	_	_	_	214	joint-list_m	_	_
+217	但 两 人 皆 没有 理会 他 ） 。	1	_	_	_	214	adversative-contrast_m	_	_
+218	还 有 一 次 ， 1872年 他	3	_	_	_	223	attribution-positive_r	_	_
+219	针对 对 他 的 第二 故乡 旧金山	0	_	_	_	221	elaboration-additional_r	_	_
+220	（ 圣弗朗西斯科 ）	0	_	_	_	219	restatement-partial_r	_	_
+221	有 人 称呼 不敬	0	_	_	_	222	causal-cause_r	_	_
+222	而 宣布 一 项 特别 严厉 的 法令 ：	0	_	_	_	218	same-unit_m	_	_
+223	—— “ 任何 人	4	_	_	_	208	joint-list_m	_	_
+224	在 本 警告 之后 ，	1	_	_	_	225	context-circumstance_r	_	_
+225	依然 说出 这 个 没有 任何 语言学 或 其他 根据 的 恶心 词语 “ 弗里斯科 ”	0	_	_	_	227	contingency-condition_r	_	_
+226	（ “ Frisco ” ， 旧金山 在 英语 的 一 种 简称 ） ，	0	_	_	_	225	elaboration-additional_r	_	_
+227	将 被 视 为 有罪 和 犯上 ，	0	_	_	_	223	same-unit_m	_	_
+228	并 须 支付 二十五 美元 入 皇家 财库	1	_	_	_	223	joint-list_m	_	_
+229	作为 惩罚 。	0	_	_	_	228	purpose-goal_r	_	_
+230	-LSB- 7 -RSB- ”	2	_	_	_	223	explanation-evidence_r	_	_
+231	下旨 建桥	5	_	_	_	247	organization-heading_r	_	_
+232	如果 对 这 一 连串 “ 皇家 法令 ” 进行 分析 ，	0	_	_	_	233	contingency-condition_r	_	_
+233	很 有 理由 怀疑 这 位 美国 的 唯一 一 位 “ 君主 ” 的 精神 状态 。	1	_	_	_	234	adversative-concession_r	_	_
+234	然而 ， 没有 人 可以 精确 地 诊断 诺顿 一世 的 心理 ，	3	_	_	_	247	adversative-concession_r	_	_
+235	因为	0	_	_	_	234	adversative-contrast_m	_	_
+236	关于 他 的 行为 的	0	_	_	_	237	elaboration-attribute_r	_	_
+237	所有 纪录 都 是 些 奇闻逸事 。	0	_	_	_	235	same-unit_m	_	_
+238	可能	2	_	_	_	234	explanation-justify_r	_	_
+239	他 视 自己 为 “ 大 人物 ” 的	0	_	_	_	240	elaboration-attribute_r	_	_
+240	错觉 也许 源自	0	_	_	_	238	same-unit_m	_	_
+241	和 这 种 症状 有 关连 的	0	_	_	_	242	elaboration-attribute_r	_	_
+242	精神 分裂症 。	0	_	_	_	238	same-unit_m	_	_
+243	但是 还是 有 可能 ， 他 不过 是 患有 其它 类型 的 轻微 精神病 ，	1	_	_	_	238	joint-disjunction_m	_	_
+244	甚至 他 是 神志 正常 的 。	1	_	_	_	238	joint-disjunction_m	_	_
+245	虽然 他 的 心理 情况 的确 异于 常人 ，	2	_	_	_	247	adversative-concession_r	_	_
+246	但 无可 否认 ，	1	_	_	_	247	attribution-positive_r	_	_
+247	诺顿 一世 在 一些 场合 中 却 非常 有 远见 ，	6	_	_	_	128	joint-other_m	_	_
+248	并且 在 一定 数量 的 “ 皇家 旨令 ” 中 显示 了 深刻 智慧 。	0	_	_	_	247	joint-list_m	_	_
+249	在 他 的 许多 旨令 之中 是 要 组成 “ 国际 联盟 ” ，	4	_	_	_	247	explanation-evidence_r	_	_
+250	并且 明令 禁止 任何 一 种 宗教 派别 之间 的 纷争 或 冲突 。	0	_	_	_	249	joint-list_m	_	_
+251	皇帝 并且 下旨	1	_	_	_	249	joint-list_m	_	_
+252	要求	1	_	_	_	253	attribution-positive_r	_	_
+253	建造	0	_	_	_	251	joint-list_m	_	_
+254	连接 奥克兰 和 旧金山 的	0	_	_	_	255	purpose-attribute_r	_	_
+255	吊桥 ，	0	_	_	_	253	same-unit_m	_	_
+256	他 的 后来 旨令 由于 政府 当局 没有 立即 奉旨 执行	0	_	_	_	257	causal-cause_r	_	_
+257	而 日益 愤怒 ：	1	_	_	_	251	adversative-contrast_m	_	_
+258	—— “ 鉴于 朕 发布 了 旨令 ，	5	_	_	_	261	organization-preparation_r	_	_
+259	下令	4	_	_	_	261	attribution-positive_r	_	_
+260	旧金山 和 奥克兰 的 公民 筹资 ，	2	_	_	_	261	purpose-goal_r	_	_
+261	勘测 从 奥克兰	3	_	_	_	270	explanation-justify_r	_	_
+262	通过 山羊岛	0	_	_	_	263	mode-means_r	_	_
+263	建造 一 座 吊桥 ，	0	_	_	_	261	same-unit_m	_	_
+264	或者 修 一 条 隧道 ，	1	_	_	_	261	joint-disjunction_m	_	_
+265	并 决定 哪 个 方案 更 可行 ；	3	_	_	_	261	joint-list_m	_	_
+266	但是 这些 公民 至今 依然 忽略 朕 的 旨令 ，	6	_	_	_	261	adversative-contrast_m	_	_
+267	为了 维护 当局 权威 ；	0	_	_	_	266	purpose-goal_r	_	_
+268	因此 ， 朕 特 此 命令 ，	1	_	_	_	270	attribution-positive_r	_	_
+269	如果 他们 坚持 忽略 朕 的 旨令 ，	0	_	_	_	270	contingency-condition_r	_	_
+270	将 命令 军队 拘捕 城市 之 父 委员会 的 委员 。	2	_	_	_	251	causal-result_r	_	_
+271	在 旧金山 以 吾帝 之 手 盖上 玺印 ， 1872年 9月 第17 天 。 ”	2	_	_	_	270	attribution-positive_r	_	_
+272	和 大多数 旨令 不同 ，	0	_	_	_	273	adversative-antithesis_r	_	_
+273	这 个 旨令 最终 被 “ 执行 ” 了 。	2	_	_	_	274	organization-preparation_r	_	_
+274	1933年 至 1936年 年间 ，	3	_	_	_	251	evaluation-comment_r	_	_
+275	横跨 旧金山湾 的	0	_	_	_	276	elaboration-attribute_r	_	_
+276	旧金山 - 奥克兰 海湾 大桥	0	_	_	_	274	same-unit_m	_	_
+277	（ 又 称 海湾 大桥 ）	1	_	_	_	276	elaboration-attribute_r	_	_
+278	建成 。	0	_	_	_	274	same-unit_m	_	_
+279	1969年 至 1972年 年间 ， 湾区 捷运	1	_	_	_	274	joint-list_m	_	_
+280	（ 旧金山 地下铁 ）	0	_	_	_	279	restatement-partial_r	_	_
+281	的	1	_	_	_	279	same-unit_m	_	_
+282	连接 旧金山 和 奥克兰 的	0	_	_	_	283	purpose-attribute_r	_	_
+283	湾下 隧道 被 打通 了 。	1	_	_	_	279	same-unit_m	_	_
+284	外交 关系	3	_	_	_	285	organization-heading_r	_	_
+285	诺顿 一世 在位 期间 与 夏威夷 国王 卡美哈梅哈 五世 保持 通信 联络 ，	6	_	_	_	128	joint-other_m	_	_
+286	并 取得 后者 承认 。	0	_	_	_	285	joint-list_m	_	_
+287	卡美哈梅哈 五世 宣称 诺顿 一世 为 “ 全 美国 唯一 的 统治者 ” 。	1	_	_	_	285	elaboration-additional_r	_	_
+288	与此之外 ， 诺顿 曾 于 1877年 在 旧金山 会见 巴西 皇帝 佩德罗 二世 。	2	_	_	_	285	joint-list_m	_	_
+289	诺顿 也 曾 向 英国 女王 发信	2	_	_	_	285	joint-list_m	_	_
+290	但 未 被 回复 。	0	_	_	_	289	adversative-concession_r	_	_

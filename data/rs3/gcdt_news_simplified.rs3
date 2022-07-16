@@ -1,0 +1,401 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="186" relname="attribution-positive">陈章太 说 ：</segment>
+		<segment id="2" parent="3" relname="elaboration-attribute">2008年 起 联合国 使用 的</segment>
+		<segment id="3" parent="186" relname="span">中文 一律 用 简体字</segment>
+		<segment id="4" parent="345" relname="context-circumstance">【 2006年 3月 23日 讯 】</segment>
+		<segment id="5" parent="190" relname="same-unit">昨天 在</segment>
+		<segment id="6" parent="188" relname="joint-list">教育部 举行 的</segment>
+		<segment id="7" parent="188" relname="joint-list">纪念 国务院 发布 《 汉字 简化 方案 》</segment>
+		<segment id="8" parent="188" relname="joint-list">和 《 关于 推广 普通话 的 指示 》 发布 50 周年 的</segment>
+		<segment id="9" parent="189" relname="span">记者 见面会 上 ， 中国 应用 语言 学会 会长 、 原 国家 语委 副主任 陈章太</segment>
+		<segment id="10" parent="11" relname="context-circumstance">在 回答 《 香港 东方 日报 》 记者 时</segment>
+		<segment id="11" parent="191" relname="span">透露 ，</segment>
+		<segment id="12" parent="193" relname="attribution-positive">“ 据 联合国 一 个 决定 ，</segment>
+		<segment id="13" parent="193" relname="same-unit">从 2008年 后</segment>
+		<segment id="14" parent="15" relname="elaboration-attribute">联合国 使用 的</segment>
+		<segment id="15" parent="192" relname="span">中文 一律 使用 简体字 。</segment>
+		<segment id="16" parent="195" relname="span">现在 是 两 种 文本 ，</segment>
+		<segment id="17" parent="16" relname="elaboration-additional">繁体字 和 简体字 都 有 。 ”</segment>
+		<segment id="18" parent="273" relname="organization-heading">对 大陆 以外 中文 地区 的 影响</segment>
+		<segment id="19" parent="233" relname="organization-heading">对 台湾 的 影响</segment>
+		<segment id="20" parent="207" relname="attribution-positive">对于 台湾 地区 ， 著名 语言学家 周有光 先生 在 记者会 上 说 ，</segment>
+		<segment id="21" parent="198" relname="joint-sequence">“ 简化 问题 本来 台湾 也 是 赞成 的 ，</segment>
+		<segment id="22" parent="198" relname="joint-sequence">后来 人家 反对 ，</segment>
+		<segment id="23" parent="24" relname="organization-phatic">没有 办法 ，</segment>
+		<segment id="24" parent="199" relname="span">不 能 推行 了 。</segment>
+		<segment id="25" parent="201" relname="adversative-contrast">在 清朝 末年 简化 就 有 许多 人 提倡 ，</segment>
+		<segment id="26" parent="201" relname="adversative-contrast">可是 也 遇到 了 很多 阻力 ，</segment>
+		<segment id="27" parent="28" relname="context-circumstance">一直 到 50年代 新中国 成立 后</segment>
+		<segment id="28" parent="202" relname="span">才 能 实现 ，</segment>
+		<segment id="29" parent="204" relname="joint-sequence">所以 中国 简化 是 清朝 末年 就 有 提倡 了 ，</segment>
+		<segment id="30" parent="204" relname="joint-sequence">但是 真正 执行 是 50年代 开始 的 ，</segment>
+		<segment id="31" parent="205" relname="evaluation-comment">是 一 个 逐步 的 过程 。 ”</segment>
+		<segment id="32" parent="215" relname="attribution-positive">他 还 说 ：</segment>
+		<segment id="33" parent="210" relname="joint-sequence">“ 台湾 反对 简化字 起初 不 是 这么 厉害 ，</segment>
+		<segment id="34" parent="35" relname="causal-cause">后来 台湾 把 文字 改革 的 问题 和 政治 问题 挂钩 。</segment>
+		<segment id="35" parent="209" relname="span">所以 简化 目前 主要 阻力 是 在 台湾 。</segment>
+		<segment id="36" parent="211" relname="joint-list">可是 这 个 事情 我 想 不必 着急 ，</segment>
+		<segment id="37" parent="211" relname="joint-list">慢慢 会 改变 ，</segment>
+		<segment id="38" parent="348" relname="span">因为 联合国 正在 准备 所有 的 中文 文件 都 用 简化字 ，</segment>
+		<segment id="39" parent="38" relname="causal-cause">因为 用 两 种 字体 是 没有 必要 的 。</segment>
+		<segment id="40" parent="212" relname="attribution-positive">联合国 的 这 个 规定 也 证明</segment>
+		<segment id="41" parent="212" relname="joint-list">简化 的 方向 是 正确 的 ，</segment>
+		<segment id="42" parent="212" relname="joint-list">也 得到 了 多数 人 的 同意 。 ”</segment>
+		<segment id="43" parent="222" relname="attribution-positive">北京 大学 中国 语言 文学系 教授 ， 中国 语言 学会 副会长 陆俭明 举例 说 ：</segment>
+		<segment id="44" parent="217" relname="span">“ 台湾 自己 现在 也 在 简 ，</segment>
+		<segment id="45" parent="44" relname="explanation-evidence">“ 台湾 ” 这 两 个 字 现在 很多 场合 和 我们 的 写法 都 一样 。</segment>
+		<segment id="46" parent="218" relname="joint-list">至于 香港 、 澳门 、 台湾 ， 这 个 事情 不 能 急 ，</segment>
+		<segment id="47" parent="218" relname="joint-list">慢慢 来 ，</segment>
+		<segment id="48" parent="220" relname="span">文字 是 使用 的 ，</segment>
+		<segment id="49" parent="50" relname="contingency-condition">使用 过程 中 大家 发现 这 个 好 ，</segment>
+		<segment id="50" parent="219" relname="span">就 用 了 。 ”</segment>
+		<segment id="51" parent="226" relname="same-unit">此前 ，</segment>
+		<segment id="52" parent="357" relname="same-unit">据</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">新华网 转引 《 国际 先驱 导报 》 的</segment>
+		<segment id="54" parent="224" relname="span">报道 ，</segment>
+		<segment id="55" parent="358" relname="span">中国 国民党 主席 马英九</segment>
+		<segment id="56" parent="57" relname="context-circumstance">在 日内瓦 出席 一 项 会议 时</segment>
+		<segment id="57" parent="225" relname="span">曾 表示 ，</segment>
+		<segment id="58" parent="350" relname="joint-sequence">大陆 采用 及 积极 推动 简体 中文字 ， 会 让 繁体 中文字 居于 相对 弱势 ，</segment>
+		<segment id="59" parent="350" relname="joint-sequence">最后 甚至 可能 被 人 遗忘 。</segment>
+		<segment id="60" parent="362" relname="attribution-positive">报道 还 说 ，</segment>
+		<segment id="61" parent="362" relname="adversative-contrast">马英九 曾经 尝试 向 联合国 教科文 组织 申请 把 “ 繁体字 ” 列为 文化 保护 遗产 ，</segment>
+		<segment id="62" parent="228" relname="same-unit">但 却</segment>
+		<segment id="63" parent="64" relname="causal-cause">因 台湾 不 是 联合国 成员</segment>
+		<segment id="64" parent="227" relname="span">而 遭 拒绝 。</segment>
+		<segment id="65" parent="271" relname="organization-heading">对 香港 的 影响</segment>
+		<segment id="66" parent="239" relname="organization-preparation">对于 香港 使用 简化字 方面 ，</segment>
+		<segment id="67" parent="238" relname="attribution-positive">国家 督学 ， 国家 语委 咨询 委员会 委员 傅永和 强调 ，</segment>
+		<segment id="68" parent="237" relname="organization-preparation">“ 简化 汉字 有 一 个 政策 ，</segment>
+		<segment id="69" parent="361" relname="adversative-contrast">就 是 在 我们 内地 简化 汉字 也 是 适用于 现代 汉语 用字 ，</segment>
+		<segment id="70" parent="361" relname="adversative-contrast">古汉语 用字 不 在 其内 。</segment>
+		<segment id="71" parent="236" relname="same-unit">至于 在 香港 ，</segment>
+		<segment id="72" parent="73" relname="causal-cause">因为 一 国 两 制 的 关系 ，</segment>
+		<segment id="73" parent="235" relname="span">所以 香港 是 不 是 使用 简化字 要 由 香港 特区 政府 来 决定 。 ”</segment>
+		<segment id="74" parent="248" relname="attribution-positive">陆俭明 也 说 ：</segment>
+		<segment id="75" parent="242" relname="attribution-positive">“ 据 我 所 知 ，</segment>
+		<segment id="76" parent="242" relname="span">已经 有 相当 多 的 学校 使用 简化字 ，</segment>
+		<segment id="77" parent="78" relname="adversative-concession">虽然 特区 政府 没有 明确 的 政策 ，</segment>
+		<segment id="78" parent="241" relname="span">但是 在 民间 实际 上 已经 推行 了 。</segment>
+		<segment id="79" parent="80" relname="explanation-evidence">汉字 从 甲骨文 到 篆书 到 现代 不断 简化 ，</segment>
+		<segment id="80" parent="245" relname="span">这 是 文字 发展 的 必然 趋势 ，</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">我们 简化 汉字 的</segment>
+		<segment id="82" parent="246" relname="span">目的 就 是 为了 让 老百姓 好 认 、 好 写 、 好 记 。 ”</segment>
+		<segment id="83" parent="267" relname="attribution-positive">周有光 说 ：</segment>
+		<segment id="84" parent="85" relname="causal-result">“ 其实 简化 以后 还 要 进一步 的 规范化 ，</segment>
+		<segment id="85" parent="254" relname="span">规范化 更 重要 ，</segment>
+		<segment id="86" parent="252" relname="same-unit">所以</segment>
+		<segment id="87" parent="88" relname="elaboration-attribute">我们 做 的</segment>
+		<segment id="88" parent="250" relname="span">这 个 事情 是 正确 的 ，</segment>
+		<segment id="89" parent="251" relname="joint-list">是 进步 的 ，</segment>
+		<segment id="90" parent="253" relname="joint-list">一定 会 逐步 推广 ，</segment>
+		<segment id="91" parent="253" relname="joint-list">香港 也 会 慢慢 采用 。</segment>
+		<segment id="92" parent="256" relname="adversative-concession">现在 香港 和 中国 大陆 虽然 是 一 个 国家 ，</segment>
+		<segment id="93" parent="256" relname="same-unit">可是</segment>
+		<segment id="94" parent="95" relname="causal-cause">因为 一 国 两 制 的 关系 ，</segment>
+		<segment id="95" parent="255" relname="span">来往 还 不 是 很多 ，</segment>
+		<segment id="96" parent="261" relname="adversative-contrast">将来 的 往来 会 越来越 多 。</segment>
+		<segment id="97" parent="258" relname="joint-list">同时 我们 国家 在 国际 上 的 影响 越来越 大 ，</segment>
+		<segment id="98" parent="359" relname="same-unit">世界 各 国</segment>
+		<segment id="99" parent="100" relname="elaboration-attribute">学 汉语 的</segment>
+		<segment id="100" parent="360" relname="span">人 也 逐步 在 增加 ，</segment>
+		<segment id="101" parent="262" relname="joint-list">在 这 个 形势 之下 ， 简化字 慢慢 会 变成 中文 唯一 的 标准 ，</segment>
+		<segment id="102" parent="262" relname="joint-list">那 个 时候 香港 也 会 喜欢 用 简化字 。</segment>
+		<segment id="103" parent="259" relname="joint-list">所以 不必 勉强 他们</segment>
+		<segment id="104" parent="259" relname="joint-list">也 不必 着急 。</segment>
+		<segment id="105" parent="106" relname="elaboration-attribute">联合国 准备 用 简化字</segment>
+		<segment id="106" parent="260" relname="span">这 个 事情 就 说明 方向 是 对 的 。 ”</segment>
+		<segment id="107" parent="342" relname="organization-heading">各方 观点</segment>
+		<segment id="108" parent="291" relname="organization-heading">学者 反应</segment>
+		<segment id="109" parent="276" relname="attribution-positive">中央社 报道 说 ，</segment>
+		<segment id="110" parent="276" relname="same-unit">此 举 对</segment>
+		<segment id="111" parent="112" relname="elaboration-attribute">港 、 台 使用 的</segment>
+		<segment id="112" parent="275" relname="span">繁体字 将 造成 冲击 。</segment>
+		<segment id="113" parent="114" relname="attribution-positive">香港 浸会 大学 中文系 助理 教授 宗静航 表示 ，</segment>
+		<segment id="114" parent="278" relname="span">现在 仍 有 不少 古典 书籍 仍 未 有 简体字 版 ，</segment>
+		<segment id="115" parent="279" relname="attribution-positive">担心</segment>
+		<segment id="116" parent="117" relname="contingency-condition">简体字 若 成 单一 标准 ，</segment>
+		<segment id="117" parent="279" relname="span">将 使 中国 文化 研究 出现 断层 。</segment>
+		<segment id="118" parent="365" relname="attribution-positive">香港 理工 大学 中文 及 双语学系 副教授 吴东英 也 表示 ，</segment>
+		<segment id="119" parent="281" relname="joint-list">语言 文字 总是 不断 演变 ，</segment>
+		<segment id="120" parent="281" relname="joint-list">并 趋向 愈来愈 简单 抽象 ，</segment>
+		<segment id="121" parent="365" relname="adversative-contrast">但 文字 过于 简化 可能 造成 语意 混淆 。</segment>
+		<segment id="122" parent="284" relname="attribution-positive">他 说 ，</segment>
+		<segment id="123" parent="284" relname="adversative-contrast">政府 总 喜欢 制订 标准 ，</segment>
+		<segment id="124" parent="284" relname="adversative-contrast">但 文字 使用 更多 依靠 习惯 和 文化 ，</segment>
+		<segment id="125" parent="286" relname="attribution-positive">她 建议</segment>
+		<segment id="126" parent="286" relname="joint-list">港府 不 要 强制 推行 简体字 ，</segment>
+		<segment id="127" parent="286" relname="joint-list">文字 简化 也 要 循序渐进 。</segment>
+		<segment id="128" parent="325" relname="organization-heading">网友 观点</segment>
+		<segment id="129" parent="302" relname="organization-preparation">对 此 ， 有 一些 网友 并不 表示 赞同 ，</segment>
+		<segment id="130" parent="301" relname="attribution-positive">批评 道 ：</segment>
+		<segment id="131" parent="132" relname="context-circumstance">“ 经历 了 国内 文化 大 革命 的 破坏 后 ，</segment>
+		<segment id="132" parent="294" relname="span">现在 我们 还 要 在 国际 上 破坏 自己 的 传统 文化 吗 ？</segment>
+		<segment id="133" parent="296" relname="same-unit">请 不 要 再 打击</segment>
+		<segment id="134" parent="135" relname="elaboration-attribute">本来 已经 被 摧残 过 的</segment>
+		<segment id="135" parent="295" relname="span">中国 传统 历史 文化 了 ，</segment>
+		<segment id="136" parent="137" relname="causal-cause">繁体字 毕竟 是 正体字 ，</segment>
+		<segment id="137" parent="299" relname="span">作为 现代 中国人 不 认识 和 书写 不 了 繁体字 是 国 之 悲哀 ，</segment>
+		<segment id="138" parent="139" relname="contingency-condition">自己 优秀 的 传统 文化 不 去 保全</segment>
+		<segment id="139" parent="297" relname="span">还 有 何 脸面 奢谈 中华 文化 复兴 ！ ”</segment>
+		<segment id="140" parent="354" relname="attribution-positive">他们 认为 ，</segment>
+		<segment id="141" parent="303" relname="adversative-contrast">“ 国际 上 通用 简体字 ， 便于 交流 。</segment>
+		<segment id="142" parent="352" relname="joint-list">但 同时 ， 使 世人 不 能够 了解 中国 的 繁体字 ，</segment>
+		<segment id="143" parent="144" relname="attribution-negative">不 知道</segment>
+		<segment id="144" parent="351" relname="span">繁体字 孕育 着 多少 中华 的 的 精髓 。</segment>
+		<segment id="145" parent="353" relname="span">国内 应该 倡导 大家 繁体字 简体字 同用 ，</segment>
+		<segment id="146" parent="145" relname="purpose-goal">让 子孙 后代 把 繁体字 永远 保留 下去 。 ”</segment>
+		<segment id="147" parent="306" relname="attribution-positive">但是 也有 网友 却 认为 ，</segment>
+		<segment id="148" parent="305" relname="span">“ 联合国 用 简体字 不 代表 消灭 繁体字 ，</segment>
+		<segment id="149" parent="304" relname="adversative-contrast">繁体字 可以 作为 一 种 文化 的 象征 ， 或者是 一 们 学科 。</segment>
+		<segment id="150" parent="304" relname="adversative-contrast">而 简体字 则 侧重于 生活 实用 ，</segment>
+		<segment id="151" parent="305" relname="evaluation-comment">这 也 是 很 好 的 事情 。 ”</segment>
+		<segment id="152" parent="309" relname="attribution-positive">同时 ， 一些 支持者 认为 ，</segment>
+		<segment id="153" parent="308" relname="joint-list">联合国 使用 中文 简体字 是 因为 使用 的 范围 大 ，</segment>
+		<segment id="154" parent="308" relname="joint-list">更 便于 联合国 的 工作 。</segment>
+		<segment id="155" parent="308" relname="adversative-antithesis">但是 这 不 代表 联合国 很 关心 中国 有 五千 年 的 文化 传承 。</segment>
+		<segment id="156" parent="327" relname="attribution-positive">也有 网友 说 ：</segment>
+		<segment id="157" parent="311" relname="same-unit">“ 简体 汉字 作为</segment>
+		<segment id="158" parent="159" relname="elaboration-attribute">中国 和 联合国 正式 使用 的</segment>
+		<segment id="159" parent="310" relname="span">汉字 ， 是 完全 必要 的 。</segment>
+		<segment id="160" parent="311" relname="elaboration-additional">这 对 中国 ， 对 各 国 之间 的 交流 合作 ， 非常 有益 。</segment>
+		<segment id="161" parent="312" relname="same-unit">但 同时 ， 繁体 汉字 也 有</segment>
+		<segment id="162" parent="163" relname="elaboration-attribute">继续 存在 的</segment>
+		<segment id="163" parent="313" relname="span">价值 。</segment>
+		<segment id="164" parent="314" relname="span">它 是 汉字 的 本体</segment>
+		<segment id="165" parent="164" relname="elaboration-additional">（ 当然 也 是 历史 发展 变化 的 产物 ） ，</segment>
+		<segment id="166" parent="315" relname="span">在 非 正式 场合 ， 作为 非 工作 时 的 文字 ， 以及 艺术</segment>
+		<segment id="167" parent="166" relname="elaboration-attribute">（ 书法 等 ）</segment>
+		<segment id="168" parent="316" relname="same-unit">的 文字 ， 也 应 允许 使用 ，</segment>
+		<segment id="169" parent="323" relname="joint-list">在 海外 华侨 、 港 澳 台 地区 ， 应 顺其自然 ，</segment>
+		<segment id="170" parent="323" relname="joint-list">自由 选择 使用 简体 或 繁体 。</segment>
+		<segment id="171" parent="320" relname="restatement-partial">什么 事情 都 不 要 一刀切 ， 单元 思考 。 ”</segment>
+		<segment id="172" parent="339" relname="attribution-positive">还 有 人 建议 ，</segment>
+		<segment id="173" parent="329" relname="same-unit">“ 为了 照顾</segment>
+		<segment id="174" parent="175" relname="elaboration-attribute">目前 还 在 使用 繁体字 的</segment>
+		<segment id="175" parent="328" relname="span">地区 和 人 的 习惯 ,</segment>
+		<segment id="176" parent="337" relname="attribution-positive">希望</segment>
+		<segment id="177" parent="331" relname="same-unit">国家 文字 改革 委员会 ， 适时 推出 一 种</segment>
+		<segment id="178" parent="179" relname="elaboration-attribute">简 --- 繁 之间 十分 容易 相互 转换 的</segment>
+		<segment id="179" parent="330" relname="span">软件 ,</segment>
+		<segment id="180" parent="333" relname="same-unit">使得 在 一 台 计算机 里 的 中文 转换</segment>
+		<segment id="181" parent="182" relname="contingency-condition">只 敲 一 键</segment>
+		<segment id="182" parent="332" relname="span">就 可 迅速 转换 ,</segment>
+		<segment id="183" parent="184" relname="elaboration-attribute">使用 中文 的</segment>
+		<segment id="184" parent="334" relname="span">任何 人 都 可以 自由 选取 ，</segment>
+		<segment id="185" parent="335" relname="purpose-goal">满足 不同 背景 的 人 的 阅读 和 书写 的 需要 ” 。</segment>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" parent="346" relname="organization-heading"/>
+		<group id="188" type="multinuc" parent="9" relname="elaboration-attribute"/>
+		<group id="189" type="span" parent="190" relname="same-unit"/>
+		<group id="190" type="multinuc" parent="196" relname="attribution-positive"/>
+		<group id="191" type="span" parent="190" relname="same-unit"/>
+		<group id="192" type="span" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="194" type="span" parent="196" relname="span"/>
+		<group id="195" type="span" parent="194" relname="context-background"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="344" relname="context-background"/>
+		<group id="198" type="multinuc" parent="200" relname="span"/>
+		<group id="199" type="span" parent="198" relname="causal-result"/>
+		<group id="200" type="span" parent="207" relname="span"/>
+		<group id="201" type="multinuc" parent="203" relname="joint-sequence"/>
+		<group id="202" type="span" parent="203" relname="joint-sequence"/>
+		<group id="203" type="multinuc" parent="205" relname="span"/>
+		<group id="204" type="multinuc" parent="203" relname="restatement-partial"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" parent="200" relname="explanation-justify"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="232" relname="joint-list"/>
+		<group id="209" type="span" parent="210" relname="joint-sequence"/>
+		<group id="210" type="multinuc" parent="215" relname="adversative-contrast"/>
+		<group id="211" type="multinuc" parent="214" relname="span"/>
+		<group id="212" type="multinuc" parent="213" relname="span"/>
+		<group id="213" type="span" parent="348" relname="elaboration-additional"/>
+		<group id="214" type="span" parent="215" relname="adversative-contrast"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="232" relname="joint-list"/>
+		<group id="217" type="span" parent="222" relname="joint-list"/>
+		<group id="218" type="multinuc" parent="221" relname="span"/>
+		<group id="219" type="span" parent="48" relname="elaboration-additional"/>
+		<group id="220" type="span" parent="218" relname="explanation-justify"/>
+		<group id="221" type="span" parent="222" relname="joint-list"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="233" relname="joint-list"/>
+		<group id="224" type="span" parent="357" relname="same-unit"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="350" relname="attribution-positive"/>
+		<group id="227" type="span" parent="228" relname="same-unit"/>
+		<group id="228" type="multinuc" parent="362" relname="adversative-contrast"/>
+		<group id="230" type="span" parent="231" relname="joint-list"/>
+		<group id="231" type="multinuc" parent="233" relname="joint-list"/>
+		<group id="232" type="multinuc" parent="233" relname="joint-list"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="234" type="span" parent="273" relname="joint-list"/>
+		<group id="235" type="span" parent="236" relname="same-unit"/>
+		<group id="236" type="multinuc" parent="237" relname="joint-list"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="271" relname="joint-list"/>
+		<group id="241" type="span" parent="76" relname="explanation-justify"/>
+		<group id="242" type="span" parent="243" relname="span"/>
+		<group id="243" type="span" parent="248" relname="joint-list"/>
+		<group id="244" type="span" parent="231" relname="joint-list"/>
+		<group id="245" type="span" parent="247" relname="span"/>
+		<group id="246" type="span" parent="245" relname="explanation-justify"/>
+		<group id="247" type="span" parent="248" relname="joint-list"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="271" relname="joint-list"/>
+		<group id="250" type="span" parent="252" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="363" relname="joint-list"/>
+		<group id="252" type="multinuc" parent="251" relname="joint-list"/>
+		<group id="253" type="multinuc" parent="363" relname="joint-list"/>
+		<group id="254" type="span" parent="363" relname="explanation-motivation"/>
+		<group id="255" type="span" parent="256" relname="same-unit"/>
+		<group id="256" type="multinuc" parent="257" relname="span"/>
+		<group id="257" type="span" parent="261" relname="adversative-contrast"/>
+		<group id="258" type="multinuc" parent="265" relname="joint-list"/>
+		<group id="259" type="multinuc" parent="262" relname="causal-result"/>
+		<group id="260" type="span" parent="269" relname="evaluation-comment"/>
+		<group id="261" type="multinuc" parent="265" relname="joint-list"/>
+		<group id="262" type="multinuc" parent="263" relname="span"/>
+		<group id="263" type="span" parent="265" relname="elaboration-additional"/>
+		<group id="265" type="multinuc" parent="364" relname="span"/>
+		<group id="266" type="span" parent="269" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="271" relname="joint-list"/>
+		<group id="269" type="span" parent="267" relname="span"/>
+		<group id="271" type="multinuc" parent="272" relname="span"/>
+		<group id="272" type="span" parent="273" relname="joint-list"/>
+		<group id="273" type="multinuc" parent="274" relname="span"/>
+		<group id="274" type="span" parent="344" relname="joint-other"/>
+		<group id="275" type="span" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="277" relname="span"/>
+		<group id="277" type="span" parent="291" relname="joint-list"/>
+		<group id="278" type="span" parent="280" relname="causal-cause"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="290" relname="span"/>
+		<group id="281" type="multinuc" parent="365" relname="adversative-contrast"/>
+		<group id="283" type="span" parent="288" relname="joint-list"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="288" relname="joint-list"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="289" relname="span"/>
+		<group id="288" type="multinuc" parent="287" relname="causal-cause"/>
+		<group id="289" type="span" parent="291" relname="joint-list"/>
+		<group id="290" type="span" parent="291" relname="joint-list"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="342" relname="joint-list"/>
+		<group id="294" type="span" parent="296" relname="topic-question"/>
+		<group id="295" type="span" parent="296" relname="same-unit"/>
+		<group id="296" type="multinuc" parent="298" relname="span"/>
+		<group id="297" type="span" parent="299" relname="elaboration-additional"/>
+		<group id="298" type="span" parent="301" relname="joint-list"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="joint-list"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="366" relname="span"/>
+		<group id="303" type="multinuc" parent="353" relname="causal-cause"/>
+		<group id="304" type="multinuc" parent="148" relname="explanation-justify"/>
+		<group id="305" type="span" parent="306" relname="span"/>
+		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="307" type="span" parent="326" relname="joint-list"/>
+		<group id="308" type="multinuc" parent="309" relname="span"/>
+		<group id="309" type="span" parent="367" relname="span"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="369" relname="span"/>
+		<group id="312" type="multinuc" parent="318" relname="span"/>
+		<group id="313" type="span" parent="312" relname="same-unit"/>
+		<group id="314" type="span" parent="317" relname="joint-list"/>
+		<group id="315" type="span" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="322" relname="joint-list"/>
+		<group id="317" type="multinuc" parent="312" relname="elaboration-additional"/>
+		<group id="318" type="span" parent="320" relname="joint-list"/>
+		<group id="320" type="multinuc" parent="327" relname="span"/>
+		<group id="321" type="span" parent="326" relname="joint-list"/>
+		<group id="322" type="multinuc" parent="317" relname="joint-list"/>
+		<group id="323" type="multinuc" parent="322" relname="joint-list"/>
+		<group id="324" type="multinuc" parent="325" relname="adversative-contrast"/>
+		<group id="325" type="multinuc" parent="341" relname="span"/>
+		<group id="326" type="multinuc" parent="325" relname="adversative-contrast"/>
+		<group id="327" type="span" parent="321" relname="span"/>
+		<group id="328" type="span" parent="329" relname="same-unit"/>
+		<group id="329" type="multinuc" parent="338" relname="purpose-goal"/>
+		<group id="330" type="span" parent="331" relname="same-unit"/>
+		<group id="331" type="multinuc" parent="337" relname="span"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="335" relname="joint-list"/>
+		<group id="334" type="span" parent="335" relname="joint-list"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="331" relname="causal-result"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="340" relname="span"/>
+		<group id="340" type="span" parent="326" relname="joint-list"/>
+		<group id="341" type="span" parent="342" relname="joint-list"/>
+		<group id="342" type="multinuc" parent="343" relname="span"/>
+		<group id="343" type="span" parent="344" relname="joint-other"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" />
+		<group id="348" type="span" parent="349" relname="span"/>
+		<group id="349" type="span" parent="211" relname="causal-cause"/>
+		<group id="350" type="multinuc" parent="244" relname="span"/>
+		<group id="351" type="span" parent="352" relname="joint-list"/>
+		<group id="352" type="multinuc" parent="303" relname="adversative-contrast"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="354" type="span" parent="355" relname="span"/>
+		<group id="355" type="span" parent="324" relname="joint-list"/>
+		<group id="357" type="multinuc" parent="55" relname="attribution-positive"/>
+		<group id="358" type="span" parent="226" relname="same-unit"/>
+		<group id="359" type="multinuc" parent="258" relname="joint-list"/>
+		<group id="360" type="span" parent="359" relname="same-unit"/>
+		<group id="361" type="multinuc" parent="237" relname="joint-list"/>
+		<group id="362" type="multinuc" parent="230" relname="span"/>
+		<group id="363" type="multinuc" parent="266" relname="span"/>
+		<group id="364" type="span" parent="266" relname="explanation-justify"/>
+		<group id="365" type="multinuc" parent="283" relname="span"/>
+		<group id="366" type="span" parent="324" relname="joint-list"/>
+		<group id="367" type="span" parent="326" relname="joint-list"/>
+		<group id="369" type="span" parent="320" relname="joint-list"/>
+	</body>
+</rst>

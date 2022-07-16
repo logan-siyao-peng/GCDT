@@ -1,0 +1,162 @@
+1	“ 云 ” 在 网络 语言 中 的 副词化 特征	7	_	_	_	54	organization-heading_r	_	_
+2	1. 引言	5	_	_	_	54	organization-heading_r	_	_
+3	“ 云 ” 这 一 汉字 的 词义 丰富 ，	3	_	_	_	5	organization-preparation_r	_	_
+4	词性 多样 。	0	_	_	_	3	joint-list_m	_	_
+5	《 现代 汉语 词典 》	4	_	_	_	54	explanation-evidence_r	_	_
+6	( 第7 版 )	0	_	_	_	5	elaboration-additional_r	_	_
+7	中 ， “ 云 ” 作为 汉语 常用 字 ， 最早 来源于 甲骨文 ，	1	_	_	_	5	same-unit_m	_	_
+8	多 用于 名词 ，	2	_	_	_	5	joint-list_m	_	_
+9	意 为	0	_	_	_	8	elaboration-additional_r	_	_
+10	悬浮 在 空中	0	_	_	_	13	elaboration-attribute_r	_	_
+11	由 大量 水滴 、 冰晶 或 兼由 两者 组成	0	_	_	_	10	joint-list_m	_	_
+12	可 见 的	0	_	_	_	10	joint-list_m	_	_
+13	聚合 体 。	0	_	_	_	9	same-unit_m	_	_
+14	比如 ， “ 朝 辞 白帝 彩云 间 ”	1	_	_	_	9	explanation-evidence_r	_	_
+15	( 《 早 发 白帝城 》 李白 ) 。	0	_	_	_	14	explanation-evidence_r	_	_
+16	后来 由 此 引申 出 盛 、 多 的 意义 ，	2	_	_	_	5	joint-list_m	_	_
+17	作 形容词 。	0	_	_	_	16	joint-list_m	_	_
+18	比如 ， “ 齐子 归止 ，	1	_	_	_	16	explanation-evidence_r	_	_
+19	其 从 如 云 ”	0	_	_	_	18	joint-list_m	_	_
+20	( 《 诗·齐风·敝笱 》 ) ，	1	_	_	_	18	explanation-evidence_r	_	_
+21	这里 的 云 是 “ 多 ” 的 意思 ，	2	_	_	_	18	elaboration-additional_r	_	_
+22	“ 云涛 ” ， 形容 云起 盛多	0	_	_	_	21	adversative-contrast_m	_	_
+23	如 波涛 汹涌 。	0	_	_	_	22	mode-manner_r	_	_
+24	同时 ， 云 也 常 做 语气 助词 ， 动词 ， 以及 代词 ，	2	_	_	_	5	joint-list_m	_	_
+25	多 用于 古代 汉语 ，	0	_	_	_	24	elaboration-additional_r	_	_
+26	现代 汉语 并不 常见 。	0	_	_	_	25	adversative-contrast_m	_	_
+27	近年 来 ， 随着 计算机 技术 的 兴起 ， 互联网 的 广泛 应用 ，	0	_	_	_	28	causal-cause_r	_	_
+28	“ 云 ” 的 语义 和 语用 发生 了 变化 ，	4	_	_	_	31	context-background_r	_	_
+29	起先 ， 在 专业 计算机 领域 中 ， 我们 常常 看到 “ 云 计算 ” ， “ 云 存储 ” ， “ 云 管家 ” 这 类 专业 名词 。	2	_	_	_	31	context-background_r	_	_
+30	“ 云 ” 在 这里 的 词义 不同于 以往 ，	1	_	_	_	31	adversative-antithesis_r	_	_
+31	“ 云 ” 意 为 虚拟化 资源 的 集合 ，	4	_	_	_	5	joint-other_m	_	_
+32	用作 副词 ，	0	_	_	_	31	joint-list_m	_	_
+33	成为 互联网 ， 网络 的 一 种 比喻 说法 。	0	_	_	_	31	joint-list_m	_	_
+34	后来 ， 该 用法 不断 泛化 ，	2	_	_	_	36	context-background_r	_	_
+35	成为 网络 上 的 一 种 常见 用法 ，	0	_	_	_	34	joint-list_m	_	_
+36	我们 可以 在 网络 上 看到 “ 云 追星 ” ， “ 云 吸猫 ” ， “ 云 吃饭 ” 等等 一些 流行 网络语 ，	3	_	_	_	31	joint-sequence_m	_	_
+37	它们 是 互联网 时代 的 产物 。	0	_	_	_	36	evaluation-comment_r	_	_
+38	例如 ：	2	_	_	_	39	organization-preparation_r	_	_
+39	乌有 之 猫 ， 云 吸猫 ， 迷群 的 认同 与 幻想 。	1	_	_	_	36	explanation-evidence_r	_	_
+40	( 出 自 硕士 论文 题目 )	0	_	_	_	39	explanation-evidence_r	_	_
+41	好 饿 ，	1	_	_	_	39	joint-list_m	_	_
+42	让 我们 一起 云 吃饭 吧 ！	0	_	_	_	41	joint-list_m	_	_
+43	( 微博 话题 ， 配图 为 菜肴 图片 )	1	_	_	_	41	explanation-evidence_r	_	_
+44	今日 的 云 吸猫 ， 安排 上 了 。	1	_	_	_	39	joint-list_m	_	_
+45	( 微博 ， 配图 为 猫咪 照片 )	0	_	_	_	44	explanation-evidence_r	_	_
+46	我 要 脱离 云 追星 了 ，	1	_	_	_	39	joint-list_m	_	_
+47	每天 这样 太 耽误 时间 了 。	0	_	_	_	46	causal-cause_r	_	_
+48	( 微博 ， 无 配图 )	1	_	_	_	46	explanation-evidence_r	_	_
+49	互联网 和 大数据 时代 不仅 改变 了 我们 的 生活 方式 ，	2	_	_	_	52	context-background_r	_	_
+50	还 改变 了 我们 的 说话 方式 ， 语言 方式 ，	0	_	_	_	49	joint-list_m	_	_
+51	“ 云 ” 这 一 字 不再 单纯 地 表示 天上 的 云朵 ，	0	_	_	_	52	adversative-concession_r	_	_
+52	而 是 衍生 出 了 更 多 的 意义 。	3	_	_	_	54	context-background_r	_	_
+53	在 互联网 时代 中 ， “ 云 ” 的 分布 搭配 ， 语义 特征 ， 语用 功能 已 呈现 出 副词化 特征 。	1	_	_	_	52	joint-list_m	_	_
+54	本 文 拟 借鉴 语言 模因论 ，	0	_	_	_	0	ROOT	_	_
+55	从 全新 的 角度 ， 对 “ 云 ” 这 一 词汇 新 的 语义 特征 ， 语用 功能 的 生成 机制 进行 详细 的 阐释 ，	0	_	_	_	54	joint-list_m	_	_
+56	从而 有助于 总结 流行语 发展 和 变化 的 规律 。	1	_	_	_	54	purpose-goal_r	_	_
+57	本 文 的 语料 来源于 北大 语料库 ， 及 各 大 门户 网站 ， 新浪 微博 等 新 媒体 平台 。	2	_	_	_	54	elaboration-additional_r	_	_
+58	2. 副词化 现象	4	_	_	_	111	organization-heading_r	_	_
+59	所谓 副词化 ， 是 指	3	_	_	_	63	context-background_r	_	_
+60	原本 不 具有 副词 属性 的	0	_	_	_	61	elaboration-attribute_r	_	_
+61	汉字 在 特定 的 语言 环境 下 可以 做 副词 使用 ，	0	_	_	_	59	same-unit_m	_	_
+62	修饰 动词 短语 或 形容词 ，	1	_	_	_	59	joint-list_m	_	_
+63	目前 ， 汉语 中 有 字词 如 “ 果断 ” 已 呈现 “ 副词化 ” 特征	2	_	_	_	107	context-background_r	_	_
+64	( 方艳 ， 2019 )	0	_	_	_	63	explanation-evidence_r	_	_
+65	-LSB- 1 -RSB- ，	1	_	_	_	63	explanation-evidence_r	_	_
+66	主要 用作 状语 修饰 动词 和 动词 短语 。	2	_	_	_	63	joint-list_m	_	_
+67	试 比较 ：	3	_	_	_	69	organization-heading_r	_	_
+68	果断	2	_	_	_	69	organization-heading_r	_	_
+69	a)	2	_	_	_	76	explanation-evidence_r	_	_
+70	刚 工作 了 两 个 月 ，	0	_	_	_	71	context-circumstance_r	_	_
+71	果断 买 了 这 辆 奔驰 车 。	0	_	_	_	69	same-unit_m	_	_
+72	b) 抚 将士 有 恩 ，	1	_	_	_	69	joint-list_m	_	_
+73	而 明察 果断 ，	0	_	_	_	72	joint-list_m	_	_
+74	用法 严峻	0	_	_	_	72	joint-list_m	_	_
+75	( 宋 《 资治 通鉴 》 )	1	_	_	_	72	explanation-evidence_r	_	_
+76	从 古代 汉语 到 现代 汉语 ， 果断 这 一 词语 常规 用作 形容词 ，	4	_	_	_	63	elaboration-additional_r	_	_
+77	意 为 “ 有 决断 ，	0	_	_	_	76	joint-list_m	_	_
+78	不 犹豫 ” ，	0	_	_	_	77	joint-list_m	_	_
+79	“ 果断 ” 这 一 词语 主要 用来 充当 谓语 和 定语	0	_	_	_	76	joint-list_m	_	_
+80	( 如 2b ) 。	0	_	_	_	79	explanation-evidence_r	_	_
+81	但是 ， 近年 来 ， “ 果断 ” 作 状语 的 搭配 用法 占 主导 趋势 ，	1	_	_	_	76	joint-sequence_m	_	_
+82	其 语义 分布 和 搭配 以及 语用 功能 已经 呈现 出 副词化 特征	0	_	_	_	81	joint-list_m	_	_
+83	( 方艳 ， 2019 )	1	_	_	_	81	explanation-evidence_r	_	_
+84	-LSB- 1 -RSB- 。	2	_	_	_	81	explanation-evidence_r	_	_
+85	除此以外 ，	2	_	_	_	88	context-background_r	_	_
+86	“ 神 ” 作为 修饰语 的	0	_	_	_	87	elaboration-attribute_r	_	_
+87	搭配 用法 呈现 出 不断 扩展 的 趋势 ，	0	_	_	_	85	same-unit_m	_	_
+88	在 新 时代 下 ， 它 在 网络 用语 和 日常 生活 中 ， 用法 已经 慢慢 呈现 出 程度化 和 请状化 的 副词化 特征	5	_	_	_	63	joint-list_m	_	_
+89	( 方艳 ， 2017 )	0	_	_	_	88	explanation-evidence_r	_	_
+90	-LSB- 2 -RSB- 。	1	_	_	_	88	explanation-evidence_r	_	_
+91	试 比较 ：	2	_	_	_	92	organization-preparation_r	_	_
+92	c) 这么 快 你 就 回来 了 ，	2	_	_	_	96	explanation-evidence_r	_	_
+93	神 速 ！	0	_	_	_	92	evaluation-comment_r	_	_
+94	d) 又要 交 作业 了 ，	0	_	_	_	95	causal-cause_r	_	_
+95	神 烦 。	1	_	_	_	92	adversative-contrast_m	_	_
+96	“ 神 ” 的 本义 是 “ 与 凡人 相反 ，	3	_	_	_	88	elaboration-additional_r	_	_
+97	神仙 ， 具有	0	_	_	_	96	causal-cause_r	_	_
+98	凡人 无法 拥有 的	0	_	_	_	99	elaboration-attribute_r	_	_
+99	能力 。 ”	0	_	_	_	97	same-unit_m	_	_
+100	后来 引申 出	1	_	_	_	96	joint-sequence_m	_	_
+101	“ 高超 ， 惊人 的 ”	0	_	_	_	102	elaboration-attribute_r	_	_
+102	这 一 形容词 语义 ，	0	_	_	_	100	same-unit_m	_	_
+103	在 “ 神 ” + 形容词类 新词 中 ， “ 神 ” 又 引申 出	1	_	_	_	96	joint-sequence_m	_	_
+104	表示 “ 程度 高 ” 的	0	_	_	_	105	elaboration-attribute_r	_	_
+105	副词性 语义 。	0	_	_	_	103	same-unit_m	_	_
+106	如 此 可 见 ，	1	_	_	_	107	organization-preparation_r	_	_
+107	网络 用语 中 的 越来越 多 词汇 创新 导致 了 语法 层面 上 的 创新 ，	2	_	_	_	111	context-background_r	_	_
+108	不同 词汇 在 使用 上 呈现 出 了 副词化 的 特征 ，	0	_	_	_	107	joint-list_m	_	_
+109	陈新仁 ( 2017 ) 提出	0	_	_	_	110	attribution-positive_r	_	_
+110	对于 词汇 ， 语法 创新 ， 我们 可以 从 模因论 视角 来 解读 ，	1	_	_	_	111	context-background_r	_	_
+111	本 文 试 从 模因论 理论 出发 ，	6	_	_	_	54	joint-list_m	_	_
+112	解读 网络 语言 中 “ 云 ” 的 副词化 特征 。	0	_	_	_	111	joint-list_m	_	_
+113	“ 云 ” 的 语义 演变	0	_	_	_	114	organization-preparation_r	_	_
+114	—— 副词化	3	_	_	_	159	organization-heading_r	_	_
+115	从 古代 汉语 到 现代 汉语 ， “ 云 ” 字 的 含义 丰富 且 稳定 。	7	_	_	_	118	context-background_r	_	_
+116	比较 常见 的 用法 有 ：	4	_	_	_	118	organization-preparation_r	_	_
+117	表示	1	_	_	_	118	attribution-positive_r	_	_
+118	说话 ，	2	_	_	_	159	explanation-evidence_r	_	_
+119	引文	0	_	_	_	118	joint-list_m	_	_
+120	( 如 2e ) ；	2	_	_	_	118	explanation-evidence_r	_	_
+121	用作 文言 助词 ；	3	_	_	_	118	joint-list_m	_	_
+122	以及 表示	1	_	_	_	123	attribution-positive_r	_	_
+123	水汽 上升	3	_	_	_	118	joint-list_m	_	_
+124	遇冷	0	_	_	_	125	context-circumstance_r	_	_
+125	凝聚 成 微小 的 水珠 集合 。	0	_	_	_	123	joint-sequence_m	_	_
+126	e) 云 ， 山川 气 也 。	2	_	_	_	123	explanation-evidence_r	_	_
+127	—— 《 说文 》	0	_	_	_	126	explanation-evidence_r	_	_
+128	同时 ， 云 也 可 做 形容词 ，	5	_	_	_	118	joint-list_m	_	_
+129	比喻 甚 多 ， 比如 ：	0	_	_	_	128	joint-list_m	_	_
+130	f) 齐子 归止 ，	1	_	_	_	128	explanation-evidence_r	_	_
+131	其 从 如 云 。	0	_	_	_	130	joint-list_m	_	_
+132	—— 《 诗·齐风·敞简 》	1	_	_	_	130	attribution-positive_r	_	_
+133	后来 ， 随着 互联网 兴起 ，	2	_	_	_	134	context-circumstance_r	_	_
+134	计算机 工作者 开始 用 “ 云 ” 的 形状	2	_	_	_	137	context-background_r	_	_
+135	来 表示 电信 网络 ，	0	_	_	_	134	purpose-goal_r	_	_
+136	或是 用来 表示 互联网 和 底层 基础 设施 的 抽象 。	1	_	_	_	134	joint-disjunction_m	_	_
+137	“ 云 ” 本来 是 “ 小 水滴 的 集合 ” ，	6	_	_	_	118	joint-sequence_m	_	_
+138	而 这里 ， 将 它 转喻 为 “ 虚拟 资源 的 集合 ” 。	0	_	_	_	137	adversative-contrast_m	_	_
+139	在 这里	1	_	_	_	137	elaboration-additional_r	_	_
+140	通过 转喻 ，	0	_	_	_	141	mode-means_r	_	_
+141	赋予 “ 云 ” 新 的 语义 ，	0	_	_	_	139	same-unit_m	_	_
+142	形象 ， 生动 地 表达 了 计算机 领域 的 概念 。	1	_	_	_	139	joint-list_m	_	_
+143	比如 ：	1	_	_	_	144	organization-preparation_r	_	_
+144	g) 云 服务 是 基于 “ 云 计算 ” 技术 ，	3	_	_	_	137	explanation-evidence_r	_	_
+145	实现 各 种 终端 设备 之间 的 互联 互通 。	0	_	_	_	144	joint-list_m	_	_
+146	随着 互联网 信息 时代 的 兴起 ，	0	_	_	_	147	context-circumstance_r	_	_
+147	云 的 语义 再一次 被 网民们 赋予 了 新 的 意义 。	1	_	_	_	148	context-background_r	_	_
+148	“ 云 ” 从 “ 虚拟 资源 的 集合 ” 转化 为 “ 线上 ” ，	6	_	_	_	118	joint-sequence_m	_	_
+149	此时 ， “ 云 ” 的 语义 顺应 外部 条件 的 变化 ，	0	_	_	_	148	evaluation-comment_r	_	_
+150	被 赋予 了 新 的 语义 特征 ，	0	_	_	_	149	joint-list_m	_	_
+151	“ 云 ” 在 网络 语言 中 被 副词化 ，	0	_	_	_	149	joint-list_m	_	_
+152	从 专业 领域 进入 到 人们 的 日常 生活 当中 。	0	_	_	_	149	joint-list_m	_	_
+153	让 我们 一起 云 追星 吧 ！	2	_	_	_	148	explanation-evidence_r	_	_
+154	( 微博 话题 ， 配图 为 菜肴 图片 )	0	_	_	_	153	elaboration-additional_r	_	_
+155	今日 的 云 吸猫 ， 安排 上 了 。	1	_	_	_	153	joint-list_m	_	_
+156	( 微博 ， 配图 为 猫咪 照片 )	0	_	_	_	155	elaboration-additional_r	_	_
+157	总的来说 ， 结合 当今 网络 信息 时代 来看 ，	1	_	_	_	159	organization-preparation_r	_	_
+158	“ 云 ” 的 使用 情况 来看 ，	0	_	_	_	157	joint-list_m	_	_
+159	“ 云 ” 的 语义 已经 发生 了 一定 的 变化 。	3	_	_	_	111	joint-other_m	_	_
+160	语义 的 变化 导致 了 语法 ， 词汇 属性 的 变化 。	0	_	_	_	159	joint-list_m	_	_
+161	“ 云 ” 在 网络 语言 和 专有 领域 里 出现 了 副词化 特征 。	0	_	_	_	159	joint-list_m	_	_
+162	从 “ 云 计算 ” 到 “ 云 服务 ” 这 类 计算机 专有 领域 发展 到 “ 云 聊天 ” ， “ 云 追星 ” 这些 网络 用语 ， 都 已经 呈现 出 了 “ 云 ” 的 副词化 特征 。	0	_	_	_	161	explanation-evidence_r	_	_

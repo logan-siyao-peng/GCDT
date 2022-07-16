@@ -1,0 +1,314 @@
+1	专访 香港 著名 足球 评述员 马启仁	6	_	_	_	22	organization-heading_r	_	_
+2	【 2007年 1月 5日 讯 】	0	_	_	_	1	attribution-positive_r	_	_
+3	时间 ：	1	_	_	_	4	organization-preparation_r	_	_
+4	2007年 1月 5日 晚上 7:00pm	5	_	_	_	22	context-circumstance_r	_	_
+5	（ UTC+8 ）	0	_	_	_	4	elaboration-additional_r	_	_
+6	地点 ：	0	_	_	_	7	organization-preparation_r	_	_
+7	505 United 香港 足球 发源地	2	_	_	_	4	joint-list_m	_	_
+8	人物 ：	0	_	_	_	9	organization-preparation_r	_	_
+9	马启仁 先生 ， 维基 新闻 记者 Tszkin	2	_	_	_	4	joint-list_m	_	_
+10	今天 十分 荣幸	0	_	_	_	11	attribution-positive_r	_	_
+11	与 香港 著名 足球 评述员 马启仁 先生 作 访问 。	4	_	_	_	22	context-background_r	_	_
+12	马启仁 先生 在 今次 专访 中 ， 回答 了 记者 多 条 问题 。	1	_	_	_	11	joint-other_m	_	_
+13	原来 马启仁 先生	1	_	_	_	11	joint-other_m	_	_
+14	在 访问 前	0	_	_	_	15	context-circumstance_r	_	_
+15	已 听 过 维基 百科 ，	0	_	_	_	13	same-unit_m	_	_
+16	而且 是 一 名 Firefox 支持者 。	1	_	_	_	13	joint-list_m	_	_
+17	以下 以 “ K ” 代表 启仁 先生 ，	1	_	_	_	11	joint-other_m	_	_
+18	“ T ” 代表 记者 Tszkin 。	0	_	_	_	17	joint-list_m	_	_
+19	Keyman ， 你 好	1	_	_	_	22	organization-phatic_r	_	_
+20	（ 握手 ） ，	0	_	_	_	19	organization-phatic_r	_	_
+21	很 高兴	0	_	_	_	22	attribution-positive_r	_	_
+22	今天 能 跟 阁下 做 访问 。	0	_	_	_	0	ROOT	_	_
+23	你 好 。	0	_	_	_	24	organization-phatic_r	_	_
+24	这里 是 “ 香港 足球 发源地 ” ！	2	_	_	_	22	evaluation-comment_r	_	_
+25	这 是 我 的 名片 ，	1	_	_	_	24	joint-other_m	_	_
+26	请 坐 。	0	_	_	_	25	organization-phatic_r	_	_
+27	其实 我 想 知道	0	_	_	_	28	attribution-positive_r	_	_
+28	关于 你 多 一点 呢	1	_	_	_	24	joint-other_m	_	_
+29	（ 哈哈 ） ！	1	_	_	_	28	organization-phatic_r	_	_
+30	这 是 维基 百科 的 网页 ，	1	_	_	_	31	organization-preparation_r	_	_
+31	这里 有 你 的 资料 ，	3	_	_	_	36	context-background_r	_	_
+32	你 还 可以 搜寻	0	_	_	_	31	joint-list_m	_	_
+33	你 心爱 的	0	_	_	_	34	elaboration-attribute_r	_	_
+34	球队	0	_	_	_	32	same-unit_m	_	_
+35	－ 西汉姆联 。	1	_	_	_	34	elaboration-attribute_r	_	_
+36	嗯 ， 我 的 资料 有 一 点 错误 ，	3	_	_	_	22	joint-other_m	_	_
+37	我 的 出生 日期 是 1969年 10月 24日 ，	0	_	_	_	36	elaboration-additional_r	_	_
+38	不过 可以 不 用 改 ．	1	_	_	_	36	adversative-concession_r	_	_
+39	就 当 是 多 送 我 一 份 生日 礼物 吧 。	0	_	_	_	38	explanation-justify_r	_	_
+40	而 结婚 年份 是 1997年 ，	2	_	_	_	36	joint-other_m	_	_
+41	有些 资料 连 我 自己 都 不 知道 ，	0	_	_	_	40	adversative-concession_r	_	_
+42	我 补充 一点 资料 吧 ，	2	_	_	_	43	organization-preparation_r	_	_
+43	我 正 修读 澳大利亚 卧龙岗 大学 的 新闻学 硕士 课程	2	_	_	_	36	joint-other_m	_	_
+44	（ Master of Journalism ） ，	0	_	_	_	43	restatement-partial_r	_	_
+45	我 在 香港 电台 及 商业 电台 工作 。	1	_	_	_	43	joint-list_m	_	_
+46	原来 近来 内容 更新 了 不少 ，	2	_	_	_	36	joint-other_m	_	_
+47	连 我 自己 在 平时 打 什么 领带 的 颜色 都 有 ，	0	_	_	_	46	explanation-evidence_r	_	_
+48	看来	1	_	_	_	46	evaluation-comment_r	_	_
+49	撰写 这 条 条目 的	0	_	_	_	50	elaboration-attribute_r	_	_
+50	人 观察 得 十分 细微 。	0	_	_	_	48	same-unit_m	_	_
+51	喔 ， 原来 马启仁 先生 是 用 左手 写字 ！	0	_	_	_	53	organization-preparation_r	_	_
+52	多谢 马启仁 先生 补充 和 更正 资料 。	0	_	_	_	51	joint-list_m	_	_
+53	Keyman ， 众所周知 ， 你 是 韦斯咸 和 阿根廷 球迷 ，	1	_	_	_	57	organization-preparation_r	_	_
+54	在 评述 关于	0	_	_	_	57	context-circumstance_r	_	_
+55	你 心爱 的	0	_	_	_	56	elaboration-attribute_r	_	_
+56	球队 赛事 时 ，	0	_	_	_	54	same-unit_m	_	_
+57	会 不 会 有 不 自然 的 感觉 ？	5	_	_	_	59	topic-question_r	_	_
+58	我 认为	2	_	_	_	59	attribution-positive_r	_	_
+59	传媒人 最 紧要 做到	3	_	_	_	22	joint-other_m	_	_
+60	保持 中立	0	_	_	_	61	elaboration-attribute_r	_	_
+61	这 点 ，	0	_	_	_	59	same-unit_m	_	_
+62	需要 放下 个人 情感 ，	1	_	_	_	59	joint-list_m	_	_
+63	但 认为	1	_	_	_	64	attribution-positive_r	_	_
+64	全 世界 99% 球迷 都 有 自己 的 喜恶 ，	3	_	_	_	59	adversative-contrast_m	_	_
+65	但 在	0	_	_	_	64	adversative-contrast_m	_	_
+66	做 节目	0	_	_	_	67	elaboration-attribute_r	_	_
+67	前后 和 平日 就 不 会 掩饰 。	0	_	_	_	65	same-unit_m	_	_
+68	我 认为	2	_	_	_	69	attribution-positive_r	_	_
+69	做 这 行 应该 跟 观众 的 距离 很 近 ，	4	_	_	_	59	elaboration-additional_r	_	_
+70	像 跟 朋友 看 足球 比赛 一样 ，	0	_	_	_	69	mode-manner_r	_	_
+71	不 介意 让 人 知道	0	_	_	_	72	attribution-positive_r	_	_
+72	自己 心爱 的 球队 是 哪队 ，	0	_	_	_	70	elaboration-additional_r	_	_
+73	但 在 评述 时	0	_	_	_	74	context-circumstance_r	_	_
+74	会 收敛 。	1	_	_	_	69	adversative-contrast_m	_	_
+75	在 家 和 在 家中 收看 足球 比赛 完全 是 两 个 人 ，	3	_	_	_	69	joint-list_m	_	_
+76	在 家中 表现 出 真 性情 ，	0	_	_	_	75	elaboration-additional_r	_	_
+77	但 在 评述 时	0	_	_	_	78	context-circumstance_r	_	_
+78	会 加以 压抑 ，	0	_	_	_	76	adversative-contrast_m	_	_
+79	用 中肯 态度 于 工作 中 。	1	_	_	_	78	joint-list_m	_	_
+80	但 我 的 拍挡 很 喜欢	1	_	_	_	81	attribution-positive_r	_	_
+81	用 我 来 开 玩笑 ，	4	_	_	_	69	joint-other_m	_	_
+82	为了 保护 自己 ，	0	_	_	_	81	purpose-goal_r	_	_
+83	陪 他们 玩 ，	2	_	_	_	81	elaboration-additional_r	_	_
+84	只是 搞 气氛 。	0	_	_	_	83	purpose-goal_r	_	_
+85	近来 了 行 这 一 行 的	0	_	_	_	86	elaboration-attribute_r	_	_
+86	人 也 会 像 我 这样 做 。	1	_	_	_	83	explanation-justify_r	_	_
+87	如果	0	_	_	_	90	contingency-condition_r	_	_
+88	自已 心爱 的	0	_	_	_	89	elaboration-attribute_r	_	_
+89	球队 仅 以 一 球 落败 ，	0	_	_	_	87	same-unit_m	_	_
+90	会 心生 不忿 ：	4	_	_	_	69	joint-other_m	_	_
+91	如果 球队 大 比数 落败 ，	1	_	_	_	93	contingency-condition_r	_	_
+92	评述 时	0	_	_	_	93	context-circumstance_r	_	_
+93	会 比较 轻松 。	1	_	_	_	90	adversative-contrast_m	_	_
+94	但 在 某些 位置 上 ， 不 能 过火 ，	2	_	_	_	90	adversative-antithesis_r	_	_
+95	会 适当 地 调节 自己 。	0	_	_	_	94	joint-list_m	_	_
+96	作为 韦斯咸 球迷 的	0	_	_	_	97	elaboration-attribute_r	_	_
+97	你 ， 你 对	2	_	_	_	100	topic-question_r	_	_
+98	正在 护级 的	0	_	_	_	99	elaboration-attribute_r	_	_
+99	韦斯咸 今年 有 没有 期望 ？	1	_	_	_	97	same-unit_m	_	_
+100	过 保顿 啦 ！	3	_	_	_	22	joint-other_m	_	_
+101	没 可能 吧 ！	0	_	_	_	100	adversative-concession_r	_	_
+102	其实 做 韦斯咸 的 球迷 很 有趣 。	2	_	_	_	104	organization-preparation_r	_	_
+103	我 认为	1	_	_	_	104	attribution-positive_r	_	_
+104	做 球迷 是 一生人 的 ，	0	_	_	_	117	explanation-justify_r	_	_
+105	不 像 小朋友 两 三 年 就 转 支持 球会 。	0	_	_	_	104	adversative-antithesis_r	_	_
+106	足球 是 公平 的 ，	3	_	_	_	104	joint-other_m	_	_
+107	有 厉害 的 时候 ，	0	_	_	_	106	elaboration-additional_r	_	_
+108	又 有 差 的 时候 ，	0	_	_	_	107	joint-list_m	_	_
+109	“ 有 赢	1	_	_	_	107	restatement-repetition_m	_	_
+110	有 输 ” ，	0	_	_	_	109	joint-list_m	_	_
+111	一定 要 明白 这 个 道理 。	2	_	_	_	107	evaluation-comment_r	_	_
+112	只有 赢	0	_	_	_	113	contingency-condition_r	_	_
+113	才 高兴 ，	0	_	_	_	116	context-background_r	_	_
+114	输	0	_	_	_	115	contingency-condition_r	_	_
+115	就 不 高兴 ，	1	_	_	_	113	adversative-contrast_m	_	_
+116	只 会 令 自己 很 痛苦 。	3	_	_	_	107	adversative-antithesis_r	_	_
+117	支持 哪队 球队 都 是 公平 的 ，	0	_	_	_	118	context-background_r	_	_
+118	而 我 支持 韦斯咸 ，	1	_	_	_	100	elaboration-additional_r	_	_
+119	偶尔 有 场 代表作	0	_	_	_	120	contingency-condition_r	_	_
+120	已经 十分 开心 ，	1	_	_	_	118	adversative-concession_r	_	_
+121	不 预计 韦斯咸 会 争夺 锦标 或 前 四 名 。	1	_	_	_	120	adversative-contrast_m	_	_
+122	在 今年 曾经 有些 很 言兴 的 地方 ，	1	_	_	_	124	context-background_r	_	_
+123	以为	0	_	_	_	124	attribution-positive_r	_	_
+124	扩军 能 帮助 球队 ，	3	_	_	_	129	explanation-evidence_r	_	_
+125	结果	2	_	_	_	124	adversative-contrast_m	_	_
+126	希望 越 大	0	_	_	_	127	contingency-condition_r	_	_
+127	失望 越 大 ，	0	_	_	_	125	same-unit_m	_	_
+128	从 中 学到 一些 人生 道理 ，	1	_	_	_	129	organization-preparation_r	_	_
+129	有时 有些 东西 不 能 苛求 ，	2	_	_	_	118	elaboration-additional_r	_	_
+130	但 不 会 放弃 做人 信念 ，	0	_	_	_	129	adversative-contrast_m	_	_
+131	相信	0	_	_	_	132	attribution-positive_r	_	_
+132	韦斯咸 能 护级 成功 ，	0	_	_	_	130	explanation-evidence_r	_	_
+133	如果 真的 降班 ，	2	_	_	_	135	contingency-condition_r	_	_
+134	只能 说	1	_	_	_	135	attribution-positive_r	_	_
+135	是 “ 抵死 ”	2	_	_	_	129	elaboration-additional_r	_	_
+136	（ 活该 ） 。	0	_	_	_	135	restatement-partial_r	_	_
+137	就算 降班 ，	0	_	_	_	138	contingency-condition_r	_	_
+138	亦 可 卷土重来 ，	3	_	_	_	135	joint-list_m	_	_
+139	如 足总杯 亦 可 越级 挑战 一样 。	1	_	_	_	138	mode-manner_r	_	_
+140	当年 韦斯咸 打 升班 时	0	_	_	_	141	context-circumstance_r	_	_
+141	的	0	_	_	_	142	elaboration-attribute_r	_	_
+142	情形 令 我 十分 深刻 ， 十分 刺激 ，	3	_	_	_	118	restatement-partial_r	_	_
+143	像 附加赛 冠军 。	1	_	_	_	142	mode-manner_r	_	_
+144	会 保持 支持 韦斯咸 ，	2	_	_	_	142	causal-result_r	_	_
+145	不 会 改变 。	0	_	_	_	144	joint-list_m	_	_
+146	像 世界杯 一样 ，	2	_	_	_	147	organization-preparation_r	_	_
+147	32 队 入到 世界杯 ，	0	_	_	_	150	context-background_r	_	_
+148	每队 都 有 人 支持 ，	0	_	_	_	147	joint-list_m	_	_
+149	但 只 有 1 队 能 夺 冠军 ，	1	_	_	_	147	adversative-contrast_m	_	_
+150	球迷 其实 失意 多于 得意 ，	1	_	_	_	152	organization-preparation_r	_	_
+151	其他 落败 球队 的 球迷 ， 一定 很 不 开心 ，	0	_	_	_	152	adversative-concession_r	_	_
+152	但 应该 做 个 快乐 的 球迷 ，	3	_	_	_	142	elaboration-additional_r	_	_
+153	如 入 了 球 世界球 、	2	_	_	_	152	explanation-evidence_r	_	_
+154	“ 偷鸡 赢到 场 ” 、	0	_	_	_	153	joint-list_m	_	_
+155	晋到 级	0	_	_	_	153	joint-list_m	_	_
+156	或者 虽 败	0	_	_	_	153	joint-list_m	_	_
+157	但 已 尽力 ，	0	_	_	_	156	adversative-contrast_m	_	_
+158	如 今晚 十分 专心 看 一 场 足球 比赛 ，	0	_	_	_	153	joint-list_m	_	_
+159	已 享受 其 过程 。	0	_	_	_	158	joint-list_m	_	_
+160	很多 事情 而 令 你 开心 ，	3	_	_	_	152	evaluation-comment_r	_	_
+161	只要 自已 调节 一下 ，	0	_	_	_	162	contingency-condition_r	_	_
+162	我 没 太 大 问题 ，	0	_	_	_	160	explanation-justify_r	_	_
+163	我 每天 都 会 到 韦斯咸 “ 朝圣 ” 。	1	_	_	_	160	elaboration-additional_r	_	_
+164	听说	2	_	_	_	165	attribution-positive_r	_	_
+165	Keyman 你 亦 有 玩 Football Manager	0	_	_	_	169	context-background_r	_	_
+166	（ 足球 经理 ）	0	_	_	_	165	restatement-partial_r	_	_
+167	和 Winning Eleven	1	_	_	_	165	same-unit_m	_	_
+168	（ 实况 足球 ） ，	0	_	_	_	167	restatement-partial_r	_	_
+169	你 对 这些 游戏 有 没有 什么 评价 ？	7	_	_	_	172	topic-question_r	_	_
+170	FM 呀 ！	0	_	_	_	171	organization-preparation_r	_	_
+171	这 套 游戏 我 都 有 玩 ，	1	_	_	_	172	adversative-concession_r	_	_
+172	但 平时 空闲 的 时间 很 少 ，	3	_	_	_	22	joint-other_m	_	_
+173	而 要 玩 这 只 游戏	0	_	_	_	174	contingency-condition_r	_	_
+174	真的 很 花 时间 ，	0	_	_	_	172	adversative-contrast_m	_	_
+175	如果 是 求学 阶段 时 玩 ，	0	_	_	_	176	contingency-condition_r	_	_
+176	真的 不得了 ，	2	_	_	_	172	explanation-evidence_r	_	_
+177	我 通常 只 玩到 季初	1	_	_	_	176	causal-result_r	_	_
+178	就 没 再 玩 下去 。	0	_	_	_	177	adversative-antithesis_r	_	_
+179	但是 当 每 出 新版	0	_	_	_	180	context-circumstance_r	_	_
+180	我 都 会 立即 购买 ，	3	_	_	_	172	adversative-concession_r	_	_
+181	支持 一下 吧 。	1	_	_	_	180	explanation-justify_r	_	_
+182	创造 这 只 游戏 的	0	_	_	_	183	elaboration-attribute_r	_	_
+183	两 兄弟 是 数据库 迷 ，	1	_	_	_	184	context-background_r	_	_
+184	其 FM 现在 还 没 到 最 复杂 阶段 ,	4	_	_	_	172	elaboration-additional_r	_	_
+185	有些 游戏 连 建 球场 等 东西 都 有 ，	0	_	_	_	184	adversative-concession_r	_	_
+186	其实 我 认为	0	_	_	_	187	attribution-positive_r	_	_
+187	简单 一点点 就 可 了 。	2	_	_	_	184	adversative-antithesis_r	_	_
+188	据闻	0	_	_	_	189	attribution-positive_r	_	_
+189	FM 有 手提机 PSP 的 版本 ，	2	_	_	_	196	adversative-concession_r	_	_
+190	但 我 每天 都 要	1	_	_	_	196	context-circumstance_r	_	_
+191	驾车	0	_	_	_	192	mode-means_r	_	_
+192	上班 ，	0	_	_	_	190	same-unit_m	_	_
+193	如果	0	_	_	_	196	contingency-condition_r	_	_
+194	挂 着	0	_	_	_	195	mode-manner_r	_	_
+195	玩 游戏 的话 ，	0	_	_	_	193	same-unit_m	_	_
+196	很 易 发生 意外 。	3	_	_	_	184	joint-other_m	_	_
+197	Winning 比较 控制 上 的 真实 感 ，	0	_	_	_	199	explanation-motivation_r	_	_
+198	但 弱队 的 数值 比较 低 ，	0	_	_	_	197	adversative-contrast_m	_	_
+199	可 帮 我 去 反映 一下 吗 ？	5	_	_	_	172	joint-other_m	_	_
+200	足球 的 电玩 及 足球 ， 是 男人 之间 的 电玩 ，	6	_	_	_	172	evaluation-comment_r	_	_
+201	女士们 很 难 明白	0	_	_	_	202	attribution-negative_r	_	_
+202	你 在 球场 干 什么 。	0	_	_	_	200	adversative-contrast_m	_	_
+203	Keyman ， 在 网上 有 不少 人 都 说	0	_	_	_	204	attribution-positive_r	_	_
+204	你 其实 是 “ 曼联 球迷 ” ？	3	_	_	_	208	topic-question_r	_	_
+205	“ 曼联 球迷 ” 这 个 称号 呢 是 很多 年 前 的 啦 。	1	_	_	_	207	context-background_r	_	_
+206	当 我 被 冠上 这 个 称号 时 ，	0	_	_	_	207	context-circumstance_r	_	_
+207	我 也 有 想过 这 个 问题 ，	0	_	_	_	208	adversative-antithesis_r	_	_
+208	但 我 的确 是 一 名 韦斯咸 球迷 。	3	_	_	_	22	joint-other_m	_	_
+209	因为 当年 曼联 “ 三冠王 ” 很 厉害 ，	1	_	_	_	208	elaboration-additional_r	_	_
+210	不少 行家 亦 会 看好 曼联 一 线 。	0	_	_	_	209	joint-list_m	_	_
+211	如 曼联 对 韦斯咸 比起 其他 球队 的 赛事 较 有 触目性 。	1	_	_	_	209	explanation-evidence_r	_	_
+212	我 现在 评述 足球	0	_	_	_	213	context-circumstance_r	_	_
+213	亦 会 保持 中立 。	2	_	_	_	208	adversative-concession_r	_	_
+214	Keyman ， 你 小 时候 有 没有 想过	0	_	_	_	215	attribution-positive_r	_	_
+215	当 一 位 足球 评述员 ？	1	_	_	_	216	topic-question_r	_	_
+216	没有 啦 ！	3	_	_	_	22	joint-other_m	_	_
+217	我 小 时候 其实 想	0	_	_	_	218	attribution-positive_r	_	_
+218	做 一些 传媒 的 工作 ，	0	_	_	_	216	explanation-justify_r	_	_
+219	在 我 当上 第一 份 报纸	1	_	_	_	222	context-circumstance_r	_	_
+220	（ 章 ）	0	_	_	_	219	purpose-attribute_r	_	_
+221	的 体育 记者 前 ，	1	_	_	_	219	same-unit_m	_	_
+222	我 都 没有 当过	1	_	_	_	218	adversative-contrast_m	_	_
+223	以 足球 做 媒介	0	_	_	_	226	elaboration-attribute_r	_	_
+224	令 自己 做到	0	_	_	_	225	mode-manner_r	_	_
+225	想 做 的	0	_	_	_	223	joint-list_m	_	_
+226	东西 ，	0	_	_	_	222	same-unit_m	_	_
+227	第一 份 关于 体育 的 开始 是 当 华侨 日报 体育报 记者 ，	0	_	_	_	228	context-background_r	_	_
+228	这 条 路 就 一直 走 下去 ，	2	_	_	_	218	causal-result_r	_	_
+229	跟	1	_	_	_	228	evaluation-comment_r	_	_
+230	以前 想 的	0	_	_	_	231	elaboration-attribute_r	_	_
+231	东西 有点 接近 。	0	_	_	_	229	same-unit_m	_	_
+232	在 小 时候 已 想	0	_	_	_	233	attribution-positive_r	_	_
+233	做 传媒 ，	5	_	_	_	247	context-background_r	_	_
+234	但 不 知道	0	_	_	_	235	attribution-negative_r	_	_
+235	传媒 是 什么 ，	1	_	_	_	233	adversative-contrast_m	_	_
+236	我 觉得	1	_	_	_	239	attribution-positive_r	_	_
+237	做 一 个 媒介 ，	0	_	_	_	239	context-background_r	_	_
+238	跟 多些 人 接触 ，	0	_	_	_	237	joint-list_m	_	_
+239	接触 最 多 人 的 就 是 媒体 。	2	_	_	_	233	joint-list_m	_	_
+240	传媒 的 东西 我 很 想 做 ，	1	_	_	_	242	adversative-concession_r	_	_
+241	但 读 大学 时 ，	0	_	_	_	242	context-circumstance_r	_	_
+242	我 不 是 读 传媒 ，	2	_	_	_	247	context-circumstance_r	_	_
+243	一 听到	0	_	_	_	244	attribution-positive_r	_	_
+244	有 杂志 或 报纸 征聘 兼职 记者	0	_	_	_	246	contingency-condition_r	_	_
+245	时 ，	1	_	_	_	244	same-unit_m	_	_
+246	就 立即 应征 ，	1	_	_	_	247	causal-cause_r	_	_
+247	做 过 很多 报章 、 杂志 的 记者 ，	3	_	_	_	218	explanation-evidence_r	_	_
+248	亦 当过 八卦 杂志 的 记者 等 ，	0	_	_	_	247	joint-list_m	_	_
+249	后来 就 当上 了 全职 记者 。	3	_	_	_	247	joint-sequence_m	_	_
+250	后来 ， 以前 很多 编辑 在 Cable 里 任职 ，	1	_	_	_	251	context-background_r	_	_
+251	就 找 了 我	0	_	_	_	253	causal-cause_r	_	_
+252	帮忙 ，	0	_	_	_	251	purpose-goal_r	_	_
+253	就 慢慢 晋身 为 足球 评述员 。	3	_	_	_	247	joint-sequence_m	_	_
+254	由 报章 任职 至 电视台 ，	4	_	_	_	247	evaluation-comment_r	_	_
+255	再 由 电视台 至 电台 ，	0	_	_	_	254	joint-sequence_m	_	_
+256	做 杂志 和 网站 ，	0	_	_	_	254	joint-sequence_m	_	_
+257	一直 绕来 绕去 。	1	_	_	_	254	evaluation-comment_r	_	_
+258	Keyman ， 你 是 一 位 足球 评述员 ，	1	_	_	_	260	causal-cause_r	_	_
+259	大多数 比赛 在 晚间 进行 ，	0	_	_	_	258	joint-list_m	_	_
+260	你 过 着	0	_	_	_	263	context-background_r	_	_
+261	日夜 颠倒 的	0	_	_	_	262	elaboration-attribute_r	_	_
+262	生活 ，	0	_	_	_	260	same-unit_m	_	_
+263	对 你 日常 生活 会 不 会 受 影响 ？	1	_	_	_	264	topic-question_r	_	_
+264	要 有 一 个 好好 的 编排 啦 ！	3	_	_	_	22	joint-other_m	_	_
+265	我 认为	2	_	_	_	272	attribution-positive_r	_	_
+266	做 一 个 球迷 ，	0	_	_	_	267	context-background_r	_	_
+267	都 要 有 好好 的 编排 ，	1	_	_	_	272	explanation-justify_r	_	_
+268	除了 正常 上班 、 家中 生活 外 ，	0	_	_	_	269	context-background_r	_	_
+269	都 要 看 足球 比赛 啦 ，	1	_	_	_	267	explanation-evidence_r	_	_
+270	足球 比赛 通常 在 深夜 进行 ，	1	_	_	_	269	elaboration-additional_r	_	_
+271	而 我 以 此 为 工作 ，	0	_	_	_	272	context-background_r	_	_
+272	我 亦 能 安排 好 ，	0	_	_	_	264	elaboration-additional_r	_	_
+273	以往 的 正职 比较 辛苦 ，	0	_	_	_	274	causal-cause_r	_	_
+274	可能 时间 不 够用 ，	3	_	_	_	272	adversative-concession_r	_	_
+275	现在 就 自已 工作 ，	0	_	_	_	276	causal-cause_r	_	_
+276	所以 能够 将就 。	1	_	_	_	274	adversative-contrast_m	_	_
+277	比起 以前	2	_	_	_	281	context-background_r	_	_
+278	做 一 全 正常 时间 的	0	_	_	_	279	elaboration-attribute_r	_	_
+279	工作 跟 现在 ，	0	_	_	_	277	same-unit_m	_	_
+280	家中 相处 的	0	_	_	_	281	elaboration-attribute_r	_	_
+281	时间 不 会 少 了 ，	2	_	_	_	274	explanation-justify_r	_	_
+282	没有 太 大 分别 ，	1	_	_	_	281	joint-list_m	_	_
+283	都 要 有 好 的 编排 。	4	_	_	_	272	joint-other_m	_	_
+284	这 是 长途战 ，	0	_	_	_	283	explanation-evidence_r	_	_
+285	像 打 联赛 ，	0	_	_	_	284	mode-manner_r	_	_
+286	不 是 杯赛 ，	0	_	_	_	285	adversative-contrast_m	_	_
+287	像 球迷 一样 ，	1	_	_	_	290	context-background_r	_	_
+288	只 挂 着 这 两 星期	0	_	_	_	290	causal-cause_r	_	_
+289	看 深夜 足球 比赛 ，	0	_	_	_	288	joint-list_m	_	_
+290	第三 个 星期 就 死定 了 ，	0	_	_	_	291	explanation-motivation_r	_	_
+291	都 要 自己 懂得 编排 作息 时间 。	1	_	_	_	284	joint-list_m	_	_
+292	Keyman ， 你 有 没有 想过	0	_	_	_	293	attribution-positive_r	_	_
+293	把 你 的 女儿 训练 成为 足球员 或 足球 评述员 ？	2	_	_	_	294	topic-question_r	_	_
+294	当然 没有 啦 ！	3	_	_	_	22	joint-other_m	_	_
+295	但 我 会 带 女儿 到 球场	0	_	_	_	294	adversative-concession_r	_	_
+296	看 足球 比赛 ，	0	_	_	_	295	joint-list_m	_	_
+297	告诉 她	0	_	_	_	298	attribution-positive_r	_	_
+298	这 是 一 场 “ 嘉年华会 ” ，	0	_	_	_	295	joint-list_m	_	_
+299	她 也 有 十分 开心 ，	2	_	_	_	302	context-background_r	_	_
+300	每次 在 电视 上 看 次 足球 比赛 时 ，	1	_	_	_	302	context-circumstance_r	_	_
+301	就 会 大嚷 着	0	_	_	_	302	attribution-positive_r	_	_
+302	是 “ 嘉年华会 ” 。	1	_	_	_	295	joint-other_m	_	_
+303	我 并不 会 强迫 她 喜欢 足球 ，	2	_	_	_	295	explanation-justify_r	_	_
+304	但 希望	0	_	_	_	305	attribution-positive_r	_	_
+305	她 能 领略 足球 的 乐趣 ，	0	_	_	_	303	adversative-contrast_m	_	_
+306	让 她 自由 选择 吧 。	1	_	_	_	294	elaboration-additional_r	_	_
+307	祝 马启仁 先生 工作 顺利 ，	3	_	_	_	22	joint-other_m	_	_
+308	今日 的 访问 完毕 ，	0	_	_	_	307	joint-list_m	_	_
+309	多谢 马启仁 先生 抽空	0	_	_	_	307	joint-list_m	_	_
+310	作 专访 。	0	_	_	_	309	purpose-goal_r	_	_
+311	多谢 ，	1	_	_	_	312	organization-phatic_r	_	_
+312	现在 很少 记者 会	1	_	_	_	307	evaluation-comment_r	_	_
+313	在 访问 完	0	_	_	_	314	context-circumstance_r	_	_
+314	说 这些 祝福语 。	0	_	_	_	312	same-unit_m	_	_
