@@ -1,0 +1,185 @@
+1	陈章太 说 ：	1	_	_	_	3	attribution-positive_r	_	_
+2	2008年 起 联合国 使用 的	0	_	_	_	3	elaboration-attribute_r	_	_
+3	中文 一律 用 简体字	12	_	_	_	21	organization-heading_r	_	_
+4	【 2006年 3月 23日 讯 】	11	_	_	_	21	context-circumstance_r	_	_
+5	昨天 在	3	_	_	_	13	attribution-positive_r	_	_
+6	教育部 举行 的	0	_	_	_	9	elaboration-attribute_r	_	_
+7	纪念 国务院 发布 《 汉字 简化 方案 》	0	_	_	_	6	joint-list_m	_	_
+8	和 《 关于 推广 普通话 的 指示 》 发布 50 周年 的	0	_	_	_	6	joint-list_m	_	_
+9	记者 见面会 上 ， 中国 应用 语言 学会 会长 、 原 国家 语委 副主任 陈章太	0	_	_	_	5	same-unit_m	_	_
+10	在 回答 《 香港 东方 日报 》 记者 时	0	_	_	_	11	context-circumstance_r	_	_
+11	透露 ，	0	_	_	_	5	same-unit_m	_	_
+12	“ 据 联合国 一 个 决定 ，	1	_	_	_	13	attribution-positive_r	_	_
+13	从 2008年 后	10	_	_	_	21	context-background_r	_	_
+14	联合国 使用 的	0	_	_	_	15	elaboration-attribute_r	_	_
+15	中文 一律 使用 简体字 。	0	_	_	_	13	same-unit_m	_	_
+16	现在 是 两 种 文本 ，	2	_	_	_	13	context-background_r	_	_
+17	繁体字 和 简体字 都 有 。 ”	0	_	_	_	16	elaboration-additional_r	_	_
+18	对 大陆 以外 中文 地区 的 影响	8	_	_	_	21	organization-heading_r	_	_
+19	对 台湾 的 影响	6	_	_	_	21	organization-heading_r	_	_
+20	对于 台湾 地区 ， 著名 语言学家 周有光 先生 在 记者会 上 说 ，	3	_	_	_	21	attribution-positive_r	_	_
+21	“ 简化 问题 本来 台湾 也 是 赞成 的 ，	0	_	_	_	0	ROOT	_	_
+22	后来 人家 反对 ，	0	_	_	_	21	joint-sequence_m	_	_
+23	没有 办法 ，	0	_	_	_	24	organization-phatic_r	_	_
+24	不 能 推行 了 。	1	_	_	_	21	causal-result_r	_	_
+25	在 清朝 末年 简化 就 有 许多 人 提倡 ，	2	_	_	_	21	explanation-justify_r	_	_
+26	可是 也 遇到 了 很多 阻力 ，	0	_	_	_	25	adversative-contrast_m	_	_
+27	一直 到 50年代 新中国 成立 后	0	_	_	_	28	context-circumstance_r	_	_
+28	才 能 实现 ，	1	_	_	_	25	joint-sequence_m	_	_
+29	所以 中国 简化 是 清朝 末年 就 有 提倡 了 ，	2	_	_	_	25	restatement-partial_r	_	_
+30	但是 真正 执行 是 50年代 开始 的 ，	0	_	_	_	29	joint-sequence_m	_	_
+31	是 一 个 逐步 的 过程 。 ”	3	_	_	_	25	evaluation-comment_r	_	_
+32	他 还 说 ：	2	_	_	_	33	attribution-positive_r	_	_
+33	“ 台湾 反对 简化字 起初 不 是 这么 厉害 ，	4	_	_	_	21	joint-list_m	_	_
+34	后来 台湾 把 文字 改革 的 问题 和 政治 问题 挂钩 。	0	_	_	_	35	causal-cause_r	_	_
+35	所以 简化 目前 主要 阻力 是 在 台湾 。	0	_	_	_	33	joint-sequence_m	_	_
+36	可是 这 个 事情 我 想 不必 着急 ，	1	_	_	_	33	adversative-contrast_m	_	_
+37	慢慢 会 改变 ，	0	_	_	_	36	joint-list_m	_	_
+38	因为 联合国 正在 准备 所有 的 中文 文件 都 用 简化字 ，	1	_	_	_	36	causal-cause_r	_	_
+39	因为 用 两 种 字体 是 没有 必要 的 。	0	_	_	_	38	causal-cause_r	_	_
+40	联合国 的 这 个 规定 也 证明	1	_	_	_	41	attribution-positive_r	_	_
+41	简化 的 方向 是 正确 的 ，	1	_	_	_	38	elaboration-additional_r	_	_
+42	也 得到 了 多数 人 的 同意 。 ”	0	_	_	_	41	joint-list_m	_	_
+43	北京 大学 中国 语言 文学系 教授 ， 中国 语言 学会 副会长 陆俭明 举例 说 ：	2	_	_	_	44	attribution-positive_r	_	_
+44	“ 台湾 自己 现在 也 在 简 ，	5	_	_	_	21	joint-list_m	_	_
+45	“ 台湾 ” 这 两 个 字 现在 很多 场合 和 我们 的 写法 都 一样 。	0	_	_	_	44	explanation-evidence_r	_	_
+46	至于 香港 、 澳门 、 台湾 ， 这 个 事情 不 能 急 ，	1	_	_	_	44	joint-list_m	_	_
+47	慢慢 来 ，	0	_	_	_	46	joint-list_m	_	_
+48	文字 是 使用 的 ，	1	_	_	_	46	explanation-justify_r	_	_
+49	使用 过程 中 大家 发现 这 个 好 ，	0	_	_	_	50	contingency-condition_r	_	_
+50	就 用 了 。 ”	0	_	_	_	48	elaboration-additional_r	_	_
+51	此前 ，	1	_	_	_	58	attribution-positive_r	_	_
+52	据	0	_	_	_	55	attribution-positive_r	_	_
+53	新华网 转引 《 国际 先驱 导报 》 的	0	_	_	_	54	elaboration-attribute_r	_	_
+54	报道 ，	0	_	_	_	52	same-unit_m	_	_
+55	中国 国民党 主席 马英九	0	_	_	_	51	same-unit_m	_	_
+56	在 日内瓦 出席 一 项 会议 时	0	_	_	_	57	context-circumstance_r	_	_
+57	曾 表示 ，	0	_	_	_	51	same-unit_m	_	_
+58	大陆 采用 及 积极 推动 简体 中文字 ， 会 让 繁体 中文字 居于 相对 弱势 ，	5	_	_	_	21	joint-list_m	_	_
+59	最后 甚至 可能 被 人 遗忘 。	0	_	_	_	58	joint-sequence_m	_	_
+60	报道 还 说 ，	1	_	_	_	61	attribution-positive_r	_	_
+61	马英九 曾经 尝试 向 联合国 教科文 组织 申请 把 “ 繁体字 ” 列为 文化 保护 遗产 ，	2	_	_	_	58	joint-list_m	_	_
+62	但 却	0	_	_	_	61	adversative-contrast_m	_	_
+63	因 台湾 不 是 联合国 成员	0	_	_	_	64	causal-cause_r	_	_
+64	而 遭 拒绝 。	0	_	_	_	62	same-unit_m	_	_
+65	对 香港 的 影响	6	_	_	_	69	organization-heading_r	_	_
+66	对于 香港 使用 简化字 方面 ，	4	_	_	_	69	organization-preparation_r	_	_
+67	国家 督学 ， 国家 语委 咨询 委员会 委员 傅永和 强调 ，	3	_	_	_	69	attribution-positive_r	_	_
+68	“ 简化 汉字 有 一 个 政策 ，	2	_	_	_	69	organization-preparation_r	_	_
+69	就 是 在 我们 内地 简化 汉字 也 是 适用于 现代 汉语 用字 ，	7	_	_	_	21	joint-list_m	_	_
+70	古汉语 用字 不 在 其内 。	0	_	_	_	69	adversative-contrast_m	_	_
+71	至于 在 香港 ，	1	_	_	_	69	joint-list_m	_	_
+72	因为 一 国 两 制 的 关系 ，	0	_	_	_	73	causal-cause_r	_	_
+73	所以 香港 是 不 是 使用 简化字 要 由 香港 特区 政府 来 决定 。 ”	0	_	_	_	71	same-unit_m	_	_
+74	陆俭明 也 说 ：	3	_	_	_	76	attribution-positive_r	_	_
+75	“ 据 我 所 知 ，	1	_	_	_	76	attribution-positive_r	_	_
+76	已经 有 相当 多 的 学校 使用 简化字 ，	5	_	_	_	69	joint-list_m	_	_
+77	虽然 特区 政府 没有 明确 的 政策 ，	0	_	_	_	78	adversative-concession_r	_	_
+78	但是 在 民间 实际 上 已经 推行 了 。	0	_	_	_	76	explanation-justify_r	_	_
+79	汉字 从 甲骨文 到 篆书 到 现代 不断 简化 ，	0	_	_	_	80	explanation-evidence_r	_	_
+80	这 是 文字 发展 的 必然 趋势 ，	2	_	_	_	76	joint-list_m	_	_
+81	我们 简化 汉字 的	0	_	_	_	82	elaboration-attribute_r	_	_
+82	目的 就 是 为了 让 老百姓 好 认 、 好 写 、 好 记 。 ”	1	_	_	_	80	explanation-justify_r	_	_
+83	周有光 说 ：	6	_	_	_	86	attribution-positive_r	_	_
+84	“ 其实 简化 以后 还 要 进一步 的 规范化 ，	0	_	_	_	85	causal-result_r	_	_
+85	规范化 更 重要 ，	3	_	_	_	86	explanation-motivation_r	_	_
+86	所以	5	_	_	_	69	joint-list_m	_	_
+87	我们 做 的	0	_	_	_	88	elaboration-attribute_r	_	_
+88	这 个 事情 是 正确 的 ，	0	_	_	_	86	same-unit_m	_	_
+89	是 进步 的 ，	1	_	_	_	86	joint-list_m	_	_
+90	一定 会 逐步 推广 ，	2	_	_	_	86	joint-list_m	_	_
+91	香港 也 会 慢慢 采用 。	0	_	_	_	90	joint-list_m	_	_
+92	现在 香港 和 中国 大陆 虽然 是 一 个 国家 ，	1	_	_	_	93	adversative-concession_r	_	_
+93	可是	4	_	_	_	86	explanation-justify_r	_	_
+94	因为 一 国 两 制 的 关系 ，	0	_	_	_	95	causal-cause_r	_	_
+95	来往 还 不 是 很多 ，	0	_	_	_	93	same-unit_m	_	_
+96	将来 的 往来 会 越来越 多 。	2	_	_	_	93	adversative-contrast_m	_	_
+97	同时 我们 国家 在 国际 上 的 影响 越来越 大 ，	3	_	_	_	93	joint-list_m	_	_
+98	世界 各 国	0	_	_	_	97	joint-list_m	_	_
+99	学 汉语 的	0	_	_	_	100	elaboration-attribute_r	_	_
+100	人 也 逐步 在 增加 ，	0	_	_	_	98	same-unit_m	_	_
+101	在 这 个 形势 之下 ， 简化字 慢慢 会 变成 中文 唯一 的 标准 ，	4	_	_	_	93	elaboration-additional_r	_	_
+102	那 个 时候 香港 也 会 喜欢 用 简化字 。	0	_	_	_	101	joint-list_m	_	_
+103	所以 不必 勉强 他们	1	_	_	_	101	causal-result_r	_	_
+104	也 不必 着急 。	0	_	_	_	103	joint-list_m	_	_
+105	联合国 准备 用 简化字	0	_	_	_	106	elaboration-attribute_r	_	_
+106	这 个 事情 就 说明 方向 是 对 的 。 ”	5	_	_	_	86	evaluation-comment_r	_	_
+107	各方 观点	5	_	_	_	110	organization-heading_r	_	_
+108	学者 反应	3	_	_	_	110	organization-heading_r	_	_
+109	中央社 报道 说 ，	1	_	_	_	110	attribution-positive_r	_	_
+110	此 举 对	9	_	_	_	21	joint-other_m	_	_
+111	港 、 台 使用 的	0	_	_	_	112	elaboration-attribute_r	_	_
+112	繁体字 将 造成 冲击 。	0	_	_	_	110	same-unit_m	_	_
+113	香港 浸会 大学 中文系 助理 教授 宗静航 表示 ，	0	_	_	_	114	attribution-positive_r	_	_
+114	现在 仍 有 不少 古典 书籍 仍 未 有 简体字 版 ，	2	_	_	_	117	causal-cause_r	_	_
+115	担心	1	_	_	_	117	attribution-positive_r	_	_
+116	简体字 若 成 单一 标准 ，	0	_	_	_	117	contingency-condition_r	_	_
+117	将 使 中国 文化 研究 出现 断层 。	2	_	_	_	110	joint-list_m	_	_
+118	香港 理工 大学 中文 及 双语学系 副教授 吴东英 也 表示 ，	2	_	_	_	119	attribution-positive_r	_	_
+119	语言 文字 总是 不断 演变 ，	2	_	_	_	126	causal-cause_r	_	_
+120	并 趋向 愈来愈 简单 抽象 ，	0	_	_	_	119	joint-list_m	_	_
+121	但 文字 过于 简化 可能 造成 语意 混淆 。	1	_	_	_	119	adversative-contrast_m	_	_
+122	他 说 ，	1	_	_	_	123	attribution-positive_r	_	_
+123	政府 总 喜欢 制订 标准 ，	3	_	_	_	119	joint-list_m	_	_
+124	但 文字 使用 更多 依靠 习惯 和 文化 ，	0	_	_	_	123	adversative-contrast_m	_	_
+125	她 建议	1	_	_	_	126	attribution-positive_r	_	_
+126	港府 不 要 强制 推行 简体字 ，	2	_	_	_	110	joint-list_m	_	_
+127	文字 简化 也 要 循序渐进 。	0	_	_	_	126	joint-list_m	_	_
+128	网友 观点	7	_	_	_	133	organization-heading_r	_	_
+129	对 此 ， 有 一些 网友 并不 表示 赞同 ，	4	_	_	_	133	organization-preparation_r	_	_
+130	批评 道 ：	3	_	_	_	133	attribution-positive_r	_	_
+131	“ 经历 了 国内 文化 大 革命 的 破坏 后 ，	0	_	_	_	132	context-circumstance_r	_	_
+132	现在 我们 还 要 在 国际 上 破坏 自己 的 传统 文化 吗 ？	1	_	_	_	133	topic-question_r	_	_
+133	请 不 要 再 打击	4	_	_	_	110	joint-list_m	_	_
+134	本来 已经 被 摧残 过 的	0	_	_	_	135	elaboration-attribute_r	_	_
+135	中国 传统 历史 文化 了 ，	0	_	_	_	133	same-unit_m	_	_
+136	繁体字 毕竟 是 正体字 ，	0	_	_	_	137	causal-cause_r	_	_
+137	作为 现代 中国人 不 认识 和 书写 不 了 繁体字 是 国 之 悲哀 ，	2	_	_	_	133	joint-list_m	_	_
+138	自己 优秀 的 传统 文化 不 去 保全	0	_	_	_	139	contingency-condition_r	_	_
+139	还 有 何 脸面 奢谈 中华 文化 复兴 ！ ”	1	_	_	_	137	elaboration-additional_r	_	_
+140	他们 认为 ，	2	_	_	_	145	attribution-positive_r	_	_
+141	“ 国际 上 通用 简体字 ， 便于 交流 。	1	_	_	_	145	causal-cause_r	_	_
+142	但 同时 ， 使 世人 不 能够 了解 中国 的 繁体字 ，	0	_	_	_	141	adversative-contrast_m	_	_
+143	不 知道	0	_	_	_	144	attribution-negative_r	_	_
+144	繁体字 孕育 着 多少 中华 的 的 精髓 。	0	_	_	_	142	joint-list_m	_	_
+145	国内 应该 倡导 大家 繁体字 简体字 同用 ，	5	_	_	_	133	joint-list_m	_	_
+146	让 子孙 后代 把 繁体字 永远 保留 下去 。 ”	0	_	_	_	145	purpose-goal_r	_	_
+147	但是 也有 网友 却 认为 ，	2	_	_	_	148	attribution-positive_r	_	_
+148	“ 联合国 用 简体字 不 代表 消灭 繁体字 ，	6	_	_	_	133	adversative-contrast_m	_	_
+149	繁体字 可以 作为 一 种 文化 的 象征 ， 或者是 一 们 学科 。	0	_	_	_	148	explanation-justify_r	_	_
+150	而 简体字 则 侧重于 生活 实用 ，	0	_	_	_	149	adversative-contrast_m	_	_
+151	这 也 是 很 好 的 事情 。 ”	1	_	_	_	148	evaluation-comment_r	_	_
+152	同时 ， 一些 支持者 认为 ，	2	_	_	_	153	attribution-positive_r	_	_
+153	联合国 使用 中文 简体字 是 因为 使用 的 范围 大 ，	3	_	_	_	148	joint-list_m	_	_
+154	更 便于 联合国 的 工作 。	0	_	_	_	153	joint-list_m	_	_
+155	但是 这 不 代表 联合国 很 关心 中国 有 五千 年 的 文化 传承 。	1	_	_	_	153	adversative-antithesis_r	_	_
+156	也有 网友 说 ：	4	_	_	_	157	attribution-positive_r	_	_
+157	“ 简体 汉字 作为	3	_	_	_	148	joint-list_m	_	_
+158	中国 和 联合国 正式 使用 的	0	_	_	_	159	elaboration-attribute_r	_	_
+159	汉字 ， 是 完全 必要 的 。	0	_	_	_	157	same-unit_m	_	_
+160	这 对 中国 ， 对 各 国 之间 的 交流 合作 ， 非常 有益 。	1	_	_	_	157	elaboration-additional_r	_	_
+161	但 同时 ， 繁体 汉字 也 有	2	_	_	_	157	joint-list_m	_	_
+162	继续 存在 的	0	_	_	_	163	elaboration-attribute_r	_	_
+163	价值 。	0	_	_	_	161	same-unit_m	_	_
+164	它 是 汉字 的 本体	1	_	_	_	161	elaboration-additional_r	_	_
+165	（ 当然 也 是 历史 发展 变化 的 产物 ） ，	0	_	_	_	164	elaboration-additional_r	_	_
+166	在 非 正式 场合 ， 作为 非 工作 时 的 文字 ， 以及 艺术	1	_	_	_	164	joint-list_m	_	_
+167	（ 书法 等 ）	0	_	_	_	166	elaboration-attribute_r	_	_
+168	的 文字 ， 也 应 允许 使用 ，	1	_	_	_	166	same-unit_m	_	_
+169	在 海外 华侨 、 港 澳 台 地区 ， 应 顺其自然 ，	2	_	_	_	166	joint-list_m	_	_
+170	自由 选择 使用 简体 或 繁体 。	0	_	_	_	169	joint-list_m	_	_
+171	什么 事情 都 不 要 一刀切 ， 单元 思考 。 ”	3	_	_	_	157	restatement-partial_r	_	_
+172	还 有 人 建议 ，	4	_	_	_	177	attribution-positive_r	_	_
+173	“ 为了 照顾	3	_	_	_	177	purpose-goal_r	_	_
+174	目前 还 在 使用 繁体字 的	0	_	_	_	175	elaboration-attribute_r	_	_
+175	地区 和 人 的 习惯 ,	0	_	_	_	173	same-unit_m	_	_
+176	希望	2	_	_	_	177	attribution-positive_r	_	_
+177	国家 文字 改革 委员会 ， 适时 推出 一 种	3	_	_	_	148	joint-list_m	_	_
+178	简 --- 繁 之间 十分 容易 相互 转换 的	0	_	_	_	179	elaboration-attribute_r	_	_
+179	软件 ,	0	_	_	_	177	same-unit_m	_	_
+180	使得 在 一 台 计算机 里 的 中文 转换	1	_	_	_	177	causal-result_r	_	_
+181	只 敲 一 键	0	_	_	_	182	contingency-condition_r	_	_
+182	就 可 迅速 转换 ,	0	_	_	_	180	same-unit_m	_	_
+183	使用 中文 的	0	_	_	_	184	elaboration-attribute_r	_	_
+184	任何 人 都 可以 自由 选取 ，	1	_	_	_	180	joint-list_m	_	_
+185	满足 不同 背景 的 人 的 阅读 和 书写 的 需要 ” 。	2	_	_	_	180	purpose-goal_r	_	_

@@ -30,6 +30,11 @@ A GUM-like RST dataset for Chinese
 | news | 10 | 1124.9 | 166 |
 | wikihow | 10 | 1253.9 | 224.1 |
 
+### Train/Dev/Test Partitions
+| Train | other 40 documents (8 from each genre) |
+|:----------:|:-------------:|
+| Dev | gcdt_academic_peoples, gcdt_bio_byron, gcdt_interview_ward, gcdt_news_famine, gcdt_whow_hiking |
+| Test | gcdt_academic_dingzhen, gcdt_bio_dvorak, gcdt_interview_wimax, gcdt_news_simplified, gcdt_whow_thanksgiving |
 
 ### relation distribution
 TODO: check which ones to include 

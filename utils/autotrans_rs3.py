@@ -5,26 +5,26 @@ from time import time
 from deep_translator import GoogleTranslator
 
 
-from utils import read_text_file, get_basename, write_lines_file, get_file_modified_time
+from utils import read_text_file, get_basename_and_branch, write_lines_file, get_file_modified_time
 
 def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	# prepare directory and file
 	if not os.path.isdir(autotran_rs3_dir):
 		os.makedirs(autotran_rs3_dir)
-	basename = get_basename(rs3_file)
-	autotran_rs3_file = autotran_rs3_dir + basename + ".rs3"
+	basename, branch = get_basename_and_branch(rs3_file)
+	autotran_rs3_file = autotran_rs3_dir + branch + os.sep + basename + ".rs3"
 	
 	# if the autotrans file is newer than the chinese-only rs3 file then don't translate this file
 	if os.path.exists(autotran_rs3_file):
 		autotran_modified_time = get_file_modified_time(autotran_rs3_file)
 		original_modified_time = get_file_modified_time(rs3_file)
 		if autotran_modified_time > original_modified_time:
-			print("o Skipping %s since translated file (%f) is newer than original (%f)"
-		      % (basename, autotran_modified_time,original_modified_time))
+			print("o Skipping %s:%s since translated file (%f) is newer than original (%f)"
+		      % (branch, basename, autotran_modified_time,original_modified_time))
 			return
 	
 	# read and translate rs3 lines
-	print("o Start translating file: ", basename)
+	print("o Start translating file: %s:%s" % (branch, basename))
 	rs3_lines = read_text_file(rs3_file, include_xml=True)
 	edus = []
 	for line_id, line in enumerate(rs3_lines):
@@ -52,7 +52,7 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	
 	# write autotrans_rs3_lines
 	write_lines_file(rs3_lines, autotran_rs3_file)
-	print("o Done autotranslated rs3 file: ", basename)
+	print("o Done autotranslated rs3 file %s:%s" % (branch, basename))
 
 
 if __name__ == '__main__':
@@ -70,7 +70,7 @@ if __name__ == '__main__':
 	args = parser.parse_args()
 	
 	translator = GoogleTranslator(source=args.source_language, target=args.target_language)
-	rs3_files = sorted(glob(args.source_dir + "*.rs3", recursive=False))
+	rs3_files = sorted(glob(args.source_dir + "**/*.rs3", recursive=False))
 	print("We have in total %d documents to translate from %s to %s:"
 	      % (len(rs3_files), args.source_language, args.target_language))
 	

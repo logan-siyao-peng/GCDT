@@ -1,0 +1,330 @@
+1	如何 用 短信 调情	5	_	_	_	20	organization-heading_r	_	_
+2	这么 说	3	_	_	_	5	organization-phatic_r	_	_
+3	你 打算	2	_	_	_	5	attribution-positive_r	_	_
+4	利用 简讯 、 微信 、 Whatsapp 等 即时 通讯 工具	1	_	_	_	5	mode-means_r	_	_
+5	撩撩 妹 、	0	_	_	_	8	contingency-condition_r	_	_
+6	调调 情 ，	0	_	_	_	5	joint-list_m	_	_
+7	又 不 想 显得 太 主动 ， 甚至 猥琐 ？	4	_	_	_	5	adversative-contrast_m	_	_
+8	那么 恭喜 你 找对 地方 了 ！	3	_	_	_	14	context-background_r	_	_
+9	你 懂得	1	_	_	_	11	attribution-positive_r	_	_
+10	在 下手 之前	0	_	_	_	11	context-circumstance_r	_	_
+11	先 做 功课 ，	0	_	_	_	12	context-background_r	_	_
+12	就 已经 比 无数 调情 竞争 对手 强 得 多 了 。	1	_	_	_	8	explanation-justify_r	_	_
+13	从 第一 个 步骤 逐一 看起 ，	2	_	_	_	14	mode-manner_r	_	_
+14	学习 如何 在	4	_	_	_	20	context-background_r	_	_
+15	尊重 对方 的	0	_	_	_	16	elaboration-attribute_r	_	_
+16	基础 上 充分 调动 你 的 机智	0	_	_	_	14	same-unit_m	_	_
+17	和 心仪 的 对象 调情 吧 。	1	_	_	_	14	joint-list_m	_	_
+18	方法 1	0	_	_	_	19	organization-preparation_r	_	_
+19	该 做 什么	2	_	_	_	20	organization-heading_r	_	_
+20	1 对话 的 开始 一定 要 轻松 随意 。	0	_	_	_	0	ROOT	_	_
+21	和 线下 世界 一样 ，	1	_	_	_	22	mode-manner_r	_	_
+22	调情 的 第一 步 永远 是 打破 沉默 ，	0	_	_	_	20	elaboration-additional_r	_	_
+23	和 对方 展开 交流 。	0	_	_	_	22	joint-list_m	_	_
+24	可以 向 对方 发 个 简短 的 信息	2	_	_	_	22	elaboration-additional_r	_	_
+25	询问	0	_	_	_	26	attribution-positive_r	_	_
+26	这 一 天 过得 怎么样 ，	0	_	_	_	24	purpose-goal_r	_	_
+27	也 可以	1	_	_	_	24	joint-disjunction_m	_	_
+28	针对 对方 的 工作 或者 学习	0	_	_	_	29	mode-manner_r	_	_
+29	问 个 具体 的 问题 ，	0	_	_	_	27	same-unit_m	_	_
+30	哪 怕 简简单单 打声 招呼 也 行 。	1	_	_	_	24	joint-disjunction_m	_	_
+31	其实 调情 最 难 的 是 最初 突破	3	_	_	_	22	joint-other_m	_	_
+32	你 给 自己 设置 的	0	_	_	_	33	elaboration-attribute_r	_	_
+33	心理 防线 。	0	_	_	_	31	same-unit_m	_	_
+34	如果 你 还是 害怕	0	_	_	_	35	attribution-positive_r	_	_
+35	迈出 这 第一 步 ，	3	_	_	_	38	contingency-condition_r	_	_
+36	可以 试 着 告诉 自己 ，	2	_	_	_	38	attribution-positive_r	_	_
+37	哪怕 结果 再 不济 ，	1	_	_	_	38	contingency-condition_r	_	_
+38	也 比	1	_	_	_	31	adversative-concession_r	_	_
+39	面对面 向 对方 发起 进攻	0	_	_	_	42	elaboration-attribute_r	_	_
+40	失败	0	_	_	_	39	causal-result_r	_	_
+41	的	1	_	_	_	39	same-unit_m	_	_
+42	情形 要 好 得 多 。	0	_	_	_	38	same-unit_m	_	_
+43	通过 微信 等 即时 通讯 工具	0	_	_	_	44	mode-means_r	_	_
+44	调情 其实 真 没 什么 好 紧张 的 。	3	_	_	_	22	joint-other_m	_	_
+45	即便 对方 不 想 和 你 对话 ，	0	_	_	_	46	contingency-condition_r	_	_
+46	也 可以 不 选择 完全 回复 了事 ，	2	_	_	_	48	context-background_r	_	_
+47	而 从 你 这 一 边 来看 ，	0	_	_	_	48	organization-preparation_r	_	_
+48	和 对方 刚好 没有 看到 你 的 信息 也 没有 任何 区别 ，	1	_	_	_	44	explanation-justify_r	_	_
+49	无所谓 尴尬 。	1	_	_	_	48	evaluation-comment_r	_	_
+50	说 起来 ，	2	_	_	_	53	organization-preparation_r	_	_
+51	如果 你 和 对方 根本 不 熟 ，	1	_	_	_	53	contingency-condition_r	_	_
+52	利用 通讯 工具	0	_	_	_	53	mode-means_r	_	_
+53	发起 对话 还 可以 避免 尴尬 。	3	_	_	_	48	joint-list_m	_	_
+54	你 可以 向 对方 咨询	3	_	_	_	53	elaboration-additional_r	_	_
+55	与 工作 或者 学习 有关 的	0	_	_	_	56	elaboration-attribute_r	_	_
+56	问题	0	_	_	_	54	same-unit_m	_	_
+57	就 是 个 不错 的 法子 。	1	_	_	_	54	evaluation-comment_r	_	_
+58	如果 对方 有 什么 特长 ，	0	_	_	_	59	contingency-condition_r	_	_
+59	也 可以 就 此 展开 交流 。	2	_	_	_	54	joint-list_m	_	_
+60	比如说 ， 如果 对方 的 昵称 和 某 个 乐队 有关 ，	2	_	_	_	63	contingency-condition_r	_	_
+61	可以 这样 问 ：	1	_	_	_	63	organization-preparation_r	_	_
+62	“ 你 的 昵称 真 不错 ，	0	_	_	_	63	organization-preparation_r	_	_
+63	去 过 某某 乐队 的 演唱会 吗 ？ ”	1	_	_	_	59	explanation-evidence_r	_	_
+64	2 可以 稍作 寒暄 。	1	_	_	_	20	joint-list_m	_	_
+65	交换 过 亲切 友好 的 问候 之后 ，	1	_	_	_	66	context-circumstance_r	_	_
+66	就 可以 稍稍 寒暄 几 句 ，	0	_	_	_	64	elaboration-additional_r	_	_
+67	问问	0	_	_	_	68	attribution-positive_r	_	_
+68	对方 最近 过 得 如何 了 。	0	_	_	_	66	joint-list_m	_	_
+69	可以 问候 对方 的 工作 、 学习 情况 ，	2	_	_	_	66	explanation-evidence_r	_	_
+70	也 可以	0	_	_	_	69	joint-list_m	_	_
+71	根据 对方 的 兴趣 爱好 、 最近 的 旅行 经历 等	0	_	_	_	72	mode-manner_r	_	_
+72	提问 。	0	_	_	_	70	same-unit_m	_	_
+73	除了 直接 问 人家 问题 ，	0	_	_	_	74	context-background_r	_	_
+74	还 可以 给出 你 自己 的 看法 。	3	_	_	_	66	elaboration-additional_r	_	_
+75	等 对方 回答 你 的 问题 之后 ，	1	_	_	_	76	context-circumstance_r	_	_
+76	就 可以 简单 地 说 几 句 你 自己 的 看法 ，	1	_	_	_	74	elaboration-additional_r	_	_
+77	或者	0	_	_	_	76	joint-list_m	_	_
+78	根据 对方 的 回答	0	_	_	_	79	mode-manner_r	_	_
+79	进一步 问 问题 。	0	_	_	_	77	same-unit_m	_	_
+80	但是 要 记住 ，	1	_	_	_	81	organization-preparation_r	_	_
+81	不 要 打探 对方 的 个人 生活 ，	2	_	_	_	74	adversative-contrast_m	_	_
+82	一定 要 将 对话 气氛 控制 在 轻松 有趣 的 范围 之内 。	0	_	_	_	81	joint-list_m	_	_
+83	不过 寒暄 问候 的 话题 不 要 拖 得 太 长 ，	0	_	_	_	81	joint-list_m	_	_
+84	一 两 分钟 破冰 足矣 ，	0	_	_	_	83	elaboration-additional_r	_	_
+85	再 长 就 无聊 了 。	0	_	_	_	84	adversative-contrast_m	_	_
+86	举 个 例子 ，	4	_	_	_	91	organization-preparation_r	_	_
+87	问过 对方	3	_	_	_	91	context-circumstance_r	_	_
+88	以 乐队 取名 的	0	_	_	_	89	elaboration-attribute_r	_	_
+89	昵称 之后 ，	0	_	_	_	87	same-unit_m	_	_
+90	很 自然 地 可以 继续 问	1	_	_	_	91	attribution-positive_r	_	_
+91	对方 喜欢 什么样 的 音乐 ，	3	_	_	_	74	explanation-evidence_r	_	_
+92	不 喜欢 什么样 的 音乐 。	0	_	_	_	91	joint-list_m	_	_
+93	你 还 可以 给出 自己 的 想法 ，	2	_	_	_	91	joint-list_m	_	_
+94	比如 可以 说 ：	3	_	_	_	96	attribution-positive_r	_	_
+95	“ 如果 你 喜欢 某某 乐队 ，	1	_	_	_	96	contingency-condition_r	_	_
+96	我 再 向 你 推荐 一 个 某某某 乐队 ，	0	_	_	_	93	explanation-evidence_r	_	_
+97	他们 风格 很 像 ，	0	_	_	_	96	causal-cause_r	_	_
+98	只是 风格 更 偏 黑暗系 一些 。	0	_	_	_	97	adversative-concession_r	_	_
+99	你 还 喜欢 其他 什么 乐队 ？ ”	2	_	_	_	96	joint-list_m	_	_
+100	3 适当 开 玩笑 。	1	_	_	_	20	joint-list_m	_	_
+101	恰到好处 的 幽默 每 个 人 都 喜欢 。	2	_	_	_	107	explanation-motivation_r	_	_
+102	玛丽莲·梦露 就 说 过 ，	1	_	_	_	104	attribution-positive_r	_	_
+103	“ 如果 你 能 让 一 个 女人 笑 ，	0	_	_	_	104	contingency-condition_r	_	_
+104	你 就 能 让 她 做 任何 事 。 ”	0	_	_	_	101	explanation-evidence_r	_	_
+105	（ 别 担心 ，	0	_	_	_	106	organization-phatic_r	_	_
+106	对 男士 一样 适用 ）	2	_	_	_	104	elaboration-additional_r	_	_
+107	所以 就 放松 你 紧绷 的 神经 ，	0	_	_	_	100	elaboration-additional_r	_	_
+108	充分 发挥 你 的 幽默 才智 吧 ，	0	_	_	_	107	joint-list_m	_	_
+109	即使	0	_	_	_	112	adversative-concession_r	_	_
+110	根据 情况	0	_	_	_	111	mode-means_r	_	_
+111	稍稍 吐槽 一下	0	_	_	_	109	same-unit_m	_	_
+112	也 无伤 大雅 。	1	_	_	_	107	elaboration-additional_r	_	_
+113	例如 ， 如果 对方 问	0	_	_	_	114	attribution-positive_r	_	_
+114	你 忙 什么 呢 ，	2	_	_	_	116	context-circumstance_r	_	_
+115	不 要 说	0	_	_	_	116	attribution-negative_r	_	_
+116	“ 在 找人 勾搭 ” ，	3	_	_	_	107	explanation-evidence_r	_	_
+117	可以 显得 调侃 一些 ，	1	_	_	_	116	adversative-contrast_m	_	_
+118	说 ：	1	_	_	_	119	attribution-positive_r	_	_
+119	“ 正在 写 一 本 有史以来 最 伟大 的 书 ”	0	_	_	_	117	joint-list_m	_	_
+120	或者 “ 正在 举杯	0	_	_	_	119	joint-disjunction_m	_	_
+121	望月 ，	0	_	_	_	120	joint-list_m	_	_
+122	伤春	0	_	_	_	120	joint-list_m	_	_
+123	悲秋 中 ” 等等 。	0	_	_	_	120	joint-list_m	_	_
+124	你 还 可以	3	_	_	_	116	elaboration-additional_r	_	_
+125	利用 这样 的 回答	0	_	_	_	126	mode-means_r	_	_
+126	来 暗示 对方 你 的 兴趣 所 在 ，	0	_	_	_	124	same-unit_m	_	_
+127	如 你 业余 时间 确实 喜欢 写 东西 ，	1	_	_	_	124	explanation-evidence_r	_	_
+128	或者 你 是 个 品酒 行家 等 。	0	_	_	_	127	joint-list_m	_	_
+129	还是	4	_	_	_	116	joint-list_m	_	_
+130	刚刚 举 过 的	0	_	_	_	131	elaboration-attribute_r	_	_
+131	乐队 的 例子 ， 你 可以 在	0	_	_	_	129	same-unit_m	_	_
+132	讨论 音乐 的	0	_	_	_	133	elaboration-attribute_r	_	_
+133	时候 夹带 一 两 句 幽默 的 话 。	0	_	_	_	129	same-unit_m	_	_
+134	比如 ， 你 可以 说 ：	2	_	_	_	136	attribution-positive_r	_	_
+135	“ 我 也 不 明白	0	_	_	_	136	attribution-negative_r	_	_
+136	最近 的 音乐 频道 里 为什么 总 放 某某 的 歌 ，	1	_	_	_	129	explanation-evidence_r	_	_
+137	难道 他	1	_	_	_	136	topic-question_r	_	_
+138	忙于 戒掉 嗑药 之	0	_	_	_	139	elaboration-attribute_r	_	_
+139	余 还 有 时间 录歌 ？ ”	0	_	_	_	137	same-unit_m	_	_
+140	4 适当 的 时候 可以 稍作 挑逗 之 语 。	6	_	_	_	142	organization-preparation_r	_	_
+141	待到 你 和 对方 已经 建立 了 轻松 友好 的 聊天 伙伴 关系 ，	1	_	_	_	142	contingency-condition_r	_	_
+142	就 可以 稍稍 再 进一步 ，	1	_	_	_	20	joint-list_m	_	_
+143	偶尔 用 适当 的 话 挑逗 对方 一下 了 。	0	_	_	_	142	joint-list_m	_	_
+144	但是 一定 要 谨记 ，	0	_	_	_	145	attribution-positive_r	_	_
+145	聊天 的 气氛 依然 要 保持 轻松 。	2	_	_	_	142	adversative-concession_r	_	_
+146	一 个 通用 规则 是 ，	3	_	_	_	142	elaboration-additional_r	_	_
+147	你 和 对方 越 熟 ，	0	_	_	_	148	contingency-condition_r	_	_
+148	你 的 话 就 可以 尺度 越 大 一些 。	0	_	_	_	146	same-unit_m	_	_
+149	即使 是 挑逗 ，	0	_	_	_	150	adversative-concession_r	_	_
+150	也 要 注意 分寸 。	4	_	_	_	142	adversative-contrast_m	_	_
+151	首先 ， 避免 提及	1	_	_	_	150	explanation-evidence_r	_	_
+152	涉嫌 窥探 对方 隐私 的	0	_	_	_	153	elaboration-attribute_r	_	_
+153	话题 ，	0	_	_	_	151	same-unit_m	_	_
+154	其次 ， 也 不 要 拿 对方 的 职业 、 梦想 等等 开 玩笑 。	1	_	_	_	151	joint-list_m	_	_
+155	是 调情	0	_	_	_	157	context-background_r	_	_
+156	还是 骚扰	0	_	_	_	155	joint-disjunction_m	_	_
+157	有 时候 区别 就 在 一 线 之间 ，	2	_	_	_	150	explanation-justify_r	_	_
+158	因此 ， 不 确定 的 时候 ， 方法 还是 保守 一些 为 妙 。	3	_	_	_	150	causal-result_r	_	_
+159	过 一会 再 想 一 个 好 玩笑	0	_	_	_	158	explanation-justify_r	_	_
+160	发 过去 ，	0	_	_	_	159	joint-sequence_m	_	_
+161	总 比 你 弄得 对方 不 自在 ，	1	_	_	_	159	same-unit_m	_	_
+162	然后 又 试图 给 自己 解释	0	_	_	_	161	joint-sequence_m	_	_
+163	要 容易 得 多 。	1	_	_	_	159	same-unit_m	_	_
+164	还是 用 上文 提到 的 例子 ，	4	_	_	_	168	context-background_r	_	_
+165	如果 你 这样 说 ，	0	_	_	_	166	contingency-condition_r	_	_
+166	是 在 开 对方 玩笑 ：	2	_	_	_	168	attribution-positive_r	_	_
+167	“ 啥 ？	0	_	_	_	168	organization-phatic_r	_	_
+168	你 喜欢 那 个 乐队 ，	5	_	_	_	142	explanation-evidence_r	_	_
+169	看 不 出来 啊 …… ”	1	_	_	_	168	adversative-contrast_m	_	_
+170	而 如果 你 说	1	_	_	_	171	attribution-positive_r	_	_
+171	“ 那 个 乐队 很 装逼 ，	0	_	_	_	173	contingency-condition_r	_	_
+172	他们 的 粉丝 也 很 差劲 ”	0	_	_	_	171	joint-list_m	_	_
+173	对方 就 很 可能 会 生气 了 。	3	_	_	_	168	adversative-contrast_m	_	_
+174	5 学会 使用 表情 。	1	_	_	_	20	joint-list_m	_	_
+175	利用 通讯 工具	0	_	_	_	176	mode-manner_r	_	_
+176	调情 的 一 大 好处 就 是 你 可以 使用 表情 ，	0	_	_	_	174	elaboration-additional_r	_	_
+177	而 其他 一些 方式 ， 如 电子 邮件 ， 则 不 方便 这么 做 。	1	_	_	_	176	adversative-contrast_m	_	_
+178	有 了 表情 符号 的 帮助 ，	2	_	_	_	180	contingency-condition_r	_	_
+179	你 想 表达 的	0	_	_	_	180	elaboration-attribute_r	_	_
+180	意思 也 会 更加 明确 、 生动 。	2	_	_	_	176	elaboration-additional_r	_	_
+181	挑逗 对方 的	0	_	_	_	182	elaboration-attribute_r	_	_
+182	时候 ， 可以 多 用用 眨眼 和 吐 舌头 这样 的 表情 。	1	_	_	_	180	joint-list_m	_	_
+183	使用 聊天 工具 的 内置 表情 即可 ，	3	_	_	_	180	joint-other_m	_	_
+184	这样 既 可以 让 你 的 目的 既 呼之欲出 ，	0	_	_	_	183	elaboration-additional_r	_	_
+185	又 稍稍 有 所 保留 。	0	_	_	_	184	joint-list_m	_	_
+186	同时 要 注意 ，	0	_	_	_	187	organization-preparation_r	_	_
+187	不 要 滥用 表情 符号 。	3	_	_	_	180	joint-other_m	_	_
+188	表情 符号	1	_	_	_	187	explanation-justify_r	_	_
+189	就 像 糖 一样 ，	0	_	_	_	190	mode-manner_r	_	_
+190	点到 即可 ，	0	_	_	_	188	same-unit_m	_	_
+191	可以 让	1	_	_	_	188	causal-result_r	_	_
+192	你 表达 的	0	_	_	_	193	elaboration-attribute_r	_	_
+193	意思 更加 清楚 。	0	_	_	_	191	same-unit_m	_	_
+194	而 如果 你 用 得 太 多 ，	0	_	_	_	195	contingency-condition_r	_	_
+195	就 显得 幼稚 、	2	_	_	_	188	adversative-contrast_m	_	_
+196	让 人 厌烦 了 。	1	_	_	_	195	causal-result_r	_	_
+197	6	2	_	_	_	203	organization-preparation_r	_	_
+198	如果 收效 显著 ，	0	_	_	_	199	contingency-condition_r	_	_
+199	那么 就 可以 趁热打铁 了 。	0	_	_	_	197	same-unit_m	_	_
+200	要是	0	_	_	_	203	contingency-condition_r	_	_
+201	你 发给 对方 的	0	_	_	_	202	elaboration-attribute_r	_	_
+202	笑话 和 调侃 的 话 对方 也 用 幽默 的 语言 来 回应 ，	0	_	_	_	200	same-unit_m	_	_
+203	那么 你 就 可以 趁机 更 进一步 。	1	_	_	_	20	joint-list_m	_	_
+204	记住 ，	1	_	_	_	205	attribution-positive_r	_	_
+205	动作 一定 要 轻 ，	1	_	_	_	203	elaboration-additional_r	_	_
+206	不 要 从 轻松 的 调情 一下子 进入 限制级 内容 模式 。	0	_	_	_	205	joint-list_m	_	_
+207	相反 ， 要 擅用 含蓄 的 表达 。	2	_	_	_	205	adversative-contrast_m	_	_
+208	这 种 方法 其实	0	_	_	_	207	evaluation-comment_r	_	_
+209	不论 是 在 聊天 工具 的 交流 中	0	_	_	_	211	context-circumstance_r	_	_
+210	还是 现实 世界 的 交流 中 ，	0	_	_	_	209	joint-list_m	_	_
+211	都 很 有 帮助 。	0	_	_	_	208	same-unit_m	_	_
+212	不 要 把 气氛 搞 得 太 严肃 ，	3	_	_	_	205	joint-list_m	_	_
+213	一定 要 自始至终 保持 轻松 的 聊天 气氛 。	0	_	_	_	212	joint-list_m	_	_
+214	其实 任何 调情 行为 都 有点 自作 聪明 的 意味 ，	0	_	_	_	215	causal-cause_r	_	_
+215	所以 你 也 就 不 用 显得 一本正经 ， 或者 一 副 志在必得 的 模样 ，	1	_	_	_	212	elaboration-additional_r	_	_
+216	这样 也 会 让 你 显得 更 坦诚 ，	1	_	_	_	215	causal-result_r	_	_
+217	而 不 是 更 猥琐 。	0	_	_	_	216	adversative-contrast_m	_	_
+218	还是 用	5	_	_	_	228	organization-preparation_r	_	_
+219	我们 提到 的	0	_	_	_	220	elaboration-attribute_r	_	_
+220	乐队 的 例子 ，	0	_	_	_	218	same-unit_m	_	_
+221	如果 对方 说 他 / 她 说	1	_	_	_	222	attribution-positive_r	_	_
+222	觉得 一 首 歌 很 不错 ，	4	_	_	_	228	contingency-condition_r	_	_
+223	曲调 撩人 ，	0	_	_	_	222	joint-list_m	_	_
+224	歌词 暧昧 ，	0	_	_	_	222	joint-list_m	_	_
+225	你 就 既 可以	2	_	_	_	228	attribution-positive_r	_	_
+226	假装 严肃 地	0	_	_	_	227	mode-manner_r	_	_
+227	回应 道 ：	0	_	_	_	225	same-unit_m	_	_
+228	“ 严肃 点 ，	2	_	_	_	212	explanation-evidence_r	_	_
+229	严肃 点 ，	0	_	_	_	228	restatement-repetition_m	_	_
+230	咳咳 ”	1	_	_	_	228	organization-phatic_r	_	_
+231	或者 说 ：	0	_	_	_	232	attribution-positive_r	_	_
+232	“ 不 是 吧 ？ ”	3	_	_	_	228	joint-disjunction_m	_	_
+233	再 配 一 个 暧昧 的 表情 符号 。	1	_	_	_	232	joint-list_m	_	_
+234	7	1	_	_	_	20	joint-list_m	_	_
+235	而 如果 对方 显得 不 怎么 积极 ，	1	_	_	_	236	contingency-condition_r	_	_
+236	那么 就 知趣 点	0	_	_	_	234	same-unit_m	_	_
+237	及时 收手 吧 。	0	_	_	_	236	joint-list_m	_	_
+238	不论 是 用 何 种 方式	0	_	_	_	239	mode-manner_r	_	_
+239	试图 和 他人 调情 ，	0	_	_	_	240	context-circumstance_r	_	_
+240	被 拒绝 都 是 一 种 可能 。	1	_	_	_	234	explanation-justify_r	_	_
+241	利用 社交 网络	0	_	_	_	242	mode-manner_r	_	_
+242	进行 调情 成本 低 ，	0	_	_	_	247	causal-cause_r	_	_
+243	又 没有	1	_	_	_	242	joint-list_m	_	_
+244	面对面 交流 时	0	_	_	_	245	context-circumstance_r	_	_
+245	拉不下 脸 的	0	_	_	_	246	elaboration-attribute_r	_	_
+246	问题 ，	0	_	_	_	243	same-unit_m	_	_
+247	其实 被 拒绝 的 概率 更 高 。	1	_	_	_	240	joint-other_m	_	_
+248	如果 你 使劲 浑身解数	0	_	_	_	249	adversative-concession_r	_	_
+249	都 只 是 剃头挑子一头热 ，	1	_	_	_	250	contingency-condition_r	_	_
+250	那么 就 趁早 作罢 ，	2	_	_	_	234	elaboration-additional_r	_	_
+251	礼貌 地 结束 话题 。	0	_	_	_	250	joint-list_m	_	_
+252	你 可以 说	1	_	_	_	253	attribution-positive_r	_	_
+253	你 有事	2	_	_	_	250	explanation-evidence_r	_	_
+254	要 去 忙 了 ，	0	_	_	_	253	joint-list_m	_	_
+255	工作 、 学习 、 睡觉 都 可以 当做 借口 。	2	_	_	_	253	explanation-justify_r	_	_
+256	用 什么 具体 的 借口 不 重要 ，	1	_	_	_	257	adversative-antithesis_r	_	_
+257	重要 的 是	3	_	_	_	250	explanation-justify_r	_	_
+258	这么 做 表明	1	_	_	_	259	attribution-positive_r	_	_
+259	你 尊重 对方 的 意愿 ，	0	_	_	_	257	same-unit_m	_	_
+260	不 会 强行 把 谈话 进行 下去	0	_	_	_	259	joint-list_m	_	_
+261	让 两 方 都 尴尬 。	0	_	_	_	260	causal-result_r	_	_
+262	举例 说 ，	3	_	_	_	269	organization-phatic_r	_	_
+263	如果 你 提到 一 首 具体 的 歌 ，	2	_	_	_	269	contingency-condition_r	_	_
+264	而 对方 说	1	_	_	_	265	attribution-positive_r	_	_
+265	这 是	0	_	_	_	263	adversative-contrast_m	_	_
+266	他 / 她 另 一 半 最 喜欢 的	0	_	_	_	267	elaboration-attribute_r	_	_
+267	歌 ，	0	_	_	_	265	same-unit_m	_	_
+268	那么 过 一会 你 就 可以 不动声色 地 说 ，	1	_	_	_	269	attribution-positive_r	_	_
+269	“ 我 有事	4	_	_	_	250	explanation-evidence_r	_	_
+270	先 下线 了 ，	0	_	_	_	269	joint-list_m	_	_
+271	以后 聊 。 ”	0	_	_	_	269	joint-list_m	_	_
+272	8 记得 做	1	_	_	_	20	joint-list_m	_	_
+273	先 结束 对话 的	0	_	_	_	274	elaboration-attribute_r	_	_
+274	那 个 人 。	0	_	_	_	272	same-unit_m	_	_
+275	在线 调情 的	0	_	_	_	276	elaboration-attribute_r	_	_
+276	一 个 好 方法 ， 就 是 要 让 对方 回味 无穷 ，	1	_	_	_	278	explanation-motivation_r	_	_
+277	这 一 点 在 线下 同样 适用 。	1	_	_	_	276	elaboration-additional_r	_	_
+278	在 虚拟 世界 的 调情 中 ，	1	_	_	_	272	elaboration-additional_r	_	_
+279	先 结束 对话 的	0	_	_	_	280	elaboration-attribute_r	_	_
+280	方法 可以 是	0	_	_	_	278	same-unit_m	_	_
+281	在 对话 即将 失去 热度 时	0	_	_	_	282	context-circumstance_r	_	_
+282	简短 地 说 再见 。	0	_	_	_	278	same-unit_m	_	_
+283	这样一来 ， 对方 在 这 段 对话 中 得到 的 只 有 乐趣 和 充满 趣味 回忆 ，	2	_	_	_	278	explanation-justify_r	_	_
+284	而 不 是 聊天 聊到 强弩之末 ，	0	_	_	_	283	adversative-contrast_m	_	_
+285	你 却 没有 结束 的 意思 ，	0	_	_	_	284	adversative-contrast_m	_	_
+286	对方 只 能	1	_	_	_	284	joint-list_m	_	_
+287	绞尽 脑汁 找 话 说 的	0	_	_	_	288	elaboration-attribute_r	_	_
+288	尴尬 。	0	_	_	_	286	same-unit_m	_	_
+289	如果 对方 一直 都 对 你 积极 回应 ，	1	_	_	_	290	contingency-condition_r	_	_
+290	那么 就 可以 想 办法	1	_	_	_	292	context-circumstance_r	_	_
+291	给 对方 留下 一 个 难忘 的 告别 了 。	0	_	_	_	290	purpose-goal_r	_	_
+292	这 个 时候 ， 表情 就 又 派上用场 了 。	3	_	_	_	278	elaboration-additional_r	_	_
+293	例如 ， 给 对方 发 “ 晚安 ” 可能 显得 很 平淡 ，	0	_	_	_	292	explanation-evidence_r	_	_
+294	而 晚安 后面 配 一 个 表情 ， 就 生动 得 多 ，	0	_	_	_	293	adversative-contrast_m	_	_
+295	也 显得 贴心 得 多 。	0	_	_	_	294	joint-list_m	_	_
+296	方法 2	0	_	_	_	297	organization-preparation_r	_	_
+297	不 该 做 什么	3	_	_	_	298	organization-heading_r	_	_
+298	1 不 要 说 妄自菲薄 的 话 。	3	_	_	_	20	joint-list_m	_	_
+299	自信 是 最 有 魅力 的 。	0	_	_	_	298	explanation-motivation_r	_	_
+300	这 一 点 在 现实 世界 中 要 比 虚拟 世界 里 还 重要 ，	0	_	_	_	301	adversative-concession_r	_	_
+301	但是 聊天 工具 的 使用 中 ， 也 要 注意 保持 自信 。	0	_	_	_	299	elaboration-additional_r	_	_
+302	例如 ， 不 要 总是 说 些 自黑 的 玩笑 ，	1	_	_	_	298	explanation-evidence_r	_	_
+303	偶尔 一 个 就 足够 了 ，	0	_	_	_	302	adversative-concession_r	_	_
+304	而 不 要 一而再 再而三 地 拿 自己 开涮 ，	1	_	_	_	302	joint-list_m	_	_
+305	不然 很 快 对话 中 的 调情 意味 就 被 你 的 不 自信 和 缺乏 安全感 给 淹没 了 。	0	_	_	_	304	causal-result_r	_	_
+306	另 一 方面 ， 也 不 要 黑 别人	2	_	_	_	302	joint-list_m	_	_
+307	来 开 玩笑 ，	0	_	_	_	306	purpose-goal_r	_	_
+308	不然 就 显得 你 既 心眼 不 好	1	_	_	_	306	adversative-antithesis_r	_	_
+309	又 小家子气 。	0	_	_	_	308	joint-list_m	_	_
+310	所有 对 自己 或者 别人 的 消极 评价 都 要 避免 。	3	_	_	_	302	restatement-partial_r	_	_
+311	2 不 要 过于 殷勤 。	2	_	_	_	298	joint-list_m	_	_
+312	调情 重 在 乐趣 。	0	_	_	_	311	elaboration-additional_r	_	_
+313	对 大多数 人 来说 ，	1	_	_	_	314	organization-preparation_r	_	_
+314	适当 听听 恭维话 感觉 很 爽 ，	0	_	_	_	312	explanation-justify_r	_	_
+315	但是 太 多 了 就 尴尬 了 。	0	_	_	_	314	adversative-contrast_m	_	_
+316	这么 做 也 会 让 对方 质疑 你 的 动机 ，	0	_	_	_	315	explanation-justify_r	_	_
+317	让 人 觉得	1	_	_	_	319	attribution-positive_r	_	_
+318	你 是 别有所图	0	_	_	_	319	causal-cause_r	_	_
+319	才 想 接近 对方 。	0	_	_	_	316	joint-list_m	_	_
+320	此外 ， 在 对话框 里 说 再 多 好听 的 话 也 是 廉价 的 ，	1	_	_	_	316	joint-list_m	_	_
+321	而且	0	_	_	_	320	joint-list_m	_	_
+322	越 多	0	_	_	_	323	contingency-condition_r	_	_
+323	越 适得其反 。	0	_	_	_	321	same-unit_m	_	_
+324	语气 把 心思 花在 没完没了 地 恭维 上 ，	0	_	_	_	325	adversative-antithesis_r	_	_
+325	不如 用心 和 对方 进行 真诚 有趣 的 交流 。	1	_	_	_	312	joint-list_m	_	_
+326	你 的 原则 应该 是 “ 表现 重于 表达 ” 。	1	_	_	_	325	restatement-partial_r	_	_
+327	也就是说 ，	2	_	_	_	329	organization-phatic_r	_	_
+328	通过 用心 的 交流 态度	0	_	_	_	329	mode-means_r	_	_
+329	向 对方 表达 你 的 尊重 和 欣赏 ，	0	_	_	_	326	elaboration-additional_r	_	_
+330	而 不 是 直白 地 说 出来 。	1	_	_	_	329	adversative-contrast_m	_	_

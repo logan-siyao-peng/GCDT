@@ -2,7 +2,7 @@ import io, re, os
 import argparse
 from glob import glob
 
-from utils import read_text_file, get_basename, write_lines_file, get_file_modified_time
+from utils import read_text_file, get_basename_and_branch, write_lines_file, get_file_modified_time
 
 def extract_edus_from_rs3(rs3_file, extracted_edu_file=None):
 	rs3_lines = read_text_file(rs3_file, include_xml=True)
@@ -14,7 +14,7 @@ def extract_edus_from_rs3(rs3_file, extracted_edu_file=None):
 				edus.append((int(m.group(1)), m.group(2).strip()))
 	edus = [x[1].replace("&amp;", "&") for x in sorted(edus, key=lambda x: x[0])]
 	write_lines_file(edus, extracted_edu_file)
-	print("o Done extracting file: ", basename)
+	print("o Done extracting file %s:%s" % (branch, basename))
 
 
 if __name__ == '__main__':
@@ -24,11 +24,11 @@ if __name__ == '__main__':
 	
 	if args.lang == "zh":
 		rs3_dir = "../data/rs3/"
-		extracted_edu_dir = "../data/rs3_extracted_edu/"
+		extracted_edu_dir = "../data/rs3_extracted_edus/"
 		
 	elif args.lang == "bi":
 		rs3_dir = "../data/autotrans_rs3/"
-		extracted_edu_dir = "../data/autotrans_extracted_edu/"
+		extracted_edu_dir = "../data/autotrans_extracted_edus/"
 		
 	
 	# rs3_dir = "../../../code/paragraph_analysis/data/gcdt/rs3/"
@@ -38,19 +38,19 @@ if __name__ == '__main__':
 		os.makedirs(extracted_edu_dir)
 	
 	print("\n\no Start Extracting EDUS for language model: ", args.lang, "\n")
-	rs3_files = sorted(glob(rs3_dir + "*.rs3", recursive=False))
+	rs3_files = sorted(glob(rs3_dir + "**/*.rs3", recursive=False))
 	
 	for rs3_file in rs3_files:
-		basename = get_basename(rs3_file)
-		extracted_edu_file = extracted_edu_dir + basename + ".edus"
+		basename, branch = get_basename_and_branch(rs3_file)
+		extracted_edu_file = extracted_edu_dir + branch + os.sep + basename + ".edus"
 		
 		# if the edu file is newer than the rs3 file then don't translate this file
 		if os.path.exists(extracted_edu_file):
 			extracted_edu_modified_time = get_file_modified_time(extracted_edu_file)
 			original_modified_time = get_file_modified_time(rs3_file)
 			if extracted_edu_modified_time > original_modified_time:
-				# print("o Skipping %s since extracted edu file (%f) is newer than original (%f)"
-				#       % (basename, extracted_edu_modified_time, original_modified_time))
+				# print("o Skipping %s:%s since extracted edu file (%f) is newer than original (%f)"
+				#       % (branch, basename, extracted_edu_modified_time, original_modified_time))
 				continue
 		
 		extract_edus_from_rs3(rs3_file, extracted_edu_file=extracted_edu_file)

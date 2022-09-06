@@ -13,7 +13,7 @@ def read_text_file(text_file, include_xml=True):
 	if not include_xml:
 		text_lines = [x for x in text_lines if not x.strip().startswith("<")]
 	return text_lines
-	
+
 
 def write_parsed_file(output_parse, parsed_file):
 	with io.open(parsed_file, "w", encoding="utf8") as f_parsed:
@@ -29,8 +29,10 @@ def write_lines_file(output_lines, lines_file):
 	with io.open(lines_file, "w", encoding="utf8") as f_lines:
 		f_lines.write("\n".join(output_lines) + "\n")
 
-def get_basename(filepath):
-	return os.path.splitext(os.path.basename(filepath))[0]
+def get_basename_and_branch(filepath):
+	basename = os.path.splitext(os.path.basename(filepath))[0]
+	branch = filepath.split(os.sep)[-2]
+	return basename, branch
 
 def string_no_space(string):
 	return re.sub(r'\s+', '', string)

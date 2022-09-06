@@ -1,0 +1,153 @@
+1	WiMAX 未来 怎么 演变 资安 、 网络 业者 双赢	8	_	_	_	53	organization-heading_r	_	_
+2	【 2008年 5月 1日 讯 】	7	_	_	_	53	context-circumstance_r	_	_
+3	资讯 安全 ， 几乎 和 生活 息息 相关 ，	4	_	_	_	16	context-background_r	_	_
+4	而 科技 ，	0	_	_	_	3	adversative-contrast_m	_	_
+5	虽然 带来 了 不少 便利 ，	0	_	_	_	6	adversative-concession_r	_	_
+6	但 却 蕴含 着 不少 潜在 的 危机 。	0	_	_	_	4	same-unit_m	_	_
+7	必然 ， 每 个 人 都 想要 便利 ，	1	_	_	_	3	restatement-partial_r	_	_
+8	但 却 不 知 何时 身处 险境 。	0	_	_	_	7	adversative-contrast_m	_	_
+9	以	3	_	_	_	16	explanation-evidence_r	_	_
+10	目前 经济部 、 工研院 、 台北市 电脑 公会 主打 的	1	_	_	_	11	elaboration-attribute_r	_	_
+11	网络 未来 之 星	0	_	_	_	9	same-unit_m	_	_
+12	─ WiMAX	0	_	_	_	11	elaboration-attribute_r	_	_
+13	为 例 ，	0	_	_	_	9	same-unit_m	_	_
+14	虽然 被 普遍 认定 是 第四 代 ，	2	_	_	_	16	adversative-concession_r	_	_
+15	也 是 下 一 代 的 网络 标准 ，	0	_	_	_	14	joint-list_m	_	_
+16	但是 ，	2	_	_	_	31	context-circumstance_r	_	_
+17	随着 不少 网络 犯罪 问题 广 受 资安 业者 的 重视 ，	0	_	_	_	24	context-circumstance_r	_	_
+18	以及 行动 相关 设备	0	_	_	_	17	joint-list_m	_	_
+19	（ 例 ：	0	_	_	_	20	organization-preparation_r	_	_
+20	UMPC 、 Pocket PC 等 ） ，	0	_	_	_	18	elaboration-attribute_r	_	_
+21	将 有 可能	1	_	_	_	18	same-unit_m	_	_
+22	随着 WiMAX ，	0	_	_	_	23	context-circumstance_r	_	_
+23	而 大幅 提升 其 使用 族群 的 关系 ，	1	_	_	_	18	same-unit_m	_	_
+24	部分 资安 业者 ， 也 因此 对 这 项 技术 ， 抱持 着 质疑 的 态度 ，	0	_	_	_	16	same-unit_m	_	_
+25	毕竟 ， 这 项 新 技术 ， 既 期待 ，	1	_	_	_	16	explanation-justify_r	_	_
+26	又 怕 受 伤害 。	0	_	_	_	25	adversative-contrast_m	_	_
+27	尽管 ， 资安 业者 借由 数据 分析 ， 质疑 WiMAX 的 前景 ，	1	_	_	_	28	adversative-concession_r	_	_
+28	但 资讯 产业 ， 是 如何 解读 这 种	1	_	_	_	31	explanation-motivation_r	_	_
+29	可能 会 发生 的	0	_	_	_	30	elaboration-attribute_r	_	_
+30	问题 ？	0	_	_	_	28	same-unit_m	_	_
+31	因此 ， 借由 两 项 记者会 的 进行 ， 维基 新闻 记者 Rico Shen 先后 访问 了 微软 亚洲 研究院 院长 洪小文 ， 与 台北市 电脑 公会 副总干事 张笠 ，	6	_	_	_	53	context-background_r	_	_
+32	借由 他们 在 资讯 产业 的 经验 ， 来 解读 资安 业者 的 分析 。	0	_	_	_	31	joint-list_m	_	_
+33	洪小文 ：	1	_	_	_	35	attribution-positive_r	_	_
+34	资安 业者 的 力量 ， 并 非 水到渠成 ，	0	_	_	_	35	adversative-antithesis_r	_	_
+35	而 是 经验 上 的 累积	4	_	_	_	53	organization-heading_r	_	_
+36	资讯 科技 的 进步 ， 带来 很多 机会 ，	0	_	_	_	38	context-background_r	_	_
+37	但是 ， 安全 产业 对 资讯 安全 是 格外 重视 的 ，	0	_	_	_	36	adversative-contrast_m	_	_
+38	对 此 ， 您 对 资安 的 看法 ？	3	_	_	_	53	topic-question_r	_	_
+39	因为 在此之前 ， WiMAX 这 项 未来 网络 技术 ，	1	_	_	_	38	elaboration-additional_r	_	_
+40	虽然 将 会 带动 行动 族群 的 成长 ，	0	_	_	_	41	adversative-concession_r	_	_
+41	但 在 安全性 的 部分 ， 却 遭到	0	_	_	_	39	same-unit_m	_	_
+42	资安 业者 ， 提出	0	_	_	_	43	elaboration-attribute_r	_	_
+43	相当 的 质疑 。	0	_	_	_	39	same-unit_m	_	_
+44	安全 、 灵活性 ， 很 不 巧 地 ， 这 两 样 息息 相关 ，	1	_	_	_	53	causal-cause_r	_	_
+45	倘若 要 一 个 东西 ，	0	_	_	_	48	contingency-condition_r	_	_
+46	怎么 通 ，	0	_	_	_	47	contingency-condition_r	_	_
+47	怎么 行 ，	0	_	_	_	45	same-unit_m	_	_
+48	很 显然 地 ， 仍旧 有 安全 上 的 顾虑 ， 就 像是	0	_	_	_	44	explanation-justify_r	_	_
+49	一 个 家 可以 让 任何 人 进入 的	0	_	_	_	50	elaboration-attribute_r	_	_
+50	原理 ，	1	_	_	_	48	same-unit_m	_	_
+51	要 让 一 个 家 安全 ，	0	_	_	_	52	contingency-condition_r	_	_
+52	就 必须 要 花上 一 番 功夫 ，	2	_	_	_	48	explanation-justify_r	_	_
+53	因此 ， 安全 是 一 个 必经 的 走势 。	0	_	_	_	0	ROOT	_	_
+54	诚 如	0	_	_	_	53	explanation-justify_r	_	_
+55	您 所 提及 的	0	_	_	_	56	elaboration-attribute_r	_	_
+56	行动 安全 ， 相对 地 ，	0	_	_	_	54	same-unit_m	_	_
+57	一 个 技术 未 被 广泛 地 普及 时 ，	0	_	_	_	58	context-circumstance_r	_	_
+58	适当 的 质疑 就 是 给 这些	0	_	_	_	54	same-unit_m	_	_
+59	（ 安全 与 网络 ）	0	_	_	_	60	elaboration-attribute_r	_	_
+60	业者 一 个 很 好 的 机会 。	0	_	_	_	54	same-unit_m	_	_
+61	把 东西 都 锁 起来 ，	1	_	_	_	62	contingency-condition_r	_	_
+62	虽然 安全 ，	0	_	_	_	64	explanation-justify_r	_	_
+63	但 不 方便 ，	0	_	_	_	62	adversative-contrast_m	_	_
+64	因此 ， 人们 要 的 ， 反而 是 一 种 既 安全 又 方便 的 产物 ，	2	_	_	_	53	joint-other_m	_	_
+65	相对 地 ， 加密 、 密码 、 政策 等 要素 ， 或者是	1	_	_	_	64	causal-result_r	_	_
+66	以 Web 2.0 的 机制 所 进行 的	0	_	_	_	67	elaboration-attribute_r	_	_
+67	安全 防护 ， 就 更 显 重要 。	0	_	_	_	65	same-unit_m	_	_
+68	资讯 安全 ，	1	_	_	_	72	causal-cause_r	_	_
+69	有 无意 与 恶意 的 攻击者 ， 要 怎么 去 阻止 ，	0	_	_	_	70	purpose-goal_r	_	_
+70	就 要 先 一 步 地 进行 规划 ，	0	_	_	_	68	same-unit_m	_	_
+71	才 能 适当 地 完善 其 防护 措施 ，	1	_	_	_	68	causal-result_r	_	_
+72	因此 ， 资讯 安全 产业 ， 需要 长期 的 观察 与 研究 ， 与 适当 的 配套 措施 ，	2	_	_	_	64	joint-other_m	_	_
+73	而 不 是 一下子 有 解决 方案	0	_	_	_	74	contingency-condition_r	_	_
+74	就 算 了 。	0	_	_	_	72	adversative-contrast_m	_	_
+75	张笠 ：	1	_	_	_	77	attribution-positive_r	_	_
+76	无论 WiMAX 的 未来 如何 ，	0	_	_	_	77	adversative-concession_r	_	_
+77	攻方 、 守方 都 会 有 商机	4	_	_	_	82	organization-heading_r	_	_
+78	部分 资安 业者 ， 在 亚太 资安 论坛 中 ， 针对	0	_	_	_	81	context-background_r	_	_
+79	目前 公会 正在 推展 的	0	_	_	_	80	elaboration-attribute_r	_	_
+80	未来 网络 技术 WiMAX 进行 质疑 ，	0	_	_	_	78	same-unit_m	_	_
+81	对 此 ， 您 的 看法 ？	2	_	_	_	82	topic-question_r	_	_
+82	主要 的 厂商 ， 会 改变 资讯 产业 的 走向 ，	5	_	_	_	53	joint-other_m	_	_
+83	根据	0	_	_	_	82	mode-means_r	_	_
+84	我们	0	_	_	_	87	elaboration-attribute_r	_	_
+85	（ 电脑 公会 ）	0	_	_	_	84	elaboration-attribute_r	_	_
+86	新 选出 的	1	_	_	_	84	same-unit_m	_	_
+87	理事会 ，	0	_	_	_	83	same-unit_m	_	_
+88	因为 结构 上 ， 大多数 都 是 面板 与 笔记型 电脑 的 业者 ，	1	_	_	_	90	causal-cause_r	_	_
+89	只要 业界 的 大老 能 获得 共识 ，	0	_	_	_	90	contingency-condition_r	_	_
+90	走向 将 更加 明确 。	1	_	_	_	82	explanation-justify_r	_	_
+91	之前 洪小文 表示 ：	1	_	_	_	93	attribution-positive_r	_	_
+92	“ 人们 要 享受 一 个 新 的 技术 或 科技 时 ，	0	_	_	_	93	context-circumstance_r	_	_
+93	必要 的 周边 防护 ， 还是 要 有 的 。 ”	0	_	_	_	94	context-background_r	_	_
+94	您 的 看法 ？	2	_	_	_	108	topic-question_r	_	_
+95	这 是	4	_	_	_	99	organization-preparation_r	_	_
+96	绝对 不 能 否认 的	0	_	_	_	97	elaboration-attribute_r	_	_
+97	事实 ，	0	_	_	_	95	same-unit_m	_	_
+98	当 一 项 新 技术 正在 研发 时 ，	1	_	_	_	99	context-circumstance_r	_	_
+99	业界 大多 只 会 看 前景 ，	1	_	_	_	108	adversative-concession_r	_	_
+100	而 不 去 看 隐藏 的 因素 ，	0	_	_	_	99	adversative-contrast_m	_	_
+101	像是 资料 安全 的 问题 ，	2	_	_	_	99	explanation-evidence_r	_	_
+102	当 互联网 的 发展 刚 开始 时 ，	0	_	_	_	103	context-circumstance_r	_	_
+103	人们 绝对 不 知道 问题 的 严重性 ，	0	_	_	_	101	same-unit_m	_	_
+104	而	3	_	_	_	99	explanation-evidence_r	_	_
+105	您 说 的	0	_	_	_	106	elaboration-attribute_r	_	_
+106	WiMAX ， 目前 只 是 发展 中 的 产物 ，	0	_	_	_	104	same-unit_m	_	_
+107	但 却 因为 有 许多 意想不到 的 事情 ， 可能 在 未来 会 发生 ，	0	_	_	_	108	causal-cause_r	_	_
+108	所以 ， 商机 就 会 冒 出来 。	3	_	_	_	82	joint-other_m	_	_
+109	因此 ， 在 WiMAX 还 没 出来 前 ，	0	_	_	_	110	context-circumstance_r	_	_
+110	资讯 业者 的 质疑 是 ？	6	_	_	_	127	topic-question_r	_	_
+111	依照 目前 的 现况 ，	3	_	_	_	113	contingency-condition_r	_	_
+112	当 身处 在 一 个 宽带 或是 无线 网络 的 环境 内 ，	2	_	_	_	113	context-circumstance_r	_	_
+113	没 人 会 想到 任何	5	_	_	_	127	context-background_r	_	_
+114	（ 好 或 坏 的 ）	0	_	_	_	113	elaboration-attribute_r	_	_
+115	资讯流 的 出现 ，	1	_	_	_	113	same-unit_m	_	_
+116	不管是 理论 或 实务 ， 或是 过去 的 经验 ，	2	_	_	_	117	adversative-concession_r	_	_
+117	这些	4	_	_	_	113	adversative-contrast_m	_	_
+118	（ 议题 ）	0	_	_	_	117	elaboration-attribute_r	_	_
+119	是 绝对 会 被	1	_	_	_	117	same-unit_m	_	_
+120	（ 业者 ）	0	_	_	_	121	elaboration-additional_r	_	_
+121	关注 的 。	1	_	_	_	117	same-unit_m	_	_
+122	我 的 看法 是 ，	4	_	_	_	127	attribution-positive_r	_	_
+123	不管是 防守	2	_	_	_	127	adversative-concession_r	_	_
+124	（ 安全 ）	0	_	_	_	123	elaboration-attribute_r	_	_
+125	或 前景	1	_	_	_	123	same-unit_m	_	_
+126	（ 科技 ） ，	0	_	_	_	125	elaboration-attribute_r	_	_
+127	业者 在	3	_	_	_	82	joint-other_m	_	_
+128	追求 新 纪录 、 新 商机 的	0	_	_	_	129	elaboration-attribute_r	_	_
+129	时候 ， 他们	0	_	_	_	127	same-unit_m	_	_
+130	（ 业者 ）	1	_	_	_	129	elaboration-attribute_r	_	_
+131	一定 先 看 前景 ，	0	_	_	_	127	same-unit_m	_	_
+132	因此 ， 防守 这 部分 ， 则 会 让 资安	1	_	_	_	127	joint-list_m	_	_
+133	（ 像是 趋势 科技 等 ） ，	0	_	_	_	132	restatement-partial_r	_	_
+134	来 进行 主导 ，	1	_	_	_	132	same-unit_m	_	_
+135	无论 如何 ， 两 边 的 商机 都 在 。	3	_	_	_	127	restatement-partial_r	_	_
+136	总结	5	_	_	_	148	organization-heading_r	_	_
+137	“ 瞻前顾后 ” ， 这 是 一 种 处事 的 最佳 手段 ，	4	_	_	_	148	explanation-justify_r	_	_
+138	因为 做 一 件 事情 之前 ，	0	_	_	_	139	context-circumstance_r	_	_
+139	需要 有 适当 的 分析 ，	0	_	_	_	137	explanation-justify_r	_	_
+140	才 可能 知道 后果 会 是 如何 。	1	_	_	_	139	causal-result_r	_	_
+141	反观 WiMAX ，	2	_	_	_	143	organization-preparation_r	_	_
+142	虽然 它 是 一 个 未来 的 网络 趋势 ，	1	_	_	_	143	adversative-concession_r	_	_
+143	但 许多 业者 可能 只 看到 前面 的 好 ，	3	_	_	_	148	explanation-motivation_r	_	_
+144	却 看 不 见	0	_	_	_	143	adversative-contrast_m	_	_
+145	资安 业者 关注 的	0	_	_	_	146	elaboration-attribute_r	_	_
+146	潜在 危机 ，	0	_	_	_	144	same-unit_m	_	_
+147	因此 ， 若 能 适当 地 洞竹机先 ，	1	_	_	_	148	contingency-condition_r	_	_
+148	那么 ，	5	_	_	_	53	joint-other_m	_	_
+149	受 伤害 的	0	_	_	_	150	elaboration-attribute_r	_	_
+150	几率 就 会 减低 ，	0	_	_	_	148	same-unit_m	_	_
+151	毕竟 ， 安全 业者 有 个 名言 ：	0	_	_	_	152	attribution-positive_r	_	_
+152	“ 事先 预防 胜于 事后 补救 。 ”	2	_	_	_	148	explanation-evidence_r	_	_
+153	尽管 ， 一 个 产物 可能 对 两 种 不同 的 层面 ， 带来 不同 的 影响 。	1	_	_	_	152	adversative-concession_r	_	_
