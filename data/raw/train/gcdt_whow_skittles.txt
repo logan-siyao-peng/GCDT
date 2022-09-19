@@ -11,7 +11,6 @@
 
 <enumeration>
 每袋彩虹糖配1.9升伏特加
-
 大包彩虹糖
 </enumeration>
 
@@ -61,7 +60,6 @@
 
 <enumeration>
 时间过去三分之一后，将每瓶酒都用力摇一摇。
-
 时间过去三分之二后，再次摇晃酒瓶。
 </enumeration>
 

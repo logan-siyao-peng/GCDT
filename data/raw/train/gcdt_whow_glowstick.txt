@@ -101,7 +101,6 @@
 
 <enumeration>
 本方法用到了TCPO，而没有使用发光氨，TCPO正是使溶液持续发光的关键物质。
-
 不要用鼻子闻TCPO，TCPO会致癌。
 </enumeration>
 
