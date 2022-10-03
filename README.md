@@ -1,10 +1,19 @@
-# GUM_Chinese
+# GCDT: Georgetown Chinese Discourse Treebank
 
-A GUM-like RST dataset for Chinese
+GCDT is the largest (as of October 2022) hierarchical discourse treebank for Mandarin Chinese in the framework of Rhetorical Structure Theory (RST). 
+
+GCDT covers over 60K tokens across five genres of freely available text, using the same relation inventory as the contemporary RST treebank for English -- GUM (https://github.com/amir-zeldes/gum). 
+
+
 
 50 documents are collected with 10 from each of the five genres.
 
-63,000 tokens (updated on Jan 12 after gold tokenization)
+
+
+A link to the GUM splits included in README.md would be nice
+Attribution / Source of the file rst_cheatsheet.pdf
+Background information of the Connectives_in_CDTB.xlsx file
+
 
 
 ## Five Genres
@@ -14,73 +23,82 @@ A GUM-like RST dataset for Chinese
 - news (source: https://zh.wikinews.org/)
 - wikihow (source: https://zh.wikihow.com/)
 
-## Corpus Statistics
-
-### Total
-- 62908 tokens
-- 9842 EDUs
 
 
-### By Genre
-| Genre   |  Number of documents |  Number of tokens per document | Number of EDUs per document |
-|:----------:|:-------------:|------:|------:|
-| academic | 10 | 1416.9 | 204.9 |
-| bio | 10 |    1348.6 |	206 |
-| interview | 10 | 1146.5 | 183.2 |
-| news | 10 | 1124.9 | 166 |
-| wikihow | 10 | 1253.9 | 224.1 |
+## Corpus Statistics 
+The corpus contains 50 documents, 10 from each of the five genres below.
+In total, there are 62905 tokens and  9717 EDUs. 
+We provide an 8:1:1 train:dev:test split for each genre as shown in the table below.
 
-### Train/Dev/Test Partitions
-| Train | other 40 documents (8 from each genre) |
-|:----------:|:-------------:|
-| Dev | gcdt_academic_peoples, gcdt_bio_byron, gcdt_interview_ward, gcdt_news_famine, gcdt_whow_hiking |
-| Test | gcdt_academic_dingzhen, gcdt_bio_dvorak, gcdt_interview_wimax, gcdt_news_simplified, gcdt_whow_thanksgiving |
+| Genre   |  #docs |  Avg #tokens/doc | Avg #EDUs/doc | Source | Dev doc | Test doc |
+|:----------:|:-------------:|------:|------:|:-------------:|:-------------:|:-------------:|
+| academic | 10 | 1416.8 | 203.3 | https://www.hanspub.org/ | gcdt_academic_peoples | gcdt_academic_dingzhen |
+| bio | 10 | 1348.5 | 202.1 | https://zh.wikipedia.org/ | gcdt_bio_byron | gcdt_bio_dvorak |
+| interview | 10 | 1146.4 | 181.2 | https://zh.wikinews.org/ | gcdt_interview_ward | gcdt_interview_wimax |
+| news | 10 | 1124.9 | 165.2 | https://zh.wikinews.org/ | gcdt_news_famine | gcdt_news_simplified |
+| wikihow | 10 | 1253.9 | 219.9 | https://zh.wikihow.com/ | gcdt_whow_hiking | gcdt_whow_thanksgiving |
 
-### relation distribution
-TODO: check which ones to include 
+
+
+## Citing
+
+To cite this corpus in general, please refer to the following article:
+
+TODO
+
+```
+TODO
+```
+
+To cite the Chinese RST annotation guideline, please cite the following:
+
+TODO
+
+```
+TODO
+```
+
+
+## Relation distributions in GCDT
+We present the GCDT's distribution of the 32 discourse relations in the table below.
 
 | relation name | total counts | percentage |
 |:----------:|------:|------:|
-| joint-list | 2865 | 22.32 |
-| same-unit | 2402 | 18.71 |
-| elaboration-attribute | 970 | 7.56 |
-| joint-sequence | 628 | 4.89 |
-| joint-other | 606 | 4.72 |
-| attribution-positive | 575 | 4.48 |
-| elaboration-additional | 538 | 4.19 |
-| explanation-evidence | 528 | 4.11 |
-| adversative-contrast | 428 | 3.33 |
-| context-circumstance | 393 | 3.06 |
-| context-background | 367 | 2.86 |
-| organization-preparation | 299 | 2.33 |
-| causal-cause | 252 | 1.96 |
-| organization-heading | 223 | 1.74 |
-| contingency-condition | 219 | 1.71 |
-| adversative-concession | 214 | 1.67 |
-| purpose-goal | 196 | 1.53 |
-| restatement-partial | 180 | 1.40 |
-| evaluation-comment | 151 | 1.18 |
-| mode-means | 139 | 1.08 |
-| causal-result | 115 | 0.90 |
-| explanation-justify | 108 | 0.84 |
-| joint-disjunction | 84 | 0.65 |
-| adversative-antithesis | 73 | 0.57 |
-| mode-manner | 67 | 0.52 |
-| topic-question | 57 | 0.44 |
-| restatement-repetition | 38 | 0.30 |
-| organization-phatic | 34 | 0.26 |
-| attribution-negative | 32 | 0.25 |
-| purpose-attribute | 28 | 0.22 |
-| explanation-motivation | 24 | 0.19 |
-| topic-solutionhood | 4 | 0.03 |
-| cause-result | 1 | 0.01 |
+| joint-list | 2808 | 22.16 |
+| same-unit | 2375 | 18.74 |
+| elaboration-attribute | 992 | 7.83 |
+| joint-sequence | 647 | 5.10 |
+| joint-other | 595 | 4.69 |
+| elaboration-additional | 551 | 4.35 |
+| attribution-positive | 551 | 4.35 |
+| explanation-evidence | 522 | 4.12 |
+| adversative-contrast | 412 | 3.25 |
+| context-circumstance | 350 | 2.76 |
+| context-background | 350 | 2.76 |
+| organization-preparation | 288 | 2.27 |
+| causal-cause | 238 | 1.88 |
+| contingency-condition | 228 | 1.80 |
+| organization-heading | 225 | 1.78 |
+| adversative-concession | 208 | 1.64 |
+| purpose-goal | 193 | 1.52 |
+| restatement-partial | 164 | 1.29 |
+| evaluation-comment | 136 | 1.07 |
+| mode-means | 132 | 1.04 |
+| causal-result | 123 | 0.97 |
+| explanation-justify | 120 | 0.95 |
+| joint-disjunction | 92 | 0.73 |
+| adversative-antithesis | 78 | 0.62 |
+| mode-manner | 75 | 0.59 |
+| topic-question | 57 | 0.45 |
+| restatement-repetition | 40 | 0.32 |
+| explanation-motivation | 35 | 0.28 |
+| organization-phatic | 33 | 0.26 |
+| attribution-negative | 29 | 0.23 |
+| purpose-attribute | 26 | 0.21 |
+| topic-solutionhood | 1 | 0.01 |
 
 ## Preprocessing Steps
 - XML and metadata annotations (gold)
 - Paragraph and sentence splits (gold)
 - Tokenization (gold) 
 - Dependency parses (predicted by stanza)
-
-## RST annotations
-Guideline: see https://docs.google.com/document/d/1OmeqkDIYg5IM_pmULMzDJi__FAe7kzJmMdLtZxxd1LE/edit?usp=sharing
-

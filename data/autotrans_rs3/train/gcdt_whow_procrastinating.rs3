@@ -201,7 +201,7 @@
 		<segment id="163" parent="504" relname="explanation-evidence">-LSB- 8 -RSB- // -LSB- 8 -RSB-</segment>
 		<segment id="164" parent="165" relname="organization-preparation">方法 2 // Method 2</segment>
 		<segment id="165" parent="507" relname="span">减少 环境 的 干扰 // Reduce environmental disturbances</segment>
-		<segment id="166" parent="508" relname="same-unit">1 选择 // 1 select</segment>
+		<segment id="166" parent="508" relname="same-unit">1 选择 // 1 selection</segment>
 		<segment id="167" parent="168" relname="elaboration-attribute">适合 你 的 // suitable for you</segment>
 		<segment id="168" parent="509" relname="span">工作 环境 。 // working environment .</segment>
 		<segment id="169" parent="170" relname="attribution-positive">想 一 想 // think about it</segment>

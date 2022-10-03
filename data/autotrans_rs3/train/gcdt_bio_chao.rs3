@@ -40,7 +40,7 @@
 		<segment id="2" parent="233" relname="span">赵元任 // Zhao Yuanren</segment>
 		<segment id="3" parent="4" relname="organization-preparation">（ 英语 ： // ( English :</segment>
 		<segment id="4" parent="231" relname="span">Yuen Ren Chao ， 1892年 11月 3日 － 1982年 2月 24日 // Yuen Ren Chao, November 3, 1892 - February 24, 1982</segment>
-		<segment id="5" parent="231" relname="explanation-evidence">-LSB- 8 -RSB- ） ， // -LSB- 8 -RSB- ) ,</segment>
+		<segment id="5" parent="231" relname="explanation-evidence">-LSB- 8 -RSB- ） ， // -LSB-8-RSB-),</segment>
 		<segment id="6" parent="234" relname="same-unit">字 宜仲 ， // The word Yizhong,</segment>
 		<segment id="7" parent="235" relname="joint-list">生于 天津 ， 江苏 阳湖人 ， 语言学家 ， // Born in Tianjin, Yanghu, Jiangsu, linguist,</segment>
 		<segment id="8" parent="235" relname="joint-list">精研 北方话 与 吴语 方言 的 音系 。 // To study the phonology of northern dialect and Wu dialect.</segment>
@@ -90,7 +90,7 @@
 		<segment id="52" parent="255" relname="span">后 再 获 美国 哈佛 大学 博士后 旅行 奖学金 // Afterwards, he won the Harvard University Postdoctoral Travel Fellowship.</segment>
 		<segment id="53" parent="254" relname="restatement-repetition">— 谢尔登 博士后 研究 奖学金 // — Sheldon Postdoctoral Research Fellowship</segment>
 		<segment id="54" parent="254" relname="restatement-repetition">（ Post－doctorate Sheldon Fellowship ） // (Post-doctorate Sheldon Fellowship)</segment>
-		<segment id="55" parent="255" relname="explanation-evidence">-LSB- 11 -RSB- -LSB- 12 -RSB- -LSB- 13 -RSB- ， // -LSB-11-RSB--LSB-12-RSB--LSB-13-RSB-,</segment>
+		<segment id="55" parent="255" relname="explanation-evidence">-LSB- 11 -RSB- -LSB- 12 -RSB- -LSB- 13 -RSB- ， // -LSB- 11 -RSB- -LSB- 12 -RSB- -LSB- 13 -RSB-,</segment>
 		<segment id="56" parent="257" relname="joint-list">到 美国 芝加哥 大学 、 加州 大学 伯克利 分校 游学 ， // Study tours to the University of Chicago and the University of California, Berkeley,</segment>
 		<segment id="57" parent="58" relname="elaboration-additional">以 《 科学 的 哲学 》 为 题 // Titled "The Philosophy of Science"</segment>
 		<segment id="58" parent="258" relname="span">进行 博士后 研究 。 // Conduct post-doctoral research.</segment>
@@ -120,7 +120,7 @@
 		<segment id="82" parent="273" relname="joint-list">1924年 升任 哈佛 大学 中文系 教授 ， // In 1924, he was promoted to professor of Chinese at Harvard University.</segment>
 		<segment id="83" parent="273" relname="joint-list">同年 推荐 梅光迪 到 哈佛 大学 任教 。 // In the same year, Mei Guangdi was recommended to teach at Harvard University.</segment>
 		<segment id="84" parent="274" relname="joint-list">其后 ， 任赴 欧洲 研究 语言学 ， // After that, Ren went to Europe to study linguistics.</segment>
-		<segment id="85" parent="274" relname="joint-list">结识 英国 语言学家 丹尼尔·琼斯 、 法国 语言学家 安东尼·梅耶 ； 欧洲 汉学家 高本汉 、 伯希和 及 昂利·马伯乐 等 。 // Get to know the British linguist Daniel Jones, the French linguist Antoine Mayer; European sinologists Galbenham, Percy and Henri Marble, etc.</segment>
+		<segment id="85" parent="274" relname="joint-list">结识 英国 语言学家 丹尼尔·琼斯 、 法国 语言学家 安东尼·梅耶 ； 欧洲 汉学家 高本汉 、 伯希和 及 昂利·马伯乐 等 。 // Get to know British linguist Daniel Jones , French linguist Anthony Mayer ; European sinologists Galbenham , Percy and Henri Marble , etc .</segment>
 		<segment id="86" parent="275" relname="joint-list">1925年 － 1929年 应聘 清华 大学 清华 国学 研究院 导师 ， // From 1925 to 1929, he was a tutor of Tsinghua Institute of Chinese Studies, Tsinghua University.</segment>
 		<segment id="87" parent="276" relname="span">为 当时 时称 的 四 大 导师 // The four teachers at that time</segment>
 		<segment id="88" parent="87" relname="elaboration-attribute">（ 王国维 、 梁启超 、 陈寅恪 、 赵元任 ） // (Wang Guowei, Liang Qichao, Chen Yinque, Zhao Yuanren)</segment>
@@ -171,7 +171,7 @@
 		<segment id="133" parent="308" relname="joint-list">进 私立 溪山 学校 // Enter the private Kheshan School</segment>
 		<segment id="134" parent="308" relname="joint-list">学 英文 。 // learn English .</segment>
 		<segment id="135" parent="310" relname="joint-list">1907年 15 岁 南京 江南 高等 学校 预科 读书 ， // In 1907, at the age of 15, he studied in the preparatory course of Jiangnan University in Nanjing.</segment>
-		<segment id="136" parent="311" relname="span">跟 美国人 嘉化 // Jiahua with American</segment>
+		<segment id="136" parent="311" relname="span">跟 美国人 嘉化 // Jiahua with the Americans</segment>
 		<segment id="137" parent="136" relname="restatement-partial">（ David John Carver ） // (David John Carver)</segment>
 		<segment id="138" parent="312" relname="same-unit">学 英文 ， // learn English ,</segment>
 		<segment id="139" parent="310" relname="joint-list">选修 拉丁文 和 德文 ， // Elective Latin and German ,</segment>
@@ -237,7 +237,7 @@
 		<segment id="199" parent="365" relname="span">三女 // three daughters</segment>
 		<segment id="200" parent="199" relname="elaboration-attribute">－ 赵来思 // - Zhao Laisi</segment>
 		<segment id="201" parent="365" relname="elaboration-attribute">（ Lensey , 1929年 6月 14日 — ） ， // (Leney, 14 June 1929-),</segment>
-		<segment id="202" parent="367" relname="same-unit">伯克利 加州 大学 数学 研究所 毕业 ， // Graduated from the Mathematics Institute at the University of California, Berkeley.</segment>
+		<segment id="202" parent="367" relname="same-unit">伯克利 加州 大学 数学 研究所 毕业 ， // Graduated from UC Berkeley's Institute of Mathematics,</segment>
 		<segment id="203" parent="368" relname="joint-list">出版 过 23 本 书 包括 一些 儿童 读物 ， // Published 23 books including some children's books,</segment>
 		<segment id="204" parent="370" relname="span">其 夫婿 波冈维作 // His husband-in-law Bogan Weizuo</segment>
 		<segment id="205" parent="204" relname="elaboration-attribute">（ 1928年 4月 25日 — ） // (April 25, 1928 - )</segment>

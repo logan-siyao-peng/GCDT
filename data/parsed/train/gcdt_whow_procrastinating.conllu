@@ -118,9 +118,9 @@
 17	事情	事情	NN	NN	_	13	advmod:loc	_	start_char=40|end_char=42
 18	上	上	LC	LC	_	17	case	_	start_char=43|end_char=44
 19	。	。	PU	PU	_	5	punct	_	start_char=45|end_char=46
-20	-LSB-	-LSB-	VV	VV	_	5	conj	_	start_char=47|end_char=48
-21	1	1	CD	CD	_	20	dep	_	start_char=49|end_char=50
-22	-RSB-	-RSB-	PU	PU	_	5	punct	_	start_char=51|end_char=52
+20	-LSB-	-LSB-	PU	PU	_	21	punct	_	start_char=47|end_char=52
+21	1	1	CD	CD	_	22	dep	_	start_char=53|end_char=54
+22	-RSB-	-RSB-	X	X	_	5	dep	_	start_char=55|end_char=60
 
 1	自责	自责	NN	NN	_	5	acl	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	1	cc	_	start_char=3|end_char=4
@@ -252,12 +252,12 @@
 13	分钟	分钟	M	M	_	12	mark:clf	_	start_char=32|end_char=34
 14	了	了	SP	SP	_	10	discourse	_	start_char=35|end_char=36
 15	。	。	PU	PU	_	1	punct	_	start_char=37|end_char=38
-16	-LSB-	-LSB-	VV	VV	_	1	dep	_	start_char=39|end_char=40
-17	2	2	CD	CD	_	16	dep	_	start_char=41|end_char=42
-18	-RSB-	-RSB-	PU	PU	_	1	punct	_	start_char=43|end_char=44
+16	-LSB-	-LSB-	URL	URL	_	1	dep	_	start_char=39|end_char=44
+17	2	2	CD	CD	_	1	dep	_	start_char=45|end_char=46
+18	-RSB-	-RSB-	X	X	_	1	dep	_	start_char=47|end_char=52
 
 1	如果	如果	CS	CS	_	2	advmod	_	start_char=0|end_char=2
-2	感觉	感觉	VV	VV	_	12	dep	_	start_char=3|end_char=5
+2	感觉	感觉	VV	VV	_	20	dep	_	start_char=3|end_char=5
 3	15	15	CD	CD	_	7	nsubj	_	start_char=6|end_char=8
 4	分钟	分钟	M	M	_	3	mark:clf	_	start_char=9|end_char=11
 5	还是	还是	AD	AD	_	7	advmod	_	start_char=12|end_char=14
@@ -267,15 +267,15 @@
 9	不如	不如	AD	AD	_	12	advmod	_	start_char=21|end_char=23
 10	给	给	P	P	_	11	case	_	start_char=24|end_char=25
 11	自己	自己	PN	PN	_	12	nmod:prep	_	start_char=26|end_char=28
-12	规定	规定	VV	VV	_	0	root	_	start_char=29|end_char=31
+12	规定	规定	VV	VV	_	20	dep	_	start_char=29|end_char=31
 13	3	3	CD	CD	_	16	nummod	_	start_char=32|end_char=33
 14	分钟	分钟	M	M	_	13	mark:clf	_	start_char=34|end_char=36
 15	的	的	DEG	DEG	_	13	case	_	start_char=37|end_char=38
 16	工作量	工作量	NN	NN	_	12	dobj	_	start_char=39|end_char=42
-17	。	。	PU	PU	_	12	punct	_	start_char=43|end_char=44
-18	-LSB-	-LSB-	VV	VV	_	12	conj	_	start_char=45|end_char=46
-19	3	3	CD	CD	_	18	dep	_	start_char=47|end_char=48
-20	-RSB-	-RSB-	PU	PU	_	12	punct	_	start_char=49|end_char=50
+17	。	。	PU	PU	_	20	punct	_	start_char=43|end_char=44
+18	-LSB-	-LSB-	URL	URL	_	20	dep	_	start_char=45|end_char=50
+19	3	3	CD	CD	_	20	dep	_	start_char=51|end_char=52
+20	-RSB-	-RSB-	NN	NN	_	0	root	_	start_char=53|end_char=58
 
 1	做完	做完	VV	VV	_	9	advcl:loc	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	5	nummod	_	start_char=3|end_char=4
@@ -374,9 +374,9 @@
 38	向前	向前	AD	AD	_	39	advmod	_	start_char=86|end_char=88
 39	推进	推进	VV	VV	_	9	conj	_	start_char=89|end_char=91
 40	。	。	PU	PU	_	9	punct	_	start_char=92|end_char=93
-41	-LSB-	-LSB-	NN	NN	_	39	dep	_	start_char=94|end_char=95
-42	4	4	CD	CD	_	41	dep	_	start_char=96|end_char=97
-43	-RSB-	-RSB-	M	M	_	42	mark:clf	_	start_char=98|end_char=99
+41	-LSB-	-LSB-	PU	PU	_	43	punct	_	start_char=94|end_char=99
+42	4	4	CD	CD	_	43	dep	_	start_char=100|end_char=101
+43	-RSB-	-RSB-	NN	NN	_	9	dep	_	start_char=102|end_char=107
 
 1	举	举	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	个	个	M	M	_	3	nummod	_	start_char=2|end_char=3
@@ -438,9 +438,9 @@
 16	一	一	CD	CD	_	15	nmod:range	_	start_char=40|end_char=41
 17	次	次	M	M	_	16	mark:clf	_	start_char=42|end_char=43
 18	。	。	PU	PU	_	5	punct	_	start_char=44|end_char=45
-19	-LSB-	-LSB-	VV	VV	_	5	conj	_	start_char=46|end_char=47
-20	5	5	CD	CD	_	19	nmod:range	_	start_char=48|end_char=49
-21	-RSB-	-RSB-	M	M	_	20	mark:clf	_	start_char=50|end_char=51
+19	-LSB-	-LSB-	FW	FW	_	21	dep	_	start_char=46|end_char=51
+20	5	5	CD	CD	_	21	dep	_	start_char=52|end_char=53
+21	-RSB-	-RSB-	NN	NN	_	5	conj	_	start_char=54|end_char=59
 
 1	不	不	AD	AD	_	3	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
@@ -707,15 +707,15 @@
 7	自己	自己	PN	PN	_	8	nmod:prep	_	start_char=14|end_char=16
 8	对话	对话	VV	VV	_	1	ccomp	_	start_char=17|end_char=19
 9	，	，	PU	PU	_	1	punct	_	start_char=20|end_char=21
-10	告诉	告诉	VV	VV	_	1	conj	_	start_char=22|end_char=24
+10	告诉	告诉	VV	VV	_	1	dep	_	start_char=22|end_char=24
 11	自己	自己	PN	PN	_	10	dobj	_	start_char=25|end_char=27
 12	一定	一定	AD	AD	_	14	advmod	_	start_char=28|end_char=30
 13	能	能	VV	VV	_	14	aux:modal	_	start_char=31|end_char=32
 14	做到	做到	VV	VV	_	10	ccomp	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	1	punct	_	start_char=36|end_char=37
-16	-LSB-	-LSB-	VV	VV	_	14	conj	_	start_char=38|end_char=39
-17	6	6	CD	CD	_	16	nmod:range	_	start_char=40|end_char=41
-18	-RSB-	-RSB-	PU	PU	_	1	punct	_	start_char=42|end_char=43
+16	-LSB-	-LSB-	URL	URL	_	1	dep	_	start_char=38|end_char=43
+17	6	6	CD	CD	_	1	dep	_	start_char=44|end_char=45
+18	-RSB-	-RSB-	X	X	_	1	dep	_	start_char=46|end_char=51
 
 1	你	你	PN	PN	_	7	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	7	aux:modal	_	start_char=2|end_char=4
@@ -867,15 +867,15 @@
 3	都	都	AD	AD	_	4	advmod	_	start_char=6|end_char=7
 4	没有	没有	AD	AD	_	0	root	_	start_char=8|end_char=10
 5	，	，	PU	PU	_	4	punct	_	start_char=11|end_char=12
-6	你	你	PN	PN	_	7	nsubj	_	start_char=13|end_char=14
-7	拿	拿	VV	VV	_	4	dep	_	start_char=15|end_char=16
-8	什么	什么	PN	PN	_	7	dobj	_	start_char=17|end_char=19
-9	改	改	VV	VV	_	7	ccomp	_	start_char=20|end_char=21
-10	呢	呢	SP	SP	_	7	discourse	_	start_char=22|end_char=23
-11	？	？	PU	PU	_	4	punct	_	start_char=24|end_char=25
-12	-LSB-	-LSB-	VV	VV	_	4	dep	_	start_char=26|end_char=27
-13	7	7	CD	CD	_	12	nmod:range	_	start_char=28|end_char=29
-14	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=30|end_char=31
+6	你	你	PN	PN	_	9	nsubj	_	start_char=13|end_char=14
+7	拿	拿	P	P	_	8	case	_	start_char=15|end_char=16
+8	什么	什么	PN	PN	_	9	nmod:prep	_	start_char=17|end_char=19
+9	改	改	VV	VV	_	4	dep	_	start_char=20|end_char=21
+10	呢	呢	SP	SP	_	9	discourse	_	start_char=22|end_char=23
+11	？	？	PU	PU	_	14	punct	_	start_char=24|end_char=25
+12	-LSB-	-LSB-	URL	URL	_	14	dep	_	start_char=26|end_char=31
+13	7	7	CD	CD	_	14	dep	_	start_char=32|end_char=33
+14	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=34|end_char=39
 
 1	7	7	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	设定	设定	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
@@ -939,9 +939,9 @@
 12	的	的	DEG	DEG	_	10	case	_	start_char=28|end_char=29
 13	艰辛	艰辛	NN	NN	_	8	dobj	_	start_char=30|end_char=32
 14	。	。	PU	PU	_	1	punct	_	start_char=33|end_char=34
-15	-LSB-	-LSB-	VV	VV	_	1	conj	_	start_char=35|end_char=36
-16	8	8	CD	CD	_	15	nmod:range	_	start_char=37|end_char=38
-17	-RSB-	-RSB-	M	M	_	16	mark:clf	_	start_char=39|end_char=40
+15	-LSB-	-LSB-	PU	PU	_	1	punct	_	start_char=35|end_char=40
+16	8	8	CD	CD	_	1	dep	_	start_char=41|end_char=42
+17	-RSB-	-RSB-	X	X	_	1	dep	_	start_char=43|end_char=48
 
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
@@ -1100,9 +1100,9 @@
 15	应用	应用	NN	NN	_	16	compound:nn	_	start_char=37|end_char=39
 16	程序	程序	NN	NN	_	7	dobj	_	start_char=40|end_char=42
 17	。	。	PU	PU	_	7	punct	_	start_char=43|end_char=44
-18	-LSB-	-LSB-	VV	VV	_	7	conj	_	start_char=45|end_char=46
-19	9	9	CD	CD	_	18	nmod:range	_	start_char=47|end_char=48
-20	-RSB-	-RSB-	M	M	_	19	mark:clf	_	start_char=49|end_char=50
+18	-LSB-	-LSB-	PU	PU	_	7	punct	_	start_char=45|end_char=50
+19	9	9	CD	CD	_	7	dep	_	start_char=51|end_char=52
+20	-RSB-	-RSB-	X	X	_	7	dep	_	start_char=53|end_char=58
 
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	戒	戒	NN	NN	_	3	compound:nn	_	start_char=2|end_char=3
@@ -1266,9 +1266,9 @@
 14	应用	应用	NN	NN	_	15	compound:nn	_	start_char=42|end_char=44
 15	程序	程序	NN	NN	_	10	dobj	_	start_char=45|end_char=47
 16	。	。	PU	PU	_	10	punct	_	start_char=48|end_char=49
-17	-LSB-	-LSB-	VV	VV	_	10	conj	_	start_char=50|end_char=51
-18	10	10	CD	CD	_	17	nmod:range	_	start_char=52|end_char=54
-19	-RSB-	-RSB-	M	M	_	18	mark:clf	_	start_char=55|end_char=56
+17	-LSB-	-LSB-	URL	URL	_	10	dep	_	start_char=50|end_char=55
+18	10	10	CD	CD	_	10	dep	_	start_char=56|end_char=58
+19	-RSB-	-RSB-	X	X	_	10	dep	_	start_char=59|end_char=64
 
 1	如果	如果	CS	CS	_	8	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	6	nmod:assmod	_	start_char=3|end_char=4
@@ -1460,20 +1460,20 @@
 15	类似	类似	JJ	JJ	_	17	amod	_	start_char=34|end_char=36
 16	的	的	DEG	DEG	_	15	case	_	start_char=37|end_char=38
 17	设备	设备	NN	NN	_	13	dobj	_	start_char=39|end_char=41
-18	，	，	PU	PU	_	30	punct	_	start_char=42|end_char=43
-19	比如	比如	AD	AD	_	29	advmod	_	start_char=44|end_char=46
+18	，	，	PU	PU	_	27	punct	_	start_char=42|end_char=43
+19	比如	比如	AD	AD	_	27	advmod	_	start_char=44|end_char=46
 20	平板	平板	NN	NN	_	27	conj	_	start_char=47|end_char=49
 21	、	、	PU	PU	_	27	punct	_	start_char=50|end_char=51
 22	Kindles	Kindles	NN	NN	_	24	compound:nn	_	start_char=52|end_char=59
 23	电子	电子	NN	NN	_	24	compound:nn	_	start_char=60|end_char=62
 24	阅读器	阅读器	NN	NN	_	27	dep	_	start_char=63|end_char=66
-25	，	，	PU	PU	_	30	punct	_	start_char=67|end_char=68
+25	，	，	PU	PU	_	27	punct	_	start_char=67|end_char=68
 26	甚至是	甚至是	CC	CC	_	27	cc	_	start_char=69|end_char=72
-27	电脑	电脑	NN	NN	_	29	dep	_	start_char=73|end_char=75
-28	。	。	PU	PU	_	29	punct	_	start_char=76|end_char=77
-29	-LSB-	-LSB-	NN	NN	_	30	dep	_	start_char=78|end_char=79
-30	11	11	CD	CD	_	13	nmod:range	_	start_char=80|end_char=82
-31	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=83|end_char=84
+27	电脑	电脑	NN	NN	_	30	dep	_	start_char=73|end_char=75
+28	。	。	PU	PU	_	30	punct	_	start_char=76|end_char=77
+29	-LSB-	-LSB-	URL	URL	_	30	dep	_	start_char=78|end_char=83
+30	11	11	CD	CD	_	13	dep	_	start_char=84|end_char=86
+31	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=87|end_char=92
 
 1	如果	如果	CS	CS	_	9	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	9	nsubj	_	start_char=3|end_char=4
@@ -1545,9 +1545,9 @@
 6	纯	纯	JJ	JJ	_	7	amod	_	start_char=12|end_char=13
 7	音乐	音乐	NN	NN	_	2	dobj	_	start_char=14|end_char=16
 8	。	。	PU	PU	_	2	punct	_	start_char=17|end_char=18
-9	-LSB-	-LSB-	VV	VV	_	2	conj	_	start_char=19|end_char=20
-10	12	12	CD	CD	_	9	nmod:range	_	start_char=21|end_char=23
-11	-RSB-	-RSB-	M	M	_	10	mark:clf	_	start_char=24|end_char=25
+9	-LSB-	-LSB-	URL	URL	_	10	dep	_	start_char=19|end_char=24
+10	12	12	CD	CD	_	2	dep	_	start_char=25|end_char=27
+11	-RSB-	-RSB-	X	X	_	2	dep	_	start_char=28|end_char=33
 
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	3	3	CD	CD	_	1	dep	_	start_char=3|end_char=4
@@ -1607,11 +1607,11 @@
 29	目标	目标	NN	NN	_	15	dobj	_	start_char=69|end_char=71
 30	。	。	PU	PU	_	6	punct	_	start_char=72|end_char=73
 
-1	写下	写下	VV	VV	_	5	dep	_	start_char=0|end_char=2
+1	写下	写下	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	待办	待办	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	清单	清单	NN	NN	_	1	dobj	_	start_char=6|end_char=8
 4	可	可	VV	VV	_	5	aux:modal	_	start_char=9|end_char=10
-5	帮	帮	VV	VV	_	0	root	_	start_char=11|end_char=12
+5	帮	帮	VV	VV	_	1	conj	_	start_char=11|end_char=12
 6	你	你	PN	PN	_	7	nsubj	_	start_char=13|end_char=14
 7	计划	计划	VV	VV	_	5	ccomp	_	start_char=15|end_char=17
 8	好	好	AD	AD	_	9	advmod	_	start_char=18|end_char=19
@@ -1621,11 +1621,11 @@
 12	要	要	VV	VV	_	13	xcomp	_	start_char=29|end_char=30
 13	做	做	VV	VV	_	15	acl	_	start_char=31|end_char=32
 14	的	的	DEC	DEC	_	13	mark	_	start_char=33|end_char=34
-15	事情	事情	NN	NN	_	17	nsubj	_	start_char=35|end_char=37
-16	。	。	PU	PU	_	17	punct	_	start_char=38|end_char=39
-17	-LSB-	-LSB-	VV	VV	_	5	conj	_	start_char=40|end_char=41
-18	13	13	CD	CD	_	17	nmod:range	_	start_char=42|end_char=44
-19	-RSB-	-RSB-	PU	PU	_	17	punct	_	start_char=45|end_char=46
+15	事情	事情	NN	NN	_	5	dobj	_	start_char=35|end_char=37
+16	。	。	PU	PU	_	1	punct	_	start_char=38|end_char=39
+17	-LSB-	-LSB-	PU	PU	_	18	punct	_	start_char=40|end_char=45
+18	13	13	CD	CD	_	19	dep	_	start_char=46|end_char=48
+19	-RSB-	-RSB-	X	X	_	1	dep	_	start_char=49|end_char=54
 
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	纸上	纸上	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
@@ -1726,7 +1726,7 @@
 7	待办	待办	NN	NN	_	8	compound:nn	_	start_char=16|end_char=18
 8	清单	清单	NN	NN	_	4	advmod:loc	_	start_char=19|end_char=21
 9	里	里	LC	LC	_	8	case	_	start_char=22|end_char=23
-10	，	，	PU	PU	_	12	punct	_	start_char=24|end_char=25
+10	，	，	PU	PU	_	4	punct	_	start_char=24|end_char=25
 11	同样	同样	AD	AD	_	12	advmod	_	start_char=26|end_char=28
 12	设置	设置	VV	VV	_	4	conj	_	start_char=29|end_char=31
 13	好	好	JJ	JJ	_	14	amod	_	start_char=32|end_char=33
@@ -1734,10 +1734,10 @@
 15	的	的	DEG	DEG	_	14	case	_	start_char=37|end_char=38
 16	截止	截止	NN	NN	_	17	compound:nn	_	start_char=39|end_char=41
 17	时间	时间	NN	NN	_	12	dobj	_	start_char=42|end_char=44
-18	。	。	PU	PU	_	12	punct	_	start_char=45|end_char=46
-19	-LSB-	-LSB-	VV	VV	_	12	conj	_	start_char=47|end_char=48
-20	14	14	CD	CD	_	19	nmod:range	_	start_char=49|end_char=51
-21	-RSB-	-RSB-	M	M	_	20	mark:clf	_	start_char=52|end_char=53
+18	。	。	PU	PU	_	21	punct	_	start_char=45|end_char=46
+19	-LSB-	-LSB-	URL	URL	_	21	dep	_	start_char=47|end_char=52
+20	14	14	CD	CD	_	21	dep	_	start_char=53|end_char=55
+21	-RSB-	-RSB-	NN	NN	_	12	dobj	_	start_char=56|end_char=61
 
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	计划表	计划表	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=5
@@ -1918,10 +1918,10 @@
 31	的	的	DEG	DEG	_	30	case	_	start_char=73|end_char=74
 32	长期	长期	JJ	JJ	_	33	amod	_	start_char=75|end_char=77
 33	规划	规划	NN	NN	_	24	dobj	_	start_char=78|end_char=80
-34	。	。	PU	PU	_	24	punct	_	start_char=81|end_char=82
-35	-LSB-	-LSB-	VV	VV	_	24	conj	_	start_char=83|end_char=84
-36	15	15	CD	CD	_	35	nmod:range	_	start_char=85|end_char=87
-37	-RSB-	-RSB-	M	M	_	36	mark:clf	_	start_char=88|end_char=89
+34	。	。	PU	PU	_	6	punct	_	start_char=81|end_char=82
+35	-LSB-	-LSB-	URL	URL	_	36	dep	_	start_char=83|end_char=88
+36	15	15	CD	CD	_	37	dep	_	start_char=89|end_char=91
+37	-RSB-	-RSB-	X	X	_	6	dep	_	start_char=92|end_char=97
 
 1	3	3	CD	CD	_	5	dep	_	start_char=0|end_char=1
 2	不	不	AD	AD	_	5	neg	_	start_char=2|end_char=3
@@ -2010,10 +2010,10 @@
 12	不	不	AD	AD	_	11	dep	_	start_char=26|end_char=27
 13	过	过	VV	VV	_	11	dep	_	start_char=28|end_char=29
 14	气	气	NN	NN	_	11	dobj	_	start_char=30|end_char=31
-15	。	。	PU	PU	_	11	punct	_	start_char=32|end_char=33
-16	-LSB-	-LSB-	VV	VV	_	11	conj	_	start_char=34|end_char=35
-17	16	16	CD	CD	_	16	nmod:range	_	start_char=36|end_char=38
-18	-RSB-	-RSB-	PU	PU	_	3	punct	_	start_char=39|end_char=40
+15	。	。	PU	PU	_	3	punct	_	start_char=32|end_char=33
+16	-LSB-	-LSB-	PU	PU	_	18	punct	_	start_char=34|end_char=39
+17	16	16	CD	CD	_	18	dep	_	start_char=40|end_char=42
+18	-RSB-	-RSB-	NN	NN	_	3	dep	_	start_char=43|end_char=48
 
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	找	找	VV	VV	_	0	root	_	start_char=2|end_char=3

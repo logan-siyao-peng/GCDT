@@ -26,7 +26,6 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	# read and translate rs3 lines
 	print("o Start translating file: %s:%s" % (branch, basename))
 	rs3_lines = read_text_file(rs3_file, include_xml=True)
-	edus = []
 	for line_id, line in enumerate(rs3_lines):
 		if "<segment" in line:
 			m = re.search(r'<segment id="([^"]+)"[^>]*>(.*?)</segment>', line)
@@ -46,7 +45,7 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 				
 				m_trans = m_trans.replace(" & ", " &amp; ").strip()
 				
-				# rs3_lines[line_id] = rs3_lines[line_id].replace(">"+m_text+"<", ">"+m_trans+"<") #Logan: only translation
+				# rs3_lines[line_id] = rs3_lines[line_id].replace(">"+m_text+"<", ">"+m_trans+"<") # only translation
 				rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:] # both source and translations
 				print("o Done with translating line: %d" % line_id, end="\r")
 	
@@ -58,11 +57,9 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--source_dir",
-	                    # default="../../../code/loganfolked_DMRST_Parser/data/rs3/en-gum-20220625/",
 	                    default="../data/rs3/",
 	                    )
 	parser.add_argument("--target_dir",
-	                    # default="../../../code/loganfolked_DMRST_Parser/data/rs3/entranszh-gum-20220705/",
 	                    default="../data/autotrans_rs3/",
 	                    )
 	parser.add_argument("--source_language", default='zh-CN')

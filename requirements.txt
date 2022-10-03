@@ -1,0 +1,3 @@
+stanza
+deep_translator
+sklearn

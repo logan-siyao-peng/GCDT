@@ -108,7 +108,7 @@
 		<segment id="70" parent="267" relname="joint-list">并 没有 超出 动物 的 水平 。 // Not beyond the level of animals .</segment>
 		<segment id="71" parent="72" relname="attribution-positive">黑格尔 认为 // Hegel thinks</segment>
 		<segment id="72" parent="269" relname="span">市民 社会 是 “ 各个 成员 作为 独立 的 单 个 人 的 联合 ” // Civil society is "the union of its members as independent individuals"</segment>
-		<segment id="73" parent="269" relname="explanation-evidence">-LSB- 3 -RSB- ， // -LSB-3-RSB-,</segment>
+		<segment id="73" parent="269" relname="explanation-evidence">-LSB- 3 -RSB- ， // -LSB- 3 -RSB- ,</segment>
 		<segment id="74" parent="271" relname="joint-list">并 把 人 理解 为 个体 本质 。 // And understand people as the essence of the individual.</segment>
 		<segment id="75" parent="276" relname="attribution-positive">他 指出 ， // He pointed out,</segment>
 		<segment id="76" parent="273" relname="same-unit">市民 社会 是 一 个 // Civil society is a</segment>
@@ -123,7 +123,7 @@
 		<segment id="85" parent="279" relname="span">丰富 内涵 ， // rich connotation ,</segment>
 		<segment id="86" parent="87" relname="attribution-positive">在 他 眼中 在 ， // in his eyes,</segment>
 		<segment id="87" parent="282" relname="span">“ 类 不外 是 种 的 共同物 ” // "A kind is nothing but the common thing of species"</segment>
-		<segment id="88" parent="282" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB-4-RSB-.</segment>
+		<segment id="88" parent="282" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB- 4 -RSB- .</segment>
 		<segment id="89" parent="286" relname="same-unit">然而 ， 无论 是 从 // However, whether from</segment>
 		<segment id="90" parent="91" relname="elaboration-attribute">当代 人类 面临 的 // what contemporary human beings face</segment>
 		<segment id="91" parent="285" relname="span">危机 等 现实性 问题 来看 ， // From the perspective of practical problems such as crises,</segment>
@@ -152,7 +152,7 @@
 		<segment id="114" parent="115" relname="elaboration-attribute">可以 被 自我 意识 到 的 // self-aware</segment>
 		<segment id="115" parent="304" relname="span">对象 。 // object .</segment>
 		<segment id="116" parent="337" relname="span">人 与 社会 的 关系 是 马克思 人 的 本质 理论 的 核心 内容 。 // The relationship between man and society is the core content of Marx 's theory of human nature .</segment>
-		<segment id="117" parent="313" relname="attribution-positive">马克思 认为 // Marx thought</segment>
+		<segment id="117" parent="313" relname="attribution-positive">马克思 认为 // Marx thinks</segment>
 		<segment id="118" parent="312" relname="context-background">个人 是 社会 存在物 ， // Individuals are social beings,</segment>
 		<segment id="119" parent="311" relname="same-unit">人们 // people</segment>
 		<segment id="120" parent="309" relname="restatement-repetition">通过 与 他人 或者 外界 互相 的 依赖 合作 ， // Through mutual dependence and cooperation with others or the outside world ,</segment>
@@ -226,7 +226,7 @@
 		<segment id="188" parent="367" relname="joint-list">你 中 有 我 、 // you have me,</segment>
 		<segment id="189" parent="367" relname="joint-list">我 中 有 你 的 // I have yours</segment>
 		<segment id="190" parent="368" relname="span">命运 共同体 ” // Community of Destiny</segment>
-		<segment id="191" parent="373" relname="explanation-evidence">-LSB- 5 -RSB- 。 // -LSB-5-RSB-.</segment>
+		<segment id="191" parent="373" relname="explanation-evidence">-LSB- 5 -RSB- 。 // -LSB- 5 -RSB- .</segment>
 		<segment id="192" parent="375" relname="same-unit">习近平 总书记 这 一 经典 论述 回答 了 // General Secretary Xi Jinping's classic statement answered</segment>
 		<segment id="193" parent="194" relname="elaboration-attribute">人类 命运 共同体 存在 的 // The existence of a community with a shared future for mankind</segment>
 		<segment id="194" parent="376" relname="span">根据 。 // according to .</segment>
@@ -235,7 +235,7 @@
 		<segment id="197" parent="377" relname="span">必须 得到 尊重 ， // must be respected,</segment>
 		<segment id="198" parent="379" relname="joint-list">内政 不容 干涉 ， // Internal affairs cannot be interfered with.</segment>
 		<segment id="199" parent="379" relname="joint-list">都 有 权 自主 选择 社会 制度 和 发展 道路 ” // Everyone has the right to independently choose the social system and development path ”</segment>
-		<segment id="200" parent="380" relname="explanation-evidence">-LSB- 6 -RSB- 。 // -LSB-6-RSB-.</segment>
+		<segment id="200" parent="380" relname="explanation-evidence">-LSB- 6 -RSB- 。 // -LSB- 6 -RSB- .</segment>
 		<segment id="201" parent="382" relname="joint-list">人类 命运 共同体 中 的 每 一 个 国家 都 不 存在 干涉 和 约束 ， // Every country in the community with a shared future for mankind is free from interference and constraints.</segment>
 		<segment id="202" parent="382" relname="joint-list">不 存在 一 部分 人 对 另 一 部分 人 的 控制 和 支配 ， // There is no control and domination of one part over another,</segment>
 		<segment id="203" parent="382" relname="restatement-partial">共同体 中 的 每 个 国家 和 人 都 是 自由 的 。 // Every country and person in the community is free.</segment>

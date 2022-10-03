@@ -92,7 +92,7 @@
 		<segment id="54" parent="334" relname="attribution-positive">根据 1820年 移民 纪录 表明 ， // According to immigration records in 1820 ,</segment>
 		<segment id="55" parent="56" relname="context-circumstance">他 两 岁 时 // when he was two years old</segment>
 		<segment id="56" parent="334" relname="span">他 的 父母 由 英国 移居 到 南非 // His parents emigrated from England to South Africa</segment>
-		<segment id="57" parent="335" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB-4-RSB-.</segment>
+		<segment id="57" parent="335" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB- 4 -RSB- .</segment>
 		<segment id="58" parent="337" relname="span">南非洲 家谱 学会 // South African Genealogical Society</segment>
 		<segment id="59" parent="58" relname="explanation-evidence">-LSB- 5 -RSB- // -LSB- 5 -RSB-</segment>
 		<segment id="60" parent="338" relname="same-unit">表示 // express</segment>
@@ -116,7 +116,7 @@
 		<segment id="78" parent="350" relname="joint-sequence">从 南非 移居 到 了 旧金山 。 // Immigrated from South Africa to San Francisco.</segment>
 		<segment id="79" parent="80" relname="attribution-positive">据 罗拔·高云 在 1923年 所 说 ， // According to Robert Gowan in 1923,</segment>
 		<segment id="80" parent="351" relname="span">在 1853年 以前 ， 诺顿 的 财富 积累 了 到 二十五万 美元 // By 1853, Norton's fortune accumulated to $250,000</segment>
-		<segment id="81" parent="351" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB-3-RSB-.</segment>
+		<segment id="81" parent="351" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB- 3 -RSB- .</segment>
 		<segment id="82" parent="382" relname="joint-sequence">他 最初 的 商业 成功 来自于 房地产 投资 。 // His initial commercial success came from real estate investments .</segment>
 		<segment id="83" parent="84" relname="causal-cause">后来 ， 由于 中国 发生 了 严重 的 饥荒 // Later , due to severe famine in China</segment>
 		<segment id="84" parent="353" relname="span">以至于 中国 不再 出口 大米 ， // So much so that China no longer exports rice,</segment>
@@ -129,13 +129,13 @@
 		<segment id="91" parent="358" relname="same-unit">米 后 // after rice</segment>
 		<segment id="92" parent="359" relname="span">就 把 它 全部 买下 ， // just buy it all,</segment>
 		<segment id="93" parent="94" relname="attribution-positive">希望 // hope</segment>
-		<segment id="94" parent="469" relname="span">哄抬 米市 。 // Drive up the rice market.</segment>
+		<segment id="94" parent="469" relname="span">哄抬 米市 。 // Raise the rice market.</segment>
 		<segment id="95" parent="361" relname="span">不幸 的 是 ， 之后 一 船 接着 一 船 的 大米 自 秘鲁 运抵 旧金山 ， // Unfortunately , ship after ship of rice arrived in san francisco from peru ,</segment>
 		<segment id="96" parent="95" relname="causal-result">米价 大幅 回落 。 // Rice prices fell sharply .</segment>
 		<segment id="97" parent="363" relname="causal-cause">结果 他 和 他 的 财政 伙伴 在 1853年 和 1857年 兴起 诉讼 。 // As a result he and his financial partners litigated in 1853 and 1857 .</segment>
 		<segment id="98" parent="99" relname="adversative-concession">虽然 诺顿 在 一般 法院 获得 胜利 ， // Although Norton won the general court ,</segment>
 		<segment id="99" parent="362" relname="span">但 他 最终 在 最高 法院 败诉 // But he ultimately lost the case in the Supreme Court</segment>
-		<segment id="100" parent="362" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB-3-RSB-.</segment>
+		<segment id="100" parent="362" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB- 3 -RSB- .</segment>
 		<segment id="101" parent="364" relname="joint-sequence">1858年 ， 诺顿 宣布 破产 。 // In 1858, Norton declared bankruptcy.</segment>
 		<segment id="102" parent="387" relname="joint-sequence">他 接着 离开 了 城市 几 年 ， // He then left the city for a few years,</segment>
 		<segment id="103" parent="104" relname="context-circumstance">返回 之后 // after returning</segment>
@@ -206,7 +206,7 @@
 		<segment id="168" parent="434" relname="same-unit">所以 ， 皇帝 命令 “ 各个 利益 集团 ” 在 1860年 2月 会集 在 旧金山 的 帕斯 音乐厅 “ 补救 // So the emperor ordered " various interest groups " to assemble at the Paz Hall in San Francisco in February 1860 " to remedy the</segment>
 		<segment id="169" parent="170" relname="elaboration-attribute">被 大家 抱怨 的 // being complained about</segment>
 		<segment id="170" parent="433" relname="span">罪恶 ” // sin"</segment>
-		<segment id="171" parent="434" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB-7-RSB-.</segment>
+		<segment id="171" parent="434" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB- 7 -RSB- .</segment>
 		<segment id="172" parent="437" relname="span">1860年 1月 ， 在 另 一 个 “ 旨令 ” 中 ， 皇帝 诺顿 一世 召唤 军队 // In another "decree", January 1860, Emperor Norton I called the army</segment>
 		<segment id="173" parent="172" relname="purpose-goal">废除 国会 的 当选 议员 ： // Repeal elected members of Congress :</segment>
 		<segment id="174" parent="440" relname="explanation-justify">—— “ 鉴于 ， 华盛顿市 有 一 群 人 自称 国会 议员 ， // — "Whereas, there is a group of people in Washington who call themselves members of Congress,</segment>
@@ -225,7 +225,7 @@
 		<segment id="187" parent="447" relname="attribution-positive">声称 // claim</segment>
 		<segment id="188" parent="447" relname="joint-list">解散 共和国 // dissolve the republic</segment>
 		<segment id="189" parent="447" relname="joint-list">和 禁止 所有 国会 的 议员 集会 // and ban all assemblies of parliamentarians</segment>
-		<segment id="190" parent="448" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB-7-RSB-.</segment>
+		<segment id="190" parent="448" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB- 7 -RSB- .</segment>
 		<segment id="191" parent="452" relname="same-unit">这 个 指令 // this command</segment>
 		<segment id="192" parent="193" relname="mode-manner">像 所有 诺顿 一世 的 旨令 一样 ， // Like all Norton I decrees,</segment>
 		<segment id="193" parent="451" relname="span">华盛顿 政府 和 国内 大多数 人 对 此 都 不屑一顾 。 // The Washington government and most people in the country are dismissive of it .</segment>
@@ -265,7 +265,7 @@
 		<segment id="227" parent="484" relname="span">将 被 视 为 有罪 和 犯上 ， // shall be regarded as guilty and guilty,</segment>
 		<segment id="228" parent="486" relname="span">并 须 支付 二十五 美元 入 皇家 财库 // and pay twenty-five dollars into the royal treasury</segment>
 		<segment id="229" parent="228" relname="purpose-goal">作为 惩罚 。 // as punishment .</segment>
-		<segment id="230" parent="487" relname="explanation-evidence">-LSB- 7 -RSB- ” // -LSB-7-RSB-”</segment>
+		<segment id="230" parent="487" relname="explanation-evidence">-LSB- 7 -RSB- ” // -LSB- 7 -RSB- ”</segment>
 		<segment id="231" parent="538" relname="organization-heading">下旨 建桥 // decree to build a bridge</segment>
 		<segment id="232" parent="233" relname="contingency-condition">如果 对 这 一 连串 “ 皇家 法令 ” 进行 分析 ， // If this series of "royal decrees" is analyzed,</segment>
 		<segment id="233" parent="496" relname="span">很 有 理由 怀疑 这 位 美国 的 唯一 一 位 “ 君主 ” 的 精神 状态 。 // There is good reason to doubt the mental state of America's only "monarch".</segment>
@@ -285,7 +285,7 @@
 		<segment id="247" parent="504" relname="joint-list">诺顿 一世 在 一些 场合 中 却 非常 有 远见 ， // Norton I was very visionary on some occasions.</segment>
 		<segment id="248" parent="504" relname="joint-list">并且 在 一定 数量 的 “ 皇家 旨令 ” 中 显示 了 深刻 智慧 。 // And in a certain number of "royal decrees" showed profound wisdom.</segment>
 		<segment id="249" parent="507" relname="joint-list">在 他 的 许多 旨令 之中 是 要 组成 “ 国际 联盟 ” ， // Among his many decrees was the formation of the "League of Nations",</segment>
-		<segment id="250" parent="507" relname="joint-list">并且 明令 禁止 任何 一 种 宗教 派别 之间 的 纷争 或 冲突 。 // And expressly prohibits any kind of strife or conflict between religious sects .</segment>
+		<segment id="250" parent="507" relname="joint-list">并且 明令 禁止 任何 一 种 宗教 派别 之间 的 纷争 或 冲突 。 // And expressly prohibit any kind of strife or conflict between religious sects .</segment>
 		<segment id="251" parent="510" relname="joint-list">皇帝 并且 下旨 // emperor and decree</segment>
 		<segment id="252" parent="509" relname="attribution-positive">要求 // Require</segment>
 		<segment id="253" parent="509" relname="same-unit">建造 // put up</segment>

@@ -153,7 +153,7 @@
 		<segment id="115" parent="246" relname="span">马利兰州 和 佛蒙特州 看到 我们 今年 的 选票 。 // Maryland and Vermont see our ballots this year.</segment>
 		<segment id="116" parent="252" relname="joint-list">我们 并不 寻求 成为 破坏者 ， // We don't seek to be disruptors,</segment>
 		<segment id="117" parent="251" relname="same-unit">也 无意 在 // also have no intention of</segment>
-		<segment id="118" parent="119" relname="elaboration-attribute">导致 拜登 落选 的 // What led to Biden's defeat</segment>
+		<segment id="118" parent="119" relname="elaboration-attribute">导致 拜登 落选 的 // What caused Biden to lose the election</segment>
 		<segment id="119" parent="250" relname="span">州 进行 竞选 ， // state elections,</segment>
 		<segment id="120" parent="121" relname="attribution-positive">因为 我们 认为 // because we think</segment>
 		<segment id="121" parent="253" relname="span">目前 最 重要 的 事情 是 结束 特朗普 总统 任期 的 畸形 状态 。 // The most important thing at the moment is to end the deformity of the Trump presidency .</segment>

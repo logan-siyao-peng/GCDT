@@ -157,7 +157,7 @@
 		<segment id="119" parent="120" relname="elaboration-attribute">有 对白 的 // with dialogue</segment>
 		<segment id="120" parent="278" relname="span">角色 只 占 百分之五 。 // Characters are only five percent.</segment>
 		<segment id="121" parent="291" relname="context-background">好莱坞 的 韩裔 演员 爱德华·金 演出 过 几十 部 电影 和 电视剧 ， // Hollywood actor Edward King has appeared in dozens of movies and TV shows ,</segment>
-		<segment id="122" parent="286" relname="attribution-positive">他 说 ： // He said :</segment>
+		<segment id="122" parent="286" relname="attribution-positive">他 说 ： // He says :</segment>
 		<segment id="123" parent="287" relname="adversative-contrast">“ 好莱坞 有 很多 机会 ， // "Hollywood has a lot of opportunities,</segment>
 		<segment id="124" parent="283" relname="same-unit">但 总是 些 // but always</segment>
 		<segment id="125" parent="126" relname="elaboration-attribute">只 有 一 句 对白 的 // only one line of dialogue</segment>
@@ -225,7 +225,7 @@
 		<segment id="187" parent="333" relname="joint-list">大家 把 眼光 放远 ， // Everyone look far away,</segment>
 		<segment id="188" parent="333" relname="joint-list">超越 此 刻 的 失望 ， // beyond the disappointment of the moment,</segment>
 		<segment id="189" parent="333" relname="joint-list">看到 更 广阔 的 前景 。 // See the bigger picture .</segment>
-		<segment id="190" parent="338" relname="same-unit">他 说 ： // He said :</segment>
+		<segment id="190" parent="338" relname="same-unit">他 说 ： // He says :</segment>
 		<segment id="191" parent="192" relname="elaboration-attribute">“ 通往 平等 的 // "Towards Equality</segment>
 		<segment id="192" parent="337" relname="span">道路 很少 是 平顺 的 。 ” // Roads are rarely smooth. "</segment>
 		<group id="193" type="span" parent="195" relname="same-unit"/>

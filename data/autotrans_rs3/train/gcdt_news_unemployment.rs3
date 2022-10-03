@@ -180,7 +180,7 @@
 		<segment id="142" parent="141" relname="restatement-partial">（ 职津 ） // ( Work allowance )</segment>
 		<segment id="143" parent="322" relname="same-unit">的 // of</segment>
 		<segment id="144" parent="323" relname="span">申请 门槛 ， // application threshold,</segment>
-		<segment id="145" parent="327" relname="same-unit">让 // let</segment>
+		<segment id="145" parent="327" relname="same-unit">让 // Let</segment>
 		<segment id="146" parent="325" relname="joint-list">只能 做 散工 、 // Can only do casual work,</segment>
 		<segment id="147" parent="325" relname="joint-list">工作 时数 不 多 的 // working hours</segment>
 		<segment id="148" parent="326" relname="span">市民 可以 申请 。 // Citizens can apply.</segment>
@@ -222,7 +222,7 @@
 		<segment id="184" parent="355" relname="same-unit">罗致光 // Luo Zhiguang</segment>
 		<segment id="185" parent="186" relname="context-background">亦 就 法定 假日 数量 逐渐 增加 // Also, the number of statutory holidays is gradually increasing</segment>
 		<segment id="186" parent="356" relname="span">称 ： // say :</segment>
-		<segment id="187" parent="358" relname="attribution-positive">“ 我们 认为 // " We believe</segment>
+		<segment id="187" parent="358" relname="attribution-positive">“ 我们 认为 // " We believe that</segment>
 		<segment id="188" parent="358" relname="same-unit">一定 可以 解决 十多 年 来 // It must be solved for more than ten years</segment>
 		<segment id="189" parent="190" relname="elaboration-attribute">关于 法定 假日 与 公众 假期 接轨 的 // On the integration of statutory holidays and public holidays</segment>
 		<segment id="190" parent="357" relname="span">矛盾 或 争议 案 。 // Contradictory or Controversial Cases.</segment>

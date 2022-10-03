@@ -26,33 +26,29 @@ def main_validator():
 			# print("\n\nStart genre: ", curr_genre)
 			prev_genre = curr_genre
 		
-		# print("o Start validating file: ", basename)
 		
 		# Step 1: Validate consistent tokenization
 		# print("o Step 1: Validating consistent tokenization")
 		tokenization_validator(basename, branch)
 		
 		# Step 2: print out docs statistics -- number of tokens, number of edus, and save relation counter
-		# print("o Step 1: Validating consistent tokenization")
+		# print("o Step 2: Print out doc stats")
 		if branch != "double":
 			doc_stats = get_doc_stats(basename, branch)
 			doc_stats_list.append(doc_stats)
-		
-		# TODO: other validations
-		# print("o Step 998: Ending validation for file: ", basename)
 
 	# Step 999: print out corpus stats
 	print("o There are a total of %d documents!" % len(doc_stats_list))
 	total_num_tokens = sum([x[0] for x in doc_stats_list])
 	total_num_edus = sum([x[1] for x in doc_stats_list])
 	total_relation_counter = sum(map(Counter, [x[2] for x in doc_stats_list]), Counter())
-	print("%s\t%d\t%d" % ("all_docs", total_num_tokens, total_num_edus))
+	print("| %s | %d | %d |" % ("all_docs", total_num_tokens, total_num_edus))
 	
 	total_relation_items =sorted(total_relation_counter.items(), key=lambda x: x[1], reverse=True)
 	total_num_relations = sum([x[1] for x in total_relation_items])
 	print("\n\nTotal number of relations: ", total_num_relations)
 	for k,v in total_relation_items:
-		print("%s\t%d\t%.2f" % (k, v, 100.0*v/total_num_relations))
+		print("| %s | %d | %.2f |" % (k, v, 100.0*v/total_num_relations))
 	
 	print("o All validations are successful!")
 	
@@ -163,11 +159,7 @@ def get_doc_stats(basename, branch):
 		relname = get_rel_name(rs3_line)
 		if relname and relname not in ["span"]:
 			relation_counter[relname] += 1
-	
-	# Make sure the number of relations is equal to number of edus - 1
-	# TODO: ask Amir
-	# assert sum(relation_counter.values()) == num_edus - 1
-	
+		
 	return (num_tokens, num_edus, relation_counter)
 
 	

@@ -166,7 +166,7 @@
 		<segment id="128" parent="321" relname="same-unit">不 存在 // does not exist</segment>
 		<segment id="129" parent="130" relname="causal-cause">因 其他 因素 // due to other factors</segment>
 		<segment id="130" parent="319" relname="span">而 耽搁 的 // and delayed</segment>
-		<segment id="131" parent="320" relname="span">情况 。 // Condition .</segment>
+		<segment id="131" parent="320" relname="span">情况 。 // Happening .</segment>
 		<segment id="132" parent="324" relname="joint-list">帕劳 当地 从 未 发生 疫情 ， // There has never been an epidemic in Palau.</segment>
 		<segment id="133" parent="323" relname="span">目前 只 开放 台湾 的 飞机 // Currently, only planes from Taiwan are open.</segment>
 		<segment id="134" parent="133" relname="elaboration-attribute">可以 前往 当地 。 // You can go to the local area.</segment>

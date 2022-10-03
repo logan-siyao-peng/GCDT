@@ -11,7 +11,7 @@ NASA 发射 的 // launched by NASA
 它 已 于 2006年 1月 15日 返回 地球 . // It returned to Earth on January 15 , 2006 .
 现在 有 一 项 // There is now one
 与 其 相关 的 // related to it
-在线 协作 计划 , // online collaboration plan ,
+在线 协作 计划 , // online collaboration program ,
 将 “ 检视 ” // "View"
 星尘 飞行器 所 采集 到 的 // Collected by the Stardust Aircraft
 细微 样本 . // small sample .
@@ -103,7 +103,9 @@ ARES 小组 负责 掌管 所有 // The ARES team is in charge of all
 U2 飞机 在 同温层 搜集 的 // U2 aircraft collected in the stratosphere
 行星际 尘埃 颗粒 ) . // interplanetary dust particles ) .
 显微镜 在 气凝胶 采集器 中 拍摄 下 一 幅幅 数字 图像 , // The microscope takes the next digital images in the aerogel collector ,
-然后 按 顺序 把 图像 发给 我们 // Then send us the images in order
+然后 // Then
+按 顺序 // by order
+把 图像 发给 我们 // send us the image
 -- 我们 再 把 图像 进行 压缩 并 转换 为 // -- We then compress and convert the image to
 适合 Stardust@home 项目 的 // for the Stardust@home project
 格式 . // Format .

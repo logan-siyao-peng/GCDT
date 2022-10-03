@@ -40,7 +40,7 @@
 		<segment id="2" parent="140" relname="span">珍娜·妮可·穆雷 // Jenna Nicole Murray</segment>
 		<segment id="3" parent="143" relname="joint-list">（ Jenna Nicole Mourey ， // (Jenna Nicole Mourey,</segment>
 		<segment id="4" parent="141" relname="span">1986年 9月 15日 // September 15, 1986</segment>
-		<segment id="5" parent="4" relname="explanation-evidence">-LSB- 2 -RSB- -LSB- 3 -RSB- // -LSB- twenty three -RSB-</segment>
+		<segment id="5" parent="4" relname="explanation-evidence">-LSB- 2 -RSB- -LSB- 3 -RSB- // -LSB- 2 -RSB- -LSB- 3 -RSB-</segment>
 		<segment id="6" parent="142" relname="same-unit">－ ） ， // -),</segment>
 		<segment id="7" parent="145" relname="span">较 广为人知 的 是 化名 珍娜·玛柏 // Better known by the pseudonym Jenna Marber</segment>
 		<segment id="8" parent="7" relname="restatement-partial">（ Jenna Marbles ） ， // (Jenna Marbles),</segment>
@@ -50,7 +50,7 @@
 		<segment id="12" parent="149" relname="same-unit">是 YouTube 第20多 订阅者 与 // is YouTube's 20th+ subscriber with</segment>
 		<segment id="13" parent="14" relname="elaboration-attribute">曾经 为 最 大 的 // ever the biggest</segment>
 		<segment id="14" parent="148" relname="span">女性 频道 // female channel</segment>
-		<segment id="15" parent="147" relname="explanation-evidence">-LSB- 6 -RSB- 。 // -LSB-6-RSB-.</segment>
+		<segment id="15" parent="147" relname="explanation-evidence">-LSB- 6 -RSB- 。 // -LSB- 6 -RSB- .</segment>
 		<segment id="16" parent="167" relname="organization-heading">早年 生活 // early life</segment>
 		<segment id="17" parent="152" relname="joint-list">穆雷 于 1986年 9月 15日 出生 于 罗彻斯特 ， // Murray was born in Rochester on September 15, 1986,</segment>
 		<segment id="18" parent="152" relname="joint-list">并 在 该 处 长大 ， // and grew up there,</segment>
@@ -64,7 +64,7 @@
 		<segment id="26" parent="161" relname="same-unit">由 她 的 爸爸 和 // by her daddy and</segment>
 		<segment id="27" parent="28" relname="elaboration-attribute">后来 结婚 的 // later married</segment>
 		<segment id="28" parent="160" relname="span">继母 照顾 // stepmom care</segment>
-		<segment id="29" parent="161" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB-7-RSB-.</segment>
+		<segment id="29" parent="161" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB- 7 -RSB- .</segment>
 		<segment id="30" parent="167" relname="joint-sequence">她 中学 就读于 布莱顿 高中 ， // She attended Brighton High School in secondary school,</segment>
 		<segment id="31" parent="165" relname="context-circumstance">2004年 毕业 后 ， // After graduating in 2004,</segment>
 		<segment id="32" parent="165" relname="joint-sequence">穆雷 搬到 波士顿 // Murray moves to Boston</segment>
@@ -78,26 +78,26 @@
 		<segment id="40" parent="173" relname="same-unit">在 此 之间 她 创建 了 一 个 // In between, she created a</segment>
 		<segment id="41" parent="42" relname="elaboration-attribute">名 叫 “ Stool LaLa ” 的 // called "Stool LaLa"</segment>
 		<segment id="42" parent="172" relname="span">网站 // website</segment>
-		<segment id="43" parent="174" relname="explanation-evidence">-LSB- 10 -RSB- 。 // -LSB-10-RSB-.</segment>
+		<segment id="43" parent="174" relname="explanation-evidence">-LSB- 10 -RSB- 。 // -LSB- 10 -RSB- .</segment>
 		<segment id="44" parent="176" relname="joint-sequence">2010年 的 夏天 ， 她 搬到 马萨诸塞州 的 剑桥 ， // In the summer of 2010, she moved to cambridge, massachusetts.</segment>
 		<segment id="45" parent="176" relname="joint-sequence">并 以 800 美元 租金 与 其他 人 同居 一 间 三 房 公寓 ， // and shared a three-bedroom apartment with others for $800 rent,</segment>
 		<segment id="46" parent="176" relname="elaboration-additional">期间 穆雷 当过 酒保 跟 夜店 舞者 等 工作 // During that time, Murray worked as a bartender and a nightclub dancer.</segment>
-		<segment id="47" parent="177" relname="explanation-evidence">-LSB- 11 -RSB- 。 // -LSB-11-RSB-.</segment>
+		<segment id="47" parent="177" relname="explanation-evidence">-LSB- 11 -RSB- 。 // -LSB- 11 -RSB- .</segment>
 		<segment id="48" parent="222" relname="organization-heading">YouTube // YouTube</segment>
 		<segment id="49" parent="184" relname="same-unit">穆雷 于 2010年 2月 16日 // Murray on February 16, 2010</segment>
 		<segment id="50" parent="180" relname="span">以 “ 珍娜·玛柏 // With "Jenna Marber</segment>
-		<segment id="51" parent="50" relname="explanation-evidence">-LSB- 注 1 -RSB- ” // -LSB-Note 1-RSB-"</segment>
+		<segment id="51" parent="50" relname="explanation-evidence">-LSB- 注 1 -RSB- ” // -LSB- Note 1 -RSB- ”</segment>
 		<segment id="52" parent="180" relname="restatement-partial">（ Jenna Marbles ） // (Jenna Marbles)</segment>
 		<segment id="53" parent="182" relname="same-unit">为 用户名 // for username</segment>
 		<segment id="54" parent="183" relname="span">创建 YouTube 频道 ， // Create a YouTube channel ,</segment>
 		<segment id="55" parent="185" relname="joint-sequence">其 第一 部 视频 于 隔天 上传 // Its first video was uploaded the next day</segment>
-		<segment id="56" parent="185" relname="explanation-evidence">-LSB- 12 -RSB- ， // -LSB-12-RSB-,</segment>
+		<segment id="56" parent="185" relname="explanation-evidence">-LSB- 12 -RSB- ， // -LSB- 12 -RSB- ,</segment>
 		<segment id="57" parent="186" relname="elaboration-additional">逢 星期三 或 四 上传 新 视频 。 // Upload new videos every wednesday or thursday .</segment>
 		<segment id="58" parent="194" relname="span">“ 珍娜·玛柏 ” 这 频道 成名于 《 How to trick people into thinking you 're good looking 》 和 《 How To Avoid Talking To People You Do n't Want To Talk To 》 这 2 部 视频 ， // "Jenna Marber" became famous for the 2 videos "How to trick people into thinking you 're good looking" and "How To Avoid Talking To People You Don't Want To Talk To".</segment>
 		<segment id="59" parent="188" relname="same-unit">其中 《 How to trick people into thinking you're good looking 》 在 // Among them, "How to trick people into thinking you're good looking" is in</segment>
 		<segment id="60" parent="61" relname="elaboration-attribute">上传 后 的 // after uploading</segment>
 		<segment id="61" parent="187" relname="span">第一 周 便 录得 超级 530万 次 的 观看数 // 5.3 million views in the first week</segment>
-		<segment id="62" parent="188" relname="explanation-evidence">-LSB- 13 -RSB- -LSB- 14 -RSB- ， // -LSB-13-RSB--LSB-14-RSB-,</segment>
+		<segment id="62" parent="188" relname="explanation-evidence">-LSB- 13 -RSB- -LSB- 14 -RSB- ， // -LSB- 13 -RSB- -LSB- 14 -RSB- ,</segment>
 		<segment id="63" parent="190" relname="span">而 《 How To Avoid Talking To People You Do n't Want To Talk To 》 则 于 2011年 8月 分别 被 《 纽约 时报 》 // And "How To Avoid Talking To People You Don't Want To Talk To" was featured in The New York Times in August 2011.</segment>
 		<segment id="64" parent="63" relname="explanation-evidence">-LSB- 15 -RSB- // -LSB- 15 -RSB-</segment>
 		<segment id="65" parent="192" relname="span">和 《 ABC 新闻 》 // and ABC News</segment>
@@ -108,33 +108,33 @@
 		<segment id="70" parent="71" relname="elaboration-attribute">用 自己 的 生殖器 接触 着 我 背部 的 // Touching my back with my genitals</segment>
 		<segment id="71" parent="195" relname="span">家伙 ， // guy,</segment>
 		<segment id="72" parent="196" relname="context-circumstance">而 原因 只 是 因为 我 在 夜店 出现 或 在 酒吧 跳舞 // And it's just because I'm in a club or dancing in a bar</segment>
-		<segment id="73" parent="197" relname="explanation-evidence">-LSB- 15 -RSB- -LSB- 16 -RSB- 。 ” // -LSB-15-RSB--LSB-16-RSB-. "</segment>
+		<segment id="73" parent="197" relname="explanation-evidence">-LSB- 15 -RSB- -LSB- 16 -RSB- 。 ” // -LSB- 15 -RSB- -LSB- 16 -RSB- . "</segment>
 		<segment id="74" parent="202" relname="joint-disjunction">穆雷 亦 曾 在 其他 频道 的 视频 中 出现 // Murray has also been featured in videos on other channels</segment>
 		<segment id="75" parent="201" relname="same-unit">或 为 // or for</segment>
 		<segment id="76" parent="77" relname="elaboration-attribute">视频 中 出现 的 // appearing in the video</segment>
 		<segment id="77" parent="200" relname="span">角色 配音 。 // Character voiceovers.</segment>
 		<segment id="78" parent="204" relname="span">例如 在 《 经典 饶舌 争霸战 》 第2 季 第13 集 《 亚当 V.S 夏娃 》 中 饰演 夏娃 // E.g. as Eve in Classic Rap Contest Season 2 Episode 13 Adam V.S Eve</segment>
-		<segment id="79" parent="78" relname="explanation-evidence">-LSB- 17 -RSB- 、 // -LSB-17-RSB-,</segment>
+		<segment id="79" parent="78" relname="explanation-evidence">-LSB- 17 -RSB- 、 // -LSB- 17 -RSB- ,</segment>
 		<segment id="80" parent="205" relname="span">为 《 柳丁 搁来乱 》 其中 一 集 《 Fake n' Bacon 》 的 香蕉 配音 // Dubbing the bananas in Fake n' Bacon, one of the episodes of Liuding</segment>
-		<segment id="81" parent="80" relname="explanation-evidence">-LSB- 18 -RSB- 。 // -LSB-18-RSB-.</segment>
+		<segment id="81" parent="80" relname="explanation-evidence">-LSB- 18 -RSB- 。 // -LSB- 18 -RSB- .</segment>
 		<segment id="82" parent="211" relname="same-unit">而 // and</segment>
 		<segment id="83" parent="208" relname="elaboration-attribute">和 她 合作 过 的 // worked with her</segment>
 		<segment id="84" parent="208" relname="span">YouTuber 包括 汉娜·哈特 // YouTubers including Hannah Hart</segment>
-		<segment id="85" parent="84" relname="explanation-evidence">-LSB- 19 -RSB- 、 // -LSB-19-RSB-,</segment>
+		<segment id="85" parent="84" relname="explanation-evidence">-LSB- 19 -RSB- 、 // -LSB- 19 -RSB- ,</segment>
 		<segment id="86" parent="209" relname="span">Niga Higa // Niga Higa</segment>
-		<segment id="87" parent="86" relname="explanation-evidence">-LSB- 20 -RSB- 、 // -LSB-20-RSB-,</segment>
+		<segment id="87" parent="86" relname="explanation-evidence">-LSB- 20 -RSB- 、 // -LSB- 20 -RSB- ,</segment>
 		<segment id="88" parent="212" relname="span">谢恩·多森 // Shane Dotson</segment>
-		<segment id="89" parent="88" relname="explanation-evidence">-LSB- 21 -RSB- // -LSB- twenty one -RSB-</segment>
+		<segment id="89" parent="88" relname="explanation-evidence">-LSB- 21 -RSB- // -LSB- 21 -RSB-</segment>
 		<segment id="90" parent="211" relname="same-unit">等 。 // Wait .</segment>
 		<segment id="91" parent="217" relname="organization-heading">其他 // other</segment>
 		<segment id="92" parent="214" relname="same-unit">穆雷 在 // Murray in</segment>
 		<segment id="93" parent="94" relname="elaboration-attribute">由 Smosh 领衔 主演 的 // starring Smosh</segment>
 		<segment id="94" parent="213" relname="span">电影 《 Smosh ： 大 电影 》 中 饰演 她 自己 // Playing herself in the movie "Smosh: The Big Movie"</segment>
-		<segment id="95" parent="214" relname="explanation-evidence">-LSB- 22 -RSB- 。 // -LSB- twenty two -RSB- .</segment>
+		<segment id="95" parent="214" relname="explanation-evidence">-LSB- 22 -RSB- 。 // -LSB- 22 -RSB- .</segment>
 		<segment id="96" parent="216" relname="span">她 同时 也 是 Sirius XM Hits 1 的 节目 《 YouTube 15 》 的 主持 人 // She is also the host of the Sirius XM Hits 1 show YouTube 15 .</segment>
-		<segment id="97" parent="96" relname="explanation-evidence">-LSB- 23 -RSB- 。 // -LSB- twenty three -RSB- .</segment>
+		<segment id="97" parent="96" relname="explanation-evidence">-LSB- 23 -RSB- 。 // -LSB- 23 -RSB- .</segment>
 		<segment id="98" parent="218" relname="span">2014年 10月 ， 穆雷 成为 《 逞能 倒霉蛋 》 第四 季 第9 集 的 来宾 // In October 2014, Murray was a guest on episode 9 of season four</segment>
-		<segment id="99" parent="98" relname="explanation-evidence">-LSB- 24 -RSB- 。 // -LSB- twenty four -RSB- .</segment>
+		<segment id="99" parent="98" relname="explanation-evidence">-LSB- 24 -RSB- 。 // -LSB- 24 -RSB- .</segment>
 		<segment id="100" parent="259" relname="organization-heading">个人 生活 // personal life</segment>
 		<segment id="101" parent="225" relname="joint-list">穆雷有 一 位 哥哥 ， // Murray has an older brother,</segment>
 		<segment id="102" parent="226" relname="span">名 叫 德文 // name is German</segment>
@@ -144,28 +144,28 @@
 		<segment id="106" parent="229" relname="span">朱利安·索洛米塔 // Julian Solomita</segment>
 		<segment id="107" parent="106" relname="restatement-partial">（ Julien Solomita ） // (Julien Solomita)</segment>
 		<segment id="108" parent="228" relname="same-unit">交往 // socialize</segment>
-		<segment id="109" parent="228" relname="explanation-evidence">-LSB- 25 -RSB- ， // -LSB-25-RSB-,</segment>
+		<segment id="109" parent="228" relname="explanation-evidence">-LSB- 25 -RSB- ， // -LSB- 25 -RSB- ,</segment>
 		<segment id="110" parent="231" relname="span">截止 2016年 8月 ， 他 的 频道 有 88万 订阅数 // As of August 2016, his channel has 880,000 subscribers</segment>
-		<segment id="111" parent="110" relname="explanation-evidence">-LSB- 26 -RSB- 。 // -LSB-26-RSB-.</segment>
+		<segment id="111" parent="110" relname="explanation-evidence">-LSB- 26 -RSB- 。 // -LSB- 26 -RSB- .</segment>
 		<segment id="112" parent="237" relname="same-unit">在此之前 他 曾 跟 另外 2 个 // Before that he had been with 2 other</segment>
 		<segment id="113" parent="233" relname="span">名 叫 威利 // Named Willie</segment>
 		<segment id="114" parent="113" relname="elaboration-attribute">（ Willy ， 2000年 – 2004年 ） // (Willy, 2000-2004)</segment>
 		<segment id="115" parent="234" relname="span">和 马克斯·怀兹 // with Max Waites</segment>
 		<segment id="116" parent="115" relname="elaboration-attribute">（ Max Weisz ， 2011年 – 2012年 ） // (Max Weisz, 2011-2012)</segment>
 		<segment id="117" parent="236" relname="span">男性 交往 过 // male dating</segment>
-		<segment id="118" parent="237" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB-7-RSB-.</segment>
+		<segment id="118" parent="237" relname="explanation-evidence">-LSB- 7 -RSB- 。 // -LSB- 7 -RSB- .</segment>
 		<segment id="119" parent="241" relname="joint-list">穆雷 很 爱 小 动物 ， // Murray loves small animals,</segment>
 		<segment id="120" parent="240" relname="same-unit">也 乐于 观看 // also happy to watch</segment>
 		<segment id="121" parent="122" relname="elaboration-attribute">粉丝 给 她 的 // fans gave her</segment>
 		<segment id="122" parent="239" relname="span">宠物 照片 // pet photo</segment>
-		<segment id="123" parent="241" relname="explanation-evidence">-LSB- 27 -RSB- 。 // -LSB-27-RSB-.</segment>
+		<segment id="123" parent="241" relname="explanation-evidence">-LSB- 27 -RSB- 。 // -LSB- 27 -RSB- .</segment>
 		<segment id="124" parent="256" relname="span">她 养 了 2 只 狗 ， // She has 2 dogs,</segment>
 		<segment id="125" parent="243" relname="span">分别 是 芝娃娃 “ 玛柏 先生 ” // They are Chi-Dolls "Mr. Marber"</segment>
 		<segment id="126" parent="244" relname="span">（ Mr. Marbles // (Mr. Marbles</segment>
-		<segment id="127" parent="126" relname="explanation-evidence">-LSB- 注 2 -RSB- ） // -LSB-Note 2-RSB-)</segment>
+		<segment id="127" parent="126" relname="explanation-evidence">-LSB- 注 2 -RSB- ） // -LSB- Note 2 -RSB- )</segment>
 		<segment id="128" parent="247" relname="span">和 意大利 灵缇 “ 克米特·渥姆 ” // and Italian Greyhound "Kermit Worm"</segment>
 		<segment id="129" parent="246" relname="span">（ Kermith Worm ） // (Kermith Worm)</segment>
-		<segment id="130" parent="129" relname="explanation-evidence">-LSB- 28 -RSB- ， // -LSB-28-RSB-,</segment>
+		<segment id="130" parent="129" relname="explanation-evidence">-LSB- 28 -RSB- ， // -LSB- 28 -RSB- ,</segment>
 		<segment id="131" parent="251" relname="same-unit">2 只 宠物狗 // 2 pet dogs</segment>
 		<segment id="132" parent="248" relname="same-unit">由于 // because</segment>
 		<segment id="133" parent="134" relname="elaboration-attribute">经常 在 视频 中 出现 的 // often appearing in videos</segment>

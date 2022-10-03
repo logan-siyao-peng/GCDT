@@ -159,9 +159,9 @@
 16	的	的	DEC	DEC	_	13	mark	_	start_char=37|end_char=38
 17	地方	地方	NN	NN	_	5	dobj	_	start_char=39|end_char=41
 18	。	。	PU	PU	_	5	punct	_	start_char=42|end_char=43
-19	-LSB-	-LSB-	VV	VV	_	5	dep	_	start_char=44|end_char=45
-20	1	1	CD	CD	_	19	dep	_	start_char=46|end_char=47
-21	-RSB-	-RSB-	PU	PU	_	5	punct	_	start_char=48|end_char=49
+19	-LSB-	-LSB-	PU	PU	_	20	punct	_	start_char=44|end_char=49
+20	1	1	CD	CD	_	17	dep	_	start_char=50|end_char=51
+21	-RSB-	-RSB-	PU	PU	_	5	punct	_	start_char=52|end_char=57
 
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	薄荷油	薄荷油	NN	NN	_	6	nsubj	_	start_char=2|end_char=5
@@ -219,9 +219,9 @@
 14	找到	找到	VV	VV	_	0	root	_	start_char=34|end_char=36
 15	薄荷油	薄荷油	NN	NN	_	14	dobj	_	start_char=37|end_char=40
 16	。	。	PU	PU	_	14	punct	_	start_char=41|end_char=42
-17	-LSB-	-LSB-	VV	VV	_	14	conj	_	start_char=43|end_char=44
-18	2	2	CD	CD	_	17	nmod:range	_	start_char=45|end_char=46
-19	-RSB-	-RSB-	PU	PU	_	14	punct	_	start_char=47|end_char=48
+17	-LSB-	-LSB-	PU	PU	_	19	punct	_	start_char=43|end_char=48
+18	2	2	CD	CD	_	19	dep	_	start_char=49|end_char=50
+19	-RSB-	-RSB-	NN	NN	_	14	dep	_	start_char=51|end_char=56
 
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	棉球	棉球	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=4
@@ -328,7 +328,7 @@
 1	当地	当地	NN	NN	_	9	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	爬行	爬行	NN	NN	_	9	compound:nn	_	start_char=5|end_char=7
-4	动物	动物	NN	NN	_	9	compound:nn	_	start_char=8|end_char=10
+4	动物	动物	NN	NN	_	5	compound:nn	_	start_char=8|end_char=10
 5	中心	中心	NN	NN	_	9	conj	_	start_char=11|end_char=13
 6	、	、	PU	PU	_	9	punct	_	start_char=14|end_char=15
 7	宠物店	宠物店	NN	NN	_	9	conj	_	start_char=16|end_char=19
@@ -339,9 +339,9 @@
 12	找到	找到	VV	VV	_	0	root	_	start_char=32|end_char=34
 13	蛇粪	蛇粪	NN	NN	_	12	dobj	_	start_char=35|end_char=37
 14	。	。	PU	PU	_	12	punct	_	start_char=38|end_char=39
-15	-LSB-	-LSB-	VV	VV	_	12	conj	_	start_char=40|end_char=41
-16	3	3	CD	CD	_	15	dep	_	start_char=42|end_char=43
-17	-RSB-	-RSB-	PU	PU	_	12	punct	_	start_char=44|end_char=45
+15	-LSB-	-LSB-	URL	URL	_	17	dep	_	start_char=40|end_char=45
+16	3	3	CD	CD	_	17	dep	_	start_char=46|end_char=47
+17	-RSB-	-RSB-	NN	NN	_	12	dep	_	start_char=48|end_char=53
 
 1	一定	一定	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	5	xcomp	_	start_char=3|end_char=4
@@ -435,10 +435,10 @@
 18	能	能	VV	VV	_	19	aux:modal	_	start_char=42|end_char=43
 19	适应	适应	VV	VV	_	10	nmod:prep	_	start_char=44|end_char=46
 20	它	它	PN	PN	_	19	dobj	_	start_char=47|end_char=48
-21	。	。	PU	PU	_	19	punct	_	start_char=49|end_char=50
-22	-LSB-	-LSB-	VV	VV	_	19	conj	_	start_char=51|end_char=52
-23	4	4	CD	CD	_	22	nmod:range	_	start_char=53|end_char=54
-24	-RSB-	-RSB-	PU	PU	_	10	punct	_	start_char=55|end_char=56
+21	。	。	PU	PU	_	10	punct	_	start_char=49|end_char=50
+22	-LSB-	-LSB-	PU	PU	_	10	punct	_	start_char=51|end_char=56
+23	4	4	CD	CD	_	24	dep	_	start_char=57|end_char=58
+24	-RSB-	-RSB-	NN	NN	_	10	dep	_	start_char=59|end_char=64
 
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	买	买	VV	VV	_	0	root	_	start_char=2|end_char=3
@@ -788,12 +788,12 @@
 18	可以	可以	VV	VV	_	19	aux:modal	_	start_char=42|end_char=44
 19	防止	防止	VV	VV	_	0	root	_	start_char=45|end_char=47
 20	老鼠	老鼠	NN	NN	_	21	nsubj	_	start_char=48|end_char=50
-21	在家	在家	VV	VV	_	19	ccomp	_	start_char=51|end_char=53
-22	做窝	做窝	VV	VV	_	21	compound:vc	_	start_char=54|end_char=56
+21	在家	在家	VV	VV	_	22	compound:vc	_	start_char=51|end_char=53
+22	做窝	做窝	VV	VV	_	19	ccomp	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	19	punct	_	start_char=57|end_char=58
-24	-LSB-	-LSB-	VV	VV	_	19	conj	_	start_char=59|end_char=60
-25	5	5	CD	CD	_	24	nmod:range	_	start_char=61|end_char=62
-26	-RSB-	-RSB-	M	M	_	25	mark:clf	_	start_char=63|end_char=64
+24	-LSB-	-LSB-	PU	PU	_	26	punct	_	start_char=59|end_char=64
+25	5	5	CD	CD	_	26	dep	_	start_char=65|end_char=66
+26	-RSB-	-RSB-	NN	NN	_	19	dep	_	start_char=67|end_char=72
 
 1	7	7	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	把	把	BA	BA	_	6	aux:ba	_	start_char=2|end_char=3
@@ -895,9 +895,9 @@
 24	值得	值得	VV	VV	_	4	dep	_	start_char=55|end_char=57
 25	的	的	SP	SP	_	24	discourse	_	start_char=58|end_char=59
 26	。	。	PU	PU	_	4	punct	_	start_char=60|end_char=61
-27	-LSB-	-LSB-	VV	VV	_	4	conj	_	start_char=62|end_char=63
-28	6	6	CD	CD	_	27	nmod:range	_	start_char=64|end_char=65
-29	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=66|end_char=67
+27	-LSB-	-LSB-	PU	PU	_	28	punct	_	start_char=62|end_char=67
+28	6	6	CD	CD	_	4	dep	_	start_char=68|end_char=69
+29	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=70|end_char=75
 
 1	检查	检查	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	看	看	VV	VV	_	0	root	_	start_char=3|end_char=4

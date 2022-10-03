@@ -36,294 +36,294 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="541" relname="organization-heading">如何 庆祝 感恩节 // 如何 庆祝 感恩节</segment>
-		<segment id="2" parent="3" relname="context-background">1621年 十一月 的 第四 个 星期四 ， 美国人 庆祝 了 他们 的 第一 个 感恩节 ， // 1621年 十一月 的 第四 个 星期四 ， 美国人 庆祝 了 他们 的 第一 个 感恩节 ，</segment>
-		<segment id="3" parent="289" relname="span">从此以后 ， 感恩节 成 了 美国 的 传统 节日 之一 。 // 从此以后 ， 感恩节 成 了 美国 的 传统 节日 之一 。</segment>
-		<segment id="4" parent="292" relname="adversative-contrast">感恩节 对 不同 的 人 有 着 不同 的 含义 ， // 感恩节 对 不同 的 人 有 着 不同 的 含义 ，</segment>
-		<segment id="5" parent="290" relname="context-circumstance">但 对于 大多数 人 来说 ， // 但 对于 大多数 人 来说 ，</segment>
-		<segment id="6" parent="290" relname="joint-list">感恩节 意味 着 大 吃 一 顿 ， // 感恩节 意味 着 大 吃 一 顿 ，</segment>
-		<segment id="7" parent="290" relname="joint-list">观看 花车 游行 ， // 观看 花车 游行 ，</segment>
-		<segment id="8" parent="290" relname="joint-list">看 球赛 ， // 看 球赛 ，</segment>
-		<segment id="9" parent="290" relname="joint-list">和 家人 还有 朋友们 欢聚一堂 ， // 和 家人 还有 朋友们 欢聚一堂 ，</segment>
-		<segment id="10" parent="290" relname="joint-list">当然 还 有 别具一格 的 感恩节 的 火鸡 大餐 。 // 当然 还 有 别具一格 的 感恩节 的 火鸡 大餐 。</segment>
-		<segment id="11" parent="293" relname="joint-list">感恩节 让 人们 和 家人 朋友 相聚 ， // 感恩节 让 人们 和 家人 朋友 相聚 ，</segment>
-		<segment id="12" parent="293" relname="joint-list">彼此 交谈 // 彼此 交谈</segment>
-		<segment id="13" parent="293" relname="joint-list">和 陪伴 。 // 和 陪伴 。</segment>
-		<segment id="14" parent="294" relname="joint-other">感恩节 设立 的 意义 在于 对 生命 中 美好 的 事物 ， 重要 的 人 表示 感谢 。 // 感恩节 设立 的 意义 在于 对 生命 中 美好 的 事物 ， 重要 的 人 表示 感谢 。</segment>
-		<segment id="15" parent="296" relname="same-unit">如果 你 想 知道 怎样 过 一 个 // 如果 你 想 知道 怎样 过 一 个</segment>
-		<segment id="16" parent="17" relname="elaboration-attribute">有 特点 的 // 有 特点 的</segment>
-		<segment id="17" parent="295" relname="span">感恩节 ， // 感恩节 ，</segment>
-		<segment id="18" parent="297" relname="span">来 阅读 下面 的 步骤 吧 。 // 来 阅读 下面 的 步骤 吧 。</segment>
-		<segment id="19" parent="20" relname="organization-preparation">方法 1 // 方法 1</segment>
-		<segment id="20" parent="300" relname="span">准备 食物 // 准备 食物</segment>
-		<segment id="21" parent="335" relname="organization-heading">1 提前 决定 菜单 。 // 1 提前 决定 菜单 。</segment>
-		<segment id="22" parent="301" relname="span">传统 的 多人 菜单 包括 烤 火鸡 ， 土豆泥 ， 填料 ， 数 种 蔬菜 // 传统 的 多人 菜单 包括 烤 火鸡 ， 土豆泥 ， 填料 ， 数 种 蔬菜</segment>
-		<segment id="23" parent="22" relname="elaboration-additional">包括 甘薯 ， 南瓜 ， // 包括 甘薯 ， 南瓜 ，</segment>
-		<segment id="24" parent="302" relname="same-unit">小红莓 果酱 ， 许多 种类 的 派 ， 还有 面包 。 // 小红莓 果酱 ， 许多 种类 的 派 ， 还有 面包 。</segment>
-		<segment id="25" parent="304" relname="same-unit">下面 是 一些 // 下面 是 一些</segment>
-		<segment id="26" parent="27" relname="elaboration-attribute">你 需要 准备 的 // 你 需要 准备 的</segment>
-		<segment id="27" parent="303" relname="span">事 ： // 事 ：</segment>
-		<segment id="28" parent="306" relname="elaboration-attribute">写下 你 需要 // 写下 你 需要</segment>
-		<segment id="29" parent="30" relname="elaboration-attribute">从 超市 购买 的 // 从 超市 购买 的</segment>
-		<segment id="30" parent="306" relname="span">感恩节 大餐 食材 。 // 感恩节 大餐 食材 。</segment>
-		<segment id="31" parent="310" relname="joint-sequence">检查 你 的 储藏室 ， // 检查 你 的 储藏室 ，</segment>
-		<segment id="32" parent="309" relname="same-unit">确定 // 确定</segment>
-		<segment id="33" parent="34" relname="elaboration-attribute">你 还 没 准备 的 // 你 还 没 准备 的</segment>
-		<segment id="34" parent="308" relname="span">食材 ， // 食材 ，</segment>
-		<segment id="35" parent="312" relname="same-unit">把 // 把</segment>
-		<segment id="36" parent="37" relname="elaboration-attribute">你 所 需要 的 // 你 所 需要 的</segment>
-		<segment id="37" parent="311" relname="span">所有 东西 写在 一 张 单子 上 。 // 所有 东西 写在 一 张 单子 上 。</segment>
-		<segment id="38" parent="315" relname="joint-list">去 本地 的 农贸 市场 ， 肉店 ， 超市 还有 面包店 ， // 去 本地 的 农贸 市场 ， 肉店 ， 超市 还有 面包店 ，</segment>
-		<segment id="39" parent="313" relname="elaboration-attribute">买齐 所有 // 买齐 所有</segment>
-		<segment id="40" parent="41" relname="elaboration-attribute">你 需要 的 // 你 需要 的</segment>
-		<segment id="41" parent="313" relname="span">东西 。 // 东西 。</segment>
-		<segment id="42" parent="317" relname="same-unit">提前 买好 // 提前 买好</segment>
-		<segment id="43" parent="44" relname="elaboration-attribute">感恩节 大餐 所 需要 的 // 感恩节 大餐 所 需要 的</segment>
-		<segment id="44" parent="316" relname="span">食材 。 // 食材 。</segment>
-		<segment id="45" parent="319" relname="span">记得 提前 预定 火鸡 ， // 记得 提前 预定 火鸡 ，</segment>
-		<segment id="46" parent="47" relname="context-circumstance">在 感恩节 到来 之前 // 在 感恩节 到来 之前</segment>
-		<segment id="47" parent="318" relname="span">火鸡 和 食材 会 被 抢购一空 。 // 火鸡 和 食材 会 被 抢购一空 。</segment>
-		<segment id="48" parent="321" relname="contingency-condition">如果 你 可以 冷冻 保存 食材 ， // 如果 你 可以 冷冻 保存 食材 ，</segment>
-		<segment id="49" parent="321" relname="same-unit">提前 买好 // 提前 买好</segment>
-		<segment id="50" parent="51" relname="elaboration-attribute">你 所 需要 的 // 你 所 需要 的</segment>
-		<segment id="51" parent="320" relname="span">东西 ， // 东西 ，</segment>
-		<segment id="52" parent="322" relname="purpose-goal">这样 做 可以 避免 在 最后 一刻 去 超市 抢购 。 // 这样 做 可以 避免 在 最后 一刻 去 超市 抢购 。</segment>
-		<segment id="53" parent="325" relname="adversative-contrast">烘烤 食品 最好 在 感恩节 那 一 天 购买 ， // 烘烤 食品 最好 在 感恩节 那 一 天 购买 ，</segment>
-		<segment id="54" parent="55" relname="contingency-condition">如果 时间 来 不 及 ， // 如果 时间 来 不 及 ，</segment>
-		<segment id="55" parent="324" relname="span">你 可以 自己 在家 烤制 。 // 你 可以 自己 在家 烤制 。</segment>
-		<segment id="56" parent="326" relname="span">你 应该 提前 给 你 的 客人 打 电话 ， // 你 应该 提前 给 你 的 客人 打 电话 ，</segment>
-		<segment id="57" parent="56" relname="purpose-goal">确定 他们 会 按时 到来 。 // 确定 他们 会 按时 到来 。</segment>
-		<segment id="58" parent="59" relname="elaboration-attribute">和 他们 通 电话 的 // 和 他们 通 电话 的</segment>
-		<segment id="59" parent="327" relname="span">时候 ， 询问 他们 是否 想 为 感恩节 大 餐 准备 一 道 菜 ， // 时候 ， 询问 他们 是否 想 为 感恩节 大 餐 准备 一 道 菜 ，</segment>
-		<segment id="60" parent="61" relname="contingency-condition">如果 他们 愿意 准备 ， // 如果 他们 愿意 准备 ，</segment>
-		<segment id="61" parent="328" relname="span">你 将 会 轻松 许多 。 // 你 将 会 轻松 许多 。</segment>
-		<segment id="62" parent="365" relname="organization-heading">2 选择 你 的 食谱 。 // 2 选择 你 的 食谱 。</segment>
-		<segment id="63" parent="343" relname="span">提前 了解 你 的 食谱 ， // 提前 了解 你 的 食谱 ，</segment>
-		<segment id="64" parent="337" relname="mode-means">这样 做 // 这样 做</segment>
-		<segment id="65" parent="66" relname="elaboration-attribute">你 在 采购 的 // 你 在 采购 的</segment>
-		<segment id="66" parent="337" relname="span">时候 才 不 会 遗忘 任何 一 道 菜 的 原材料 。 // 时候 才 不 会 遗忘 任何 一 道 菜 的 原材料 。</segment>
-		<segment id="67" parent="340" relname="same-unit">了解 // 了解</segment>
-		<segment id="68" parent="69" relname="elaboration-attribute">制作 每 道 菜 所 需要 的 // 制作 每 道 菜 所 需要 的</segment>
-		<segment id="69" parent="339" relname="span">时间 。 // 时间 。</segment>
-		<segment id="70" parent="342" relname="same-unit">下面 是 // 下面 是</segment>
-		<segment id="71" parent="72" relname="elaboration-attribute">选择 菜单 和 食谱 的 // 选择 菜单 和 食谱 的</segment>
-		<segment id="72" parent="341" relname="span">一些 建议 ： // 一些 建议 ：</segment>
-		<segment id="73" parent="345" relname="organization-preparation">火鸡 。 // 火鸡 。</segment>
-		<segment id="74" parent="345" relname="joint-list">在 火鸡 里 填上 馅料 ， // 在 火鸡 里 填上 馅料 ，</segment>
-		<segment id="75" parent="345" relname="joint-list">烤 火鸡 ， // 烤 火鸡 ，</segment>
-		<segment id="76" parent="345" relname="joint-list">制作 出 丰盛 的 火鸡 大餐 。 // 制作 出 丰盛 的 火鸡 大餐 。</segment>
-		<segment id="77" parent="347" relname="organization-preparation">蔬菜 。 // 蔬菜 。</segment>
-		<segment id="78" parent="79" relname="organization-preparation">传统 的 菜单 通常 包括 ： // 传统 的 菜单 通常 包括 ：</segment>
-		<segment id="79" parent="347" relname="span">豆角 ， 烤 土豆 ， 甘薯 ， 南瓜 汤 ， 牛蒡 和 白萝卜 。 // 豆角 ， 烤 土豆 ， 甘薯 ， 南瓜 汤 ， 牛蒡 和 白萝卜 。</segment>
-		<segment id="80" parent="81" relname="organization-preparation">装饰 食物 。 // 装饰 食物 。</segment>
-		<segment id="81" parent="349" relname="span">小红莓 果酱 ， 蔓越橘 和 餐包 。 // 小红莓 果酱 ， 蔓越橘 和 餐包 。</segment>
-		<segment id="82" parent="352" relname="organization-preparation">烘焙 食品 。 // 烘焙 食品 。</segment>
-		<segment id="83" parent="351" relname="joint-list">烤 南瓜派 ， 南瓜卷 ， // 烤 南瓜派 ， 南瓜卷 ，</segment>
-		<segment id="84" parent="85" relname="elaboration-attribute">装饰 花果 的 // 装饰 花果 的</segment>
-		<segment id="85" parent="350" relname="span">感恩节 席次牌 ， 感恩节 饼干 。 // 感恩节 席次牌 ， 感恩节 饼干 。</segment>
-		<segment id="86" parent="352" relname="joint-other">你 也 可以 用 南瓜 做成 其他 的 感恩节 甜点 。 // 你 也 可以 用 南瓜 做成 其他 的 感恩节 甜点 。</segment>
-		<segment id="87" parent="355" relname="organization-preparation">为 素食者 准备 的 食谱 ： // 为 素食者 准备 的 食谱 ：</segment>
-		<segment id="88" parent="355" relname="same-unit">各 种 蔬菜 和 // 各 种 蔬菜 和</segment>
-		<segment id="89" parent="90" relname="elaboration-attribute">豆腐 做 的 // 豆腐 做 的</segment>
-		<segment id="90" parent="354" relname="span">素 火鸡 。 // 素 火鸡 。</segment>
-		<segment id="91" parent="360" relname="span">准备 一些 零食 ， 比如 小菜 ， 糖果 和 三明治 。 // 准备 一些 零食 ， 比如 小菜 ， 糖果 和 三明治 。</segment>
-		<segment id="92" parent="358" relname="same-unit">如果 // 如果</segment>
-		<segment id="93" parent="94" relname="elaboration-attribute">你 的 感恩节 晚餐 开始 的 // 你 的 感恩节 晚餐 开始 的</segment>
-		<segment id="94" parent="357" relname="span">时间 比较 晚 ， // 时间 比较 晚 ，</segment>
-		<segment id="95" parent="359" relname="span">这些 零食 会 让 你 和 你 的 客人 不 感到 饥饿 。 // 这些 零食 会 让 你 和 你 的 客人 不 感到 饥饿 。</segment>
-		<segment id="96" parent="361" relname="span">你 甚至 可以 做出 一 个 糖果 火鸡 ， // 你 甚至 可以 做出 一 个 糖果 火鸡 ，</segment>
-		<segment id="97" parent="96" relname="evaluation-comment">孩子们 一定 会 喜欢 它 的 ！ // 孩子们 一定 会 喜欢 它 的 ！</segment>
-		<segment id="98" parent="391" relname="organization-heading">3 准备 食物 。 // 3 准备 食物 。</segment>
-		<segment id="99" parent="367" relname="adversative-contrast">有些 食物 可以 在 感恩节 前 一 天 准备 好 ， 比如 饼干 和 南瓜派 ， // 有些 食物 可以 在 感恩节 前 一 天 准备 好 ， 比如 饼干 和 南瓜派 ，</segment>
-		<segment id="100" parent="367" relname="adversative-contrast">但 有些 食物 比如 火鸡 必须 在 感恩节 这 一 天 制作 。 // 但 有些 食物 比如 火鸡 必须 在 感恩节 这 一 天 制作 。</segment>
-		<segment id="101" parent="102" relname="context-circumstance">无论 你 什么 时候 开始 准备 ， // 无论 你 什么 时候 开始 准备 ，</segment>
-		<segment id="102" parent="369" relname="span">都 不 要 害怕 寻求 帮助 ， // 都 不 要 害怕 寻求 帮助 ，</segment>
-		<segment id="103" parent="104" relname="elaboration-attribute">来自 他人 的 // 来自 他人 的</segment>
-		<segment id="104" parent="370" relname="span">帮助 会 使 你 的 准备 更加 充分 ， // 帮助 会 使 你 的 准备 更加 充分 ，</segment>
-		<segment id="105" parent="371" relname="joint-other">也 会 让 你 的 节日 更加 快乐 。 // 也 会 让 你 的 节日 更加 快乐 。</segment>
-		<segment id="106" parent="374" relname="span">你 也 可以 简单 地 烤 两 只 小 火鸡 // 你 也 可以 简单 地 烤 两 只 小 火鸡</segment>
-		<segment id="107" parent="106" relname="purpose-goal">来 替代 制作 复杂 感恩节 火鸡 。 // 来 替代 制作 复杂 感恩节 火鸡 。</segment>
-		<segment id="108" parent="376" relname="same-unit">下面 是 一些 // 下面 是 一些</segment>
-		<segment id="109" parent="110" relname="elaboration-attribute">你 准备 节日 晚宴 时 // 你 准备 节日 晚宴 时</segment>
-		<segment id="110" parent="375" relname="span">需要 做 的 事 ： // 需要 做 的 事 ：</segment>
-		<segment id="111" parent="377" relname="span">留出 足够 的 时间 // 留出 足够 的 时间</segment>
-		<segment id="112" parent="111" relname="purpose-goal">让 火鸡 解冻 。 // 让 火鸡 解冻 。</segment>
-		<segment id="113" parent="378" relname="span">解冻 的 时间 // 解冻 的 时间</segment>
-		<segment id="114" parent="113" relname="attribution-positive">根据 火鸡 的 大小 和 重量 // 根据 火鸡 的 大小 和 重量</segment>
-		<segment id="115" parent="379" relname="same-unit">有所 变化 。 // 有所 变化 。</segment>
-		<segment id="116" parent="382" relname="span">提前 一 天 烘焙 南瓜派 或 其他 派 。 // 提前 一 天 烘焙 南瓜派 或 其他 派 。</segment>
-		<segment id="117" parent="381" relname="span">这样 做 会 给 你 留出 足够 的 时间 // 这样 做 会 给 你 留出 足够 的 时间</segment>
-		<segment id="118" parent="117" relname="purpose-goal">来 制作 感恩节 的 主菜 。 // 来 制作 感恩节 的 主菜 。</segment>
-		<segment id="119" parent="383" relname="joint-other">烤 火鸡 ， // 烤 火鸡 ，</segment>
-		<segment id="120" parent="383" relname="joint-other">并 在 感恩节 这 一 天 完成 所有 的 准备 工作 。 // 并 在 感恩节 这 一 天 完成 所有 的 准备 工作 。</segment>
-		<segment id="121" parent="122" relname="causal-result">在 感恩节 的 前 一 天 把 火鸡 洗净 // 在 感恩节 的 前 一 天 把 火鸡 洗净</segment>
-		<segment id="122" parent="384" relname="span">准备 好 。 // 准备 好 。</segment>
-		<segment id="123" parent="386" relname="same-unit">让 // 让</segment>
-		<segment id="124" parent="125" relname="elaboration-attribute">提前 到 的 // 提前 到 的</segment>
-		<segment id="125" parent="385" relname="span">家人 和 朋友 帮 你 准备 感恩节 大餐 // 家人 和 朋友 帮 你 准备 感恩节 大餐</segment>
-		<segment id="126" parent="386" relname="purpose-goal">来 减轻 工作量 。 // 来 减轻 工作量 。</segment>
-		<segment id="127" parent="128" relname="organization-preparation">方法 2 // 方法 2</segment>
-		<segment id="128" parent="395" relname="span">度过 一 个 不可思议 的 感恩节 // 度过 一 个 不可思议 的 感恩节</segment>
-		<segment id="129" parent="419" relname="organization-heading">1 装点 节日 气氛 。 // 1 装点 节日 气氛 。</segment>
-		<segment id="130" parent="131" relname="contingency-condition">如果 你 有 分离式 的 餐桌 ， // 如果 你 有 分离式 的 餐桌 ，</segment>
-		<segment id="131" parent="396" relname="span">你 就 可以 在 感恩节 的 前 一 天 把 装饰物 放在 桌子 上 ， // 你 就 可以 在 感恩节 的 前 一 天 把 装饰物 放在 桌子 上 ，</segment>
-		<segment id="132" parent="398" relname="contingency-condition">如果 没有 ， // 如果 没有 ，</segment>
-		<segment id="133" parent="398" relname="joint-sequence">把 装饰物 提前 准备 出来 ， // 把 装饰物 提前 准备 出来 ，</segment>
-		<segment id="134" parent="398" relname="joint-sequence">在 第二 天 放在 桌子 上 。 // 在 第二 天 放在 桌子 上 。</segment>
-		<segment id="135" parent="402" relname="joint-other">让 孩子们 帮 你 装饰 桌子 ， // 让 孩子们 帮 你 装饰 桌子 ，</segment>
-		<segment id="136" parent="401" relname="same-unit">让 他们 参与 到 // 让 他们 参与 到</segment>
-		<segment id="137" parent="138" relname="elaboration-attribute">准备 晚餐 的 // 准备 晚餐 的</segment>
-		<segment id="138" parent="400" relname="span">活动 中 来 。 // 活动 中 来 。</segment>
-		<segment id="139" parent="404" relname="same-unit">下面 是 一些 // 下面 是 一些</segment>
-		<segment id="140" parent="141" relname="elaboration-attribute">让 你 的 桌子 富有 节日 气氛 的 // 让 你 的 桌子 富有 节日 气氛 的</segment>
-		<segment id="141" parent="403" relname="span">好 方法 ： // 好 方法 ：</segment>
-		<segment id="142" parent="143" relname="purpose-goal">为了 创造 出 节日 气氛 ， // 为了 创造 出 节日 气氛 ，</segment>
-		<segment id="143" parent="406" relname="span">你 可以 购买 或者 制作 一 个 感恩节 主题 的 中心 装饰品 。 // 你 可以 购买 或者 制作 一 个 感恩节 主题 的 中心 装饰品 。</segment>
-		<segment id="144" parent="407" relname="span">你 能 在 任何 一 家 手工店 找到 DIY 工具包 // 你 能 在 任何 一 家 手工店 找到 DIY 工具包</segment>
-		<segment id="145" parent="144" relname="purpose-attribute">来 制作 中心 装饰物 。 // 来 制作 中心 装饰物 。</segment>
-		<segment id="146" parent="408" relname="joint-list">孩子们 甚至 无事可做 // 孩子们 甚至 无事可做</segment>
-		<segment id="147" parent="408" relname="joint-list">客人们 都 会 乐于 参加 到 装饰物 DIY 活动 中 来 。 // 客人们 都 会 乐于 参加 到 装饰物 DIY 活动 中 来 。</segment>
-		<segment id="148" parent="411" relname="joint-list">香味 蜡烛 ， 花果 装饰 ， 一 把 秋天 的 花束 就 是 很 好 的 桌面 中心 装饰物 。 // 香味 蜡烛 ， 花果 装饰 ， 一 把 秋天 的 花束 就 是 很 好 的 桌面 中心 装饰物 。</segment>
-		<segment id="149" parent="412" relname="joint-disjunction">你 也 可以 制作 感恩节 的 标志 ， // 你 也 可以 制作 感恩节 的 标志 ，</segment>
-		<segment id="150" parent="412" relname="joint-disjunction">或 把 座次表 做成 火鸡 的 形状 。 // 或 把 座次表 做成 火鸡 的 形状 。</segment>
-		<segment id="151" parent="411" relname="joint-list">制作 火鸡 形状 的 餐巾架 。 // 制作 火鸡 形状 的 餐巾架 。</segment>
-		<segment id="152" parent="413" relname="span">制作 感恩节 花束 。 // 制作 感恩节 花束 。</segment>
-		<segment id="153" parent="152" relname="elaboration-additional">花束 可以 放在 桌子 上 或者 餐具柜 上 。 // 花束 可以 放在 桌子 上 或者 餐具柜 上 。</segment>
-		<segment id="154" parent="417" relname="adversative-contrast">为 你 的 客人 准备 足够 的 座椅 。 // 为 你 的 客人 准备 足够 的 座椅 。</segment>
-		<segment id="155" parent="422" relname="contingency-condition">如果 你 的 座椅 不 够 多 ， // 如果 你 的 座椅 不 够 多 ，</segment>
-		<segment id="156" parent="421" relname="span">可以 分出 一 部分 客人 // 可以 分出 一 部分 客人</segment>
-		<segment id="157" parent="414" relname="joint-list">垫 着 枕头 // 垫 着 枕头</segment>
-		<segment id="158" parent="414" relname="joint-list">坐在 地上 ， // 坐在 地上 ，</segment>
-		<segment id="159" parent="422" relname="same-unit">在 咖啡桌 上 用餐 。 // 在 咖啡桌 上 用餐 。</segment>
-		<segment id="160" parent="443" relname="organization-heading">2 进行 一些 传统 的 感恩节 活动 。 // 2 进行 一些 传统 的 感恩节 活动 。</segment>
-		<segment id="161" parent="442" relname="organization-preparation">你 可以 在 感恩节 晚餐 之前 ， 之中 或 之后 进行 这些 活动 。 // 你 可以 在 感恩节 晚餐 之前 ， 之中 或 之后 进行 这些 活动 。</segment>
-		<segment id="162" parent="425" relname="same-unit">下面 是 一些 // 下面 是 一些</segment>
-		<segment id="163" parent="164" relname="elaboration-attribute">倍受 人们 喜爱 的 // 倍受 人们 喜爱 的</segment>
-		<segment id="164" parent="424" relname="span">活动 ： // 活动 ：</segment>
-		<segment id="165" parent="433" relname="span">一起 看 电视 和 足球赛 。 // 一起 看 电视 和 足球赛 。</segment>
-		<segment id="166" parent="167" relname="context-circumstance">对于 很多 足球迷 来说 ， // 对于 很多 足球迷 来说 ，</segment>
-		<segment id="167" parent="428" relname="span">在 感恩节 这 一 天 花上 几 个 小 来 看 球赛 是 一 大 享受 。 // 在 感恩节 这 一 天 花上 几 个 小 来 看 球赛 是 一 大 享受 。</segment>
-		<segment id="168" parent="427" relname="same-unit">看 球赛 是 // 看 球赛 是</segment>
-		<segment id="169" parent="170" relname="elaboration-attribute">消磨 感恩节 晚餐 前 的 时间 的 // 消磨 感恩节 晚餐 前 的 时间 的</segment>
-		<segment id="170" parent="426" relname="span">好 方法 ， // 好 方法 ，</segment>
-		<segment id="171" parent="429" relname="span">除此之外 ， 你 还 可以 组织 一 场 家人 或 朋友 邻居 之间 后院 球赛 ， // 除此之外 ， 你 还 可以 组织 一 场 家人 或 朋友 邻居 之间 后院 球赛 ，</segment>
-		<segment id="172" parent="430" relname="joint-list">来 打发 时间 // 来 打发 时间</segment>
-		<segment id="173" parent="430" relname="joint-list">并 享受 运动 的 乐趣 。 // 并 享受 运动 的 乐趣 。</segment>
-		<segment id="174" parent="435" relname="same-unit">和 孩子们 一起 看 // 和 孩子们 一起 看</segment>
-		<segment id="175" parent="176" relname="elaboration-attribute">电视 转播 的 // 电视 转播 的</segment>
-		<segment id="176" parent="434" relname="span">梅西 的 感恩节 游行 。 // 梅西 的 感恩节 游行 。</segment>
-		<segment id="177" parent="436" relname="joint-other">这 场 壮观 的 游行 在 纽约 举行 ， // 这 场 壮观 的 游行 在 纽约 举行 ，</segment>
-		<segment id="178" parent="437" relname="span">受众 广泛 ， // 受众 广泛 ，</segment>
-		<segment id="179" parent="178" relname="explanation-evidence">每 年 都 有 数百万 的 家庭 收看 转播 。 // 每 年 都 有 数百万 的 家庭 收看 转播 。</segment>
-		<segment id="180" parent="181" relname="contingency-condition">如果 时间 允许 ， // 如果 时间 允许 ，</segment>
-		<segment id="181" parent="438" relname="span">你 可以 参加 本地 的 感恩节 游行 。 // 你 可以 参加 本地 的 感恩节 游行 。</segment>
-		<segment id="182" parent="183" relname="purpose-goal">3 花 一些 时间 // 3 花 一些 时间</segment>
-		<segment id="183" parent="445" relname="span">思考 感恩节 的 意义 。 // 思考 感恩节 的 意义 。</segment>
-		<segment id="184" parent="446" relname="same-unit">感恩节 是 // 感恩节 是</segment>
-		<segment id="185" parent="186" relname="context-circumstance">许多 家庭 分开 数 年 后 // 许多 家庭 分开 数 年 后</segment>
-		<segment id="186" parent="447" relname="span">重聚 的 好 时机 ， // 重聚 的 好 时机 ，</segment>
-		<segment id="187" parent="449" relname="span">也 是 反映 你 对 他人 的 爱 的 好 机会 ， // 也 是 反映 你 对 他人 的 爱 的 好 机会 ，</segment>
-		<segment id="188" parent="187" relname="elaboration-additional">你 可以 在 这 一 天 分享 你 的 感激 之 情 。 // 你 可以 在 这 一 天 分享 你 的 感激 之 情 。</segment>
-		<segment id="189" parent="190" relname="mode-manner">按照 你 个人 的 家庭 风格 // 按照 你 个人 的 家庭 风格</segment>
-		<segment id="190" parent="450" relname="span">来 表达 你 的 感激 ， // 来 表达 你 的 感激 ，</segment>
-		<segment id="191" parent="451" relname="joint-disjunction">或者 你 可以 使用 下面 的 建议 ： // 或者 你 可以 使用 下面 的 建议 ：</segment>
-		<segment id="192" parent="474" relname="span">玩 一 个 家庭 字母 游戏 。 // 玩 一 个 家庭 字母 游戏 。</segment>
-		<segment id="193" parent="452" relname="joint-other">让 所有 人 坐在 一起 ， // 让 所有 人 坐在 一起 ，</segment>
-		<segment id="194" parent="452" relname="joint-other">保证 所有 人 能 听到 所有 人 。 // 保证 所有 人 能 听到 所有 人 。</segment>
-		<segment id="195" parent="454" relname="mode-manner">按照 字母表 的 顺序 ， // 按照 字母表 的 顺序 ，</segment>
-		<segment id="196" parent="454" relname="same-unit">每 个 人 轮流 说出 他 或 她 // 每 个 人 轮流 说出 他 或 她</segment>
-		<segment id="197" parent="198" relname="elaboration-attribute">所 感激 的 // 所 感激 的</segment>
-		<segment id="198" parent="453" relname="span">事物 。 // 事物 。</segment>
-		<segment id="199" parent="457" relname="same-unit">比如 ， // 比如 ，</segment>
-		<segment id="200" parent="201" relname="elaboration-attribute">第一 个 人 轮到 的 // 第一 个 人 轮到 的</segment>
-		<segment id="201" parent="456" relname="span">字母 是 “ A ” ， // 字母 是 “ A ” ，</segment>
-		<segment id="202" parent="203" relname="attribution-positive">他 可以 说 // 他 可以 说</segment>
-		<segment id="203" parent="458" relname="span">感谢 我 的 罗娜 阿姨 ， // 感谢 我 的 罗娜 阿姨 ，</segment>
-		<segment id="204" parent="205" relname="elaboration-attribute">第二 个人 轮到 的 // 第二 个人 轮到 的</segment>
-		<segment id="205" parent="460" relname="span">字母 是 “ B ” ， // 字母 是 “ B ” ，</segment>
-		<segment id="206" parent="207" relname="attribution-positive">他 可以 说 // 他 可以 说</segment>
-		<segment id="207" parent="461" relname="span">感谢 我 的 兄弟们 ， // 感谢 我 的 兄弟们 ，</segment>
-		<segment id="208" parent="463" relname="context-circumstance">第三 个人 轮到 的 是 “ C ” ， // 第三 个人 轮到 的 是 “ C ” ，</segment>
-		<segment id="209" parent="210" relname="attribution-positive">他 可以 说 // 他 可以 说</segment>
-		<segment id="210" parent="463" relname="span">感谢 我 细心 周到 的 妈妈 。 // 感谢 我 细心 周到 的 妈妈 。</segment>
-		<segment id="211" parent="468" relname="span">一直 轮 下去 ， // 一直 轮 下去 ，</segment>
-		<segment id="212" parent="211" relname="context-circumstance">直 到 二十六 个 字母 都 说完 。 // 直 到 二十六 个 字母 都 说完 。</segment>
-		<segment id="213" parent="214" relname="elaboration-attribute">做 游戏 的 // 做 游戏 的</segment>
-		<segment id="214" parent="469" relname="span">过程 还 可以 录 下来 ， // 过程 还 可以 录 下来 ，</segment>
-		<segment id="215" parent="471" relname="same-unit">作为 // 作为</segment>
-		<segment id="216" parent="217" relname="elaboration-attribute">未来 回忆 时 的 // 未来 回忆 时 的</segment>
-		<segment id="217" parent="470" relname="span">温馨 一 幕 。 // 温馨 一 幕 。</segment>
-		<segment id="218" parent="481" relname="joint-other">你 可以 创造 一 个 感恩节 新 传统 。 // 你 可以 创造 一 个 感恩节 新 传统 。</segment>
-		<segment id="219" parent="477" relname="same-unit">这 一 天 是 // 这 一 天 是</segment>
-		<segment id="220" parent="221" relname="elaboration-attribute">学会 感恩 的 // 学会 感恩 的</segment>
-		<segment id="221" parent="478" relname="span">好 时机 ， // 好 时机 ，</segment>
-		<segment id="222" parent="477" relname="elaboration-additional">表达 你 对 每 一 件 美好 事物 或 每 一 个 人 的 感激 之 情 。 // 表达 你 对 每 一 件 美好 事物 或 每 一 个 人 的 感激 之 情 。</segment>
-		<segment id="223" parent="489" relname="organization-preparation">4 在 感恩节 帮助 穷人 。 // 4 在 感恩节 帮助 穷人 。</segment>
-		<segment id="224" parent="485" relname="context-circumstance">在 感恩节 时 做 义工 ， // 在 感恩节 时 做 义工 ，</segment>
-		<segment id="225" parent="485" relname="joint-list">在 流浪者 庇护所 提供 食物 ， // 在 流浪者 庇护所 提供 食物 ，</segment>
-		<segment id="226" parent="487" relname="same-unit">捐出 多余 的 罐头 和 // 捐出 多余 的 罐头 和</segment>
-		<segment id="227" parent="228" relname="elaboration-attribute">包装 好 的 // 包装 好 的</segment>
-		<segment id="228" parent="486" relname="span">食物 ， // 食物 ，</segment>
-		<segment id="229" parent="485" relname="joint-list">捐献 食物 和 衣服 ， // 捐献 食物 和 衣服 ，</segment>
-		<segment id="230" parent="485" relname="joint-list">举行 捐款 活动 。 // 举行 捐款 活动 。</segment>
-		<segment id="231" parent="488" relname="evaluation-comment">这些 活动 可以 教育 你 的 孩子们 有 感恩 之 心 。 // 这些 活动 可以 教育 你 的 孩子们 有 感恩 之 心 。</segment>
-		<segment id="232" parent="515" relname="organization-heading">5 计划 晚餐 后 的 活动 。 // 5 计划 晚餐 后 的 活动 。</segment>
-		<segment id="233" parent="234" relname="context-circumstance">吃完 晚饭 后 // 吃完 晚饭 后</segment>
-		<segment id="234" parent="491" relname="span">所有 人 多少 有点 昏昏 欲睡 ， // 所有 人 多少 有点 昏昏 欲睡 ，</segment>
-		<segment id="235" parent="492" relname="span">这 时候 可以 进行 一些 放松 的 娱乐 项目 ， // 这 时候 可以 进行 一些 放松 的 娱乐 项目 ，</segment>
-		<segment id="236" parent="513" relname="organization-preparation">下面 是 一些 建议 ： // 下面 是 一些 建议 ：</segment>
-		<segment id="237" parent="494" relname="span">全家 人 一起 散步 。 // 全家 人 一起 散步 。</segment>
-		<segment id="238" parent="493" relname="joint-other">不 要 忘记 你 平常 的 遛狗 活动 ， // 不 要 忘记 你 平常 的 遛狗 活动 ，</segment>
-		<segment id="239" parent="493" relname="joint-other">尤其是 在 狗狗 吃 了 感恩节 饼干 之后 。 // 尤其是 在 狗狗 吃 了 感恩节 饼干 之后 。</segment>
-		<segment id="240" parent="496" relname="span">娱乐 活动 。 // 娱乐 活动 。</segment>
-		<segment id="241" parent="495" relname="joint-list">玩 字谜 游戏 ， // 玩 字谜 游戏 ，</segment>
-		<segment id="242" parent="495" relname="joint-list">讲 故事 ， // 讲 故事 ，</segment>
-		<segment id="243" parent="495" relname="joint-list">分享 照片 ， // 分享 照片 ，</segment>
-		<segment id="244" parent="495" relname="joint-list">聊 新闻 等等 。 // 聊 新闻 等等 。</segment>
-		<segment id="245" parent="503" relname="span">阅读 。 // 阅读 。</segment>
-		<segment id="246" parent="499" relname="same-unit">你 平时 总 有 一些 // 你 平时 总 有 一些</segment>
-		<segment id="247" parent="497" relname="adversative-contrast">收集 起来 // 收集 起来</segment>
-		<segment id="248" parent="497" relname="adversative-contrast">却 没 时间 看 得 // 却 没 时间 看 得</segment>
-		<segment id="249" parent="498" relname="span">书 ， // 书 ，</segment>
-		<segment id="250" parent="501" relname="same-unit">现在 就 是 // 现在 就 是</segment>
-		<segment id="251" parent="252" relname="elaboration-attribute">开始 阅读 它们 的 // 开始 阅读 它们 的</segment>
-		<segment id="252" parent="500" relname="span">好 时候 。 // 好 时候 。</segment>
-		<segment id="253" parent="510" relname="span">看 电影 。 // 看 电影 。</segment>
-		<segment id="254" parent="506" relname="span">浏览 电视 节目表 // 浏览 电视 节目表</segment>
-		<segment id="255" parent="504" relname="attribution-positive">来 寻找 // 来 寻找</segment>
-		<segment id="256" parent="257" relname="elaboration-attribute">适合 观看 的 // 适合 观看 的</segment>
-		<segment id="257" parent="504" relname="span">电影 ， // 电影 ，</segment>
-		<segment id="258" parent="509" relname="same-unit">或者 欣赏 // 或者 欣赏</segment>
-		<segment id="259" parent="260" relname="elaboration-attribute">你 最 喜欢 的 // 你 最 喜欢 的</segment>
-		<segment id="260" parent="508" relname="span">碟片 。 // 碟片 。</segment>
-		<segment id="261" parent="512" relname="span">玩 棋盘 游戏 。 // 玩 棋盘 游戏 。</segment>
-		<segment id="262" parent="263" relname="contingency-condition">如果 孩子们 的 兴致 很 高 ， // 如果 孩子们 的 兴致 很 高 ，</segment>
-		<segment id="263" parent="511" relname="span">你 可以 组织 他们 进行 棋盘 游戏 。 // 你 可以 组织 他们 进行 棋盘 游戏 。</segment>
+		<segment id="1" parent="541" relname="organization-heading">如何 庆祝 感恩节 // how to celebrate thanksgiving</segment>
+		<segment id="2" parent="3" relname="context-background">1621年 十一月 的 第四 个 星期四 ， 美国人 庆祝 了 他们 的 第一 个 感恩节 ， // On the fourth Thursday in November 1621, Americans celebrated their first Thanksgiving,</segment>
+		<segment id="3" parent="289" relname="span">从此以后 ， 感恩节 成 了 美国 的 传统 节日 之一 。 // Since then, Thanksgiving has become one of the traditional holidays in the United States.</segment>
+		<segment id="4" parent="292" relname="adversative-contrast">感恩节 对 不同 的 人 有 着 不同 的 含义 ， // Thanksgiving has different meanings to different people,</segment>
+		<segment id="5" parent="290" relname="context-circumstance">但 对于 大多数 人 来说 ， // But for most people,</segment>
+		<segment id="6" parent="290" relname="joint-list">感恩节 意味 着 大 吃 一 顿 ， // Thanksgiving means a big meal,</segment>
+		<segment id="7" parent="290" relname="joint-list">观看 花车 游行 ， // watch the float parade,</segment>
+		<segment id="8" parent="290" relname="joint-list">看 球赛 ， // watch the game,</segment>
+		<segment id="9" parent="290" relname="joint-list">和 家人 还有 朋友们 欢聚一堂 ， // Gather with family and friends,</segment>
+		<segment id="10" parent="290" relname="joint-list">当然 还 有 别具一格 的 感恩节 的 火鸡 大餐 。 // And of course there's a special Thanksgiving turkey meal.</segment>
+		<segment id="11" parent="293" relname="joint-list">感恩节 让 人们 和 家人 朋友 相聚 ， // Thanksgiving brings people together with family and friends,</segment>
+		<segment id="12" parent="293" relname="joint-list">彼此 交谈 // talking to each other</segment>
+		<segment id="13" parent="293" relname="joint-list">和 陪伴 。 // and accompany.</segment>
+		<segment id="14" parent="294" relname="joint-other">感恩节 设立 的 意义 在于 对 生命 中 美好 的 事物 ， 重要 的 人 表示 感谢 。 // The purpose of Thanksgiving is to express gratitude for the good things in life and the important people.</segment>
+		<segment id="15" parent="296" relname="same-unit">如果 你 想 知道 怎样 过 一 个 // If you want to know how to live one</segment>
+		<segment id="16" parent="17" relname="elaboration-attribute">有 特点 的 // unique</segment>
+		<segment id="17" parent="295" relname="span">感恩节 ， // Thanksgiving ,</segment>
+		<segment id="18" parent="297" relname="span">来 阅读 下面 的 步骤 吧 。 // Read the steps below.</segment>
+		<segment id="19" parent="20" relname="organization-preparation">方法 1 // method 1</segment>
+		<segment id="20" parent="300" relname="span">准备 食物 // prepare food</segment>
+		<segment id="21" parent="335" relname="organization-heading">1 提前 决定 菜单 。 // 1 Decide on the menu in advance.</segment>
+		<segment id="22" parent="301" relname="span">传统 的 多人 菜单 包括 烤 火鸡 ， 土豆泥 ， 填料 ， 数 种 蔬菜 // Traditional crowd menu includes roast turkey, mashed potatoes, stuffing, several vegetables</segment>
+		<segment id="23" parent="22" relname="elaboration-additional">包括 甘薯 ， 南瓜 ， // Including sweet potatoes, squash,</segment>
+		<segment id="24" parent="302" relname="same-unit">小红莓 果酱 ， 许多 种类 的 派 ， 还有 面包 。 // Cranberry jam, many types of pies, and bread.</segment>
+		<segment id="25" parent="304" relname="same-unit">下面 是 一些 // Below are some</segment>
+		<segment id="26" parent="27" relname="elaboration-attribute">你 需要 准备 的 // what you need to prepare</segment>
+		<segment id="27" parent="303" relname="span">事 ： // thing:</segment>
+		<segment id="28" parent="306" relname="elaboration-attribute">写下 你 需要 // write down what you need</segment>
+		<segment id="29" parent="30" relname="elaboration-attribute">从 超市 购买 的 // Bought from supermarket</segment>
+		<segment id="30" parent="306" relname="span">感恩节 大餐 食材 。 // Thanksgiving meal ingredients.</segment>
+		<segment id="31" parent="310" relname="joint-sequence">检查 你 的 储藏室 ， // Check your pantry,</segment>
+		<segment id="32" parent="309" relname="same-unit">确定 // Sure</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">你 还 没 准备 的 // you are not ready</segment>
+		<segment id="34" parent="308" relname="span">食材 ， // Ingredients ,</segment>
+		<segment id="35" parent="312" relname="same-unit">把 // Bundle</segment>
+		<segment id="36" parent="37" relname="elaboration-attribute">你 所 需要 的 // what you need</segment>
+		<segment id="37" parent="311" relname="span">所有 东西 写在 一 张 单子 上 。 // Write everything on a list.</segment>
+		<segment id="38" parent="315" relname="joint-list">去 本地 的 农贸 市场 ， 肉店 ， 超市 还有 面包店 ， // Go to the local farmers market, butcher, supermarket and bakery,</segment>
+		<segment id="39" parent="313" relname="elaboration-attribute">买齐 所有 // buy all</segment>
+		<segment id="40" parent="41" relname="elaboration-attribute">你 需要 的 // You need</segment>
+		<segment id="41" parent="313" relname="span">东西 。 // thing .</segment>
+		<segment id="42" parent="317" relname="same-unit">提前 买好 // buy in advance</segment>
+		<segment id="43" parent="44" relname="elaboration-attribute">感恩节 大餐 所 需要 的 // All you need for a Thanksgiving meal</segment>
+		<segment id="44" parent="316" relname="span">食材 。 // Ingredients .</segment>
+		<segment id="45" parent="319" relname="span">记得 提前 预定 火鸡 ， // Remember to book your turkey in advance,</segment>
+		<segment id="46" parent="47" relname="context-circumstance">在 感恩节 到来 之前 // before thanksgiving</segment>
+		<segment id="47" parent="318" relname="span">火鸡 和 食材 会 被 抢购一空 。 // Turkey and ingredients will be sold out.</segment>
+		<segment id="48" parent="321" relname="contingency-condition">如果 你 可以 冷冻 保存 食材 ， // If you can freeze your ingredients,</segment>
+		<segment id="49" parent="321" relname="same-unit">提前 买好 // buy in advance</segment>
+		<segment id="50" parent="51" relname="elaboration-attribute">你 所 需要 的 // what you need</segment>
+		<segment id="51" parent="320" relname="span">东西 ， // thing ,</segment>
+		<segment id="52" parent="322" relname="purpose-goal">这样 做 可以 避免 在 最后 一刻 去 超市 抢购 。 // Doing this will save you from a last-minute rush to the supermarket.</segment>
+		<segment id="53" parent="325" relname="adversative-contrast">烘烤 食品 最好 在 感恩节 那 一 天 购买 ， // Baked goods are best bought on Thanksgiving day .</segment>
+		<segment id="54" parent="55" relname="contingency-condition">如果 时间 来 不 及 ， // If time is too late,</segment>
+		<segment id="55" parent="324" relname="span">你 可以 自己 在家 烤制 。 // You can bake it yourself at home.</segment>
+		<segment id="56" parent="326" relname="span">你 应该 提前 给 你 的 客人 打 电话 ， // You should call your guests ahead of time,</segment>
+		<segment id="57" parent="56" relname="purpose-goal">确定 他们 会 按时 到来 。 // Make sure they'll come on time.</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">和 他们 通 电话 的 // on the phone with them</segment>
+		<segment id="59" parent="327" relname="span">时候 ， 询问 他们 是否 想 为 感恩节 大 餐 准备 一 道 菜 ， // time, ask them if they would like to prepare a dish for their Thanksgiving meal,</segment>
+		<segment id="60" parent="61" relname="contingency-condition">如果 他们 愿意 准备 ， // If they are willing to prepare,</segment>
+		<segment id="61" parent="328" relname="span">你 将 会 轻松 许多 。 // You will be a lot easier.</segment>
+		<segment id="62" parent="365" relname="organization-heading">2 选择 你 的 食谱 。 // 2 Choose your recipe.</segment>
+		<segment id="63" parent="343" relname="span">提前 了解 你 的 食谱 ， // Know your recipes ahead of time,</segment>
+		<segment id="64" parent="337" relname="mode-means">这样 做 // this way</segment>
+		<segment id="65" parent="66" relname="elaboration-attribute">你 在 采购 的 // you are purchasing</segment>
+		<segment id="66" parent="337" relname="span">时候 才 不 会 遗忘 任何 一 道 菜 的 原材料 。 // Time will not forget the raw materials of any dish.</segment>
+		<segment id="67" parent="340" relname="same-unit">了解 // learn</segment>
+		<segment id="68" parent="69" relname="elaboration-attribute">制作 每 道 菜 所 需要 的 // All you need to make each dish</segment>
+		<segment id="69" parent="339" relname="span">时间 。 // time .</segment>
+		<segment id="70" parent="342" relname="same-unit">下面 是 // Below is</segment>
+		<segment id="71" parent="72" relname="elaboration-attribute">选择 菜单 和 食谱 的 // Choose from menus and recipes</segment>
+		<segment id="72" parent="341" relname="span">一些 建议 ： // some advices :</segment>
+		<segment id="73" parent="345" relname="organization-preparation">火鸡 。 // turkey .</segment>
+		<segment id="74" parent="345" relname="joint-list">在 火鸡 里 填上 馅料 ， // stuffing the turkey,</segment>
+		<segment id="75" parent="345" relname="joint-list">烤 火鸡 ， // roast turkey,</segment>
+		<segment id="76" parent="345" relname="joint-list">制作 出 丰盛 的 火鸡 大餐 。 // Make a hearty turkey meal.</segment>
+		<segment id="77" parent="347" relname="organization-preparation">蔬菜 。 // vegetable .</segment>
+		<segment id="78" parent="79" relname="organization-preparation">传统 的 菜单 通常 包括 ： // Traditional menus usually include:</segment>
+		<segment id="79" parent="347" relname="span">豆角 ， 烤 土豆 ， 甘薯 ， 南瓜 汤 ， 牛蒡 和 白萝卜 。 // Beans, baked potatoes, sweet potatoes, pumpkin soup, burdock and daikon.</segment>
+		<segment id="80" parent="81" relname="organization-preparation">装饰 食物 。 // Decorate food.</segment>
+		<segment id="81" parent="349" relname="span">小红莓 果酱 ， 蔓越橘 和 餐包 。 // Cranberry jam, cranberries and meal kits.</segment>
+		<segment id="82" parent="352" relname="organization-preparation">烘焙 食品 。 // Baked Goods.</segment>
+		<segment id="83" parent="351" relname="joint-list">烤 南瓜派 ， 南瓜卷 ， // Baked Pumpkin Pie, Pumpkin Rolls,</segment>
+		<segment id="84" parent="85" relname="elaboration-attribute">装饰 花果 的 // decorative flowers</segment>
+		<segment id="85" parent="350" relname="span">感恩节 席次牌 ， 感恩节 饼干 。 // Thanksgiving seating cards, thanksgiving cookies.</segment>
+		<segment id="86" parent="352" relname="joint-other">你 也 可以 用 南瓜 做成 其他 的 感恩节 甜点 。 // You can also use pumpkin for other Thanksgiving desserts.</segment>
+		<segment id="87" parent="355" relname="organization-preparation">为 素食者 准备 的 食谱 ： // Recipes for vegetarians:</segment>
+		<segment id="88" parent="355" relname="same-unit">各 种 蔬菜 和 // various vegetables and</segment>
+		<segment id="89" parent="90" relname="elaboration-attribute">豆腐 做 的 // made of tofu</segment>
+		<segment id="90" parent="354" relname="span">素 火鸡 。 // Vegetarian Turkey.</segment>
+		<segment id="91" parent="360" relname="span">准备 一些 零食 ， 比如 小菜 ， 糖果 和 三明治 。 // Prepare some snacks, such as side dishes, candy and sandwiches.</segment>
+		<segment id="92" parent="358" relname="same-unit">如果 // if</segment>
+		<segment id="93" parent="94" relname="elaboration-attribute">你 的 感恩节 晚餐 开始 的 // your thanksgiving dinner begins</segment>
+		<segment id="94" parent="357" relname="span">时间 比较 晚 ， // It's relatively late,</segment>
+		<segment id="95" parent="359" relname="span">这些 零食 会 让 你 和 你 的 客人 不 感到 饥饿 。 // These snacks will keep you and your guests from feeling hungry.</segment>
+		<segment id="96" parent="361" relname="span">你 甚至 可以 做出 一 个 糖果 火鸡 ， // You can even make a candy turkey,</segment>
+		<segment id="97" parent="96" relname="evaluation-comment">孩子们 一定 会 喜欢 它 的 ！ // Kids will love it!</segment>
+		<segment id="98" parent="391" relname="organization-heading">3 准备 食物 。 // 3 Prepare the food.</segment>
+		<segment id="99" parent="367" relname="adversative-contrast">有些 食物 可以 在 感恩节 前 一 天 准备 好 ， 比如 饼干 和 南瓜派 ， // Some foods can be prepared the day before Thanksgiving, like cookies and pumpkin pie,</segment>
+		<segment id="100" parent="367" relname="adversative-contrast">但 有些 食物 比如 火鸡 必须 在 感恩节 这 一 天 制作 。 // But some foods like turkey must be made on Thanksgiving day .</segment>
+		<segment id="101" parent="102" relname="context-circumstance">无论 你 什么 时候 开始 准备 ， // No matter when you start preparing,</segment>
+		<segment id="102" parent="369" relname="span">都 不 要 害怕 寻求 帮助 ， // Don't be afraid to ask for help,</segment>
+		<segment id="103" parent="104" relname="elaboration-attribute">来自 他人 的 // from others</segment>
+		<segment id="104" parent="370" relname="span">帮助 会 使 你 的 准备 更加 充分 ， // Help will make you more prepared,</segment>
+		<segment id="105" parent="371" relname="joint-other">也 会 让 你 的 节日 更加 快乐 。 // It will also make your holiday even happier.</segment>
+		<segment id="106" parent="374" relname="span">你 也 可以 简单 地 烤 两 只 小 火鸡 // You can also simply roast two small turkeys</segment>
+		<segment id="107" parent="106" relname="purpose-goal">来 替代 制作 复杂 感恩节 火鸡 。 // An alternative to making a complex Thanksgiving turkey.</segment>
+		<segment id="108" parent="376" relname="same-unit">下面 是 一些 // Below are some</segment>
+		<segment id="109" parent="110" relname="elaboration-attribute">你 准备 节日 晚宴 时 // When you're preparing the holiday dinner</segment>
+		<segment id="110" parent="375" relname="span">需要 做 的 事 ： // What needs to be done:</segment>
+		<segment id="111" parent="377" relname="span">留出 足够 的 时间 // allow enough time</segment>
+		<segment id="112" parent="111" relname="purpose-goal">让 火鸡 解冻 。 // Let the turkey thaw.</segment>
+		<segment id="113" parent="378" relname="span">解冻 的 时间 // Thawing time</segment>
+		<segment id="114" parent="113" relname="attribution-positive">根据 火鸡 的 大小 和 重量 // According to the size and weight of the turkey</segment>
+		<segment id="115" parent="379" relname="same-unit">有所 变化 。 // has changed.</segment>
+		<segment id="116" parent="382" relname="span">提前 一 天 烘焙 南瓜派 或 其他 派 。 // Bake pumpkin pie or other pies a day ahead.</segment>
+		<segment id="117" parent="381" relname="span">这样 做 会 给 你 留出 足够 的 时间 // Doing this will give you plenty of time</segment>
+		<segment id="118" parent="117" relname="purpose-goal">来 制作 感恩节 的 主菜 。 // Come make a main course for Thanksgiving.</segment>
+		<segment id="119" parent="383" relname="joint-other">烤 火鸡 ， // roast turkey,</segment>
+		<segment id="120" parent="383" relname="joint-other">并 在 感恩节 这 一 天 完成 所有 的 准备 工作 。 // And get all the prep work done on Thanksgiving day .</segment>
+		<segment id="121" parent="122" relname="causal-result">在 感恩节 的 前 一 天 把 火鸡 洗净 // Rinse the turkey the day before Thanksgiving</segment>
+		<segment id="122" parent="384" relname="span">准备 好 。 // get ready .</segment>
+		<segment id="123" parent="386" relname="same-unit">让 // Let</segment>
+		<segment id="124" parent="125" relname="elaboration-attribute">提前 到 的 // arrived early</segment>
+		<segment id="125" parent="385" relname="span">家人 和 朋友 帮 你 准备 感恩节 大餐 // Family and friends help you prepare a Thanksgiving meal</segment>
+		<segment id="126" parent="386" relname="purpose-goal">来 减轻 工作量 。 // to reduce workload.</segment>
+		<segment id="127" parent="128" relname="organization-preparation">方法 2 // Method 2</segment>
+		<segment id="128" parent="395" relname="span">度过 一 个 不可思议 的 感恩节 // Have an incredible Thanksgiving</segment>
+		<segment id="129" parent="419" relname="organization-heading">1 装点 节日 气氛 。 // 1 Decorate the festive atmosphere.</segment>
+		<segment id="130" parent="131" relname="contingency-condition">如果 你 有 分离式 的 餐桌 ， // If you have a detachable dining table,</segment>
+		<segment id="131" parent="396" relname="span">你 就 可以 在 感恩节 的 前 一 天 把 装饰物 放在 桌子 上 ， // You can put decorations on the table the day before Thanksgiving,</segment>
+		<segment id="132" parent="398" relname="contingency-condition">如果 没有 ， // if there is not ,</segment>
+		<segment id="133" parent="398" relname="joint-sequence">把 装饰物 提前 准备 出来 ， // Prepare the decorations in advance,</segment>
+		<segment id="134" parent="398" relname="joint-sequence">在 第二 天 放在 桌子 上 。 // On the table the next day.</segment>
+		<segment id="135" parent="402" relname="joint-other">让 孩子们 帮 你 装饰 桌子 ， // Let the kids help you decorate the table,</segment>
+		<segment id="136" parent="401" relname="same-unit">让 他们 参与 到 // get them involved</segment>
+		<segment id="137" parent="138" relname="elaboration-attribute">准备 晚餐 的 // preparing dinner</segment>
+		<segment id="138" parent="400" relname="span">活动 中 来 。 // Come during the event.</segment>
+		<segment id="139" parent="404" relname="same-unit">下面 是 一些 // Below are some</segment>
+		<segment id="140" parent="141" relname="elaboration-attribute">让 你 的 桌子 富有 节日 气氛 的 // Make your table festive</segment>
+		<segment id="141" parent="403" relname="span">好 方法 ： // good idea :</segment>
+		<segment id="142" parent="143" relname="purpose-goal">为了 创造 出 节日 气氛 ， // In order to create a festive atmosphere,</segment>
+		<segment id="143" parent="406" relname="span">你 可以 购买 或者 制作 一 个 感恩节 主题 的 中心 装饰品 。 // You can buy or make a Thanksgiving-themed centerpiece.</segment>
+		<segment id="144" parent="407" relname="span">你 能 在 任何 一 家 手工店 找到 DIY 工具包 // You can find DIY kits at any craft store</segment>
+		<segment id="145" parent="144" relname="purpose-attribute">来 制作 中心 装饰物 。 // to make the centerpiece.</segment>
+		<segment id="146" parent="408" relname="joint-list">孩子们 甚至 无事可做 // The kids don't even have anything to do</segment>
+		<segment id="147" parent="408" relname="joint-list">客人们 都 会 乐于 参加 到 装饰物 DIY 活动 中 来 。 // Guests will be delighted to participate in the DIY decoration activities.</segment>
+		<segment id="148" parent="411" relname="joint-list">香味 蜡烛 ， 花果 装饰 ， 一 把 秋天 的 花束 就 是 很 好 的 桌面 中心 装饰物 。 // Scented candles, flower and fruit decorations, and a handful of autumn bouquets make great table centerpieces.</segment>
+		<segment id="149" parent="412" relname="joint-disjunction">你 也 可以 制作 感恩节 的 标志 ， // You can also make a Thanksgiving sign,</segment>
+		<segment id="150" parent="412" relname="joint-disjunction">或 把 座次表 做成 火鸡 的 形状 。 // Or make the seating chart in the shape of a turkey.</segment>
+		<segment id="151" parent="411" relname="joint-list">制作 火鸡 形状 的 餐巾架 。 // Make a napkin holder in the shape of a turkey .</segment>
+		<segment id="152" parent="413" relname="span">制作 感恩节 花束 。 // Make a Thanksgiving bouquet .</segment>
+		<segment id="153" parent="152" relname="elaboration-additional">花束 可以 放在 桌子 上 或者 餐具柜 上 。 // Bouquets can be placed on the table or sideboard .</segment>
+		<segment id="154" parent="417" relname="adversative-contrast">为 你 的 客人 准备 足够 的 座椅 。 // Get enough seats for your guests.</segment>
+		<segment id="155" parent="422" relname="contingency-condition">如果 你 的 座椅 不 够 多 ， // If you don't have enough seats,</segment>
+		<segment id="156" parent="421" relname="span">可以 分出 一 部分 客人 // A part of the guests can be divided</segment>
+		<segment id="157" parent="414" relname="joint-list">垫 着 枕头 // pillow</segment>
+		<segment id="158" parent="414" relname="joint-list">坐在 地上 ， // sit on the floor ,</segment>
+		<segment id="159" parent="422" relname="same-unit">在 咖啡桌 上 用餐 。 // Dine on the coffee table.</segment>
+		<segment id="160" parent="443" relname="organization-heading">2 进行 一些 传统 的 感恩节 活动 。 // 2 Do some traditional Thanksgiving activities .</segment>
+		<segment id="161" parent="442" relname="organization-preparation">你 可以 在 感恩节 晚餐 之前 ， 之中 或 之后 进行 这些 活动 。 // You can do these before, during, or after Thanksgiving dinner.</segment>
+		<segment id="162" parent="425" relname="same-unit">下面 是 一些 // Below are some</segment>
+		<segment id="163" parent="164" relname="elaboration-attribute">倍受 人们 喜爱 的 // much loved</segment>
+		<segment id="164" parent="424" relname="span">活动 ： // Activity :</segment>
+		<segment id="165" parent="433" relname="span">一起 看 电视 和 足球赛 。 // Watch TV and football games together.</segment>
+		<segment id="166" parent="167" relname="context-circumstance">对于 很多 足球迷 来说 ， // For many football fans,</segment>
+		<segment id="167" parent="428" relname="span">在 感恩节 这 一 天 花上 几 个 小 来 看 球赛 是 一 大 享受 。 // It is a great treat to spend a few hours watching the game on Thanksgiving day .</segment>
+		<segment id="168" parent="427" relname="same-unit">看 球赛 是 // watching the game is</segment>
+		<segment id="169" parent="170" relname="elaboration-attribute">消磨 感恩节 晚餐 前 的 时间 的 // to kill time before thanksgiving dinner</segment>
+		<segment id="170" parent="426" relname="span">好 方法 ， // good idea ,</segment>
+		<segment id="171" parent="429" relname="span">除此之外 ， 你 还 可以 组织 一 场 家人 或 朋友 邻居 之间 后院 球赛 ， // In addition to that , you can organize a backyard game between family or friends and neighbors ,</segment>
+		<segment id="172" parent="430" relname="joint-list">来 打发 时间 // to pass the time</segment>
+		<segment id="173" parent="430" relname="joint-list">并 享受 运动 的 乐趣 。 // and enjoy sports .</segment>
+		<segment id="174" parent="435" relname="same-unit">和 孩子们 一起 看 // watch with the kids</segment>
+		<segment id="175" parent="176" relname="elaboration-attribute">电视 转播 的 // televised</segment>
+		<segment id="176" parent="434" relname="span">梅西 的 感恩节 游行 。 // Macy's Thanksgiving Day Parade.</segment>
+		<segment id="177" parent="436" relname="joint-other">这 场 壮观 的 游行 在 纽约 举行 ， // This spectacular parade was held in New York ,</segment>
+		<segment id="178" parent="437" relname="span">受众 广泛 ， // wide audience,</segment>
+		<segment id="179" parent="178" relname="explanation-evidence">每 年 都 有 数百万 的 家庭 收看 转播 。 // Millions of households watch the broadcast every year .</segment>
+		<segment id="180" parent="181" relname="contingency-condition">如果 时间 允许 ， // If time permits ,</segment>
+		<segment id="181" parent="438" relname="span">你 可以 参加 本地 的 感恩节 游行 。 // You can go to the local thanksgiving parade.</segment>
+		<segment id="182" parent="183" relname="purpose-goal">3 花 一些 时间 // 3 spend some time</segment>
+		<segment id="183" parent="445" relname="span">思考 感恩节 的 意义 。 // Consider the meaning of Thanksgiving .</segment>
+		<segment id="184" parent="446" relname="same-unit">感恩节 是 // thanksgiving is</segment>
+		<segment id="185" parent="186" relname="context-circumstance">许多 家庭 分开 数 年 后 // Many families have been separated for years</segment>
+		<segment id="186" parent="447" relname="span">重聚 的 好 时机 ， // good time to reunite,</segment>
+		<segment id="187" parent="449" relname="span">也 是 反映 你 对 他人 的 爱 的 好 机会 ， // It's also a good opportunity to reflect your love for others,</segment>
+		<segment id="188" parent="187" relname="elaboration-additional">你 可以 在 这 一 天 分享 你 的 感激 之 情 。 // You can share your gratitude on this day.</segment>
+		<segment id="189" parent="190" relname="mode-manner">按照 你 个人 的 家庭 风格 // According to your personal family style</segment>
+		<segment id="190" parent="450" relname="span">来 表达 你 的 感激 ， // to express your gratitude,</segment>
+		<segment id="191" parent="451" relname="joint-disjunction">或者 你 可以 使用 下面 的 建议 ： // Or you can use the suggestions below:</segment>
+		<segment id="192" parent="474" relname="span">玩 一 个 家庭 字母 游戏 。 // Play a family alphabet game.</segment>
+		<segment id="193" parent="452" relname="joint-other">让 所有 人 坐在 一起 ， // let everyone sit together,</segment>
+		<segment id="194" parent="452" relname="joint-other">保证 所有 人 能 听到 所有 人 。 // Make sure everyone can hear everyone.</segment>
+		<segment id="195" parent="454" relname="mode-manner">按照 字母表 的 顺序 ， // In alphabetical order,</segment>
+		<segment id="196" parent="454" relname="same-unit">每 个 人 轮流 说出 他 或 她 // Everyone takes turns saying he or she</segment>
+		<segment id="197" parent="198" relname="elaboration-attribute">所 感激 的 // grateful</segment>
+		<segment id="198" parent="453" relname="span">事物 。 // things.</segment>
+		<segment id="199" parent="457" relname="same-unit">比如 ， // for example ,</segment>
+		<segment id="200" parent="201" relname="elaboration-attribute">第一 个 人 轮到 的 // the first person's turn</segment>
+		<segment id="201" parent="456" relname="span">字母 是 “ A ” ， // The letter is "A",</segment>
+		<segment id="202" parent="203" relname="attribution-positive">他 可以 说 // he can say</segment>
+		<segment id="203" parent="458" relname="span">感谢 我 的 罗娜 阿姨 ， // Thanks to my Aunt Rona,</segment>
+		<segment id="204" parent="205" relname="elaboration-attribute">第二 个人 轮到 的 // the second person's turn</segment>
+		<segment id="205" parent="460" relname="span">字母 是 “ B ” ， // The letter is "B",</segment>
+		<segment id="206" parent="207" relname="attribution-positive">他 可以 说 // he can say</segment>
+		<segment id="207" parent="461" relname="span">感谢 我 的 兄弟们 ， // Thanks my brothers,</segment>
+		<segment id="208" parent="463" relname="context-circumstance">第三 个人 轮到 的 是 “ C ” ， // The third person's turn is "C",</segment>
+		<segment id="209" parent="210" relname="attribution-positive">他 可以 说 // he can say</segment>
+		<segment id="210" parent="463" relname="span">感谢 我 细心 周到 的 妈妈 。 // Thanks to my attentive mom.</segment>
+		<segment id="211" parent="468" relname="span">一直 轮 下去 ， // keep turning,</segment>
+		<segment id="212" parent="211" relname="context-circumstance">直 到 二十六 个 字母 都 说完 。 // Until the twenty-six letters are finished.</segment>
+		<segment id="213" parent="214" relname="elaboration-attribute">做 游戏 的 // making games</segment>
+		<segment id="214" parent="469" relname="span">过程 还 可以 录 下来 ， // The process can also be recorded,</segment>
+		<segment id="215" parent="471" relname="same-unit">作为 // as</segment>
+		<segment id="216" parent="217" relname="elaboration-attribute">未来 回忆 时 的 // future memory</segment>
+		<segment id="217" parent="470" relname="span">温馨 一 幕 。 // A warm scene.</segment>
+		<segment id="218" parent="481" relname="joint-other">你 可以 创造 一 个 感恩节 新 传统 。 // You can create a new Thanksgiving tradition.</segment>
+		<segment id="219" parent="477" relname="same-unit">这 一 天 是 // this day is</segment>
+		<segment id="220" parent="221" relname="elaboration-attribute">学会 感恩 的 // learn to be grateful</segment>
+		<segment id="221" parent="478" relname="span">好 时机 ， // good time ,</segment>
+		<segment id="222" parent="477" relname="elaboration-additional">表达 你 对 每 一 件 美好 事物 或 每 一 个 人 的 感激 之 情 。 // Express your gratitude for every good thing or every person.</segment>
+		<segment id="223" parent="489" relname="organization-preparation">4 在 感恩节 帮助 穷人 。 // 4 Help the poor on Thanksgiving.</segment>
+		<segment id="224" parent="485" relname="context-circumstance">在 感恩节 时 做 义工 ， // Volunteer at Thanksgiving,</segment>
+		<segment id="225" parent="485" relname="joint-list">在 流浪者 庇护所 提供 食物 ， // provide food at homeless shelters,</segment>
+		<segment id="226" parent="487" relname="same-unit">捐出 多余 的 罐头 和 // donate excess cans and</segment>
+		<segment id="227" parent="228" relname="elaboration-attribute">包装 好 的 // packaged</segment>
+		<segment id="228" parent="486" relname="span">食物 ， // food ,</segment>
+		<segment id="229" parent="485" relname="joint-list">捐献 食物 和 衣服 ， // donate food and clothes ,</segment>
+		<segment id="230" parent="485" relname="joint-list">举行 捐款 活动 。 // Hold a donation drive.</segment>
+		<segment id="231" parent="488" relname="evaluation-comment">这些 活动 可以 教育 你 的 孩子们 有 感恩 之 心 。 // These activities can teach your children to be grateful.</segment>
+		<segment id="232" parent="515" relname="organization-heading">5 计划 晚餐 后 的 活动 。 // 5 Plan an after-dinner event.</segment>
+		<segment id="233" parent="234" relname="context-circumstance">吃完 晚饭 后 // after dinner</segment>
+		<segment id="234" parent="491" relname="span">所有 人 多少 有点 昏昏 欲睡 ， // Everyone was a little drowsy,</segment>
+		<segment id="235" parent="492" relname="span">这 时候 可以 进行 一些 放松 的 娱乐 项目 ， // At this time, you can have some relaxing entertainment projects.</segment>
+		<segment id="236" parent="513" relname="organization-preparation">下面 是 一些 建议 ： // Here are some suggestions:</segment>
+		<segment id="237" parent="494" relname="span">全家 人 一起 散步 。 // Take a walk with the whole family.</segment>
+		<segment id="238" parent="493" relname="joint-other">不 要 忘记 你 平常 的 遛狗 活动 ， // Don't forget your usual dog walks,</segment>
+		<segment id="239" parent="493" relname="joint-other">尤其是 在 狗狗 吃 了 感恩节 饼干 之后 。 // Especially after the dog eats Thanksgiving cookies.</segment>
+		<segment id="240" parent="496" relname="span">娱乐 活动 。 // entertainment.</segment>
+		<segment id="241" parent="495" relname="joint-list">玩 字谜 游戏 ， // play anagrams,</segment>
+		<segment id="242" parent="495" relname="joint-list">讲 故事 ， // tell a story ,</segment>
+		<segment id="243" parent="495" relname="joint-list">分享 照片 ， // Share photo ,</segment>
+		<segment id="244" parent="495" relname="joint-list">聊 新闻 等等 。 // Chat news and more.</segment>
+		<segment id="245" parent="503" relname="span">阅读 。 // read .</segment>
+		<segment id="246" parent="499" relname="same-unit">你 平时 总 有 一些 // you always have some</segment>
+		<segment id="247" parent="497" relname="adversative-contrast">收集 起来 // collect up</segment>
+		<segment id="248" parent="497" relname="adversative-contrast">却 没 时间 看 得 // But I don't have time to see</segment>
+		<segment id="249" parent="498" relname="span">书 ， // Book ,</segment>
+		<segment id="250" parent="501" relname="same-unit">现在 就 是 // it is now</segment>
+		<segment id="251" parent="252" relname="elaboration-attribute">开始 阅读 它们 的 // start reading them</segment>
+		<segment id="252" parent="500" relname="span">好 时候 。 // good time.</segment>
+		<segment id="253" parent="510" relname="span">看 电影 。 // See a movie .</segment>
+		<segment id="254" parent="506" relname="span">浏览 电视 节目表 // Browse TV program listings</segment>
+		<segment id="255" parent="504" relname="attribution-positive">来 寻找 // to find</segment>
+		<segment id="256" parent="257" relname="elaboration-attribute">适合 观看 的 // suitable for viewing</segment>
+		<segment id="257" parent="504" relname="span">电影 ， // Movie ,</segment>
+		<segment id="258" parent="509" relname="same-unit">或者 欣赏 // or appreciate</segment>
+		<segment id="259" parent="260" relname="elaboration-attribute">你 最 喜欢 的 // your favourite</segment>
+		<segment id="260" parent="508" relname="span">碟片 。 // disc.</segment>
+		<segment id="261" parent="512" relname="span">玩 棋盘 游戏 。 // Play board games.</segment>
+		<segment id="262" parent="263" relname="contingency-condition">如果 孩子们 的 兴致 很 高 ， // If the children are in high spirits,</segment>
+		<segment id="263" parent="511" relname="span">你 可以 组织 他们 进行 棋盘 游戏 。 // You can organize them for a board game.</segment>
 		<segment id="264" parent="518" relname="same-unit">6 // 6</segment>
-		<segment id="265" parent="266" relname="contingency-condition">如果 你 觉得 很 困 ， // 如果 你 觉得 很 困 ，</segment>
-		<segment id="266" parent="517" relname="span">在 饭后 打 一 个 小盹 。 // 在 饭后 打 一 个 小盹 。</segment>
-		<segment id="267" parent="519" relname="contingency-condition">如果 你 计划 参加 下 一 天 的 黑色 星期五 采购 ， // 如果 你 计划 参加 下 一 天 的 黑色 星期五 采购 ，</segment>
-		<segment id="268" parent="269" relname="attribution-positive">你 会 觉得 // 你 会 觉得</segment>
-		<segment id="269" parent="519" relname="span">这 几 个 小时 的 睡眠 非常 值 。 // 这 几 个 小时 的 睡眠 非常 值 。</segment>
-		<segment id="270" parent="271" relname="adversative-concession">即使 你 打算 明天 哪里 都 不 去 ， // 即使 你 打算 明天 哪里 都 不 去 ，</segment>
-		<segment id="271" parent="521" relname="span">在 沙发 上 打 个 盹 也 没 什么 ， // 在 沙发 上 打 个 盹 也 没 什么 ，</segment>
-		<segment id="272" parent="522" relname="joint-list">这样 做 会 让 你 精力 充沛 // 这样 做 会 让 你 精力 充沛</segment>
-		<segment id="273" parent="522" relname="joint-list">感觉 更 好 。 // 感觉 更 好 。</segment>
-		<segment id="274" parent="527" relname="same-unit">7 在 下 一 天 充分 利用 // 7 在 下 一 天 充分 利用</segment>
-		<segment id="275" parent="276" relname="elaboration-attribute">感恩节 剩 下来 的 // 感恩节 剩 下来 的</segment>
-		<segment id="276" parent="526" relname="span">食物 。 // 食物 。</segment>
-		<segment id="277" parent="528" relname="adversative-contrast">你 的 客人 可以 带走 一 部分 食物 ， // 你 的 客人 可以 带走 一 部分 食物 ，</segment>
-		<segment id="278" parent="528" relname="adversative-contrast">但 剩下 的 食物 仍旧 数量 可观 。 // 但 剩下 的 食物 仍旧 数量 可观 。</segment>
-		<segment id="279" parent="280" relname="context-circumstance">第二 天 ， 你 充分 休息 之后 ， // 第二 天 ， 你 充分 休息 之后 ，</segment>
-		<segment id="280" parent="529" relname="span">就 该 着手 利用 剩下 的 食物 了 ， // 就 该 着手 利用 剩下 的 食物 了 ，</segment>
-		<segment id="281" parent="530" relname="organization-preparation">下面 是 一些 制作 建议 ： // 下面 是 一些 制作 建议 ：</segment>
-		<segment id="282" parent="530" relname="joint-list">火鸡 和 杂烩 // 火鸡 和 杂烩</segment>
-		<segment id="283" parent="530" relname="joint-list">火鸡汤 // 火鸡汤</segment>
-		<segment id="284" parent="530" relname="joint-list">火鸡 三明治 // 火鸡 三明治</segment>
-		<segment id="285" parent="286" relname="elaboration-attribute">裹有 加雪莉酒 的 // 裹有 加雪莉酒 的</segment>
-		<segment id="286" parent="531" relname="span">面包屑 的 火鸡 // 面包屑 的 火鸡</segment>
-		<segment id="287" parent="530" relname="joint-list">碎 火鸡肉 // 碎 火鸡肉</segment>
-		<segment id="288" parent="530" relname="joint-list">在 接下来 的 几 天 处理 火鸡 残余物 // 在 接下来 的 几 天 处理 火鸡 残余物</segment>
+		<segment id="265" parent="266" relname="contingency-condition">如果 你 觉得 很 困 ， // If you feel sleepy,</segment>
+		<segment id="266" parent="517" relname="span">在 饭后 打 一 个 小盹 。 // Take a nap after dinner.</segment>
+		<segment id="267" parent="519" relname="contingency-condition">如果 你 计划 参加 下 一 天 的 黑色 星期五 采购 ， // If you're planning on attending the next day's Black Friday shopping,</segment>
+		<segment id="268" parent="269" relname="attribution-positive">你 会 觉得 // you will feel</segment>
+		<segment id="269" parent="519" relname="span">这 几 个 小时 的 睡眠 非常 值 。 // These few hours of sleep are worth it.</segment>
+		<segment id="270" parent="271" relname="adversative-concession">即使 你 打算 明天 哪里 都 不 去 ， // Even if you're not going anywhere tomorrow,</segment>
+		<segment id="271" parent="521" relname="span">在 沙发 上 打 个 盹 也 没 什么 ， // It's okay to take a nap on the sofa,</segment>
+		<segment id="272" parent="522" relname="joint-list">这样 做 会 让 你 精力 充沛 // Doing this will give you energy</segment>
+		<segment id="273" parent="522" relname="joint-list">感觉 更 好 。 // feel better .</segment>
+		<segment id="274" parent="527" relname="same-unit">7 在 下 一 天 充分 利用 // 7 Make the most of the next day</segment>
+		<segment id="275" parent="276" relname="elaboration-attribute">感恩节 剩 下来 的 // Leftovers from Thanksgiving</segment>
+		<segment id="276" parent="526" relname="span">食物 。 // food .</segment>
+		<segment id="277" parent="528" relname="adversative-contrast">你 的 客人 可以 带走 一 部分 食物 ， // Your guests can take part of their food,</segment>
+		<segment id="278" parent="528" relname="adversative-contrast">但 剩下 的 食物 仍旧 数量 可观 。 // But the rest of the food is still plentiful .</segment>
+		<segment id="279" parent="280" relname="context-circumstance">第二 天 ， 你 充分 休息 之后 ， // The next day, after you've had enough rest,</segment>
+		<segment id="280" parent="529" relname="span">就 该 着手 利用 剩下 的 食物 了 ， // Time to start using the leftover food.</segment>
+		<segment id="281" parent="530" relname="organization-preparation">下面 是 一些 制作 建议 ： // Here are some production suggestions :</segment>
+		<segment id="282" parent="530" relname="joint-list">火鸡 和 杂烩 // Turkey and Chowder</segment>
+		<segment id="283" parent="530" relname="joint-list">火鸡汤 // turkey soup</segment>
+		<segment id="284" parent="530" relname="joint-list">火鸡 三明治 // turkey sandwich</segment>
+		<segment id="285" parent="286" relname="elaboration-attribute">裹有 加雪莉酒 的 // wrapped in sherry</segment>
+		<segment id="286" parent="531" relname="span">面包屑 的 火鸡 // Breaded Turkey</segment>
+		<segment id="287" parent="530" relname="joint-list">碎 火鸡肉 // ground turkey</segment>
+		<segment id="288" parent="530" relname="joint-list">在 接下来 的 几 天 处理 火鸡 残余物 // Dispose of turkey leftovers for the next few days</segment>
 		<group id="289" type="span" parent="298" relname="joint-other"/>
 		<group id="290" type="multinuc" parent="291" relname="span"/>
 		<group id="291" type="span" parent="292" relname="adversative-contrast"/>

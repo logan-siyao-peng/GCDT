@@ -134,11 +134,11 @@
 		<segment id="96" parent="191" relname="adversative-contrast">却 显 笔触 之 细腻 ， // But it shows the delicacy of brushstrokes,</segment>
 		<segment id="97" parent="192" relname="joint-list">体现 她 惊人 的 观察力 ， // Embodying her amazing power of observation ,</segment>
 		<segment id="98" parent="192" relname="joint-list">也 让 她 成为 女性 文学 的 先驱 作家 。 // It also made her a pioneering writer of women's literature .</segment>
-		<segment id="99" parent="194" relname="organization-phatic">-LSB- 来源 请求 -RSB- // -LSB-source request-RSB-</segment>
+		<segment id="99" parent="194" relname="organization-phatic">-LSB- 来源 请求 -RSB- // -LSB- Source Request -RSB-</segment>
 		<segment id="100" parent="201" relname="organization-heading">逝后 百 年 // One hundred years after death</segment>
 		<segment id="101" parent="203" relname="same-unit">1996年 // year 1996</segment>
 		<segment id="102" parent="202" relname="purpose-goal">为 纪念 一叶 逝世 后 百 年 ， // To commemorate the hundred years after Yi Ye's death,</segment>
-		<segment id="103" parent="200" relname="span">出版界 重新 编辑 出版 《 樋口一叶 全集 》 // The publishing world re-edited and published "The Complete Works of Ichiyo Higuchi"</segment>
+		<segment id="103" parent="200" relname="span">出版界 重新 编辑 出版 《 樋口一叶 全集 》 // The publishing industry re-edited and published "The Complete Works of Higuchi Ichiyo"</segment>
 		<segment id="104" parent="199" relname="span">（ 和歌集 、 日记 书信集 、 小说集 ， // (Waka Collection, Diary Letter Collection, Novel Collection,</segment>
 		<segment id="105" parent="104" relname="attribution-positive">由 筑摩 书房 出版 ） ， // Published by Tsukuma Shobo),</segment>
 		<segment id="106" parent="200" relname="elaboration-additional">部分 作品 有 日语 白话文 翻译本 ； // Some works have Japanese vernacular translations;</segment>

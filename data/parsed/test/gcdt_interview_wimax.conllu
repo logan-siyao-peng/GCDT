@@ -929,19 +929,18 @@
 52	）	）	PU	PU	_	50	punct	_	start_char=125|end_char=126
 53	，	，	PU	PU	_	45	punct	_	start_char=127|end_char=128
 54	来	来	MSP	MSP	_	55	aux:prtmod	_	start_char=129|end_char=130
-55	进行	进行	VV	VV	_	45	conj	_	start_char=131|end_char=133
+55	进行	进行	VV	VV	_	45	ccomp	_	start_char=131|end_char=133
 56	主导	主导	NN	NN	_	55	dobj	_	start_char=134|end_char=136
-57	，	，	PU	PU	_	66	punct	_	start_char=137|end_char=138
-58	无论	无论	AD	AD	_	59	advmod	_	start_char=139|end_char=141
-59	如何	如何	VA	VA	_	66	dep	_	start_char=142|end_char=144
-60	，	，	PU	PU	_	66	punct	_	start_char=145|end_char=146
-61	两	两	CD	CD	_	62	dep	_	start_char=147|end_char=148
-62	边	边	NN	NN	_	64	nmod:assmod	_	start_char=149|end_char=150
-63	的	的	DEG	DEG	_	62	case	_	start_char=151|end_char=152
-64	商机	商机	NN	NN	_	66	nsubj	_	start_char=153|end_char=155
-65	都	都	AD	AD	_	66	advmod	_	start_char=156|end_char=157
-66	在	在	VV	VV	_	45	conj	_	start_char=158|end_char=159
-67	。	。	PU	PU	_	66	punct	_	start_char=160|end_char=161
+57	，	，	PU	PU	_	65	punct	_	start_char=137|end_char=138
+58	无论如何	无论如何	AD	AD	_	65	advmod	_	start_char=139|end_char=143
+59	，	，	PU	PU	_	65	punct	_	start_char=144|end_char=145
+60	两	两	CD	CD	_	61	dep	_	start_char=146|end_char=147
+61	边	边	NN	NN	_	63	nmod:assmod	_	start_char=148|end_char=149
+62	的	的	DEG	DEG	_	61	case	_	start_char=150|end_char=151
+63	商机	商机	NN	NN	_	65	nsubj	_	start_char=152|end_char=154
+64	都	都	AD	AD	_	65	advmod	_	start_char=155|end_char=156
+65	在	在	VV	VV	_	45	conj	_	start_char=157|end_char=158
+66	。	。	PU	PU	_	65	punct	_	start_char=159|end_char=160
 
 1	总结	总结	NN	NN	_	0	root	_	start_char=0|end_char=2
 

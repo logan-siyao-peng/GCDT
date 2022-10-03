@@ -230,7 +230,7 @@
 		<segment id="192" parent="402" relname="same-unit">万物 // all things</segment>
 		<segment id="193" parent="194" relname="causal-cause">因 内部 都 含有 道 // Because the inside contains the Tao</segment>
 		<segment id="194" parent="401" relname="span">而 相互 之间 会 有 交感 关系 。 // And there will be a sympathetic relationship between them.</segment>
-		<segment id="195" parent="403" relname="joint-list">这 种 交感 关系 最 能 体现 物 与 物 之间 的 和谐美 ， // This sympathetic relationship can best reflect the beauty of harmony between objects.</segment>
+		<segment id="195" parent="403" relname="joint-list">这 种 交感 关系 最 能 体现 物 与 物 之间 的 和谐美 ， // This kind of sympathetic relationship can best reflect the harmonious beauty between objects,</segment>
 		<segment id="196" parent="403" relname="joint-list">最能 体现 自然 生态美 。 // It can best reflect the beauty of natural ecology .</segment>
 		<segment id="197" parent="198" relname="context-background">总之 ， 道 生出 万物 之后 ， // In short, after the Tao gave birth to all things,</segment>
 		<segment id="198" parent="408" relname="span">万物 及 整个 世界 就 像 一 张 天网 。 // All things and the whole world are like a skynet.</segment>

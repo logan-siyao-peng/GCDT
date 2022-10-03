@@ -25,14 +25,14 @@ def segmentation_agreement(y1, y2):
 	
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
-	parser.add_argument("--janet_dir", "-j", default="../data/JanetIAA/segmented-part-2/")
-	parser.add_argument("--logan_dir", "-l", default="../data/rs3_extracted_edu/")
+	parser.add_argument("--double_dir", "-d", default="../data/others/double-seg-test/")
+	parser.add_argument("--main_dir", "-m", default="../data/rs3_extracted_edus/test/")
 	args = parser.parse_args()
 	
-	iaa_docs = [os.path.basename(x) for x in sorted(glob(args.janet_dir + "*.txt"))]
+	iaa_docs = [os.path.basename(x) for x in sorted(glob(args.double_dir + "*.edus"))]
 	for iaa_doc in iaa_docs:
 		print("\nDocument: ", iaa_doc)
-		janet_binaries, janet_lines = read_edu_to_binaries(args.janet_dir + iaa_doc)
-		logan_binaries, logan_lines = read_edu_to_binaries(args.logan_dir + iaa_doc.replace(".txt", ".edu"))
-		segmentation_agreement(janet_binaries, logan_binaries)
+		double_binaries, double_lines = read_edu_to_binaries(args.double_dir + iaa_doc)
+		main_binaries, main_lines = read_edu_to_binaries(args.main_dir + iaa_doc)
+		segmentation_agreement(double_binaries, main_binaries)
 	

@@ -1005,16 +1005,17 @@
 11	一	一	CD	CD	_	13	nummod	_	start_char=24|end_char=25
 12	部分	部分	M	M	_	11	mark:clf	_	start_char=26|end_char=28
 13	客人	客人	NN	NN	_	14	nsubj	_	start_char=29|end_char=31
-14	垫着	垫着	VV	VV	_	10	ccomp	_	start_char=32|end_char=34
-15	枕头	枕头	NN	NN	_	14	dobj	_	start_char=35|end_char=37
-16	坐在	坐在	VV	VV	_	14	conj	_	start_char=38|end_char=40
-17	地上	地上	NN	NN	_	16	dobj	_	start_char=41|end_char=43
-18	，	，	PU	PU	_	14	punct	_	start_char=44|end_char=45
-19	在	在	P	P	_	20	case	_	start_char=46|end_char=47
-20	咖啡桌	咖啡桌	NN	NN	_	22	nmod:prep	_	start_char=48|end_char=51
-21	上	上	LC	LC	_	20	case	_	start_char=52|end_char=53
-22	用餐	用餐	VV	VV	_	10	conj	_	start_char=54|end_char=56
-23	。	。	PU	PU	_	10	punct	_	start_char=57|end_char=58
+14	垫	垫	VV	VV	_	10	ccomp	_	start_char=32|end_char=33
+15	着	着	AS	AS	_	14	aux:asp	_	start_char=34|end_char=35
+16	枕头	枕头	NN	NN	_	14	dobj	_	start_char=36|end_char=38
+17	坐在	坐在	VV	VV	_	14	conj	_	start_char=39|end_char=41
+18	地上	地上	NN	NN	_	17	dobj	_	start_char=42|end_char=44
+19	，	，	PU	PU	_	14	punct	_	start_char=45|end_char=46
+20	在	在	P	P	_	21	case	_	start_char=47|end_char=48
+21	咖啡桌	咖啡桌	NN	NN	_	23	nmod:prep	_	start_char=49|end_char=52
+22	上	上	LC	LC	_	21	case	_	start_char=53|end_char=54
+23	用餐	用餐	VV	VV	_	10	conj	_	start_char=55|end_char=57
+24	。	。	PU	PU	_	10	punct	_	start_char=58|end_char=59
 
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	进行	进行	VV	VV	_	0	root	_	start_char=2|end_char=4

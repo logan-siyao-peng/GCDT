@@ -64,7 +64,7 @@
 		<segment id="26" parent="180" relname="adversative-contrast">现代 汉语 并不 常见 。 // Modern Chinese is not common.</segment>
 		<segment id="27" parent="28" relname="causal-cause">近年 来 ， 随着 计算机 技术 的 兴起 ， 互联网 的 广泛 应用 ， // In recent years , with the rise of computer technology and the wide application of the Internet ,</segment>
 		<segment id="28" parent="182" relname="span">“ 云 ” 的 语义 和 语用 发生 了 变化 ， // The semantics and pragmatics of " cloud " have changed ,</segment>
-		<segment id="29" parent="184" relname="context-background">起先 ， 在 专业 计算机 领域 中 ， 我们 常常 看到 “ 云 计算 ” ， “ 云 存储 ” ， “ 云 管家 ” 这 类 专业 名词 。 // At first, in the professional computer field, we often see such professional terms as "cloud computing", "cloud storage" and "cloud housekeeper".</segment>
+		<segment id="29" parent="184" relname="context-background">起先 ， 在 专业 计算机 领域 中 ， 我们 常常 看到 “ 云 计算 ” ， “ 云 存储 ” ， “ 云 管家 ” 这 类 专业 名词 。 // At first, in the professional computer field, we often see professional terms such as "cloud computing", "cloud storage" and "cloud housekeeper".</segment>
 		<segment id="30" parent="183" relname="adversative-antithesis">“ 云 ” 在 这里 的 词义 不同于 以往 ， // The meaning of "cloud" here is different from the past.</segment>
 		<segment id="31" parent="183" relname="joint-list">“ 云 ” 意 为 虚拟化 资源 的 集合 ， // "Cloud" means a collection of virtualized resources,</segment>
 		<segment id="32" parent="183" relname="joint-list">用作 副词 ， // used as an adverb,</segment>
@@ -123,7 +123,7 @@
 		<segment id="85" parent="232" relname="same-unit">除此以外 ， // Apart from that,</segment>
 		<segment id="86" parent="87" relname="elaboration-attribute">“ 神 ” 作为 修饰语 的 // " god " as a modifier</segment>
 		<segment id="87" parent="231" relname="span">搭配 用法 呈现 出 不断 扩展 的 趋势 ， // The collocation usage shows a trend of continuous expansion.</segment>
-		<segment id="88" parent="233" relname="span">在 新 时代 下 ， 它 在 网络 用语 和 日常 生活 中 ， 用法 已经 慢慢 呈现 出 程度化 和 请状化 的 副词化 特征 // In the new era , its usage in network terms and daily life has gradually shown the adverb-based features of degree and petition</segment>
+		<segment id="88" parent="233" relname="span">在 新 时代 下 ， 它 在 网络 用语 和 日常 生活 中 ， 用法 已经 慢慢 呈现 出 程度化 和 请状化 的 副词化 特征 // In the new era , its usage in internet terms and daily life has gradually shown the adverb-like features of degree and petition</segment>
 		<segment id="89" parent="88" relname="explanation-evidence">( 方艳 ， 2017 ) // ( Fang Yan , 2017 )</segment>
 		<segment id="90" parent="233" relname="explanation-evidence">-LSB- 2 -RSB- 。 // -LSB- 2 -RSB- .</segment>
 		<segment id="91" parent="237" relname="organization-preparation">试 比较 ： // Try to compare:</segment>

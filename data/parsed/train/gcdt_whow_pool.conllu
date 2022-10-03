@@ -110,9 +110,9 @@
 9	顶点	顶点	NN	NN	_	5	dobj	_	start_char=20|end_char=22
 10	”	”	PU	PU	_	9	punct	_	start_char=23|end_char=24
 11	。	。	PU	PU	_	5	punct	_	start_char=25|end_char=26
-12	-LSB-	-LSB-	NN	NN	_	5	dep	_	start_char=27|end_char=28
-13	1	1	CD	CD	_	5	dep	_	start_char=29|end_char=30
-14	-RSB-	-RSB-	PU	PU	_	5	punct	_	start_char=31|end_char=32
+12	-LSB-	-LSB-	URL	URL	_	5	dep	_	start_char=27|end_char=32
+13	1	1	CD	CD	_	5	dep	_	start_char=33|end_char=34
+14	-RSB-	-RSB-	X	X	_	5	dep	_	start_char=35|end_char=40
 
 1	2	2	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	8号	8号	NT	NT	_	3	compound:nn	_	start_char=2|end_char=4
@@ -138,21 +138,21 @@
 
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
-3	点	点	NN	NN	_	15	nsubj	_	start_char=4|end_char=5
-4	在	在	P	P	_	11	case	_	start_char=6|end_char=7
-5	从	从	P	P	_	9	case	_	start_char=8|end_char=9
-6	上	上	DT	DT	_	15	nmod:prep	_	start_char=10|end_char=11
+3	点	点	NN	NN	_	4	nsubj	_	start_char=4|end_char=5
+4	在	在	AD	AD	_	0	root	_	start_char=6|end_char=7
+5	从	从	P	P	_	6	case	_	start_char=8|end_char=9
+6	上	上	DT	DT	_	11	dep	_	start_char=10|end_char=11
 7	往	往	P	P	_	9	case	_	start_char=12|end_char=13
 8	下	下	DT	DT	_	9	det	_	start_char=14|end_char=15
 9	数	数	NN	NN	_	11	nmod:assmod	_	start_char=16|end_char=17
 10	的	的	DEG	DEG	_	9	case	_	start_char=18|end_char=19
-11	第三	第三	OD	OD	_	15	nmod:prep	_	start_char=20|end_char=22
+11	第三	第三	OD	OD	_	4	dep	_	start_char=20|end_char=22
 12	排	排	M	M	_	11	mark:clf	_	start_char=23|end_char=24
 13	上	上	LC	LC	_	11	case	_	start_char=25|end_char=26
-14	。	。	PU	PU	_	15	punct	_	start_char=27|end_char=28
-15	-LSB-	-LSB-	VV	VV	_	0	root	_	start_char=29|end_char=30
-16	2	2	CD	CD	_	15	nmod:range	_	start_char=31|end_char=32
-17	-RSB-	-RSB-	PU	PU	_	15	punct	_	start_char=33|end_char=34
+14	。	。	PU	PU	_	4	punct	_	start_char=27|end_char=28
+15	-LSB-	-LSB-	URL	URL	_	16	dep	_	start_char=29|end_char=34
+16	2	2	CD	CD	_	17	dep	_	start_char=35|end_char=36
+17	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=37|end_char=42
 
 1	3	3	CD	CD	_	12	dep	_	start_char=0|end_char=1
 2	三角框	三角框	NN	NN	_	3	compound:nn	_	start_char=2|end_char=5
@@ -191,9 +191,9 @@
 21	半色	半色	NN	NN	_	22	nmod:prep	_	start_char=43|end_char=45
 22	即可	即可	VV	VV	_	9	conj	_	start_char=46|end_char=48
 23	。	。	PU	PU	_	9	punct	_	start_char=49|end_char=50
-24	-LSB-	-LSB-	VV	VV	_	9	conj	_	start_char=51|end_char=52
-25	3	3	CD	CD	_	24	nmod:range	_	start_char=53|end_char=54
-26	-RSB-	-RSB-	M	M	_	25	mark:clf	_	start_char=55|end_char=56
+24	-LSB-	-LSB-	PU	PU	_	9	punct	_	start_char=51|end_char=56
+25	3	3	CD	CD	_	9	dep	_	start_char=57|end_char=58
+26	-RSB-	-RSB-	PU	PU	_	9	punct	_	start_char=59|end_char=64
 
 1	4	4	CD	CD	_	5	dep	_	start_char=0|end_char=1
 2	其它	其它	DT	DT	_	5	det	_	start_char=2|end_char=4
@@ -439,9 +439,9 @@
 13	作为	作为	VV	VV	_	0	root	_	start_char=31|end_char=33
 14	标记	标记	NN	NN	_	13	dobj	_	start_char=34|end_char=36
 15	。	。	PU	PU	_	13	punct	_	start_char=37|end_char=38
-16	-LSB-	-LSB-	VV	VV	_	13	conj	_	start_char=39|end_char=40
-17	4	4	CD	CD	_	16	nmod:range	_	start_char=41|end_char=42
-18	-RSB-	-RSB-	PU	PU	_	13	punct	_	start_char=43|end_char=44
+16	-LSB-	-LSB-	PU	PU	_	18	punct	_	start_char=39|end_char=44
+17	4	4	CD	CD	_	18	dep	_	start_char=45|end_char=46
+18	-RSB-	-RSB-	NN	NN	_	13	dep	_	start_char=47|end_char=52
 
 1	6	6	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	所有	所有	DT	DT	_	4	dep	_	start_char=2|end_char=4
@@ -567,9 +567,9 @@
 16	比较	比较	AD	AD	_	17	advmod	_	start_char=40|end_char=42
 17	大	大	VA	VA	_	7	conj	_	start_char=43|end_char=44
 18	。	。	PU	PU	_	7	punct	_	start_char=45|end_char=46
-19	-LSB-	-LSB-	NN	NN	_	20	nsubj	_	start_char=47|end_char=48
-20	5	5	CD	CD	_	17	dep	_	start_char=49|end_char=50
-21	-RSB-	-RSB-	M	M	_	20	mark:clf	_	start_char=51|end_char=52
+19	-LSB-	-LSB-	NN	NN	_	21	dep	_	start_char=47|end_char=52
+20	5	5	CD	CD	_	21	dep	_	start_char=53|end_char=54
+21	-RSB-	-RSB-	NN	NN	_	7	conj	_	start_char=55|end_char=60
 
 1	2	2	CD	CD	_	13	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	7	case	_	start_char=2|end_char=3
@@ -618,9 +618,9 @@
 20	正	正	JJ	JJ	_	21	amod	_	start_char=50|end_char=51
 21	中央	中央	NN	NN	_	16	dobj	_	start_char=52|end_char=54
 22	。	。	PU	PU	_	4	punct	_	start_char=55|end_char=56
-23	-LSB-	-LSB-	VV	VV	_	4	conj	_	start_char=57|end_char=58
-24	6	6	CD	CD	_	23	nmod:range	_	start_char=59|end_char=60
-25	-RSB-	-RSB-	M	M	_	24	mark:clf	_	start_char=61|end_char=62
+23	-LSB-	-LSB-	URL	URL	_	25	dep	_	start_char=57|end_char=62
+24	6	6	CD	CD	_	25	dep	_	start_char=63|end_char=64
+25	-RSB-	-RSB-	NN	NN	_	4	conj	_	start_char=65|end_char=70
 
 1	3	3	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	其余	其余	DT	DT	_	4	dep	_	start_char=2|end_char=4
@@ -655,9 +655,9 @@
 16	的	的	DEG	DEG	_	15	case	_	start_char=39|end_char=40
 17	位置	位置	NN	NN	_	13	nmod:prep	_	start_char=41|end_char=43
 18	。	。	PU	PU	_	13	punct	_	start_char=44|end_char=45
-19	-LSB-	-LSB-	VV	VV	_	13	conj	_	start_char=46|end_char=47
-20	7	7	CD	CD	_	19	nmod:range	_	start_char=48|end_char=49
-21	-RSB-	-RSB-	M	M	_	20	mark:clf	_	start_char=50|end_char=51
+19	-LSB-	-LSB-	URL	URL	_	20	dep	_	start_char=46|end_char=51
+20	7	7	CD	CD	_	21	dep	_	start_char=52|end_char=53
+21	-RSB-	-RSB-	X	X	_	13	dep	_	start_char=54|end_char=59
 
 1	9球	9球	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	台球	台球	NN	NN	_	9	nmod:assmod	_	start_char=3|end_char=5

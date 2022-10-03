@@ -116,11 +116,11 @@
 34	民族	民族	NN	NN	_	36	nmod:assmod	_	start_char=86|end_char=88
 35	的	的	DEG	DEG	_	34	case	_	start_char=89|end_char=90
 36	特色	特色	NN	NN	_	30	dobj	_	start_char=91|end_char=93
-37	”	”	PU	PU	_	30	punct	_	start_char=94|end_char=95
+37	”	”	PU	PU	_	7	punct	_	start_char=94|end_char=95
 38	。	。	PU	PU	_	7	punct	_	start_char=96|end_char=97
-39	-LSB-	-LSB-	VV	VV	_	7	conj	_	start_char=98|end_char=99
-40	1	1	CD	CD	_	39	dep	_	start_char=100|end_char=101
-41	-RSB-	-RSB-	PU	PU	_	7	punct	_	start_char=102|end_char=103
+39	-LSB-	-LSB-	URL	URL	_	40	dep	_	start_char=98|end_char=103
+40	1	1	CD	CD	_	7	dep	_	start_char=104|end_char=105
+41	-RSB-	-RSB-	PU	PU	_	7	punct	_	start_char=106|end_char=111
 
 1	其	其	PN	PN	_	2	compound:nn	_	start_char=0|end_char=1
 2	代表作	代表作	NN	NN	_	3	dep	_	start_char=2|end_char=5
@@ -170,9 +170,9 @@
 14	作曲家	作曲家	NN	NN	_	3	ccomp	_	start_char=31|end_char=34
 15	”	”	PU	PU	_	14	punct	_	start_char=35|end_char=36
 16	。	。	PU	PU	_	3	punct	_	start_char=37|end_char=38
-17	-LSB-	-LSB-	VV	VV	_	14	conj	_	start_char=39|end_char=40
-18	2	2	CD	CD	_	17	dep	_	start_char=41|end_char=42
-19	-RSB-	-RSB-	PU	PU	_	3	punct	_	start_char=43|end_char=44
+17	-LSB-	-LSB-	URL	URL	_	19	dep	_	start_char=39|end_char=44
+18	2	2	CD	CD	_	19	dep	_	start_char=45|end_char=46
+19	-RSB-	-RSB-	NN	NN	_	3	conj	_	start_char=47|end_char=52
 
 1	美国	美国	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	教育	教育	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
@@ -1182,9 +1182,9 @@
 34	吸引力	吸引力	NN	NN	_	33	dobj	_	start_char=100|end_char=103
 35	的	的	SP	SP	_	33	discourse	_	start_char=104|end_char=105
 36	。	。	PU	PU	_	14	punct	_	start_char=106|end_char=107
-37	-LSB-	-LSB-	NN	NN	_	14	conj	_	start_char=108|end_char=109
-38	4	4	CD	CD	_	37	dep	_	start_char=110|end_char=111
-39	-RSB-	-RSB-	PU	PU	_	14	punct	_	start_char=112|end_char=113
+37	-LSB-	-LSB-	URL	URL	_	39	dep	_	start_char=108|end_char=113
+38	4	4	CD	CD	_	39	dep	_	start_char=114|end_char=115
+39	-RSB-	-RSB-	NN	NN	_	14	conj	_	start_char=116|end_char=121
 
 1	但	但	AD	AD	_	5	advmod	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	5	nsubj	_	start_char=2|end_char=3
@@ -1293,10 +1293,10 @@
 20	部	部	M	M	_	19	mark:clf	_	start_char=58|end_char=59
 21	美国	美国	NR	NR	_	22	nmod:assmod	_	start_char=60|end_char=62
 22	歌剧	歌剧	NN	NN	_	18	dobj	_	start_char=63|end_char=65
-23	。	。	PU	PU	_	15	punct	_	start_char=66|end_char=67
-24	-LSB-	-LSB-	VV	VV	_	15	conj	_	start_char=68|end_char=69
-25	4	4	CD	CD	_	24	nmod:range	_	start_char=70|end_char=71
-26	-RSB-	-RSB-	M	M	_	25	mark:clf	_	start_char=72|end_char=73
+23	。	。	PU	PU	_	2	punct	_	start_char=66|end_char=67
+24	-LSB-	-LSB-	URL	URL	_	26	dep	_	start_char=68|end_char=73
+25	4	4	CD	CD	_	26	dep	_	start_char=74|end_char=75
+26	-RSB-	-RSB-	NN	NN	_	2	dep	_	start_char=76|end_char=81
 
 1	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=0|end_char=4
 2	深深	深深	AD	AD	_	3	advmod	_	start_char=5|end_char=7
@@ -1316,7 +1316,7 @@
 16	，	，	PU	PU	_	3	punct	_	start_char=46|end_char=47
 17	认为	认为	VV	VV	_	3	conj	_	start_char=48|end_char=50
 18	通过	通过	P	P	_	19	case	_	start_char=51|end_char=53
-19	它们	它	PN	PN	_	22	nsubj	_	start_char=54|end_char=56
+19	它们	它	PN	PN	_	22	nmod:prep	_	start_char=54|end_char=56
 20	将	将	AD	AD	_	22	advmod	_	start_char=57|end_char=58
 21	会	会	VV	VV	_	22	aux:modal	_	start_char=59|end_char=60
 22	找到	找到	VV	VV	_	17	ccomp	_	start_char=61|end_char=63
@@ -1325,10 +1325,10 @@
 25	自己	自己	PN	PN	_	27	nmod:assmod	_	start_char=70|end_char=72
 26	的	的	DEG	DEG	_	25	case	_	start_char=73|end_char=74
 27	风格	风格	NN	NN	_	22	dobj	_	start_char=75|end_char=77
-28	。	。	PU	PU	_	22	punct	_	start_char=78|end_char=79
-29	-LSB-	-LSB-	VV	VV	_	22	conj	_	start_char=80|end_char=81
-30	5	5	CD	CD	_	29	nmod:range	_	start_char=82|end_char=83
-31	-RSB-	-RSB-	M	M	_	30	mark:clf	_	start_char=84|end_char=85
+28	。	。	PU	PU	_	3	punct	_	start_char=78|end_char=79
+29	-LSB-	-LSB-	URL	URL	_	31	dep	_	start_char=80|end_char=85
+30	5	5	CD	CD	_	31	dep	_	start_char=86|end_char=87
+31	-RSB-	-RSB-	NN	NN	_	3	dep	_	start_char=88|end_char=93
 
 1	德沃夏克	德沃夏克	NR	NR	_	4	nsubj	_	start_char=0|end_char=4
 2	在	在	P	P	_	3	case	_	start_char=5|end_char=6
@@ -1361,9 +1361,9 @@
 9	传统	传统	JJ	JJ	_	10	amod	_	start_char=22|end_char=24
 10	灵歌	灵歌	NN	NN	_	4	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	4	punct	_	start_char=28|end_char=29
-12	-LSB-	-LSB-	VV	VV	_	4	conj	_	start_char=30|end_char=31
-13	6	6	CD	CD	_	12	nmod:range	_	start_char=32|end_char=33
-14	-RSB-	-RSB-	M	M	_	13	mark:clf	_	start_char=34|end_char=35
+12	-LSB-	-LSB-	URL	URL	_	4	dep	_	start_char=30|end_char=35
+13	6	6	CD	CD	_	4	dep	_	start_char=36|end_char=37
+14	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=38|end_char=43
 
 1	1893年	1893年	NT	NT	_	18	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	18	punct	_	start_char=6|end_char=7
@@ -1446,9 +1446,9 @@
 26	热烈	热烈	JJ	JJ	_	27	amod	_	start_char=81|end_char=83
 27	欢迎	欢迎	NN	NN	_	25	dobj	_	start_char=84|end_char=86
 28	。	。	PU	PU	_	19	punct	_	start_char=87|end_char=88
-29	-LSB-	-LSB-	VV	VV	_	19	conj	_	start_char=89|end_char=90
-30	4	4	CD	CD	_	29	nmod:range	_	start_char=91|end_char=92
-31	-RSB-	-RSB-	M	M	_	30	mark:clf	_	start_char=93|end_char=94
+29	-LSB-	-LSB-	URL	URL	_	31	dep	_	start_char=89|end_char=94
+30	4	4	CD	CD	_	31	dep	_	start_char=95|end_char=96
+31	-RSB-	-RSB-	NN	NN	_	19	conj	_	start_char=97|end_char=102
 
 1	他	他	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3

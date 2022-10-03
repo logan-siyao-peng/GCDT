@@ -30,10 +30,6 @@ if __name__ == '__main__':
 		rs3_dir = "../data/autotrans_rs3/"
 		extracted_edu_dir = "../data/autotrans_extracted_edus/"
 		
-	
-	# rs3_dir = "../../../code/paragraph_analysis/data/gcdt/rs3/"
-	# extracted_edu_dir = "../../../code/paragraph_analysis/data/gcdt/edus/"
-	
 	if not os.path.isdir(extracted_edu_dir):
 		os.makedirs(extracted_edu_dir)
 	

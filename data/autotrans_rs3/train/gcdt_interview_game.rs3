@@ -39,7 +39,7 @@
 		<segment id="1" parent="163" relname="organization-preparation">维基 新闻 专访 ： // Wikinews interview:</segment>
 		<segment id="2" parent="163" relname="span">浅谈 街机 音游 新 趋势 // Talking about the new trend of arcade audio games</segment>
 		<segment id="3" parent="2" relname="elaboration-attribute">─ 实体 竞赛 // ─ Physical Competition</segment>
-		<segment id="4" parent="310" relname="context-circumstance">【 2010年 5月 6日 讯 】 // 【 Newsletter on May 6, 2010 】</segment>
+		<segment id="4" parent="307" relname="context-circumstance">【 2010年 5月 6日 讯 】 // 【 Newsletter on May 6, 2010 】</segment>
 		<segment id="5" parent="6" relname="context-circumstance">比赛 时 // game time</segment>
 		<segment id="6" parent="164" relname="span">的 // of</segment>
 		<segment id="7" parent="165" relname="span">空间 规划 ， 可以 让 比赛 品质 获得 提升 。 // Space planning can improve the quality of the game .</segment>
@@ -177,27 +177,27 @@
 		<segment id="139" parent="278" relname="span">您 的 看法 ？ // your opinion ?</segment>
 		<segment id="140" parent="279" relname="joint-disjunction">其实 有 资深 玩家 在 比赛 中 进行 必要 协助 ， // In fact , there are senior players who provide necessary assistance in the game .</segment>
 		<segment id="141" parent="279" relname="joint-disjunction">或者 由 主办 单位 进行 必要 的 指导 ， // Or necessary guidance from the organizer,</segment>
-		<segment id="142" parent="287" relname="same-unit">这些 都 是 // all these are</segment>
-		<segment id="143" parent="285" relname="same-unit">可以 让 // can let</segment>
+		<segment id="142" parent="284" relname="same-unit">这些 都 是 // all these are</segment>
+		<segment id="143" parent="282" relname="same-unit">可以 让 // can let</segment>
 		<segment id="144" parent="145" relname="elaboration-attribute">第一 次 办 比赛 的 // The first time to hold a competition</segment>
 		<segment id="145" parent="280" relname="span">店家 ， 在 // shopkeeper, in</segment>
 		<segment id="146" parent="147" relname="elaboration-attribute">对于 比赛 很 生疏 的 // Very unfamiliar to the game</segment>
-		<segment id="147" parent="282" relname="span">状态 下 ， 可以 快速 上手 赛事 行政 的 // Under the state , you can quickly get started with the administration of the event</segment>
-		<segment id="148" parent="286" relname="span">良方 ， // good recipe,</segment>
-		<segment id="149" parent="295" relname="evaluation-comment">这 种 模式 是 值得 推荐 的 。 // This mode is recommended.</segment>
+		<segment id="147" parent="281" relname="span">状态 下 ， 可以 快速 上手 赛事 行政 的 // Under the state , you can quickly get started with the administration of the event</segment>
+		<segment id="148" parent="283" relname="span">良方 ， // good recipe,</segment>
+		<segment id="149" parent="292" relname="evaluation-comment">这 种 模式 是 值得 推荐 的 。 // This mode is recommended.</segment>
 		<segment id="150" parent="151" relname="context-circumstance">店家 举办 一 场 比赛 ， // The store held a competition,</segment>
-		<segment id="151" parent="288" relname="span">其实 需要 的 是 经验 的 累积 。 // In fact , what is needed is the accumulation of experience .</segment>
+		<segment id="151" parent="285" relname="span">其实 需要 的 是 经验 的 累积 。 // In fact , what is needed is the accumulation of experience .</segment>
 		<segment id="152" parent="153" relname="context-background">一 场 好 的 比赛 ， 不 只 是 店家 的 安排 ， // A good game is not just the store's arrangement,</segment>
-		<segment id="153" parent="297" relname="span">玩家 的 观赛 风度 与 水平 更 为 重要 ， // The player's demeanor and level are more important.</segment>
-		<segment id="154" parent="303" relname="span">其实 ， 在 许多 国际 大型 电子 游戏 的 竞技 中 ， 或多或少 ， 现场 都 会 有 所谓 的 观赛 规章 ， // In fact, in many international large-scale video game competitions, more or less, there will be so-called regulations on watching the game.</segment>
-		<segment id="155" parent="298" relname="span">让 观赛者 、 赛事 行政 人员 、 媒体 记者 ， 有 一 个 共通 的 标准 // Let spectators, event administrators, and media reporters have a common standard</segment>
+		<segment id="153" parent="294" relname="span">玩家 的 观赛 风度 与 水平 更 为 重要 ， // The player's demeanor and level are more important.</segment>
+		<segment id="154" parent="300" relname="span">其实 ， 在 许多 国际 大型 电子 游戏 的 竞技 中 ， 或多或少 ， 现场 都 会 有 所谓 的 观赛 规章 ， // In fact, in many international large-scale video game competitions, more or less, there will be so-called regulations on watching the game.</segment>
+		<segment id="155" parent="295" relname="span">让 观赛者 、 赛事 行政 人员 、 媒体 记者 ， 有 一 个 共通 的 标准 // Let spectators, event administrators, and media reporters have a common standard</segment>
 		<segment id="156" parent="155" relname="purpose-attribute">来 遵守 ， // to obey,</segment>
-		<segment id="157" parent="299" relname="joint-list">让 比赛 得以 顺利 地 进行 ， // to make the game run smoothly,</segment>
-		<segment id="158" parent="301" relname="context-circumstance">当 经验 逐渐 丰富 之后 ， // When the experience is gradually enriched,</segment>
-		<segment id="159" parent="301" relname="same-unit">更 多 // More</segment>
+		<segment id="157" parent="296" relname="joint-list">让 比赛 得以 顺利 地 进行 ， // to make the game run smoothly,</segment>
+		<segment id="158" parent="298" relname="context-circumstance">当 经验 逐渐 丰富 之后 ， // When the experience is gradually enriched,</segment>
+		<segment id="159" parent="298" relname="same-unit">更 多 // More</segment>
 		<segment id="160" parent="161" relname="elaboration-attribute">更 有 水平 的 // more level</segment>
-		<segment id="161" parent="300" relname="span">比赛 就 会 获得 观赛者 ， 甚至是 大众 舆论 的 重视 。 // The game will gain the attention of spectators and even public opinion .</segment>
-		<group id="162" type="span" parent="311" relname="organization-heading"/>
+		<segment id="161" parent="297" relname="span">比赛 就 会 获得 观赛者 ， 甚至是 大众 舆论 的 重视 。 // The game will gain the attention of spectators and even public opinion .</segment>
+		<group id="162" type="span" parent="308" relname="organization-heading"/>
 		<group id="163" type="span" parent="162" relname="span"/>
 		<group id="164" type="span" parent="7" relname="elaboration-attribute"/>
 		<group id="165" type="span" parent="176" relname="joint-other"/>
@@ -212,7 +212,7 @@
 		<group id="174" type="multinuc" parent="177" relname="span"/>
 		<group id="175" type="span" parent="191" relname="topic-question"/>
 		<group id="176" type="multinuc" parent="174" relname="context-background"/>
-		<group id="177" type="span" parent="309" relname="context-background"/>
+		<group id="177" type="span" parent="306" relname="context-background"/>
 		<group id="178" type="span" parent="179" relname="same-unit"/>
 		<group id="179" type="multinuc" parent="25" relname="causal-cause"/>
 		<group id="180" type="span" parent="179" relname="same-unit"/>
@@ -224,16 +224,16 @@
 		<group id="186" type="multinuc" parent="184" relname="adversative-antithesis"/>
 		<group id="187" type="span" parent="188" relname="span"/>
 		<group id="188" type="span" parent="181" relname="purpose-goal"/>
-		<group id="189" type="span" parent="190" relname="elaboration-additional"/>
+		<group id="189" type="span" parent="310" relname="span"/>
 		<group id="190" type="span" parent="191" relname="span"/>
 		<group id="191" type="span" parent="192" relname="span"/>
-		<group id="192" type="span" parent="309" relname="joint-other"/>
+		<group id="192" type="span" parent="306" relname="joint-other"/>
 		<group id="193" type="span" parent="197" relname="topic-question"/>
 		<group id="194" type="span" parent="197" relname="span"/>
 		<group id="195" type="span" parent="45" relname="causal-cause"/>
 		<group id="196" type="span" parent="194" relname="elaboration-additional"/>
 		<group id="197" type="span" parent="198" relname="span"/>
-		<group id="198" type="span" parent="309" relname="joint-other"/>
+		<group id="198" type="span" parent="189" relname="adversative-antithesis"/>
 		<group id="199" type="span" parent="219" relname="topic-question"/>
 		<group id="200" type="span" parent="201" relname="joint-list"/>
 		<group id="201" type="multinuc" parent="54" relname="elaboration-attribute"/>
@@ -255,7 +255,7 @@
 		<group id="217" type="span" parent="219" relname="joint-list"/>
 		<group id="218" type="span" parent="219" relname="joint-list"/>
 		<group id="219" type="multinuc" parent="220" relname="span"/>
-		<group id="220" type="span" parent="309" relname="joint-other"/>
+		<group id="220" type="span" parent="312" relname="joint-list"/>
 		<group id="221" type="span" parent="222" relname="joint-list"/>
 		<group id="222" type="multinuc" parent="255" relname="topic-question"/>
 		<group id="223" type="span" parent="75" relname="elaboration-attribute"/>
@@ -286,64 +286,68 @@
 		<group id="248" type="span" parent="249" relname="same-unit"/>
 		<group id="249" type="multinuc" parent="250" relname="span"/>
 		<group id="250" type="span" parent="110" relname="context-background"/>
-		<group id="251" type="span" parent="292" relname="topic-question"/>
+		<group id="251" type="span" parent="289" relname="topic-question"/>
 		<group id="252" type="span" parent="253" relname="span"/>
 		<group id="253" type="span" parent="255" relname="joint-list"/>
 		<group id="254" type="span" parent="255" relname="joint-list"/>
 		<group id="255" type="multinuc" parent="256" relname="span"/>
-		<group id="256" type="span" parent="309" relname="joint-other"/>
+		<group id="256" type="span" parent="312" relname="joint-list"/>
 		<group id="257" type="span" parent="260" relname="causal-cause"/>
 		<group id="258" type="span" parent="259" relname="same-unit"/>
 		<group id="259" type="multinuc" parent="260" relname="span"/>
-		<group id="260" type="span" parent="289" relname="span"/>
+		<group id="260" type="span" parent="286" relname="span"/>
 		<group id="261" type="multinuc" parent="118" relname="purpose-goal"/>
 		<group id="262" type="span" parent="263" relname="span"/>
-		<group id="263" type="span" parent="293" relname="span"/>
+		<group id="263" type="span" parent="290" relname="span"/>
 		<group id="264" type="span" parent="265" relname="same-unit"/>
 		<group id="265" type="multinuc" parent="266" relname="span"/>
 		<group id="266" type="span" parent="268" relname="adversative-concession"/>
 		<group id="267" type="span" parent="268" relname="same-unit"/>
-		<group id="268" type="multinuc" parent="290" relname="span"/>
+		<group id="268" type="multinuc" parent="287" relname="span"/>
 		<group id="269" type="span" parent="270" relname="same-unit"/>
 		<group id="270" type="multinuc" parent="272" relname="adversative-concession"/>
 		<group id="271" type="span" parent="272" relname="same-unit"/>
 		<group id="272" type="multinuc" parent="273" relname="span"/>
 		<group id="273" type="span" parent="274" relname="span"/>
-		<group id="274" type="span" parent="291" relname="joint-other"/>
+		<group id="274" type="span" parent="288" relname="joint-other"/>
 		<group id="275" type="span" parent="276" relname="same-unit"/>
 		<group id="276" type="multinuc" parent="277" relname="span"/>
 		<group id="277" type="span" parent="139" relname="context-background"/>
-		<group id="278" type="span" parent="307" relname="topic-question"/>
-		<group id="279" type="multinuc" parent="295" relname="span"/>
-		<group id="280" type="span" parent="285" relname="same-unit"/>
-		<group id="282" type="span" parent="285" relname="same-unit"/>
-		<group id="285" type="multinuc" parent="148" relname="elaboration-attribute"/>
-		<group id="286" type="span" parent="287" relname="same-unit"/>
-		<group id="287" type="multinuc" parent="279" relname="elaboration-additional"/>
-		<group id="288" type="span" parent="306" relname="span"/>
-		<group id="289" type="span" parent="263" relname="context-background"/>
-		<group id="290" type="span" parent="291" relname="joint-other"/>
-		<group id="291" type="multinuc" parent="293" relname="explanation-justify"/>
-		<group id="292" type="span" parent="294" relname="span"/>
-		<group id="293" type="span" parent="292" relname="span"/>
-		<group id="294" type="span" parent="309" relname="joint-other"/>
-		<group id="295" type="span" parent="296" relname="span"/>
-		<group id="296" type="span" parent="306" relname="explanation-justify"/>
-		<group id="297" type="span" parent="303" relname="context-background"/>
-		<group id="298" type="span" parent="299" relname="joint-list"/>
-		<group id="299" type="multinuc" parent="154" relname="purpose-goal"/>
-		<group id="300" type="span" parent="301" relname="same-unit"/>
-		<group id="301" type="multinuc" parent="302" relname="span"/>
-		<group id="302" type="span" parent="304" relname="causal-result"/>
+		<group id="278" type="span" parent="304" relname="topic-question"/>
+		<group id="279" type="multinuc" parent="292" relname="span"/>
+		<group id="280" type="span" parent="282" relname="same-unit"/>
+		<group id="281" type="span" parent="282" relname="same-unit"/>
+		<group id="282" type="multinuc" parent="148" relname="elaboration-attribute"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="279" relname="elaboration-additional"/>
+		<group id="285" type="span" parent="303" relname="span"/>
+		<group id="286" type="span" parent="263" relname="context-background"/>
+		<group id="287" type="span" parent="288" relname="joint-other"/>
+		<group id="288" type="multinuc" parent="290" relname="explanation-justify"/>
+		<group id="289" type="span" parent="291" relname="span"/>
+		<group id="290" type="span" parent="289" relname="span"/>
+		<group id="291" type="span" parent="313" relname="joint-other"/>
+		<group id="292" type="span" parent="293" relname="span"/>
+		<group id="293" type="span" parent="303" relname="explanation-justify"/>
+		<group id="294" type="span" parent="300" relname="context-background"/>
+		<group id="295" type="span" parent="296" relname="joint-list"/>
+		<group id="296" type="multinuc" parent="154" relname="purpose-goal"/>
+		<group id="297" type="span" parent="298" relname="same-unit"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="301" relname="causal-result"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="301" type="span" parent="302" relname="span"/>
+		<group id="302" type="span" parent="285" relname="elaboration-additional"/>
 		<group id="303" type="span" parent="304" relname="span"/>
 		<group id="304" type="span" parent="305" relname="span"/>
-		<group id="305" type="span" parent="288" relname="elaboration-additional"/>
-		<group id="306" type="span" parent="307" relname="span"/>
+		<group id="305" type="span" parent="313" relname="joint-other"/>
+		<group id="306" type="multinuc" parent="307" relname="span"/>
 		<group id="307" type="span" parent="308" relname="span"/>
-		<group id="308" type="span" parent="309" relname="joint-other"/>
-		<group id="309" type="multinuc" parent="310" relname="span"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" />
 		<group id="310" type="span" parent="311" relname="span"/>
-		<group id="311" type="span" parent="312" relname="span"/>
-		<group id="312" type="span" />
+		<group id="311" type="span" parent="190" relname="elaboration-additional"/>
+		<group id="312" type="multinuc" parent="310" relname="elaboration-additional"/>
+		<group id="313" type="multinuc" parent="306" relname="joint-other"/>
 	</body>
 </rst>

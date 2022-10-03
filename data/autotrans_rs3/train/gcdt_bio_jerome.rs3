@@ -64,12 +64,12 @@
 		<segment id="26" parent="25" relname="elaboration-additional">（ 386年 － 420年 ） // (386-420)</segment>
 		<segment id="27" parent="223" relname="span">定居于 耶稣 的 出生地 伯利恒 ， // Settled in Bethlehem, the birthplace of Jesus,</segment>
 		<segment id="28" parent="224" relname="joint-list">过 苦修 隐居 的 生活 。 // Live a life of ascetic seclusion .</segment>
-		<segment id="29" parent="225" relname="joint-sequence">在 早期 的 拉丁 教会 他 被 尊 为 四 位 西方 教会 圣师 之一 ， // In the early Latin Church he was revered as one of the four Western Church teachers,</segment>
+		<segment id="29" parent="225" relname="joint-sequence">在 早期 的 拉丁 教会 他 被 尊 为 四 位 西方 教会 圣师 之一 ， // In the early Latin Church he was honored as one of the four Western Church teachers,</segment>
 		<segment id="30" parent="225" relname="joint-sequence">这 个 约定俗成 的 称号 后来 被 教宗 鲍尼法 八世 列 为 正式 头衔 。 // This customary title was later made official by Pope Boniface VIII .</segment>
 		<segment id="31" parent="293" relname="organization-heading">生平 // life</segment>
 		<segment id="32" parent="230" relname="joint-list">哲罗姆 是 最 有 教养 ， 最 有 学问 古 教父 当中 的 一 位 ， // Jerome was one of the most educated and learned of the ancient godfathers,</segment>
 		<segment id="33" parent="230" relname="joint-list">也可说 是 古代 西方 教会 中 最 伟大 的 学者 // Can also be said to be the greatest scholar in the ancient Western Church .</segment>
-		<segment id="34" parent="230" relname="explanation-evidence">-LSB- 1 -RSB- -LSB- 2 -RSB- 。 // -LSB-1-RSB--LSB-2-RSB-.</segment>
+		<segment id="34" parent="230" relname="explanation-evidence">-LSB- 1 -RSB- -LSB- 2 -RSB- 。 // -LSB- 1 -RSB- -LSB- 2 -RSB- .</segment>
 		<segment id="35" parent="228" relname="span">哲罗姆 约 于 340 // Jerome around 340</segment>
 		<segment id="36" parent="35" relname="adversative-concession">（ 也 有 书 上 写 342 ） // (There are also books written 342)</segment>
 		<segment id="37" parent="229" relname="same-unit">年 生 在 挞马太 司垂登 的 基督徒 家庭 ， // Born in the Christian family of Matthew Stryton,</segment>
@@ -84,7 +84,7 @@
 		<segment id="46" parent="238" relname="span">他 又 遍游 东方 ， // He traveled all over the East again,</segment>
 		<segment id="47" parent="48" relname="context-circumstance">当 他 到 了 安提阿市 ， // When he came to Antioch,</segment>
 		<segment id="48" parent="237" relname="span">在 安提阿 生 了 一 场 大病 // A serious illness was born in Antioch</segment>
-		<segment id="49" parent="239" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB-3-RSB-.</segment>
+		<segment id="49" parent="239" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB- 3 -RSB- .</segment>
 		<segment id="50" parent="51" relname="attribution-positive">有 一 天 在 异象 中 ， 觉得 // One day in a vision, I felt</segment>
 		<segment id="51" parent="241" relname="span">他 到上 了 上帝 的 审判台 前 。 // He went to the judgment seat of God.</segment>
 		<segment id="52" parent="53" relname="context-circumstance">当 他 称 自己 为 基督徒 时 ， // When he called himself a Christian,</segment>
@@ -95,7 +95,7 @@
 		<segment id="57" parent="244" relname="restatement-partial">( Ciceronianus es , non Christianus ) ， // (Ciceronianus es, non Christianus),</segment>
 		<segment id="58" parent="243" relname="joint-list">因为 你 的 财宝 在 那里 ， // because your treasure is there,</segment>
 		<segment id="59" parent="243" relname="joint-list">你 的 心 也 在 那 ！ ” // Your heart is there too! "</segment>
-		<segment id="60" parent="246" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB-4-RSB-.</segment>
+		<segment id="60" parent="246" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB- 4 -RSB- .</segment>
 		<segment id="61" parent="252" relname="span">于 373 - 379年 他 就 到 旷野 // In 373-379 he went to the wilderness</segment>
 		<segment id="62" parent="61" relname="purpose-goal">去 专心 研究 神学 及 圣经 。 // Go focus on theology and the Bible .</segment>
 		<segment id="63" parent="253" relname="joint-list">并且 学习 希伯来文 ， // and learn Hebrew,</segment>
@@ -122,7 +122,7 @@
 		<segment id="84" parent="269" relname="joint-list">当 院长 ， // when the dean,</segment>
 		<segment id="85" parent="270" relname="joint-list">一直 到 420年 去世 ， // until his death in 420,</segment>
 		<segment id="86" parent="270" relname="joint-list">享年 约 有 80 岁 // around 80 years old</segment>
-		<segment id="87" parent="271" relname="explanation-evidence">-LSB- 5 -RSB- 。 // -LSB-5-RSB-.</segment>
+		<segment id="87" parent="271" relname="explanation-evidence">-LSB- 5 -RSB- 。 // -LSB- 5 -RSB- .</segment>
 		<segment id="88" parent="274" relname="same-unit">410年 8月 24日 西哥特人 阿拉利 在 夜间 // August 24, 410 Visigoth Arali at night</segment>
 		<segment id="89" parent="90" relname="mode-means">用 突击 的 方式 // by assault</segment>
 		<segment id="90" parent="273" relname="span">攻破 了 罗马 ， // smashed Rome,</segment>
@@ -133,7 +133,7 @@
 		<segment id="95" parent="278" relname="attribution-positive">哭泣 的 说 ： // weeping says:</segment>
 		<segment id="96" parent="97" relname="adversative-concession">“ 征服 了 整个 世界 的 城市 ， // "The cities that conquered the whole world,</segment>
 		<segment id="97" parent="278" relname="span">现在 给 人 征服 了 ！ ” // Conquered now! "</segment>
-		<segment id="98" parent="277" relname="explanation-evidence">-LSB- 6 -RSB- 。 // -LSB-6-RSB-.</segment>
+		<segment id="98" parent="277" relname="explanation-evidence">-LSB- 6 -RSB- 。 // -LSB- 6 -RSB- .</segment>
 		<segment id="99" parent="287" relname="joint-list">焦虑 的 无法 工作 ， // Anxious not being able to work,</segment>
 		<segment id="100" parent="101" relname="attribution-positive">并且 相信 // and believe</segment>
 		<segment id="101" parent="281" relname="span">敌基督 将 会 出现 ， // Antichrist will appear,</segment>
@@ -155,7 +155,7 @@
 		<segment id="117" parent="116" relname="causal-cause">可能 是 和 他 对 古 文学 的 研究 和 游遍 各 城 有关 。 // It may be related to his study of ancient literature and his travels in various cities .</segment>
 		<segment id="118" parent="119" relname="causal-cause">因为 对 希伯来文 有 研究 ， // Because of the study of Hebrew,</segment>
 		<segment id="119" parent="300" relname="span">所以 在 翻译 圣经 这 件 事 上 ， 就 可以 完全 展现 他 的 才华 。 // Therefore, in translating the Bible, he can fully display his talents.</segment>
-		<segment id="120" parent="302" relname="context-circumstance">在 382年 后 ， 他 出任 罗马 教宗 达玛稣 的 秘书 。 // After 382 he served as secretary to Pope Damasus in Rome.</segment>
+		<segment id="120" parent="302" relname="context-circumstance">在 382年 后 ， 他 出任 罗马 教宗 达玛稣 的 秘书 。 // After 382, ​​he served as secretary to Pope Damasus in Rome.</segment>
 		<segment id="121" parent="302" relname="span">在 罗马 这 段 期间 教宗 请 他 将 圣经 翻译 成 拉丁文 。 // During this time in Rome the Pope asked him to translate the Bible into Latin .</segment>
 		<segment id="122" parent="123" relname="adversative-concession">虽然 当时 已 有 一 部 拉丁文 译文 ， // Although there was already a Latin translation at that time,</segment>
 		<segment id="123" parent="301" relname="span">但 该 部 圣经 相当 的 粗糙 又 错误 繁多 。 // But the Bible is rather crude and full of errors .</segment>
@@ -174,10 +174,10 @@
 		<segment id="136" parent="315" relname="span">他 辛勤 工作 二十三 年 // He worked hard for twenty-three years</segment>
 		<segment id="137" parent="136" relname="elaboration-attribute">（ 382年 － 405年 ） // (382-405)</segment>
 		<segment id="138" parent="316" relname="joint-list">完成 了 拉丁文 圣经 修订本 《 武加大 译本 》 // Completed the Revised Latin Bible, the Vulgate Translation</segment>
-		<segment id="139" parent="316" relname="explanation-evidence">-LSB- 8 -RSB- ， -LSB- 9 -RSB- ， -LSB- 10 -RSB- ， // -LSB-8-RSB-, -LSB-9-RSB-, -LSB-10-RSB-,</segment>
+		<segment id="139" parent="316" relname="explanation-evidence">-LSB- 8 -RSB- ， -LSB- 9 -RSB- ， -LSB- 10 -RSB- ， // -LSB- 8 -RSB- , -LSB- 9 -RSB- , -LSB- 10 -RSB- ,</segment>
 		<segment id="140" parent="318" relname="span">这 也 是 拉丁文 通俗 译本 // This is also a latin colloquial translation</segment>
 		<segment id="141" parent="140" relname="elaboration-additional">（ 包括 一 部 新约 保守性 的 拉丁文 订正本 ） // (including a conservative Latin revision of the New Testament)</segment>
-		<segment id="142" parent="319" relname="explanation-evidence">-LSB- 11 -RSB- 。 // -LSB-11-RSB-.</segment>
+		<segment id="142" parent="319" relname="explanation-evidence">-LSB- 11 -RSB- 。 // -LSB- 11 -RSB- .</segment>
 		<segment id="143" parent="326" relname="same-unit">这 也 是 // this is also</segment>
 		<segment id="144" parent="145" relname="elaboration-attribute">西方 教会 所 认定 核可 的 // Approved by the Western Church</segment>
 		<segment id="145" parent="325" relname="span">拉丁文 译本 。 // Latin translation.</segment>
@@ -185,7 +185,7 @@
 		<segment id="147" parent="327" relname="joint-sequence">直 到 今日 这 译本 仍 为 罗马 天主 教会 所 重用 。 // This translation is still used by the Roman Catholic Church to this day.</segment>
 		<segment id="148" parent="149" relname="attribution-positive">由 这 可以 看到 // From this you can see</segment>
 		<segment id="149" parent="328" relname="span">哲罗姆 对 圣经 、 真理 、 学问 的 追求 是 一丝不苟 。 // Jerome was meticulous in his pursuit of the Bible, truth, and learning.</segment>
-		<segment id="150" parent="328" relname="explanation-evidence">-LSB- 12 -RSB- ， -LSB- 13 -RSB- // -LSB-12-RSB-, -LSB-13-RSB-</segment>
+		<segment id="150" parent="328" relname="explanation-evidence">-LSB- 12 -RSB- ， -LSB- 13 -RSB- // -LSB- 12 -RSB- , -LSB- 13 -RSB-</segment>
 		<segment id="151" parent="335" relname="same-unit">布鲁斯‧A‧德马雷斯特 形容 哲罗姆 是 // Bruce A. Demarest described Jerome as</segment>
 		<segment id="152" parent="153" relname="elaboration-attribute">最 有 教养 、 最 有 学问 的 // The most educated and learned</segment>
 		<segment id="153" parent="334" relname="span">古 教父 之一 ， // One of the ancient godfathers,</segment>
@@ -204,13 +204,13 @@
 		<segment id="166" parent="343" relname="joint-list">他 又 将 希腊 神学家 的 一些 著作 将 他们 翻成 拉丁文 ， // He also translated into Latin some of the writings of the Greek theologians,</segment>
 		<segment id="167" parent="343" relname="joint-list">而且 喜欢 参与 讨论 。 // And likes to participate in discussions .</segment>
 		<segment id="168" parent="347" relname="same-unit">哲罗姆 的 著作 // Jerome's writings</segment>
-		<segment id="169" parent="346" relname="context-background">除了 武加大 译本 ， 及 许多 圣经 注释 外 ， // In addition to the Vulgate translation, and many Bible commentaries,</segment>
+		<segment id="169" parent="346" relname="context-background">除了 武加大 译本 ， 及 许多 圣经 注释 外 ， // In addition to the Vulgate translation and many Bible commentaries ,</segment>
 		<segment id="170" parent="346" relname="span">还 有 续编 了 优西比乌 的 历代志 及 编辑 一 部 名人传 // There is also a sequel to Eusebius' Chronicles and edited a biography</segment>
 		<segment id="171" parent="170" relname="restatement-partial">（ De viris Inlustribus ） ， // (De viris Inlustribus),</segment>
 		<segment id="172" parent="347" relname="same-unit">以及 // as well as</segment>
 		<segment id="173" parent="174" relname="elaboration-attribute">说明 独身 与 修道 生活 的 // Explain celibacy and monastic life</segment>
 		<segment id="174" parent="348" relname="span">许多 论文 及 书 // Many papers and books</segment>
-		<segment id="175" parent="347" relname="explanation-evidence">-LSB- 14 -RSB- 。 // -LSB-14-RSB-.</segment>
+		<segment id="175" parent="347" relname="explanation-evidence">-LSB- 14 -RSB- 。 // -LSB- 14 -RSB- .</segment>
 		<segment id="176" parent="352" relname="span">约 15 世纪 的 荷兰 鹿特丹 的 伊拉斯姆 ， 他 编 了 哲罗姆 文集 ， // Erasmus of Rotterdam, Holland, about the 15th century, who compiled Jerome's essays,</segment>
 		<segment id="177" parent="351" relname="joint-list">这 是 一 个 杰出 的 成就 ， // This is an outstanding achievement ,</segment>
 		<segment id="178" parent="351" relname="joint-list">也 可以 看出 哲罗姆 是 非常 多产 且 重要 的 神学家 。 // It can also be seen that Jerome was a very prolific and important theologian .</segment>
@@ -230,7 +230,7 @@
 		<segment id="192" parent="365" relname="joint-list">受惊 // frightened</segment>
 		<segment id="193" parent="365" relname="joint-list">而 呻吟 起来 ” ， // and groaned",</segment>
 		<segment id="194" parent="368" relname="evaluation-comment">可 见 他 的 失望 和 沮丧 // You can see his disappointment and frustration</segment>
-		<segment id="195" parent="370" relname="explanation-evidence">-LSB- 17 -RSB- 。 // -LSB-17-RSB-.</segment>
+		<segment id="195" parent="370" relname="explanation-evidence">-LSB- 17 -RSB- 。 // -LSB- 17 -RSB- .</segment>
 		<segment id="196" parent="380" relname="span">对于 圣徒 和 殉道 的 膜拜 ， 当时 哲罗姆 、 安波罗修 和 奥古斯丁 都 表示 鼓励 。 // The cult of saints and martyrs was encouraged by Jerome, Ambrose and Augustine.</segment>
 		<segment id="197" parent="374" relname="attribution-positive">并且 哲罗姆 曾 说 ： // And Jerome once said:</segment>
 		<segment id="198" parent="199" relname="adversative-concession">“ 无论 羔羊 往 那里 去 ， // "Wherever the Lamb goes,</segment>

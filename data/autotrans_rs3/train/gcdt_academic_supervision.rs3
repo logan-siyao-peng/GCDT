@@ -209,7 +209,7 @@
 		<segment id="171" parent="172" relname="mode-means">利用 抖音 热门 话题 、 关键 字 // Use Douyin's trending topics and keywords</segment>
 		<segment id="172" parent="365" relname="span">发布 虚假 新闻 ， // publish fake news ,</segment>
 		<segment id="173" parent="371" relname="span">把 完全 没有 联系 的 话题 和 关键 字 与 虚假 新闻 进行 拼接 // Splicing completely unconnected topics and keywords with fake news</segment>
-		<segment id="174" parent="372" relname="explanation-evidence">-LSB- 3 -RSB- ， // -LSB-3-RSB-,</segment>
+		<segment id="174" parent="372" relname="explanation-evidence">-LSB- 3 -RSB- ， // -LSB- 3 -RSB- ,</segment>
 		<segment id="175" parent="373" relname="purpose-goal">以 获取 点击率 、 曝光度 。 // To get click-through rate , exposure .</segment>
 		<segment id="176" parent="376" relname="context-background">抖音 也 在 售卖 自己 的 流量 “ Dou+ ” ， // Douyin is also selling its own traffic "Dou+",</segment>
 		<segment id="177" parent="178" relname="context-circumstance">用户 购买 后 ， // After the user purchases,</segment>

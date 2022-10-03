@@ -106,7 +106,7 @@
 		<segment id="68" parent="292" relname="span">瑞典 当局 或多或少 是 受 外国 势力 的 命令 ， // The swedish authorities are more or less at the behest of a foreign power ,</segment>
 		<segment id="69" parent="291" relname="same-unit">对 一 个 // to a</segment>
 		<segment id="70" parent="71" relname="mode-means">根据 瑞典 法律 // According to Swedish law</segment>
-		<segment id="71" parent="289" relname="span">最 差 也 是 处于 法律 灰色 地带 的 // The worst is also in a legal gray area</segment>
+		<segment id="71" parent="289" relname="span">最 差 也 是 处于 法律 灰色 地带 的 // The worst is also in the legal gray area</segment>
 		<segment id="72" parent="290" relname="span">实体 采取 强硬 行动 。 // Entity takes tough action.</segment>
 		<segment id="73" parent="297" relname="context-background">今 次 突袭 一定 提高 了 你 的 知名度 。 // This raid must have raised your profile .</segment>
 		<segment id="74" parent="297" relname="joint-list">你们 目前 有 多少 成员 ， // How many members do you currently have?</segment>
@@ -121,7 +121,7 @@
 		<segment id="83" parent="84" relname="context-circumstance">在 以 电子 方式 支付 会员费 后 ， // After paying the membership fee electronically ,</segment>
 		<segment id="84" parent="303" relname="span">在 我们 的 网站 上 注册 ， // register on our website,</segment>
 		<segment id="85" parent="304" relname="causal-result">这 有助于 大大 减少 我们 的 管理 负担 。 // This helps to greatly reduce our administrative burden .</segment>
-		<segment id="86" parent="309" relname="span">筹款 带来 了 10.8万 瑞典 克朗 // Fundraising brought in 108,000 SEK</segment>
+		<segment id="86" parent="309" relname="span">筹款 带来 了 10.8万 瑞典 克朗 // Fundraising brought in SEK 108,000</segment>
 		<segment id="87" parent="88" relname="attribution-positive">（ 编者 注 ： // (Editor's note:</segment>
 		<segment id="88" parent="308" relname="span">约 14700 美元 ） ， // about $14,700),</segment>
 		<segment id="89" parent="312" relname="joint-list">足够 购买 300万 张 选票 ， // enough to buy 3 million votes,</segment>

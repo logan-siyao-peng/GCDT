@@ -50,7 +50,7 @@
 		<segment id="12" parent="146" relname="same-unit">重新 开放 的 // reopened</segment>
 		<segment id="13" parent="147" relname="span">休闲 设施 包括 大 部分 公共 游泳池 // Leisure facilities including most of the public swimming pools</segment>
 		<segment id="14" parent="13" relname="elaboration-attribute">（ 仅 针对 特定 的 游泳池 设施 ， 例如 主池 、 副池 ） // (Only for specific swimming pool facilities, such as main pool, secondary pool)</segment>
-		<segment id="15" parent="150" relname="same-unit">舞蹈室 ／ 活动室 、 健身室 、 运动 攀登 设施 、 英式 ／ 美式 桌球台 、 体操 训练场 、 烧烤场 、 贝澳 营地 、 水上 活动 中心 、 屯门 康乐 体育 中心 户外 运动 攀登墙 及 绳网阵 将 在 适当 时候 宣布 // Dance studio / activity room, fitness room, sports climbing facilities, English / American billiard table, gymnastics training ground, barbecue area, Pui O Campground, water sports centre, outdoor sports climbing wall and rope net array of Tuen Mun Recreation and Sports Centre will be in Announce in due course</segment>
+		<segment id="15" parent="150" relname="same-unit">舞蹈室 ／ 活动室 、 健身室 、 运动 攀登 设施 、 英式 ／ 美式 桌球台 、 体操 训练场 、 烧烤场 、 贝澳 营地 、 水上 活动 中心 、 屯门 康乐 体育 中心 户外 运动 攀登墙 及 绳网阵 将 在 适当 时候 宣布 // Dance studio / activity room, fitness room, sports climbing facilities, English / American billiard table, gymnastics training ground, barbecue area, Pui O camp, water sports centre, outdoor sports climbing wall and rope net array of Tuen Mun Recreation and Sports Centre will be in Announce in due course</segment>
 		<segment id="16" parent="17" relname="elaboration-attribute">将 重新 开放 的 // will reopen</segment>
 		<segment id="17" parent="149" relname="span">设施 的 详细 信息 。 // Details of the facility.</segment>
 		<segment id="18" parent="153" relname="same-unit">此外 ， // also ,</segment>

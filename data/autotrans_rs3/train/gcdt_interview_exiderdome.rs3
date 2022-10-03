@@ -73,7 +73,7 @@
 		<segment id="35" parent="191" relname="joint-list">本人 非常 感激 。 // I am very grateful.</segment>
 		<segment id="36" parent="37" relname="attribution-positive">其实 ， 西门子 这 次 来到 台湾 进行 这 项 特展 ， 是 希望 // In fact , Siemens came to Taiwan to hold this special exhibition this time .</segment>
 		<segment id="37" parent="192" relname="span">借由 “ 自动化 之 城 ” 的 展示 ， 让 许多 产业 了解 到 企业 自动化 流程 运作 的 优势 ， // Through the demonstration of "City of Automation", many industries can understand the advantages of enterprise automation process operation,</segment>
-		<segment id="38" parent="194" relname="adversative-concession">虽然 本次 展出 恰巧 也选 在 半导体展 的 期间 ， // Although this exhibition happened to be during the semiconductor exhibition,</segment>
+		<segment id="38" parent="194" relname="adversative-concession">虽然 本次 展出 恰巧 也选 在 半导体展 的 期间 ， // Although this exhibition happened to be selected during the semiconductor exhibition,</segment>
 		<segment id="39" parent="194" relname="same-unit">但 实际 上 ， 西门子 // But in fact, Siemens</segment>
 		<segment id="40" parent="41" relname="elaboration-attribute">针对 半导体 产业 的 // for the semiconductor industry</segment>
 		<segment id="41" parent="193" relname="span">解决 方案 ， 其实 仅 有 2 ~ 3% 的 比率 ， // The solution, in fact, is only 2 to 3% of the rate,</segment>
@@ -184,7 +184,7 @@
 		<segment id="146" parent="147" relname="purpose-goal">为了 展现 企业 形象 ， // In order to show the corporate image ,</segment>
 		<segment id="147" parent="293" relname="span">选 在 周边 或 其他 地方 // Choose in the surrounding or other places</segment>
 		<segment id="148" parent="295" relname="joint-list">举行 宣传性 的 展外展 ， 或是 商机 洽谈 的 活动 。 // Hold promotional outreach or business opportunities negotiation events .</segment>
-		<segment id="149" parent="302" relname="joint-list">往年 ， 台北 电信展 中 ， 部分 国内 大厂 的 比拼 ， 甚至 连 台北 东区 都 成为 战场 ； // In previous years, in the Taipei Telecom Show, some domestic manufacturers competed, and even the Eastern District of Taipei became a battlefield;</segment>
+		<segment id="149" parent="302" relname="joint-list">往年 ， 台北 电信展 中 ， 部分 国内 大厂 的 比拼 ， 甚至 连 台北 东区 都 成为 战场 ； // In previous years, at the Taipei Telecom Show, some domestic manufacturers competed, and even the eastern district of Taipei became a battlefield;</segment>
 		<segment id="150" parent="300" relname="organization-preparation">国际 电脑展 呢 ？ // What about Computex?</segment>
 		<segment id="151" parent="297" relname="span">则 是 某些 厂商 把 世贸 商圈 ， 用 不同 的 型式 互相 拼场 ， // On the other hand, some manufacturers use the WTO business district to compete with each other in different forms.</segment>
 		<segment id="152" parent="298" relname="joint-list">有的 是 租下 周边 广告 ， // Some rent the surrounding advertisements,</segment>
