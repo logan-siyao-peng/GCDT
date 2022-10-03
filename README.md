@@ -5,29 +5,11 @@ GCDT is the largest (as of October 2022) hierarchical discourse treebank for Man
 GCDT covers over 60K tokens across five genres of freely available text, using the same relation inventory as the contemporary RST treebank for English -- GUM (https://github.com/amir-zeldes/gum). 
 
 
-
-50 documents are collected with 10 from each of the five genres.
-
-
-
-A link to the GUM splits included in README.md would be nice
-Attribution / Source of the file rst_cheatsheet.pdf
-Background information of the Connectives_in_CDTB.xlsx file
-
-
-
-## Five Genres
-- academic (source: https://www.hanspub.org/)
-- bio (source: https://zh.wikipedia.org/)
-- interview (source: https://zh.wikinews.org/)
-- news (source: https://zh.wikinews.org/)
-- wikihow (source: https://zh.wikihow.com/)
-
-
-
 ## Corpus Statistics 
 The corpus contains 50 documents, 10 from each of the five genres below.
+
 In total, there are 62905 tokens and  9717 EDUs. 
+
 We provide an 8:1:1 train:dev:test split for each genre as shown in the table below.
 
 | Genre   |  #docs |  Avg #tokens/doc | Avg #EDUs/doc | Source | Dev doc | Test doc |
@@ -60,7 +42,7 @@ TODO
 
 
 ## Relation distributions in GCDT
-We present the GCDT's distribution of the 32 discourse relations in the table below.
+We present GCDT's distribution of the 32 discourse relations in the table below.
 
 | relation name | total counts | percentage |
 |:----------:|------:|------:|
