@@ -65,19 +65,15 @@ if __name__ == '__main__':
 	                    # default="../../../code/loganfolked_DMRST_Parser/data/rs3/entranszh-gum-20220705/",
 	                    default="../data/autotrans_rs3/",
 	                    )
-	parser.add_argument("--source_language", default='en')
-	parser.add_argument("--target_language", default='zh-CN')
+	parser.add_argument("--source_language", default='zh-CN')
+	parser.add_argument("--target_language", default='en')
 	args = parser.parse_args()
 	
 	translator = GoogleTranslator(source=args.source_language, target=args.target_language)
 	rs3_files = sorted(glob(args.source_dir + "**/*.rs3", recursive=False))
 	print("We have in total %d documents to translate from %s to %s:"
 	      % (len(rs3_files), args.source_language, args.target_language))
-	
-	# rs3_files = [
-	#              "/Users/loganpeng/Dropbox/Dissertation/data/GUM_Chinese/data/rs3/gum_zh_whow_quinoa.rs3",
-	# ]
-	
+		
 	for file in rs3_files:
 		auto_trans_rs3(file, autotran_rs3_dir=args.target_dir)
 

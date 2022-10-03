@@ -38,7 +38,7 @@ def string_no_space(string):
 	return re.sub(r'\s+', '', string)
 
 def get_file_modified_time(filepath):
-	return os.path.getctime(filepath)
+	return os.path.getmtime(filepath)
 
 def get_rel_name(line):
 	relname = re.findall(r"relname=\"([^\"]+)\"", line)
