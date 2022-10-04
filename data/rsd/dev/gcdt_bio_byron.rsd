@@ -242,35 +242,38 @@
 242	不论 原因 为 何 ，	1	_	_	_	243	adversative-concession_r	_	_
 243	这 都 使得 拜伦 跛行 ，	3	_	_	_	235	joint-other_m	_	_
 244	并 带来 一 辈子 心理 及 身体 的 痛苦 ，	0	_	_	_	243	joint-list_m	_	_
-245	尤其是 幼年 时 痛苦 且 无效 的 “ 治疗 ” 更 加重 了 跛行	2	_	_	_	243	elaboration-additional_r	_	_
-246	-LSB- 20 -RSB- 。	3	_	_	_	243	explanation-evidence_r	_	_
-247	体格	2	_	_	_	248	organization-heading_r	_	_
-248	拜伦 成年 时 的 身高 为 174 公分 ，	3	_	_	_	211	joint-other_m	_	_
-249	体重 则 在 60 公斤 及 89 公斤 之间 。	0	_	_	_	248	joint-list_m	_	_
-250	拜伦 以 其 美貌 闻名 ，	1	_	_	_	248	joint-other_m	_	_
-251	曾 为了 发型 晚上 戴 棉芯 卷 发	0	_	_	_	250	explanation-evidence_r	_	_
-252	-LSB- 21 -RSB- 。	1	_	_	_	250	explanation-evidence_r	_	_
-253	拜伦 是 拳击手 、 骑师 及 杰出 的 游泳 选手 。	1	_	_	_	248	joint-other_m	_	_
-254	他 参加 了 前 职业 拳击 冠军 约翰 “ 绅士 ” 杰克逊 在 邦德街 房间 的 付费 拳击 课程 ，	0	_	_	_	253	evaluation-comment_r	_	_
-255	并 记录 训练 会议 的 内容 ，	0	_	_	_	254	joint-list_m	_	_
-256	在 他 的 信 和 日记 中 称 杰克逊 为 “ 拳击界 的 皇帝 ”	0	_	_	_	254	joint-list_m	_	_
-257	-LSB- 22 -RSB- 。	1	_	_	_	253	explanation-evidence_r	_	_
-258	拜伦 和 其他 的 作家	2	_	_	_	261	context-background_r	_	_
-259	（ 例如 他 的 朋友 霍布豪斯 ）	0	_	_	_	258	elaboration-attribute_r	_	_
-260	仔细 地 描述 拜伦 的 饮食 习惯 。	1	_	_	_	258	same-unit_m	_	_
-261	拜伦	1	_	_	_	248	joint-other_m	_	_
-262	在 就读 剑桥 时	0	_	_	_	263	context-circumstance_r	_	_
-263	实行 严格 的 节食	0	_	_	_	261	same-unit_m	_	_
-264	以 控制 其 体重 ，	1	_	_	_	261	purpose-goal_r	_	_
-265	拜伦 的 运动量 很 大 ，	3	_	_	_	261	explanation-evidence_r	_	_
-266	而且 穿 许多 衣服	0	_	_	_	265	joint-list_m	_	_
-267	使 自己 出汗 。	0	_	_	_	266	purpose-goal_r	_	_
-268	日常 生活 中 拜伦 多半 只 吃 素食 ，	0	_	_	_	265	joint-list_m	_	_
-269	常常 几 天 只 靠 干 的 饼干 及 白 葡萄酒 维生 。	0	_	_	_	268	elaboration-additional_r	_	_
-270	偶尔 他 会 吃 大量 的 肉 和 甜点 。	0	_	_	_	269	adversative-concession_r	_	_
-271	高尔特 和 其他 人 都 描述	0	_	_	_	272	attribution-positive_r	_	_
-272	拜伦 喜欢 暴力 的 运动 ，	1	_	_	_	248	joint-other_m	_	_
-273	霍布豪斯 认为	1	_	_	_	274	attribution-positive_r	_	_
-274	那 是 他 脚 畸形 的 疼痛 使得 身体 不 易 活动 ，	1	_	_	_	272	joint-list_m	_	_
-275	因此 也 造成 他 的 体重 问题	0	_	_	_	274	joint-list_m	_	_
-276	-LSB- 21 -RSB- 。	2	_	_	_	272	explanation-evidence_r	_	_
+245	尤其是 幼年 时	0	_	_	_	246	context-circumstance_r	_	_
+246	痛苦 且 无效 的 “ 治疗 ” 更 加重 了 跛行	2	_	_	_	243	elaboration-additional_r	_	_
+247	-LSB- 20 -RSB- 。	3	_	_	_	243	explanation-evidence_r	_	_
+248	体格	3	_	_	_	249	organization-heading_r	_	_
+249	拜伦	3	_	_	_	211	joint-other_m	_	_
+250	成年 时	0	_	_	_	251	context-circumstance_r	_	_
+251	的 身高 为 174 公分 ，	0	_	_	_	249	same-unit_m	_	_
+252	体重 则 在 60 公斤 及 89 公斤 之间 。	1	_	_	_	249	joint-list_m	_	_
+253	拜伦 以 其 美貌 闻名 ，	2	_	_	_	249	joint-other_m	_	_
+254	曾 为了 发型 晚上 戴 棉芯 卷 发	0	_	_	_	253	explanation-evidence_r	_	_
+255	-LSB- 21 -RSB- 。	1	_	_	_	253	explanation-evidence_r	_	_
+256	拜伦 是 拳击手 、 骑师 及 杰出 的 游泳 选手 。	2	_	_	_	249	joint-other_m	_	_
+257	他 参加 了 前 职业 拳击 冠军 约翰 “ 绅士 ” 杰克逊 在 邦德街 房间 的 付费 拳击 课程 ，	0	_	_	_	256	evaluation-comment_r	_	_
+258	并 记录 训练 会议 的 内容 ，	0	_	_	_	257	joint-list_m	_	_
+259	在 他 的 信 和 日记 中 称 杰克逊 为 “ 拳击界 的 皇帝 ”	0	_	_	_	257	joint-list_m	_	_
+260	-LSB- 22 -RSB- 。	1	_	_	_	256	explanation-evidence_r	_	_
+261	拜伦 和 其他 的 作家	2	_	_	_	264	context-background_r	_	_
+262	（ 例如 他 的 朋友 霍布豪斯 ）	0	_	_	_	261	elaboration-attribute_r	_	_
+263	仔细 地 描述 拜伦 的 饮食 习惯 。	1	_	_	_	261	same-unit_m	_	_
+264	拜伦	2	_	_	_	249	joint-other_m	_	_
+265	在 就读 剑桥 时	0	_	_	_	266	context-circumstance_r	_	_
+266	实行 严格 的 节食	0	_	_	_	264	same-unit_m	_	_
+267	以 控制 其 体重 ，	1	_	_	_	264	purpose-goal_r	_	_
+268	拜伦 的 运动量 很 大 ，	3	_	_	_	264	explanation-evidence_r	_	_
+269	而且 穿 许多 衣服	0	_	_	_	268	joint-list_m	_	_
+270	使 自己 出汗 。	0	_	_	_	269	purpose-goal_r	_	_
+271	日常 生活 中 拜伦 多半 只 吃 素食 ，	0	_	_	_	268	joint-list_m	_	_
+272	常常 几 天 只 靠 干 的 饼干 及 白 葡萄酒 维生 。	0	_	_	_	271	elaboration-additional_r	_	_
+273	偶尔 他 会 吃 大量 的 肉 和 甜点 。	0	_	_	_	272	adversative-concession_r	_	_
+274	高尔特 和 其他 人 都 描述	0	_	_	_	275	attribution-positive_r	_	_
+275	拜伦 喜欢 暴力 的 运动 ，	2	_	_	_	249	joint-other_m	_	_
+276	霍布豪斯 认为	1	_	_	_	277	attribution-positive_r	_	_
+277	那 是 他 脚 畸形 的 疼痛 使得 身体 不 易 活动 ，	1	_	_	_	275	joint-list_m	_	_
+278	因此 也 造成 他 的 体重 问题	0	_	_	_	277	joint-list_m	_	_
+279	-LSB- 21 -RSB- 。	2	_	_	_	275	explanation-evidence_r	_	_

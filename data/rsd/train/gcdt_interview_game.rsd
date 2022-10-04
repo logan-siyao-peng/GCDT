@@ -41,13 +41,13 @@
 41	假使 店家 的 比赛 空间 不利于 警戒线 的 架设 ，	0	_	_	_	42	contingency-condition_r	_	_
 42	举办 比赛 的 店家 应当 如何 应变 ？	2	_	_	_	44	topic-question_r	_	_
 43	此时 会 建议	0	_	_	_	44	attribution-positive_r	_	_
-44	观赛者 不 要 在 视线 范围 内 走动 ，	3	_	_	_	25	joint-other_m	_	_
+44	观赛者 不 要 在 视线 范围 内 走动 ，	2	_	_	_	32	adversative-antithesis_r	_	_
 45	当然 店家 应当 在 赛前 ， 进行 必要 的 劝导 ，	1	_	_	_	44	elaboration-additional_r	_	_
 46	因为 观赛者 若 与 参赛者 的 距离 过近 ，	0	_	_	_	47	contingency-condition_r	_	_
 47	仍 会 有 一定 几率 ， 妨碍 比赛 的 正常 进行 。	0	_	_	_	45	causal-cause_r	_	_
 48	妨碍 选手 正常 比赛 的	0	_	_	_	49	elaboration-attribute_r	_	_
 49	主要 人为 因素 ？	3	_	_	_	50	topic-question_r	_	_
-50	人为 因素 ， 多半 是 以	3	_	_	_	25	joint-other_m	_	_
+50	人为 因素 ， 多半 是 以	3	_	_	_	32	elaboration-additional_r	_	_
 51	观赛者 离 参赛者 过 近 ，	0	_	_	_	54	elaboration-attribute_r	_	_
 52	或者是 观赛者 走动 时	0	_	_	_	53	context-circumstance_r	_	_
 53	与 参赛者 发生 推挤 、 碰撞 的	0	_	_	_	51	joint-list_m	_	_
@@ -79,7 +79,7 @@
 79	或是	2	_	_	_	75	joint-disjunction_m	_	_
 80	在 比赛 进行 中	0	_	_	_	81	context-circumstance_r	_	_
 81	突然 发生 ，	0	_	_	_	79	same-unit_m	_	_
-82	选手 应 在 第一 时间 ， 向 裁判 进行 反应 ，	3	_	_	_	25	joint-other_m	_	_
+82	选手 应 在 第一 时间 ， 向 裁判 进行 反应 ，	4	_	_	_	50	joint-list_m	_	_
 83	并 由 赛事 行政 人员	0	_	_	_	82	joint-list_m	_	_
 84	（ 或 店家 ）	0	_	_	_	83	elaboration-attribute_r	_	_
 85	进行 检测 ，	1	_	_	_	83	same-unit_m	_	_
@@ -148,7 +148,7 @@
 148	良方 ，	0	_	_	_	142	same-unit_m	_	_
 149	这 种 模式 是 值得 推荐 的 。	2	_	_	_	140	evaluation-comment_r	_	_
 150	店家 举办 一 场 比赛 ，	0	_	_	_	151	context-circumstance_r	_	_
-151	其实 需要 的 是 经验 的 累积 。	3	_	_	_	25	joint-other_m	_	_
+151	其实 需要 的 是 经验 的 累积 。	5	_	_	_	118	joint-other_m	_	_
 152	一 场 好 的 比赛 ， 不 只 是 店家 的 安排 ，	0	_	_	_	153	context-background_r	_	_
 153	玩家 的 观赛 风度 与 水平 更 为 重要 ，	1	_	_	_	154	context-background_r	_	_
 154	其实 ， 在 许多 国际 大型 电子 游戏 的 竞技 中 ， 或多或少 ， 现场 都 会 有 所谓 的 观赛 规章 ，	1	_	_	_	151	elaboration-additional_r	_	_
