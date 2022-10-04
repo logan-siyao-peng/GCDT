@@ -2,9 +2,9 @@
 
 The following scripts are used to maintain our GCDT corpus:
 
-* requirements.txt - for pip installing the essential packages
+* requirements.txt - essential pip packages
 
-* extract_edu_from_rs3.py - extracts EDU from rs3 files. By default the language setting (-l) is Chinese (zh), if you would like to parse the auto-translated rs3 files, pass the option "-l bi" to the python command.
+* extract_edu_from_rs3.py - extracts EDU from rs3 files. By default the language setting (-l) is Chinese (zh); if you would like to parse the auto-translated rs3 files, pass the option "-l bi" to the python command.
 
 * autotrans_rs3.py - translates Chinese EDUs to English using Google Translate and appends the translations to the end of each EDU
 

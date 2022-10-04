@@ -24,7 +24,7 @@ We provide an 8:1:1 train:dev:test split for each genre as shown in the table be
 
 ## Citing
 
-To cite this corpus in general, please refer to the following article:
+To cite this corpus, please refer to the following article:
 
 TODO
 
@@ -41,16 +41,19 @@ TODO
 ```
 
 ## Data and utils
-Please see two sub-directories data/ and utils/ for annotated data and relevant scripts.
+Please see the two sub-directories for annotated data and relevant scripts.
+
+- data/  https://github.com/logan-siyao-peng/GCDT/tree/main/data
+- utils/ https://github.com/logan-siyao-peng/GCDT/tree/main/utils
 
 
 ## Data and metadata annotations
-- XML and metadata annotations (gold)
-- Paragraph and sentence splits (gold)
-- Tokenization (gold) 
-- Dependency parses (predicted by stanza)
-- rs3 to rsd, dis conversions (automatic)
-- EDU-wise Chinese --> English translation (automatic)
+- XML and metadata annotations -- gold
+- Paragraph and sentence splits -- gold
+- Tokenization -- gold
+- Dependency parses -- predicted by stanza
+- rs3 to rsd, dis conversions -- automatic
+- EDU-wise Chinese --> English translation -- automatic
 
 
 ## Relation distributions in GCDT
