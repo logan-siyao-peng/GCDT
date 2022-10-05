@@ -30,7 +30,7 @@ def find_english_dev_test(FileNames, language):
     dev_indexes = []
     test_indexes = []
     leave_out_indexs = []
-    if language.startswith("en-gum4news") or language.startswith("en-gum2rstdt4news"): # Janet EMNLP 2022 experiments
+    if language.startswith("en-gum4news") or language.startswith("en-gum2rstdt4news"):
         test_samples_list = ["GUM_news_nasa", "GUM_news_sensitive", "GUM_news_homeopathic", "GUM_news_iodine"]
         dev_samples_list = en_gum_dev_samples_list
     elif language.startswith("en-rstdt"):
@@ -112,7 +112,7 @@ def find_english_dev_test(FileNames, language):
         elif name in dev_samples_list:
             dev_indexes.append(i)
 
-    if language.startswith("en-gum4news") or language.startswith("en-gum2rstdt4news"): # Janet EMNLP 2022 experiments
+    if language.startswith("en-gum4news") or language.startswith("en-gum2rstdt4news"):
         assert len(test_indexes) == 4 and  len(dev_indexes) == 22
     elif language.startswith("en-rstdt"):
         assert len(dev_indexes) == 35 and len(test_indexes) == 38

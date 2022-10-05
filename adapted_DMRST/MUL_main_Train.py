@@ -19,7 +19,7 @@ def parse_args():
     parser.add_argument('--GPUforModel', type=int, default=config.global_gpu_id, help='Which GPU to run')
     parser.add_argument('--batch_size', type=int, default=1, help='Batch size') # default=3
     parser.add_argument('--eval_size', type=int, default=1,
-                        help='Evaluation size')  # default=30 same eval size would make memory stable
+                        help='Evaluation size')
     parser.add_argument('--hidden_size', type=int, default=config.hidden_size, help='Hidden size of RNN')
     parser.add_argument('--rnn_layers', type=int, default=1, help='Number of RNN layers')
     parser.add_argument('--dropout_e', type=float, default=0.5, help='Dropout rate for encoder')
@@ -33,14 +33,13 @@ def parse_args():
     parser.add_argument('--classifier_bias', type=str, default='True', help='Whether classifier has bias')
     parser.add_argument('--seed', type=int, default=111, help='Seed number')
     
-    parser.add_argument('--epoch', type=int, default=15, help='Epoch number')  # default=15
+    parser.add_argument('--epoch', type=int, default=15, help='Epoch number')
 
     parser.add_argument('--lr', type=float, default=0.00002, help='Initial lr')
     parser.add_argument('--lr_decay_epoch', type=int, default=1, help='Lr decay epoch')
     parser.add_argument('--weight_decay', type=float, default=0.01, help='Weight decay rate')
 
     parser.add_argument('--datapath', type=str, default="./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/", help='Data path')
-    # parser.add_argument('--savepath', type=str, default="Savings/zh-gcdt-hfl-chinese-roberta-wwm-ext_bs1_seed111/", help='Model save path') # default for train: None
     parser.add_argument('--savepath', type=str, default=None, help='Model save path')
     parser.add_argument('--finetuning', type=str, default="False", choices=["True", "False"],
                         help='Whether to finetune on a saved model or not')

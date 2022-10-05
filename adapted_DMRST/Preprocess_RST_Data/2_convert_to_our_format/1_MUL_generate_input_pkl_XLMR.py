@@ -8,12 +8,12 @@ from binary_tree import BinaryTree
 from binary_tree import Node
 from transformers import XLMRobertaTokenizer, BertTokenizer, RobertaTokenizer
 
-### original language model ###
+# Language models
 xlm_roberta_base_tokenizer = XLMRobertaTokenizer.from_pretrained("xlm-roberta-base")
 hfl_chinese_roberta_wwm_ext_tokenizer = BertTokenizer.from_pretrained("hfl/chinese-roberta-wwm-ext")
 roberta_base_tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
 
-
+# Relation tables
 # RelationTable = open("../../data/rstdt-relations.txt", "r", encoding="utf8").read().strip().split("\n")
 RelationTable = open("../../data/gum-relations.txt", "r", encoding="utf8").read().strip().split("\n")
 
@@ -109,15 +109,6 @@ def parse_sentence(root_node, edus_list, is_depth_manner):
     for i in range(len(Sentences_list)):
         parser_input.Sentences += Sentences_list[i][1]
         parser_input.EDU_Breaks.append(len(parser_input.Sentences) - 1)
-    # print(parser_input.Sentences)
-    # print(parser_input.EDU_Breaks)
-    # print(parser_input.LabelforMetric)
-    # print(parser_input.ParsingIndex)
-    # print(parser_input.Relation)
-    # print(parser_input.DecoderInputs)
-    # print(parser_input.Parents)
-    # print(parser_input.Siblings)
-    # print('\n')
     return parser_input
 
 
@@ -307,7 +298,6 @@ if __name__ == '__main__':
                 os.makedirs(output_path)
     
             dmrg_paths = sorted(glob(one_language_dmrg_path + '*.dmrg'))
-            # dmrg_paths = sorted(glob(All_raw_files_path + '*.dmrg'))
     
             for dmrg_path in dmrg_paths:
                 file_name = dmrg_path.split('/')[-1].split('.')[0]
