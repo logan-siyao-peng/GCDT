@@ -267,7 +267,7 @@ class Train(object):
 
     def train(self):
         if self.finetune_frompath != None:
-            with torch.no_grad():  # Logan: TODO try to reduce memory
+            with torch.no_grad():  # reduce memory
                 # Load model
                 torchsave_files = sorted(glob.glob(self.finetune_frompath + "Epoch_*.torchsave"))
                 assert len(torchsave_files) == 1
@@ -320,7 +320,7 @@ class Train(object):
                 print("whole iter list", whole_iter_list[:10], "max:min", max(whole_iter_list), min(whole_iter_list))
 
             for one_iter in range(iteration):
-                # Logan add empty cache
+                # empty cache
                 torch.cuda.empty_cache()
                 
                 if one_iter % config.iter_display_size == 0:
@@ -361,7 +361,7 @@ class Train(object):
                     # w_tree = 3 * math.exp(r_tree / dwa_T) / total_r
                     # w_edu = 3 * math.exp(r_edu / dwa_T) / total_r
                     
-                    # Logan: use np.exp to avoid overflow
+                    # use np.exp to avoid overflow
                     total_r = np.exp(r_label / dwa_T) + np.exp(r_tree / dwa_T) + np.exp(r_edu / dwa_T)
                     w_label = 3 * np.exp(r_label / dwa_T) / total_r
                     w_tree = 3 * np.exp(r_tree / dwa_T) / total_r
@@ -375,17 +375,15 @@ class Train(object):
 
                 Loss.backward()
 
-                torch.cuda.empty_cache() # try empty cache
+                torch.cuda.empty_cache() # empty cache
 
                 # detach to save memory so that the graph can be cleared
                 # see: https://discuss.pytorch.org/t/cuda-error-out-of-memory-after-several-epochs/29094
-                # TODO try not detach
                 Loss_tree_batch = float(Loss_tree_batch.detach().item())
                 Loss_label_batch = float(Loss_label_batch.detach().item())
                 Loss_segment_batch = float(Loss_segment_batch.detach().item())
                 
                 # Save loss after .detach().item()
-                # if config.use_dwa_loss: # Logan: I don't think the if condition is necessary
                 label_loss_iter_list.append(Loss_label_batch)
                 tree_loss_iter_list.append(Loss_tree_batch)
                 edu_loss_iter_list.append(Loss_segment_batch)
@@ -400,12 +398,12 @@ class Train(object):
 
                 optimizer.step()
                 # optimizer.zero_grad(set_to_none=True)
-                # Logan: TODO reduce memory see: https://discuss.pytorch.org/t/cuda-out-of-memory-at-the-second-epoch/106430
+                # reduce memory see: https://discuss.pytorch.org/t/cuda-out-of-memory-at-the-second-epoch/106430
                 
                 torch.cuda.empty_cache()
 
             # Convert model to eval
-            with torch.no_grad(): #Logan: TODO try to reduce memory
+            with torch.no_grad(): # reduce memory
                 self.model.eval()
     
                 # Eval on Dev data
@@ -455,7 +453,7 @@ class Train(object):
                       '%.4f\t%.4f\t%.4f\t%.4f'% (F_segment_Test,F_span_Test, F_nuclearity_Test,F_relation_Test),
                       sep="\n")
     
-                # Logan changed: best should be evaluated on DEV not TEST
+                # Changed: best should be evaluated on DEV not TEST
                 # Relation will take the priority consideration
                 # if F_relation_Test > best_F_relation_Test:
                 if F_relation_Dev > best_F_relation_Dev:
@@ -503,7 +501,7 @@ class Train(object):
                 self.model.train()
 
         # Convert model to eval
-        with torch.no_grad():  # Logan: TODO try to reduce memory
+        with torch.no_grad():  # reduce memory
             self.model.eval()
 
         return best_epoch_Dev, \
@@ -533,7 +531,7 @@ class EvalOnly(object):
 
     def evaluate(self):
         
-        with torch.no_grad():  # Logan: TODO try to reduce memory
+        with torch.no_grad():  # reduce memory
             # Load model
             torchsave_files = sorted(glob.glob(self.save_path + "Epoch_*.torchsave"))
             assert len(torchsave_files) == 1

@@ -34,15 +34,12 @@ Please specify your --datapath and --savepath:
 - Allow running (especially) testing on CPUs (most python files)
  
 
-
 <hr>
+<br>
+<br>
+<br>
 
-<hr>
-
-<hr>
-
-
-The followings are instructions from the original DMRST GitHub repo:
+# Original DMRST Parser Readme:
 
 ## Introduction
 * One implementation of the paper `DMRST: A Joint Framework for Document-Level Multilingual RST Discourse Segmentation and Parsing` and `Multilingual Neural RST Discourse Parsing.`

@@ -253,9 +253,6 @@ def split_train_test(base_path):
         language_folders = sorted(glob(translated_folder+'/*'))
         for language_folder in language_folders:
             language = language_folder.split('/')[-1]
-            # if not language.startswith("en-rstdt-"):  # Logan: specific dataset
-            if "4news" not in language:  # Logan: specific dataset
-                continue
             random_split(language_folder, language)
 
 

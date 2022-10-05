@@ -245,8 +245,6 @@ def save_pickle(obj, file_path):
 
 
 if __name__ == '__main__':
-
-    # build_mode = input("Please select the build mode: depth / breadth :")
     build_mode = "depth"
     if build_mode.strip() == "depth":
         depth_manner = True
@@ -265,7 +263,6 @@ if __name__ == '__main__':
 
     is_sentence_level = False
     subdirs = os.listdir(input_base_path)
-    subdirs = [x for x in subdirs if x=="en-rstdt"] # Logan narrow
     for subdir in subdirs:
         if "zh-gcdt" in subdir:
             tokenizers_dict = {"xlm-roberta-base": xlm_roberta_base_tokenizer,
@@ -287,10 +284,7 @@ if __name__ == '__main__':
         else:
             assert False
             
-        for tokenizer_key, tokenizer in tokenizers_dict.items():
-            if subdir != "en-rstdt": # Logan: narrow
-                continue
-            
+        for tokenizer_key, tokenizer in tokenizers_dict.items():            
             print("data dir: %s with embedding: %s" % (subdir, tokenizer_key))
             File_Name_list = []
             Sentences_list = []
