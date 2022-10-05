@@ -13,12 +13,15 @@ Please cite their paper:
 
 ### To train the model
 
-`python MUL_main_Train.py --datapath=DATAPATH  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 111`
+Please specify your --datapath, and your --savepath would be Savings/{corpus\_embedding\_name}\_bs{batch\_size}\_seed\_{seed_number} by default.
+
+`python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 111`
 
 ### To evaluate with saved torch dumps
 
+Please specify your --datapath and --savepath:
 
-`python MUL_main_Train.py --use_org_Parseval True --eval_only True --datapath=DATAPATH --savepath=SAVEPATH`
+`python MUL_main_Train.py --use_org_Parseval True --eval_only True --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/ --savepath=Savings/zh-gcdt-roberta-basehfl-chinese-roberta-wwm-ext_bs1_seed111/`
 
 
 ## Major changes from orginal DMRST code:
@@ -33,6 +36,11 @@ Please cite their paper:
 
 
 <hr>
+
+<hr>
+
+<hr>
+
 
 The followings are instructions from the original DMRST GitHub repo:
 
