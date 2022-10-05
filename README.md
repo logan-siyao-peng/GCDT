@@ -40,12 +40,12 @@ TODO
 TODO
 ```
 
-## Data and utils
-Please see the two sub-directories for annotated data and relevant scripts.
+## Data, utils and adapted DMRST parser
+Please see the sub-directories for annotated data, scripts, and adapted DMRST parser.
 
 - data/  https://github.com/logan-siyao-peng/GCDT/tree/main/data
 - utils/ https://github.com/logan-siyao-peng/GCDT/tree/main/utils
-
+- adapted_DMRST/ https://github.com/logan-siyao-peng/GCDT/tree/main/adapted_DMRST
 
 ## Data and metadata annotations
 - XML and metadata annotations -- gold

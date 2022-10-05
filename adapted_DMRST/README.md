@@ -11,6 +11,12 @@ Please cite their paper:
 
 ## Sample commands
 
+### Data preprocessing
+Please see ./Preprocess_RST_Data/README.md for data preprocessing steps.
+
+We provide a preprocessed version of GCDT using the hfl/chinese-roberta-wwm-ext language model in  ./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/.
+
+
 ### To train the model
 
 Please specify your --datapath, and your --savepath would be Savings/{corpus\_embedding\_name}\_bs{batch\_size}\_seed\_{seed_number} by default.
@@ -34,12 +40,12 @@ Please specify your --datapath and --savepath:
 - Allow running (especially) testing on CPUs (most python files)
  
 
-<hr>
-<br>
-<br>
-<br>
 
-# Original DMRST Parser Readme:
+<br>
+<br>
+<hr>
+
+# Original DMRST Parser Readme
 
 ## Introduction
 * One implementation of the paper `DMRST: A Joint Framework for Document-Level Multilingual RST Discourse Segmentation and Parsing` and `Multilingual Neural RST Discourse Parsing.`
