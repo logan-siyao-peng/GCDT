@@ -1,0 +1,119 @@
+(SN-organization
+  (EDU 1)
+  (SN-context
+    (EDU 2)
+    (SN-context
+      (NS-attribution (EDU 3) (SN-organization (EDU 4) (EDU 5)))
+      (NS-elaboration
+        (NS-elaboration
+          (NS-causal (EDU 6) (EDU 7))
+          (SN-context (EDU 8) (EDU 9)))
+        (NN-joint
+          (NS-elaboration
+            (NN-joint
+              (NS-elaboration
+                (NN-joint
+                  (NS-elaboration (EDU 10) (EDU 11))
+                  (NN-joint
+                    (EDU 12)
+                    (NS-elaboration (EDU 13) (EDU 14))))
+                (NN-joint
+                  (NS-purpose (EDU 15) (EDU 16))
+                  (NN-joint
+                    (EDU 17)
+                    (NS-elaboration (EDU 18) (EDU 19)))))
+              (NN-joint
+                (NS-elaboration
+                  (NS-purpose (EDU 20) (EDU 21))
+                  (NN-joint (NS-purpose (EDU 22) (EDU 23)) (EDU 24)))
+                (NS-elaboration
+                  (NS-elaboration
+                    (NS-elaboration (EDU 25) (EDU 26))
+                    (NS-explanation
+                      (EDU 27)
+                      (NS-elaboration (EDU 28) (EDU 29))))
+                  (NS-elaboration
+                    (EDU 30)
+                    (NS-elaboration
+                      (SN-context (EDU 31) (EDU 32))
+                      (NS-causal
+                        (SN-causal
+                          (NN-same-unit
+                            (NS-restatement (EDU 33) (EDU 34))
+                            (EDU 35))
+                          (EDU 36))
+                        (NS-causal (EDU 37) (EDU 38))))))))
+            (NS-attribution
+              (EDU 39)
+              (SN-organization (EDU 40) (EDU 41))))
+          (NN-joint
+            (SN-organization
+              (EDU 42)
+              (NS-elaboration
+                (NN-joint
+                  (EDU 43)
+                  (NN-joint
+                    (NS-elaboration
+                      (NS-purpose (EDU 44) (EDU 45))
+                      (NN-joint (EDU 46) (EDU 47)))
+                    (EDU 48)))
+                (NN-joint
+                  (NS-attribution
+                    (EDU 49)
+                    (SN-organization (EDU 50) (EDU 51)))
+                  (NN-joint
+                    (NS-attribution
+                      (EDU 52)
+                      (SN-organization (EDU 53) (EDU 54)))
+                    (NS-attribution
+                      (EDU 55)
+                      (SN-organization (EDU 56) (EDU 57)))))))
+            (SN-organization
+              (EDU 58)
+              (NN-joint
+                (SN-context
+                  (NS-attribution
+                    (EDU 59)
+                    (SN-organization (EDU 60) (EDU 61)))
+                  (SN-context
+                    (NS-elaboration
+                      (EDU 62)
+                      (NN-same-unit
+                        (NS-elaboration (EDU 63) (EDU 64))
+                        (EDU 65)))
+                    (NS-elaboration
+                      (NS-context
+                        (NS-elaboration (EDU 66) (EDU 67))
+                        (NS-purpose
+                          (EDU 68)
+                          (NN-same-unit
+                            (NS-elaboration (EDU 69) (EDU 70))
+                            (EDU 71))))
+                      (NS-adversative (EDU 72) (EDU 73)))))
+                (NN-joint
+                  (SN-organization
+                    (EDU 74)
+                    (NS-attribution
+                      (EDU 75)
+                      (SN-organization (EDU 76) (EDU 77))))
+                  (NN-joint
+                    (SN-organization
+                      (EDU 78)
+                      (NS-attribution
+                        (EDU 79)
+                        (SN-organization (EDU 80) (EDU 81))))
+                    (NN-joint
+                      (SN-organization
+                        (EDU 82)
+                        (NS-attribution
+                          (NS-elaboration (EDU 83) (EDU 84))
+                          (SN-organization (EDU 85) (EDU 86))))
+                      (SN-organization
+                        (EDU 87)
+                        (NN-joint
+                          (NS-attribution
+                            (EDU 88)
+                            (SN-organization (EDU 89) (EDU 90)))
+                          (NS-attribution
+                            (EDU 91)
+                            (SN-organization (EDU 92) (EDU 93))))))))))))))))

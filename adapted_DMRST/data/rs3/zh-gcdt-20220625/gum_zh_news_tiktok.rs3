@@ -1,0 +1,264 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="219" relname="organization-heading">TikTok 出售 或 须 先 得 北京 同意</segment>
+		<segment id="2" parent="218" relname="context-circumstance">【 2020年 8月 31日 讯 】</segment>
+		<segment id="3" parent="137" relname="context-background">中国 日前 对 科技 出口 制定 新 的 管制 规定 。</segment>
+		<segment id="4" parent="135" relname="attribution-positive">一 名 中国 专家 说 ，</segment>
+		<segment id="5" parent="121" relname="attribution-positive">这 意味 着</segment>
+		<segment id="6" parent="121" relname="same-unit">字节跳动 公司</segment>
+		<segment id="7" parent="8" relname="contingency-condition">如果 出售 美国 TikTok 业务</segment>
+		<segment id="8" parent="120" relname="span">需要 先 得到 北京 的 同意 。</segment>
+		<segment id="9" parent="123" relname="same-unit">这 个 规定 将 使得</segment>
+		<segment id="10" parent="11" relname="elaboration-attribute">原本 已经 与 政治 因素 有关 的</segment>
+		<segment id="11" parent="122" relname="span">TikTok 剥离 要求 更加 复杂化 。</segment>
+		<segment id="12" parent="127" relname="same-unit">美国 总统 特朗普</segment>
+		<segment id="13" parent="125" relname="same-unit">以</segment>
+		<segment id="14" parent="15" relname="elaboration-attribute">TikTok 可能 存在 损害 美国 国家 安全 的</segment>
+		<segment id="15" parent="124" relname="span">威胁 为 由 ，</segment>
+		<segment id="16" parent="126" relname="span">于 8月 14日 下令</segment>
+		<segment id="17" parent="129" relname="same-unit">中国 公司 字节跳动 在 90 天 内 ， 从</segment>
+		<segment id="18" parent="19" relname="elaboration-attribute">在 美国 运营 的</segment>
+		<segment id="19" parent="128" relname="span">视频 共享 应用 程序 TikTok 撤资 。</segment>
+		<segment id="20" parent="132" relname="same-unit">这 个 命令 增加 了</segment>
+		<segment id="21" parent="22" relname="elaboration-attribute">字节跳动 从 TikTok 剥离 的</segment>
+		<segment id="22" parent="131" relname="span">压力 ，</segment>
+		<segment id="23" parent="133" relname="joint-list">并 合法 支持 特朗普 政府 对 这 个 中国 社交 媒体 应用 程序 的 封杀 。</segment>
+		<segment id="24" parent="140" relname="attribution-positive">此前 8月 6日 ， 总统 特朗普 签署 行政令 ，</segment>
+		<segment id="25" parent="140" relname="same-unit">将 在 45 天 后 禁止</segment>
+		<segment id="26" parent="27" relname="elaboration-attribute">美国 司法 管辖 的</segment>
+		<segment id="27" parent="139" relname="span">任何 人 或 企业 与 TikTok 母公司 进行 任何 交易 。</segment>
+		<segment id="28" parent="29" relname="attribution-positive">北京 则 谴责</segment>
+		<segment id="29" parent="142" relname="span">特朗普 的 打压 是 政治 行为 。</segment>
+		<segment id="30" parent="144" relname="same-unit">目前</segment>
+		<segment id="31" parent="143" relname="elaboration-attribute">有意 收购 TikTok 在 美国 、 加拿大 、 新西兰 和 澳大利亚 业务 的</segment>
+		<segment id="32" parent="143" relname="span">买家 包括 微软</segment>
+		<segment id="33" parent="32" relname="restatement-partial">（ Microsoft Corp ) 、</segment>
+		<segment id="34" parent="145" relname="restatement-repetition">甲骨文</segment>
+		<segment id="35" parent="145" relname="restatement-repetition">（ Oracle Corp )</segment>
+		<segment id="36" parent="146" relname="span">和 沃尔玛</segment>
+		<segment id="37" parent="36" relname="restatement-partial">（ Walmart Inc. )</segment>
+		<segment id="38" parent="144" relname="same-unit">等 。</segment>
+		<segment id="39" parent="147" relname="span">不过 ， 中国 商务部 与 科技部 8月 28日 调整 发布 了 “ 中国 禁止 出口 限制 出口 技术 目录 ” 。</segment>
+		<segment id="40" parent="39" relname="elaboration-additional">这 是 中国 12 年 来 首 次 这么 做 。</segment>
+		<segment id="41" parent="149" relname="same-unit">新华社 星期天</segment>
+		<segment id="42" parent="43" relname="context-circumstance">（ 8月 30日 ）</segment>
+		<segment id="43" parent="148" relname="span">报道 说 ，</segment>
+		<segment id="44" parent="45" relname="attribution-positive">对外 经济 贸易 大学 的 国际 贸易 教授 崔凡 认为 ，</segment>
+		<segment id="45" parent="150" relname="span">这些 修订 都 适用于 TikTok 。</segment>
+		<segment id="46" parent="151" relname="same-unit">报道</segment>
+		<segment id="47" parent="48" relname="mode-means">援引 他 的 话</segment>
+		<segment id="48" parent="224" relname="span">说 ：</segment>
+		<segment id="49" parent="223" relname="same-unit">“ 如果</segment>
+		<segment id="50" parent="51" relname="attribution-positive">字节跳动 计划</segment>
+		<segment id="51" parent="222" relname="span">出口 相关 技术 ，</segment>
+		<segment id="52" parent="152" relname="span">应该 履行 申请 许可 程序 。 ”</segment>
+		<segment id="53" parent="153" relname="joint-list">中国 商务部 在 新规 中 增加 了 23 个 项 限制类 条目 ，</segment>
+		<segment id="54" parent="153" relname="joint-list">对 21 项 条 目的 控制 要点 和 技术 参数 进行 了 修改 。</segment>
+		<segment id="55" parent="159" relname="attribution-positive">路透社 星期天 报道 说 ，</segment>
+		<segment id="56" parent="57" relname="elaboration-attribute">新增 限制 的</segment>
+		<segment id="57" parent="154" relname="span">项目 中 包括 ：</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">根据 数据 分析 与 人工 智能 互动 接口 技术 的</segment>
+		<segment id="59" parent="155" relname="span">个人 信息 推播 服务 ，</segment>
+		<segment id="60" parent="156" relname="contingency-condition">如果 要 出口 这些 技术</segment>
+		<segment id="61" parent="62" relname="purpose-goal">需要 最多 30 天</segment>
+		<segment id="62" parent="156" relname="span">才 能 得到 初步 批准 。</segment>
+		<segment id="63" parent="162" relname="same-unit">崔凡</segment>
+		<segment id="64" parent="65" relname="context-circumstance">接受 新华社 采访 时</segment>
+		<segment id="65" parent="161" relname="span">说 ，</segment>
+		<segment id="66" parent="164" relname="span">字节跳动 的 国际 业务 能 快速 发展 ， 依靠 的 是 其 国内 强大 的 技术 支撑 ，</segment>
+		<segment id="67" parent="163" relname="span">它 源源不断 的 向 境外 公司 提供 最新 的 核心 算法 服务 ，</segment>
+		<segment id="68" parent="67" relname="elaboration-additional">就 是 一 种 典型 的 技术 服务 出口 。</segment>
+		<segment id="69" parent="168" relname="attribution-positive">他 说 ，</segment>
+		<segment id="70" parent="167" relname="contingency-condition">如果 它 的 国际 业务 要 继续 顺利 运营 ，</segment>
+		<segment id="71" parent="166" relname="context-circumstance">无论 其 新 的 所有者 和 运营者 是 谁 ，</segment>
+		<segment id="72" parent="166" relname="joint-disjunction">很 可能 都 需要 从 中国 境内 向 境外 转让 软件 代码 或 其 使用权 ，</segment>
+		<segment id="73" parent="166" relname="joint-disjunction">也 可能 需要 从 中国 境内 向 境外 提供 技术 服务 。</segment>
+		<segment id="74" parent="172" relname="attribution-positive">崔凡 建议 ，</segment>
+		<segment id="75" parent="171" relname="same-unit">字节跳动 认真 研究</segment>
+		<segment id="76" parent="77" relname="elaboration-attribute">调整 后 的</segment>
+		<segment id="77" parent="170" relname="span">目录 ，</segment>
+		<segment id="78" parent="79" relname="attribution-positive">严肃 并 慎重 考虑</segment>
+		<segment id="79" parent="173" relname="span">是否 需要 暂停 相关 交易 的 实质性 谈判 ，</segment>
+		<segment id="80" parent="172" relname="joint-list">履行 好 法定 申报 程序 ，</segment>
+		<segment id="81" parent="175" relname="same-unit">然后 再</segment>
+		<segment id="82" parent="83" relname="mode-means">看 情况</segment>
+		<segment id="83" parent="174" relname="span">采取 进一步 行动 。</segment>
+		<segment id="84" parent="177" relname="same-unit">字节跳动 星期天 没有 回复</segment>
+		<segment id="85" parent="86" relname="elaboration-attribute">路透社 有关 置评 的</segment>
+		<segment id="86" parent="176" relname="span">请求 。</segment>
+		<segment id="87" parent="213" relname="joint-list">TikTok 的 母公司 字节跳动 8月 24日 正式 启动 对 特朗普 政府 的 司法 诉讼 程序 ，</segment>
+		<segment id="88" parent="180" relname="same-unit">挑战</segment>
+		<segment id="89" parent="178" relname="elaboration-attribute">特朗普 总统 8月 6日 签署 的</segment>
+		<segment id="90" parent="91" relname="purpose-attribute">禁止 与 TikTok 一切 交易 的</segment>
+		<segment id="91" parent="178" relname="span">行政 命令 。</segment>
+		<segment id="92" parent="182" relname="attribution-positive">中国 官媒 中新网 说 ，</segment>
+		<segment id="93" parent="94" relname="elaboration-attribute">字节跳动 宣布 正式 起诉 的</segment>
+		<segment id="94" parent="181" relname="span">同时 ，</segment>
+		<segment id="95" parent="182" relname="span">开始 准备 美国 业务 的 “ 关停 预案 ” 。</segment>
+		<segment id="96" parent="186" relname="same-unit">这 个 高调 起诉 行动 引发 了</segment>
+		<segment id="97" parent="184" relname="joint-disjunction">对 字节跳动 是 正当 维权</segment>
+		<segment id="98" parent="184" relname="joint-disjunction">还是 政治 操弄 的</segment>
+		<segment id="99" parent="185" relname="span">探讨 。</segment>
+		<segment id="100" parent="189" relname="attribution-positive">有 观察 人士 认为 ，</segment>
+		<segment id="101" parent="188" relname="causal-cause">中国 以 种种 理由 把 谷歌 搜索 引擎 、 脸书 和 推特 拒之门外 ，</segment>
+		<segment id="102" parent="188" relname="same-unit">美国</segment>
+		<segment id="103" parent="104" relname="adversative-concession">就算 不 以 国家 安全 为 由 ，</segment>
+		<segment id="104" parent="187" relname="span">单 凭 对等 原则 就 应该 对 中国 资讯 软件 下手 。</segment>
+		<segment id="105" parent="191" relname="attribution-positive">中国 官媒 则 指责</segment>
+		<segment id="106" parent="191" relname="same-unit">美国</segment>
+		<segment id="107" parent="108" relname="mode-means">以 国家 安全 为 借口</segment>
+		<segment id="108" parent="192" relname="span">来 围堵 中国 ，</segment>
+		<segment id="109" parent="110" relname="attribution-positive">认为</segment>
+		<segment id="110" parent="194" relname="span">字节跳动 起诉 特朗普 政府 是 企业 正当 的 维权 举动 。</segment>
+		<segment id="111" parent="198" relname="attribution-positive">纽约 城市 大学 亨特 学院 兼任 教授 滕彪 对 美国之音 说 ，</segment>
+		<segment id="112" parent="197" relname="causal-cause">由于 字节跳动 并不 是 一般 意义 的 私营 企业 ，</segment>
+		<segment id="113" parent="197" relname="same-unit">美国 政府</segment>
+		<segment id="114" parent="115" relname="mode-means">以 国家 安全 为 由</segment>
+		<segment id="115" parent="196" relname="span">下达 这 个 行政 命令 有 其 正当性 。</segment>
+		<segment id="116" parent="117" relname="attribution-positive">美国 官员 担心</segment>
+		<segment id="117" parent="199" relname="span">字节跳动 会 把 美国 用户 的 数据 资料 转交 给 中国 政府 ，</segment>
+		<segment id="118" parent="200" relname="adversative-contrast">字节跳动 对 此 予以 否认 。</segment>
+		<segment id="119" parent="216" relname="joint-other">TikTok 在 美国 目前 有 高 达 8千万 活跃 用户 。</segment>
+		<group id="120" type="span" parent="121" relname="same-unit"/>
+		<group id="121" type="multinuc" parent="135" relname="span"/>
+		<group id="122" type="span" parent="123" relname="same-unit"/>
+		<group id="123" type="multinuc" parent="137" relname="joint-list"/>
+		<group id="124" type="span" parent="125" relname="same-unit"/>
+		<group id="125" type="multinuc" parent="16" relname="mode-manner"/>
+		<group id="126" type="span" parent="127" relname="same-unit"/>
+		<group id="127" type="multinuc" parent="129" relname="attribution-positive"/>
+		<group id="128" type="span" parent="129" relname="same-unit"/>
+		<group id="129" type="multinuc" parent="130" relname="span"/>
+		<group id="130" type="span" parent="134" relname="span"/>
+		<group id="131" type="span" parent="132" relname="same-unit"/>
+		<group id="132" type="multinuc" parent="133" relname="joint-list"/>
+		<group id="133" type="multinuc" parent="130" relname="evaluation-comment"/>
+		<group id="134" type="span" parent="202" relname="span"/>
+		<group id="135" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" parent="137" relname="joint-list"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="138" type="span" parent="217" relname="joint-list"/>
+		<group id="139" type="span" parent="140" relname="same-unit"/>
+		<group id="140" type="multinuc" parent="141" relname="span"/>
+		<group id="141" type="span" parent="134" relname="context-background"/>
+		<group id="142" type="span" parent="202" relname="evaluation-comment"/>
+		<group id="143" type="span" parent="221" relname="span"/>
+		<group id="144" type="multinuc" parent="217" relname="joint-list"/>
+		<group id="145" type="multinuc" parent="144" relname="same-unit"/>
+		<group id="146" type="span" parent="144" relname="same-unit"/>
+		<group id="147" type="span" parent="207" relname="span"/>
+		<group id="148" type="span" parent="149" relname="same-unit"/>
+		<group id="149" type="multinuc" parent="150" relname="attribution-positive"/>
+		<group id="150" type="span" parent="204" relname="span"/>
+		<group id="151" type="multinuc" parent="152" relname="attribution-positive"/>
+		<group id="152" type="span" parent="205" relname="span"/>
+		<group id="153" type="multinuc" parent="211" relname="span"/>
+		<group id="154" type="span" parent="159" relname="span"/>
+		<group id="155" type="span" parent="157" relname="explanation-evidence"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="154" relname="elaboration-additional"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="160" type="span" parent="208" relname="joint-list"/>
+		<group id="161" type="span" parent="162" relname="same-unit"/>
+		<group id="162" type="multinuc" parent="164" relname="attribution-positive"/>
+		<group id="163" type="span" parent="66" relname="explanation-evidence"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="208" relname="joint-list"/>
+		<group id="166" type="multinuc" parent="167" relname="span"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" parent="208" relname="joint-list"/>
+		<group id="170" type="span" parent="171" relname="same-unit"/>
+		<group id="171" type="multinuc" parent="172" relname="joint-list"/>
+		<group id="172" type="multinuc" parent="209" relname="span"/>
+		<group id="173" type="span" parent="172" relname="joint-list"/>
+		<group id="174" type="span" parent="175" relname="same-unit"/>
+		<group id="175" type="multinuc" parent="172" relname="joint-list"/>
+		<group id="176" type="span" parent="177" relname="same-unit"/>
+		<group id="177" type="multinuc" parent="210" relname="adversative-contrast"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" parent="180" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="213" relname="joint-list"/>
+		<group id="181" type="span" parent="95" relname="context-circumstance"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="212" relname="span"/>
+		<group id="184" type="multinuc" parent="99" relname="elaboration-attribute"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="183" relname="elaboration-additional"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="189" relname="span"/>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="214" relname="joint-list"/>
+		<group id="191" type="multinuc" parent="193" relname="span"/>
+		<group id="192" type="span" parent="191" relname="same-unit"/>
+		<group id="193" type="span" parent="195" relname="joint-list"/>
+		<group id="194" type="span" parent="195" relname="joint-list"/>
+		<group id="195" type="multinuc" parent="214" relname="joint-list"/>
+		<group id="196" type="span" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="198" type="span" parent="201" relname="span"/>
+		<group id="199" type="span" parent="200" relname="adversative-contrast"/>
+		<group id="200" type="multinuc" parent="214" relname="joint-list"/>
+		<group id="201" type="span" parent="214" relname="joint-list"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="217" relname="joint-list"/>
+		<group id="204" type="span" parent="206" relname="joint-list"/>
+		<group id="205" type="span" parent="206" relname="joint-list"/>
+		<group id="206" type="multinuc" parent="147" relname="elaboration-additional"/>
+		<group id="207" type="span" parent="216" relname="joint-other"/>
+		<group id="208" type="multinuc" parent="210" relname="adversative-contrast"/>
+		<group id="209" type="span" parent="208" relname="joint-list"/>
+		<group id="210" type="multinuc" parent="153" relname="elaboration-additional"/>
+		<group id="211" type="span" parent="216" relname="joint-other"/>
+		<group id="212" type="span" parent="214" relname="joint-list"/>
+		<group id="213" type="multinuc" parent="215" relname="span"/>
+		<group id="214" type="multinuc" parent="213" relname="elaboration-additional"/>
+		<group id="215" type="span" parent="216" relname="joint-other"/>
+		<group id="216" type="multinuc" parent="218" relname="span"/>
+		<group id="217" type="multinuc" parent="216" relname="context-background"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" />
+		<group id="221" type="span" parent="144" relname="same-unit"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="223" type="multinuc" parent="52" relname="contingency-condition"/>
+		<group id="224" type="span" parent="151" relname="same-unit"/>
+	</body>
+</rst>

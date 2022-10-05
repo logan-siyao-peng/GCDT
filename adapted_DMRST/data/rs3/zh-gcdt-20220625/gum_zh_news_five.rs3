@@ -1,0 +1,411 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="purpose-goal">抗议 薪资 不公</segment>
+		<segment id="2" parent="368" relname="span">天堂 执法者 亚裔 演员 走人</segment>
+		<segment id="3" parent="359" relname="context-circumstance">【 2017年 7月 11日 讯 】</segment>
+		<segment id="4" parent="195" relname="same-unit">上 星期</segment>
+		<segment id="5" parent="6" relname="elaboration-attribute">哥伦比亚 广播 公司 收视率 很 高 的</segment>
+		<segment id="6" parent="193" relname="span">警匪秀 “ 天堂 执法者 ” 的 主要 演员 ， 亚裔 的 丹尼尔·金 和 朴敏庆 爆出</segment>
+		<segment id="7" parent="8" relname="elaboration-attribute">双双 退出 的</segment>
+		<segment id="8" parent="194" relname="span">新闻 ，</segment>
+		<segment id="9" parent="195" relname="causal-result">引起 各 界 关注 。</segment>
+		<segment id="10" parent="198" relname="attribution-positive">观察家 指出 ，</segment>
+		<segment id="11" parent="198" relname="same-unit">一些</segment>
+		<segment id="12" parent="13" relname="elaboration-attribute">在 好莱坞 已经 熬出 字号 的</segment>
+		<segment id="13" parent="197" relname="span">亚裔 演员 依然 要 面对 许多 障碍 ，</segment>
+		<segment id="14" parent="15" relname="attribution-positive">据 报道 ，</segment>
+		<segment id="15" parent="200" relname="span">导火线 是 他们 的 演出 酬劳 低于 电视 系列剧 的 另 两 个 白人 演员 。</segment>
+		<segment id="16" parent="202" relname="same-unit">尽管</segment>
+		<segment id="17" parent="18" relname="elaboration-attribute">以 夏威夷 为 背景 的</segment>
+		<segment id="18" parent="201" relname="span">“ 天堂 执法者 ” 以 多元化 的 演员 为 号召 ，</segment>
+		<segment id="19" parent="203" relname="span">丹尼尔·金 和 朴敏庆 却 可能 被 制片厂 视 为 两 个 白人 主演 的 配角 。</segment>
+		<segment id="20" parent="208" relname="organization-preparation">今年 春天 有关 合同 谈判 陷入 僵局 ，</segment>
+		<segment id="21" parent="22" relname="attribution-positive">制作群 虽然 想</segment>
+		<segment id="22" parent="204" relname="span">把 两 个 亚裔 演员 拉 回来 ，</segment>
+		<segment id="23" parent="206" relname="attribution-positive">但 报道 称</segment>
+		<segment id="24" parent="206" relname="same-unit">两 人 都 拒绝 接受</segment>
+		<segment id="25" parent="26" relname="elaboration-attribute">比 白人 主演 少 的</segment>
+		<segment id="26" parent="205" relname="span">片酬 。</segment>
+		<segment id="27" parent="28" relname="attribution-negative">哥伦比亚 广播 公司 和 节目 制作人 否认</segment>
+		<segment id="28" parent="210" relname="span">丹尼尔·金 和 朴敏庆 被 不 公平 对待 。</segment>
+		<segment id="29" parent="211" relname="attribution-positive">一 个 消息 来源 说 ，</segment>
+		<segment id="30" parent="211" relname="joint-list">丹尼尔·金 每 集 的 片酬 被 大幅 提高 到 十九万五千 美元 ，</segment>
+		<segment id="31" parent="211" relname="joint-list">只 比 白人 主演 少 五千 美元 。</segment>
+		<segment id="32" parent="343" relname="span">丹尼尔·金 从 “ 天堂 执法者 ” 2010年 首播 就 是 主要 角色 ，</segment>
+		<segment id="33" parent="218" relname="attribution-positive">他 在 自己 的 脸书 上 说 ，</segment>
+		<segment id="34" parent="213" relname="contingency-condition">身为 亚裔 演员 ，</segment>
+		<segment id="35" parent="36" relname="attribution-positive">他 亲身 体验</segment>
+		<segment id="36" parent="213" relname="span">要 找到 任何 工作 机会 是 多么 困难 ，</segment>
+		<segment id="37" parent="217" relname="same-unit">更 不 用 说 能 演出 一 个</segment>
+		<segment id="38" parent="39" relname="context-background">像 秦禾 这样</segment>
+		<segment id="39" parent="215" relname="span">有 深度 的 、 真实 的</segment>
+		<segment id="40" parent="216" relname="span">角色 。</segment>
+		<segment id="41" parent="42" relname="attribution-positive">但 他 最终 还是 决定</segment>
+		<segment id="42" parent="220" relname="span">离开 这 个 当红 的 秀 。</segment>
+		<segment id="43" parent="224" relname="attribution-positive">丹尼尔·金 在 脸书 上 表示 ，</segment>
+		<segment id="44" parent="45" relname="attribution-positive">尽管 他 表明</segment>
+		<segment id="45" parent="221" relname="span">可以 回来 ，</segment>
+		<segment id="46" parent="222" relname="span">但 哥伦比亚 广播 公司 和 他 未能 同意 新 合同 的 条件 ，</segment>
+		<segment id="47" parent="48" relname="organization-preparation">所以 他 做出 艰难 的 选择 ，</segment>
+		<segment id="48" parent="223" relname="span">不再 继续 。</segment>
+		<segment id="49" parent="228" relname="attribution-positive">“ 天堂 执法者 ” 的 执行 制片 比特·列诺科夫 则 指出 ，</segment>
+		<segment id="50" parent="227" relname="context-background">两 位 演员 选择 不再 续约 ，</segment>
+		<segment id="51" parent="226" relname="span">哥伦比亚 广播 公司 在 续约 谈判 中 非常 慷慨 和 积极 主动 ，</segment>
+		<segment id="52" parent="51" relname="explanation-evidence">两 个 演员 都 可 获得 前所未有 的 加薪 ，</segment>
+		<segment id="53" parent="226" relname="adversative-concession">但 他们 最终 选择 离开 。</segment>
+		<segment id="54" parent="360" relname="span">这 个 薪资 争议 激起 一些 演员 对 好莱坞 数十 年 来 各 种 不 公平 的 现象 发出 不平 之 鸣 。</segment>
+		<segment id="55" parent="56" relname="causal-cause">两 年 前 奥斯卡奖 出现 白人 演员 获得 压倒性 的 提名 ，</segment>
+		<segment id="56" parent="230" relname="span">引发 所谓 的 “ 奥斯卡 太 白 ” 运动 ，</segment>
+		<segment id="57" parent="58" relname="context-circumstance">揭开 了 好莱坞 电影 工业 在 雇用 和 选角 方面 的 种族 问题 后 ，</segment>
+		<segment id="58" parent="231" relname="span">电影 和 电视 工业 近年 来 开始 重视 多元化 ，</segment>
+		<segment id="59" parent="233" relname="same-unit">一些</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">由 少数 族裔 担纲 的</segment>
+		<segment id="61" parent="232" relname="span">电视 节目 取得 出色 的 收视率 ，</segment>
+		<segment id="62" parent="235" relname="span">但 问题 依旧 存在 ， 特别是 对 亚裔 演员 。</segment>
+		<segment id="63" parent="239" relname="span">一些 电影 和 电视 节目 的 亚裔 角色 选用 白人 演员 ，</segment>
+		<segment id="64" parent="237" relname="attribution-positive">有的 制片人 声称</segment>
+		<segment id="65" parent="237" relname="same-unit">“ 因为</segment>
+		<segment id="66" parent="67" relname="elaboration-attribute">来自 亚洲 的</segment>
+		<segment id="67" parent="236" relname="span">演员 英语 不 好 。 ”</segment>
+		<segment id="68" parent="69" relname="elaboration-attribute">拜欧拉 大学 研究 种族 和 民族 的</segment>
+		<segment id="69" parent="240" relname="span">南西·王 教授 表示 ，</segment>
+		<segment id="70" parent="241" relname="span">有 一 种 对 亚裔 美国人 的 偏见 ，</segment>
+		<segment id="71" parent="246" relname="attribution-positive">她 说 ：</segment>
+		<segment id="72" parent="245" relname="span">“ 我 觉得 社会 看 不到 我们 ，</segment>
+		<segment id="73" parent="242" relname="joint-list">我们 平板 单调 ，</segment>
+		<segment id="74" parent="242" relname="joint-list">既 不 存在于 场景</segment>
+		<segment id="75" parent="242" relname="joint-list">也 没有 对白 ，</segment>
+		<segment id="76" parent="77" relname="organization-preparation">从 某 方面 来说</segment>
+		<segment id="77" parent="243" relname="span">是 去人性化 了 。</segment>
+		<segment id="78" parent="243" relname="explanation-justify">我们 只 是 布景 的 一 部分 。 ”</segment>
+		<segment id="79" parent="250" relname="causal-result">亚裔 演员 近来 的 工作 机会 其实 增多 了 ，</segment>
+		<segment id="80" parent="250" relname="same-unit">很 大 程度 上 是 因为</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">来自 中国 的</segment>
+		<segment id="82" parent="249" relname="span">财源 。</segment>
+		<segment id="83" parent="84" relname="attribution-positive">中国 作为 世界 第二 大 的 电影 市场 ， 好莱坞 的 制片厂 老板 希望</segment>
+		<segment id="84" parent="252" relname="span">巩固 电影 在 中国 市场 的 前景 ，</segment>
+		<segment id="85" parent="253" relname="span">就 用 亚裔 演员 来 充数 ，</segment>
+		<segment id="86" parent="85" relname="adversative-concession">然而 那些 经常 是 背景 角色 。</segment>
+		<segment id="87" parent="255" relname="attribution-positive">也 有 人 指出 ，</segment>
+		<segment id="88" parent="89" relname="attribution-negative">那 是 因为 制片厂 老板 不 觉得</segment>
+		<segment id="89" parent="255" relname="span">亚裔 符合 他们 心目 中 的 主角 形象 。</segment>
+		<segment id="90" parent="91" relname="attribution-positive">美国 影视 演员 工会 的 亚太裔 媒体 委员会 主席 哈纳米 则 认为</segment>
+		<segment id="91" parent="257" relname="span">这 是 体制 问题 。</segment>
+		<segment id="92" parent="260" relname="attribution-positive">她 表示 ，</segment>
+		<segment id="93" parent="258" relname="joint-list">制片厂 的 头头 多数 是 白人 ，</segment>
+		<segment id="94" parent="258" relname="joint-list">也 有些 女性 和 有色 人种 。</segment>
+		<segment id="95" parent="259" relname="joint-list">然后 是 节目 的 原创者 ， 大多 来自 写作 和 常春藤 盟校 ，</segment>
+		<segment id="96" parent="260" relname="span">所有 决策者 其实 都 是 在 反映 自己 。</segment>
+		<segment id="97" parent="267" relname="attribution-positive">南加州 大学 的 媒体 、 多元化 和 社会 变迁 项目 的 研究 发现 ，</segment>
+		<segment id="98" parent="263" relname="same-unit">在 所有 的</segment>
+		<segment id="99" parent="100" relname="elaboration-attribute">有 对白 的</segment>
+		<segment id="100" parent="262" relname="span">角色 里 ， 亚裔 美国人 特别 难得 见到 ，</segment>
+		<segment id="101" parent="266" relname="same-unit">至少 半数 的 电影 和 电视 剧 ， 没有 一 个</segment>
+		<segment id="102" parent="264" relname="joint-disjunction">有 对白 的</segment>
+		<segment id="103" parent="264" relname="joint-disjunction">或是 有 名字 的</segment>
+		<segment id="104" parent="265" relname="span">亚洲人 或 亚裔 美国人 的 角色 。</segment>
+		<segment id="105" parent="106" relname="elaboration-attribute">曾 赢得 奥斯卡 短片 奖 的</segment>
+		<segment id="106" parent="269" relname="span">克里斯·田岛 说 ，</segment>
+		<segment id="107" parent="270" relname="organization-preparation">为什么 没有 出现 亚裔 大 明星 ？</segment>
+		<segment id="108" parent="270" relname="span">因为 你 必须 要 让 他们 有 戏 演</segment>
+		<segment id="109" parent="108" relname="causal-result">才 有 可能 。</segment>
+		<segment id="110" parent="274" relname="same-unit">比起</segment>
+		<segment id="111" parent="112" relname="elaboration-attribute">电影 “ 第凡 内 早餐 ” 里米基·鲁尼 扮演 大 暴牙 的</segment>
+		<segment id="112" parent="273" relname="span">日裔 的 时代 ， 好莱坞 的 电影 工业 已经 蜕变 的 更 有 包容性 ，</segment>
+		<segment id="113" parent="276" relname="same-unit">尽管</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">亚裔 领衔 的</segment>
+		<segment id="115" parent="275" relname="span">角色 仍然 有如 凤毛麟角 。</segment>
+		<segment id="116" parent="281" relname="joint-list">南加州 大学 去年 就 400多 部 电影 和 电视 系列剧 做出 研究 ，</segment>
+		<segment id="117" parent="279" relname="attribution-positive">发现</segment>
+		<segment id="118" parent="279" relname="same-unit">里面 亚裔 演员</segment>
+		<segment id="119" parent="120" relname="elaboration-attribute">有 对白 的</segment>
+		<segment id="120" parent="278" relname="span">角色 只 占 百分之五 。</segment>
+		<segment id="121" parent="291" relname="context-background">好莱坞 的 韩裔 演员 爱德华·金 演出 过 几十 部 电影 和 电视剧 ，</segment>
+		<segment id="122" parent="286" relname="attribution-positive">他 说 ：</segment>
+		<segment id="123" parent="287" relname="adversative-contrast">“ 好莱坞 有 很多 机会 ，</segment>
+		<segment id="124" parent="283" relname="same-unit">但 总是 些</segment>
+		<segment id="125" parent="126" relname="elaboration-attribute">只 有 一 句 对白 的</segment>
+		<segment id="126" parent="282" relname="span">小 角色 ，</segment>
+		<segment id="127" parent="128" relname="contingency-condition">如果 你 想 演 个 商店 老板 ， 指甲店 的 美容师 ， 或者 IT 技术 人员 ，</segment>
+		<segment id="128" parent="284" relname="span">这些 角色 都 有 ，</segment>
+		<segment id="129" parent="285" relname="adversative-contrast">但 我们 难得 有 机会 担任 主角 。 ”</segment>
+		<segment id="130" parent="289" relname="attribution-positive">爱德华·金 说</segment>
+		<segment id="131" parent="289" relname="joint-list">自己 并不 愤世嫉俗 ，</segment>
+		<segment id="132" parent="289" relname="joint-list">他 只是 实事求是 的 面对 作为 一 个 好莱坞 亚裔 演员 的 困境 。</segment>
+		<segment id="133" parent="294" relname="attribution-positive">社交 媒体 上 有些 批评者 指出 ，</segment>
+		<segment id="134" parent="135" relname="attribution-positive">制片厂 强调</segment>
+		<segment id="135" parent="292" relname="span">给 演员 大幅 加薪 ，</segment>
+		<segment id="136" parent="293" relname="same-unit">说明 了</segment>
+		<segment id="137" parent="294" relname="span">演员 这些 年 一直 薪资 过 低 。</segment>
+		<segment id="138" parent="314" relname="span">薪资 争议 也 引起 政界 注意 。</segment>
+		<segment id="139" parent="296" relname="same-unit">纽约州 的 华裔 联邦 众议员 孟昭文 上 星期</segment>
+		<segment id="140" parent="141" relname="mode-means">发表 声明</segment>
+		<segment id="141" parent="371" relname="span">说 ，</segment>
+		<segment id="142" parent="298" relname="same-unit">两 名 亚裔 演员 的 片酬 少于</segment>
+		<segment id="143" parent="144" relname="elaboration-attribute">共同 演出 的</segment>
+		<segment id="144" parent="297" relname="span">白人 演员 ， 表明</segment>
+		<segment id="145" parent="146" relname="elaboration-attribute">好莱坞 的 种族 不 平等 的</segment>
+		<segment id="146" parent="299" relname="span">现象 有待 解决 。</segment>
+		<segment id="147" parent="304" relname="attribution-positive">孟昭文 还 表示 ，</segment>
+		<segment id="148" parent="302" relname="span">亚裔 美国人 在 好莱坞 已经 面对 许多 问题 ，</segment>
+		<segment id="149" parent="148" relname="elaboration-additional">包括 刻板 角色 和 角色 白人化 ， 酬劳 不 平等</segment>
+		<segment id="150" parent="303" relname="joint-list">更 加深 了 问题 ，</segment>
+		<segment id="151" parent="303" relname="joint-list">为 亚裔 演员 在 娱乐业 制造 障碍 。</segment>
+		<segment id="152" parent="307" relname="attribution-positive">孟昭文 呼吁</segment>
+		<segment id="153" parent="307" relname="same-unit">好莱坞 制片厂 和 制作人 关注</segment>
+		<segment id="154" parent="155" relname="elaboration-attribute">片酬 不 平等 、</segment>
+		<segment id="155" parent="306" relname="span">伤人 的 刻板 印象 、 以及 亚裔 美国人 在 银幕 前后 的 代表性 不足 等 问题 。</segment>
+		<segment id="156" parent="157" relname="context-background">至于 好莱坞 的 亚裔 演员 是否 整体 遭受 低薪 待遇 ，</segment>
+		<segment id="157" parent="309" relname="span">演员 工会 并 没有 片酬 记录 ，</segment>
+		<segment id="158" parent="311" relname="same-unit">因为 这 是</segment>
+		<segment id="159" parent="160" relname="elaboration-attribute">制片厂 、 经纪人 和 个别 演员 间 不 公开 的</segment>
+		<segment id="160" parent="310" relname="span">信息 。</segment>
+		<segment id="161" parent="316" relname="attribution-positive">影剧圈 的 专家 表示 ，</segment>
+		<segment id="162" parent="316" relname="same-unit">天堂 执法者 的 片酬 争议 和</segment>
+		<segment id="163" parent="164" relname="elaboration-attribute">丹尼尔·金 为 此 挺身而出 的</segment>
+		<segment id="164" parent="315" relname="span">表现 ，</segment>
+		<segment id="165" parent="316" relname="same-unit">可能 标志 了 一 个 转折点 。</segment>
+		<segment id="166" parent="319" relname="context-background">华裔 制片人 杨燕子 担任 奥斯卡 评委 15 年 ，</segment>
+		<segment id="167" parent="318" relname="context-circumstance">两 年 前 在 奥斯卡奖 演员 项目 全部 提名 白人 之后 ，</segment>
+		<segment id="168" parent="318" relname="span">她 参与 撰写 评论 《 好莱坞 大片 需要 颜色 》</segment>
+		<segment id="169" parent="168" relname="elaboration-attribute">在 洛杉矶 时报 刊载 。</segment>
+		<segment id="170" parent="321" relname="attribution-positive">杨燕子 问道 ：</segment>
+		<segment id="171" parent="321" relname="joint-list">“ 亚洲人 呢 ？</segment>
+		<segment id="172" parent="321" relname="joint-list">拉丁人 呢 ？</segment>
+		<segment id="173" parent="321" relname="joint-list">其他 中东人 呢 ？ ”</segment>
+		<segment id="174" parent="324" relname="attribution-positive">杨燕子 认为</segment>
+		<segment id="175" parent="323" relname="adversative-concession">不论 从 票房 或者 美国 立国 精神 考虑 ，</segment>
+		<segment id="176" parent="323" relname="joint-list">制片厂 都 应该 努力 多元化 ，</segment>
+		<segment id="177" parent="323" relname="joint-list">给 有色 人种 更 多 的 竞争 机会 。</segment>
+		<segment id="178" parent="326" relname="attribution-positive">她 认为</segment>
+		<segment id="179" parent="180" relname="attribution-positive">“ 奥斯卡 太 白 ” 运动 鼓励 了</segment>
+		<segment id="180" parent="326" relname="span">亚裔 美国人 挺身 争取 自己 的 权利 。</segment>
+		<segment id="181" parent="328" relname="attribution-positive">她 说 ，</segment>
+		<segment id="182" parent="328" relname="joint-list">非洲裔 美国人 社区 在 这 方面 领军 多 年 ，</segment>
+		<segment id="183" parent="328" relname="joint-list">现在 扩大 到 其它 少数 族裔 。</segment>
+		<segment id="184" parent="335" relname="attribution-positive">丹尼尔·金 在 脸书 上 结语 ：</segment>
+		<segment id="185" parent="334" relname="adversative-concession">尽管 过度期 可能 困难 ，</segment>
+		<segment id="186" parent="333" relname="attribution-positive">他 鼓励</segment>
+		<segment id="187" parent="333" relname="joint-list">大家 把 眼光 放远 ，</segment>
+		<segment id="188" parent="333" relname="joint-list">超越 此 刻 的 失望 ，</segment>
+		<segment id="189" parent="333" relname="joint-list">看到 更 广阔 的 前景 。</segment>
+		<segment id="190" parent="338" relname="same-unit">他 说 ：</segment>
+		<segment id="191" parent="192" relname="elaboration-attribute">“ 通往 平等 的</segment>
+		<segment id="192" parent="337" relname="span">道路 很少 是 平顺 的 。 ”</segment>
+		<group id="193" type="span" parent="195" relname="same-unit"/>
+		<group id="194" type="span" parent="195" relname="same-unit"/>
+		<group id="195" type="multinuc" parent="196" relname="span"/>
+		<group id="196" type="span" parent="365" relname="context-background"/>
+		<group id="197" type="span" parent="198" relname="same-unit"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="200" relname="context-background"/>
+		<group id="200" type="span" parent="365" relname="span"/>
+		<group id="201" type="span" parent="202" relname="same-unit"/>
+		<group id="202" type="multinuc" parent="19" relname="adversative-concession"/>
+		<group id="203" type="span" parent="340" relname="span"/>
+		<group id="204" type="span" parent="207" relname="adversative-concession"/>
+		<group id="205" type="span" parent="206" relname="same-unit"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="203" relname="explanation-evidence"/>
+		<group id="210" type="span" parent="341" relname="span"/>
+		<group id="211" type="multinuc" parent="212" relname="span"/>
+		<group id="212" type="span" parent="210" relname="explanation-evidence"/>
+		<group id="213" type="span" parent="214" relname="span"/>
+		<group id="214" type="span" parent="218" relname="span"/>
+		<group id="215" type="span" parent="40" relname="elaboration-attribute"/>
+		<group id="216" type="span" parent="217" relname="same-unit"/>
+		<group id="217" type="multinuc" parent="214" relname="elaboration-additional"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="32" relname="elaboration-additional"/>
+		<group id="220" type="span" parent="344" relname="adversative-contrast"/>
+		<group id="221" type="span" parent="46" relname="adversative-concession"/>
+		<group id="222" type="span" parent="223" relname="causal-cause"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="344" relname="explanation-evidence"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="342" relname="adversative-contrast"/>
+		<group id="230" type="span" parent="234" relname="context-background"/>
+		<group id="231" type="span" parent="234" relname="span"/>
+		<group id="232" type="span" parent="233" relname="same-unit"/>
+		<group id="233" type="multinuc" parent="231" relname="explanation-evidence"/>
+		<group id="234" type="span" parent="345" relname="span"/>
+		<group id="235" type="span" parent="347" relname="span"/>
+		<group id="236" type="span" parent="237" relname="same-unit"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="63" relname="causal-cause"/>
+		<group id="239" type="span" parent="346" relname="joint-list"/>
+		<group id="240" type="span" parent="70" relname="attribution-positive"/>
+		<group id="241" type="span" parent="247" relname="organization-preparation"/>
+		<group id="242" type="multinuc" parent="72" relname="elaboration-additional"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="246" relname="joint-list"/>
+		<group id="245" type="span" parent="246" relname="joint-list"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="248" relname="span"/>
+		<group id="248" type="span" parent="346" relname="joint-list"/>
+		<group id="249" type="span" parent="250" relname="same-unit"/>
+		<group id="250" type="multinuc" parent="251" relname="span"/>
+		<group id="251" type="span" parent="348" relname="span"/>
+		<group id="252" type="span" parent="254" relname="span"/>
+		<group id="253" type="span" parent="252" relname="mode-manner"/>
+		<group id="254" type="span" parent="251" relname="elaboration-additional"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="349" relname="elaboration-additional"/>
+		<group id="257" type="span" parent="350" relname="span"/>
+		<group id="258" type="multinuc" parent="259" relname="joint-list"/>
+		<group id="259" type="multinuc" parent="96" relname="context-background"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" parent="257" relname="explanation-evidence"/>
+		<group id="262" type="span" parent="263" relname="same-unit"/>
+		<group id="263" type="multinuc" parent="267" relname="span"/>
+		<group id="264" type="multinuc" parent="104" relname="elaboration-attribute"/>
+		<group id="265" type="span" parent="266" relname="same-unit"/>
+		<group id="266" type="multinuc" parent="263" relname="explanation-evidence"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="351" relname="joint-list"/>
+		<group id="269" type="span" parent="271" relname="attribution-positive"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="351" relname="joint-list"/>
+		<group id="273" type="span" parent="274" relname="same-unit"/>
+		<group id="274" type="multinuc" parent="277" relname="span"/>
+		<group id="275" type="span" parent="276" relname="same-unit"/>
+		<group id="276" type="multinuc" parent="274" relname="adversative-concession"/>
+		<group id="277" type="span" parent="281" relname="context-background"/>
+		<group id="278" type="span" parent="279" relname="same-unit"/>
+		<group id="279" type="multinuc" parent="280" relname="span"/>
+		<group id="280" type="span" parent="281" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="352" relname="span"/>
+		<group id="282" type="span" parent="283" relname="same-unit"/>
+		<group id="283" type="multinuc" parent="287" relname="adversative-contrast"/>
+		<group id="284" type="span" parent="285" relname="adversative-contrast"/>
+		<group id="285" type="multinuc" parent="287" relname="explanation-evidence"/>
+		<group id="286" type="span" parent="288" relname="span"/>
+		<group id="287" type="multinuc" parent="286" relname="span"/>
+		<group id="288" type="span" parent="291" relname="span"/>
+		<group id="289" type="multinuc" parent="290" relname="span"/>
+		<group id="290" type="span" parent="288" relname="evaluation-comment"/>
+		<group id="291" type="span" parent="353" relname="span"/>
+		<group id="292" type="span" parent="293" relname="same-unit"/>
+		<group id="293" type="multinuc" parent="137" relname="attribution-positive"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="361" relname="joint-list"/>
+		<group id="296" type="multinuc" parent="300" relname="attribution-positive"/>
+		<group id="297" type="span" parent="298" relname="same-unit"/>
+		<group id="298" type="multinuc" parent="299" relname="attribution-positive"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="301" type="span" parent="313" relname="joint-list"/>
+		<group id="302" type="span" parent="303" relname="causal-cause"/>
+		<group id="303" type="multinuc" parent="304" relname="span"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" parent="313" relname="joint-list"/>
+		<group id="306" type="span" parent="307" relname="same-unit"/>
+		<group id="307" type="multinuc" parent="308" relname="span"/>
+		<group id="308" type="span" parent="313" relname="joint-list"/>
+		<group id="309" type="span" parent="312" relname="span"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="309" relname="causal-cause"/>
+		<group id="312" type="span" parent="359" relname="joint-other"/>
+		<group id="313" type="multinuc" parent="138" relname="explanation-evidence"/>
+		<group id="314" type="span" parent="361" relname="joint-list"/>
+		<group id="315" type="span" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="317" type="span" parent="358" relname="span"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="320" relname="span"/>
+		<group id="320" type="span" parent="331" relname="context-background"/>
+		<group id="321" type="multinuc" parent="322" relname="span"/>
+		<group id="322" type="span" parent="330" relname="organization-preparation"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="span"/>
+		<group id="325" type="span" parent="330" relname="joint-other"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="330" relname="joint-other"/>
+		<group id="328" type="multinuc" parent="329" relname="span"/>
+		<group id="329" type="span" parent="330" relname="joint-other"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="span"/>
+		<group id="332" type="span" parent="357" relname="joint-list"/>
+		<group id="333" type="multinuc" parent="334" relname="span"/>
+		<group id="334" type="span" parent="335" relname="span"/>
+		<group id="335" type="span" parent="336" relname="span"/>
+		<group id="336" type="span" parent="339" relname="span"/>
+		<group id="337" type="span" parent="338" relname="same-unit"/>
+		<group id="338" type="multinuc" parent="336" relname="restatement-partial"/>
+		<group id="339" type="span" parent="357" relname="joint-list"/>
+		<group id="340" type="span" parent="363" relname="adversative-contrast"/>
+		<group id="341" type="span" parent="363" relname="adversative-contrast"/>
+		<group id="342" type="multinuc" parent="363" relname="explanation-evidence"/>
+		<group id="343" type="span" parent="344" relname="adversative-contrast"/>
+		<group id="344" type="multinuc" parent="362" relname="span"/>
+		<group id="345" type="span" parent="62" relname="adversative-concession"/>
+		<group id="346" type="multinuc" parent="235" relname="explanation-evidence"/>
+		<group id="347" type="span" parent="349" relname="span"/>
+		<group id="348" type="span" parent="347" relname="adversative-concession"/>
+		<group id="349" type="span" parent="354" relname="span"/>
+		<group id="350" type="span" parent="355" relname="span"/>
+		<group id="351" type="multinuc" parent="350" relname="explanation-evidence"/>
+		<group id="352" type="span" parent="351" relname="joint-list"/>
+		<group id="353" type="span" parent="351" relname="joint-list"/>
+		<group id="354" type="span" parent="356" relname="joint-other"/>
+		<group id="355" type="span" parent="356" relname="joint-other"/>
+		<group id="356" type="multinuc" parent="54" relname="explanation-evidence"/>
+		<group id="357" type="multinuc" parent="317" relname="explanation-evidence"/>
+		<group id="358" type="span" parent="359" relname="joint-other"/>
+		<group id="359" type="multinuc" parent="369" relname="span"/>
+		<group id="360" type="span" parent="361" relname="joint-list"/>
+		<group id="361" type="multinuc" parent="359" relname="joint-other"/>
+		<group id="362" type="span" parent="342" relname="adversative-contrast"/>
+		<group id="363" type="multinuc" parent="364" relname="span"/>
+		<group id="364" type="span" parent="366" relname="elaboration-additional"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="span"/>
+		<group id="367" type="span" parent="359" relname="joint-other"/>
+		<group id="368" type="span" parent="369" relname="organization-heading"/>
+		<group id="369" type="span" parent="370" relname="span"/>
+		<group id="370" type="span" />
+		<group id="371" type="span" parent="296" relname="same-unit"/>
+	</body>
+</rst>

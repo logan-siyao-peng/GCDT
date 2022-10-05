@@ -1,0 +1,401 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="360" relname="organization-heading">英语 中动态 的 象似性 分析</segment>
+		<segment id="2" parent="214" relname="organization-heading">1. 导论</segment>
+		<segment id="3" parent="189" relname="mode-manner">从 广义 的 角度 来看 ，</segment>
+		<segment id="4" parent="189" relname="span">英语 中 主要 分为 三 个 “ 态 ” ：</segment>
+		<segment id="5" parent="4" relname="elaboration-additional">主动态 ， 中动态 和 被动态 。</segment>
+		<segment id="6" parent="191" relname="span">英语 中动态 是 一 种 特殊 的 语态 形式 ，</segment>
+		<segment id="7" parent="6" relname="causal-cause">因为 它 缺少 施事</segment>
+		<segment id="8" parent="191" relname="explanation-evidence">[ 1 ] 。</segment>
+		<segment id="9" parent="362" relname="organization-preparation">从 语义 的 角度 来看 ，</segment>
+		<segment id="10" parent="11" relname="organization-preparation">英语 中动态 具有 如下 特点 ：</segment>
+		<segment id="11" parent="362" relname="span">1) 非 事件性 ； 2) 泛指性 ； 3) 施动性 ； 4) 情态 概念</segment>
+		<segment id="12" parent="363" relname="explanation-evidence">[ 2 ] 。</segment>
+		<segment id="13" parent="200" relname="span">在 主动态 的 象似性 研究 中 ， 施事 的 动作 产生 无论 如何 先于 过程 对 受事 的 影响 ，</segment>
+		<segment id="14" parent="197" relname="span">也 就 是 因</segment>
+		<segment id="15" parent="14" relname="restatement-partial">( 施事 )</segment>
+		<segment id="16" parent="199" relname="span">先于 果</segment>
+		<segment id="17" parent="16" relname="restatement-partial">( 过程 对 受事 的 影响 ) ，</segment>
+		<segment id="18" parent="202" relname="same-unit">因此 ， 主动态 是</segment>
+		<segment id="19" parent="20" relname="elaboration-attribute">最 符合 象似性 原则 的</segment>
+		<segment id="20" parent="201" relname="span">表达 。</segment>
+		<segment id="21" parent="204" relname="span">在 被动态 结构 中 ， 施事 先于 受事 ，</segment>
+		<segment id="22" parent="21" relname="causal-result">明显 违背 了 象似性 原则 。</segment>
+		<segment id="23" parent="206" relname="organization-preparation">那么 ， 就 中动态 而言 ，</segment>
+		<segment id="24" parent="206" relname="adversative-contrast">它 的 语法 结构 是 主动态 的 ，</segment>
+		<segment id="25" parent="206" relname="adversative-contrast">但是 各 参与 成分 之间 的 关系 是 被动态 的 ，</segment>
+		<segment id="26" parent="27" relname="organization-preparation">我们 如何 从 象似性 角度 来 分析 它 呢 ？</segment>
+		<segment id="27" parent="208" relname="span">本 文 主要 探讨 了 英语 中动态 的 象似性 特点 。</segment>
+		<segment id="28" parent="29" relname="elaboration-attribute">本 文 提出 的</segment>
+		<segment id="29" parent="209" relname="span">问题 如下 ：</segment>
+		<segment id="30" parent="210" relname="joint-list">① 英语 中动态 是 如何 遵守 或 违背 象似性 原则 的 ？</segment>
+		<segment id="31" parent="32" relname="elaboration-attribute">② 英语 中动态 违背 象似性 原则 的</segment>
+		<segment id="32" parent="211" relname="span">理据 为 何 ？</segment>
+		<segment id="33" parent="354" relname="organization-heading">2. 象似性 原则</segment>
+		<segment id="34" parent="357" relname="organization-heading">2.1. 顺序 象似性</segment>
+		<segment id="35" parent="36" relname="organization-preparation">顺序 象似性 可以 定义 为 ：</segment>
+		<segment id="36" parent="217" relname="span">思维 的 顺序 与 语言 单位 排列 的 顺序 象似</segment>
+		<segment id="37" parent="217" relname="explanation-evidence">[ 3 ] 。</segment>
+		<segment id="38" parent="219" relname="attribution-positive">Greenberg 也 表示 ：</segment>
+		<segment id="39" parent="219" relname="restatement-repetition">“ 语言 成分 的 顺序 对应 与 物理 现实 经验 顺序 或 知识 顺序 ”</segment>
+		<segment id="40" parent="219" relname="restatement-repetition">the order of elements in language parallels that in physical experience or the order of knowledge</segment>
+		<segment id="41" parent="220" relname="explanation-evidence">[ 4 ] 。</segment>
+		<segment id="42" parent="222" relname="span">文旭 ( 2009 ) 将 这 一 原则 进一步 分为 两 个 原则</segment>
+		<segment id="43" parent="42" relname="explanation-evidence">[ 5 ] ：</segment>
+		<segment id="44" parent="232" relname="span">1) 线性 序列 时间 原则 ：</segment>
+		<segment id="45" parent="225" relname="same-unit">连贯 话语 中 分句 的 顺序 对应于</segment>
+		<segment id="46" parent="47" relname="elaboration-attribute">其 所 描写 的</segment>
+		<segment id="47" parent="223" relname="span">事件 发生 的</segment>
+		<segment id="48" parent="224" relname="span">时间 顺序 。</segment>
+		<segment id="49" parent="226" relname="joint-list">比如 “ I came , I saw , I conquered . ”</segment>
+		<segment id="50" parent="230" relname="organization-preparation">又 比如 ：</segment>
+		<segment id="51" parent="227" relname="attribution-positive">Max hit Harry and Harry hit Max 表示</segment>
+		<segment id="52" parent="227" relname="joint-sequence">Max hit Harry 在先 ，</segment>
+		<segment id="53" parent="227" relname="joint-sequence">Harry hit Max 在后 。</segment>
+		<segment id="54" parent="230" relname="adversative-contrast">而 Max and Harry hit each other 则 没有 体现 出 这 种 时间 先后 的 概念 。</segment>
+		<segment id="55" parent="281" relname="span">2) 线性 序列 信息 原则 。</segment>
+		<segment id="56" parent="55" relname="elaboration-additional">该 原则 主要 是 与 信息 的 分配 相 联系 。</segment>
+		<segment id="57" parent="58" relname="organization-preparation">谈到 信息 分配 ，</segment>
+		<segment id="58" parent="233" relname="span">我们 主要 采用 的 是 Halliday 系统 功能 语言学 关于 信息 分布 的 观点 。</segment>
+		<segment id="59" parent="234" relname="span">Halliday &amp; Matthiessen</segment>
+		<segment id="60" parent="59" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="61" parent="235" relname="same-unit">认为</segment>
+		<segment id="62" parent="236" relname="restatement-repetition">主位</segment>
+		<segment id="63" parent="236" relname="restatement-repetition">( theme )</segment>
+		<segment id="64" parent="237" relname="same-unit">是 句 中 信息 的 起点 ，</segment>
+		<segment id="65" parent="238" relname="joint-list">是 整个 小句 所 关注 和 讨论 的 ，</segment>
+		<segment id="66" parent="240" relname="same-unit">也 是</segment>
+		<segment id="67" parent="68" relname="elaboration-attribute">小句 得以 展开 的</segment>
+		<segment id="68" parent="239" relname="span">背景 。</segment>
+		<segment id="69" parent="241" relname="elaboration-attribute">小句 中 发展 主位 的</segment>
+		<segment id="70" parent="241" relname="span">部分 被 称 之 为 述位</segment>
+		<segment id="71" parent="70" relname="restatement-partial">( Rheme ) 。</segment>
+		<segment id="72" parent="242" relname="span">通常 在 陈述句 中 非 标记性 主位</segment>
+		<segment id="73" parent="72" relname="restatement-partial">( unmarked theme )</segment>
+		<segment id="74" parent="243" relname="same-unit">与 主语 重合 ，</segment>
+		<segment id="75" parent="245" relname="span">主语 以外 的 任何 成分 都 是 标记性 主位</segment>
+		<segment id="76" parent="75" relname="restatement-partial">( marked theme )</segment>
+		<segment id="77" parent="246" relname="explanation-evidence">[ 1 ] 。</segment>
+		<segment id="78" parent="250" relname="organization-preparation">就 信息 结构 在 语言 结构 中 的 体现 而言 ，</segment>
+		<segment id="79" parent="248" relname="organization-preparation">非 标记式 匹配 是 ：</segment>
+		<segment id="80" parent="81" relname="elaboration-attribute">与 主语 重合 的</segment>
+		<segment id="81" parent="249" relname="span">非 标记性 主位 传达 的 是 旧 信息 ，</segment>
+		<segment id="82" parent="248" relname="adversative-contrast">而 述位 传达 的 是 新 信息 。</segment>
+		<segment id="83" parent="252" relname="context-circumstance">在 语言 使用 过程 中 ，</segment>
+		<segment id="84" parent="252" relname="span">我们 会 调整 主位 的 实现 成分</segment>
+		<segment id="85" parent="84" relname="purpose-goal">重新 分配 信息量 ，</segment>
+		<segment id="86" parent="253" relname="causal-result">这样 ， 标记性 或 非 象似性 表达 就 产生 了 。</segment>
+		<segment id="87" parent="255" relname="attribution-positive">线性 序列 信息 原则 表示</segment>
+		<segment id="88" parent="255" relname="joint-sequence">最 熟悉 的 已知 背景 信息 先 出现 ，</segment>
+		<segment id="89" parent="255" relname="joint-sequence">最 不 熟悉 的 新 信息 后 出现 。</segment>
+		<segment id="90" parent="257" relname="span">Halliday &amp; Matthiessen</segment>
+		<segment id="91" parent="90" relname="explanation-evidence">[ 1 ]</segment>
+		<segment id="92" parent="258" relname="same-unit">认为</segment>
+		<segment id="93" parent="259" relname="span">主位 表达 旧 信息 ， 述位 表达 新 信息 是 非 标记性 信息 匹配 结构 ；</segment>
+		<segment id="94" parent="261" relname="span">但是 在 语言 使用 中 ， 我们 可以 利用 主谓 结构 和 信息 结构</segment>
+		<segment id="95" parent="260" relname="span">[ 的 错配</segment>
+		<segment id="96" parent="95" relname="restatement-partial">( mismatch ) ]</segment>
+		<segment id="97" parent="261" relname="purpose-goal">来 达到 意想不到 的 修辞 效果 。</segment>
+		<segment id="98" parent="278" relname="organization-preparation">Halliday 也 曾 明确 表示 了 象似性 的 概念 ，</segment>
+		<segment id="99" parent="276" relname="attribution-positive">他 说 ：</segment>
+		<segment id="100" parent="268" relname="organization-preparation">在 语言 表达 中 存在 以下 规律 ，</segment>
+		<segment id="101" parent="268" relname="same-unit">即 信息流 沿着</segment>
+		<segment id="102" parent="264" relname="span">从 旧 信息</segment>
+		<segment id="103" parent="102" relname="restatement-partial">( 主位 )</segment>
+		<segment id="104" parent="266" relname="span">流 向 新 信息</segment>
+		<segment id="105" parent="104" relname="elaboration-attribute">( 述位 )</segment>
+		<segment id="106" parent="265" relname="same-unit">的</segment>
+		<segment id="107" parent="267" relname="span">方向 移动 ，</segment>
+		<segment id="108" parent="275" relname="same-unit">这 种</segment>
+		<segment id="109" parent="110" relname="elaboration-attribute">遵循 时间 顺序 的</segment>
+		<segment id="110" parent="270" relname="span">移动 象似性 地 始解 了 信息流 的 传播 方向</segment>
+		<segment id="111" parent="271" relname="span">( There is a movement from a given Theme</segment>
+		<segment id="112" parent="111" relname="restatement-partial">( background )</segment>
+		<segment id="113" parent="272" relname="span">to rhematic New</segment>
+		<segment id="114" parent="113" relname="restatement-partial">( foreground ) ;</segment>
+		<segment id="115" parent="274" relname="joint-list">this movement in time construes iconically the flow of information )</segment>
+		<segment id="116" parent="279" relname="explanation-evidence">[ 6 ] 。</segment>
+		<segment id="117" parent="292" relname="organization-heading">2.2. 距离 象似性</segment>
+		<segment id="118" parent="284" relname="span">根据 文旭</segment>
+		<segment id="119" parent="118" relname="explanation-evidence">[ 5 ] ，</segment>
+		<segment id="120" parent="121" relname="organization-preparation">距离 象似性 定义 如下 ：</segment>
+		<segment id="121" parent="285" relname="span">概念 间 的 距离 对应于 语言 成分 之间 的 距离 。</segment>
+		<segment id="122" parent="286" relname="span">Haiman</segment>
+		<segment id="123" parent="122" relname="explanation-evidence">[ 7 ]</segment>
+		<segment id="124" parent="287" relname="same-unit">认为</segment>
+		<segment id="125" parent="290" relname="span">两 个 观点 在 概念 的 接近 必须 满足 以下 四 个 条件 ：</segment>
+		<segment id="126" parent="288" relname="joint-list">1) 彼此 享有 语义 特点 或 部分 ；</segment>
+		<segment id="127" parent="288" relname="joint-list">2) 相互 影响 ；</segment>
+		<segment id="128" parent="288" relname="joint-list">3) 在 现实 中 不 可 分离 ；</segment>
+		<segment id="129" parent="130" relname="adversative-concession">4) 不管 在 现实 中 可 不 可以 分离 ，</segment>
+		<segment id="130" parent="289" relname="span">均 视 为 一 个 整体 。</segment>
+		<segment id="131" parent="325" relname="organization-heading">2.3. 数量 象似性</segment>
+		<segment id="132" parent="295" relname="span">根据 王寅</segment>
+		<segment id="133" parent="132" relname="explanation-evidence">[ 8 ]</segment>
+		<segment id="134" parent="304" relname="organization-preparation">数量 象似性 的 定义 为 ：</segment>
+		<segment id="135" parent="303" relname="same-unit">语言 单位 的 数量 与</segment>
+		<segment id="136" parent="137" relname="elaboration-attribute">所 表示 的</segment>
+		<segment id="137" parent="302" relname="span">概念 的 量 和 复杂 程度 成 正比 象似 ，</segment>
+		<segment id="138" parent="304" relname="joint-list">与 可预测度 成 反比 。</segment>
+		<segment id="139" parent="309" relname="organization-preparation">数量 象似性 的 认知 基础 是 ：</segment>
+		<segment id="140" parent="306" relname="contingency-condition">语言 单位 数量 一 多 ，</segment>
+		<segment id="141" parent="306" relname="joint-list">就 会 更 多 地 引起 人们 的 注意力 ，</segment>
+		<segment id="142" parent="306" relname="joint-list">心智 加工 也 就 更 复杂 ，</segment>
+		<segment id="143" parent="144" relname="elaboration-attribute">传递 的</segment>
+		<segment id="144" parent="307" relname="span">信息量 自然 也 会 更 多</segment>
+		<segment id="145" parent="308" relname="explanation-evidence">[ 9 ] 。</segment>
+		<segment id="146" parent="310" relname="span">Givon</segment>
+		<segment id="147" parent="146" relname="explanation-evidence">[ 10 ]</segment>
+		<segment id="148" parent="311" relname="same-unit">指出 ，</segment>
+		<segment id="149" parent="312" relname="context-circumstance">信息 处理 过程 中</segment>
+		<segment id="150" parent="312" relname="span">投入 更 多 的 心智 努力</segment>
+		<segment id="151" parent="150" relname="restatement-partial">( mental effort )</segment>
+		<segment id="152" parent="314" relname="span">需要 更 多 的 语言 编码 材料</segment>
+		<segment id="153" parent="152" relname="purpose-goal">来 表达 。</segment>
+		<segment id="154" parent="317" relname="contingency-condition">语言 的 每 一 个 单位 得以 被 应用</segment>
+		<segment id="155" parent="317" relname="same-unit">都 有</segment>
+		<segment id="156" parent="157" relname="elaboration-attribute">它 能 被 使用 的</segment>
+		<segment id="157" parent="316" relname="span">价值 ，</segment>
+		<segment id="158" parent="318" relname="elaboration-additional">这 个 价值 就 是 传递 相应 的 意义 ，</segment>
+		<segment id="159" parent="160" relname="contingency-condition">因此 ， 语言 单位 越 多 ，</segment>
+		<segment id="160" parent="320" relname="span">必定 要 传递 更 多 的 概念 。</segment>
+		<segment id="161" parent="352" relname="organization-heading">2.4. 对称 象似性</segment>
+		<segment id="162" parent="327" relname="span">根据 Haiman</segment>
+		<segment id="163" parent="162" relname="explanation-evidence">[ 7 ]</segment>
+		<segment id="164" parent="328" relname="same-unit">对称 象似性 指 的 是 语言 形式 的 对称 或 非 对称 形式 表达 了</segment>
+		<segment id="165" parent="166" relname="elaboration-attribute">语言 形式 各 部分 代表 的 概念 之间 存在 的</segment>
+		<segment id="166" parent="329" relname="span">对称 关系 或 不对称 关系</segment>
+		<segment id="167" parent="328" relname="restatement-partial">( (a)symmetry of form will reflect conceptual (a)symmetry ) 。</segment>
+		<segment id="168" parent="331" relname="span">比如 similarity 表达 的 是 绝对 对称性 概念 。</segment>
+		<segment id="169" parent="168" relname="explanation-evidence">Harry is similar to Max 与 Max is similar to Harry 是 完全 对称 的 。</segment>
+		<segment id="170" parent="333" relname="span">Like 表示 的 不 是 绝对 对称 概念 ，</segment>
+		<segment id="171" parent="170" relname="explanation-evidence">比如 Max likes Harry 并不 与 Harry likes Max 对称 。</segment>
+		<segment id="172" parent="335" relname="same-unit">Haiman</segment>
+		<segment id="173" parent="174" relname="mode-manner">通过 多 语言 对比 ，</segment>
+		<segment id="174" parent="334" relname="span">发现</segment>
+		<segment id="175" parent="336" relname="span">and 也 可以 被 用作 因果 丛句 和 条件 丛句 。</segment>
+		<segment id="176" parent="339" relname="organization-preparation">比如 ：</segment>
+		<segment id="177" parent="339" relname="span">Sammy ’s mad and I ’m glad 和 He comes , I will stay 。</segment>
+		<segment id="178" parent="338" relname="same-unit">在 这 两 句 中 ， Summy ’ mad 和 He comes 被 看作 是</segment>
+		<segment id="179" parent="180" relname="purpose-attribute">表 原因 的</segment>
+		<segment id="180" parent="337" relname="span">小句 。</segment>
+		<segment id="181" parent="341" relname="span">Haiman</segment>
+		<segment id="182" parent="181" relname="explanation-evidence">[ 7 ]</segment>
+		<segment id="183" parent="342" relname="same-unit">认为</segment>
+		<segment id="184" parent="344" relname="same-unit">这 是 一 种</segment>
+		<segment id="185" parent="186" relname="elaboration-attribute">概念 对称 的</segment>
+		<segment id="186" parent="343" relname="span">体现 ，</segment>
+		<segment id="187" parent="188" relname="mode-manner">因为 根据 时间 的 线性 特点 ，</segment>
+		<segment id="188" parent="345" relname="span">最 先 发生 的 可以 看作 是 背景 ， 原因 ， 条件 。</segment>
+		<group id="189" type="span" parent="190" relname="span"/>
+		<group id="190" type="span" parent="192" relname="context-background"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="214" relname="joint-list"/>
+		<group id="197" type="span" parent="198" relname="same-unit"/>
+		<group id="198" type="multinuc" parent="13" relname="restatement-partial"/>
+		<group id="199" type="span" parent="198" relname="same-unit"/>
+		<group id="200" type="span" parent="203" relname="span"/>
+		<group id="201" type="span" parent="202" relname="same-unit"/>
+		<group id="202" type="multinuc" parent="200" relname="causal-result"/>
+		<group id="203" type="span" parent="205" relname="joint-list"/>
+		<group id="204" type="span" parent="205" relname="joint-list"/>
+		<group id="205" type="multinuc" parent="213" relname="context-background"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="205" relname="joint-list"/>
+		<group id="208" type="span" parent="213" relname="span"/>
+		<group id="209" type="span" parent="210" relname="organization-preparation"/>
+		<group id="210" type="multinuc" parent="212" relname="span"/>
+		<group id="211" type="span" parent="210" relname="joint-list"/>
+		<group id="212" type="span" parent="208" relname="elaboration-additional"/>
+		<group id="213" type="span" parent="215" relname="span"/>
+		<group id="214" type="multinuc" parent="216" relname="span"/>
+		<group id="215" type="span" parent="214" relname="joint-list"/>
+		<group id="216" type="span" parent="360" relname="joint-other"/>
+		<group id="217" type="span" parent="218" relname="span"/>
+		<group id="218" type="span" parent="357" relname="span"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="296" relname="joint-list"/>
+		<group id="222" type="span" parent="356" relname="span"/>
+		<group id="223" type="span" parent="48" relname="elaboration-attribute"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="231" relname="span"/>
+		<group id="226" type="multinuc" parent="225" relname="explanation-evidence"/>
+		<group id="227" type="multinuc" parent="228" relname="span"/>
+		<group id="228" type="span" parent="230" relname="adversative-contrast"/>
+		<group id="229" type="span" parent="226" relname="joint-list"/>
+		<group id="230" type="multinuc" parent="229" relname="span"/>
+		<group id="231" type="span" parent="44" relname="elaboration-additional"/>
+		<group id="232" type="span" parent="355" relname="joint-list"/>
+		<group id="233" type="span" parent="297" relname="organization-preparation"/>
+		<group id="234" type="span" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="238" relname="attribution-positive"/>
+		<group id="236" type="multinuc" parent="237" relname="same-unit"/>
+		<group id="237" type="multinuc" parent="238" relname="joint-list"/>
+		<group id="238" type="multinuc" parent="283" relname="span"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="238" relname="joint-list"/>
+		<group id="241" type="span" parent="244" relname="span"/>
+		<group id="242" type="span" parent="243" relname="same-unit"/>
+		<group id="243" type="multinuc" parent="246" relname="adversative-contrast"/>
+		<group id="244" type="span" parent="282" relname="joint-list"/>
+		<group id="245" type="span" parent="246" relname="adversative-contrast"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="282" relname="joint-list"/>
+		<group id="248" type="multinuc" parent="250" relname="span"/>
+		<group id="249" type="span" parent="248" relname="adversative-contrast"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="297" relname="joint-other"/>
+		<group id="252" type="span" parent="253" relname="span"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="297" relname="joint-other"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="299" relname="span"/>
+		<group id="257" type="span" parent="258" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="93" relname="attribution-positive"/>
+		<group id="259" type="span" parent="263" relname="adversative-contrast"/>
+		<group id="260" type="span" parent="94" relname="elaboration-attribute"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="263" relname="adversative-contrast"/>
+		<group id="263" type="multinuc" parent="256" relname="elaboration-additional"/>
+		<group id="264" type="span" parent="265" relname="same-unit"/>
+		<group id="265" type="multinuc" parent="107" relname="elaboration-attribute"/>
+		<group id="266" type="span" parent="265" relname="same-unit"/>
+		<group id="267" type="span" parent="268" relname="same-unit"/>
+		<group id="268" type="multinuc" parent="269" relname="span"/>
+		<group id="269" type="span" parent="277" relname="joint-list"/>
+		<group id="270" type="span" parent="275" relname="same-unit"/>
+		<group id="271" type="span" parent="273" relname="same-unit"/>
+		<group id="272" type="span" parent="273" relname="same-unit"/>
+		<group id="273" type="multinuc" parent="274" relname="joint-list"/>
+		<group id="274" type="multinuc" parent="276" relname="restatement-repetition"/>
+		<group id="275" type="multinuc" parent="277" relname="joint-list"/>
+		<group id="276" type="multinuc" parent="278" relname="span"/>
+		<group id="277" type="multinuc" parent="276" relname="restatement-repetition"/>
+		<group id="278" type="span" parent="279" relname="span"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="300" relname="joint-other"/>
+		<group id="281" type="span" parent="301" relname="span"/>
+		<group id="282" type="multinuc" parent="297" relname="joint-other"/>
+		<group id="283" type="span" parent="297" relname="joint-other"/>
+		<group id="284" type="span" parent="285" relname="attribution-positive"/>
+		<group id="285" type="span" parent="293" relname="span"/>
+		<group id="286" type="span" parent="287" relname="same-unit"/>
+		<group id="287" type="multinuc" parent="290" relname="attribution-positive"/>
+		<group id="288" type="multinuc" parent="125" relname="elaboration-additional"/>
+		<group id="289" type="span" parent="288" relname="joint-list"/>
+		<group id="290" type="span" parent="291" relname="span"/>
+		<group id="291" type="span" parent="293" relname="elaboration-additional"/>
+		<group id="292" type="span" parent="294" relname="span"/>
+		<group id="293" type="span" parent="292" relname="span"/>
+		<group id="294" type="span" parent="354" relname="joint-other"/>
+		<group id="295" type="span" parent="305" relname="attribution-positive"/>
+		<group id="296" type="multinuc" parent="218" relname="elaboration-additional"/>
+		<group id="297" type="multinuc" parent="298" relname="span"/>
+		<group id="298" type="span" parent="300" relname="joint-other"/>
+		<group id="299" type="span" parent="300" relname="joint-other"/>
+		<group id="300" type="multinuc" parent="281" relname="elaboration-additional"/>
+		<group id="301" type="span" parent="355" relname="joint-list"/>
+		<group id="302" type="span" parent="303" relname="same-unit"/>
+		<group id="303" type="multinuc" parent="304" relname="joint-list"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="324" relname="span"/>
+		<group id="306" type="multinuc" parent="308" relname="span"/>
+		<group id="307" type="span" parent="306" relname="joint-list"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="322" relname="span"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="315" relname="attribution-positive"/>
+		<group id="312" type="span" parent="313" relname="span"/>
+		<group id="313" type="span" parent="315" relname="span"/>
+		<group id="314" type="span" parent="313" relname="causal-result"/>
+		<group id="315" type="span" parent="323" relname="span"/>
+		<group id="316" type="span" parent="317" relname="same-unit"/>
+		<group id="317" type="multinuc" parent="318" relname="span"/>
+		<group id="318" type="span" parent="319" relname="span"/>
+		<group id="319" type="span" parent="321" relname="span"/>
+		<group id="320" type="span" parent="319" relname="causal-cause"/>
+		<group id="321" type="span" parent="325" relname="joint-other"/>
+		<group id="322" type="span" parent="325" relname="joint-other"/>
+		<group id="323" type="span" parent="325" relname="joint-other"/>
+		<group id="324" type="span" parent="325" relname="joint-other"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="354" relname="joint-other"/>
+		<group id="327" type="span" parent="350" relname="attribution-positive"/>
+		<group id="328" type="multinuc" parent="330" relname="span"/>
+		<group id="329" type="span" parent="328" relname="same-unit"/>
+		<group id="330" type="span" parent="350" relname="span"/>
+		<group id="331" type="span" parent="332" relname="adversative-contrast"/>
+		<group id="332" type="multinuc" parent="330" relname="explanation-evidence"/>
+		<group id="333" type="span" parent="332" relname="adversative-contrast"/>
+		<group id="334" type="span" parent="335" relname="same-unit"/>
+		<group id="335" type="multinuc" parent="175" relname="attribution-positive"/>
+		<group id="336" type="span" parent="348" relname="span"/>
+		<group id="337" type="span" parent="338" relname="same-unit"/>
+		<group id="338" type="multinuc" parent="177" relname="explanation-justify"/>
+		<group id="339" type="span" parent="340" relname="span"/>
+		<group id="340" type="span" parent="336" relname="explanation-evidence"/>
+		<group id="341" type="span" parent="342" relname="same-unit"/>
+		<group id="342" type="multinuc" parent="346" relname="attribution-positive"/>
+		<group id="343" type="span" parent="344" relname="same-unit"/>
+		<group id="344" type="multinuc" parent="346" relname="span"/>
+		<group id="345" type="span" parent="344" relname="causal-cause"/>
+		<group id="346" type="span" parent="347" relname="span"/>
+		<group id="347" type="span" parent="348" relname="elaboration-additional"/>
+		<group id="348" type="span" parent="349" relname="span"/>
+		<group id="349" type="span" parent="352" relname="joint-other"/>
+		<group id="350" type="span" parent="351" relname="span"/>
+		<group id="351" type="span" parent="352" relname="joint-other"/>
+		<group id="352" type="multinuc" parent="353" relname="span"/>
+		<group id="353" type="span" parent="354" relname="joint-other"/>
+		<group id="354" type="multinuc" parent="359" relname="span"/>
+		<group id="355" type="multinuc" parent="222" relname="elaboration-additional"/>
+		<group id="356" type="span" parent="296" relname="joint-list"/>
+		<group id="357" type="span" parent="358" relname="span"/>
+		<group id="358" type="span" parent="354" relname="joint-other"/>
+		<group id="359" type="span" parent="360" relname="joint-other"/>
+		<group id="360" type="multinuc" parent="361" relname="span"/>
+		<group id="361" type="span" />
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="364" relname="span"/>
+		<group id="364" type="span" parent="214" relname="joint-list"/>
+	</body>
+</rst>

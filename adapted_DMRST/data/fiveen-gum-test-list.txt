@@ -1,0 +1,10 @@
+GUM_academic_discrimination
+GUM_academic_eegimaa
+GUM_bio_dvorak
+GUM_bio_jespersen
+GUM_interview_hill
+GUM_interview_libertarian
+GUM_news_nasa
+GUM_news_sensitive
+GUM_whow_cactus
+GUM_whow_mice

@@ -1,0 +1,115 @@
+(SN-organization
+  (EDU 1)
+  (NS-elaboration
+    (NS-elaboration
+      (NS-elaboration
+        (NN-same-unit
+          (NS-elaboration (NS-elaboration (EDU 2) (EDU 3)) (EDU 4))
+          (NS-elaboration (EDU 5) (EDU 6)))
+        (NS-mode (EDU 7) (EDU 8)))
+      (NS-context
+        (NN-joint
+          (NN-joint
+            (SN-context (EDU 9) (EDU 10))
+            (NN-joint
+              (EDU 11)
+              (NN-joint
+                (EDU 12)
+                (NN-joint
+                  (NN-adversative
+                    (EDU 13)
+                    (NS-causal (EDU 14) (EDU 15)))
+                  (NN-joint
+                    (SN-context
+                      (NS-elaboration (EDU 16) (EDU 17))
+                      (EDU 18))
+                    (NS-elaboration
+                      (SN-context (EDU 19) (EDU 20))
+                      (SN-adversative
+                        (NS-elaboration
+                          (EDU 21)
+                          (NS-mode (EDU 22) (EDU 23)))
+                        (NS-explanation
+                          (EDU 24)
+                          (NN-same-unit
+                            (NS-adversative (EDU 25) (EDU 26))
+                            (NS-elaboration (EDU 27) (EDU 28)))))))))))
+          (NN-joint
+            (SN-adversative
+              (EDU 29)
+              (NS-explanation
+                (NN-same-unit
+                  (NS-elaboration (EDU 30) (EDU 31))
+                  (NS-adversative
+                    (EDU 32)
+                    (NN-same-unit
+                      (NS-elaboration (EDU 33) (EDU 34))
+                      (EDU 35))))
+                (SN-context (EDU 36) (NS-purpose (EDU 37) (EDU 38)))))
+            (NN-joint
+              (NS-causal
+                (NN-joint
+                  (NN-same-unit
+                    (NS-elaboration (EDU 39) (EDU 40))
+                    (EDU 41))
+                  (NS-context (EDU 42) (EDU 43)))
+                (NS-purpose (EDU 44) (EDU 45)))
+              (EDU 46))))
+        (EDU 47)))
+    (SN-organization
+      (EDU 48)
+      (SN-context
+        (EDU 49)
+        (NN-joint
+          (NS-causal
+            (NN-joint
+              (NS-elaboration
+                (SN-causal
+                  (EDU 50)
+                  (SN-context
+                    (EDU 51)
+                    (NS-elaboration
+                      (NS-elaboration (EDU 52) (EDU 53))
+                      (NS-attribution
+                        (NN-joint
+                          (EDU 54)
+                          (SN-purpose
+                            (EDU 55)
+                            (NS-causal
+                              (NS-mode
+                                (EDU 56)
+                                (NS-elaboration (EDU 57) (EDU 58)))
+                              (EDU 59))))
+                        (EDU 60)))))
+                (EDU 61))
+              (EDU 62))
+            (EDU 63))
+          (SN-explanation
+            (EDU 64)
+            (NS-elaboration
+              (EDU 65)
+              (NN-joint
+                (NS-elaboration
+                  (SN-explanation
+                    (SN-context (EDU 66) (EDU 67))
+                    (NS-elaboration (EDU 68) (EDU 69)))
+                  (SN-attribution
+                    (EDU 70)
+                    (NN-joint
+                      (EDU 71)
+                      (NN-joint
+                        (NS-causal (EDU 72) (EDU 73))
+                        (NS-elaboration (EDU 74) (EDU 75))))))
+                (NN-joint
+                  (NS-purpose
+                    (EDU 76)
+                    (NS-elaboration (EDU 77) (EDU 78)))
+                  (SN-attribution
+                    (EDU 79)
+                    (SN-causal
+                      (NN-joint
+                        (NN-same-unit
+                          (NS-elaboration (EDU 80) (EDU 81))
+                          (NS-elaboration (EDU 82) (EDU 83)))
+                        (EDU 84))
+                      (EDU 85))))))))))))

@@ -32,7 +32,7 @@ def parse_sentence(nlp, sentence):
 def parse_documents(parsed_output_dir, use_onto_trained=True, replace_existing = False):
 	# Set up nlp
 	nlp = set_up_nlp(has_gold_tokens=True, has_gold_sentences=True, use_onto_trained=use_onto_trained)
-	input_dir = "../data/tokens/"
+	input_dir = "../data/tokenized/"
 	
 	# Iterate through documents
 	docs = sorted(list(glob(input_dir + "**/gcdt_*.txt", recursive=False)))
@@ -70,7 +70,7 @@ def parse_documents(parsed_output_dir, use_onto_trained=True, replace_existing =
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
-	parser.add_argument("--parsed_dir", default="../data/parsed/")
+	parser.add_argument("--parsed_dir", default="../data/conllu/")
 	parser.add_argument("--replace_existing", choices=[True, False], default=False)
 	parser.add_argument("--use_onto_trained", choices=[True, False], default=True)
 	args = parser.parse_args()

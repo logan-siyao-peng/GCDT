@@ -59,7 +59,7 @@ def partition_validator():
 			continue
 		subdirs = os.listdir(args.data_dir + dir + os.sep)
 		subdirs = [x for x in subdirs if not x.startswith(".")] # remove ".DS_Store" and/or other hidden files
-		if dir in ["raw", "tokens", "parsed"]:
+		if dir in ["raw", "tokenized", "conllu"]:
 			assert sorted(subdirs) == ["dev", "test", "train"]
 		else:
 			assert sorted(subdirs) == ["dev", "double", "test", "train"]
@@ -107,7 +107,7 @@ def tokenization_validator(basename, branch):
 		token_file_branch = "test"
 	else:
 		token_file_branch = branch
-	token_file = args.data_dir + "tokens" + os.sep + token_file_branch + os.sep  + basename + ".txt"
+	token_file = args.data_dir + "tokenized" + os.sep + token_file_branch + os.sep  + basename + ".txt"
 	raw_file = args.data_dir + "raw" + os.sep + token_file_branch + os.sep  + basename + ".txt"
 	edu_lines = read_text_file(edu_file, include_xml=True)
 	token_lines = read_text_file(token_file, include_xml=True)

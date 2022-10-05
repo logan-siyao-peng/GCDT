@@ -1,0 +1,33 @@
+(SN-organization
+  (EDU 1)
+  (SN-context
+    (EDU 2)
+    (SN-context
+      (EDU 3)
+      (NS-context
+        (NS-context
+          (NS-context
+            (NS-elaboration
+              (NN-joint
+                (NS-causal (EDU 4) (EDU 5))
+                (SN-attribution (EDU 6) (NN-joint (EDU 7) (EDU 8))))
+              (NS-elaboration
+                (NN-same-unit
+                  (NS-elaboration (EDU 9) (EDU 10))
+                  (NS-elaboration (EDU 11) (EDU 12)))
+                (EDU 13)))
+            (NS-elaboration
+              (NS-context (EDU 14) (EDU 15))
+              (NN-joint
+                (NS-attribution
+                  (SN-contingency (EDU 16) (EDU 17))
+                  (EDU 18))
+                (SN-contingency
+                  (EDU 19)
+                  (SN-attribution (EDU 20) (EDU 21))))))
+          (EDU 22))
+        (SN-context
+          (NS-causal (NS-elaboration (EDU 23) (EDU 24)) (EDU 25))
+          (NS-purpose
+            (EDU 26)
+            (NN-joint (EDU 27) (NS-elaboration (EDU 28) (EDU 29)))))))))

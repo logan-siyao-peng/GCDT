@@ -1,0 +1,217 @@
+(SN-organization
+  (SN-organization (EDU 1) (NS-elaboration (EDU 2) (EDU 3)))
+  (SN-context
+    (EDU 4)
+    (SN-context
+      (SN-context
+        (NN-joint
+          (SN-elaboration (SN-context (EDU 5) (EDU 6)) (EDU 7))
+          (NN-joint
+            (SN-context
+              (EDU 8)
+              (SN-context
+                (EDU 9)
+                (NN-same-unit
+                  (EDU 10)
+                  (SN-purpose (EDU 11) (EDU 12)))))
+            (NN-joint
+              (EDU 13)
+              (NN-joint (NN-joint (EDU 14) (EDU 15)) (EDU 16)))))
+        (NN-joint
+          (EDU 17)
+          (NN-joint
+            (NN-same-unit
+              (NS-elaboration (EDU 18) (EDU 19))
+              (NS-elaboration (EDU 20) (EDU 21)))
+            (EDU 22))))
+      (NN-joint
+        (SN-topic
+          (SN-context (EDU 23) (EDU 24))
+          (NS-elaboration
+            (NS-causal
+              (EDU 25)
+              (NN-same-unit
+                (EDU 26)
+                (NN-same-unit
+                  (SN-context (EDU 27) (EDU 28))
+                  (SN-elaboration (EDU 29) (EDU 30)))))
+            (NS-purpose
+              (SN-context (EDU 31) (EDU 32))
+              (SN-attribution
+                (EDU 33)
+                (NS-adversative
+                  (NN-joint
+                    (EDU 34)
+                    (NN-same-unit
+                      (EDU 35)
+                      (SN-elaboration (EDU 36) (EDU 37))))
+                  (NN-same-unit
+                    (EDU 38)
+                    (SN-elaboration (EDU 39) (EDU 40))))))))
+        (NN-joint
+          (SN-topic
+            (SN-contingency (EDU 41) (EDU 42))
+            (NS-elaboration
+              (SN-attribution (EDU 43) (EDU 44))
+              (NS-causal (EDU 45) (SN-contingency (EDU 46) (EDU 47)))))
+          (NN-joint
+            (SN-topic
+              (SN-elaboration (EDU 48) (EDU 49))
+              (NN-joint
+                (NS-evaluation
+                  (NN-same-unit
+                    (EDU 50)
+                    (SN-elaboration
+                      (NN-joint
+                        (EDU 51)
+                        (SN-context (EDU 52) (EDU 53)))
+                      (EDU 54)))
+                  (EDU 55))
+                (NN-joint
+                  (SN-causal
+                    (EDU 56)
+                    (NN-same-unit
+                      (EDU 57)
+                      (SN-elaboration (EDU 58) (EDU 59))))
+                  (SN-causal
+                    (NN-same-unit
+                      (EDU 60)
+                      (SN-elaboration (EDU 61) (EDU 62)))
+                    (SN-attribution
+                      (EDU 63)
+                      (NN-joint
+                        (SN-context (EDU 64) (EDU 65))
+                        (NS-causal
+                          (SN-context (EDU 66) (EDU 67))
+                          (NS-evaluation
+                            (NN-same-unit
+                              (EDU 68)
+                              (SN-context (EDU 69) (EDU 70)))
+                            (EDU 71)))))))))
+            (NN-joint
+              (SN-topic
+                (NN-joint
+                  (SN-elaboration (EDU 72) (EDU 73))
+                  (EDU 74))
+                (NN-joint
+                  (SN-contingency
+                    (NN-joint
+                      (NN-same-unit
+                        (NS-elaboration
+                          (EDU 75)
+                          (SN-organization (EDU 76) (EDU 77)))
+                        (EDU 78))
+                      (NN-same-unit
+                        (EDU 79)
+                        (SN-context (EDU 80) (EDU 81))))
+                    (NS-adversative
+                      (NN-joint
+                        (EDU 82)
+                        (NN-joint
+                          (NN-same-unit
+                            (NS-elaboration (EDU 83) (EDU 84))
+                            (EDU 85))
+                          (EDU 86)))
+                      (NN-same-unit
+                        (EDU 87)
+                        (NN-same-unit
+                          (SN-causal (EDU 88) (EDU 89))
+                          (SN-elaboration (EDU 90) (EDU 91))))))
+                  (SN-organization
+                    (SN-organization (EDU 92) (EDU 93))
+                    (NN-adversative
+                      (SN-contingency
+                        (EDU 94)
+                        (NN-same-unit
+                          (EDU 95)
+                          (SN-mode (EDU 96) (EDU 97))))
+                      (SN-contingency
+                        (EDU 98)
+                        (SN-attribution (EDU 99) (EDU 100)))))))
+              (NN-joint
+                (SN-topic
+                  (SN-context
+                    (SN-causal
+                      (NN-same-unit
+                        (EDU 101)
+                        (SN-mode
+                          (SN-causal
+                            (EDU 102)
+                            (NN-same-unit
+                              (EDU 103)
+                              (SN-elaboration (EDU 104) (EDU 105))))
+                          (EDU 106)))
+                      (NN-same-unit
+                        (EDU 107)
+                        (SN-elaboration (EDU 108) (EDU 109))))
+                    (EDU 110))
+                  (NS-explanation
+                    (SN-context
+                      (SN-causal
+                        (SN-elaboration (EDU 111) (EDU 112))
+                        (NS-purpose
+                          (NN-same-unit
+                            (EDU 113)
+                            (SN-elaboration (EDU 114) (EDU 115)))
+                          (EDU 116)))
+                      (SN-contingency
+                        (EDU 117)
+                        (NS-purpose
+                          (EDU 118)
+                          (NN-joint (EDU 119) (EDU 120)))))
+                    (NN-joint
+                      (SN-adversative
+                        (SN-attribution
+                          (EDU 121)
+                          (NN-same-unit
+                            (EDU 122)
+                            (SN-mode (EDU 123) (EDU 124))))
+                        (NN-same-unit
+                          (EDU 125)
+                          (SN-elaboration (EDU 126) (EDU 127))))
+                      (NS-causal
+                        (SN-adversative
+                          (NN-same-unit
+                            (EDU 128)
+                            (SN-elaboration (EDU 129) (EDU 130)))
+                          (NN-same-unit
+                            (EDU 131)
+                            (SN-mode (EDU 132) (EDU 133))))
+                        (EDU 134)))))
+                (SN-topic
+                  (SN-context
+                    (NS-purpose
+                      (NN-same-unit
+                        (EDU 135)
+                        (SN-elaboration (EDU 136) (EDU 137)))
+                      (EDU 138))
+                    (EDU 139))
+                  (SN-explanation
+                    (NS-evaluation
+                      (NS-elaboration
+                        (NN-joint (EDU 140) (EDU 141))
+                        (NN-same-unit
+                          (EDU 142)
+                          (SN-elaboration
+                            (NN-same-unit
+                              (EDU 143)
+                              (NN-same-unit
+                                (SN-elaboration (EDU 144) (EDU 145))
+                                (SN-elaboration (EDU 146) (EDU 147))))
+                            (EDU 148))))
+                      (EDU 149))
+                    (NS-elaboration
+                      (SN-context (EDU 150) (EDU 151))
+                      (NS-causal
+                        (SN-context
+                          (SN-context (EDU 152) (EDU 153))
+                          (NS-purpose
+                            (EDU 154)
+                            (NN-joint
+                              (NS-purpose (EDU 155) (EDU 156))
+                              (EDU 157))))
+                        (SN-context
+                          (EDU 158)
+                          (NN-same-unit
+                            (EDU 159)
+                            (SN-elaboration (EDU 160) (EDU 161))))))))))))))))

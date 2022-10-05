@@ -1,0 +1,475 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="409" relname="organization-heading">狂犬病 疫苗 研究 进展</segment>
+		<segment id="2" parent="263" relname="organization-heading">1. 引言</segment>
+		<segment id="3" parent="230" relname="same-unit">狂犬病 是 一 种</segment>
+		<segment id="4" parent="5" relname="elaboration-attribute">人 畜 共患 的</segment>
+		<segment id="5" parent="229" relname="span">疾病 ，</segment>
+		<segment id="6" parent="231" relname="joint-list">感染 是 通过 患病 的 动物 传染 给 人类 的 。</segment>
+		<segment id="7" parent="8" relname="elaboration-attribute">引起 狂犬病 的</segment>
+		<segment id="8" parent="232" relname="span">动物 主要 有 狗 、 浣熊 、 臭鼬 、 蝙蝠 和 狐狸 。</segment>
+		<segment id="9" parent="236" relname="joint-list">狂犬病 是 由 病毒 引起 的 ，</segment>
+		<segment id="10" parent="235" relname="same-unit">病毒</segment>
+		<segment id="11" parent="233" relname="context-circumstance">攻击 神经 系统 后</segment>
+		<segment id="12" parent="13" relname="mode-means">通过 唾液</segment>
+		<segment id="13" parent="233" relname="span">排出 。</segment>
+		<segment id="14" parent="237" relname="span">狂犬病 影响 大脑 和 脊髓</segment>
+		<segment id="15" parent="14" relname="restatement-partial">( 中枢 神经 系统 ) ，</segment>
+		<segment id="16" parent="238" relname="joint-sequence">初始 症状 类似 流感 、 发烧 、 头痛 ，</segment>
+		<segment id="17" parent="238" relname="joint-sequence">但是 感染 可以 快速 发展 到 幻觉 、 瘫痪 ，</segment>
+		<segment id="18" parent="238" relname="joint-sequence">并 最终 死亡 ，</segment>
+		<segment id="19" parent="261" relname="span">目前 没有 有效 的 疗法 。</segment>
+		<segment id="20" parent="21" relname="contingency-condition">一旦 发生 疾病 ，</segment>
+		<segment id="21" parent="239" relname="span">死亡率 近 100% 。</segment>
+		<segment id="22" parent="246" relname="span">狂犬病 在 150多 个 国家 和 地区 都 有 存在 。</segment>
+		<segment id="23" parent="24" relname="attribution-positive">据 世卫 组织 估计 ，</segment>
+		<segment id="24" parent="240" relname="span">每 年 有 近 55,000 人 死于 狂犬病 。</segment>
+		<segment id="25" parent="241" relname="span">狗 是 这 背后 的 主要 原因 ，</segment>
+		<segment id="26" parent="25" relname="explanation-evidence">其中 大约 99% 人类 死亡 是 狗 咬伤 导致 的 。</segment>
+		<segment id="27" parent="243" relname="joint-list">发展中 国家 和 亚 发展中 国家 都 是 狂犬病 的 受害者 。</segment>
+		<segment id="28" parent="29" relname="contingency-condition">有 了 接触 后 预防 制度 ，</segment>
+		<segment id="29" parent="244" relname="span">每 年 有 327,000 人 可以 预防 这 种 疾病</segment>
+		<segment id="30" parent="246" relname="explanation-evidence">[ 1 ] 。</segment>
+		<segment id="31" parent="248" relname="same-unit">狂犬病 是</segment>
+		<segment id="32" parent="33" relname="elaboration-attribute">感染 狂犬 病毒 导致 的</segment>
+		<segment id="33" parent="247" relname="span">一 种 病毒性 疾病 。</segment>
+		<segment id="34" parent="249" relname="joint-list">狂犬病 病毒 呈 子弹状 ， 弹状 病毒科 狂犬 病毒属 的 模式种 ，</segment>
+		<segment id="35" parent="249" relname="joint-list">病毒 具有 包膜 和 单反 密码股 的 RNA 基因组 ，</segment>
+		<segment id="36" parent="257" relname="span">基因组 编码 的 5 个 基因 是 高度 保守 的 ，</segment>
+		<segment id="37" parent="250" relname="span">这些 基因 编码 核 蛋白</segment>
+		<segment id="38" parent="37" relname="elaboration-attribute">( N ) 、</segment>
+		<segment id="39" parent="252" relname="span">磷 蛋白质</segment>
+		<segment id="40" parent="39" relname="elaboration-attribute">( P ) 、</segment>
+		<segment id="41" parent="253" relname="span">基质 蛋白</segment>
+		<segment id="42" parent="41" relname="elaboration-attribute">( M ) 、</segment>
+		<segment id="43" parent="254" relname="span">糖蛋白</segment>
+		<segment id="44" parent="43" relname="elaboration-attribute">( G )</segment>
+		<segment id="45" parent="255" relname="span">和 病毒 RNA 聚合 酶</segment>
+		<segment id="46" parent="45" relname="elaboration-attribute">( L ) ，</segment>
+		<segment id="47" parent="256" relname="joint-list">其中 G 蛋白 是 主要 的 保护性 抗原</segment>
+		<segment id="48" parent="258" relname="explanation-evidence">[ 2 ] 。</segment>
+		<segment id="49" parent="327" relname="organization-heading">2. 狂犬病 疫苗 的 起源</segment>
+		<segment id="50" parent="274" relname="organization-preparation">狂犬 病毒 在 自然界 中 广泛 传播 。</segment>
+		<segment id="51" parent="268" relname="same-unit">1804年 ， Georg Gottfried Zinke</segment>
+		<segment id="52" parent="53" relname="mode-means">使用 唾液 注入 的 方法</segment>
+		<segment id="53" parent="269" relname="span">第一 个 将 狂犬病 病毒 从</segment>
+		<segment id="54" parent="55" relname="elaboration-attribute">患 狂犬病 的</segment>
+		<segment id="55" parent="267" relname="span">狗 到 正常 的 狗 ， 从 狗 到 一 只 兔子 和 一 只 母鸡 进行 传播 。</segment>
+		<segment id="56" parent="57" relname="attribution-positive">这 证明 了</segment>
+		<segment id="57" parent="270" relname="span">该 疾病 具有 传染性 ，</segment>
+		<segment id="58" parent="271" relname="adversative-contrast">但 物种 敏感性 还 不 清楚 ，</segment>
+		<segment id="59" parent="271" relname="adversative-concession">直 到 Victor Galtier 展示 了 狂犬病 病毒 从 狗 到 兔子 再 到 兔子 的 传播 。</segment>
+		<segment id="60" parent="275" relname="same-unit">然后 他 用</segment>
+		<segment id="61" parent="62" relname="elaboration-attribute">患 狂犬病 的</segment>
+		<segment id="62" parent="272" relname="span">唾液 静脉 注射 接种</segment>
+		<segment id="63" parent="275" relname="purpose-goal">来 免疫 绵羊 ，</segment>
+		<segment id="64" parent="277" relname="adversative-concession">这 并 没有 产生 疾病 ，</segment>
+		<segment id="65" parent="277" relname="span">但 有趣 的 是 ， 它 保护 动物</segment>
+		<segment id="66" parent="65" relname="elaboration-additional">免受 进一步 感染 的 影响</segment>
+		<segment id="67" parent="278" relname="explanation-evidence">[ 3 ] 。</segment>
+		<segment id="68" parent="283" relname="joint-list">1885年 7月 6日 ， 9 岁 的 Joseph Meister 从 阿尔萨斯 被 带走 ，</segment>
+		<segment id="69" parent="282" relname="same-unit">他 于 7月 4日 被</segment>
+		<segment id="70" parent="71" relname="elaboration-attribute">染 了 狂犬病 的</segment>
+		<segment id="71" parent="281" relname="span">狗 咬伤 。</segment>
+		<segment id="72" parent="286" relname="same-unit">Grancher 说服 了 巴斯德 提供</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">6月 21日 死于 狂犬病 的</segment>
+		<segment id="74" parent="284" relname="span">兔子 脊髓 中 获得 的</segment>
+		<segment id="75" parent="285" relname="span">乳剂</segment>
+		<segment id="76" parent="286" relname="elaboration-attribute">( 乳剂 在 干燥 的 空气 中 保存 了 15 天 ) 。</segment>
+		<segment id="77" parent="289" relname="joint-sequence">在 10 天 内 ， 孩子 得到 13 次 深层 接种 ，</segment>
+		<segment id="78" parent="288" relname="span">脊髓 的 部分 逐渐 更 新鲜</segment>
+		<segment id="79" parent="78" relname="restatement-partial">( 毒力 更 强 ) ，</segment>
+		<segment id="80" parent="289" relname="joint-sequence">直 到 三 个 月 零 三 天 后 ， 他 宣布 孩子 的 生命 脱离 危险 。</segment>
+		<segment id="81" parent="293" relname="same-unit">10月 20日 ， 他 成功 治疗 一 个</segment>
+		<segment id="82" parent="83" relname="elaboration-attribute">六 天 前 被 疯狗 感染 的</segment>
+		<segment id="83" parent="292" relname="span">病人 。</segment>
+		<segment id="84" parent="295" relname="same-unit">到 1886年 ， 他 治疗 了</segment>
+		<segment id="85" parent="86" relname="elaboration-attribute">来自 欧洲 各 地 、 俄罗斯 和 美国 的</segment>
+		<segment id="86" parent="294" relname="span">350 例 病人</segment>
+		<segment id="87" parent="295" relname="explanation-evidence">[ 4 ] 。</segment>
+		<segment id="88" parent="300" relname="same-unit">尽管 有 一些 对于</segment>
+		<segment id="89" parent="90" relname="elaboration-attribute">含有 致命 病毒</segment>
+		<segment id="90" parent="299" relname="span">疫苗 安全性 的 抨击 ，</segment>
+		<segment id="91" parent="301" relname="span">但是 医学界 还是 迅速 接受 了 巴斯德 的 治疗 方法 。</segment>
+		<segment id="92" parent="303" relname="same-unit">为了 使 患者 避免</segment>
+		<segment id="93" parent="94" relname="elaboration-attribute">疫苗 中 病毒 引起 的</segment>
+		<segment id="94" parent="302" relname="span">医源性 感染 ，</segment>
+		<segment id="95" parent="304" relname="span">Fermi 和 Semple 引进 了 在 神经 组织 疫苗 制备 中 的 一些 修改 ，</segment>
+		<segment id="96" parent="95" relname="elaboration-additional">他们 靠 苯酚 部分 或 完全 灭活 病毒 。</segment>
+		<segment id="97" parent="309" relname="same-unit">即使 这些 修改 仍 存在 疫苗 接种 后</segment>
+		<segment id="98" parent="306" relname="same-unit">通过</segment>
+		<segment id="99" parent="100" relname="elaboration-attribute">不完全 灭活 的</segment>
+		<segment id="100" parent="305" relname="span">病毒 或 疫苗 中 的 成分 与 成年 哺乳 动物 神经 组织 的 反应</segment>
+		<segment id="101" parent="307" relname="span">引起 麻痹 的</segment>
+		<segment id="102" parent="308" relname="span">情况 发生 ，</segment>
+		<segment id="103" parent="310" relname="same-unit">表现 为</segment>
+		<segment id="104" parent="105" relname="elaboration-attribute">靠 敏化 髓鞘 碱性 蛋白质 引起 的</segment>
+		<segment id="105" parent="311" relname="span">变态 反应性 脑脊髓炎 ，</segment>
+		<segment id="106" parent="313" relname="span">Semple 疫苗 仍然 是 用于 亚洲 和 非洲 人类</segment>
+		<segment id="107" parent="313" relname="explanation-evidence">[ 5 ] 。</segment>
+		<segment id="108" parent="318" relname="same-unit">Fuenzalida 和 同事 引进 第一 个 无髓 磷脂 的</segment>
+		<segment id="109" parent="110" relname="elaboration-attribute">制备于 新生 小鼠 大脑 的</segment>
+		<segment id="110" parent="317" relname="span">狂犬病 病毒 灭活 疫苗</segment>
+		<segment id="111" parent="318" relname="explanation-evidence">[ 6 ] ，</segment>
+		<segment id="112" parent="319" relname="elaboration-additional">这 种 疫苗 仍 广泛 应用于 南美洲 。</segment>
+		<segment id="113" parent="321" relname="same-unit">所以 ， 狂犬病</segment>
+		<segment id="114" parent="115" relname="mode-means">靠 接种 疫苗</segment>
+		<segment id="115" parent="320" relname="span">是 可 预防 的 ，</segment>
+		<segment id="116" parent="323" relname="joint-other">并且 一些 新 的 狂犬病 疫苗 已 被 成功 进行 了 研究 。</segment>
+		<segment id="117" parent="350" relname="organization-heading">3. 鸭 胚胎 疫苗</segment>
+		<segment id="118" parent="330" relname="elaboration-attribute">严重 反应 较 少 的</segment>
+		<segment id="119" parent="330" relname="span">另 一 个 疫苗 是 鸭胚 疫苗</segment>
+		<segment id="120" parent="436" relname="joint-list">( duck embryo vaccine</segment>
+		<segment id="121" parent="436" relname="joint-list">简称 DEV ) ，</segment>
+		<segment id="122" parent="335" relname="same-unit">该 疫苗</segment>
+		<segment id="123" parent="333" relname="same-unit">通过</segment>
+		<segment id="124" parent="125" relname="elaboration-attribute">在 受孕 鸭蛋 里 传播 的</segment>
+		<segment id="125" parent="332" relname="span">病毒</segment>
+		<segment id="126" parent="334" relname="span">制备</segment>
+		<segment id="127" parent="335" relname="explanation-evidence">[ 7 ] [ 8 ] 。</segment>
+		<segment id="128" parent="337" relname="joint-list">然而 ， DEV 不如 脑 组织 疫苗 的 免疫 原性 强 ，</segment>
+		<segment id="129" parent="337" relname="joint-list">并不 总是 能 预防 狂犬病 。</segment>
+		<segment id="130" parent="340" relname="same-unit">瑞士 血清 和 疫苗 研究所 随后</segment>
+		<segment id="131" parent="338" relname="span">通过 引入 纯化 的 DEV</segment>
+		<segment id="132" parent="131" relname="restatement-partial">( PDEV )</segment>
+		<segment id="133" parent="339" relname="span">改善 了 DEV ，</segment>
+		<segment id="134" parent="135" relname="causal-cause">PDEV 含有 约 1% 的 DEV 蛋白质 ，</segment>
+		<segment id="135" parent="341" relname="span">因此 降低 了 过敏 反应 的 风险</segment>
+		<segment id="136" parent="342" relname="explanation-evidence">[ 9 ] [ 10 ] 。</segment>
+		<segment id="137" parent="138" relname="elaboration-attribute">密度 梯度 超速 离心法 产生 的</segment>
+		<segment id="138" parent="346" relname="span">病毒 浓度 大幅度 增加 了 疫苗 的 有效性 和</segment>
+		<segment id="139" parent="140" relname="elaboration-attribute">其 引起 人类 病毒 中和 抗体 应答 反应 的</segment>
+		<segment id="140" parent="345" relname="span">能力 。</segment>
+		<segment id="141" parent="348" relname="joint-list">PDEV 至今 仍 在 生产 ，</segment>
+		<segment id="142" parent="348" relname="joint-list">并 用于 全球 人类 的 疫苗 接种 。</segment>
+		<segment id="143" parent="434" relname="organization-heading">4. 细胞 培养 疫苗</segment>
+		<segment id="144" parent="361" relname="organization-preparation">细胞 培养 狂犬病 疫苗 作为 一 种 新 的 发展 逐渐 蔓延 。</segment>
+		<segment id="145" parent="355" relname="same-unit">第一 次 组织 培养 疫苗 来自</segment>
+		<segment id="146" parent="147" relname="elaboration-attribute">生长 在 仓鼠 肾 细胞 的</segment>
+		<segment id="147" parent="354" relname="span">病毒</segment>
+		<segment id="148" parent="355" relname="explanation-evidence">[ 10 ] [ 11 ] 。</segment>
+		<segment id="149" parent="357" relname="span">仓鼠 肾 细胞 狂犬病 疫苗</segment>
+		<segment id="150" parent="149" relname="restatement-partial">( PHKCV )</segment>
+		<segment id="151" parent="358" relname="same-unit">是 在 莫斯科 开发 的 ，</segment>
+		<segment id="152" parent="359" relname="joint-list">现在 批准 在 中国 使用 和 生产 。</segment>
+		<segment id="153" parent="154" relname="elaboration-attribute">紧随 其 后 的</segment>
+		<segment id="154" parent="362" relname="span">狂犬 病毒 固定 株 是 在 人类 二倍体 细胞 株 中 生长</segment>
+		<segment id="155" parent="362" relname="explanation-evidence">[ 12 ] 。</segment>
+		<segment id="156" parent="364" relname="joint-sequence">最初 使用 肺 细胞 株 WI-38 ，</segment>
+		<segment id="157" parent="367" relname="span">但 随后 转用 MRC-5 细胞 株 ，</segment>
+		<segment id="158" parent="365" relname="span">该 细胞 株 促使 了 1970年代 中期 人类 二倍体 细胞 疫苗</segment>
+		<segment id="159" parent="158" relname="restatement-partial">( HDCV )</segment>
+		<segment id="160" parent="366" relname="same-unit">的 发展 和 许可 。</segment>
+		<segment id="161" parent="369" relname="span">然后 Pitman-Moore 狂犬病 病毒 株 适应 了 WI-38</segment>
+		<segment id="162" parent="161" relname="explanation-evidence">[ 13 ] ，</segment>
+		<segment id="163" parent="370" relname="joint-list">自由 病毒 被 β- 丙内酯 灭活 ，</segment>
+		<segment id="164" parent="370" relname="joint-list">超速 离心 浓缩</segment>
+		<segment id="165" parent="370" relname="explanation-evidence">[ 14 ] 。</segment>
+		<segment id="166" parent="373" relname="span">人类 二倍体 细胞 疫苗</segment>
+		<segment id="167" parent="166" relname="restatement-partial">( HDCV )</segment>
+		<segment id="168" parent="374" relname="same-unit">比 在 那 段 时间 其他 所有 的 疫苗 更 好 地 诱导 了 动物 和 人类 免疫 反应</segment>
+		<segment id="169" parent="374" relname="explanation-evidence">[ 15 ] [ 16 ] 。</segment>
+		<segment id="170" parent="387" relname="joint-list">接种 HDCV 不仅 产生 更 高 的 抗体 水平 ，</segment>
+		<segment id="171" parent="386" relname="same-unit">而且</segment>
+		<segment id="172" parent="173" relname="context-circumstance">接种 疫苗 后</segment>
+		<segment id="173" parent="385" relname="span">抗体 出现 的 更 早 。</segment>
+		<segment id="174" parent="389" relname="attribution-positive">使用 这 种 疫苗 ， 可能 首 次 表明</segment>
+		<segment id="175" parent="388" relname="context-circumstance">恶性 病毒 感染 几 个 小时 后</segment>
+		<segment id="176" parent="388" relname="joint-list">疫苗 的 注射 可以 保护 动物</segment>
+		<segment id="177" parent="388" relname="joint-list">免于 狂犬病</segment>
+		<segment id="178" parent="390" relname="explanation-evidence">[ 17 ] 。</segment>
+		<segment id="179" parent="396" relname="context-circumstance">自 那时 起 ，</segment>
+		<segment id="180" parent="393" relname="same-unit">为了 在 较 低 的 成本 下 生产</segment>
+		<segment id="181" parent="182" relname="elaboration-attribute">像 HDCV 类似 效价 的</segment>
+		<segment id="182" parent="392" relname="span">疫苗 ，</segment>
+		<segment id="183" parent="395" relname="same-unit">全球 开始 了 一 系列</segment>
+		<segment id="184" parent="185" relname="elaboration-attribute">不同 细胞 培养 疫苗 的</segment>
+		<segment id="185" parent="394" relname="span">开发 。</segment>
+		<segment id="186" parent="398" relname="span">狂犬病 吸附 疫苗</segment>
+		<segment id="187" parent="186" relname="restatement-partial">( RVA )</segment>
+		<segment id="188" parent="399" relname="same-unit">是 由</segment>
+		<segment id="189" parent="190" relname="elaboration-attribute">已 适应 二倍体 猴肺 成纤维 细胞系 的</segment>
+		<segment id="190" parent="400" relname="span">狂犬病 病毒 株 制备 的 。</segment>
+		<segment id="191" parent="401" relname="joint-list">狂犬 病毒 靠 β- 丙内酯 灭活 ，</segment>
+		<segment id="192" parent="401" relname="joint-list">靠 吸附 到 磷酸铝 进行 浓缩</segment>
+		<segment id="193" parent="401" relname="explanation-evidence">[ 18 ] [ 19 ] 。</segment>
+		<segment id="194" parent="404" relname="span">在 效价 和 安全性 方面 ， 该 疫苗 被 认为 是 等同于 HDCV 的</segment>
+		<segment id="195" parent="194" relname="explanation-evidence">[ 20 ] 。</segment>
+		<segment id="196" parent="406" relname="span">HDCV 的 另 一 种 选择 是 使用 纯化 的 小鸡 胚胎 细胞</segment>
+		<segment id="197" parent="196" relname="restatement-partial">( PCEC )</segment>
+		<segment id="198" parent="406" relname="explanation-evidence">[ 21 ] 。</segment>
+		<segment id="199" parent="416" relname="same-unit">PCECV 是</segment>
+		<segment id="200" parent="413" relname="same-unit">通过</segment>
+		<segment id="201" parent="202" relname="elaboration-attribute">生长 在 原始 的 小鸡 胚胎 成纤维 细胞 的</segment>
+		<segment id="202" parent="408" relname="span">狂犬 病毒 毒株</segment>
+		<segment id="203" parent="414" relname="span">制备 的</segment>
+		<segment id="204" parent="415" relname="span">鸡胚 疫苗 。</segment>
+		<segment id="205" parent="417" relname="joint-list">病毒 用 β- 丙内酯 灭活 ，</segment>
+		<segment id="206" parent="417" relname="joint-list">蔗糖 梯度 区域 离心</segment>
+		<segment id="207" parent="417" relname="joint-list">纯化 浓缩 。</segment>
+		<segment id="208" parent="209" relname="attribution-positive">对比 HDCV 试验 显示</segment>
+		<segment id="209" parent="421" relname="span">两 种 疫苗 之间 没有 显著 差异</segment>
+		<segment id="210" parent="421" relname="explanation-evidence">[ 22 ] [ 23 ] 。</segment>
+		<segment id="211" parent="424" relname="joint-list">现在 ， 这些 疫苗 在 全球 范围 内 得到 了 成功 应用 。</segment>
+		<segment id="212" parent="425" relname="span">一 个 连续 的 非洲 绿猴 肾 细胞系 Vero 被 用于 生产 另 一 个 狂犬病 疫苗</segment>
+		<segment id="213" parent="212" relname="explanation-evidence">[ 24 ] 。</segment>
+		<segment id="214" parent="382" relname="span">纯化 的 Vero 细胞 狂犬病 疫苗</segment>
+		<segment id="215" parent="214" relname="restatement-partial">( PVRV )</segment>
+		<segment id="216" parent="383" relname="same-unit">是</segment>
+		<segment id="217" parent="218" relname="elaboration-attribute">基于 狂犬 病毒 的</segment>
+		<segment id="218" parent="384" relname="span">Pitmanman-Moore 毒株 ，</segment>
+		<segment id="219" parent="426" relname="joint-list">该 毒株 用 β- 丙内酯 灭活 ，</segment>
+		<segment id="220" parent="221" relname="mode-means">通过 离心 及 超滤</segment>
+		<segment id="221" parent="381" relname="span">进行 浓缩 纯化 。</segment>
+		<segment id="222" parent="223" relname="elaboration-attribute">初始 和 增强 接种 后 的</segment>
+		<segment id="223" parent="379" relname="span">抗体 反应 与</segment>
+		<segment id="224" parent="225" relname="context-circumstance">接种 HDCV 之后</segment>
+		<segment id="225" parent="376" relname="span">的</segment>
+		<segment id="226" parent="377" relname="span">抗体 反应 可以 相 媲美</segment>
+		<segment id="227" parent="378" relname="explanation-evidence">[ 25 ] 。</segment>
+		<segment id="228" parent="429" relname="joint-list">在 欧洲 和 许多 发展中 国家 ， PVRV 许可 用于 人类 。</segment>
+		<group id="229" type="span" parent="230" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="231" relname="joint-list"/>
+		<group id="231" type="multinuc" parent="262" relname="span"/>
+		<group id="232" type="span" parent="231" relname="elaboration-additional"/>
+		<group id="233" type="span" parent="234" relname="span"/>
+		<group id="234" type="span" parent="235" relname="same-unit"/>
+		<group id="235" type="multinuc" parent="236" relname="joint-list"/>
+		<group id="236" type="multinuc" parent="263" relname="joint-other"/>
+		<group id="237" type="span" parent="260" relname="span"/>
+		<group id="238" type="multinuc" parent="237" relname="elaboration-additional"/>
+		<group id="239" type="span" parent="19" relname="causal-result"/>
+		<group id="240" type="span" parent="242" relname="span"/>
+		<group id="241" type="span" parent="243" relname="joint-list"/>
+		<group id="242" type="span" parent="245" relname="span"/>
+		<group id="243" type="multinuc" parent="240" relname="elaboration-additional"/>
+		<group id="244" type="span" parent="242" relname="adversative-concession"/>
+		<group id="245" type="span" parent="22" relname="elaboration-additional"/>
+		<group id="246" type="span" parent="259" relname="span"/>
+		<group id="247" type="span" parent="248" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="249" relname="organization-preparation"/>
+		<group id="249" type="multinuc" parent="258" relname="span"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="256" relname="joint-list"/>
+		<group id="252" type="span" parent="251" relname="same-unit"/>
+		<group id="253" type="span" parent="251" relname="same-unit"/>
+		<group id="254" type="span" parent="251" relname="same-unit"/>
+		<group id="255" type="span" parent="251" relname="same-unit"/>
+		<group id="256" type="multinuc" parent="36" relname="elaboration-additional"/>
+		<group id="257" type="span" parent="249" relname="joint-list"/>
+		<group id="258" type="span" parent="265" relname="span"/>
+		<group id="259" type="span" parent="263" relname="joint-other"/>
+		<group id="260" type="span" parent="264" relname="joint-list"/>
+		<group id="261" type="span" parent="264" relname="joint-list"/>
+		<group id="262" type="span" parent="263" relname="joint-other"/>
+		<group id="263" type="multinuc" parent="266" relname="span"/>
+		<group id="264" type="multinuc" parent="263" relname="joint-other"/>
+		<group id="265" type="span" parent="263" relname="joint-other"/>
+		<group id="266" type="span" parent="409" relname="joint-list"/>
+		<group id="267" type="span" parent="268" relname="same-unit"/>
+		<group id="268" type="multinuc" parent="274" relname="span"/>
+		<group id="269" type="span" parent="268" relname="same-unit"/>
+		<group id="270" type="span" parent="271" relname="adversative-contrast"/>
+		<group id="271" type="multinuc" parent="273" relname="span"/>
+		<group id="272" type="span" parent="275" relname="same-unit"/>
+		<group id="273" type="span" parent="268" relname="evaluation-comment"/>
+		<group id="274" type="span" parent="298" relname="span"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="280" relname="span"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="279" relname="span"/>
+		<group id="279" type="span" parent="276" relname="evaluation-comment"/>
+		<group id="280" type="span" parent="297" relname="joint-sequence"/>
+		<group id="281" type="span" parent="282" relname="same-unit"/>
+		<group id="282" type="multinuc" parent="283" relname="joint-list"/>
+		<group id="283" type="multinuc" parent="290" relname="joint-list"/>
+		<group id="284" type="span" parent="75" relname="elaboration-attribute"/>
+		<group id="285" type="span" parent="286" relname="same-unit"/>
+		<group id="286" type="multinuc" parent="287" relname="span"/>
+		<group id="287" type="span" parent="290" relname="joint-list"/>
+		<group id="288" type="span" parent="289" relname="joint-sequence"/>
+		<group id="289" type="multinuc" parent="291" relname="span"/>
+		<group id="290" type="multinuc" parent="289" relname="context-background"/>
+		<group id="291" type="span" parent="297" relname="joint-sequence"/>
+		<group id="292" type="span" parent="293" relname="same-unit"/>
+		<group id="293" type="multinuc" parent="297" relname="joint-sequence"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="joint-sequence"/>
+		<group id="297" type="multinuc" parent="327" relname="joint-sequence"/>
+		<group id="298" type="span" parent="297" relname="joint-sequence"/>
+		<group id="299" type="span" parent="300" relname="same-unit"/>
+		<group id="300" type="multinuc" parent="91" relname="adversative-concession"/>
+		<group id="301" type="span" parent="325" relname="organization-preparation"/>
+		<group id="302" type="span" parent="303" relname="same-unit"/>
+		<group id="303" type="multinuc" parent="304" relname="purpose-goal"/>
+		<group id="304" type="span" parent="315" relname="span"/>
+		<group id="305" type="span" parent="306" relname="same-unit"/>
+		<group id="306" type="multinuc" parent="101" relname="mode-means"/>
+		<group id="307" type="span" parent="102" relname="elaboration-attribute"/>
+		<group id="308" type="span" parent="309" relname="same-unit"/>
+		<group id="309" type="multinuc" parent="312" relname="joint-list"/>
+		<group id="310" type="multinuc" parent="312" relname="joint-list"/>
+		<group id="311" type="span" parent="310" relname="same-unit"/>
+		<group id="312" type="multinuc" parent="106" relname="adversative-concession"/>
+		<group id="313" type="span" parent="314" relname="span"/>
+		<group id="314" type="span" parent="315" relname="elaboration-additional"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="324" relname="joint-list"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="319" type="span" parent="322" relname="span"/>
+		<group id="320" type="span" parent="321" relname="same-unit"/>
+		<group id="321" type="multinuc" parent="323" relname="joint-other"/>
+		<group id="322" type="span" parent="324" relname="joint-list"/>
+		<group id="323" type="multinuc" parent="324" relname="evaluation-comment"/>
+		<group id="324" type="multinuc" parent="325" relname="span"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="327" relname="joint-sequence"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" parent="409" relname="joint-list"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="437" relname="span"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="126" relname="mode-means"/>
+		<group id="334" type="span" parent="335" relname="same-unit"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="331" relname="elaboration-additional"/>
+		<group id="337" type="multinuc" parent="352" relname="adversative-contrast"/>
+		<group id="338" type="span" parent="133" relname="mode-means"/>
+		<group id="339" type="span" parent="340" relname="same-unit"/>
+		<group id="340" type="multinuc" parent="342" relname="span"/>
+		<group id="341" type="span" parent="340" relname="explanation-justify"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="350" relname="span"/>
+		<group id="345" type="span" parent="347" relname="same-unit"/>
+		<group id="346" type="span" parent="347" relname="same-unit"/>
+		<group id="347" type="multinuc" parent="349" relname="span"/>
+		<group id="348" type="multinuc" parent="347" relname="causal-result"/>
+		<group id="349" type="span" parent="344" relname="evaluation-comment"/>
+		<group id="350" type="span" parent="353" relname="span"/>
+		<group id="352" type="multinuc" parent="343" relname="context-background"/>
+		<group id="353" type="span" parent="409" relname="joint-list"/>
+		<group id="354" type="span" parent="355" relname="same-unit"/>
+		<group id="355" type="multinuc" parent="356" relname="span"/>
+		<group id="356" type="span" parent="360" relname="span"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="359" relname="joint-list"/>
+		<group id="359" type="multinuc" parent="356" relname="elaboration-additional"/>
+		<group id="360" type="span" parent="361" relname="joint-sequence"/>
+		<group id="361" type="multinuc" parent="433" relname="span"/>
+		<group id="362" type="span" parent="363" relname="span"/>
+		<group id="363" type="span" parent="368" relname="span"/>
+		<group id="364" type="multinuc" parent="363" relname="elaboration-additional"/>
+		<group id="365" type="span" parent="366" relname="same-unit"/>
+		<group id="366" type="multinuc" parent="157" relname="elaboration-attribute"/>
+		<group id="367" type="span" parent="364" relname="joint-sequence"/>
+		<group id="368" type="span" parent="361" relname="joint-sequence"/>
+		<group id="369" type="span" parent="372" relname="joint-list"/>
+		<group id="370" type="multinuc" parent="371" relname="span"/>
+		<group id="371" type="span" parent="372" relname="joint-list"/>
+		<group id="372" type="multinuc" parent="412" relname="span"/>
+		<group id="373" type="span" parent="374" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="375" relname="span"/>
+		<group id="375" type="span" parent="411" relname="joint-other"/>
+		<group id="376" type="span" parent="226" relname="elaboration-attribute"/>
+		<group id="377" type="span" parent="378" relname="same-unit"/>
+		<group id="378" type="multinuc" parent="380" relname="span"/>
+		<group id="379" type="span" parent="378" relname="same-unit"/>
+		<group id="380" type="span" parent="429" relname="joint-list"/>
+		<group id="381" type="span" parent="426" relname="joint-list"/>
+		<group id="382" type="span" parent="383" relname="same-unit"/>
+		<group id="383" type="multinuc" parent="427" relname="joint-other"/>
+		<group id="384" type="span" parent="383" relname="same-unit"/>
+		<group id="385" type="span" parent="386" relname="same-unit"/>
+		<group id="386" type="multinuc" parent="387" relname="joint-list"/>
+		<group id="387" type="multinuc" parent="411" relname="joint-other"/>
+		<group id="388" type="multinuc" parent="389" relname="span"/>
+		<group id="389" type="span" parent="390" relname="span"/>
+		<group id="390" type="span" parent="391" relname="span"/>
+		<group id="391" type="span" parent="411" relname="joint-other"/>
+		<group id="392" type="span" parent="393" relname="same-unit"/>
+		<group id="393" type="multinuc" parent="395" relname="purpose-goal"/>
+		<group id="394" type="span" parent="395" relname="same-unit"/>
+		<group id="395" type="multinuc" parent="396" relname="span"/>
+		<group id="396" type="span" parent="397" relname="span"/>
+		<group id="397" type="span" parent="431" relname="context-background"/>
+		<group id="398" type="span" parent="399" relname="same-unit"/>
+		<group id="399" type="multinuc" parent="405" relname="span"/>
+		<group id="400" type="span" parent="399" relname="same-unit"/>
+		<group id="401" type="multinuc" parent="402" relname="span"/>
+		<group id="402" type="span" parent="403" relname="joint-other"/>
+		<group id="403" type="multinuc" parent="399" relname="elaboration-additional"/>
+		<group id="404" type="span" parent="403" relname="joint-other"/>
+		<group id="405" type="span" parent="420" relname="joint-list"/>
+		<group id="406" type="span" parent="407" relname="span"/>
+		<group id="407" type="span" parent="419" relname="span"/>
+		<group id="408" type="span" parent="413" relname="same-unit"/>
+		<group id="409" type="multinuc" parent="410" relname="span"/>
+		<group id="410" type="span" />
+		<group id="411" type="multinuc" parent="372" relname="elaboration-additional"/>
+		<group id="412" type="span" parent="361" relname="joint-sequence"/>
+		<group id="413" type="multinuc" parent="203" relname="mode-means"/>
+		<group id="414" type="span" parent="204" relname="elaboration-attribute"/>
+		<group id="415" type="span" parent="416" relname="same-unit"/>
+		<group id="416" type="multinuc" parent="418" relname="span"/>
+		<group id="417" type="multinuc" parent="416" relname="elaboration-additional"/>
+		<group id="418" type="span" parent="407" relname="elaboration-additional"/>
+		<group id="419" type="span" parent="420" relname="joint-list"/>
+		<group id="420" type="multinuc" parent="423" relname="span"/>
+		<group id="421" type="span" parent="422" relname="span"/>
+		<group id="422" type="span" parent="424" relname="joint-list"/>
+		<group id="423" type="span" parent="431" relname="joint-list"/>
+		<group id="424" type="multinuc" parent="420" relname="evaluation-comment"/>
+		<group id="425" type="span" parent="428" relname="span"/>
+		<group id="426" type="multinuc" parent="427" relname="joint-other"/>
+		<group id="427" type="multinuc" parent="425" relname="elaboration-additional"/>
+		<group id="428" type="span" parent="430" relname="span"/>
+		<group id="429" type="multinuc" parent="428" relname="evaluation-comment"/>
+		<group id="430" type="span" parent="431" relname="joint-list"/>
+		<group id="431" type="multinuc" parent="432" relname="span"/>
+		<group id="432" type="span" parent="434" relname="joint-other"/>
+		<group id="433" type="span" parent="434" relname="joint-other"/>
+		<group id="434" type="multinuc" parent="435" relname="span"/>
+		<group id="435" type="span" parent="409" relname="joint-list"/>
+		<group id="436" type="multinuc" parent="119" relname="elaboration-attribute"/>
+		<group id="437" type="span" parent="352" relname="adversative-contrast"/>
+	</body>
+</rst>

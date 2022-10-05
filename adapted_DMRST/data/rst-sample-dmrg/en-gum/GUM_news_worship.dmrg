@@ -1,0 +1,11 @@
+(SN-organization
+  (SN-attribution (EDU 1) (EDU 2))
+  (SN-context
+    (EDU 3)
+    (NS-context
+      (NS-context
+        (NS-context
+          (SN-attribution (EDU 4) (EDU 5))
+          (NS-context (NS-causal (EDU 6) (EDU 7)) (EDU 8)))
+        (NS-adversative (EDU 9) (SN-attribution (EDU 10) (EDU 11))))
+      (NN-adversative (EDU 12) (NS-adversative (EDU 13) (EDU 14))))))

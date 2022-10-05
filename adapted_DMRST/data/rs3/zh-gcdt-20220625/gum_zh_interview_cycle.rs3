@@ -1,0 +1,290 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="245" relname="organization-heading">2008 国际 自由车 环台赛 礼仪 小姐 服装 设计 让 颁奖 典礼 更 国际化</segment>
+		<segment id="2" parent="244" relname="context-circumstance">【 2008年 3月 17日 讯 】</segment>
+		<segment id="3" parent="132" relname="span">今年 的 国际 自由车 环台赛 ， 在 颁奖 典礼 上 ， 有 着 焕然一新 的 设计 ，</segment>
+		<segment id="4" parent="3" relname="elaboration-additional">那 就 是 “ 礼仪 小姐 ” 的 部分 。</segment>
+		<segment id="5" parent="130" relname="span">为 本次 大会 四 大</segment>
+		<segment id="6" parent="5" relname="elaboration-attribute">（ 台湾 、 亚洲 、 冲刺 、 总 成绩 ）</segment>
+		<segment id="7" parent="131" relname="same-unit">领骑衫 设计 的</segment>
+		<segment id="8" parent="147" relname="span">赞助商 ， 同时 也 是 台北 国际 自行车展 的 参展商</segment>
+		<segment id="9" parent="8" relname="restatement-partial">─ 德懋 国际 ，</segment>
+		<segment id="10" parent="134" relname="purpose-goal">今年 为了 要 让 颁奖 典礼 的 水平 更 国际化 ，</segment>
+		<segment id="11" parent="134" relname="joint-list">特别 为 “ 礼仪 小姐 ” ， 搭配 四 种 不同 颜色 的 领骑衫 ，</segment>
+		<segment id="12" parent="134" relname="joint-list">量身 打造 专属 的 旗袍 ，</segment>
+		<segment id="13" parent="14" relname="context-circumstance">在 展览 开幕 前 ，</segment>
+		<segment id="14" parent="135" relname="span">成为 环台赛 各 大 媒体 的 瞩目 焦点 。</segment>
+		<segment id="15" parent="140" relname="organization-preparation">而 在 这 设计 的 背后 ， 有 隐藏 什么样 的 概念 与 创意 ？</segment>
+		<segment id="16" parent="142" relname="span">为 此 ， 维基 新闻 记者 Rico Shen</segment>
+		<segment id="17" parent="16" relname="restatement-partial">（ 下 简称 WN ）</segment>
+		<segment id="18" parent="141" relname="same-unit">特别 选 在 自行车展 的 第三 天 ，</segment>
+		<segment id="19" parent="141" relname="elaboration-additional">也 是 环台赛 南港馆站 结束 后 ，</segment>
+		<segment id="20" parent="138" relname="joint-list">参访 德懋 国际 的 摊位 ，</segment>
+		<segment id="21" parent="137" relname="span">并 请 德懋 国际 的 郑学博 总经理</segment>
+		<segment id="22" parent="21" relname="restatement-partial">（ 下 简称 Fma ） ，</segment>
+		<segment id="23" parent="137" relname="purpose-goal">来 指点 迷津 。</segment>
+		<segment id="24" parent="238" relname="organization-heading">专访</segment>
+		<segment id="25" parent="151" relname="same-unit">想到</segment>
+		<segment id="26" parent="27" relname="mode-means">与 中华 民国 自由车 协会 合作 ，</segment>
+		<segment id="27" parent="149" relname="span">设计 冠军 领骑衫 的</segment>
+		<segment id="28" parent="150" relname="span">原因 ？</segment>
+		<segment id="29" parent="152" relname="span">我们</segment>
+		<segment id="30" parent="29" relname="elaboration-attribute">（ 德懋 国际 ）</segment>
+		<segment id="31" parent="153" relname="same-unit">非常 荣幸 ，</segment>
+		<segment id="32" parent="155" relname="span">能 赞助 这 次 的 环台赛 。</segment>
+		<segment id="33" parent="161" relname="joint-list">在此之前 ， （ 我们 ） 都 密集 地 和 秘书长 与 副秘书长 进行 联系 ，</segment>
+		<segment id="34" parent="156" relname="span">并 透过 纺织 产业界 知名 的 研究 单位</segment>
+		<segment id="35" parent="34" relname="elaboration-attribute">─ 纺织 产业 综合 研究所 ，</segment>
+		<segment id="36" parent="157" relname="span">进行 新 材质 开发 上 的 技术 合作 ，</segment>
+		<segment id="37" parent="159" relname="same-unit">并 在</segment>
+		<segment id="38" parent="39" relname="elaboration-attribute">应用 新 材质 的</segment>
+		<segment id="39" parent="158" relname="span">基础 上 ，</segment>
+		<segment id="40" parent="160" relname="span">与 自由车 协会 的 构想 进行 搭配 。</segment>
+		<segment id="41" parent="163" relname="attribution-positive">因为 我们 知道 ，</segment>
+		<segment id="42" parent="163" relname="same-unit">这 项</segment>
+		<segment id="43" parent="44" relname="elaboration-attribute">（ 环台 ）</segment>
+		<segment id="44" parent="162" relname="span">比赛 是 国际 知名 的 大型 赛会 ，</segment>
+		<segment id="45" parent="46" relname="evaluation-comment">因此 ， 我们 很 荣幸 ，</segment>
+		<segment id="46" parent="164" relname="span">借由 这 次 难得 的 机会 ， 把 台湾 的 设计 、 品牌 ， 行销 全 世界 。</segment>
+		<segment id="47" parent="48" relname="adversative-concession">除了 领骑衫 ，</segment>
+		<segment id="48" parent="167" relname="span">今年 有 一 项 历年 以来 ， 前所未有 的 设计 ，</segment>
+		<segment id="49" parent="167" relname="elaboration-additional">就 是 “ 礼仪 小姐 ” 的 旗袍装 。</segment>
+		<segment id="50" parent="172" relname="attribution-positive">我们 知道 ，</segment>
+		<segment id="51" parent="172" relname="same-unit">在 以往 ， 礼仪 小姐</segment>
+		<segment id="52" parent="170" relname="same-unit">大多 都 是 在 国际 知名 ，</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">如 奥林匹克 运动会 之类 的</segment>
+		<segment id="54" parent="169" relname="span">比赛</segment>
+		<segment id="55" parent="171" relname="span">才 会 派上 用场 。</segment>
+		<segment id="56" parent="176" relname="same-unit">那么 ，</segment>
+		<segment id="57" parent="58" relname="attribution-positive">会 想到</segment>
+		<segment id="58" parent="174" relname="span">设计 旗袍装 的</segment>
+		<segment id="59" parent="175" relname="span">原因 ？</segment>
+		<segment id="60" parent="179" relname="same-unit">礼仪 小姐 旗袍装 ， 主要 是</segment>
+		<segment id="61" parent="62" relname="purpose-goal">为了 搭配 颁奖 典礼 ，</segment>
+		<segment id="62" parent="177" relname="span">所 设计 的</segment>
+		<segment id="63" parent="178" relname="span">服装 ，</segment>
+		<segment id="64" parent="181" relname="context-circumstance">而 在 和 自由车 协会 商议 后 ，</segment>
+		<segment id="65" parent="66" relname="purpose-goal">为了 要 搭配 四 个 主要 的 冠军 代表 色 ，</segment>
+		<segment id="66" parent="181" relname="span">进而 借由 这样 的 设计 ，</segment>
+		<segment id="67" parent="180" relname="joint-list">除了 让 颁奖 典礼 的 内容 更 丰富 ，</segment>
+		<segment id="68" parent="180" relname="joint-list">更 能 强化 对外 的 印象 。</segment>
+		<segment id="69" parent="185" relname="same-unit">在此之前 ， 是否 与</segment>
+		<segment id="70" parent="71" relname="elaboration-attribute">（ 自由车 ）</segment>
+		<segment id="71" parent="247" relname="span">协会 合作 ，</segment>
+		<segment id="72" parent="248" relname="joint-list">借由 征选 ， 来 为 这些 礼仪 小姐 ， 打造 专属 的 冠军 旗袍装 ？</segment>
+		<segment id="73" parent="186" relname="joint-sequence">征选 部分 ， 是 由 自由车 协会 先行 征选 的 ，</segment>
+		<segment id="74" parent="186" relname="joint-sequence">然后 等到 确认 完成 后 ，</segment>
+		<segment id="75" parent="187" relname="same-unit">才 进行</segment>
+		<segment id="76" parent="77" relname="elaboration-attribute">量身 订做 的</segment>
+		<segment id="77" parent="188" relname="span">程序 。</segment>
+		<segment id="78" parent="79" relname="elaboration-attribute">打造 前 的</segment>
+		<segment id="79" parent="189" relname="span">一些 协调 程序 ？</segment>
+		<segment id="80" parent="191" relname="same-unit">基本上 是 必须 要 与</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">（ 自由车 ）</segment>
+		<segment id="82" parent="190" relname="span">协会 进行 多 次 协调 的 ，</segment>
+		<segment id="83" parent="193" relname="joint-sequence">因为 这些 设计 在 完成 后 ，</segment>
+		<segment id="84" parent="192" relname="span">还 要 送交 国际 自由车 总会</segment>
+		<segment id="85" parent="84" relname="purpose-goal">进行 审核 ，</segment>
+		<segment id="86" parent="193" relname="joint-sequence">才 能 派上 用场 。</segment>
+		<segment id="87" parent="194" relname="context-circumstance">在 设计 冠军 领骑衫 时 ，</segment>
+		<segment id="88" parent="194" relname="joint-list">有否 尝试 进行 产品 相关 方面 的 认证 ，</segment>
+		<segment id="89" parent="194" relname="joint-list">或是 去 参与 相关 类型 的 征选 活动 ？</segment>
+		<segment id="90" parent="196" relname="span">我们</segment>
+		<segment id="91" parent="90" relname="elaboration-attribute">（ 德懋 国际 ）</segment>
+		<segment id="92" parent="197" relname="same-unit">在 设计 时 ，</segment>
+		<segment id="93" parent="198" relname="joint-list">除了 长 时间 地 ， 与 纺织 产业 综合 研究所 进行 技术 合作 ，</segment>
+		<segment id="94" parent="198" relname="joint-list">进行 新 物料 的 开发 ，</segment>
+		<segment id="95" parent="206" relname="span">在 原料 上 ， 都 是 经过 认证 以及 品质 上 的 多 次 测试 ，</segment>
+		<segment id="96" parent="208" relname="same-unit">包含</segment>
+		<segment id="97" parent="98" relname="elaboration-attribute">以 不同 布料 ， 设计 出 相同 功能 的 衣物 ， 所 进行 的</segment>
+		<segment id="98" parent="207" relname="span">测试 ；</segment>
+		<segment id="99" parent="210" relname="same-unit">因此 ， 大致来说 ，</segment>
+		<segment id="100" parent="101" relname="elaboration-attribute">所 设计 出来 的</segment>
+		<segment id="101" parent="209" relname="span">成品 ， 原料 上 已经 符合 产品 认证 的 需求 。</segment>
+		<segment id="102" parent="250" relname="same-unit">其他</segment>
+		<segment id="103" parent="104" relname="elaboration-attribute">针对 这 次 设计 的</segment>
+		<segment id="104" parent="249" relname="span">一些 看法 ？</segment>
+		<segment id="105" parent="214" relname="joint-list">或是 ， 有 何 特别 之 处 ？</segment>
+		<segment id="106" parent="215" relname="attribution-positive">大家 应该 知道 ，</segment>
+		<segment id="107" parent="215" relname="joint-list">中国 各 朝代 的 皇帝 ， 以 “ 黄袍 加身 ” 代表 其 尊爵 ，</segment>
+		<segment id="108" parent="109" relname="attribution-positive">而 我们 的 思维 ， 则 是 希望</segment>
+		<segment id="109" parent="218" relname="span">能 将 科技 ， 加入 一 种 很 特殊 ， 很 传统 的 元素 ，</segment>
+		<segment id="110" parent="217" relname="same-unit">让 外界</segment>
+		<segment id="111" parent="112" relname="contingency-condition">一 看</segment>
+		<segment id="112" parent="216" relname="span">就 知道 ，</segment>
+		<segment id="113" parent="219" relname="span">这 种 设计 很 有 台湾 风格 ，</segment>
+		<segment id="114" parent="227" relname="context-circumstance">在 经过 与 多 个 设计师 ， 不断 地 讨论 后 ，</segment>
+		<segment id="115" parent="229" relname="attribution-positive">就 决定</segment>
+		<segment id="116" parent="222" relname="same-unit">将</segment>
+		<segment id="117" parent="220" relname="joint-list">具有 文化 传统 ，</segment>
+		<segment id="118" parent="220" relname="joint-list">别具 代表性 的</segment>
+		<segment id="119" parent="221" relname="span">“ 龙 ” ， 纳入 这 项 设计 ，</segment>
+		<segment id="120" parent="228" relname="span">象征 这 条 龙 盘踞 在 优胜者 之上 ，</segment>
+		<segment id="121" parent="120" relname="purpose-goal">以 达到 “ 龙盘 虎踞 ” 的 效果 ，</segment>
+		<segment id="122" parent="225" relname="attribution-positive">也 希望</segment>
+		<segment id="123" parent="225" relname="same-unit">一 个 很 典型 、 神力 的 动物 ， 让 选手</segment>
+		<segment id="124" parent="125" relname="context-circumstance">比赛 时 ，</segment>
+		<segment id="125" parent="224" relname="span">更 有 精神 ，</segment>
+		<segment id="126" parent="232" relname="attribution-positive">总而言之 ， 希望</segment>
+		<segment id="127" parent="232" relname="same-unit">这 种</segment>
+		<segment id="128" parent="129" relname="elaboration-attribute">结合 现代 与 传统 的</segment>
+		<segment id="129" parent="231" relname="span">设计 ， 能 更 具 代表性 。</segment>
+		<group id="130" type="span" parent="131" relname="same-unit"/>
+		<group id="131" type="multinuc" parent="147" relname="elaboration-attribute"/>
+		<group id="132" type="span" parent="145" relname="span"/>
+		<group id="133" type="span" parent="144" relname="span"/>
+		<group id="134" type="multinuc" parent="133" relname="span"/>
+		<group id="135" type="span" parent="133" relname="evaluation-comment"/>
+		<group id="136" type="span" parent="138" relname="context-circumstance"/>
+		<group id="137" type="span" parent="139" relname="span"/>
+		<group id="138" type="multinuc" parent="140" relname="span"/>
+		<group id="139" type="span" parent="138" relname="joint-list"/>
+		<group id="140" type="span" parent="143" relname="span"/>
+		<group id="141" type="multinuc" parent="136" relname="span"/>
+		<group id="142" type="span" parent="141" relname="same-unit"/>
+		<group id="143" type="span" parent="154" relname="joint-other"/>
+		<group id="144" type="span" parent="148" relname="joint-list"/>
+		<group id="145" type="span" parent="154" relname="joint-other"/>
+		<group id="146" type="span" parent="148" relname="joint-list"/>
+		<group id="147" type="span" parent="146" relname="span"/>
+		<group id="148" type="multinuc" parent="132" relname="elaboration-additional"/>
+		<group id="149" type="span" parent="28" relname="elaboration-attribute"/>
+		<group id="150" type="span" parent="151" relname="same-unit"/>
+		<group id="151" type="multinuc" parent="199" relname="topic-question"/>
+		<group id="152" type="span" parent="153" relname="same-unit"/>
+		<group id="153" type="multinuc" parent="32" relname="evaluation-comment"/>
+		<group id="154" type="multinuc" parent="243" relname="organization-preparation"/>
+		<group id="155" type="span" parent="161" relname="organization-preparation"/>
+		<group id="156" type="span" parent="36" relname="mode-means"/>
+		<group id="157" type="span" parent="161" relname="joint-list"/>
+		<group id="158" type="span" parent="159" relname="same-unit"/>
+		<group id="159" type="multinuc" parent="40" relname="context-circumstance"/>
+		<group id="160" type="span" parent="161" relname="joint-list"/>
+		<group id="161" type="multinuc" parent="241" relname="span"/>
+		<group id="162" type="span" parent="163" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="165" relname="span"/>
+		<group id="164" type="span" parent="166" relname="span"/>
+		<group id="165" type="span" parent="164" relname="causal-cause"/>
+		<group id="166" type="span" parent="241" relname="causal-cause"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="200" relname="span"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="55" relname="contingency-condition"/>
+		<group id="171" type="span" parent="172" relname="same-unit"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="168" relname="causal-cause"/>
+		<group id="174" type="span" parent="59" relname="elaboration-attribute"/>
+		<group id="175" type="span" parent="176" relname="same-unit"/>
+		<group id="176" type="multinuc" parent="240" relname="span"/>
+		<group id="177" type="span" parent="63" relname="elaboration-attribute"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="179" type="multinuc" parent="183" relname="context-background"/>
+		<group id="180" type="multinuc" parent="182" relname="elaboration-additional"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="201" relname="span"/>
+		<group id="185" type="multinuc" parent="248" relname="joint-list"/>
+		<group id="186" type="multinuc" parent="202" relname="span"/>
+		<group id="187" type="multinuc" parent="186" relname="joint-sequence"/>
+		<group id="188" type="span" parent="187" relname="same-unit"/>
+		<group id="189" type="span" parent="203" relname="topic-question"/>
+		<group id="190" type="span" parent="191" relname="same-unit"/>
+		<group id="191" type="multinuc" parent="203" relname="span"/>
+		<group id="192" type="span" parent="193" relname="joint-sequence"/>
+		<group id="193" type="multinuc" parent="191" relname="causal-cause"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="211" relname="topic-question"/>
+		<group id="196" type="span" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="205" relname="context-circumstance"/>
+		<group id="198" type="multinuc" parent="205" relname="joint-list"/>
+		<group id="199" type="span" parent="242" relname="span"/>
+		<group id="200" type="span" parent="176" relname="context-background"/>
+		<group id="201" type="span" parent="238" relname="joint-other"/>
+		<group id="202" type="span" parent="238" relname="joint-other"/>
+		<group id="203" type="span" parent="204" relname="span"/>
+		<group id="204" type="span" parent="238" relname="joint-other"/>
+		<group id="205" type="multinuc" parent="212" relname="span"/>
+		<group id="206" type="span" parent="205" relname="joint-list"/>
+		<group id="207" type="span" parent="208" relname="same-unit"/>
+		<group id="208" type="multinuc" parent="95" relname="elaboration-additional"/>
+		<group id="209" type="span" parent="210" relname="same-unit"/>
+		<group id="210" type="multinuc" parent="212" relname="causal-result"/>
+		<group id="211" type="span" parent="213" relname="span"/>
+		<group id="212" type="span" parent="211" relname="span"/>
+		<group id="213" type="span" parent="238" relname="joint-other"/>
+		<group id="214" type="multinuc" parent="236" relname="topic-question"/>
+		<group id="215" type="multinuc" parent="234" relname="span"/>
+		<group id="216" type="span" parent="217" relname="same-unit"/>
+		<group id="217" type="multinuc" parent="113" relname="attribution-positive"/>
+		<group id="218" type="span" parent="215" relname="joint-list"/>
+		<group id="219" type="span" parent="237" relname="span"/>
+		<group id="220" type="multinuc" parent="119" relname="elaboration-attribute"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="229" relname="span"/>
+		<group id="223" type="span" parent="235" relname="span"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="226" type="span" parent="230" relname="joint-list"/>
+		<group id="227" type="span" parent="223" relname="span"/>
+		<group id="228" type="span" parent="230" relname="joint-list"/>
+		<group id="229" type="span" parent="227" relname="span"/>
+		<group id="230" type="multinuc" parent="222" relname="elaboration-additional"/>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="235" relname="evaluation-comment"/>
+		<group id="234" type="span" parent="219" relname="context-background"/>
+		<group id="235" type="span" parent="236" relname="span"/>
+		<group id="236" type="span" parent="239" relname="span"/>
+		<group id="237" type="span" parent="223" relname="purpose-goal"/>
+		<group id="238" type="multinuc" parent="243" relname="span"/>
+		<group id="239" type="span" parent="238" relname="joint-other"/>
+		<group id="240" type="span" parent="184" relname="topic-question"/>
+		<group id="241" type="span" parent="199" relname="span"/>
+		<group id="242" type="span" parent="238" relname="joint-other"/>
+		<group id="243" type="span" parent="244" relname="span"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="span"/>
+		<group id="246" type="span" />
+		<group id="247" type="span" parent="185" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="186" relname="topic-question"/>
+		<group id="249" type="span" parent="250" relname="same-unit"/>
+		<group id="250" type="multinuc" parent="214" relname="joint-list"/>
+	</body>
+</rst>

@@ -1,0 +1,433 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="302" relname="organization-heading">赵元任</segment>
+		<segment id="2" parent="233" relname="span">赵元任</segment>
+		<segment id="3" parent="4" relname="organization-preparation">（ 英语 ：</segment>
+		<segment id="4" parent="231" relname="span">Yuen Ren Chao ， 1892年 11月 3日 － 1982年 2月 24日</segment>
+		<segment id="5" parent="231" relname="explanation-evidence">[ 8 ] ） ，</segment>
+		<segment id="6" parent="234" relname="same-unit">字 宜仲 ，</segment>
+		<segment id="7" parent="235" relname="joint-list">生于 天津 ， 江苏 阳湖人 ， 语言学家 ，</segment>
+		<segment id="8" parent="235" relname="joint-list">精研 北方话 与 吴语 方言 的 音系 。</segment>
+		<segment id="9" parent="235" relname="joint-list">一 生 会 讲 33 种 汉语 方言 。</segment>
+		<segment id="10" parent="236" relname="span">被 称 为 “ 汉 语言学 ” 之 父 ，</segment>
+		<segment id="11" parent="10" relname="elaboration-additional">与 “ 非 汉语 ” 语言学 之 父 之 称 的 李方桂 比肩 ，</segment>
+		<segment id="12" parent="13" relname="attribution-positive">丁邦新 评价</segment>
+		<segment id="13" parent="237" relname="span">“ 中国人 在 世界 语言学界 居于 领导 地位 的 有 赵元任 、 李方桂 两 先生 ” 。</segment>
+		<segment id="14" parent="237" relname="explanation-evidence">[ 9 ]</segment>
+		<segment id="15" parent="240" relname="span">长期 任教于 加州 大学 伯克利 分校 。</segment>
+		<segment id="16" parent="15" relname="explanation-evidence">[ 10 ]</segment>
+		<segment id="17" parent="235" relname="joint-list">1954年 起 兼 有 美国 国籍 。</segment>
+		<segment id="18" parent="242" relname="span">赵元任 以 跨 专业 天才 著称 ，</segment>
+		<segment id="19" parent="241" relname="joint-list">康乃尔 大学 本科 主修 数学 ，</segment>
+		<segment id="20" parent="241" relname="joint-list">哈佛 大学 博士 主攻 哲学 。</segment>
+		<segment id="21" parent="22" relname="organization-heading">家世</segment>
+		<segment id="22" parent="243" relname="span">六世祖 赵翼 是 乾隆 二十六年 辛巳 恩科 进士 。</segment>
+		<segment id="23" parent="299" relname="organization-heading">生平</segment>
+		<segment id="24" parent="244" relname="joint-sequence">1892年 生于 直隶省 天津 ，</segment>
+		<segment id="25" parent="246" relname="span">10 岁 前 随 做官 的 祖父 赵执治 辗转 居于 直隶省 各 地 ，</segment>
+		<segment id="26" parent="245" relname="joint-sequence">4 岁 住 磁县 ，</segment>
+		<segment id="27" parent="245" relname="joint-sequence">5 岁 住 祁州 ，</segment>
+		<segment id="28" parent="245" relname="joint-sequence">6 岁 住 保定 ，</segment>
+		<segment id="29" parent="245" relname="joint-sequence">7 岁 住 冀州 ，</segment>
+		<segment id="30" parent="245" relname="joint-sequence">8 岁 回 保定 ，</segment>
+		<segment id="31" parent="245" relname="joint-sequence">9 岁 回 冀州 ，</segment>
+		<segment id="32" parent="245" relname="joint-sequence">10 岁 才 回 祖籍 地 江苏 常州 。</segment>
+		<segment id="33" parent="248" relname="context-circumstance">回 常州 后 ，</segment>
+		<segment id="34" parent="248" relname="span">学会 了 吴语</segment>
+		<segment id="35" parent="34" relname="elaboration-attribute">（ 常熟话 、 常州话 和 苏州话 等 ) 。</segment>
+		<segment id="36" parent="249" relname="joint-list">1907年 入 南京 江南 高等 学堂 预科 ，</segment>
+		<segment id="37" parent="249" relname="joint-list">学习 英语 、 德语 、 音乐 ，</segment>
+		<segment id="38" parent="249" relname="joint-list">学会 多 种 汉语 方言 。</segment>
+		<segment id="39" parent="251" relname="same-unit">1910年 7月 考取</segment>
+		<segment id="40" parent="41" relname="elaboration-attribute">清朝 政府 游美 学务处 招考 的</segment>
+		<segment id="41" parent="250" relname="span">庚款 游美 官费生 。</segment>
+		<segment id="42" parent="252" relname="joint-list">8月 入 美国 康乃尔 大学 ，</segment>
+		<segment id="43" parent="252" relname="joint-list">主修 数学 ，</segment>
+		<segment id="44" parent="252" relname="joint-list">选修 物理 、 音乐 ，</segment>
+		<segment id="45" parent="244" relname="joint-sequence">1914年 毕业 。</segment>
+		<segment id="46" parent="244" relname="joint-sequence">1915年 参与 发起 中国 科学社 ，</segment>
+		<segment id="47" parent="253" relname="joint-list">同年 考入 哈佛 大学</segment>
+		<segment id="48" parent="253" relname="joint-list">读 研究所 ，</segment>
+		<segment id="49" parent="253" relname="joint-list">修读 哲学 ，</segment>
+		<segment id="50" parent="253" relname="joint-list">并 选修 音乐 ，</segment>
+		<segment id="51" parent="244" relname="joint-sequence">1918年 获 哲学 博士 学位 ，</segment>
+		<segment id="52" parent="255" relname="span">后 再 获 美国 哈佛 大学 博士后 旅行 奖学金</segment>
+		<segment id="53" parent="254" relname="restatement-repetition">— 谢尔登 博士后 研究 奖学金</segment>
+		<segment id="54" parent="254" relname="restatement-repetition">（ Post－doctorate Sheldon Fellowship ）</segment>
+		<segment id="55" parent="255" relname="explanation-evidence">[ 11 ] [ 12 ] [ 13 ] ，</segment>
+		<segment id="56" parent="257" relname="joint-list">到 美国 芝加哥 大学 、 加州 大学 伯克利 分校 游学 ，</segment>
+		<segment id="57" parent="58" relname="elaboration-additional">以 《 科学 的 哲学 》 为 题</segment>
+		<segment id="58" parent="258" relname="span">进行 博士后 研究 。</segment>
+		<segment id="59" parent="259" relname="joint-list">1919年 回到 康乃尔 大学</segment>
+		<segment id="60" parent="259" relname="joint-list">担任 物理系 讲师 。</segment>
+		<segment id="61" parent="260" relname="joint-list">1920年 8月 从 美国 返回 中国 ，</segment>
+		<segment id="62" parent="260" relname="joint-list">在 清华 大学 任教 。</segment>
+		<segment id="63" parent="261" relname="joint-list">1920年 哲学家 伯特兰·罗素 来 清华</segment>
+		<segment id="64" parent="261" relname="joint-list">参观 讲学 ，</segment>
+		<segment id="65" parent="262" relname="joint-list">赵元任 任 翻译 ，</segment>
+		<segment id="66" parent="262" relname="joint-list">陪同 罗素</segment>
+		<segment id="67" parent="262" relname="joint-list">周游 全国 各 地 ，</segment>
+		<segment id="68" parent="264" relname="contingency-condition">每 到 一 个 地方 ，</segment>
+		<segment id="69" parent="264" relname="same-unit">就</segment>
+		<segment id="70" parent="71" relname="mode-means">用 当地 方言</segment>
+		<segment id="71" parent="263" relname="span">翻译 。</segment>
+		<segment id="72" parent="244" relname="joint-sequence">1921年 6月 ， 与 医生 杨步伟 结婚 。</segment>
+		<segment id="73" parent="268" relname="span">1921年 － 1923年 应 美国 哈佛 大学 哲学系 教授 伍兹 教授</segment>
+		<segment id="74" parent="73" relname="elaboration-attribute">（ James Haughton Woods ， 1864 — 1935 ， 美国 希腊 哲学 、 印度 哲学 学者 ）</segment>
+		<segment id="75" parent="267" relname="same-unit">之 邀</segment>
+		<segment id="76" parent="269" relname="joint-list">回到 美国 ，</segment>
+		<segment id="77" parent="269" relname="joint-list">担任 哈佛 大学 哲学系 、 中文系 讲师 ，</segment>
+		<segment id="78" parent="269" relname="joint-list">开设 中国 哲学 、 中国 语言 。</segment>
+		<segment id="79" parent="270" relname="span">继 戈鲲化</segment>
+		<segment id="80" parent="79" relname="elaboration-attribute">（ Ge Kunhua ）</segment>
+		<segment id="81" parent="271" relname="same-unit">之后 第二 位 于 哈佛 大学 任教 的 华人 。</segment>
+		<segment id="82" parent="273" relname="joint-list">1924年 升任 哈佛 大学 中文系 教授 ，</segment>
+		<segment id="83" parent="273" relname="joint-list">同年 推荐 梅光迪 到 哈佛 大学 任教 。</segment>
+		<segment id="84" parent="274" relname="joint-list">其后 ， 任赴 欧洲 研究 语言学 ，</segment>
+		<segment id="85" parent="274" relname="joint-list">结识 英国 语言学家 丹尼尔·琼斯 、 法国 语言学家 安东尼·梅耶 ； 欧洲 汉学家 高本汉 、 伯希和 及 昂利·马伯乐 等 。</segment>
+		<segment id="86" parent="275" relname="joint-list">1925年 － 1929年 应聘 清华 大学 清华 国学 研究院 导师 ，</segment>
+		<segment id="87" parent="276" relname="span">为 当时 时称 的 四 大 导师</segment>
+		<segment id="88" parent="87" relname="elaboration-attribute">（ 王国维 、 梁启超 、 陈寅恪 、 赵元任 ）</segment>
+		<segment id="89" parent="277" relname="same-unit">中 最 年轻 的 一 位 。</segment>
+		<segment id="90" parent="244" relname="joint-sequence">1932年 2月 — 1933年 10月 ， 任 清华 留美 学生 监督处 主任 。</segment>
+		<segment id="91" parent="278" relname="span">1939年 起 ， 历任 美国 耶鲁 大学 访问 教授</segment>
+		<segment id="92" parent="91" relname="context-circumstance">（ 1939年 — 1941年 ） 、</segment>
+		<segment id="93" parent="279" relname="span">美国 哈佛 燕京 学社 《 汉 英 大 辞典 》 编辑</segment>
+		<segment id="94" parent="93" relname="context-circumstance">（ 1941年 － 1946年 ） 、</segment>
+		<segment id="95" parent="280" relname="restatement-repetition">哈佛 大学 东亚 语言 及 文化 学系</segment>
+		<segment id="96" parent="280" relname="restatement-repetition">（ Department of East Asian Languages and Civilizations ， EALC ）</segment>
+		<segment id="97" parent="281" relname="restatement-repetition">中国 语言 讲师</segment>
+		<segment id="98" parent="281" relname="restatement-repetition">（ Lecturer in Chinese Language ） ，</segment>
+		<segment id="99" parent="281" relname="context-circumstance">1942年 － 1946年 ） 、</segment>
+		<segment id="100" parent="283" relname="span">美国 海外 语言 特训班 中文 主任</segment>
+		<segment id="101" parent="100" relname="context-circumstance">（ 1943年 － 1944年 ） 、</segment>
+		<segment id="102" parent="285" relname="span">其中 1945年 赵元任 当选 为 美国 语言 学会 会长 、 密歇根 大学 语言 研究所 教授</segment>
+		<segment id="103" parent="102" relname="context-circumstance">（ 1946年 － 1947年 ） 。</segment>
+		<segment id="104" parent="244" relname="joint-sequence">1947年 起 ， 专任 加州 大学 伯克利 分校 教授 ，</segment>
+		<segment id="105" parent="287" relname="joint-list">1965年 退休 ，</segment>
+		<segment id="106" parent="287" relname="joint-list">任 该 校 离职 教授 至 逝世 。</segment>
+		<segment id="107" parent="288" relname="joint-list">1982年 2月 25日 ， 病逝于 马萨诸塞 剑桥 黄山 医院 ，</segment>
+		<segment id="108" parent="288" relname="joint-list">享年 89 岁 。</segment>
+		<segment id="109" parent="110" relname="context-circumstance">1948年 以后 在 美国 任教 期间 ，</segment>
+		<segment id="110" parent="289" relname="span">英文 著作 有 《 中国语 字典 》 、 《 粤语 入门 》 、 《 中国语 语法 之 研究 》 、 《 湖北 方言 调查 》 等 。</segment>
+		<segment id="111" parent="290" relname="joint-list">1950年代 后期 ， 曾 在 台北 作 “ 语言 问题 ” 的 系统 讲演 ，</segment>
+		<segment id="112" parent="290" relname="joint-list">并 结集 成书 ，</segment>
+		<segment id="113" parent="290" relname="joint-list">由 商务 印书馆 出版 。</segment>
+		<segment id="114" parent="292" relname="span">此外 也 录制 有关 语言 的 唱片 ，</segment>
+		<segment id="115" parent="114" relname="explanation-evidence">单 是 中国 华中 、 华南 各 省 方言 的 录音 唱片 ， 就 有 2000多 张 。</segment>
+		<segment id="116" parent="298" relname="span">并 在 胡适 商请 下 ， 发明 注音 符号 ，</segment>
+		<segment id="117" parent="116" relname="purpose-goal">协助 国人 学习 国语 即 普通话 ，</segment>
+		<segment id="118" parent="297" relname="joint-list">1965年 退休 后 ， 出版 《 语言学 跟 符号 系统 》 、 《 中国话 的 文法 》 、 《 白话 读物 》 等 。</segment>
+		<segment id="119" parent="293" relname="span">此外 尚 有 《 绿信 》</segment>
+		<segment id="120" parent="119" relname="restatement-partial">（ green letter ）</segment>
+		<segment id="121" parent="294" relname="same-unit">五 册 ，</segment>
+		<segment id="122" parent="294" relname="elaboration-additional">记述 自己 的 思想 、 感情 和 生活 。</segment>
+		<segment id="123" parent="296" relname="joint-list">把 《 康熙 字典 》 里 两万 多 字 ， “ 浓缩 ” 为 2000 个 常用 字 ，</segment>
+		<segment id="124" parent="296" relname="joint-list">取名 为 《 通字 方案 》 。</segment>
+		<segment id="125" parent="297" relname="joint-list">五度 标音法 发明者 。</segment>
+		<segment id="126" parent="351" relname="organization-heading">语言 天分</segment>
+		<segment id="127" parent="304" relname="joint-list">1904年 12 岁 父母 先后 去世 ，</segment>
+		<segment id="128" parent="304" relname="joint-list">被 送到 苏州 学会 苏州话 。</segment>
+		<segment id="129" parent="307" relname="span">1905年 13 岁 回到 常州</segment>
+		<segment id="130" parent="129" relname="elaboration-additional">由 伯母 照管 ，</segment>
+		<segment id="131" parent="132" relname="context-background">伯母 在 福州 住 过 多 年 ，</segment>
+		<segment id="132" parent="306" relname="span">跟 她 学 了 一点 福州话 。</segment>
+		<segment id="133" parent="308" relname="joint-list">进 私立 溪山 学校</segment>
+		<segment id="134" parent="308" relname="joint-list">学 英文 。</segment>
+		<segment id="135" parent="310" relname="joint-list">1907年 15 岁 南京 江南 高等 学校 预科 读书 ，</segment>
+		<segment id="136" parent="311" relname="span">跟 美国人 嘉化</segment>
+		<segment id="137" parent="136" relname="restatement-partial">（ David John Carver ）</segment>
+		<segment id="138" parent="312" relname="same-unit">学 英文 ，</segment>
+		<segment id="139" parent="310" relname="joint-list">选修 拉丁文 和 德文 ，</segment>
+		<segment id="140" parent="310" relname="joint-list">学会 南京话 。</segment>
+		<segment id="141" parent="310" relname="explanation-evidence">[ 14 ]</segment>
+		<segment id="142" parent="314" relname="span">在 《 早年 自传 》</segment>
+		<segment id="143" parent="142" relname="restatement-partial">（ Life with Chaos ）</segment>
+		<segment id="144" parent="315" relname="same-unit">记录</segment>
+		<segment id="145" parent="146" relname="elaboration-attribute">当年 为 伯特兰·罗素 翻译 的</segment>
+		<segment id="146" parent="316" relname="span">故事 ：</segment>
+		<segment id="147" parent="348" relname="context-background">“ 我 和 罗素 一 行 经 杭州 、 南京 、 长沙 ， 然后 北上 北京 。</segment>
+		<segment id="148" parent="318" relname="same-unit">我</segment>
+		<segment id="149" parent="150" relname="mode-means">利用 这 种 机会</segment>
+		<segment id="150" parent="317" relname="span">演习 我 的 方言 。</segment>
+		<segment id="151" parent="319" relname="joint-list">在 杭州 我 以 杭州 方言 翻译 罗素 的 讲词 。</segment>
+		<segment id="152" parent="153" relname="context-background">去 湖南 长沙 途中 ， 在 江永轮 上 有 湖南 赞助人 杨瑞六 ，</segment>
+		<segment id="153" parent="327" relname="span">我 从 他 那里 学 了 一点 湖南 方言 。</segment>
+		<segment id="154" parent="322" relname="context-circumstance">10月 26日 晚 ， 我 翻译 了 罗素 的 讲演 ，</segment>
+		<segment id="155" parent="320" relname="context-circumstance">讲完 后 ，</segment>
+		<segment id="156" parent="320" relname="joint-list">一 个 学生 走上 前来</segment>
+		<segment id="157" parent="320" relname="joint-list">问 我 ：</segment>
+		<segment id="158" parent="322" relname="span">‘ 你 是 哪 县 人 ？ ’</segment>
+		<segment id="159" parent="324" relname="context-background">我 学 湖南话 还 不到 一 个 星期 ，</segment>
+		<segment id="160" parent="323" relname="attribution-positive">他 以为</segment>
+		<segment id="161" parent="323" relname="adversative-contrast">我 是 湖南人 ，</segment>
+		<segment id="162" parent="323" relname="adversative-contrast">说 不 好 官话 ，</segment>
+		<segment id="163" parent="325" relname="adversative-contrast">实际 上 我 能 说 官话 ，</segment>
+		<segment id="164" parent="325" relname="adversative-contrast">而 说 不 好 湖南话 。 ”</segment>
+		<segment id="165" parent="334" relname="context-background">作家 吴组缃 1930年代 时 在 清华 大学 中国 文学系 读书 ，</segment>
+		<segment id="166" parent="334" relname="joint-list">第一 堂 课 赵元任 点名 ，</segment>
+		<segment id="167" parent="334" relname="joint-list">看到 吴组缃 的 籍贯 是 安徽 泾县 。</segment>
+		<segment id="168" parent="336" relname="context-circumstance">上 完 课 后 ，</segment>
+		<segment id="169" parent="336" relname="joint-list">找 吴组缃 交谈 ，</segment>
+		<segment id="170" parent="336" relname="joint-list">并 请 他 到 家中 作客 。</segment>
+		<segment id="171" parent="338" relname="context-background">吴组缃 以后 每天 下课 到 赵家 吃饭 ，</segment>
+		<segment id="172" parent="338" relname="span">赵元任 虚心 求教 安徽 方言 ，</segment>
+		<segment id="173" parent="172" relname="evaluation-comment">没有 老师 架子 。</segment>
+		<segment id="174" parent="341" relname="span">一 星期 后 ， 赵元任 就 掌握 了 吴 的 家乡 方言 。</segment>
+		<segment id="175" parent="342" relname="joint-list">赵元任 一 生 会 讲 33 种 汉语 方言 ，</segment>
+		<segment id="176" parent="347" relname="span">会 说 英 、 法 、 德 、 日 、 西班牙语 等 多 种 外语 。</segment>
+		<segment id="177" parent="343" relname="attribution-positive">他 自己 说 ：</segment>
+		<segment id="178" parent="343" relname="joint-list">“ 在 应用文 方面 ， 英文 、 德文 、 法文 没有 问题 。</segment>
+		<segment id="179" parent="343" relname="joint-list">至于 一般 用法 ， 则 日本 、 古 希腊 、 拉丁 、 俄罗斯 等 文字 都 不 成 问题 。 ”</segment>
+		<segment id="180" parent="346" relname="same-unit">具有 “ 录音机 的 耳朵 ” 和</segment>
+		<segment id="181" parent="182" relname="elaboration-attribute">学说 语言 的</segment>
+		<segment id="182" parent="345" relname="span">能力 。</segment>
+		<segment id="183" parent="394" relname="organization-heading">家庭</segment>
+		<segment id="184" parent="377" relname="organization-preparation">育有 四 个 女儿 ：</segment>
+		<segment id="185" parent="353" relname="span">长女</segment>
+		<segment id="186" parent="185" relname="elaboration-attribute">－ 赵如兰</segment>
+		<segment id="187" parent="353" relname="elaboration-attribute">（ Iris ， 1922年 4月 19日 — 2013年 11月 30日 ） ，</segment>
+		<segment id="188" parent="355" relname="same-unit">拉德克利夫 学院 中国 音乐 博士 ， 哈佛 大学 教授 ，</segment>
+		<segment id="189" parent="357" relname="span">其 夫婿 卞学𨱑</segment>
+		<segment id="190" parent="189" relname="elaboration-attribute">（ 1919年 1月 18日 — 2009年 6月 20日 ）</segment>
+		<segment id="191" parent="358" relname="same-unit">同 为 中央 研究院 院士 。</segment>
+		<segment id="192" parent="359" relname="span">次女</segment>
+		<segment id="193" parent="192" relname="elaboration-attribute">－ 赵新那</segment>
+		<segment id="194" parent="359" relname="elaboration-attribute">（ Nova ， 1923年 5月 14日 — 2020年 12月 22日 ） ，</segment>
+		<segment id="195" parent="361" relname="same-unit">哈佛 大学 化学系 ， 长沙 中南 矿冶 学院 教授 ，</segment>
+		<segment id="196" parent="363" relname="span">其 夫婿 黄培云</segment>
+		<segment id="197" parent="196" relname="elaboration-attribute">（ 1917年 8月 23日 — 2012年 2月 6日 ）</segment>
+		<segment id="198" parent="364" relname="same-unit">为 中国 工程院 院士 。</segment>
+		<segment id="199" parent="365" relname="span">三女</segment>
+		<segment id="200" parent="199" relname="elaboration-attribute">－ 赵来思</segment>
+		<segment id="201" parent="365" relname="elaboration-attribute">（ Lensey , 1929年 6月 14日 — ） ，</segment>
+		<segment id="202" parent="367" relname="same-unit">伯克利 加州 大学 数学 研究所 毕业 ，</segment>
+		<segment id="203" parent="368" relname="joint-list">出版 过 23 本 书 包括 一些 儿童 读物 ，</segment>
+		<segment id="204" parent="370" relname="span">其 夫婿 波冈维作</segment>
+		<segment id="205" parent="204" relname="elaboration-attribute">（ 1928年 4月 25日 — ）</segment>
+		<segment id="206" parent="371" relname="same-unit">为 华盛顿 大学 数学 教授 。</segment>
+		<segment id="207" parent="372" relname="span">四女</segment>
+		<segment id="208" parent="207" relname="elaboration-attribute">－ 赵小中</segment>
+		<segment id="209" parent="372" relname="elaboration-attribute">（ Bella ， 1931年 5月 24日 — ） ，</segment>
+		<segment id="210" parent="374" relname="same-unit">学 物理 ，</segment>
+		<segment id="211" parent="375" relname="joint-list">毕业于 康奈尔 大学 ，</segment>
+		<segment id="212" parent="375" relname="joint-list">任职于 马萨诸塞 理工 学院 ；</segment>
+		<segment id="213" parent="376" relname="joint-list">前夫 为 天文学家 邱宏义 。</segment>
+		<segment id="214" parent="378" relname="explanation-evidence">[ 15 ]</segment>
+		<segment id="215" parent="388" relname="organization-preparation">赵元任 惧内 一 事 后来 还 传到 蒋介石 的 耳中 。</segment>
+		<segment id="216" parent="217" relname="elaboration-attribute">民国 19 、 20年 ， 改制 为 国立 的</segment>
+		<segment id="217" parent="380" relname="span">清华 大学 学生 代表 先后 驱逐 了 罗家伦 、 吴南轩 两 位 校长 ，</segment>
+		<segment id="218" parent="219" relname="attribution-positive">国民 政府 决定</segment>
+		<segment id="219" parent="381" relname="span">“ 另选 贤能 ” ，</segment>
+		<segment id="220" parent="221" relname="attribution-positive">当时 便 有 人 提议</segment>
+		<segment id="221" parent="382" relname="span">聘请 赵元任 ，</segment>
+		<segment id="222" parent="391" relname="joint-list">蒋介石 本来 要 同意 ，</segment>
+		<segment id="223" parent="384" relname="same-unit">没 想到 吴稚晖 先生 一 句</segment>
+		<segment id="224" parent="383" relname="joint-list">“ 不如 圈定 杨步伟 女士 ，</segment>
+		<segment id="225" parent="383" relname="joint-list">反正 之后 终 要 归 她 管 ” 的</segment>
+		<segment id="226" parent="385" relname="span">戏言 ， 导致</segment>
+		<segment id="227" parent="384" relname="same-unit">蒋介石 也 知道</segment>
+		<segment id="228" parent="386" relname="span">他 惧内 ，</segment>
+		<segment id="229" parent="386" relname="causal-result">最后 另择 梅贻琦 担任 清华 大学 校长 。</segment>
+		<segment id="230" parent="389" relname="explanation-evidence">[ 16 ]</segment>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="2" relname="elaboration-attribute"/>
+		<group id="233" type="span" parent="234" relname="same-unit"/>
+		<group id="234" type="multinuc" parent="235" relname="joint-list"/>
+		<group id="235" type="multinuc" parent="301" relname="context-background"/>
+		<group id="236" type="span" parent="239" relname="span"/>
+		<group id="237" type="span" parent="238" relname="span"/>
+		<group id="238" type="span" parent="236" relname="explanation-evidence"/>
+		<group id="239" type="span" parent="235" relname="joint-list"/>
+		<group id="240" type="span" parent="235" relname="joint-list"/>
+		<group id="241" type="multinuc" parent="18" relname="explanation-evidence"/>
+		<group id="242" type="span" parent="235" relname="joint-list"/>
+		<group id="243" type="span" parent="301" relname="joint-other"/>
+		<group id="244" type="multinuc" parent="299" relname="joint-other"/>
+		<group id="245" type="multinuc" parent="25" relname="elaboration-additional"/>
+		<group id="246" type="span" parent="244" relname="joint-sequence"/>
+		<group id="247" type="span" parent="244" relname="joint-sequence"/>
+		<group id="248" type="span" parent="247" relname="span"/>
+		<group id="249" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="252" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="253" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="254" type="multinuc" parent="52" relname="restatement-partial"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="257" relname="joint-list"/>
+		<group id="257" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="258" type="span" parent="257" relname="joint-list"/>
+		<group id="259" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="260" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="261" type="multinuc" parent="262" relname="context-background"/>
+		<group id="262" type="multinuc" parent="266" relname="span"/>
+		<group id="263" type="span" parent="264" relname="same-unit"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="262" relname="joint-list"/>
+		<group id="266" type="span" parent="244" relname="joint-sequence"/>
+		<group id="267" type="multinuc" parent="269" relname="joint-list"/>
+		<group id="268" type="span" parent="267" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="272" relname="span"/>
+		<group id="270" type="span" parent="271" relname="same-unit"/>
+		<group id="271" type="multinuc" parent="269" relname="evaluation-comment"/>
+		<group id="272" type="span" parent="244" relname="joint-sequence"/>
+		<group id="273" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="274" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="275" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="276" type="span" parent="277" relname="same-unit"/>
+		<group id="277" type="multinuc" parent="275" relname="joint-list"/>
+		<group id="278" type="span" parent="284" relname="same-unit"/>
+		<group id="279" type="span" parent="284" relname="same-unit"/>
+		<group id="280" type="multinuc" parent="284" relname="same-unit"/>
+		<group id="281" type="multinuc" parent="282" relname="span"/>
+		<group id="282" type="span" parent="284" relname="same-unit"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="286" relname="joint-list"/>
+		<group id="285" type="span" parent="286" relname="joint-list"/>
+		<group id="286" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="287" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="288" type="multinuc" parent="244" relname="joint-sequence"/>
+		<group id="289" type="span" parent="291" relname="joint-list"/>
+		<group id="290" type="multinuc" parent="291" relname="joint-list"/>
+		<group id="291" type="multinuc" parent="299" relname="joint-other"/>
+		<group id="292" type="span" parent="291" relname="joint-list"/>
+		<group id="293" type="span" parent="294" relname="same-unit"/>
+		<group id="294" type="multinuc" parent="295" relname="span"/>
+		<group id="295" type="span" parent="297" relname="joint-list"/>
+		<group id="296" type="multinuc" parent="297" relname="joint-list"/>
+		<group id="297" type="multinuc" parent="291" relname="joint-list"/>
+		<group id="298" type="span" parent="297" relname="joint-list"/>
+		<group id="299" type="multinuc" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="joint-other"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" />
+		<group id="304" type="multinuc" parent="309" relname="joint-sequence"/>
+		<group id="305" type="multinuc" parent="309" relname="joint-sequence"/>
+		<group id="306" type="span" parent="305" relname="joint-list"/>
+		<group id="307" type="span" parent="305" relname="joint-list"/>
+		<group id="308" type="multinuc" parent="305" relname="joint-list"/>
+		<group id="309" type="multinuc" parent="351" relname="span"/>
+		<group id="310" type="multinuc" parent="313" relname="span"/>
+		<group id="311" type="span" parent="312" relname="same-unit"/>
+		<group id="312" type="multinuc" parent="310" relname="joint-list"/>
+		<group id="313" type="span" parent="309" relname="joint-sequence"/>
+		<group id="314" type="span" parent="315" relname="same-unit"/>
+		<group id="315" type="multinuc" parent="349" relname="attribution-positive"/>
+		<group id="316" type="span" parent="315" relname="same-unit"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="348" relname="span"/>
+		<group id="319" type="multinuc" parent="318" relname="explanation-evidence"/>
+		<group id="320" type="multinuc" parent="321" relname="span"/>
+		<group id="321" type="span" parent="158" relname="attribution-positive"/>
+		<group id="322" type="span" parent="326" relname="span"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="329" relname="span"/>
+		<group id="325" type="multinuc" parent="330" relname="adversative-contrast"/>
+		<group id="326" type="span" parent="328" relname="span"/>
+		<group id="327" type="span" parent="326" relname="context-background"/>
+		<group id="328" type="span" parent="331" relname="span"/>
+		<group id="329" type="span" parent="330" relname="adversative-contrast"/>
+		<group id="330" type="multinuc" parent="328" relname="elaboration-additional"/>
+		<group id="331" type="span" parent="319" relname="joint-list"/>
+		<group id="334" type="multinuc" parent="335" relname="span"/>
+		<group id="335" type="span" parent="340" relname="joint-sequence"/>
+		<group id="336" type="multinuc" parent="337" relname="span"/>
+		<group id="337" type="span" parent="340" relname="joint-sequence"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="340" relname="joint-sequence"/>
+		<group id="340" type="multinuc" parent="174" relname="causal-cause"/>
+		<group id="341" type="span" parent="309" relname="joint-sequence"/>
+		<group id="342" type="multinuc" parent="309" relname="evaluation-comment"/>
+		<group id="343" type="multinuc" parent="344" relname="span"/>
+		<group id="344" type="span" parent="176" relname="explanation-evidence"/>
+		<group id="345" type="span" parent="346" relname="same-unit"/>
+		<group id="346" type="multinuc" parent="342" relname="joint-list"/>
+		<group id="347" type="span" parent="342" relname="joint-list"/>
+		<group id="348" type="span" parent="349" relname="span"/>
+		<group id="349" type="span" parent="350" relname="span"/>
+		<group id="350" type="span" parent="309" relname="joint-sequence"/>
+		<group id="351" type="span" parent="352" relname="span"/>
+		<group id="352" type="span" parent="301" relname="joint-other"/>
+		<group id="353" type="span" parent="354" relname="span"/>
+		<group id="354" type="span" parent="355" relname="same-unit"/>
+		<group id="355" type="multinuc" parent="356" relname="joint-list"/>
+		<group id="356" type="multinuc" parent="377" relname="joint-list"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="356" relname="joint-list"/>
+		<group id="359" type="span" parent="360" relname="span"/>
+		<group id="360" type="span" parent="361" relname="same-unit"/>
+		<group id="361" type="multinuc" parent="362" relname="joint-list"/>
+		<group id="362" type="multinuc" parent="377" relname="joint-list"/>
+		<group id="363" type="span" parent="364" relname="same-unit"/>
+		<group id="364" type="multinuc" parent="362" relname="joint-list"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="368" relname="joint-list"/>
+		<group id="368" type="multinuc" parent="369" relname="joint-list"/>
+		<group id="369" type="multinuc" parent="377" relname="joint-list"/>
+		<group id="370" type="span" parent="371" relname="same-unit"/>
+		<group id="371" type="multinuc" parent="369" relname="joint-list"/>
+		<group id="372" type="span" parent="373" relname="span"/>
+		<group id="373" type="span" parent="374" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="375" relname="joint-list"/>
+		<group id="375" type="multinuc" parent="376" relname="joint-list"/>
+		<group id="376" type="multinuc" parent="377" relname="joint-list"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="379" relname="span"/>
+		<group id="379" type="span" parent="394" relname="joint-other"/>
+		<group id="380" type="span" parent="390" relname="joint-sequence"/>
+		<group id="381" type="span" parent="390" relname="joint-sequence"/>
+		<group id="382" type="span" parent="391" relname="joint-list"/>
+		<group id="383" type="multinuc" parent="226" relname="elaboration-attribute"/>
+		<group id="384" type="multinuc" parent="228" relname="attribution-positive"/>
+		<group id="385" type="span" parent="384" relname="same-unit"/>
+		<group id="386" type="span" parent="387" relname="span"/>
+		<group id="387" type="span" parent="389" relname="span"/>
+		<group id="388" type="span" parent="393" relname="span"/>
+		<group id="389" type="span" parent="388" relname="span"/>
+		<group id="390" type="multinuc" parent="391" relname="context-background"/>
+		<group id="391" type="multinuc" parent="392" relname="span"/>
+		<group id="392" type="span" parent="387" relname="adversative-concession"/>
+		<group id="393" type="span" parent="394" relname="joint-other"/>
+		<group id="394" type="multinuc" parent="395" relname="span"/>
+		<group id="395" type="span" parent="301" relname="joint-other"/>
+	</body>
+</rst>

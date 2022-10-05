@@ -1,0 +1,421 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="386" relname="organization-heading">香港 最新 失业率 创 十六 年 来 高位</segment>
+		<segment id="2" parent="385" relname="context-circumstance">【 2021年 1月 20日 讯 】</segment>
+		<segment id="3" parent="200" relname="same-unit">根据</segment>
+		<segment id="4" parent="197" relname="span">政府 统计处 今日</segment>
+		<segment id="5" parent="4" relname="restatement-partial">（ 1月 19日 ）</segment>
+		<segment id="6" parent="198" relname="same-unit">发表 的</segment>
+		<segment id="7" parent="201" relname="span">最新 劳动 人口 统计 数码</segment>
+		<segment id="8" parent="201" relname="elaboration-attribute">（ 即 2020年 10月 至 12月 的 临时 数字 ） ，</segment>
+		<segment id="9" parent="10" relname="elaboration-attribute">经 季节性 调整 的</segment>
+		<segment id="10" parent="202" relname="span">失业率 由 2020年 9月 至 11月 的 6.3% 上升 至 2020年 10月 至 12月 的 6.6% 。</segment>
+		<segment id="11" parent="204" relname="span">就业 不足率 在 该 两 段 期间 则 保持 不 变 ，</segment>
+		<segment id="12" parent="11" relname="elaboration-additional">维持 于 3.4% 的 水平 。</segment>
+		<segment id="13" parent="206" relname="contingency-condition">“ 与 二零二零年 九月 至 十一月 比较 ，</segment>
+		<segment id="14" parent="205" relname="span">在 二零二零年 十月 至 十二月 期间 ， 大多数 主要 经济 行业 的 失业率</segment>
+		<segment id="15" parent="14" relname="contingency-condition">（ 不 经 季节性 调整 ）</segment>
+		<segment id="16" parent="206" relname="same-unit">均 见 上升 ，</segment>
+		<segment id="17" parent="207" relname="elaboration-additional">其中 零售 、 住宿 及 膳食 服务业 有 相对 明显 的 上升 。</segment>
+		<segment id="18" parent="209" relname="adversative-contrast">就业 不足率 方面 ， 下跌 主要 见于 货仓 及 运输 辅助 活动业 ，</segment>
+		<segment id="19" parent="209" relname="adversative-contrast">而 上升 主要 见于 零售业 。</segment>
+		<segment id="20" parent="210" relname="span">总 就业 人数 由 二零二零年 九月 至 十一月 的 3650100 人 ， 下跌 至 二零二零年 十月 至 十二月 的 3647700 人 ，</segment>
+		<segment id="21" parent="20" relname="restatement-partial">减少 约 2400 人 。</segment>
+		<segment id="22" parent="213" relname="span">二零二零年 十月 至 十二月 的 总 劳动 人口 为 3893400 人 ，</segment>
+		<segment id="23" parent="211" relname="span">与 二零二零年 九月 至 十一月 的 数码</segment>
+		<segment id="24" parent="23" relname="elaboration-attribute">（ 3894400 人 ）</segment>
+		<segment id="25" parent="212" relname="same-unit">大致 相若 。</segment>
+		<segment id="26" parent="214" relname="span">失业 人数</segment>
+		<segment id="27" parent="26" relname="contingency-condition">（ 不 经 季节性 调整 ）</segment>
+		<segment id="28" parent="215" relname="same-unit">由 二零二零年 九月 至 十一月 的 244300 人 上升 至 二零二零年 十月 至 十二月 的 245800 人 ，</segment>
+		<segment id="29" parent="215" relname="restatement-partial">增加 约 1500 人 。</segment>
+		<segment id="30" parent="217" relname="span">同期 的 就业 不足 人数 亦 由 133100 人 上升 至 133800 人 ，</segment>
+		<segment id="31" parent="30" relname="restatement-partial">增加 约 700 人 。 ”</segment>
+		<segment id="32" parent="220" relname="attribution-positive">—— 新闻 稿 上 写道</segment>
+		<segment id="33" parent="223" relname="same-unit">劳工 及 福利局 局长 罗致光</segment>
+		<segment id="34" parent="35" relname="context-circumstance">评论 最新 失业 数字 时</segment>
+		<segment id="35" parent="222" relname="span">表示 ，</segment>
+		<segment id="36" parent="37" relname="causal-cause">香港 第四 波 疫情 在 11月 后期 开始 爆发 ，</segment>
+		<segment id="37" parent="224" relname="span">导致 劳工 市场 再度 恶化 。</segment>
+		<segment id="38" parent="39" relname="elaboration-attribute">经 季节性 调整 的</segment>
+		<segment id="39" parent="226" relname="span">失业率 在 2020年 10月 至 十12月 较 2020年 9月 至 11月 上升 0.3 个 百分点 至 6.6% ，</segment>
+		<segment id="40" parent="226" relname="evaluation-comment">为 16 年 来 的 高位 ，</segment>
+		<segment id="41" parent="228" relname="joint-list">就业 不足率 则 维持 于 3.4% 不 变 。</segment>
+		<segment id="42" parent="228" relname="joint-list">同时 ， 总 就业 人数 较 上 一 个 期间 微跌 0.1% 至 3647700 人 ，</segment>
+		<segment id="43" parent="228" relname="joint-list">失业 人数 增加 0.6% 至 245800 人 。</segment>
+		<segment id="44" parent="231" relname="context-background">按 行业 分析 ，</segment>
+		<segment id="45" parent="229" relname="span">与 消费 及 旅游 相关 行业</segment>
+		<segment id="46" parent="45" relname="elaboration-attribute">（ 即 零售 、 住宿 及 膳食 服务业 ）</segment>
+		<segment id="47" parent="230" relname="same-unit">合计 的</segment>
+		<segment id="48" parent="231" relname="span">失业率 在 2020年 10月 至 12月 较 2020年 9月 至 11月 回升 0.5 个 百分点 至 10.6% 。</segment>
+		<segment id="49" parent="233" relname="joint-list">其中 ， 餐饮 服务 活动业 的 失业率 升 至 13.8% 。</segment>
+		<segment id="50" parent="233" relname="joint-list">多 个 其他 行业 的 失业率 亦 上升 。</segment>
+		<segment id="51" parent="52" relname="context-background">展望 未来 ，</segment>
+		<segment id="52" parent="234" relname="span">罗致光 说 ，</segment>
+		<segment id="53" parent="235" relname="joint-list">由于 本地 第四 波 疫情 继续 影响 本地 消费 气氛</segment>
+		<segment id="54" parent="235" relname="joint-list">及 干扰 经济 活动 ，</segment>
+		<segment id="55" parent="236" relname="span">劳工 市场 在 短期 内 仍 将 显著 受压 。</segment>
+		<segment id="56" parent="242" relname="attribution-positive">称</segment>
+		<segment id="57" parent="238" relname="span">政府 最近 已 推出 针对性 措施 ，</segment>
+		<segment id="58" parent="240" relname="same-unit">为</segment>
+		<segment id="59" parent="60" relname="elaboration-attribute">受 重创 的</segment>
+		<segment id="60" parent="239" relname="span">行业 提供 进一步 支援 ，</segment>
+		<segment id="61" parent="242" relname="joint-list">将 继续 密切 留意 相关 情况 。</segment>
+		<segment id="62" parent="251" relname="organization-phatic">“ 大家 知道 ，</segment>
+		<segment id="63" parent="248" relname="same-unit">政府 刚刚 公布</segment>
+		<segment id="64" parent="65" relname="elaboration-attribute">二零二零年 十月 至 十二月 的 三 个 月 经 季节性 调整 的</segment>
+		<segment id="65" parent="247" relname="span">失业率 ，</segment>
+		<segment id="66" parent="250" relname="same-unit">由 二零二零年 九月 至 十一月</segment>
+		<segment id="67" parent="68" relname="elaboration-attribute">经 季节性 调整 的</segment>
+		<segment id="68" parent="249" relname="span">失业率 6.3% ， 上升 至 6.6% 。</segment>
+		<segment id="69" parent="253" relname="span">当然 ， 我 想 在 此 与 大家 先 谈 一 个 稍为 技术 的 问题 ，</segment>
+		<segment id="70" parent="69" relname="purpose-goal">让 大家 明白 有关 数字 。</segment>
+		<segment id="71" parent="256" relname="organization-phatic">大家 知道 ，</segment>
+		<segment id="72" parent="254" relname="joint-list">因为 十二月 正值 第四 波 疫情 的 高峰期 ，</segment>
+		<segment id="73" parent="254" relname="joint-list">加上 ‘ 保 就业 ’ 计划 结束 ，</segment>
+		<segment id="74" parent="254" relname="joint-list">失业率 上升 ，</segment>
+		<segment id="75" parent="76" relname="attribution-positive">我 相信</segment>
+		<segment id="76" parent="255" relname="span">是 大家 预期 之内 。</segment>
+		<segment id="77" parent="261" relname="attribution-positive">不过 在 技术 上 希望</segment>
+		<segment id="78" parent="260" relname="attribution-positive">大家 明白 ，</segment>
+		<segment id="79" parent="80" relname="elaboration-attribute">刚才 说 的</segment>
+		<segment id="80" parent="258" relname="span">数字 是</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">经 季节性 调整 的</segment>
+		<segment id="82" parent="259" relname="span">数字 。</segment>
+		<segment id="83" parent="84" relname="causal-cause">过往而言 ， 历年 十二月 香港 的 经济 一般 比较 旺盛 ，</segment>
+		<segment id="84" parent="263" relname="span">所以 失业率 在 十二月 有 机会 向下 调整 ；</segment>
+		<segment id="85" parent="267" relname="same-unit">所以 相反而言 ， 当 今 次 十二月</segment>
+		<segment id="86" parent="87" relname="causal-cause">因 疫情 关系 、</segment>
+		<segment id="87" parent="264" relname="span">‘ 保 就业 ’ 计划 结束 ，</segment>
+		<segment id="88" parent="265" relname="contingency-condition">当 失业率 上升 ，</segment>
+		<segment id="89" parent="90" relname="evaluation-comment">经 季节性 调整 的</segment>
+		<segment id="90" parent="265" relname="span">失业率 会 较 实际 情况 大 。</segment>
+		<segment id="91" parent="287" relname="joint-list">因为 季节性 调整 是 以 过往 的 趋势 调整 月份 的 偏差</segment>
+		<segment id="92" parent="287" relname="joint-list">而 不 会 出现 太 大 波幅 ，</segment>
+		<segment id="93" parent="270" relname="context-background">但 今 次 十二月 与 过往 的 十二月 有 明显 差距 ，</segment>
+		<segment id="94" parent="95" relname="context-circumstance">故 经 季节性 调整 后</segment>
+		<segment id="95" parent="270" relname="span">就 会 出现 较大 差异 。</segment>
+		<segment id="96" parent="97" relname="contingency-condition">所以 如果 大家 留意 公布 的 数字 ，</segment>
+		<segment id="97" parent="272" relname="span">另 一 个 数字 是 二零二零年 十月 至 十二月 的 平均 失业 人数 升 了 1500 人 ，</segment>
+		<segment id="98" parent="99" relname="organization-preparation">等于 什么 数字 ？</segment>
+		<segment id="99" parent="273" relname="span">即 等于 就业 人口 的 约 0.04% ，</segment>
+		<segment id="100" parent="275" relname="same-unit">但</segment>
+		<segment id="101" parent="102" relname="elaboration-attribute">经 季节性 调整 的</segment>
+		<segment id="102" parent="274" relname="span">失业率 则 升 了 0.3 个 百分点 ，</segment>
+		<segment id="103" parent="277" relname="evaluation-comment">这 是 一 个 很 明显 的 差距 。</segment>
+		<segment id="104" parent="279" relname="attribution-positive">希望</segment>
+		<segment id="105" parent="106" relname="attribution-positive">大家 明白</segment>
+		<segment id="106" parent="279" relname="span">如何 理解 这些 数字 ，</segment>
+		<segment id="107" parent="108" relname="causal-cause">就 是 基于 技术 上 经 季节性 调整 ，</segment>
+		<segment id="108" parent="281" relname="span">以致 一 个 明显 的 增幅 ，</segment>
+		<segment id="109" parent="282" relname="span">而 偏离 实际 失业 人数 的 增加 ，</segment>
+		<segment id="110" parent="282" relname="elaboration-attribute">即 仅 1500 人 这 个 数字 。 ”</segment>
+		<segment id="111" parent="296" relname="attribution-positive">—— 罗致光</segment>
+		<segment id="112" parent="308" relname="attribution-positive">罗致光 称 ：</segment>
+		<segment id="113" parent="308" relname="span">“ 创造 就业 方面 ， 政府 已 开设 约 30000 个 临时 职位 。</segment>
+		<segment id="114" parent="303" relname="organization-preparation">可以 给 大家 知道 一些 最新 数字 ，</segment>
+		<segment id="115" parent="298" relname="joint-list">大约 半数 在 政府 中 ，</segment>
+		<segment id="116" parent="298" relname="joint-list">另外 半数 则 在 非 政府 机构 。</segment>
+		<segment id="117" parent="300" relname="joint-list">截至 去年 十二月 底 ， 超过 14000 人 已 入职 ，</segment>
+		<segment id="118" parent="305" relname="joint-list">余下 17000 个 职位 中 ， 大 部分 在 招聘 中 ，</segment>
+		<segment id="119" parent="305" relname="joint-list">部分 则 快 进行 有关 招聘 工作 ，</segment>
+		<segment id="120" parent="302" relname="same-unit">即</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">暂时 政府 建立 的</segment>
+		<segment id="122" parent="301" relname="span">临时 职位 有 17000 个 尚 待 招聘 。 ”</segment>
+		<segment id="123" parent="311" relname="same-unit">罗致光</segment>
+		<segment id="124" parent="125" relname="context-circumstance">在 记者会 回答 问题</segment>
+		<segment id="125" parent="310" relname="span">指 ，</segment>
+		<segment id="126" parent="312" relname="span">对于 未来 一 、 两 个 月 的 失业 情况 也 不 乐观 。</segment>
+		<segment id="127" parent="318" relname="attribution-positive">他 提到</segment>
+		<segment id="128" parent="129" relname="context-circumstance">较早前 接受 电视台 节目 采访 时</segment>
+		<segment id="129" parent="313" relname="span">说</segment>
+		<segment id="130" parent="131" relname="elaboration-attribute">“ 二元 优惠 计划 可能 要 调高 金额 至 三元 ” 的</segment>
+		<segment id="131" parent="314" relname="span">讲法 ，</segment>
+		<segment id="132" parent="133" relname="attribution-positive">称</segment>
+		<segment id="133" parent="316" relname="span">这 不 是 政府 的 立场 ，</segment>
+		<segment id="134" parent="135" relname="attribution-positive">希望</segment>
+		<segment id="135" parent="317" relname="span">不 要 引起 一些 不 必要 的 误会 。</segment>
+		<segment id="136" parent="137" relname="attribution-positive">不少 政党 建议</segment>
+		<segment id="137" parent="320" relname="span">政府 推出 失业 援助金 。</segment>
+		<segment id="138" parent="329" relname="attribution-positive">行政 长官 林郑月娥 表示 ，</segment>
+		<segment id="139" parent="328" relname="causal-cause">该 建议 难以 落实 ，</segment>
+		<segment id="140" parent="324" relname="same-unit">她 正 与 劳工 及 福利局 研究</segment>
+		<segment id="141" parent="321" relname="span">放宽 在职 家庭 津贴</segment>
+		<segment id="142" parent="141" relname="restatement-partial">（ 职津 ）</segment>
+		<segment id="143" parent="322" relname="same-unit">的</segment>
+		<segment id="144" parent="323" relname="span">申请 门槛 ，</segment>
+		<segment id="145" parent="327" relname="same-unit">让</segment>
+		<segment id="146" parent="325" relname="joint-list">只能 做 散工 、</segment>
+		<segment id="147" parent="325" relname="joint-list">工作 时数 不 多 的</segment>
+		<segment id="148" parent="326" relname="span">市民 可以 申请 。</segment>
+		<segment id="149" parent="331" relname="attribution-positive">林郑 指 ，</segment>
+		<segment id="150" parent="331" relname="joint-list">失业 援助 涉及 大量 公帑 ，</segment>
+		<segment id="151" parent="331" relname="joint-list">政府 对 这 个 建议 的 态度 是 一贯 的 。</segment>
+		<segment id="152" parent="333" relname="attribution-positive">她 表示 ，</segment>
+		<segment id="153" parent="333" relname="span">政府 有 很多 计划</segment>
+		<segment id="154" parent="153" relname="purpose-attribute">帮助 失业 或 就业 不足 的 人 。</segment>
+		<segment id="155" parent="335" relname="attribution-positive">她 表示 ，</segment>
+		<segment id="156" parent="335" relname="joint-list">会 继续 创造 就业 机会 ，</segment>
+		<segment id="157" parent="335" relname="joint-list">研究 减少 职津 工作 时间 。</segment>
+		<segment id="158" parent="339" relname="organization-preparation">目前 ， 职津 的 要求 分为 三 个 等级 。</segment>
+		<segment id="159" parent="337" relname="span">对于 非 单亲 家庭 ， 可 申请 基本 津贴 ，</segment>
+		<segment id="160" parent="159" relname="elaboration-attribute">每 月 至少 工作 144 小时 ；</segment>
+		<segment id="161" parent="338" relname="joint-list">单亲 家庭 至少 需要 36 小时 。</segment>
+		<segment id="162" parent="339" relname="joint-list">补贴 金额 从 500 元 到 1400 港元 不等 。</segment>
+		<segment id="163" parent="164" relname="attribution-positive">劳动 保障局 局长 罗致光 表示 ，</segment>
+		<segment id="164" parent="341" relname="span">职津 的 设计 特点 是 “ 多 劳 多 得 ” 。</segment>
+		<segment id="165" parent="342" relname="joint-list">疫情 期间 ， 部分 市民 就业 不足 ，</segment>
+		<segment id="166" parent="342" relname="joint-list">收入 减少 ，</segment>
+		<segment id="167" parent="342" relname="joint-list">同时 失去 高额 补贴 。</segment>
+		<segment id="168" parent="345" relname="attribution-positive">罗致光 还 提到 ，</segment>
+		<segment id="169" parent="344" relname="adversative-concession">有 一些 工种 的 月薪 超过 了 职津 收入 上限 ，</segment>
+		<segment id="170" parent="344" relname="same-unit">但</segment>
+		<segment id="171" parent="172" relname="context-circumstance">当 没有 开工 时 ，</segment>
+		<segment id="172" parent="343" relname="span">就 无法 满足 职津 的 要求 。</segment>
+		<segment id="173" parent="351" relname="attribution-positive">他 表示 ，</segment>
+		<segment id="174" parent="175" relname="attribution-positive">政府 正在 探讨</segment>
+		<segment id="175" parent="347" relname="span">如何 处理 ，</segment>
+		<segment id="176" parent="177" relname="contingency-condition">待 构思 成熟 后</segment>
+		<segment id="177" parent="348" relname="span">会 公布 方案 。</segment>
+		<segment id="178" parent="349" relname="span">社会 福利署 同日</segment>
+		<segment id="179" parent="178" relname="elaboration-attribute">（ 19日 ）</segment>
+		<segment id="180" parent="350" relname="same-unit">发表 最新 的 领取 综援 个案 数字 。</segment>
+		<segment id="181" parent="182" relname="elaboration-attribute">2020年 12月份 整体 领取 综援 的</segment>
+		<segment id="182" parent="353" relname="span">个案 较 11月份 增加 476 宗 ，</segment>
+		<segment id="183" parent="354" relname="joint-list">按 月 升幅 为 0.2% 。</segment>
+		<segment id="184" parent="355" relname="same-unit">罗致光</segment>
+		<segment id="185" parent="186" relname="context-background">亦 就 法定 假日 数量 逐渐 增加</segment>
+		<segment id="186" parent="356" relname="span">称 ：</segment>
+		<segment id="187" parent="358" relname="attribution-positive">“ 我们 认为</segment>
+		<segment id="188" parent="358" relname="same-unit">一定 可以 解决 十多 年 来</segment>
+		<segment id="189" parent="190" relname="elaboration-attribute">关于 法定 假日 与 公众 假期 接轨 的</segment>
+		<segment id="190" parent="357" relname="span">矛盾 或 争议 案 。</segment>
+		<segment id="191" parent="192" relname="context-circumstance">会 在 咨询 人力 事务 委员会 后 ，</segment>
+		<segment id="192" parent="360" relname="span">进行 立法 程序 。</segment>
+		<segment id="193" parent="194" relname="context-circumstance">当 我们 完成 内部 程序 后 ，</segment>
+		<segment id="194" parent="361" relname="span">我们 会 向 立法会 提交 条例 草案 。 ”</segment>
+		<segment id="195" parent="196" relname="elaboration-attribute">载列 最新 劳工 统计 数字 的</segment>
+		<segment id="196" parent="362" relname="span">统计表 可 于 政府 统计处 网站 下载 。</segment>
+		<group id="197" type="span" parent="198" relname="same-unit"/>
+		<group id="198" type="multinuc" parent="7" relname="elaboration-attribute"/>
+		<group id="199" type="span" parent="200" relname="same-unit"/>
+		<group id="200" type="multinuc" parent="202" relname="attribution-positive"/>
+		<group id="201" type="span" parent="199" relname="span"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="290" relname="joint-list"/>
+		<group id="204" type="span" parent="290" relname="joint-list"/>
+		<group id="205" type="span" parent="206" relname="same-unit"/>
+		<group id="206" type="multinuc" parent="207" relname="span"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="219" relname="joint-list"/>
+		<group id="209" type="multinuc" parent="219" relname="joint-list"/>
+		<group id="210" type="span" parent="218" relname="joint-list"/>
+		<group id="211" type="span" parent="212" relname="same-unit"/>
+		<group id="212" type="multinuc" parent="22" relname="elaboration-additional"/>
+		<group id="213" type="span" parent="218" relname="joint-list"/>
+		<group id="214" type="span" parent="215" relname="same-unit"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="218" relname="joint-list"/>
+		<group id="217" type="span" parent="218" relname="joint-list"/>
+		<group id="218" type="multinuc" parent="219" relname="explanation-evidence"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="290" relname="explanation-evidence"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="223" type="multinuc" parent="224" relname="attribution-positive"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="244" relname="span"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="joint-list"/>
+		<group id="228" type="multinuc" parent="225" relname="explanation-evidence"/>
+		<group id="229" type="span" parent="230" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="48" relname="elaboration-attribute"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="243" relname="span"/>
+		<group id="233" type="multinuc" parent="232" relname="elaboration-additional"/>
+		<group id="234" type="span" parent="236" relname="attribution-positive"/>
+		<group id="235" type="multinuc" parent="55" relname="causal-cause"/>
+		<group id="236" type="span" parent="237" relname="span"/>
+		<group id="237" type="span" parent="246" relname="joint-other"/>
+		<group id="238" type="span" parent="242" relname="joint-list"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="57" relname="purpose-goal"/>
+		<group id="241" type="span" parent="246" relname="joint-other"/>
+		<group id="242" type="multinuc" parent="241" relname="span"/>
+		<group id="243" type="span" parent="244" relname="elaboration-additional"/>
+		<group id="244" type="span" parent="368" relname="span"/>
+		<group id="246" type="multinuc" parent="370" relname="span"/>
+		<group id="247" type="span" parent="248" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="251" relname="span"/>
+		<group id="249" type="span" parent="250" relname="same-unit"/>
+		<group id="250" type="multinuc" parent="248" relname="elaboration-additional"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" parent="295" relname="context-background"/>
+		<group id="253" type="span" parent="293" relname="organization-preparation"/>
+		<group id="254" type="multinuc" parent="255" relname="causal-cause"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="285" relname="adversative-contrast"/>
+		<group id="258" type="span" parent="260" relname="same-unit"/>
+		<group id="259" type="span" parent="260" relname="same-unit"/>
+		<group id="260" type="multinuc" parent="261" relname="span"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="285" relname="adversative-contrast"/>
+		<group id="263" type="span" parent="286" relname="adversative-contrast"/>
+		<group id="264" type="span" parent="267" relname="same-unit"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="268" relname="span"/>
+		<group id="267" type="multinuc" parent="266" relname="context-circumstance"/>
+		<group id="268" type="span" parent="286" relname="adversative-contrast"/>
+		<group id="270" type="span" parent="288" relname="span"/>
+		<group id="272" type="span" parent="276" relname="span"/>
+		<group id="273" type="span" parent="272" relname="elaboration-additional"/>
+		<group id="274" type="span" parent="275" relname="same-unit"/>
+		<group id="275" type="multinuc" parent="277" relname="adversative-contrast"/>
+		<group id="276" type="span" parent="277" relname="adversative-contrast"/>
+		<group id="277" type="multinuc" parent="278" relname="span"/>
+		<group id="278" type="span" parent="293" relname="joint-list"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="283" relname="organization-preparation"/>
+		<group id="281" type="span" parent="109" relname="causal-cause"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="294" relname="elaboration-additional"/>
+		<group id="285" type="multinuc" parent="291" relname="adversative-contrast"/>
+		<group id="286" type="multinuc" parent="291" relname="adversative-contrast"/>
+		<group id="287" type="multinuc" parent="289" relname="adversative-contrast"/>
+		<group id="288" type="span" parent="289" relname="adversative-contrast"/>
+		<group id="289" type="multinuc" parent="292" relname="span"/>
+		<group id="290" type="multinuc" parent="367" relname="span"/>
+		<group id="291" type="multinuc" parent="289" relname="explanation-evidence"/>
+		<group id="292" type="span" parent="293" relname="joint-list"/>
+		<group id="293" type="multinuc" parent="294" relname="span"/>
+		<group id="294" type="span" parent="295" relname="span"/>
+		<group id="295" type="span" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="369" relname="joint-other"/>
+		<group id="298" type="multinuc" parent="303" relname="joint-list"/>
+		<group id="300" type="multinuc" parent="303" relname="joint-list"/>
+		<group id="301" type="span" parent="302" relname="same-unit"/>
+		<group id="302" type="multinuc" parent="305" relname="restatement-partial"/>
+		<group id="303" type="multinuc" parent="307" relname="span"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="300" relname="joint-list"/>
+		<group id="307" type="span" parent="113" relname="explanation-evidence"/>
+		<group id="308" type="span" parent="309" relname="span"/>
+		<group id="309" type="span" parent="369" relname="joint-other"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="126" relname="attribution-positive"/>
+		<group id="312" type="span" parent="371" relname="span"/>
+		<group id="313" type="span" parent="315" relname="same-unit"/>
+		<group id="314" type="span" parent="315" relname="same-unit"/>
+		<group id="315" type="multinuc" parent="318" relname="joint-list"/>
+		<group id="316" type="span" parent="318" relname="joint-list"/>
+		<group id="317" type="span" parent="318" relname="joint-list"/>
+		<group id="318" type="multinuc" parent="319" relname="span"/>
+		<group id="319" type="span" parent="312" relname="explanation-justify"/>
+		<group id="320" type="span" parent="381" relname="adversative-concession"/>
+		<group id="321" type="span" parent="322" relname="same-unit"/>
+		<group id="322" type="multinuc" parent="144" relname="elaboration-attribute"/>
+		<group id="323" type="span" parent="324" relname="same-unit"/>
+		<group id="324" type="multinuc" parent="328" relname="span"/>
+		<group id="325" type="multinuc" parent="148" relname="elaboration-attribute"/>
+		<group id="326" type="span" parent="327" relname="same-unit"/>
+		<group id="327" type="multinuc" parent="324" relname="purpose-goal"/>
+		<group id="328" type="span" parent="329" relname="span"/>
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="376" relname="joint-other"/>
+		<group id="331" type="multinuc" parent="332" relname="span"/>
+		<group id="332" type="span" parent="374" relname="span"/>
+		<group id="333" type="span" parent="334" relname="span"/>
+		<group id="334" type="span" parent="373" relname="joint-list"/>
+		<group id="335" type="multinuc" parent="336" relname="span"/>
+		<group id="336" type="span" parent="375" relname="span"/>
+		<group id="337" type="span" parent="338" relname="joint-list"/>
+		<group id="338" type="multinuc" parent="339" relname="joint-list"/>
+		<group id="339" type="multinuc" parent="340" relname="span"/>
+		<group id="340" type="span" parent="336" relname="context-background"/>
+		<group id="341" type="span" parent="380" relname="span"/>
+		<group id="342" type="multinuc" parent="378" relname="joint-other"/>
+		<group id="343" type="span" parent="344" relname="same-unit"/>
+		<group id="344" type="multinuc" parent="345" relname="span"/>
+		<group id="345" type="span" parent="346" relname="span"/>
+		<group id="346" type="span" parent="378" relname="joint-other"/>
+		<group id="347" type="span" parent="351" relname="joint-sequence"/>
+		<group id="348" type="span" parent="351" relname="joint-sequence"/>
+		<group id="349" type="span" parent="350" relname="same-unit"/>
+		<group id="350" type="multinuc" parent="354" relname="organization-preparation"/>
+		<group id="351" type="multinuc" parent="352" relname="span"/>
+		<group id="352" type="span" parent="379" relname="span"/>
+		<group id="353" type="span" parent="354" relname="joint-list"/>
+		<group id="354" type="multinuc" parent="366" relname="span"/>
+		<group id="355" type="multinuc" parent="364" relname="attribution-positive"/>
+		<group id="356" type="span" parent="355" relname="same-unit"/>
+		<group id="357" type="span" parent="358" relname="same-unit"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="359" type="span" parent="364" relname="span"/>
+		<group id="360" type="span" parent="363" relname="joint-sequence"/>
+		<group id="361" type="span" parent="363" relname="joint-sequence"/>
+		<group id="362" type="span" parent="384" relname="elaboration-additional"/>
+		<group id="363" type="multinuc" parent="359" relname="mode-manner"/>
+		<group id="364" type="span" parent="365" relname="span"/>
+		<group id="365" type="span" parent="383" relname="joint-other"/>
+		<group id="366" type="span" parent="377" relname="explanation-evidence"/>
+		<group id="367" type="span" parent="384" relname="span"/>
+		<group id="368" type="span" parent="383" relname="joint-other"/>
+		<group id="369" type="multinuc" parent="246" relname="explanation-evidence"/>
+		<group id="370" type="span" parent="383" relname="joint-other"/>
+		<group id="371" type="span" parent="369" relname="joint-other"/>
+		<group id="373" type="multinuc" parent="332" relname="explanation-evidence"/>
+		<group id="374" type="span" parent="376" relname="joint-other"/>
+		<group id="375" type="span" parent="373" relname="joint-list"/>
+		<group id="376" type="multinuc" parent="377" relname="joint-other"/>
+		<group id="377" type="multinuc" parent="381" relname="span"/>
+		<group id="378" type="multinuc" parent="341" relname="explanation-evidence"/>
+		<group id="379" type="span" parent="377" relname="joint-other"/>
+		<group id="380" type="span" parent="352" relname="context-background"/>
+		<group id="381" type="span" parent="382" relname="span"/>
+		<group id="382" type="span" parent="383" relname="joint-other"/>
+		<group id="383" type="multinuc" parent="367" relname="evaluation-comment"/>
+		<group id="384" type="span" parent="385" relname="span"/>
+		<group id="385" type="span" parent="386" relname="span"/>
+		<group id="386" type="span" parent="387" relname="span"/>
+		<group id="387" type="span" />
+	</body>
+</rst>
