@@ -8,13 +8,13 @@ random.seed(666)
 
 en_rstdt_test_samples_list = open("../../data/en-rstdt-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
 en_gum_test_samples_list = open("../../data/en-gum-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
-zh_gum_test_samples_list = open("../../data/zh-gcdt-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
+zh_gcdt_test_samples_list = open("../../data/zh-gcdt-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
 bi_gum_test_samples_list = open("../../data/bi-gum-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
 fivebi_gum_test_samples_list = open("../../data/fivebi-gum-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
 fiveen_gum_test_samples_list = open("../../data/fiveen-gum-test-list.txt", "r", encoding="utf8").read().strip().split("\n")
 en_rstdt_dev_samples_list = open("../../data/en-rstdt-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
 en_gum_dev_samples_list = open("../../data/en-gum-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
-zh_gum_dev_samples_list = open("../../data/zh-gcdt-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
+zh_gcdt_dev_samples_list = open("../../data/zh-gcdt-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
 bi_gum_dev_samples_list = open("../../data/bi-gum-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
 fivebi_gum_dev_samples_list = open("../../data/fivebi-gum-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
 fiveen_gum_dev_samples_list = open("../../data/fiveen-gum-dev-list.txt", "r", encoding="utf8").read().strip().split("\n")
@@ -40,8 +40,8 @@ def find_english_dev_test(FileNames, language):
         test_samples_list = en_gum_test_samples_list
         dev_samples_list = en_gum_dev_samples_list
     elif language.startswith("zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
     elif language.startswith("bi-gum"):
         test_samples_list = bi_gum_test_samples_list
         dev_samples_list = bi_gum_dev_samples_list
@@ -51,18 +51,18 @@ def find_english_dev_test(FileNames, language):
     elif language.startswith("outbi2en-gum"):
         test_samples_list = en_gum_test_samples_list
         dev_samples_list = en_gum_dev_samples_list
-        leave_out_indexs = zh_gum_test_samples_list
+        leave_out_indexs = zh_gcdt_test_samples_list
     elif language.startswith("outbi2zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
         leave_out_indexs = en_gum_test_samples_list
     elif language.startswith("outfivebi2en-gum"):
         test_samples_list = fiveen_gum_test_samples_list
         dev_samples_list = fiveen_gum_dev_samples_list
-        leave_out_indexs = zh_gum_test_samples_list
+        leave_out_indexs = zh_gcdt_test_samples_list
     elif language.startswith("outfivebi2zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
         leave_out_indexs = fiveen_gum_test_samples_list
     elif language.startswith("outtwelve2fiveen-gum"):
         test_samples_list = fiveen_gum_test_samples_list
@@ -74,34 +74,34 @@ def find_english_dev_test(FileNames, language):
     elif language.startswith("fivebitransen2en-gum"):
         test_samples_list = fiveen_gum_test_samples_list
         dev_samples_list = fiveen_gum_dev_samples_list
-        leave_out_indexs = zh_gum_test_samples_list
+        leave_out_indexs = zh_gcdt_test_samples_list
     elif language.startswith("fivebitransen2zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
         leave_out_indexs = fiveen_gum_test_samples_list
     elif language.startswith("bitransen2en-gum"):
         test_samples_list = en_gum_test_samples_list
         dev_samples_list = en_gum_dev_samples_list
-        leave_out_indexs = zh_gum_test_samples_list
+        leave_out_indexs = zh_gcdt_test_samples_list
     elif language.startswith("bitransen2zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
         leave_out_indexs = en_gum_test_samples_list
     elif language.startswith("fivebitranszh2en-gum"):
         test_samples_list = fiveen_gum_test_samples_list
         dev_samples_list = fiveen_gum_dev_samples_list
-        leave_out_indexs = zh_gum_test_samples_list
+        leave_out_indexs = zh_gcdt_test_samples_list
     elif language.startswith("fivebitranszh2zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
         leave_out_indexs = fiveen_gum_test_samples_list
     elif language.startswith("bitranszh2en-gum"):
         test_samples_list = en_gum_test_samples_list
         dev_samples_list = en_gum_dev_samples_list
-        leave_out_indexs = zh_gum_test_samples_list
+        leave_out_indexs = zh_gcdt_test_samples_list
     elif language.startswith("bitranszh2zh-gcdt"):
-        test_samples_list = zh_gum_test_samples_list
-        dev_samples_list = zh_gum_dev_samples_list
+        test_samples_list = zh_gcdt_test_samples_list
+        dev_samples_list = zh_gcdt_dev_samples_list
         leave_out_indexs = en_gum_test_samples_list
     else:
         assert False

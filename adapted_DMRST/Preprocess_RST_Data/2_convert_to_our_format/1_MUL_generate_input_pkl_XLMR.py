@@ -253,7 +253,7 @@ if __name__ == '__main__':
 
 
     is_sentence_level = False
-    subdirs = os.listdir(input_base_path)
+    subdirs = [x for x in os.listdir(input_base_path) if not x.startswith(".")]
     for subdir in subdirs:
         if "zh-gcdt" in subdir:
             tokenizers_dict = {"xlm-roberta-base": xlm_roberta_base_tokenizer,

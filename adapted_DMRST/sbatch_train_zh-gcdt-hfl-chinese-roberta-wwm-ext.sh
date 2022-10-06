@@ -13,8 +13,8 @@ module list
 exec 2>&1
 
 PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:13000
-python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 111 
-python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 222 
-python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 333 
-python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 444 
-python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 555 
+python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 50 --batch_size 1 --seed 111 
+python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 50 --batch_size 1 --seed 222 
+python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 50 --batch_size 1 --seed 333 
+python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 50 --batch_size 1 --seed 444 
+python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 50 --batch_size 1 --seed 555 
