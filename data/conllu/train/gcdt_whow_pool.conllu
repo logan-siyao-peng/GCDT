@@ -1,7 +1,22 @@
+# newdoc id = gcdt_whow_pool
+# meta::dateCollected = 2021-12-06
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E6%91%86%E6%94%BE%E5%8F%B0%E7%90%83
+# meta::speakerCount = 0
+# meta::title = 如何摆放台球
+# meta::shortTitle = pool
+# meta::author = wikiHow员工
+# meta::genre = whow
+# meta::partition = train
+# sent_id = gcdt_whow_pool-1
+# text = 如何摆放台球
 1	如何	如何	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	摆放	摆放	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	台球	台球	NN	NN	_	2	dobj	_	start_char=6|end_char=8
 
+# sent_id = gcdt_whow_pool-2
+# text = 你想要打台球吗？
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	想要	想要	VV	VV	_	6	dep	_	start_char=2|end_char=4
 3	打	打	VV	VV	_	2	ccomp	_	start_char=5|end_char=6
@@ -9,6 +24,8 @@
 5	吗	吗	SP	SP	_	6	discourse	_	start_char=10|end_char=11
 6	？	？	PU	PU	_	0	root	_	start_char=12|end_char=13
 
+# sent_id = gcdt_whow_pool-3
+# text = 正确地摆放台球是游戏顺利进行的前提，并且让你在游戏开始时有掌控全局的感觉。
 1	正确	正确	VA	VA	_	3	advmod:dvp	_	start_char=0|end_char=2
 2	地	地	DEV	DEV	_	1	mark	_	start_char=3|end_char=4
 3	摆放	摆放	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -34,6 +51,8 @@
 23	感觉	感觉	NN	NN	_	19	dobj	_	start_char=56|end_char=58
 24	。	。	PU	PU	_	3	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_whow_pool-4
+# text = 虽然台球的摆放方法相对简单，但为了确保球的位置准确无误，你还是要遵循一些规则和技巧。
 1	虽然	虽然	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	台球	台球	NN	NN	_	5	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -61,6 +80,8 @@
 25	技巧	技巧	NN	NN	_	21	dobj	_	start_char=63|end_char=65
 26	。	。	PU	PU	_	21	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_pool-5
+# text = 下面的文章介绍了摆放台球的正确方法，现在就来了解一下吧！
 1	下面	下面	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	文章	文章	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -80,14 +101,20 @@
 17	吧	吧	SP	SP	_	15	discourse	_	start_char=42|end_char=43
 18	！	！	PU	PU	_	4	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_pool-6
+# text = 方法1
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_pool-7
+# text = 8球的摆放方法
 1	8球	8球	NN	NN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	摆放	摆放	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
 4	方法	方法	NN	NN	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_whow_pool-8
+# text = 1 先摆放三角框顶端的那个球。
 1	1	1	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	先	先	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	摆放	摆放	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -99,6 +126,8 @@
 9	球	球	NN	NN	_	3	dobj	_	start_char=20|end_char=21
 10	。	。	PU	PU	_	3	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_whow_pool-9
+# text = 这个位置也叫作三角框的“顶点”。-LSB-1-RSB-
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	位置	位置	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -114,6 +143,8 @@
 13	1	1	CD	CD	_	5	dep	_	start_char=33|end_char=34
 14	-RSB-	-RSB-	X	X	_	5	dep	_	start_char=35|end_char=40
 
+# sent_id = gcdt_whow_pool-10
+# text = 2 8号球一定要摆在三角框的中点。
 1	2	2	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	8号	8号	NT	NT	_	3	compound:nn	_	start_char=2|end_char=4
 3	球	球	NN	NN	_	6	nsubj	_	start_char=5|end_char=6
@@ -125,6 +156,8 @@
 9	中点	中点	NN	NN	_	6	dobj	_	start_char=21|end_char=23
 10	。	。	PU	PU	_	6	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_whow_pool-11
+# text = 框子的中点也就是三角形的中点。
 1	框子	框子	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	中点	中点	NN	NN	_	9	nsubj	_	start_char=5|end_char=7
@@ -136,6 +169,8 @@
 9	中点	中点	NN	NN	_	0	root	_	start_char=20|end_char=22
 10	。	。	PU	PU	_	9	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_pool-12
+# text = 这个点在从上往下数的第三排上。-LSB-2-RSB-
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	点	点	NN	NN	_	4	nsubj	_	start_char=4|end_char=5
@@ -154,6 +189,8 @@
 16	2	2	CD	CD	_	17	dep	_	start_char=35|end_char=36
 17	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=37|end_char=42
 
+# sent_id = gcdt_whow_pool-13
+# text = 3 三角框底边两角上的球花色不能相同。
 1	3	3	CD	CD	_	12	dep	_	start_char=0|end_char=1
 2	三角框	三角框	NN	NN	_	3	compound:nn	_	start_char=2|end_char=5
 3	底边	底边	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8
@@ -168,6 +205,8 @@
 12	相同	相同	VA	VA	_	0	root	_	start_char=26|end_char=28
 13	。	。	PU	PU	_	12	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_pool-14
+# text = 哪种花色在哪个角不重要，只要一角为实色，一角为半色即可。-LSB-3-RSB-
 1	哪	哪	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	花色	花色	NN	NN	_	9	nsubj	_	start_char=4|end_char=6
@@ -195,6 +234,8 @@
 25	3	3	CD	CD	_	9	dep	_	start_char=57|end_char=58
 26	-RSB-	-RSB-	PU	PU	_	9	punct	_	start_char=59|end_char=64
 
+# sent_id = gcdt_whow_pool-15
+# text = 4 其它剩下的球可以随便摆放。
 1	4	4	CD	CD	_	5	dep	_	start_char=0|end_char=1
 2	其它	其它	DT	DT	_	5	det	_	start_char=2|end_char=4
 3	剩下	剩下	VV	VV	_	5	acl	_	start_char=5|end_char=7
@@ -205,6 +246,8 @@
 8	摆放	摆放	VV	VV	_	0	root	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	8	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_pool-16
+# text = 注意，一号球必须放在在三角框的顶端，8号球必须放在三角框的中间，三角框底边两角要摆放花色不同的两个球，剩下的球可以随便摆放。
 1	注意	注意	VV	VV	_	6	dep	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	一号	一号	NT	NT	_	4	compound:nn	_	start_char=5|end_char=7
@@ -245,6 +288,8 @@
 38	摆放	摆放	VV	VV	_	6	conj	_	start_char=96|end_char=98
 39	。	。	PU	PU	_	6	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_whow_pool-17
+# text = 两个实色球或两个半色球可以相互挨着。
 1	两	两	CD	CD	_	3	nummod	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	实色球	实色球	NN	NN	_	7	conj	_	start_char=4|end_char=7
@@ -258,6 +303,8 @@
 11	着	着	AS	AS	_	10	aux:asp	_	start_char=26|end_char=27
 12	。	。	PU	PU	_	10	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_pool-18
+# text = 有一种业余玩法是将边上的球按照半色、实色、半色、实色的顺序摆放。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	5	nummod	_	start_char=2|end_char=3
 3	种	种	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -281,6 +328,8 @@
 21	摆放	摆放	VV	VV	_	1	ccomp	_	start_char=49|end_char=51
 22	。	。	PU	PU	_	1	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_whow_pool-19
+# text = 这么一来，底边两角的两个球就变成同样花色的了，也就是两个都是实色球或半色球。
 1	这么一来	这么一来	AD	AD	_	11	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	11	punct	_	start_char=5|end_char=6
 3	底边	底边	NN	NN	_	4	dep	_	start_char=7|end_char=9
@@ -309,6 +358,8 @@
 26	半色球	半色球	NN	NN	_	0	root	_	start_char=59|end_char=62
 27	。	。	PU	PU	_	26	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_whow_pool-20
+# text = 业余玩法中还有一种摆球的方法，那就是将底边的球按照从左到右，数字从大到小的顺序排列。
 1	业余	业余	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	玩法	玩法	NN	NN	_	5	advmod:loc	_	start_char=3|end_char=5
 3	中	中	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -343,6 +394,8 @@
 32	排列	排列	VV	VV	_	5	conj	_	start_char=70|end_char=72
 33	。	。	PU	PU	_	5	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_whow_pool-21
+# text = 这么一来，1号球就总是出现在顶端，11和15号球出现在底边的两个角上，而5号球则会占据原来8号球的位置。
 1	这么一来	这么一来	AD	AD	_	7	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	7	punct	_	start_char=5|end_char=6
 3	1号	1号	NT	NT	_	4	compound:nn	_	start_char=7|end_char=9
@@ -379,6 +432,8 @@
 34	位置	位置	NN	NN	_	29	dobj	_	start_char=82|end_char=84
 35	。	。	PU	PU	_	7	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_whow_pool-22
+# text = 5 将顶端的球（第一个球）和台球桌中心的菱形对齐。
 1	5	5	CD	CD	_	16	dep	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	16	aux:ba	_	start_char=2|end_char=3
 3	顶端	顶端	NN	NN	_	5	nmod:assmod	_	start_char=4|end_char=6
@@ -397,6 +452,8 @@
 16	对齐	对齐	VV	VV	_	0	root	_	start_char=36|end_char=38
 17	。	。	PU	PU	_	16	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_pool-23
+# text = 第一个球的中心应该在台球桌的中线上，球中点距桌子底边的距离应该为桌子长度的1/4。
 1	第一	第一	OD	OD	_	3	nummod	_	start_char=0|end_char=2
 2	个	个	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	球	球	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=6
@@ -424,6 +481,8 @@
 25	1/4	1/4	CD	CD	_	21	dep	_	start_char=61|end_char=64
 26	。	。	PU	PU	_	7	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_whow_pool-24
+# text = 有些台球桌上摆放顶球的位置会用一个小点作为标记。-LSB-4-RSB-
 1	有些	有些	DT	DT	_	3	det	_	start_char=0|end_char=2
 2	台球	台球	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	桌上	桌上	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -443,6 +502,8 @@
 17	4	4	CD	CD	_	18	dep	_	start_char=45|end_char=46
 18	-RSB-	-RSB-	NN	NN	_	13	dep	_	start_char=47|end_char=52
 
+# sent_id = gcdt_whow_pool-25
+# text = 6 所有的球必须摆放紧凑。
 1	6	6	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	所有	所有	DT	DT	_	4	dep	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -452,6 +513,8 @@
 7	紧凑	紧凑	VA	VA	_	6	ccomp	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	6	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_pool-26
+# text = 当球与球之间紧挨着时，开球的效果肯定更好。
 1	当	当	P	P	_	6	case	_	start_char=0|end_char=1
 2	球	球	NN	NN	_	4	conj	_	start_char=2|end_char=3
 3	与	与	CC	CC	_	4	cc	_	start_char=4|end_char=5
@@ -469,6 +532,8 @@
 15	好	好	VA	VA	_	0	root	_	start_char=33|end_char=34
 16	。	。	PU	PU	_	15	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_whow_pool-27
+# text = 7 将三脚架箍紧，然后抬起来。
 1	7	7	CD	CD	_	4	nsubj	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	4	aux:ba	_	start_char=2|end_char=3
 3	三脚架	三脚架	NN	NN	_	4	dep	_	start_char=4|end_char=7
@@ -479,6 +544,8 @@
 8	起来	起来	VV	VV	_	7	advmod:rcomp	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	4	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_pool-28
+# text = 这下你就可以玩8球台球了。
 1	这	这	PN	PN	_	6	advmod:loc	_	start_char=0|end_char=1
 2	下	下	LC	LC	_	1	case	_	start_char=2|end_char=3
 3	你	你	PN	PN	_	6	nsubj	_	start_char=4|end_char=5
@@ -490,14 +557,20 @@
 9	了	了	SP	SP	_	10	discourse	_	start_char=19|end_char=20
 10	。	。	PU	PU	_	0	root	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_pool-29
+# text = 方法2
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_pool-30
+# text = 9球的摆放方法
 1	9球	9球	NN	NN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	摆放	摆放	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
 4	方法	方法	NN	NN	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_whow_pool-31
+# text = 1 可能的话，找到菱形的9球球框。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	可能	可能	NN	NN	_	5	dep	_	start_char=2|end_char=4
 3	的话	的话	SP	SP	_	2	discourse	_	start_char=5|end_char=7
@@ -509,6 +582,8 @@
 9	球框	球框	NN	NN	_	5	dobj	_	start_char=21|end_char=23
 10	。	。	PU	PU	_	5	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_whow_pool-32
+# text = 9球和8球的摆放方法不同，所以要用到不同的球框。
 1	9球	9球	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	8球	8球	NN	NN	_	6	nmod:assmod	_	start_char=5|end_char=7
@@ -525,6 +600,8 @@
 14	球框	球框	NN	NN	_	11	dobj	_	start_char=34|end_char=36
 15	。	。	PU	PU	_	7	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_whow_pool-33
+# text = 菱形球框里球的摆放方式是按照1-2-3-2-1的顺序来的。
 1	菱形	菱形	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	球框	球框	NN	NN	_	4	dep	_	start_char=3|end_char=5
 3	里	里	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -549,6 +626,8 @@
 22	的	的	SP	SP	_	21	discourse	_	start_char=48|end_char=49
 23	。	。	PU	PU	_	0	root	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_pool-34
+# text = 传统的三角形球框也可以用来摆九球，但是球之间的空隙比较大。-LSB-5-RSB-
 1	传统	传统	JJ	JJ	_	4	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	三角形	三角形	NN	NN	_	4	compound:nn	_	start_char=5|end_char=8
@@ -571,6 +650,8 @@
 20	5	5	CD	CD	_	21	dep	_	start_char=53|end_char=54
 21	-RSB-	-RSB-	NN	NN	_	7	conj	_	start_char=55|end_char=60
 
+# sent_id = gcdt_whow_pool-35
+# text = 2 在所有9球的摆放方法中，1号球都位于顶端的位置，9号球位于菱形的中心。
 1	2	2	CD	CD	_	13	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	7	case	_	start_char=2|end_char=3
 3	所有	所有	DT	DT	_	4	det	_	start_char=4|end_char=6
@@ -596,6 +677,8 @@
 23	中心	中心	NN	NN	_	20	dobj	_	start_char=55|end_char=57
 24	。	。	PU	PU	_	13	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_whow_pool-36
+# text = 1号球总是首当其冲，位于球框的最前面，9好球则直接位于所有球的正中央。-LSB-6-RSB-
 1	1号	1号	NT	NT	_	2	compound:nn	_	start_char=0|end_char=2
 2	球	球	NN	NN	_	4	nsubj	_	start_char=3|end_char=4
 3	总是	总是	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -622,6 +705,8 @@
 24	6	6	CD	CD	_	25	dep	_	start_char=63|end_char=64
 25	-RSB-	-RSB-	NN	NN	_	4	conj	_	start_char=65|end_char=70
 
+# sent_id = gcdt_whow_pool-37
+# text = 3 其余的球随意摆放在1号和9号球的周围。
 1	3	3	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	其余	其余	DT	DT	_	4	dep	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -637,6 +722,8 @@
 13	周围	周围	NN	NN	_	6	nmod:prep	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	6	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_pool-38
+# text = 和8球台球的传统摆法一样，其余所有球都摆放在任意的位置。-LSB-7-RSB-
 1	和	和	P	P	_	6	case	_	start_char=0|end_char=1
 2	8球	8球	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	台球	台球	NN	NN	_	6	nmod:assmod	_	start_char=5|end_char=7
@@ -659,6 +746,8 @@
 20	7	7	CD	CD	_	21	dep	_	start_char=52|end_char=53
 21	-RSB-	-RSB-	X	X	_	13	dep	_	start_char=54|end_char=59
 
+# sent_id = gcdt_whow_pool-39
+# text = 9球台球的一种业余玩法规定球按照数字顺序排列，从上往上，从左往右数字以此增加。
 1	9球	9球	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	台球	台球	NN	NN	_	9	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -687,6 +776,8 @@
 26	增加	增加	VV	VV	_	13	conj	_	start_char=61|end_char=63
 27	。	。	PU	PU	_	13	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_whow_pool-40
+# text = 唯一的例外是9号球位于菱形的正中央。
 1	唯一	唯一	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	例外	例外	NN	NN	_	11	nsubj	_	start_char=5|end_char=7
@@ -700,6 +791,8 @@
 11	中央	中央	NN	NN	_	0	root	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	11	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_pool-41
+# text = 当摆放正确时，1号球位于球框顶端，8号球位于球框最下端。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	摆放	摆放	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	正确	正确	VA	VA	_	8	nmod:prep	_	start_char=5|end_char=7

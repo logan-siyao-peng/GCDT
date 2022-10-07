@@ -1,6 +1,21 @@
+# newdoc id = gcdt_bio_emperor
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-09-11
+# meta::sourceURL = https://zh.wikipedia.org/w/index.php?title=%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96&oldid=67654876
+# meta::speakerCount = 0
+# meta::title = 诺顿一世
+# meta::shortTitle = emperor
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_emperor-1
+# text = 诺顿一世
 1	诺顿	诺顿	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	一世	一世	NR	NR	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_emperor-2
+# text = 约书亚·亚伯拉罕·诺顿（英语：Joshua Abraham Norton，1818年2月4日－1880年1月8日）又称“诺顿一世”（Emperor Norton I），美国旧金山著名市民，分别在1859年9月17日和1863年自封为“美利坚合众国皇帝”（Emperor of the United States）和“墨西哥摄政王”（Protector of Mexico）。
 1	约书亚·亚伯拉罕·诺顿	约书亚·亚伯拉罕·诺顿	NR	NR	_	18	nmod:topic	_	start_char=0|end_char=11
 2	（	（	PU	PU	_	7	punct	_	start_char=12|end_char=13
 3	英语	英语	NN	NN	_	7	dep	_	start_char=14|end_char=16
@@ -67,6 +82,8 @@
 64	）	）	PU	PU	_	63	punct	_	start_char=238|end_char=239
 65	。	。	PU	PU	_	18	punct	_	start_char=240|end_char=241
 
+# sent_id = gcdt_bio_emperor-3
+# text = 尽管他无职无权，也只有一些拿他开心的人承认他的“权威”，但是他还是在旧金山受到了优待，他发行的“货币”在他常光顾的店铺被接受。
 1	尽管	尽管	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	无职无权	无职无权	VV	VV	_	7	dep	_	start_char=5|end_char=9
@@ -112,6 +129,8 @@
 43	接受	接受	VV	VV	_	26	conj	_	start_char=102|end_char=104
 44	。	。	PU	PU	_	26	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_bio_emperor-4
+# text = 他曾给英国维多利亚女王写信，而且在其逝世时，当地媒体和民众对他尊称“皇帝陛下”。
 1	他	他	PN	PN	_	7	nsubj	_	start_char=0|end_char=1
 2	曾	曾	AD	AD	_	7	advmod	_	start_char=2|end_char=3
 3	给	给	P	P	_	6	case	_	start_char=4|end_char=5
@@ -139,6 +158,8 @@
 25	”	”	PU	PU	_	24	punct	_	start_char=62|end_char=63
 26	。	。	PU	PU	_	7	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_bio_emperor-5
+# text = 虽然他一般被认为精神不正常，甚至疯狂，但在19世纪中期，旧金山的居民们很以他的存在、幽默和行为为乐。
 1	虽然	虽然	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	5	nsubj	_	start_char=3|end_char=4
 3	一般	一般	AD	AD	_	5	advmod	_	start_char=5|end_char=7
@@ -173,6 +194,8 @@
 32	乐	乐	NN	NN	_	0	root	_	start_char=79|end_char=80
 33	。	。	PU	PU	_	31	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_bio_emperor-6
+# text = 他最声名远播的行为是下令用武力解散美国国会（但旨令被美国国会和美国军队忽略），并且屡次下旨要求修造横跨旧金山湾的大桥。
 1	他	他	PN	PN	_	5	compound:nn	_	start_char=0|end_char=1
 2	最	最	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	声名远播	声名远播	VV	VV	_	5	acl	_	start_char=4|end_char=8
@@ -208,6 +231,8 @@
 33	大桥	大桥	NN	NN	_	27	dobj	_	start_char=88|end_char=90
 34	。	。	PU	PU	_	7	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_bio_emperor-7
+# text = 美国小说家马克·吐温是诺顿一世“统治”期间的其中一名“臣民”，据说马克·吐温其中一本著作《哈克贝利·费恩历险记》中的国王角色是以诺顿一世为原型的-LSB-1-RSB-，而罗伯特·路易斯·史蒂文森、莫里斯、勒内·戈西尼、塞尔玛·拉格洛夫和尼尔·盖曼笔下也有以他为原型的角色。
 1	美国	美国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	小说家	小说家	NN	NN	_	3	appos	_	start_char=3|end_char=6
 3	马克·吐温	马克·吐温	NR	NR	_	16	nsubj	_	start_char=7|end_char=12
@@ -273,6 +298,8 @@
 63	角色	角色	NN	NN	_	57	dobj	_	start_char=195|end_char=197
 64	。	。	PU	PU	_	16	punct	_	start_char=198|end_char=199
 
+# sent_id = gcdt_bio_emperor-8
+# text = 甚至有一些新宗教团体视他为圣人。
 1	甚至	甚至	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	6	dep	_	start_char=5|end_char=7
@@ -285,10 +312,14 @@
 10	圣人	圣人	NN	NN	_	7	ccomp	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	2	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_bio_emperor-9
+# text = 早期的生活
 1	早期	早期	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	生活	生活	NN	NN	_	0	root	_	start_char=5|end_char=7
 
+# sent_id = gcdt_bio_emperor-10
+# text = 诺顿一世在英国出生，但日期和出生地纪录有多个版本。
 1	诺顿	诺顿	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	一世	一世	NR	NR	_	5	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	4	case	_	start_char=6|end_char=7
@@ -306,6 +337,8 @@
 15	版本	版本	NN	NN	_	12	dobj	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	5	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_bio_emperor-11
+# text = 旧金山纪事报的诺顿一世讣文中表示：“根据最可靠的资讯来源”，即援引他棺材上的银盘刻印，认为他是“年约65岁。”-LSB-2-RSB-
 1	旧金山	旧金山	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=3
 2	纪事报	纪事报	NN	NN	_	6	nmod:assmod	_	start_char=4|end_char=7
 3	的	的	DEG	DEG	_	2	case	_	start_char=8|end_char=9
@@ -347,6 +380,8 @@
 39	2	2	CD	CD	_	40	dep	_	start_char=98|end_char=99
 40	-RSB-	-RSB-	NN	NN	_	20	conj	_	start_char=100|end_char=105
 
+# sent_id = gcdt_bio_emperor-12
+# text = 所以推出1814年为他的出生年。
 1	所以	所以	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	推出	推出	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	1814年	1814年	NT	NT	_	2	dobj	_	start_char=6|end_char=11
@@ -357,6 +392,8 @@
 8	年	年	NN	NN	_	2	dobj	_	start_char=21|end_char=22
 9	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_bio_emperor-13
+# text = 其他非主要来源则指他于1819年2月14日在伦敦出生。-LSB-3-RSB-
 1	其他	其他	DT	DT	_	4	det	_	start_char=0|end_char=2
 2	非	非	VC	VC	_	6	cop	_	start_char=3|end_char=4
 3	主要	主要	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
@@ -376,6 +413,8 @@
 17	3	3	CD	CD	_	6	dep	_	start_char=48|end_char=49
 18	-RSB-	-RSB-	X	X	_	6	dep	_	start_char=50|end_char=55
 
+# sent_id = gcdt_bio_emperor-14
+# text = 根据1820年移民纪录表明，他两岁时他的父母由英国移居到南非-LSB-4-RSB-。
 1	根据	根据	P	P	_	5	case	_	start_char=0|end_char=2
 2	1820年	1820年	NT	NT	_	4	compound:nn	_	start_char=3|end_char=8
 3	移民	移民	NN	NN	_	4	compound:nn	_	start_char=9|end_char=11
@@ -399,6 +438,8 @@
 21	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=56|end_char=61
 22	。	。	PU	PU	_	16	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_bio_emperor-15
+# text = 南非洲家谱学会-LSB-5-RSB-表示他的父亲是约翰·诺顿（卒于1848年8月），而他的母亲是萨拉·诺丹。
 1	南非洲	南非洲	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=3
 2	家谱	家谱	NN	NN	_	3	compound:nn	_	start_char=4|end_char=6
 3	学会	学会	NN	NN	_	4	appos	_	start_char=7|end_char=9
@@ -426,6 +467,8 @@
 25	萨拉·诺丹	萨拉·诺丹	NR	NR	_	7	conj	_	start_char=72|end_char=77
 26	。	。	PU	PU	_	7	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_emperor-16
+# text = 萨拉是亚伯拉罕·诺丹的女儿，也是一位成功的犹太客商本杰明·诺丹的甥女。
 1	萨拉	萨拉	NR	NR	_	5	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	5	cop	_	start_char=3|end_char=4
 3	亚伯拉罕·诺丹	亚伯拉罕·诺丹	NR	NR	_	5	nmod:assmod	_	start_char=5|end_char=12
@@ -445,6 +488,8 @@
 17	甥女	甥女	NN	NN	_	5	conj	_	start_char=48|end_char=50
 18	。	。	PU	PU	_	5	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_emperor-17
+# text = 本杰明曾经常起诉家庭成员，这让人觉得他不太正常。
 1	本杰明	本杰明	NR	NR	_	4	nsubj	_	start_char=0|end_char=3
 2	曾	曾	AD	AD	_	4	advmod	_	start_char=4|end_char=5
 3	经常	经常	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -462,6 +507,8 @@
 15	正常	正常	VA	VA	_	11	ccomp	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	4	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_emperor-18
+# text = 这说法和罗拔·高云（1923年）声称“那个皇帝诺顿一世拥有希伯来（犹太）血统”相吻合。-LSB-3-RSB-
 1	这	这	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	说法	说法	NN	NN	_	4	conj	_	start_char=2|end_char=4
 3	和	和	CC	CC	_	4	cc	_	start_char=5|end_char=6
@@ -490,6 +537,8 @@
 26	3	3	CD	CD	_	8	dep	_	start_char=73|end_char=74
 27	-RSB-	-RSB-	PU	PU	_	8	punct	_	start_char=75|end_char=80
 
+# sent_id = gcdt_bio_emperor-19
+# text = 1849年，诺顿继承父亲的遗产后，变卖父亲庄园，得到四万美元，从南非移居到了旧金山。
 1	1849年	1849年	NT	NT	_	10	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	10	punct	_	start_char=6|end_char=7
 3	诺顿	诺顿	NR	NR	_	4	nsubj	_	start_char=8|end_char=10
@@ -515,6 +564,8 @@
 23	旧金山	旧金山	NR	NR	_	20	dobj	_	start_char=60|end_char=63
 24	。	。	PU	PU	_	10	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_bio_emperor-20
+# text = 据罗拔·高云在1923年所说，在1853年以前，诺顿的财富积累了到二十五万美元-LSB-3-RSB-。
 1	据	据	P	P	_	6	case	_	start_char=0|end_char=1
 2	罗拔·高云	罗拔·高云	NR	NR	_	6	nsubj	_	start_char=2|end_char=7
 3	在	在	P	P	_	4	case	_	start_char=8|end_char=9
@@ -539,6 +590,8 @@
 22	-RSB-	-RSB-	M	M	_	21	mark:clf	_	start_char=66|end_char=71
 23	。	。	PU	PU	_	15	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_bio_emperor-21
+# text = 他最初的商业成功来自于房地产投资。
 1	他	他	PN	PN	_	5	dep	_	start_char=0|end_char=1
 2	最初	最初	NT	NT	_	5	nmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -549,6 +602,8 @@
 8	投资	投资	NN	NN	_	6	dobj	_	start_char=21|end_char=23
 9	。	。	PU	PU	_	6	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_bio_emperor-22
+# text = 后来，由于中国发生了严重的饥荒以至于中国不再出口大米，从而使米价在旧金山由每磅4美分狂飙到每磅36美分（即一公斤9美分升到一公斤79美分）。
 1	后来	后来	AD	AD	_	17	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	17	punct	_	start_char=3|end_char=4
 3	由于	由于	P	P	_	5	case	_	start_char=5|end_char=7
@@ -594,6 +649,8 @@
 43	）	）	PU	PU	_	38	punct	_	start_char=110|end_char=111
 44	。	。	PU	PU	_	38	punct	_	start_char=112|end_char=113
 
+# sent_id = gcdt_bio_emperor-23
+# text = 他听说有一艘从秘鲁来的船上载有20万磅（100吨）米后就把它全部买下，希望哄抬米市。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	听说	听说	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	有	有	VE	VE	_	2	ccomp	_	start_char=5|end_char=6
@@ -625,6 +682,8 @@
 29	米市	米市	NR	NR	_	28	dobj	_	start_char=67|end_char=69
 30	。	。	PU	PU	_	2	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_bio_emperor-24
+# text = 不幸的是，之后一船接着一船的大米自秘鲁运抵旧金山，米价大幅回落。
 1	不幸	不幸	VA	VA	_	15	nsubj	_	start_char=0|end_char=2
 2	的	的	DEC	DEC	_	1	mark	_	start_char=3|end_char=4
 3	是	是	VC	VC	_	15	cop	_	start_char=5|end_char=6
@@ -647,6 +706,8 @@
 20	回落	回落	VV	VV	_	15	conj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	15	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_emperor-25
+# text = 结果他和他的财政伙伴在1853年和1857年兴起诉讼。
 1	结果	结果	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	7	conj	_	start_char=3|end_char=4
 3	和	和	CC	CC	_	7	cc	_	start_char=5|end_char=6
@@ -662,6 +723,8 @@
 13	诉讼	诉讼	NN	NN	_	12	dobj	_	start_char=36|end_char=38
 14	。	。	PU	PU	_	12	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_bio_emperor-26
+# text = 虽然诺顿在一般法院获得胜利，但他最终在最高法院败诉-LSB-3-RSB-。
 1	虽然	虽然	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	诺顿	诺顿	NR	NR	_	6	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	5	case	_	start_char=6|end_char=7
@@ -682,6 +745,8 @@
 18	-RSB-	-RSB-	NN	NN	_	15	dobj	_	start_char=48|end_char=53
 19	。	。	PU	PU	_	15	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_bio_emperor-27
+# text = 1858年，诺顿宣布破产。
 1	1858年	1858年	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
 3	诺顿	诺顿	NR	NR	_	4	nsubj	_	start_char=8|end_char=10
@@ -689,6 +754,8 @@
 5	破产	破产	VV	VV	_	4	ccomp	_	start_char=14|end_char=16
 6	。	。	PU	PU	_	4	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_bio_emperor-28
+# text = 他接着离开了城市几年，返回之后很快向市公告局宣布了他的皇帝称号。
 1	他	他	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	接着	接着	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	离开	离开	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -712,6 +779,8 @@
 21	称号	称号	VV	VV	_	16	ccomp	_	start_char=49|end_char=51
 22	。	。	PU	PU	_	3	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_emperor-29
+# text = 没有任何文件表明诺顿在破产之前个性或行为有何异常，因此不知他的怪癖是否为心理问题，或是由于1850年代的中国大米事件刺激所致。
 1	没有	没有	VE	VE	_	0	root	_	start_char=0|end_char=2
 2	任何	任何	DT	DT	_	3	det	_	start_char=3|end_char=5
 3	文件	文件	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -750,6 +819,8 @@
 36	致	致	VV	VV	_	18	ccomp	_	start_char=96|end_char=97
 37	。	。	PU	PU	_	1	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_bio_emperor-30
+# text = 在他突然的损失财富之后，诺顿似乎变得有些（没有被适当的诊断过）“奇怪”，开始想像自己是伟大的人物，但很可能所有他的声明和行为都是对于贫穷的压力而产生的富于创意的反应。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	6	dep	_	start_char=2|end_char=3
 3	突然	突然	JJ	JJ	_	6	amod	_	start_char=4|end_char=6
@@ -806,12 +877,18 @@
 54	反应	反应	NN	NN	_	11	conj	_	start_char=133|end_char=135
 55	。	。	PU	PU	_	11	punct	_	start_char=136|end_char=137
 
+# sent_id = gcdt_bio_emperor-31
+# text = 皇帝旨令
 1	皇帝	皇帝	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	旨令	旨令	VV	VV	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_emperor-32
+# text = 自封皇帝
 1	自封	自封	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	皇帝	皇帝	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_emperor-33
+# text = 由于对联邦和加州政府的政治结构的不完善而越来越不满，诺顿决定亲自解决。
 1	由于	由于	P	P	_	15	case	_	start_char=0|end_char=2
 2	对	对	P	P	_	9	case	_	start_char=3|end_char=4
 3	联邦	联邦	NN	NN	_	6	conj	_	start_char=5|end_char=7
@@ -834,6 +911,8 @@
 20	解决	解决	VV	VV	_	18	ccomp	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	18	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_bio_emperor-34
+# text = 于是诺顿在1859年9月17日给当地各种各样的报纸写信，在信件中概略地自称“美利坚合众国皇帝”：
 1	于是	于是	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	诺顿	诺顿	NR	NR	_	12	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	6	case	_	start_char=6|end_char=7
@@ -860,6 +939,8 @@
 24	”	”	PU	PU	_	23	punct	_	start_char=69|end_char=70
 25	：	：	PU	PU	_	12	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_bio_emperor-35
+# text = ——“根据大多数的美利坚合众国公民的请求，我约书亚·诺顿，从前居住在亚高那海湾的好望角，最近九年零十个月居位在加利福尼亚的旧金山，宣布和自封为美利坚合众国皇帝。
 1	——	——	PU	PU	_	30	punct	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	30	punct	_	start_char=3|end_char=4
 3	根据	根据	P	P	_	10	case	_	start_char=5|end_char=7
@@ -904,6 +985,8 @@
 42	皇帝	皇帝	NN	NN	_	38	dobj	_	start_char=118|end_char=120
 43	。	。	PU	PU	_	30	punct	_	start_char=121|end_char=122
 
+# sent_id = gcdt_bio_emperor-36
+# text = 我并且任命德性之当局，特此下令于2月第1天，不同联邦的代表聚集在这个城市之音乐厅。
 1	我	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	并且	并且	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	任命	任命	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -932,6 +1015,8 @@
 26	厅	厅	NN	NN	_	19	nmod:prep	_	start_char=64|end_char=65
 27	。	。	PU	PU	_	3	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_bio_emperor-37
+# text = 接着，立即改变联邦现有的法律，改良奴役国家劳动者的恶法，使其从此重回生存之信心，并在国内国外，都感受到我国的稳定和廉正。
 1	接着	接着	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	立即	立即	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -971,6 +1056,8 @@
 37	廉正	廉正	NN	NN	_	31	dobj	_	start_char=93|end_char=95
 38	。	。	PU	PU	_	4	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_bio_emperor-38
+# text = 诺顿一世，美利坚合众国皇帝”-LSB-3-RSB--LSB-6-RSB-
 1	诺顿	诺顿	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	一世	一世	NR	NR	_	6	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -985,6 +1072,8 @@
 12	6	6	CD	CD	_	6	dep	_	start_char=41|end_char=42
 13	-RSB-	-RSB-	X	X	_	6	dep	_	start_char=43|end_char=48
 
+# sent_id = gcdt_bio_emperor-39
+# text = 他偶尔会增加“墨西哥摄政王”这个封号。
 1	他	他	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	偶尔	偶尔	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
@@ -998,6 +1087,8 @@
 11	封号	封号	NN	NN	_	4	dobj	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	4	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_bio_emperor-40
+# text = 从此他开始了史无前例，异想天开，和对整个美国历史几乎无关紧要的21年的“统治”。
 1	从此	从此	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	开始	开始	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1022,9 +1113,13 @@
 22	”	”	PU	PU	_	21	punct	_	start_char=59|end_char=60
 23	。	。	PU	PU	_	3	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_bio_emperor-41
+# text = 解散国会
 1	解散	解散	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	国会	国会	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_emperor-42
+# text = 为符合他自封皇帝的角色，诺顿一世发布了许多旨令。
 1	为	为	P	P	_	2	case	_	start_char=0|end_char=1
 2	符合	符合	VV	VV	_	11	nmod:prep	_	start_char=2|end_char=4
 3	他	他	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -1041,6 +1136,8 @@
 14	旨令	旨令	NN	NN	_	11	dobj	_	start_char=34|end_char=36
 15	。	。	PU	PU	_	11	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_bio_emperor-43
+# text = 他自视拥有足够的权力，所以不再须要立法机关。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	自视	自视	VV	VV	_	3	advmod	_	start_char=2|end_char=4
 3	拥有	拥有	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1055,6 +1152,8 @@
 12	机关	机关	NN	NN	_	10	dobj	_	start_char=30|end_char=32
 13	。	。	PU	PU	_	3	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_bio_emperor-44
+# text = 在1859年10月12日，他下旨宣布正式“解散”美国国会。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	1859年	1859年	NT	NT	_	4	compound:nn	_	start_char=2|end_char=7
 3	10月	10月	NT	NT	_	4	compound:nn	_	start_char=8|end_char=11
@@ -1071,11 +1170,15 @@
 14	国会	国会	NN	NN	_	11	dobj	_	start_char=39|end_char=41
 15	。	。	PU	PU	_	8	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_bio_emperor-45
+# text = 他并且认为：
 1	他	他	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	并且	并且	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	认为	认为	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	：	：	PU	PU	_	3	punct	_	start_char=8|end_char=9
 
+# sent_id = gcdt_bio_emperor-46
+# text = ——“…………欺骗和腐败充斥阻碍公众言论。
 1	——	——	PU	PU	_	8	punct	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	8	punct	_	start_char=3|end_char=4
 3	……	……	PU	PU	_	8	punct	_	start_char=5|end_char=7
@@ -1089,6 +1192,8 @@
 11	言论	言论	NN	NN	_	9	dobj	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	8	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_emperor-47
+# text = 法律因为政治派系过度的影响，已由暴民、党派、和黑帮被公开侵害。
 1	法律	法律	NN	NN	_	19	nsubj	_	start_char=0|end_char=2
 2	因为	因为	P	P	_	7	case	_	start_char=3|end_char=5
 3	政治	政治	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -1110,6 +1215,8 @@
 19	侵害	侵害	VV	VV	_	0	root	_	start_char=46|end_char=48
 20	。	。	PU	PU	_	19	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_bio_emperor-48
+# text = 公民没有得到应有的人身和财产保护。”-LSB-7-RSB-
 1	公民	公民	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	没有	没有	AD	AD	_	3	neg	_	start_char=3|end_char=5
 3	得到	得到	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1126,6 +1233,8 @@
 14	7	7	CD	CD	_	3	dep	_	start_char=36|end_char=37
 15	-RSB-	-RSB-	X	X	_	3	dep	_	start_char=38|end_char=43
 
+# sent_id = gcdt_bio_emperor-49
+# text = 所以，皇帝命令“各个利益集团”在1860年2月会集在旧金山的帕斯音乐厅“补救被大家抱怨的罪恶”-LSB-7-RSB-。
 1	所以	所以	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	皇帝	皇帝	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1157,6 +1266,8 @@
 29	-RSB-	-RSB-	NN	NN	_	20	dobj	_	start_char=81|end_char=86
 30	。	。	PU	PU	_	4	punct	_	start_char=87|end_char=88
 
+# sent_id = gcdt_bio_emperor-50
+# text = 1860年1月，在另一个“旨令”中，皇帝诺顿一世召唤军队废除国会的当选议员：
 1	1860年	1860年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	1月	1月	NT	NT	_	16	nmod:tmod	_	start_char=6|end_char=8
 3	，	，	PU	PU	_	16	punct	_	start_char=9|end_char=10
@@ -1181,6 +1292,8 @@
 22	议员	议员	NN	NN	_	16	dobj	_	start_char=56|end_char=58
 23	：	：	PU	PU	_	16	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_bio_emperor-51
+# text = ——“鉴于，华盛顿市有一群人自称国会议员，这违反了10月12日发表宣布国会被废除的皇家法令；
 1	——	——	PU	PU	_	6	punct	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	鉴于	鉴于	P	P	_	4	case	_	start_char=5|end_char=7
@@ -1209,6 +1322,8 @@
 26	法令	法令	NN	NN	_	15	dobj	_	start_char=68|end_char=70
 27	；	；	PU	PU	_	6	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_bio_emperor-52
+# text = 鉴于，朕有必要严密地遵照帝国的旨令；
 1	鉴于	鉴于	P	P	_	2	case	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	朕	朕	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -1222,6 +1337,8 @@
 11	旨令	旨令	NN	NN	_	8	dobj	_	start_char=25|end_char=27
 12	；	；	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_bio_emperor-53
+# text = 现在，因此朕命令和指示军队的最高司令官，陆军少将史考特，收到朕的旨令后，立刻以适当的力量清洗国会大厅。”-LSB-7-RSB-
 1	现在	现在	NT	NT	_	28	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	28	punct	_	start_char=3|end_char=4
 3	因此	因此	AD	AD	_	5	advmod	_	start_char=5|end_char=7
@@ -1258,6 +1375,8 @@
 34	7	7	CD	CD	_	35	dep	_	start_char=90|end_char=91
 35	-RSB-	-RSB-	X	X	_	28	dep	_	start_char=92|end_char=97
 
+# sent_id = gcdt_bio_emperor-54
+# text = 诺顿一世的“命令”当然对军队起不了任何作用，国会同样依然照常运作。
 1	诺顿	诺顿	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	一世	一世	NR	NR	_	5	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -1280,6 +1399,8 @@
 20	运作	运作	VV	VV	_	10	conj	_	start_char=49|end_char=51
 21	。	。	PU	PU	_	10	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_emperor-55
+# text = 1860年诺顿一世进一步发布“旨令”声称解散共和国和禁止所有国会的议员集会-LSB-7-RSB-。
 1	1860年	1860年	NT	NT	_	5	nmod:tmod	_	start_char=0|end_char=5
 2	诺顿	诺顿	NR	NR	_	3	name	_	start_char=6|end_char=8
 3	一世	一世	NR	NR	_	5	nsubj	_	start_char=9|end_char=11
@@ -1303,6 +1424,8 @@
 21	-RSB-	-RSB-	NN	NN	_	18	dobj	_	start_char=63|end_char=68
 22	。	。	PU	PU	_	5	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_bio_emperor-56
+# text = 这个指令像所有诺顿一世的旨令一样，华盛顿政府和国内大多数人对此都不屑一顾。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	指令	指令	NN	NN	_	10	nsubj	_	start_char=4|end_char=6
@@ -1326,6 +1449,8 @@
 21	不屑一顾	不屑一顾	VV	VV	_	10	conj	_	start_char=52|end_char=56
 22	。	。	PU	PU	_	10	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_bio_emperor-57
+# text = 诺顿一世在他的整个“统治”期间从未放弃反对美国当选领导者的斗争。
 1	诺顿	诺顿	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	一世	一世	NR	NR	_	19	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	10	case	_	start_char=6|end_char=7
@@ -1347,6 +1472,8 @@
 19	斗争	斗争	NN	NN	_	0	root	_	start_char=47|end_char=49
 20	。	。	PU	PU	_	13	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_bio_emperor-58
+# text = 但最终看起来诺顿一世像是有些遗憾地接受国会继续没有他的允许仍会存在的事实。
 1	但	但	AD	AD	_	10	advmod	_	start_char=0|end_char=1
 2	最终	最终	AD	AD	_	10	advmod	_	start_char=2|end_char=4
 3	看起来	看起来	AD	AD	_	10	advmod	_	start_char=5|end_char=8
@@ -1370,6 +1497,8 @@
 21	事实	事实	NN	NN	_	10	dobj	_	start_char=54|end_char=56
 22	。	。	PU	PU	_	10	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_bio_emperor-59
+# text = 他企图推翻美国当选政府的行动被挫败后，诺顿一世把他的注意力和宣旨转移到其它政治和社会事物。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	企图	企图	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	推翻	推翻	VV	VV	_	2	ccomp	_	start_char=5|end_char=7
@@ -1399,9 +1528,13 @@
 27	事物	事物	NN	NN	_	21	dobj	_	start_char=68|end_char=70
 28	。	。	PU	PU	_	2	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_bio_emperor-60
+# text = 例如。
 1	例如	例如	AD	AD	_	0	root	_	start_char=0|end_char=2
 2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_bio_emperor-61
+# text = 在1869年8月12日，“为希望缓和朕的领土中党与党的冲突”他“废除了”民主党和共和党-LSB-8-RSB-（美国南北战争之时，诺顿一世曾去信总统亚伯拉罕·林肯和南方总统杰斐逊·戴维斯，要求他们到旧金山作停战谈判，但两人皆没有理会他）。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	1869年	1869年	NT	NT	_	4	compound:nn	_	start_char=2|end_char=7
 3	8月	8月	NT	NT	_	4	compound:nn	_	start_char=8|end_char=10
@@ -1468,6 +1601,8 @@
 64	）	）	PU	PU	_	62	punct	_	start_char=179|end_char=180
 65	。	。	PU	PU	_	41	punct	_	start_char=181|end_char=182
 
+# sent_id = gcdt_bio_emperor-62
+# text = 还有一次，1872年他针对对他的第二故乡旧金山（圣弗朗西斯科）有人称呼不敬而宣布一项特别严厉的法令：
 1	还	还	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	0	root	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	2	dep	_	start_char=4|end_char=5
@@ -1499,6 +1634,8 @@
 29	法令	法令	NN	NN	_	23	dobj	_	start_char=75|end_char=77
 30	：	：	PU	PU	_	2	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_emperor-63
+# text = ——“任何人在本警告之后，依然说出这个没有任何语言学或其他根据的恶心词语“弗里斯科”（“Frisco”，旧金山在英语的一种简称），将被视为有罪和犯上，并须支付二十五美元入皇家财库作为惩罚。-LSB-7-RSB-”
 1	——	——	PU	PU	_	11	punct	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	11	punct	_	start_char=3|end_char=4
 3	任何	任何	DT	DT	_	4	det	_	start_char=5|end_char=7
@@ -1562,9 +1699,13 @@
 61	-RSB-	-RSB-	NN	NN	_	11	dep	_	start_char=160|end_char=165
 62	”	”	PU	PU	_	11	punct	_	start_char=166|end_char=167
 
+# sent_id = gcdt_bio_emperor-64
+# text = 下旨建桥
 1	下旨	下旨	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	建桥	建桥	NR	NR	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_emperor-65
+# text = 如果对这一连串“皇家法令”进行分析，很有理由怀疑这位美国的唯一一位“君主”的精神状态。
 1	如果	如果	CS	CS	_	10	advmod	_	start_char=0|end_char=2
 2	对	对	P	P	_	8	case	_	start_char=3|end_char=4
 3	这	这	DT	DT	_	8	det	_	start_char=5|end_char=6
@@ -1596,6 +1737,8 @@
 29	状态	状态	NN	NN	_	16	dobj	_	start_char=68|end_char=70
 30	。	。	PU	PU	_	14	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_bio_emperor-66
+# text = 然而，没有人可以精确地诊断诺顿一世的心理，因为关于他的行为的所有纪录都是些奇闻逸事。
 1	然而	然而	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	没有	没有	VE	VE	_	0	root	_	start_char=5|end_char=7
@@ -1623,6 +1766,8 @@
 25	奇闻逸事	奇闻逸事	VV	VV	_	3	nmod:prep	_	start_char=61|end_char=65
 26	。	。	PU	PU	_	3	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_bio_emperor-67
+# text = 可能他视自己为“大人物”的错觉也许源自和这种症状有关连的精神分裂症。
 1	可能	可能	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	视	视	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -1647,6 +1792,8 @@
 22	分裂症	分裂症	NN	NN	_	13	dobj	_	start_char=51|end_char=54
 23	。	。	PU	PU	_	3	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_bio_emperor-68
+# text = 但是还是有可能，他不过是患有其它类型的轻微精神病，甚至他是神志正常的。
 1	但是	但是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	还是	还是	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	有	有	VE	VE	_	0	root	_	start_char=6|end_char=7
@@ -1670,6 +1817,8 @@
 21	的	的	SP	SP	_	19	discourse	_	start_char=53|end_char=54
 22	。	。	PU	PU	_	3	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_bio_emperor-69
+# text = 虽然他的心理情况的确异于常人，但无可否认，诺顿一世在一些场合中却非常有远见，并且在一定数量的“皇家旨令”中显示了深刻智慧。
 1	虽然	虽然	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	5	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -1710,6 +1859,8 @@
 38	智慧	智慧	NN	NN	_	35	dobj	_	start_char=95|end_char=97
 39	。	。	PU	PU	_	12	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_bio_emperor-70
+# text = 在他的许多旨令之中是要组成“国际联盟”，并且明令禁止任何一种宗教派别之间的纷争或冲突。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	5	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -1739,6 +1890,8 @@
 27	冲突	冲突	NN	NN	_	16	dobj	_	start_char=66|end_char=68
 28	。	。	PU	PU	_	9	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_bio_emperor-71
+# text = 皇帝并且下旨要求建造连接奥克兰和旧金山的吊桥，他的后来旨令由于政府当局没有立即奉旨执行而日益愤怒：
 1	皇帝	皇帝	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	并且	并且	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	下旨	下旨	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1767,6 +1920,8 @@
 26	愤怒	愤怒	VA	VA	_	3	conj	_	start_char=71|end_char=73
 27	：	：	PU	PU	_	3	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_bio_emperor-72
+# text = ——“鉴于朕发布了旨令，下令旧金山和奥克兰的公民筹资，勘测从奥克兰通过山羊岛建造一座吊桥，或者修一条隧道，并决定哪个方案更可行；但是这些公民至今依然忽略朕的旨令，为了维护当局权威；因此，朕特此命令，如果他们坚持忽略朕的旨令，将命令军队拘捕城市之父委员会的委员。
 1	——	——	PU	PU	_	9	punct	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	鉴于	鉴于	P	P	_	5	case	_	start_char=5|end_char=7
@@ -1849,6 +2004,8 @@
 80	委员	委员	NN	NN	_	74	dobj	_	start_char=206|end_char=208
 81	。	。	PU	PU	_	9	punct	_	start_char=209|end_char=210
 
+# sent_id = gcdt_bio_emperor-73
+# text = 在旧金山以吾帝之手盖上玺印，1872年9月第17天。”
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	旧金山	旧金山	NR	NR	_	7	nmod:prep	_	start_char=2|end_char=5
 3	以	以	P	P	_	6	case	_	start_char=6|end_char=7
@@ -1865,6 +2022,8 @@
 14	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 15	”	”	PU	PU	_	7	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_bio_emperor-74
+# text = 和大多数旨令不同，这个旨令最终被“执行”了。
 1	和	和	P	P	_	3	case	_	start_char=0|end_char=1
 2	大多数	大多数	CD	CD	_	3	dep	_	start_char=2|end_char=5
 3	旨令	旨令	NN	NN	_	4	nmod:prep	_	start_char=6|end_char=8
@@ -1881,6 +2040,8 @@
 14	了	了	AS	AS	_	12	aux:asp	_	start_char=33|end_char=34
 15	。	。	PU	PU	_	12	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_bio_emperor-75
+# text = 1933年至1936年年间，横跨旧金山湾的旧金山-奥克兰海湾大桥（又称海湾大桥）建成。
 1	1933年	1933年	NT	NT	_	4	conj	_	start_char=0|end_char=5
 2	至	至	CC	CC	_	4	cc	_	start_char=6|end_char=7
 3	1936年	1936年	NT	NT	_	4	compound:nn	_	start_char=8|end_char=13
@@ -1903,6 +2064,8 @@
 20	建成	建成	VV	VV	_	0	root	_	start_char=59|end_char=61
 21	。	。	PU	PU	_	20	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_bio_emperor-76
+# text = 1969年至1972年年间，湾区捷运（旧金山地下铁）的连接旧金山和奥克兰的湾下隧道被打通了。
 1	1969年	1969年	NT	NT	_	4	conj	_	start_char=0|end_char=5
 2	至	至	CC	CC	_	4	cc	_	start_char=6|end_char=7
 3	1972年	1972年	NT	NT	_	4	compound:nn	_	start_char=8|end_char=13
@@ -1927,9 +2090,13 @@
 22	了	了	AS	AS	_	21	aux:asp	_	start_char=65|end_char=66
 23	。	。	PU	PU	_	21	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_bio_emperor-77
+# text = 外交关系
 1	外交	外交	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	关系	关系	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_emperor-78
+# text = 诺顿一世在位期间与夏威夷国王卡美哈梅哈五世保持通信联络，并取得后者承认。
 1	诺顿	诺顿	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	一世	一世	NR	NR	_	3	nsubj	_	start_char=3|end_char=5
 3	在位	在位	VV	VV	_	4	acl	_	start_char=6|end_char=8
@@ -1949,6 +2116,8 @@
 17	承认	承认	VV	VV	_	15	ccomp	_	start_char=49|end_char=51
 18	。	。	PU	PU	_	10	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_emperor-79
+# text = 卡美哈梅哈五世宣称诺顿一世为“全美国唯一的统治者”。
 1	卡美哈梅哈	卡美哈梅哈	NR	NR	_	2	compound:nn	_	start_char=0|end_char=5
 2	五世	五世	NN	NN	_	3	nsubj	_	start_char=6|end_char=8
 3	宣称	宣称	VV	VV	_	0	root	_	start_char=9|end_char=11
@@ -1964,6 +2133,8 @@
 13	”	”	PU	PU	_	12	punct	_	start_char=36|end_char=37
 14	。	。	PU	PU	_	3	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_emperor-80
+# text = 与此之外，诺顿曾于1877年在旧金山会见巴西皇帝佩德罗二世。
 1	与此之外	与此之外	AD	AD	_	9	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	9	punct	_	start_char=5|end_char=6
 3	诺顿	诺顿	NR	NR	_	9	nsubj	_	start_char=7|end_char=9
@@ -1979,6 +2150,8 @@
 13	二世	二世	NR	NR	_	9	dobj	_	start_char=39|end_char=41
 14	。	。	PU	PU	_	9	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_bio_emperor-81
+# text = 诺顿也曾向英国女王发信但未被回复。
 1	诺顿	诺顿	NR	NR	_	7	nsubj	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	7	advmod	_	start_char=3|end_char=4
 3	曾	曾	AD	AD	_	7	advmod	_	start_char=5|end_char=6

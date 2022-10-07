@@ -1,12 +1,29 @@
+# newdoc id = gcdt_academic_iconicity
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2021-12-29
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=47577
+# meta::speakerCount = 0
+# meta::title = 英语中动态的象似性分析
+# meta::shortTitle = iconicity
+# meta::author = Qi Huang, Tongquan Zhou
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_iconicity-1
+# text = 英语中动态的象似性分析
 1	英语	英语	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	中动态	中动态	NN	NN	_	5	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
 4	象似性	象似性	JJ	JJ	_	5	amod	_	start_char=9|end_char=12
 5	分析	分析	NN	NN	_	0	root	_	start_char=13|end_char=15
 
+# sent_id = gcdt_academic_iconicity-2
+# text = 1. 导论
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	导论	导论	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_iconicity-3
+# text = 从广义的角度来看，英语中主要分为三个“态”：主动态，中动态和被动态。
 1	从	从	P	P	_	4	case	_	start_char=0|end_char=1
 2	广义	广义	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -30,6 +47,8 @@
 21	被动态	被动态	NN	NN	_	10	dobj	_	start_char=50|end_char=53
 22	。	。	PU	PU	_	10	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_academic_iconicity-4
+# text = 英语中动态是一种特殊的语态形式，因为它缺少施事 -LSB-1-RSB-。
 1	英语	英语	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	中动态	中动态	NN	NN	_	9	nsubj	_	start_char=3|end_char=6
 3	是	是	VC	VC	_	9	cop	_	start_char=7|end_char=8
@@ -49,6 +68,8 @@
 17	-RSB-	-RSB-	NN	NN	_	13	dobj	_	start_char=45|end_char=50
 18	。	。	PU	PU	_	9	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_iconicity-5
+# text = 从语义的角度来看，英语中动态具有如下特点：1) 非事件性；2) 泛指性；3) 施动性；4) 情态概念 -LSB-2-RSB-。
 1	从	从	P	P	_	4	case	_	start_char=0|end_char=1
 2	语义	语义	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -79,6 +100,8 @@
 28	-RSB-	-RSB-	NN	NN	_	9	conj	_	start_char=79|end_char=84
 29	。	。	PU	PU	_	9	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_academic_iconicity-6
+# text = 在主动态的象似性研究中，施事的动作产生无论如何先于过程对受事的影响，也就是因(施事)先于果(过程对受事的影响)，因此，主动态是最符合象似性原则的表达。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	主动态	主动态	NN	NN	_	5	nmod:assmod	_	start_char=2|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -127,6 +150,8 @@
 46	表达	表达	NN	NN	_	11	conj	_	start_char=117|end_char=119
 47	。	。	PU	PU	_	11	punct	_	start_char=120|end_char=121
 
+# sent_id = gcdt_academic_iconicity-7
+# text = 在被动态结构中，施事先于受事，明显违背了象似性原则。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	被动态	被动态	NN	NN	_	3	compound:nn	_	start_char=2|end_char=5
 3	结构	结构	NN	NN	_	7	nmod:prep	_	start_char=6|end_char=8
@@ -143,6 +168,8 @@
 14	原则	原则	NN	NN	_	11	dobj	_	start_char=36|end_char=38
 15	。	。	PU	PU	_	7	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_iconicity-8
+# text = 那么，就中动态而言，它的语法结构是主动态的，但是各参与成分之间的关系是被动态的，我们如何从象似性角度来分析它呢？
 1	那么	那么	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	就	就	P	P	_	4	case	_	start_char=5|end_char=6
@@ -179,6 +206,8 @@
 34	呢	呢	SP	SP	_	32	discourse	_	start_char=87|end_char=88
 35	？	？	PU	PU	_	12	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_academic_iconicity-9
+# text = 本文主要探讨了英语中动态的象似性特点。
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	文	文	NN	NN	_	4	nsubj	_	start_char=2|end_char=3
 3	主要	主要	AD	AD	_	4	advmod	_	start_char=4|end_char=6
@@ -191,6 +220,8 @@
 10	特点	特点	NN	NN	_	4	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_iconicity-10
+# text = 本文提出的问题如下：
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	文	文	NN	NN	_	3	nsubj	_	start_char=2|end_char=3
 3	提出	提出	VV	VV	_	5	acl	_	start_char=4|end_char=6
@@ -199,6 +230,8 @@
 6	如下	如下	VV	VV	_	0	root	_	start_char=12|end_char=14
 7	：	：	PU	PU	_	6	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_academic_iconicity-11
+# text = ① 英语中动态是如何遵守或违背象似性原则的？
 1	①	①	PU	PU	_	6	punct	_	start_char=0|end_char=1
 2	英语	英语	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	中动态	中动态	NN	NN	_	6	nsubj	_	start_char=5|end_char=8
@@ -212,6 +245,8 @@
 11	的	的	SP	SP	_	12	discourse	_	start_char=29|end_char=30
 12	？	？	PU	PU	_	0	root	_	start_char=31|end_char=32
 
+# sent_id = gcdt_academic_iconicity-12
+# text = ② 英语中动态违背象似性原则的理据为何？
 1	②	②	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	英语	英语	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	中动态	中动态	NN	NN	_	4	nsubj	_	start_char=5|end_char=8
@@ -224,14 +259,20 @@
 10	何	何	PN	PN	_	4	conj	_	start_char=26|end_char=27
 11	？	？	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_iconicity-13
+# text = 2. 象似性原则
 1	2.	2.	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	象似性	象似性	JJ	JJ	_	3	amod	_	start_char=3|end_char=6
 3	原则	原则	NN	NN	_	0	root	_	start_char=7|end_char=9
 
+# sent_id = gcdt_academic_iconicity-14
+# text = 2.1. 顺序象似性
 1	2.1.	2.1.	NN	NN	_	2	nsubj	_	start_char=0|end_char=4
 2	顺序	顺序	VV	VV	_	0	root	_	start_char=5|end_char=7
 3	象似性	象似性	NN	NN	_	2	dobj	_	start_char=8|end_char=11
 
+# sent_id = gcdt_academic_iconicity-15
+# text = 顺序象似性可以定义为：思维的顺序与语言单位排列的顺序象似 -LSB-3-RSB-。
 1	顺序	顺序	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	象似性	象似性	NN	NN	_	4	nsubj	_	start_char=3|end_char=6
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=7|end_char=9
@@ -253,6 +294,8 @@
 19	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=52|end_char=57
 20	。	。	PU	PU	_	4	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_iconicity-16
+# text = Greenberg也表示：“语言成分的顺序对应与物理现实经验顺序或知识顺序”the order of elements in language parallels that in physical experience or the order of knowledge -LSB-4-RSB-。
 1	Greenberg	Greenberg	NR	NR	_	3	nsubj	_	start_char=0|end_char=9
 2	也	也	AD	AD	_	3	advmod	_	start_char=10|end_char=11
 3	表示	表示	VV	VV	_	0	root	_	start_char=12|end_char=14
@@ -293,6 +336,8 @@
 38	-RSB-	-RSB-	NN	NN	_	3	ccomp	_	start_char=163|end_char=168
 39	。	。	PU	PU	_	3	punct	_	start_char=169|end_char=170
 
+# sent_id = gcdt_academic_iconicity-17
+# text = 文旭(2009)将这一原则进一步分为两个原则 -LSB-5-RSB-：
 1	文旭	文旭	NR	NR	_	10	dep	_	start_char=0|end_char=2
 2	(	(	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	2009	2009	CD	CD	_	10	dep	_	start_char=5|end_char=9
@@ -311,6 +356,8 @@
 16	-RSB-	-RSB-	NN	NN	_	10	dobj	_	start_char=43|end_char=48
 17	：	：	PU	PU	_	10	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_academic_iconicity-18
+# text = 1) 线性序列时间原则：连贯话语中分句的顺序对应于其所描写的事件发生的时间顺序。
 1	1)	1)	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	线性	线性	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	序列	序列	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -335,6 +382,8 @@
 22	顺序	顺序	NN	NN	_	13	dobj	_	start_char=57|end_char=59
 23	。	。	PU	PU	_	13	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_iconicity-19
+# text = 比如“I came, I saw, I conquered.”
 1	比如	比如	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	10	punct	_	start_char=3|end_char=4
 3	I	I	NN	NN	_	10	compound:nn	_	start_char=5|end_char=6
@@ -348,6 +397,8 @@
 11	.	.	PU	PU	_	10	punct	_	start_char=34|end_char=35
 12	”	”	PU	PU	_	10	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_academic_iconicity-20
+# text = 又比如：Max hit Harry and Harry hit Max表示Max hit Harry在先，Harry hit Max在后。
 1	又	又	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	比如	比如	AD	AD	_	11	advmod	_	start_char=2|end_char=4
 3	：	：	PU	PU	_	11	punct	_	start_char=5|end_char=6
@@ -370,6 +421,8 @@
 20	在后	在后	VV	VV	_	11	conj	_	start_char=75|end_char=77
 21	。	。	PU	PU	_	11	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_iconicity-21
+# text = 而Max and Harry hit each other则没有体现出这种时间先后的概念。
 1	而	而	AD	AD	_	10	advmod	_	start_char=0|end_char=1
 2	Max	Max	NR	NR	_	10	nsubj	_	start_char=2|end_char=5
 3	and	and	P	P	_	5	case	_	start_char=6|end_char=9
@@ -389,6 +442,8 @@
 17	概念	概念	NN	NN	_	10	dobj	_	start_char=53|end_char=55
 18	。	。	PU	PU	_	10	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_academic_iconicity-22
+# text = 2) 线性序列信息原则。
 1	2)	2)	NN	NN	_	5	compound:nn	_	start_char=0|end_char=2
 2	线性	线性	NN	NN	_	5	compound:nn	_	start_char=3|end_char=5
 3	序列	序列	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8
@@ -396,6 +451,8 @@
 5	原则	原则	NN	NN	_	0	root	_	start_char=12|end_char=14
 6	。	。	PU	PU	_	5	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_academic_iconicity-23
+# text = 该原则主要是与信息的分配相联系。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	原则	原则	NN	NN	_	10	nsubj	_	start_char=2|end_char=4
 3	主要	主要	AD	AD	_	10	advmod	_	start_char=5|end_char=7
@@ -408,6 +465,8 @@
 10	联系	联系	VV	VV	_	0	root	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	10	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_academic_iconicity-24
+# text = 谈到信息分配，我们主要采用的是Halliday系统功能语言学关于信息分布的观点。
 1	谈到	谈到	VV	VV	_	18	conj	_	start_char=0|end_char=2
 2	信息	信息	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	分配	分配	NN	NN	_	1	dobj	_	start_char=6|end_char=8
@@ -428,6 +487,8 @@
 18	观点	观点	NN	NN	_	0	root	_	start_char=54|end_char=56
 19	。	。	PU	PU	_	18	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_academic_iconicity-25
+# text = Halliday & Matthiessen -LSB-1-RSB- 认为主位(theme)是句中信息的起点，是整个小句所关注和讨论的，也是小句得以展开的背景。
 1	Halliday	Halliday	NR	NR	_	7	nmod:topic	_	start_char=0|end_char=8
 2	&	&	PU	PU	_	7	punct	_	start_char=9|end_char=10
 3	Matthiessen	Matthiessen	NR	NR	_	4	dep	_	start_char=11|end_char=22
@@ -464,6 +525,8 @@
 34	背景	背景	NN	NN	_	17	conj	_	start_char=106|end_char=108
 35	。	。	PU	PU	_	7	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_academic_iconicity-26
+# text = 小句中发展主位的部分被称之为述位(Rheme)。
 1	小句	小句	NN	NN	_	3	advmod:loc	_	start_char=0|end_char=2
 2	中	中	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	发展	发展	VV	VV	_	6	acl	_	start_char=5|end_char=7
@@ -480,6 +543,8 @@
 14	)	)	PU	PU	_	13	punct	_	start_char=35|end_char=36
 15	。	。	PU	PU	_	8	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_academic_iconicity-27
+# text = 通常在陈述句中非标记性主位(unmarked theme)与主语重合，主语以外的任何成分都是标记性主位(marked theme) -LSB-1-RSB-。
 1	通常	通常	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	3	case	_	start_char=3|end_char=4
 3	陈述句	陈述句	NR	NR	_	7	nmod:prep	_	start_char=5|end_char=8
@@ -513,6 +578,8 @@
 31	-RSB-	-RSB-	NN	NN	_	24	parataxis:prnmod	_	start_char=99|end_char=104
 32	。	。	PU	PU	_	7	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_academic_iconicity-28
+# text = 就信息结构在语言结构中的体现而言，非标记式匹配是：与主语重合的非标记性主位传达的是旧信息，而述位传达的是新信息。
 1	就	就	P	P	_	9	case	_	start_char=0|end_char=1
 2	信息	信息	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	结构	结构	NN	NN	_	9	dep	_	start_char=5|end_char=7
@@ -551,6 +618,8 @@
 36	信息	信息	NN	NN	_	28	conj	_	start_char=88|end_char=90
 37	。	。	PU	PU	_	28	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_academic_iconicity-29
+# text = 在语言使用过程中，我们会调整主位的实现成分重新分配信息量，这样，标记性或非象似性表达就产生了。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	语言	语言	NN	NN	_	4	compound:nn	_	start_char=2|end_char=4
 3	使用	使用	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -580,6 +649,8 @@
 27	了	了	AS	AS	_	26	aux:asp	_	start_char=71|end_char=72
 28	。	。	PU	PU	_	9	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_academic_iconicity-30
+# text = 线性序列信息原则表示最熟悉的已知背景信息先出现，最不熟悉的新信息后出现。
 1	线性	线性	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	序列	序列	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	信息	信息	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -604,6 +675,8 @@
 22	出现	出现	VV	VV	_	5	ccomp	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	5	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_academic_iconicity-31
+# text = Halliday & Matthiessen -LSB-1-RSB- 认为主位表达旧信息，述位表达新信息是非标记性信息匹配结构；但是在语言使用中，我们可以利用主谓结构和信息结构-LSB-的错配(mismatch)-RSB-来达到意想不到的修辞效果。
 1	Halliday	Halliday	NR	NR	_	7	nmod:topic	_	start_char=0|end_char=8
 2	&	&	PU	PU	_	4	punct	_	start_char=9|end_char=10
 3	Matthiessen	Matthiessen	NR	NR	_	4	dep	_	start_char=11|end_char=22
@@ -656,6 +729,8 @@
 50	效果	效果	NN	NN	_	46	dobj	_	start_char=166|end_char=168
 51	。	。	PU	PU	_	7	punct	_	start_char=169|end_char=170
 
+# sent_id = gcdt_academic_iconicity-32
+# text = Halliday也曾明确表示了象似性的概念，他说：在语言表达中存在以下规律，即信息流沿着从旧信息(主位)流向新信息(述位)的方向移动，这种遵循时间顺序的移动象似性地始解了信息流的传播方向(There is a movement from a given Theme (background) to rhematic New (foreground); this movement in time construes iconically the flow of information) -LSB-6-RSB-。
 1	Halliday	Halliday	NR	NR	_	5	nsubj	_	start_char=0|end_char=8
 2	也	也	AD	AD	_	5	advmod	_	start_char=9|end_char=10
 3	曾	曾	AD	AD	_	5	advmod	_	start_char=11|end_char=12
@@ -747,10 +822,14 @@
 89	-RSB-	-RSB-	NN	NN	_	5	conj	_	start_char=315|end_char=320
 90	。	。	PU	PU	_	5	punct	_	start_char=321|end_char=322
 
+# sent_id = gcdt_academic_iconicity-33
+# text = 2.2. 距离象似性
 1	2.2.	2.2.	CD	CD	_	3	dep	_	start_char=0|end_char=4
 2	距离	距离	NN	NN	_	3	compound:nn	_	start_char=5|end_char=7
 3	象似性	象似性	NN	NN	_	0	root	_	start_char=8|end_char=11
 
+# sent_id = gcdt_academic_iconicity-34
+# text = 根据文旭 -LSB-5-RSB-，距离象似性定义如下：概念间的距离对应于语言成分之间的距离。
 1	根据	根据	P	P	_	5	case	_	start_char=0|end_char=2
 2	文旭	文旭	NR	NR	_	3	name	_	start_char=3|end_char=5
 3	-LSB-	-LSB-	URL	URL	_	5	nmod	_	start_char=6|end_char=11
@@ -774,6 +853,8 @@
 21	距离	距离	NN	NN	_	16	dobj	_	start_char=62|end_char=64
 22	。	。	PU	PU	_	10	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_iconicity-35
+# text = Haiman -LSB-7-RSB- 认为两个观点在概念的接近必须满足以下四个条件：
 1	Haiman	Haiman	NR	NR	_	2	name	_	start_char=0|end_char=6
 2	-LSB-	-LSB-	URL	URL	_	4	nmod	_	start_char=7|end_char=12
 3	7	7	CD	CD	_	4	dep	_	start_char=13|end_char=14
@@ -794,6 +875,8 @@
 18	条件	条件	NN	NN	_	14	dobj	_	start_char=54|end_char=56
 19	：	：	PU	PU	_	5	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_academic_iconicity-36
+# text = 1) 彼此享有语义特点或部分；
 1	1)	1)	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	彼此	彼此	PN	PN	_	3	nsubj	_	start_char=3|end_char=5
 3	享有	享有	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -803,11 +886,15 @@
 7	部分	部分	NN	NN	_	3	dobj	_	start_char=17|end_char=19
 8	；	；	PU	PU	_	3	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_academic_iconicity-37
+# text = 2) 相互影响；
 1	2)	2)	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	相互	相互	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	影响	影响	VV	VV	_	0	root	_	start_char=6|end_char=8
 4	；	；	PU	PU	_	3	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_academic_iconicity-38
+# text = 3) 在现实中不可分离；
 1	3)	3)	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	3	case	_	start_char=3|end_char=4
 3	现实	现实	NN	NN	_	7	nmod:prep	_	start_char=5|end_char=7
@@ -817,6 +904,8 @@
 7	分离	分离	VV	VV	_	0	root	_	start_char=14|end_char=16
 8	；	；	PU	PU	_	7	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_academic_iconicity-39
+# text = 4) 不管在现实中可不可以分离，均视为一个整体。
 1	4)	4)	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	不管	不管	CS	CS	_	9	advmod	_	start_char=3|end_char=5
 3	在	在	P	P	_	4	case	_	start_char=6|end_char=7
@@ -835,10 +924,14 @@
 16	整体	整体	NN	NN	_	12	dobj	_	start_char=35|end_char=37
 17	。	。	PU	PU	_	12	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_academic_iconicity-40
+# text = 2.3. 数量象似性
 1	2.3.	2.3.	NN	NN	_	3	compound:nn	_	start_char=0|end_char=4
 2	数量	数量	NN	NN	_	3	compound:nn	_	start_char=5|end_char=7
 3	象似性	象似性	NN	NN	_	0	root	_	start_char=8|end_char=11
 
+# sent_id = gcdt_academic_iconicity-41
+# text = 根据王寅 -LSB-8-RSB- 数量象似性的定义为：语言单位的数量与所表示的概念的量和复杂程度成正比象似，与可预测度成反比。
 1	根据	根据	P	P	_	9	case	_	start_char=0|end_char=2
 2	王寅	王寅	NR	NR	_	3	name	_	start_char=3|end_char=5
 3	-LSB-	-LSB-	URL	URL	_	7	nmod	_	start_char=6|end_char=11
@@ -874,6 +967,8 @@
 33	反比	反比	NN	NN	_	32	dobj	_	start_char=90|end_char=92
 34	。	。	PU	PU	_	26	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_academic_iconicity-42
+# text = 数量象似性的认知基础是：语言单位数量一多，就会更多地引起人们的注意力，心智加工也就更复杂，传递的信息量自然也会更多 -LSB-9-RSB-。
 1	数量	数量	NN	NN	_	5	dep	_	start_char=0|end_char=2
 2	象似性	象似性	JJ	JJ	_	5	amod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -917,6 +1012,8 @@
 41	-RSB-	-RSB-	NN	NN	_	38	dep	_	start_char=103|end_char=108
 42	。	。	PU	PU	_	12	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_academic_iconicity-43
+# text = Givon -LSB-10-RSB- 指出，信息处理过程中投入更多的心智努力(mental effort)需要更多的语言编码材料来表达。
 1	Givon	Givon	NR	NR	_	2	name	_	start_char=0|end_char=5
 2	-LSB-	-LSB-	URL	URL	_	4	nmod	_	start_char=6|end_char=11
 3	10	10	CD	CD	_	4	dep	_	start_char=12|end_char=14
@@ -948,6 +1045,8 @@
 29	表达	表达	VV	VV	_	21	conj	_	start_char=90|end_char=92
 30	。	。	PU	PU	_	5	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_academic_iconicity-44
+# text = 语言的每一个单位得以被应用都有它能被使用的价值，这个价值就是传递相应的意义，因此，语言单位越多，必定要传递更多的概念。
 1	语言	语言	NN	NN	_	6	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	每	每	DT	DT	_	6	det	_	start_char=5|end_char=6
@@ -992,10 +1091,14 @@
 42	概念	概念	NN	NN	_	38	dobj	_	start_char=97|end_char=99
 43	。	。	PU	PU	_	11	punct	_	start_char=100|end_char=101
 
+# sent_id = gcdt_academic_iconicity-45
+# text = 2.4. 对称象似性
 1	2.4.	2.4.	AD	AD	_	3	advmod	_	start_char=0|end_char=4
 2	对称	对称	JJ	JJ	_	3	amod	_	start_char=5|end_char=7
 3	象似性	象似性	NN	NN	_	0	root	_	start_char=8|end_char=11
 
+# sent_id = gcdt_academic_iconicity-46
+# text = 根据Haiman -LSB-7-RSB- 对称象似性指的是语言形式的对称或非对称形式表达了语言形式各部分代表的概念之间存在的对称关系或不对称关系((a)symmetry of form will reflect conceptual (a)symmetry)。
 1	根据	根据	P	P	_	7	case	_	start_char=0|end_char=2
 2	Haiman	Haiman	NR	NR	_	7	compound:nn	_	start_char=3|end_char=9
 3	-LSB-	-LSB-	URL	URL	_	7	nmod	_	start_char=10|end_char=15
@@ -1042,6 +1145,8 @@
 44	)	)	PU	PU	_	43	punct	_	start_char=163|end_char=164
 45	。	。	PU	PU	_	42	punct	_	start_char=165|end_char=166
 
+# sent_id = gcdt_academic_iconicity-47
+# text = 比如similarity表达的是绝对对称性概念。
 1	比如	比如	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	similarity	similarity	NN	NN	_	3	nsubj	_	start_char=3|end_char=13
 3	表达	表达	VV	VV	_	8	nsubj	_	start_char=14|end_char=16
@@ -1052,6 +1157,8 @@
 8	概念	概念	NN	NN	_	0	root	_	start_char=28|end_char=30
 9	。	。	PU	PU	_	8	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_academic_iconicity-48
+# text = Harry is similar to Max与Max is similar to Harry是完全对称的。
 1	Harry	Harry	NR	NR	_	14	nsubj	_	start_char=0|end_char=5
 2	is	is	P	P	_	3	case	_	start_char=6|end_char=8
 3	similar	similar	NN	NN	_	14	nmod:prep	_	start_char=9|end_char=16
@@ -1069,6 +1176,8 @@
 15	的	的	SP	SP	_	14	discourse	_	start_char=58|end_char=59
 16	。	。	PU	PU	_	0	root	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_iconicity-49
+# text = Like表示的不是绝对对称概念，比如Max likes Harry并不与Harry likes Max对称。
 1	Like	Like	NN	NN	_	2	nsubj	_	start_char=0|end_char=4
 2	表示	表示	VV	VV	_	8	nsubj	_	start_char=5|end_char=7
 3	的	的	DEC	DEC	_	2	mark	_	start_char=8|end_char=9
@@ -1090,6 +1199,8 @@
 19	对称	对称	VV	VV	_	8	conj	_	start_char=65|end_char=67
 20	。	。	PU	PU	_	8	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_academic_iconicity-50
+# text = Haiman通过多语言对比，发现and也可以被用作因果丛句和条件丛句。
 1	Haiman	Haiman	NR	NR	_	7	nsubj	_	start_char=0|end_char=6
 2	通过	通过	P	P	_	5	case	_	start_char=7|end_char=9
 3	多	多	CD	CD	_	5	dep	_	start_char=10|end_char=11
@@ -1109,6 +1220,8 @@
 17	丛句	丛句	NN	NN	_	12	dobj	_	start_char=48|end_char=50
 18	。	。	PU	PU	_	7	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_iconicity-51
+# text = 比如：Sammy’s mad and I’m glad和He comes, I will stay。
 1	比如	比如	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	Sammy	Sammy	NR	NR	_	5	dep	_	start_char=5|end_char=10
@@ -1127,6 +1240,8 @@
 16	stay	stay	NN	NN	_	0	root	_	start_char=52|end_char=56
 17	。	。	PU	PU	_	14	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_academic_iconicity-52
+# text = 在这两句中，Summy’ mad和He comes被看作是表原因的小句。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	这	这	DT	DT	_	14	nmod:prep	_	start_char=2|end_char=3
 3	两	两	CD	CD	_	2	dep	_	start_char=4|end_char=5
@@ -1148,6 +1263,8 @@
 19	小句	小句	NN	NN	_	14	dobj	_	start_char=49|end_char=51
 20	。	。	PU	PU	_	14	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_academic_iconicity-53
+# text = Haiman -LSB-7-RSB- 认为这是一种概念对称的体现，因为根据时间的线性特点，最先发生的可以看作是背景，原因，条件。
 1	Haiman	Haiman	NR	NR	_	2	name	_	start_char=0|end_char=6
 2	-LSB-	-LSB-	URL	URL	_	4	nmod	_	start_char=7|end_char=12
 3	7	7	CD	CD	_	4	dep	_	start_char=13|end_char=14

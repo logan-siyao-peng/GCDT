@@ -44,13 +44,13 @@
 		<segment id="6" parent="121" relname="span">其 制作 方法 非常 简单 ， // Its production method is very simple ,</segment>
 		<segment id="7" parent="119" relname="same-unit">只要 把 // just put</segment>
 		<segment id="8" parent="9" relname="elaboration-attribute">你 最 喜欢 的 // your favourite</segment>
-		<segment id="9" parent="118" relname="span">彩虹糖 混在 一起 ， // Skittles mixed together,</segment>
-		<segment id="10" parent="120" relname="joint-sequence">倒入 一 杯 或 一 瓶 伏特加 内 ， // Pour into a glass or bottle of vodka,</segment>
+		<segment id="9" parent="118" relname="span">彩虹糖 混在 一起 ， // Skittles mixed together ,</segment>
+		<segment id="10" parent="120" relname="joint-sequence">倒入 一 杯 或 一 瓶 伏特加 内 ， // Pour into a glass or bottle of vodka ,</segment>
 		<segment id="11" parent="120" relname="joint-sequence">然后 充分 溶合 即可 。 // Then fully melt it .</segment>
 		<segment id="12" parent="122" relname="joint-list">配好 的 彩虹 伏特加 可以 配制 色彩 艳丽 的 鸡尾酒 ， // Mixed rainbow vodka can make colorful cocktails ,</segment>
-		<segment id="13" parent="122" relname="joint-list">也 可以 当 糖酒 饮用 。 // It can also be drunk as sugar and wine.</segment>
+		<segment id="13" parent="122" relname="joint-list">也 可以 当 糖酒 饮用 。 // It can also be drunk as sugar and wine .</segment>
 		<segment id="14" parent="15" relname="context-circumstance">掌握 诸多 制作 方法 后 ， // After mastering many production methods ,</segment>
-		<segment id="15" parent="123" relname="span">你 就 可以 品尝 色彩 绚丽 的 彩虹 伏特加 啦 ！ // You can taste the colorful rainbow vodka!</segment>
+		<segment id="15" parent="123" relname="span">你 就 可以 品尝 色彩 绚丽 的 彩虹 伏特加 啦 ！ // You can taste the colorful rainbow vodka !</segment>
 		<segment id="16" parent="125" relname="organization-heading">素材 // material</segment>
 		<segment id="17" parent="125" relname="joint-list">每 袋 彩虹糖 配 1.9 升 伏特加 // 1.9L vodka per bag of Skittles</segment>
 		<segment id="18" parent="125" relname="joint-list">大 包 彩虹糖 // Big bag of Skittles</segment>
@@ -62,94 +62,94 @@
 		<segment id="24" parent="129" relname="span">彩虹糖 // Rainbow Candy</segment>
 		<segment id="25" parent="26" relname="mode-manner">按 颜色 // by color</segment>
 		<segment id="26" parent="131" relname="span">分类 。 // Classification .</segment>
-		<segment id="27" parent="136" relname="span">许多 人 都 不 喜欢 绿色 和 紫色 的 彩虹糖 ， // Many people don't like green and purple skittles,</segment>
+		<segment id="27" parent="136" relname="span">许多 人 都 不 喜欢 绿色 和 紫色 的 彩虹糖 ， // Many people do n't like green and purple skittles ,</segment>
 		<segment id="28" parent="27" relname="elaboration-attribute">这 两 种 颜色 的 糖果 在 正宗 的 彩虹糖 中 分别 是 青柠 和 葡萄 口味 。 // The two colors of candy in authentic Skittles are Lime and Grape flavors .</segment>
 		<segment id="29" parent="30" relname="contingency-condition">它们 和 伏特加 混合 后 // They are mixed with vodka</segment>
-		<segment id="30" parent="132" relname="span">会 产生 一 种 奇怪 的 口感 ， // will produce a strange taste,</segment>
+		<segment id="30" parent="132" relname="span">会 产生 一 种 奇怪 的 口感 ， // will produce a strange taste ,</segment>
 		<segment id="31" parent="134" relname="same-unit">而且 // and</segment>
 		<segment id="32" parent="33" relname="elaboration-attribute">混合 而 成 的 // mixed</segment>
-		<segment id="33" parent="133" relname="span">颜色 也 不尽 人意 。 // The color is also unsatisfactory.</segment>
+		<segment id="33" parent="133" relname="span">颜色 也 不尽 人意 。 // The color is also unsatisfactory .</segment>
 		<segment id="34" parent="137" relname="contingency-condition">如果 你 喜欢 ， // If you like ,</segment>
 		<segment id="35" parent="137" relname="span">也 可以 选择 它们 // You can also choose them</segment>
-		<segment id="36" parent="35" relname="purpose-goal">来 配制 彩虹 伏特加 。 // to make Rainbow Vodka.</segment>
-		<segment id="37" parent="38" relname="contingency-condition">如果 你 不 在乎 伏特加 的 色泽 ， // If you don't care about the color of the vodka,</segment>
-		<segment id="38" parent="139" relname="span">可以 忽略 这 一 步 。 // This step can be ignored.</segment>
-		<segment id="39" parent="150" relname="span">2 每 6 颗 糖果 配 25 毫升 的 伏特加 。 // 2 25ml vodka for every 6 candies.</segment>
+		<segment id="36" parent="35" relname="purpose-goal">来 配制 彩虹 伏特加 。 // to make Rainbow Vodka .</segment>
+		<segment id="37" parent="38" relname="contingency-condition">如果 你 不 在乎 伏特加 的 色泽 ， // If you do n't care about the color of the vodka ,</segment>
+		<segment id="38" parent="139" relname="span">可以 忽略 这 一 步 。 // This step can be ignored .</segment>
+		<segment id="39" parent="150" relname="span">2 每 6 颗 糖果 配 25 毫升 的 伏特加 。 // 2 25ml of vodka for every 6 candies .</segment>
 		<segment id="40" parent="144" relname="joint-sequence">不停 摇晃 酒杯 // Shaking the wine glass</segment>
-		<segment id="41" parent="144" relname="joint-sequence">直 至 彩虹糖 和 伏特加 几近 溶合 。 // until the skittles and vodka are almost melted together.</segment>
-		<segment id="42" parent="147" relname="context-background">糖果 和 伏特加 的 搭配 比例 各 异 ， // The mix of candy and vodka varies.</segment>
+		<segment id="41" parent="144" relname="joint-sequence">直 至 彩虹糖 和 伏特加 几近 溶合 。 // until the skittles and vodka are almost melted together .</segment>
+		<segment id="42" parent="147" relname="context-background">糖果 和 伏特加 的 搭配 比例 各 异 ， // The mix of candy and vodka varies .</segment>
 		<segment id="43" parent="146" relname="context-circumstance">在 配制 大量 彩虹 伏特加 前 ， // Before making a lot of rainbow vodka ,</segment>
 		<segment id="44" parent="146" relname="same-unit">先 找到 // find first</segment>
 		<segment id="45" parent="46" relname="elaboration-attribute">你 所 钟意 的 // what you like</segment>
-		<segment id="46" parent="145" relname="span">搭配 比例 。 // Match the proportions.</segment>
-		<segment id="47" parent="156" relname="joint-sequence">3 将 残余 的 彩虹 糖渣 过滤 掉 。 // 3 Strain out any remaining skittles.</segment>
-		<segment id="48" parent="152" relname="context-circumstance">经过 单杯 的 尝试 后 ， // After trying a single cup,</segment>
+		<segment id="46" parent="145" relname="span">搭配 比例 。 // Match the proportions .</segment>
+		<segment id="47" parent="156" relname="joint-sequence">3 将 残余 的 彩虹 糖渣 过滤 掉 。 // 3 Strain out any remaining skittles .</segment>
+		<segment id="48" parent="152" relname="context-circumstance">经过 单杯 的 尝试 后 ， // After trying a single cup ,</segment>
 		<segment id="49" parent="152" relname="same-unit">你 会 找到 // you will find</segment>
-		<segment id="50" parent="51" relname="elaboration-attribute">自己 钟意 的 // one's own</segment>
+		<segment id="50" parent="51" relname="elaboration-attribute">自己 钟意 的 // one 's own</segment>
 		<segment id="51" parent="151" relname="span">口味 ， // taste ,</segment>
-		<segment id="52" parent="53" relname="contingency-condition">如果 有 意愿 ， // If you have the will,</segment>
-		<segment id="53" parent="154" relname="span">可以 尝试 配制 大瓶 彩虹 伏特加 啦 。 // Try making a big bottle of Rainbow Vodka .</segment>
+		<segment id="52" parent="53" relname="contingency-condition">如果 有 意愿 ， // If you have the will ,</segment>
+		<segment id="53" parent="154" relname="span">可以 尝试 配制 大瓶 彩虹 伏特加 啦 。 // Try making a big bottle of rainbow vodka .</segment>
 		<segment id="54" parent="55" relname="organization-preparation">方法 2 // Method 2</segment>
 		<segment id="55" parent="158" relname="span">瓶装 彩虹 伏特加 // Bottled Rainbow Vodka</segment>
-		<segment id="56" parent="159" relname="span">1 倒出 一点 伏特加 ， // 1 Pour out a little vodka,</segment>
-		<segment id="57" parent="56" relname="purpose-goal">为 彩虹糖 腾出 些 空间 。 // Make some room for Skittles.</segment>
+		<segment id="56" parent="159" relname="span">1 倒出 一点 伏特加 ， // 1 Pour out a little vodka ,</segment>
+		<segment id="57" parent="56" relname="purpose-goal">为 彩虹糖 腾出 些 空间 。 // Make some room for Skittles .</segment>
 		<segment id="58" parent="161" relname="same-unit">2 // 2</segment>
 		<segment id="59" parent="60" relname="mode-manner">按 颜色 // by color</segment>
-		<segment id="60" parent="160" relname="span">将 彩虹糖 分类 。 // Sort Skittles.</segment>
-		<segment id="61" parent="163" relname="span">3 加入 彩虹糖 ， // 3 Add Skittles,</segment>
-		<segment id="62" parent="61" relname="elaboration-additional">每 350 毫升 伏特加 搭配 20 到 25 颗 糖果 。 // 20 to 25 candies per 350ml of vodka.</segment>
+		<segment id="60" parent="160" relname="span">将 彩虹糖 分类 。 // Sort Skittles .</segment>
+		<segment id="61" parent="163" relname="span">3 加入 彩虹糖 ， // 3 Add Skittles ,</segment>
+		<segment id="62" parent="61" relname="elaboration-additional">每 350 毫升 伏特加 搭配 20 到 25 颗 糖果 。 // 20 to 25 candies per 350ml of vodka .</segment>
 		<segment id="63" parent="165" relname="same-unit">4 将 // 4 will</segment>
 		<segment id="64" parent="65" relname="elaboration-attribute">混合 好 的 // mix good</segment>
-		<segment id="65" parent="164" relname="span">酒 静置 一 两 天 。 // Let the wine sit for a day or two.</segment>
-		<segment id="66" parent="166" relname="span">时不时 地 摇摇 瓶子 ， // Shake the bottle every now and then,</segment>
-		<segment id="67" parent="66" relname="purpose-goal">让 糖果 和 伏特加 充分 混合 。 // Let the candy and vodka mix well.</segment>
-		<segment id="68" parent="162" relname="joint-sequence">5 用 咖啡 滤纸 或 干净 的 T恤 等 将 糖渣 筛去 。 // 5 Sift out the sugar residue with a coffee filter or a clean t-shirt, etc.</segment>
-		<segment id="69" parent="162" relname="joint-sequence">6 放置于 冰箱 中 一 晚 。 // 6 Place in the refrigerator overnight.</segment>
+		<segment id="65" parent="164" relname="span">酒 静置 一 两 天 。 // Let the wine sit for a day or two .</segment>
+		<segment id="66" parent="166" relname="span">时不时 地 摇摇 瓶子 ， // Shake the bottle every now and then ,</segment>
+		<segment id="67" parent="66" relname="purpose-goal">让 糖果 和 伏特加 充分 混合 。 // Let the candy and vodka mix well .</segment>
+		<segment id="68" parent="162" relname="joint-sequence">5 用 咖啡 滤纸 或 干净 的 T恤 等 将 糖渣 筛去 。 // 5 Sift out the sugar residue with a coffee filter or a clean t - shirt , etc .</segment>
+		<segment id="69" parent="162" relname="joint-sequence">6 放置于 冰箱 中 一 晚 。 // 6 Place in the refrigerator overnight .</segment>
 		<segment id="70" parent="71" relname="organization-preparation">方法 3 // Method 3</segment>
 		<segment id="71" parent="169" relname="span">洗碗机 制酒法 // dishwasher method</segment>
-		<segment id="72" parent="171" relname="same-unit">1 将 5 袋 200 克 的 彩虹糖 // 1 5 bags of 200g Skittles</segment>
+		<segment id="72" parent="171" relname="same-unit">1 将 5 袋 200 克 的 彩虹糖 // 1 5 bags of 200 g Skittles</segment>
 		<segment id="73" parent="74" relname="mode-manner">按 颜色 // by color</segment>
 		<segment id="74" parent="170" relname="span">分类 。 // Classification .</segment>
-		<segment id="75" parent="175" relname="span">2 用 5 个 700 毫升 的 瓶子 做 容器 ， // 2 Use 5 700ml bottles as containers,</segment>
-		<segment id="76" parent="172" relname="joint-sequence">将 300 毫升 的 伏特加 倒入 壶中 ， // Pour 300ml of vodka into the pot,</segment>
+		<segment id="75" parent="175" relname="span">2 用 5 个 700 毫升 的 瓶子 做 容器 ， // 2 Use 5 700ml bottles as containers ,</segment>
+		<segment id="76" parent="172" relname="joint-sequence">将 300 毫升 的 伏特加 倒入 壶中 ， // Pour 300ml of vodka into the jug ,</segment>
 		<segment id="77" parent="174" relname="same-unit">然后 分别 倒入 5 个 // Then pour in 5</segment>
 		<segment id="78" parent="79" relname="elaboration-attribute">装有 彩虹糖 的 // with Skittles</segment>
-		<segment id="79" parent="173" relname="span">瓶中 。 // in the bottle.</segment>
-		<segment id="80" parent="176" relname="joint-sequence">3 将 瓶子 放在 洗碗机 中 ， // 3 Put the bottle in the dishwasher,</segment>
-		<segment id="81" parent="176" relname="joint-sequence">然后 开启 强力 模式 。 // Then turn on power mode.</segment>
-		<segment id="82" parent="83" relname="context-circumstance">时间 过去 三分之一 后 ， // After a third of the time has passed,</segment>
-		<segment id="83" parent="177" relname="span">将 每 瓶 酒 都 用力 摇 一 摇 。 // Shake each bottle vigorously.</segment>
-		<segment id="84" parent="85" relname="context-circumstance">时间 过去 三分之二 后 ， // Two-thirds of the time has passed,</segment>
-		<segment id="85" parent="178" relname="span">再次 摇晃 酒瓶 。 // Shake the bottle again.</segment>
+		<segment id="79" parent="173" relname="span">瓶中 。 // in the bottle .</segment>
+		<segment id="80" parent="176" relname="joint-sequence">3 将 瓶子 放在 洗碗机 中 ， // 3 Put the bottle in the dishwasher ,</segment>
+		<segment id="81" parent="176" relname="joint-sequence">然后 开启 强力 模式 。 // Then turn on power mode .</segment>
+		<segment id="82" parent="83" relname="context-circumstance">时间 过去 三分之一 后 ， // After a third of the time has passed ,</segment>
+		<segment id="83" parent="177" relname="span">将 每 瓶 酒 都 用力 摇 一 摇 。 // Shake each bottle vigorously .</segment>
+		<segment id="84" parent="85" relname="context-circumstance">时间 过去 三分之二 后 ， // Two - thirds of the time has passed ,</segment>
+		<segment id="85" parent="178" relname="span">再次 摇晃 酒瓶 。 // Shake the bottle again .</segment>
 		<segment id="86" parent="181" relname="same-unit">4 // 4</segment>
 		<segment id="87" parent="88" relname="context-circumstance">洗碗机 停止 一 轮 工作 后 ， // After the dishwasher has stopped for a round ,</segment>
-		<segment id="88" parent="179" relname="span">再次 摇晃 每 个 瓶子 。 // Shake each bottle again.</segment>
-		<segment id="89" parent="180" relname="joint-sequence">然后 将 瓶子 放到 冰箱 里 。 // Then put the bottle in the refrigerator.</segment>
+		<segment id="88" parent="179" relname="span">再次 摇晃 每 个 瓶子 。 // Shake each bottle again .</segment>
+		<segment id="89" parent="180" relname="joint-sequence">然后 将 瓶子 放到 冰箱 里 。 // Then put the bottle in the refrigerator .</segment>
 		<segment id="90" parent="183" relname="same-unit">5 // 5</segment>
 		<segment id="91" parent="92" relname="context-circumstance">伏特加 冷藏 后 // Vodka refrigerated</segment>
-		<segment id="92" parent="182" relname="span">会 呈现 浆状 。 // will appear slushy.</segment>
-		<segment id="93" parent="184" relname="joint-sequence">拿 一 个 筛子 ， // take a sieve,</segment>
-		<segment id="94" parent="184" relname="joint-sequence">上置 纱布 或 咖啡 滤纸 ， // Put a gauze or coffee filter on top,</segment>
-		<segment id="95" parent="184" relname="joint-sequence">底下 放 一 个 大壶 ， // Put a big pot under it,</segment>
-		<segment id="96" parent="184" relname="joint-sequence">缓缓 倒入 伏特加 。 // Pour in the vodka slowly.</segment>
+		<segment id="92" parent="182" relname="span">会 呈现 浆状 。 // will appear slushy .</segment>
+		<segment id="93" parent="184" relname="joint-sequence">拿 一 个 筛子 ， // take a sieve ,</segment>
+		<segment id="94" parent="184" relname="joint-sequence">上置 纱布 或 咖啡 滤纸 ， // Put a gauze or coffee filter on top ,</segment>
+		<segment id="95" parent="184" relname="joint-sequence">底下 放 一 个 大壶 ， // Put a big pot under it ,</segment>
+		<segment id="96" parent="184" relname="joint-sequence">缓缓 倒入 伏特加 。 // Pour in the vodka slowly .</segment>
 		<segment id="97" parent="187" relname="same-unit">6 // 6</segment>
-		<segment id="98" parent="99" relname="context-circumstance">第一 瓶 彩虹 伏特加 过滤 完毕 后 ， // After the first bottle of Rainbow Vodka has been filtered,</segment>
-		<segment id="99" parent="186" relname="span">将 瓶子 洗 干净 ， // wash the bottle clean,</segment>
-		<segment id="100" parent="188" relname="joint-sequence">然后 将 彩虹 伏特加 倒回 瓶内 。 // Then pour the rainbow vodka back into the bottle.</segment>
-		<segment id="101" parent="190" relname="same-unit">7 之后 几瓶 彩虹 伏特加 都 // After 7, a few bottles of rainbow vodka are</segment>
+		<segment id="98" parent="99" relname="context-circumstance">第一 瓶 彩虹 伏特加 过滤 完毕 后 ， // After the first bottle of Rainbow Vodka has been filtered ,</segment>
+		<segment id="99" parent="186" relname="span">将 瓶子 洗 干净 ， // wash the bottle clean ,</segment>
+		<segment id="100" parent="188" relname="joint-sequence">然后 将 彩虹 伏特加 倒回 瓶内 。 // Then pour the rainbow vodka back into the bottle .</segment>
+		<segment id="101" parent="190" relname="same-unit">7 之后 几瓶 彩虹 伏特加 都 // After 7 , a few bottles of rainbow vodka are</segment>
 		<segment id="102" parent="103" relname="mode-manner">按 上述 方法 // According to the above method</segment>
-		<segment id="103" parent="189" relname="span">制作 ， // make,</segment>
+		<segment id="103" parent="189" relname="span">制作 ， // make ,</segment>
 		<segment id="104" parent="192" relname="same-unit">注意 // Notice</segment>
 		<segment id="105" parent="106" relname="contingency-condition">每次 用完 // every time you run out</segment>
-		<segment id="106" parent="191" relname="span">都 要 洗净 容器 ， // wash the container,</segment>
-		<segment id="107" parent="192" relname="purpose-goal">以防 混色 。 // to prevent color mixing.</segment>
-		<segment id="108" parent="195" relname="joint-sequence">8 把 所有 的 酒瓶 都 放在 冰箱 里 ， // 8 Put all the wine bottles in the refrigerator,</segment>
-		<segment id="109" parent="195" relname="joint-sequence">喝 的 时候 再 拿 出来 。 // Take it out when you drink it.</segment>
-		<segment id="110" parent="111" relname="organization-phatic">别 担心 ， // don’t worry ,</segment>
-		<segment id="111" parent="196" relname="span">伏特加 不 会 结冻 。 // Vodka doesn't freeze.</segment>
+		<segment id="106" parent="191" relname="span">都 要 洗净 容器 ， // to clean the vessel ,</segment>
+		<segment id="107" parent="192" relname="purpose-goal">以防 混色 。 // to prevent color mixing .</segment>
+		<segment id="108" parent="195" relname="joint-sequence">8 把 所有 的 酒瓶 都 放在 冰箱 里 ， // 8 Put all the wine bottles in the refrigerator ,</segment>
+		<segment id="109" parent="195" relname="joint-sequence">喝 的 时候 再 拿 出来 。 // Take it out when you drink it .</segment>
+		<segment id="110" parent="111" relname="organization-phatic">别 担心 ， // do n’t worry ,</segment>
+		<segment id="111" parent="196" relname="span">伏特加 不 会 结冻 。 // Vodka does n't freeze .</segment>
 		<segment id="112" parent="199" relname="same-unit">9 // 9</segment>
-		<segment id="113" parent="114" relname="organization-preparation">大功告成 ， // you're done,</segment>
-		<segment id="114" parent="198" relname="span">享受 你 的 美味 彩虹 伏特加 吧 ！ // Enjoy your delicious rainbow vodka!</segment>
+		<segment id="113" parent="114" relname="organization-preparation">大功告成 ， // you 're done ,</segment>
+		<segment id="114" parent="198" relname="span">享受 你 的 美味 彩虹 伏特加 吧 ！ // Enjoy your delicious rainbow vodka !</segment>
 		<group id="115" type="span" parent="116" relname="same-unit"/>
 		<group id="116" type="multinuc" parent="117" relname="joint-list"/>
 		<group id="117" type="multinuc" parent="124" relname="joint-other"/>

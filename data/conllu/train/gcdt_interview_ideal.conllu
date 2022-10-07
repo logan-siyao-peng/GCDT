@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_ideal
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2008-03-26
+# meta::dateModified = 2008-06-23
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E6%84%9B%E5%9C%B0%E9%9B%85%E7%A7%91%E6%8A%80%EF%BC%9A%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%87%89%E6%93%BA%E8%84%AB%E5%82%B3%E7%B5%B1_%E6%9C%9D%E5%81%A5%E8%BA%AB%E6%A9%9F%E8%83%BD%E7%99%BC%E5%B1%95
+# meta::speakerCount = 3
+# meta::title = 爱地雅科技：自行车应摆脱传统 朝健身机能发展
+# meta::shortTitle = ideal
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_ideal-1
+# text = 爱地雅科技：自行车应摆脱传统 朝健身机能发展
 1	爱地雅	爱地雅	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=3
 2	科技	科技	NN	NN	_	6	nmod:topic	_	start_char=4|end_char=6
 3	：	：	PU	PU	_	6	punct	_	start_char=7|end_char=8
@@ -10,6 +23,8 @@
 10	机能	机能	NN	NN	_	11	nmod:prep	_	start_char=26|end_char=28
 11	发展	发展	NN	NN	_	6	dobj	_	start_char=29|end_char=31
 
+# sent_id = gcdt_interview_ideal-2
+# text = 【2008年3月26日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2008年	2008年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	3月	3月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -17,6 +32,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_ideal-3
+# text = 今年的台北国际体育用品展与自行车展，不但因为南港馆、环台赛的加持，屡创佳绩，更确实为体育用品、竞技体育、自行车等产业，创造出不少机会，更奠定了亚洲采购中心的基础，以及国际赛会的知名度。
 1	今年	今年	NT	NT	_	8	nmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	台北	台北	NR	NR	_	8	compound:nn	_	start_char=5|end_char=7
@@ -72,6 +89,8 @@
 53	知名度	知名度	NN	NN	_	41	dobj	_	start_char=140|end_char=143
 54	。	。	PU	PU	_	19	punct	_	start_char=144|end_char=145
 
+# sent_id = gcdt_interview_ideal-4
+# text = 虽然自行车展是自1988年起，从体育用品展中独立出来，但近年来，体育用品产业的发展，也开始多元化，甚至因为现代人的生活习惯，使得健身、休闲产业开始窜起，因此，从2005年起首办的“体育用品创新产品奖”当中，健身类产品除了获得评审的喜好，甚而成为最受国际买主重视的一大采购区块。
 1	虽然	虽然	CS	CS	_	12	advmod	_	start_char=0|end_char=2
 2	自行车展	自行车展	NN	NN	_	12	nsubj	_	start_char=3|end_char=7
 3	是	是	VC	VC	_	12	cop	_	start_char=8|end_char=9
@@ -153,6 +172,8 @@
 79	区块	区块	NN	NN	_	69	dobj	_	start_char=213|end_char=215
 80	。	。	PU	PU	_	27	punct	_	start_char=216|end_char=217
 
+# sent_id = gcdt_interview_ideal-5
+# text = 以今年为例，部分厂商借由同时参与自行车展与体育用品展的展出，做为另一种行销结合“自行车”与“健康运动”机能的重要展示平台，也呼应了往年台湾自行车产业大推的“三新运动”，让自行车摆脱传统，更具健康机能，因此，维基新闻记者Rico Shen特别以爱地雅科技在“体育用品创新产品奖”得奖的范例，借由本次专访，来了解自行车与健身两大元素整合的可能。
 1	以	以	P	P	_	2	case	_	start_char=0|end_char=1
 2	今年	今年	NT	NT	_	3	nmod:prep	_	start_char=2|end_char=4
 3	为	为	VC	VC	_	10	dep	_	start_char=5|end_char=6
@@ -255,6 +276,8 @@
 100	可能	可能	NN	NN	_	91	dobj	_	start_char=265|end_char=267
 101	。	。	PU	PU	_	91	punct	_	start_char=268|end_char=269
 
+# sent_id = gcdt_interview_ideal-6
+# text = Part 1：为何整合？
 1	Part	Part	NN	NN	_	5	dep	_	start_char=0|end_char=4
 2	1	1	CD	CD	_	5	dep	_	start_char=5|end_char=6
 3	：	：	PU	PU	_	5	punct	_	start_char=7|end_char=8
@@ -262,11 +285,15 @@
 5	整合	整合	VV	VV	_	0	root	_	start_char=12|end_char=14
 6	？	？	PU	PU	_	5	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_interview_ideal-7
+# text = 获奖的关键？
 1	获奖	获奖	VV	VV	_	3	acl	_	start_char=0|end_char=2
 2	的	的	DEC	DEC	_	1	mark	_	start_char=3|end_char=4
 3	关键	关键	NN	NN	_	0	root	_	start_char=5|end_char=7
 4	？	？	PU	PU	_	3	punct	_	start_char=8|end_char=9
 
+# sent_id = gcdt_interview_ideal-8
+# text = 3G Bike的设计概念？
 1	3G	3G	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	Bike	Bike	NN	NN	_	5	nmod:assmod	_	start_char=3|end_char=7
 3	的	的	DEG	DEG	_	2	case	_	start_char=8|end_char=9
@@ -274,6 +301,8 @@
 5	概念	概念	NN	NN	_	0	root	_	start_char=13|end_char=15
 6	？	？	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_ideal-9
+# text = （示范进行途中）3G Bike当初设计时，就将踏步机的概念融入，本来踏步机只是一个室内的健身工具，但是将这种元素融入后，就是一个兼具健身与通勤机能的自行车，而踏板在设计上具备杠杆原理，踏步的频率也会影响到骑行时的速率，加上无座椅的设计，使用者必须借由全身的力量，发挥踏板的平衡作用，进而有高强度的运动效果，因此，大致来说，可以算是一种健身器材。
 1	（	（	PU	PU	_	17	punct	_	start_char=0|end_char=1
 2	示范	示范	VV	VV	_	3	nsubj	_	start_char=2|end_char=4
 3	进行	进行	VV	VV	_	4	acl	_	start_char=5|end_char=7
@@ -384,6 +413,8 @@
 108	器材	器材	NN	NN	_	103	ccomp	_	start_char=275|end_char=277
 109	。	。	PU	PU	_	17	punct	_	start_char=278|end_char=279
 
+# sent_id = gcdt_interview_ideal-10
+# text = 虽然台北国际自行车展，和体育用品展同档期、不同地点展出，但在创新产品的征选部分，为何要选择体育用品展？
 1	虽然	虽然	CS	CS	_	14	advmod	_	start_char=0|end_char=2
 2	台北	台北	NR	NR	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	国际	国际	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -414,11 +445,15 @@
 28	用品展	用品展	NN	NN	_	26	dobj	_	start_char=74|end_char=77
 29	？	？	PU	PU	_	26	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_interview_ideal-11
+# text = 还是其他考量？
 1	还是	还是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	其他	其他	DT	DT	_	3	det	_	start_char=3|end_char=5
 3	考量	考量	NN	NN	_	0	root	_	start_char=6|end_char=8
 4	？	？	PU	PU	_	3	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_interview_ideal-12
+# text = 3G Bike，诚如先前所言，功能上较偏向于健身，虽然不能完全说是一台自行车，但却是富含多项机能的一台健身车，而且在零件的调整上，也是可以上手的。
 1	3G	3G	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	Bike	Bike	NN	NN	_	13	nsubj	_	start_char=3|end_char=7
 3	，	，	PU	PU	_	13	punct	_	start_char=8|end_char=9
@@ -470,6 +505,8 @@
 49	的	的	SP	SP	_	48	discourse	_	start_char=118|end_char=119
 50	。	。	PU	PU	_	13	punct	_	start_char=120|end_char=121
 
+# sent_id = gcdt_interview_ideal-13
+# text = 也就是说，主要会参选的原因，是以健身（Fitness）做为考量？
 1	也就是说	也就是说	AD	AD	_	15	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	15	punct	_	start_char=5|end_char=6
 3	主要	主要	AD	AD	_	5	advmod	_	start_char=7|end_char=9
@@ -489,6 +526,8 @@
 17	考量	考量	NN	NN	_	15	dobj	_	start_char=45|end_char=47
 18	？	？	PU	PU	_	15	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_interview_ideal-14
+# text = 自行车在传统上来说，只有下半身有运动到，但是我们（爱地雅科技）的3G Bike，本身因为考量到健身的需求，因此可以让全身都运动到，因为当使用者要使力来踩踏板时，需要用到上半身的力量，速度会和律动性成正相关。
 1	自行车	自行车	NN	NN	_	10	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	3	case	_	start_char=4|end_char=5
 3	传统	传统	NN	NN	_	10	nmod:prep	_	start_char=6|end_char=8
@@ -554,6 +593,8 @@
 63	相关	相关	VA	VA	_	10	conj	_	start_char=161|end_char=163
 64	。	。	PU	PU	_	10	punct	_	start_char=164|end_char=165
 
+# sent_id = gcdt_interview_ideal-15
+# text = 除了健身，也含有人体工学（Artificial Intelligence）的要素？
 1	除了	除了	P	P	_	2	case	_	start_char=0|end_char=2
 2	健身	健身	NN	NN	_	5	nmod:prep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	5	punct	_	start_char=6|end_char=7
@@ -569,11 +610,15 @@
 13	要素	要素	NN	NN	_	5	dobj	_	start_char=49|end_char=51
 14	？	？	PU	PU	_	5	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_interview_ideal-16
+# text = 以及其他特点？
 1	以及	以及	CC	CC	_	3	cc	_	start_char=0|end_char=2
 2	其他	其他	DT	DT	_	3	det	_	start_char=3|end_char=5
 3	特点	特点	NN	NN	_	0	root	_	start_char=6|end_char=8
 4	？	？	PU	PU	_	3	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_interview_ideal-17
+# text = 这台车（3G Bike）当初是主打美国的市场，起因是因为欧美地区的饮食文化，加上运动习惯的偏差，想说只把自行车当休闲机能，因此，3G Bike设计的目的，就是希望能达成健身与休闲的效果，并且也有针对儿童设计的车型，会针对儿童族群设计的原因，则是希望能打破传统的“滑板车”印象，让儿童不但可以对一种新的发明更有兴趣，更可训练其平衡感。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	台	台	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	车	车	NN	NN	_	50	nmod:topic	_	start_char=4|end_char=5
@@ -682,6 +727,8 @@
 106	平衡感	平衡感	NN	NN	_	104	dobj	_	start_char=265|end_char=268
 107	。	。	PU	PU	_	104	punct	_	start_char=269|end_char=270
 
+# sent_id = gcdt_interview_ideal-18
+# text = 以往，有些人对自行车是很恐惧的，因为要坐着，而且要借由骑乘，进行动态平衡，但是这台车，却是较偏向于运动健身型的，而且还有一项隐藏的优势，就是身高和衣着，并不会影响到骑乘的效果。
 1	以往	以往	NT	NT	_	9	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	有些	有些	DT	DT	_	4	det	_	start_char=5|end_char=7
@@ -743,6 +790,8 @@
 59	效果	效果	NN	NN	_	55	dobj	_	start_char=143|end_char=145
 60	。	。	PU	PU	_	9	punct	_	start_char=146|end_char=147
 
+# sent_id = gcdt_interview_ideal-19
+# text = Part 2：展览、展馆、竞赛的三合一。
 1	Part	Part	NN	NN	_	10	dep	_	start_char=0|end_char=4
 2	2	2	CD	CD	_	10	dep	_	start_char=5|end_char=6
 3	：	：	PU	PU	_	10	punct	_	start_char=7|end_char=8
@@ -755,6 +804,8 @@
 10	三合一	三合一	NN	NN	_	0	root	_	start_char=24|end_char=27
 11	。	。	PU	PU	_	10	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_interview_ideal-20
+# text = 对于自行车展、体育用品展在同档期、不同地点展出的看法？
 1	对于	对于	P	P	_	5	case	_	start_char=0|end_char=2
 2	自行车展	自行车展	NN	NN	_	5	conj	_	start_char=3|end_char=7
 3	、	、	PU	PU	_	5	punct	_	start_char=8|end_char=9
@@ -771,6 +822,8 @@
 14	看法	看法	NN	NN	_	0	root	_	start_char=37|end_char=39
 15	？	？	PU	PU	_	14	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_interview_ideal-21
+# text = 虽然自行车是很重要的产业，但会想到让这种多功能的产品在体育用品展登场，是基于它的健身机能，更希望“自行车不应当只是单纯的自行车”。
 1	虽然	虽然	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	自行车	自行车	NN	NN	_	7	nsubj	_	start_char=3|end_char=6
 3	是	是	VC	VC	_	7	cop	_	start_char=7|end_char=8
@@ -815,6 +868,8 @@
 42	”	”	PU	PU	_	41	punct	_	start_char=104|end_char=105
 43	。	。	PU	PU	_	11	punct	_	start_char=106|end_char=107
 
+# sent_id = gcdt_interview_ideal-22
+# text = 20多年前，自行车展曾一度是体育用品展的一部分，但在自行车的外销市场逐渐成长后，贸协决定将自行车从体育用品产业划分出来，演变成现在的局面。
 1	20多	20多	CD	CD	_	13	advmod:loc	_	start_char=0|end_char=3
 2	年	年	M	M	_	1	mark:clf	_	start_char=4|end_char=5
 3	前	前	LC	LC	_	1	case	_	start_char=6|end_char=7
@@ -857,6 +912,8 @@
 40	局面	局面	NN	NN	_	36	dobj	_	start_char=105|end_char=107
 41	。	。	PU	PU	_	13	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_interview_ideal-23
+# text = 这是一种不错的方式，虽然自行车、健身用品两产业的市场性质极度相似，但是制造商的性质却截然不同，而买主想要的资源也可能会以健身用品为主要走向，因此尽管是相似的产业，但我希望有适当的切割。
 1	这	这	PN	PN	_	7	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	7	cop	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	7	nummod	_	start_char=4|end_char=5
@@ -916,6 +973,8 @@
 57	切割	切割	NN	NN	_	54	dobj	_	start_char=145|end_char=147
 58	。	。	PU	PU	_	7	punct	_	start_char=148|end_char=149
 
+# sent_id = gcdt_interview_ideal-24
+# text = 对于今年让环台赛、自行车展、体育用品展三合一的看法？
 1	对于	对于	P	P	_	12	case	_	start_char=0|end_char=2
 2	今年	今年	NT	NT	_	3	nmod:tmod	_	start_char=3|end_char=5
 3	让	让	VV	VV	_	12	acl	_	start_char=6|end_char=7
@@ -930,9 +989,13 @@
 12	看法	看法	NN	NN	_	0	root	_	start_char=34|end_char=36
 13	？	？	PU	PU	_	12	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_interview_ideal-25
+# text = 环台赛？
 1	环台赛	环台赛	NN	NN	_	0	root	_	start_char=0|end_char=3
 2	？	？	PU	PU	_	1	punct	_	start_char=4|end_char=5
 
+# sent_id = gcdt_interview_ideal-26
+# text = 是一项自由车的竞技。
 1	是	是	VC	VC	_	6	cop	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	4	nummod	_	start_char=2|end_char=3
 3	项	项	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -941,6 +1004,8 @@
 6	竞技	竞技	NN	NN	_	0	root	_	start_char=12|end_char=14
 7	。	。	PU	PU	_	6	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_interview_ideal-27
+# text = 这种整合不仅恰到好处，甚至对于会展的人气或买气，都有一定程度的提升。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	整合	整合	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -963,6 +1028,8 @@
 20	提升	提升	NN	NN	_	16	dobj	_	start_char=50|end_char=52
 21	。	。	PU	PU	_	5	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_interview_ideal-28
+# text = 这是否有助于自行车、体育用品、竞技运动产业？
 1	这	这	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	是否	是否	VV	VV	_	3	xcomp	_	start_char=2|end_char=4
 3	有助于	有助于	VV	VV	_	0	root	_	start_char=5|end_char=8
@@ -976,6 +1043,8 @@
 11	产业	产业	NN	NN	_	3	dobj	_	start_char=29|end_char=31
 12	？	？	PU	PU	_	3	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_interview_ideal-29
+# text = 确实，因为这种三合一，可以让两边的买主，互相了解不同产业的走势，而借由比赛与展览的整合，更可帮助展览名气的提升。
 1	确实	确实	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	因为	因为	P	P	_	6	case	_	start_char=5|end_char=7

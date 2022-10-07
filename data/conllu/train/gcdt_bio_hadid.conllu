@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_hadid
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-11-14
+# meta::sourceURL = https://zh.wikipedia.org/w/index.php?title=%E8%96%A9%E5%93%88%C2%B7%E5%93%88%E5%B8%9D&oldid=68653107
+# meta::speakerCount = 0
+# meta::title = 扎哈·哈迪德
+# meta::shortTitle = hadid
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_hadid-1
+# text = 扎哈·哈迪德
 1	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	0	root	_	start_char=0|end_char=6
 
+# sent_id = gcdt_bio_hadid-2
+# text = 扎哈·穆罕默德·哈迪德女爵士，DBE（英语：Dame Zaha Mohammad Hadid；阿拉伯语：زها حديد‎，1950年10月31日－2016年3月31日），香港译萨哈·哈帝，台湾译札哈·哈蒂，生于伊拉克巴格达，伊拉克裔英国建筑师，后来定居英国，于2004年成为首位获得普利兹克建筑奖的女性建筑师。-LSB-1-RSB-
 1	扎哈·穆罕默德·哈迪德	扎哈·穆罕默德·哈迪德	NR	NR	_	3	nmod	_	start_char=0|end_char=11
 2	女	女	JJ	JJ	_	3	amod	_	start_char=12|end_char=13
 3	爵士	爵士	NN	NN	_	17	nmod:topic	_	start_char=14|end_char=16
@@ -64,6 +79,8 @@
 62	1	1	CD	CD	_	63	dep	_	start_char=218|end_char=219
 63	-RSB-	-RSB-	X	X	_	17	dep	_	start_char=220|end_char=225
 
+# sent_id = gcdt_bio_hadid-3
+# text = 她于2010年和2011年获得英国建筑的最高荣誉－斯特灵奖（Stirling Prize）。
 1	她	她	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	于	于	P	P	_	5	case	_	start_char=2|end_char=3
 3	2010年	2010年	NT	NT	_	5	conj	_	start_char=4|end_char=9
@@ -83,6 +100,8 @@
 17	）	）	PU	PU	_	16	punct	_	start_char=59|end_char=60
 18	。	。	PU	PU	_	6	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_bio_hadid-4
+# text = 2012年，由于她在建筑上的成就，她被伊丽莎白二世授予女爵士的爵位。
 1	2012年	2012年	NT	NT	_	15	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	15	punct	_	start_char=6|end_char=7
 3	由于	由于	P	P	_	9	case	_	start_char=8|end_char=10
@@ -104,6 +123,8 @@
 19	爵位	爵位	NN	NN	_	15	dobj	_	start_char=49|end_char=51
 20	。	。	PU	PU	_	15	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_hadid-5
+# text = 2015年，她成为第一位且唯一位从英国皇家建筑师协会获得皇家金奖（Royal Gold Medal）的女性。-LSB-2-RSB--LSB-3-RSB-
 1	2015年	2015年	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
 3	她	她	PN	PN	_	4	nsubj	_	start_char=8|end_char=9
@@ -136,6 +157,8 @@
 30	3	3	CD	CD	_	4	dep	_	start_char=97|end_char=98
 31	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=99|end_char=104
 
+# sent_id = gcdt_bio_hadid-6
+# text = 以上的成就使得她在国际建筑界享负盛名。
 1	以上	以上	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	成就	成就	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -148,6 +171,8 @@
 10	盛名	盛名	NN	NN	_	9	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_bio_hadid-7
+# text = 除建筑奖项外，媒体也给予她极高的评价，如：伦敦卫报称她为“曲线女王（Queen of the curve）”。-LSB-4-RSB-
 1	除	除	P	P	_	3	case	_	start_char=0|end_char=1
 2	建筑	建筑	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	奖项	奖项	NN	NN	_	8	nmod:prep	_	start_char=5|end_char=7
@@ -184,6 +209,8 @@
 34	4	4	CD	CD	_	35	dep	_	start_char=90|end_char=91
 35	-RSB-	-RSB-	NN	NN	_	8	conj	_	start_char=92|end_char=97
 
+# sent_id = gcdt_bio_hadid-8
+# text = 而纽约时报则赞扬她，“解放了建筑几何学，并赋予它一种全新的表现形式。”-LSB-5-RSB-
 1	而	而	AD	AD	_	5	advmod	_	start_char=0|end_char=1
 2	纽约	纽约	NR	NR	_	3	compound:nn	_	start_char=2|end_char=4
 3	时报	时报	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -212,6 +239,8 @@
 26	5	5	CD	CD	_	27	dep	_	start_char=65|end_char=66
 27	-RSB-	-RSB-	NN	NN	_	5	dep	_	start_char=67|end_char=72
 
+# sent_id = gcdt_bio_hadid-9
+# text = 她的主要作品包含2012年伦敦奥运的伦敦水上运动中心，美国密歇根州立大学伊莱和伊迪特·布罗德美术馆和中国广州大剧院。
 1	她	她	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	主要	主要	JJ	JJ	_	4	amod	_	start_char=4|end_char=6
@@ -241,6 +270,8 @@
 27	剧院	剧院	NN	NN	_	5	dobj	_	start_char=81|end_char=83
 28	。	。	PU	PU	_	5	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_bio_hadid-10
+# text = 部分的建筑作品在她过世时完成，包含2017年全英音乐奖的雕像-LSB-6-RSB-；而有些作品在她去世时仍在修建，包含位于卡塔尔的沃克拉体育场（Al Wakrah Stadium），2022年世界杯足球赛的会场 ，新北市的淡江大桥。
 1	部分	部分	CD	CD	_	4	nummod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	建筑	建筑	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -297,12 +328,16 @@
 54	大桥	大桥	NN	NN	_	33	dobj	_	start_char=163|end_char=165
 55	。	。	PU	PU	_	9	punct	_	start_char=166|end_char=167
 
+# sent_id = gcdt_bio_hadid-11
+# text = 早期生活和学术生涯
 1	早期	早期	NN	NN	_	5	compound:nn	_	start_char=0|end_char=2
 2	生活	生活	NN	NN	_	5	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	5	cc	_	start_char=6|end_char=7
 4	学术	学术	NN	NN	_	5	compound:nn	_	start_char=8|end_char=10
 5	生涯	生涯	NN	NN	_	0	root	_	start_char=11|end_char=13
 
+# sent_id = gcdt_bio_hadid-12
+# text = 哈迪德于1950年10月31日出生在伊拉克首都巴格达，家庭背景属于上流社会。-LSB-7-RSB-
 1	哈迪德	哈迪德	NR	NR	_	6	nsubj	_	start_char=0|end_char=3
 2	于	于	P	P	_	5	case	_	start_char=4|end_char=5
 3	1950年	1950年	NT	NT	_	5	compound:nn	_	start_char=6|end_char=11
@@ -324,6 +359,8 @@
 19	7	7	CD	CD	_	20	dep	_	start_char=61|end_char=62
 20	-RSB-	-RSB-	NN	NN	_	6	conj	_	start_char=63|end_char=68
 
+# sent_id = gcdt_bio_hadid-13
+# text = 她的父亲Mohammed Hadid是摩苏尔富有的实业家，他于1932年共同创办了左派自由派阿哈利集团（Ahali group），这是20世纪30年代与40年代重要的政治组织-LSB-7-RSB-；他也是伊拉克全国民主党（National Democratic Party）的联合创始人-LSB-7-RSB-，并于1958年的伊拉克政变后为阿卜杜勒-卡里姆·卡塞姆将军政府推翻君主之后担任财务部长。
 1	她	她	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	父亲	父亲	NN	NN	_	5	dep	_	start_char=4|end_char=6
@@ -402,6 +439,8 @@
 76	部长	部长	NN	NN	_	74	dobj	_	start_char=267|end_char=269
 77	。	。	PU	PU	_	10	punct	_	start_char=270|end_char=271
 
+# sent_id = gcdt_bio_hadid-14
+# text = 她的母亲Wajiha al-Sabunji是摩苏尔艺术家-LSB-8-RSB-，而她的兄弟Foulath Hadid是阿拉伯事务的作家，会计师和专家-LSB-9-RSB-。
 1	她	她	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	母亲	母亲	NN	NN	_	5	dep	_	start_char=4|end_char=6
@@ -434,6 +473,8 @@
 30	-RSB-	-RSB-	NN	NN	_	11	conj	_	start_char=107|end_char=112
 31	。	。	PU	PU	_	11	punct	_	start_char=113|end_char=114
 
+# sent_id = gcdt_bio_hadid-15
+# text = 扎哈·哈迪德小时曾在英国和瑞士就读寄宿学校-LSB-10-RSB--LSB-11-RSB-，后大学本科阶段在黎巴嫩贝鲁特美国大学攻读数学系。
 1	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=6
 2	小时	小时	NN	NN	_	8	nsubj	_	start_char=7|end_char=9
 3	曾	曾	AD	AD	_	8	advmod	_	start_char=10|end_char=11
@@ -464,6 +505,8 @@
 28	数学系	数学系	NN	NN	_	27	dobj	_	start_char=93|end_char=96
 29	。	。	PU	PU	_	8	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_bio_hadid-16
+# text = 1972年，她从黎巴嫩搬到英国，就读英国伦敦建筑联盟学院后，才正式开始学习建筑。
 1	1972年	1972年	NT	NT	_	20	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	20	punct	_	start_char=6|end_char=7
 3	她	她	PN	PN	_	6	nsubj	_	start_char=8|end_char=9
@@ -487,6 +530,8 @@
 21	建筑	建筑	NN	NN	_	20	dobj	_	start_char=57|end_char=59
 22	。	。	PU	PU	_	6	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_bio_hadid-17
+# text = 在那里她师从雷姆·库哈斯、埃利亚·增西利斯和阿尔多·罗西-LSB-12-RSB-。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	那里	那里	PN	PN	_	4	nmod:prep	_	start_char=2|end_char=4
 3	她	她	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -501,6 +546,8 @@
 12	-RSB-	-RSB-	NN	NN	_	4	dobj	_	start_char=46|end_char=51
 13	。	。	PU	PU	_	4	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_hadid-18
+# text = 她的教授库哈斯在毕业典礼时形容她为“一颗处在自己轨道上的行星”。
 1	她	她	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	教授	教授	NN	NN	_	4	appos	_	start_char=4|end_char=6
@@ -525,6 +572,8 @@
 22	”	”	PU	PU	_	21	punct	_	start_char=51|end_char=52
 23	。	。	PU	PU	_	9	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_bio_hadid-19
+# text = 增西利斯则评价扎哈·哈迪德是自己教过最出色的学生。
 1	增西利斯	增西利斯	NR	NR	_	3	nsubj	_	start_char=0|end_char=4
 2	则	则	AD	AD	_	3	advmod	_	start_char=5|end_char=6
 3	评价	评价	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -538,6 +587,8 @@
 11	学生	学生	NN	NN	_	3	ccomp	_	start_char=32|end_char=34
 12	。	。	PU	PU	_	3	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_bio_hadid-20
+# text = “‘我们称她是89°的发明者，没有任何东西是90°（直角）’。
 1	“	“	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	‘	‘	PU	PU	_	4	punct	_	start_char=2|end_char=3
 3	我们	我	PN	PN	_	4	nsubj	_	start_char=4|end_char=6
@@ -561,6 +612,8 @@
 21	’	’	PU	PU	_	19	punct	_	start_char=49|end_char=50
 22	。	。	PU	PU	_	4	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_hadid-21
+# text = ‘她拥有恢弘的视野，所有的建筑都被分裂成小块’。”
 1	‘	‘	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	她	她	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	拥有	拥有	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -581,6 +634,8 @@
 18	。	。	PU	PU	_	3	punct	_	start_char=40|end_char=41
 19	”	”	PU	PU	_	3	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_bio_hadid-22
+# text = 他回忆说扎哈对于细节并不太感兴趣，比如说楼梯。
 1	他	他	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	回忆	回忆	VV	VV	_	3	compound:vc	_	start_char=2|end_char=4
 3	说	说	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -595,6 +650,8 @@
 12	楼梯	楼梯	NN	NN	_	9	dep	_	start_char=31|end_char=33
 13	。	。	PU	PU	_	3	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_bio_hadid-23
+# text = “她画楼梯的方式会让你的脑袋被天花板挤碎，空间在被不断的节省，最后你会被顶到天花板的角上。
 1	“	“	PU	PU	_	8	punct	_	start_char=0|end_char=1
 2	她	她	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	画	画	VV	VV	_	6	acl	_	start_char=4|end_char=5
@@ -628,6 +685,8 @@
 31	上	上	LC	LC	_	30	case	_	start_char=73|end_char=74
 32	。	。	PU	PU	_	8	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_bio_hadid-24
+# text = 她并不会去注意那些很小的细节，而是着重于更大的视野上，谈到细木工时她知道我们可以稍后修复调整，而这是十分英明的。”-LSB-13-RSB-。
 1	她	她	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	并不	并不	AD	AD	_	5	advmod	_	start_char=2|end_char=4
 3	会	会	VV	VV	_	5	aux:modal	_	start_char=5|end_char=6
@@ -673,6 +732,8 @@
 43	-RSB-	-RSB-	NN	NN	_	5	dep	_	start_char=106|end_char=111
 44	。	。	PU	PU	_	5	punct	_	start_char=112|end_char=113
 
+# sent_id = gcdt_bio_hadid-25
+# text = 1977年，取得硕士学位后，扎哈·哈迪德加入坐落于荷兰鹿特丹的大都会建筑事务所与她的前教授雷姆·库哈斯、埃利亚·增西利斯一起工作，通过与雷姆·库哈斯的合作，她结识了给予她许多支持与鼓励的爱尔兰建筑工程师彼得•莱斯。
 1	1977年	1977年	NT	NT	_	9	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	9	punct	_	start_char=6|end_char=7
 3	取得	取得	VV	VV	_	9	advcl:loc	_	start_char=8|end_char=10
@@ -722,6 +783,8 @@
 47	彼得•莱斯	彼得•莱斯	NR	NR	_	35	dobj	_	start_char=147|end_char=152
 48	。	。	PU	PU	_	9	punct	_	start_char=153|end_char=154
 
+# sent_id = gcdt_bio_hadid-26
+# text = 随后，扎哈·哈迪德正式成为英国居民-LSB-14-RSB--LSB-15-RSB-，并成为建筑联盟学院的老师。
 1	随后	随后	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	5	nsubj	_	start_char=5|end_char=11
@@ -745,6 +808,8 @@
 21	老师	老师	NN	NN	_	16	dobj	_	start_char=72|end_char=74
 22	。	。	PU	PU	_	5	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_bio_hadid-27
+# text = 1980年，扎哈·哈迪德在伦敦成立了自己的建筑师事务所。
 1	1980年	1980年	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
 3	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	6	nsubj	_	start_char=8|end_char=14
@@ -758,6 +823,8 @@
 11	事务所	事务所	NN	NN	_	6	dobj	_	start_char=34|end_char=37
 12	。	。	PU	PU	_	6	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_hadid-28
+# text = 直到1980年前，扎哈·哈迪德基本上以教职为重心发展，曾先后在纽约市哥伦比亚大学、波士顿的哈佛大学、芝加哥大学、伊利诺伊大学、柏林艺术大学任教。
 1	直	直	AD	AD	_	12	nmod:prep	_	start_char=0|end_char=1
 2	到	到	P	P	_	3	case	_	start_char=2|end_char=3
 3	1980年	1980年	NT	NT	_	1	dep	_	start_char=4|end_char=9
@@ -795,6 +862,8 @@
 35	任教	任教	VV	VV	_	12	conj	_	start_char=103|end_char=105
 36	。	。	PU	PU	_	12	punct	_	start_char=106|end_char=107
 
+# sent_id = gcdt_bio_hadid-29
+# text = 扎哈·哈迪德最初得名于其授课方式及广泛发表于建筑杂志但却未被修建的那些早期色彩斑斓而充满创意的设计作品。
 1	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	3	nsubj	_	start_char=0|end_char=6
 2	最初	最初	AD	AD	_	3	advmod	_	start_char=7|end_char=9
 3	得名于	得名于	VV	VV	_	0	root	_	start_char=10|end_char=13
@@ -824,6 +893,8 @@
 27	作品	作品	NN	NN	_	3	dobj	_	start_char=75|end_char=77
 28	。	。	PU	PU	_	3	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_hadid-30
+# text = 其中包括1983年为香港设计的高塔草图以及1994年设计的加的夫湾歌剧院。
 1	其中	其中	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	包括	包括	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	1983年	1983年	NT	NT	_	6	nmod:tmod	_	start_char=6|end_char=11
@@ -841,6 +912,8 @@
 15	歌剧院	歌剧院	NN	NN	_	2	dobj	_	start_char=47|end_char=50
 16	。	。	PU	PU	_	2	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_hadid-31
+# text = 在加的夫的这段经历颇具周折：她的设计被竞选评委会选为最佳，但威尔士政府拒绝为此建设买单，因此评选委员会不得不退而求其次选择了其他的设计方案-LSB-16-RSB-。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	加的夫	加的夫	NR	NR	_	6	nmod:assmod	_	start_char=2|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -885,6 +958,8 @@
 42	-RSB-	-RSB-	NN	NN	_	34	dobj	_	start_char=117|end_char=122
 43	。	。	PU	PU	_	8	punct	_	start_char=123|end_char=124
 
+# sent_id = gcdt_bio_hadid-32
+# text = 扎哈·哈迪德的设计作品以其大胆丰富的设计感和色彩是她蜚声海外，远远高于她在建筑教学领域的成功。
 1	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	4	nmod:assmod	_	start_char=0|end_char=6
 2	的	的	DEG	DEG	_	1	case	_	start_char=7|end_char=8
 3	设计	设计	NN	NN	_	4	compound:nn	_	start_char=9|end_char=11
@@ -913,6 +988,8 @@
 26	成功	成功	NN	NN	_	19	dobj	_	start_char=69|end_char=71
 27	。	。	PU	PU	_	15	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_bio_hadid-33
+# text = 1988年她的作品被由菲力普·约翰逊、马克·威格利在纽约现代艺术博物馆策划的建筑结构主义展览选中，成为七个参展建筑作品之一，这也极大奠定了扎哈·哈迪德在建筑界的影响力-LSB-17-RSB-。
 1	1988年	1988年	NT	NT	_	21	nmod:tmod	_	start_char=0|end_char=5
 2	她	她	PN	PN	_	4	nmod:assmod	_	start_char=6|end_char=7
 3	的	的	DEG	DEG	_	2	case	_	start_char=8|end_char=9
@@ -959,9 +1036,13 @@
 44	-RSB-	-RSB-	NN	NN	_	35	dobj	_	start_char=133|end_char=138
 45	。	。	PU	PU	_	21	punct	_	start_char=139|end_char=140
 
+# sent_id = gcdt_bio_hadid-34
+# text = 1983年后
 1	1983年	1983年	NT	NT	_	0	root	_	start_char=0|end_char=5
 2	后	后	LC	LC	_	1	case	_	start_char=6|end_char=7
 
+# sent_id = gcdt_bio_hadid-35
+# text = 1983年，扎哈·哈迪德的作品开始出现在重要国际建筑竞图的入选者中，使她引起世人的注目，一开始是1983年香港的“峰”俱乐部（The Peak Club），接着是1986年柏林的Kufurstendamm购物街，都是一等优胜奖。
 1	1983年	1983年	NT	NT	_	7	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	7	punct	_	start_char=6|end_char=7
 3	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	5	nmod:assmod	_	start_char=8|end_char=14
@@ -1016,6 +1097,8 @@
 52	奖	奖	NN	NN	_	7	conj	_	start_char=161|end_char=162
 53	。	。	PU	PU	_	7	punct	_	start_char=163|end_char=164
 
+# sent_id = gcdt_bio_hadid-36
+# text = 然后是1989年杜塞尔多夫的艺术媒体中心和1994年的加的夫歌剧院。
 1	然后	然后	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	13	cop	_	start_char=3|end_char=4
 3	1989年	1989年	NT	NT	_	13	dep	_	start_char=5|end_char=10
@@ -1031,6 +1114,8 @@
 13	歌剧院	歌剧院	NN	NN	_	0	root	_	start_char=42|end_char=45
 14	。	。	PU	PU	_	13	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_bio_hadid-37
+# text = 她的设计才华也不仅止于建筑，还包括了室内设计与产品设计，1985年，扎哈·哈迪德曾为伦敦Bitar品牌，设计过家具与室内装饰。
 1	她	她	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	设计	设计	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1066,6 +1151,8 @@
 33	装饰	装饰	NN	NN	_	28	dobj	_	start_char=92|end_char=94
 34	。	。	PU	PU	_	7	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_bio_hadid-38
+# text = 其承接的建筑案中，不少室内设计都出自哈迪德之手，如在1982年获得建筑设计金奖的伊顿广场公寓、1998年在东京设计的公寓、1990年在大阪设计的Folly等。
 1	其	其	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	承接	承接	VV	VV	_	4	acl	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	2	mark	_	start_char=5|end_char=6
@@ -1110,6 +1197,8 @@
 42	等	等	ETC	ETC	_	41	etc	_	start_char=118|end_char=119
 43	。	。	PU	PU	_	11	punct	_	start_char=120|end_char=121
 
+# sent_id = gcdt_bio_hadid-39
+# text = 1990年开始她也承接了不少的大型展场设计，如Gronningen的视觉艺术设计展馆、1992年纽约所罗门·古根汉美术馆的展览。
 1	1990年	1990年	NT	NT	_	5	advmod:loc	_	start_char=0|end_char=5
 2	开始	开始	LC	LC	_	1	case	_	start_char=6|end_char=8
 3	她	她	PN	PN	_	5	nsubj	_	start_char=9|end_char=10
@@ -1138,6 +1227,8 @@
 26	展览	展览	NN	NN	_	5	dobj	_	start_char=86|end_char=88
 27	。	。	PU	PU	_	5	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_bio_hadid-40
+# text = 1994年，扎哈·哈迪德获得了英国威尔士卡的夫湾歌剧院竞图方案的一等奖。
 1	1994年	1994年	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
 3	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	4	nsubj	_	start_char=8|end_char=14
@@ -1154,6 +1245,8 @@
 14	奖	奖	NN	NN	_	4	dobj	_	start_char=47|end_char=48
 15	。	。	PU	PU	_	4	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_bio_hadid-41
+# text = 但是，最终因卡的夫地方的反对而未能实现。
 1	但是	但是	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	11	punct	_	start_char=3|end_char=4
 3	最终	最终	AD	AD	_	11	advmod	_	start_char=5|end_char=7
@@ -1167,6 +1260,8 @@
 11	实现	实现	VV	VV	_	0	root	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	11	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_hadid-42
+# text = 2008年设计2万人座位伦敦水上运动中心，此水运中心是为2012年夏季奥运场地之一。
 1	2008年	2008年	NT	NT	_	2	nmod:tmod	_	start_char=0|end_char=5
 2	设计	设计	VV	VV	_	0	root	_	start_char=6|end_char=8
 3	2万	2万	CD	CD	_	4	dep	_	start_char=9|end_char=11
@@ -1189,6 +1284,8 @@
 20	之一	之一	NN	NN	_	2	conj	_	start_char=58|end_char=60
 21	。	。	PU	PU	_	2	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_bio_hadid-43
+# text = 2016年3月31日，在美国佛罗里达州迈阿密一间医院因心脏病逝世，享寿65岁。-LSB-18-RSB-
 1	2016年	2016年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	3月	3月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=8
 3	31日	31日	NT	NT	_	16	nmod:tmod	_	start_char=9|end_char=12
@@ -1212,6 +1309,8 @@
 21	18	18	CD	CD	_	22	dep	_	start_char=64|end_char=66
 22	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=67|end_char=72
 
+# sent_id = gcdt_bio_hadid-44
+# text = 2017年，香港及台湾展出扎哈·哈迪德的回顾展，让建筑迷们可亲眼了解大师多年来的创意之路及她的作品-LSB-19-RSB-。
 1	2017年	2017年	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
 3	香港	香港	NR	NR	_	5	conj	_	start_char=8|end_char=10

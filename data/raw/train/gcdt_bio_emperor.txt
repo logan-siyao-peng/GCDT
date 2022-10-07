@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_emperor" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-09-11" shortTitle="emperor" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96&oldid=67654876" speakerCount="0" speakerList="none" title="诺顿一世" type="bio"/>
+<text id="gum_zh_bio_emperor" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-09-11" shortTitle="emperor" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%AF%BA%E9%A1%BF%E4%B8%80%E4%B8%96&amp;oldid=67654876" speakerCount="0" speakerList="none" title="诺顿一世" genre="bio"/>
 诺顿一世
 
 约书亚·亚伯拉罕·诺顿（英语：Joshua Abraham Norton，1818年2月4日－1880年1月8日）又称“诺顿一世”（Emperor Norton I），美国旧金山著名市民，分别在1859年9月17日和1863年自封为“美利坚合众国皇帝”（Emperor of the United States）和“墨西哥摄政王”（Protector of Mexico）。

@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_apple
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2021-09-16
+# meta::dateModified = 2021-09-23
+# meta::sourceURL = https://zh.wikinews.org/wiki/TikTok%E5%87%BA%E5%94%AE%E6%88%96%E9%A1%BB%E5%85%88%E5%BE%97%E5%8C%97%E4%BA%AC%E5%90%8C%E6%84%8F
+# meta::speakerCount = 0
+# meta::title = 2021年Apple秋季新品发布会：iPhone 13系列等新产品上市
+# meta::shortTitle = apple
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_apple-1
+# text = 2021年Apple秋季新品发布会：iPhone 13系列等新产品上市
 1	2021年	2021年	NT	NT	_	13	nmod:tmod	_	start_char=0|end_char=5
 2	Apple	Apple	NR	NR	_	5	compound:nn	_	start_char=6|end_char=11
 3	秋季	秋季	NT	NT	_	5	compound:nn	_	start_char=12|end_char=14
@@ -12,6 +25,8 @@
 12	产品	产品	NN	NN	_	13	nsubj	_	start_char=41|end_char=43
 13	上市	上市	VV	VV	_	0	root	_	start_char=44|end_char=46
 
+# sent_id = gcdt_news_apple-2
+# text = 【2021年9月16日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2021年	2021年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	9月	9月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -19,6 +34,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_apple-3
+# text = 2021年Apple秋季新品发布会于美国西岸时间9月14日上午10点，台北时间9月15日凌晨1点举办。
 1	2021年	2021年	NT	NT	_	21	nmod:tmod	_	start_char=0|end_char=5
 2	Apple	Apple	NR	NR	_	5	compound:nn	_	start_char=6|end_char=11
 3	秋季	秋季	NT	NT	_	5	compound:nn	_	start_char=12|end_char=14
@@ -42,6 +59,8 @@
 21	举办	举办	VV	VV	_	0	root	_	start_char=68|end_char=70
 22	。	。	PU	PU	_	21	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_news_apple-4
+# text = 采用与去年相同的线上会议形式，正式发表新一代 iPhone 13系列、iPad 9、iPad mini 6、及 Apple Watch Series 7 等系列新品。
 1	采用	采用	VV	VV	_	11	dep	_	start_char=0|end_char=2
 2	与	与	P	P	_	8	case	_	start_char=3|end_char=4
 3	去年	去年	NT	NT	_	4	nmod:tmod	_	start_char=5|end_char=7
@@ -75,6 +94,8 @@
 31	新品	新品	NN	NN	_	11	dobj	_	start_char=100|end_char=102
 32	。	。	PU	PU	_	11	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_news_apple-5
+# text = 几款新品相较前代产品均有不同方面的提升，下面请看记者总结的产品概况汇总。
 1	几	几	CD	CD	_	3	nummod	_	start_char=0|end_char=1
 2	款	款	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	新品	新品	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -99,10 +120,14 @@
 22	汇总	汇总	NN	NN	_	16	dobj	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	8	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_news_apple-6
+# text = iPhone 13系列
 1	iPhone	iPhone	NR	NR	_	2	dep	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	0	root	_	start_char=7|end_char=9
 3	系列	系列	M	M	_	2	mark:clf	_	start_char=10|end_char=12
 
+# sent_id = gcdt_news_apple-7
+# text = 作为Apple公司最新的旗舰智能手机系列，iPhone 13全系列取消了64GB内存版本，改以128GB为最低内存版本。
 1	作为	作为	P	P	_	9	case	_	start_char=0|end_char=2
 2	Apple	Apple	NR	NR	_	3	compound:nn	_	start_char=3|end_char=8
 3	公司	公司	NN	NN	_	9	nmod	_	start_char=9|end_char=11
@@ -133,6 +158,8 @@
 28	版本	版本	NN	NN	_	22	dobj	_	start_char=83|end_char=85
 29	。	。	PU	PU	_	15	punct	_	start_char=86|end_char=87
 
+# sent_id = gcdt_news_apple-8
+# text = 搭载5nm制程的A15仿生芯片，拥有近 150 亿个晶体管。
 1	搭载	搭载	VV	VV	_	8	acl	_	start_char=0|end_char=2
 2	5	5	CD	CD	_	4	nummod	_	start_char=3|end_char=4
 3	nm	nm	M	M	_	2	mark:clf	_	start_char=5|end_char=7
@@ -149,6 +176,8 @@
 14	晶体管	晶体管	NN	NN	_	10	dobj	_	start_char=37|end_char=40
 15	。	。	PU	PU	_	10	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_news_apple-9
+# text = 根据官方资料，具有两个高性能内核和四个高效内核的全新6核 CPU 比竞争对手快 50%，而新的4核GPU比竞争对手快 30%。
 1	根据	根据	P	P	_	3	case	_	start_char=0|end_char=2
 2	官方	官方	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	资料	资料	NN	NN	_	5	nmod:prep	_	start_char=6|end_char=8
@@ -187,6 +216,8 @@
 36	30%	30%	CD	CD	_	5	dep	_	start_char=90|end_char=93
 37	。	。	PU	PU	_	24	punct	_	start_char=94|end_char=95
 
+# sent_id = gcdt_news_apple-10
+# text = 新的16核神经引擎每秒可进行15.8万亿次运算，能带来更快的机器学习计算等功能。
 1	新	新	VA	VA	_	6	amod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	16	16	CD	CD	_	6	dep	_	start_char=4|end_char=6
@@ -213,6 +244,8 @@
 24	功能	功能	NN	NN	_	16	dobj	_	start_char=60|end_char=62
 25	。	。	PU	PU	_	10	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_news_apple-11
+# text = iPhone 13 Pro 的相机被认为是 iPhone 历代以来最大幅度的升级。
 1	iPhone	iPhone	NR	NR	_	3	nmod	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	3	dep	_	start_char=7|end_char=9
 3	Pro	Pro	NN	NN	_	5	nmod:assmod	_	start_char=10|end_char=13
@@ -230,6 +263,8 @@
 15	升级	升级	NN	NN	_	7	ccomp	_	start_char=47|end_char=49
 16	。	。	PU	PU	_	7	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_apple-12
+# text = 虽然仍然是三镜头设计，但每颗镜头都有明显的进步。
 1	虽然	虽然	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	仍然	仍然	AD	AD	_	6	advmod	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	6	cop	_	start_char=6|end_char=7
@@ -248,6 +283,8 @@
 16	进步	进步	NN	NN	_	13	dobj	_	start_char=36|end_char=38
 17	。	。	PU	PU	_	13	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_news_apple-13
+# text = 首先介绍广角主镜头部分，全幅等效焦距同样是 26mm，像素密度 1.9 微米，但光圈拓展到了史上最大的 f/1.5，同时具备感光元件位移的光学式影像稳定功能。
 1	首先	首先	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	介绍	介绍	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	广角	广角	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8
@@ -291,6 +328,8 @@
 41	功能	功能	NN	NN	_	33	dobj	_	start_char=112|end_char=114
 42	。	。	PU	PU	_	2	punct	_	start_char=115|end_char=116
 
+# sent_id = gcdt_news_apple-14
+# text = 超广角镜等效焦距则为 13mm，光圈更大达到 f/1.8，并新增微距模式，最近对焦距离仅只有 2cm。
 1	超广角镜	超广角镜	NN	NN	_	3	compound:nn	_	start_char=0|end_char=4
 2	等效	等效	NN	NN	_	3	compound:nn	_	start_char=5|end_char=7
 3	焦距	焦距	NN	NN	_	5	nsubj	_	start_char=8|end_char=10
@@ -320,6 +359,8 @@
 27	cm	cm	M	M	_	26	mark:clf	_	start_char=71|end_char=73
 28	。	。	PU	PU	_	5	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_news_apple-15
+# text = 望远镜头则改为稍远的 77mm 望远镜头，并具备 3 倍光学变焦。
 1	望远	望远	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	镜头	镜头	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	则	则	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -341,6 +382,8 @@
 19	变焦	变焦	NN	NN	_	15	dobj	_	start_char=44|end_char=46
 20	。	。	PU	PU	_	4	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_news_apple-16
+# text = iPhone 13 也在录影功能上加入了“电影效果模式”，即是说手机在录影时会记录更多画面的深度资讯。
 1	iPhone	iPhone	NR	NR	_	2	dep	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	8	nsubj	_	start_char=7|end_char=9
 3	也	也	AD	AD	_	8	advmod	_	start_char=10|end_char=11
@@ -372,6 +415,8 @@
 29	资讯	资讯	NN	NN	_	23	dobj	_	start_char=74|end_char=76
 30	。	。	PU	PU	_	8	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_news_apple-17
+# text = 当画面中有显眼的新的主体进入时，手机会自动辨识，并将焦点自然的转移到新的主体上，让画面变化更有“电影感”。
 1	当	当	P	P	_	4	case	_	start_char=0|end_char=1
 2	画面	画面	NN	NN	_	4	advmod:loc	_	start_char=2|end_char=4
 3	中	中	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -411,6 +456,8 @@
 37	”	”	PU	PU	_	36	punct	_	start_char=87|end_char=88
 38	。	。	PU	PU	_	16	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_news_apple-18
+# text = 除此之外，手机厉害之处还能在后制时调整录影画面的焦点，是目前市场上唯一支援拍摄后景深编辑的手机。
 1	除此之外	除此之外	AD	AD	_	12	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	29	punct	_	start_char=5|end_char=6
 3	手机	手机	NN	NN	_	4	nsubj	_	start_char=7|end_char=9
@@ -442,6 +489,8 @@
 29	手机	手机	NN	NN	_	16	conj	_	start_char=73|end_char=75
 30	。	。	PU	PU	_	16	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_news_apple-19
+# text = 而两款入门版 iPhone 13 系列手机，分别为屏幕 5.4 吋的 iPhone 13 mini，以及屏幕 6.1 吋的 iPhone 13。
 1	而	而	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	两	两	CD	CD	_	8	nummod	_	start_char=2|end_char=3
 3	款	款	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -470,6 +519,8 @@
 26	13	13	CD	CD	_	11	dep	_	start_char=82|end_char=84
 27	。	。	PU	PU	_	26	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_news_apple-20
+# text = 它们搭载 A15 Bionic 处理器，屏幕同样采用 OLED 面版。
 1	它们	它	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	搭载	搭载	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	A15	A15	NR	NR	_	5	compound:nn	_	start_char=6|end_char=9
@@ -483,6 +534,8 @@
 11	面版	面版	NN	NN	_	9	dobj	_	start_char=37|end_char=39
 12	。	。	PU	PU	_	2	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_news_apple-21
+# text = 相较于上一代最大改变在于 FaceID 的浏海缩小了 20%、听筒位置也移到上方边缘，双镜头组则经过重新设计。
 1	相较于	相较于	VV	VV	_	0	root	_	start_char=0|end_char=3
 2	上	上	DT	DT	_	6	det	_	start_char=4|end_char=5
 3	一	一	CD	CD	_	2	dep	_	start_char=6|end_char=7
@@ -512,6 +565,8 @@
 27	设计	设计	NN	NN	_	25	dobj	_	start_char=75|end_char=77
 28	。	。	PU	PU	_	7	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_news_apple-22
+# text = 去年 iPhone 12 Pro 中所搭载的感光元件位移式稳定功能，这次也下放给 iPhone 13 与 iPhone 13 mini，让手不稳的使用者也能拍出平稳画面。
 1	去年	去年	NT	NT	_	7	nmod:tmod	_	start_char=0|end_char=2
 2	iPhone	iPhone	NR	NR	_	4	nmod	_	start_char=3|end_char=9
 3	12	12	CD	CD	_	4	dep	_	start_char=10|end_char=12
@@ -551,10 +606,14 @@
 37	画面	画面	NN	NN	_	35	dobj	_	start_char=108|end_char=110
 38	。	。	PU	PU	_	18	punct	_	start_char=111|end_char=112
 
+# sent_id = gcdt_news_apple-23
+# text = 第九代 iPad
 1	第九	第九	OD	OD	_	3	nummod	_	start_char=0|end_char=2
 2	代	代	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	iPad	iPad	NN	NN	_	0	root	_	start_char=5|end_char=9
 
+# sent_id = gcdt_news_apple-24
+# text = Apple更新了入门等级的第九代 iPad，搭载 10.2 吋屏幕且支援 TureTone 原彩显示技术，内建全新 A13 仿生芯片，同时结合周边配件也可带给使用者们更好的使用体验。
 1	Apple	Apple	NN	NN	_	2	nsubj	_	start_char=0|end_char=5
 2	更新	更新	VV	VV	_	0	root	_	start_char=6|end_char=8
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=9|end_char=10
@@ -597,6 +656,8 @@
 40	体验	体验	NN	NN	_	34	dobj	_	start_char=120|end_char=122
 41	。	。	PU	PU	_	2	punct	_	start_char=123|end_char=124
 
+# sent_id = gcdt_news_apple-25
+# text = 采用了 A13 仿生芯片的 iPad 9，相较于前一代，A13 仿生芯片效能提升了 20%，绘图引擎和神经网络引擎也同步效能提升了 20% 之多。
 1	采用	采用	VV	VV	_	19	dep	_	start_char=0|end_char=2
 2	了	了	AS	AS	_	1	aux:asp	_	start_char=3|end_char=4
 3	A13	A13	NR	NR	_	5	compound:nn	_	start_char=5|end_char=8
@@ -634,6 +695,8 @@
 35	之多	之多	M	M	_	34	mark:clf	_	start_char=96|end_char=98
 36	。	。	PU	PU	_	19	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_news_apple-26
+# text = 搭载 800 万画素主镜头和1200万画素前置镜头，前镜头更支援 Center Stage，当视讯时会自动追踪影像中的人物，不论怎么移动都会影像中的人都会居中。
 1	搭载	搭载	VV	VV	_	14	dep	_	start_char=0|end_char=2
 2	800万	800万	CD	CD	_	3	dep	_	start_char=3|end_char=7
 3	画素	画素	NN	NN	_	4	compound:nn	_	start_char=8|end_char=10
@@ -676,11 +739,15 @@
 40	居中	居中	VV	VV	_	14	conj	_	start_char=112|end_char=114
 41	。	。	PU	PU	_	1	punct	_	start_char=115|end_char=116
 
+# sent_id = gcdt_news_apple-27
+# text = 第六代 iPad mini
 1	第六	第六	OD	OD	_	4	nummod	_	start_char=0|end_char=2
 2	代	代	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	iPad	iPad	NR	NR	_	4	compound:nn	_	start_char=5|end_char=9
 4	mini	mini	NN	NN	_	0	root	_	start_char=10|end_char=14
 
+# sent_id = gcdt_news_apple-28
+# text = 除新发布的iPad 9 之外，Apple也更新了iPad mini产品系列。
 1	除	除	P	P	_	6	case	_	start_char=0|end_char=1
 2	新	新	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	发布	发布	VV	VV	_	6	acl	_	start_char=4|end_char=6
@@ -699,6 +766,8 @@
 16	系列	系列	NN	NN	_	11	dobj	_	start_char=47|end_char=49
 17	。	。	PU	PU	_	11	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_apple-29
+# text = iPad mini 6 采用了全新设计，搭载了与iPhone13系列相同的A15芯片，性能更加强劲，并有粉红色、星光色、紫色，以及太空灰色，共四种颜色可供选择，，机身采用直角的边缘设计加圆润的边角，可以说是近来改变最大的 iPad mini系列产品。
 1	iPad	iPad	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=4
 2	mini	mini	NN	NN	_	3	compound:nn	_	start_char=5|end_char=9
 3	6	6	NN	NN	_	4	nsubj	_	start_char=10|end_char=11
@@ -768,6 +837,8 @@
 67	产品	产品	NN	NN	_	57	ccomp	_	start_char=183|end_char=185
 68	。	。	PU	PU	_	4	punct	_	start_char=186|end_char=187
 
+# sent_id = gcdt_news_apple-30
+# text = 屏幕为 Liquid Retina 显示器，亮度为 500 尼特，并具备 P3 广色域、原彩显示技术，并为全平面贴合设计。
 1	屏幕	屏幕	NN	NN	_	5	nsubj	_	start_char=0|end_char=2
 2	为	为	VC	VC	_	5	cop	_	start_char=3|end_char=4
 3	Liquid	Liquid	NN	NN	_	4	compound:nn	_	start_char=5|end_char=11
@@ -796,6 +867,8 @@
 26	设计	设计	NN	NN	_	25	dobj	_	start_char=76|end_char=78
 27	。	。	PU	PU	_	5	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_news_apple-31
+# text = 音效部分搭载立体声模式的全新扬声器系统，提供了更棒的音质表现。
 1	音效	音效	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	部分	部分	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	搭载	搭载	VV	VV	_	9	acl	_	start_char=6|end_char=8
@@ -815,11 +888,15 @@
 17	表现	表现	NN	NN	_	11	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	11	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_news_apple-32
+# text = Apple Watch Series 7
 1	Apple	Apple	NN	NN	_	3	compound:nn	_	start_char=0|end_char=5
 2	Watch	Watch	NN	NN	_	3	compound:nn	_	start_char=6|end_char=11
 3	Series	Series	NN	NN	_	0	root	_	start_char=12|end_char=18
 4	7	7	CD	CD	_	3	dep	_	start_char=19|end_char=20
 
+# sent_id = gcdt_news_apple-33
+# text = 最新款 Apple Watch Series 7 并不如之前 Rumors 所透露的具备方正设计，而是仍然维持传统造型，且外型显得更加圆润了一些，并强化耐用性，具备 IP6X 防尘，采用新的水晶玻璃，此外，它也拥有更快的充电速度，相较上一代提升了 33%，但续航力依旧维持 18 小时。
 1	最新款	最新款	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	Apple	Apple	NN	NN	_	3	compound:nn	_	start_char=4|end_char=9
 3	Watch	Watch	NN	NN	_	5	compound:nn	_	start_char=10|end_char=15
@@ -893,6 +970,8 @@
 71	小时	小时	NN	NN	_	69	dobj	_	start_char=198|end_char=200
 72	。	。	PU	PU	_	8	punct	_	start_char=201|end_char=202
 
+# sent_id = gcdt_news_apple-34
+# text = 另一项实用性方面的更新在于与 Apple Fitness+ 的协同运作，当使用者戴上 Apple Watch Series 7 运动时，可以将运动数据输出至 iPhone 上，并用子母画面或是辅助数据的方式观看即时的运动数值，对于室内健身的朋友来说也更加方便。
 1	另	另	DT	DT	_	5	det	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	项	项	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -953,10 +1032,14 @@
 58	方便	方便	VA	VA	_	8	conj	_	start_char=174|end_char=176
 59	。	。	PU	PU	_	8	punct	_	start_char=177|end_char=178
 
+# sent_id = gcdt_news_apple-35
+# text = 新品价格汇总
 1	新品	新品	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	价格	价格	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	汇总	汇总	VV	VV	_	0	root	_	start_char=6|end_char=8
 
+# sent_id = gcdt_news_apple-36
+# text = 最后是有记者整理的新品价格汇总：
 1	最后	最后	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	9	cop	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	8	dep	_	start_char=5|end_char=6
@@ -968,10 +1051,14 @@
 9	汇总	汇总	VV	VV	_	0	root	_	start_char=21|end_char=23
 10	：	：	PU	PU	_	9	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_news_apple-37
+# text = iPhone 13 Mini
 1	iPhone	iPhone	NR	NR	_	3	dep	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	3	dep	_	start_char=7|end_char=9
 3	Mini	Mini	NN	NN	_	0	root	_	start_char=10|end_char=14
 
+# sent_id = gcdt_news_apple-38
+# text = 售价从699美元（约19,362新台币，台湾官网售价22,900元）起跳。
 1	售价	售价	NN	NN	_	16	nsubj	_	start_char=0|end_char=2
 2	从	从	P	P	_	3	case	_	start_char=3|end_char=4
 3	699	699	CD	CD	_	8	nummod	_	start_char=5|end_char=8
@@ -990,9 +1077,13 @@
 16	起跳	起跳	VV	VV	_	0	root	_	start_char=49|end_char=51
 17	。	。	PU	PU	_	16	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_news_apple-39
+# text = iPhone 13
 1	iPhone	iPhone	NN	NN	_	2	dep	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	0	root	_	start_char=7|end_char=9
 
+# sent_id = gcdt_news_apple-40
+# text = 售价从799美元（约22,132新台币，台湾官网售价25,900元）起跳。
 1	售价	售价	NN	NN	_	16	nsubj	_	start_char=0|end_char=2
 2	从	从	P	P	_	3	case	_	start_char=3|end_char=4
 3	799	799	CD	CD	_	8	nummod	_	start_char=5|end_char=8
@@ -1011,10 +1102,14 @@
 16	起跳	起跳	VV	VV	_	0	root	_	start_char=49|end_char=51
 17	。	。	PU	PU	_	16	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_news_apple-41
+# text = iPhone 13 Pro
 1	iPhone	iPhone	NR	NR	_	3	dep	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	3	dep	_	start_char=7|end_char=9
 3	Pro	Pro	NN	NN	_	0	root	_	start_char=10|end_char=13
 
+# sent_id = gcdt_news_apple-42
+# text = 售价从999美元（约27,672新台币，台湾官网售价32,900元）起跳。
 1	售价	售价	NN	NN	_	16	nsubj	_	start_char=0|end_char=2
 2	从	从	P	P	_	3	case	_	start_char=3|end_char=4
 3	999	999	CD	CD	_	8	nummod	_	start_char=5|end_char=8
@@ -1033,11 +1128,15 @@
 16	起跳	起跳	VV	VV	_	0	root	_	start_char=49|end_char=51
 17	。	。	PU	PU	_	16	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_news_apple-43
+# text = iPhone 13 Pro Max
 1	iPhone	iPhone	NR	NR	_	3	nmod	_	start_char=0|end_char=6
 2	13	13	CD	CD	_	3	dep	_	start_char=7|end_char=9
 3	Pro	Pro	NN	NN	_	4	dep	_	start_char=10|end_char=13
 4	Max	Max	NR	NR	_	0	root	_	start_char=14|end_char=17
 
+# sent_id = gcdt_news_apple-44
+# text = 售价从1099美元（约30,442新台币，台湾官网售价36,900元）起跳。
 1	售价	售价	NN	NN	_	16	nsubj	_	start_char=0|end_char=2
 2	从	从	P	P	_	3	case	_	start_char=3|end_char=4
 3	1099	1099	CD	CD	_	8	nummod	_	start_char=5|end_char=9
@@ -1056,9 +1155,13 @@
 16	起跳	起跳	VV	VV	_	0	root	_	start_char=50|end_char=52
 17	。	。	PU	PU	_	16	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_apple-45
+# text = iPad 9
 1	iPad	iPad	NR	NR	_	2	dep	_	start_char=0|end_char=4
 2	9	9	CD	CD	_	0	root	_	start_char=5|end_char=6
 
+# sent_id = gcdt_news_apple-46
+# text = 售价329美元（约9,113新台币）起跳，台湾官网售价iPad Wi-Fi机型售价新台币10500元起，Wi-Fi+移动网络机型售价新台币14,500元起。
 1	售价	售价	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	329	329	CD	CD	_	9	dep	_	start_char=3|end_char=6
 3	美元	美元	M	M	_	2	mark:clf	_	start_char=7|end_char=9
@@ -1093,10 +1196,14 @@
 32	起	起	LC	LC	_	30	case	_	start_char=106|end_char=107
 33	。	。	PU	PU	_	9	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_news_apple-47
+# text = iPad mini 6
 1	iPad	iPad	NR	NR	_	2	compound:nn	_	start_char=0|end_char=4
 2	mini	mini	NN	NN	_	0	root	_	start_char=5|end_char=9
 3	6	6	CD	CD	_	2	dep	_	start_char=10|end_char=11
 
+# sent_id = gcdt_news_apple-48
+# text = 售价499美元（约13,822新台币）起跳，台湾官网售价1万4900元起，Wi-Fi+移动网络机型售价1万9400元起。
 1	售价	售价	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	499	499	CD	CD	_	9	dep	_	start_char=3|end_char=6
 3	美元	美元	M	M	_	2	mark:clf	_	start_char=7|end_char=9
@@ -1125,11 +1232,15 @@
 26	起	起	LC	LC	_	24	case	_	start_char=83|end_char=84
 27	。	。	PU	PU	_	9	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_news_apple-49
+# text = Apple Watch Series 7
 1	Apple	Apple	NN	NN	_	3	compound:nn	_	start_char=0|end_char=5
 2	Watch	Watch	NN	NN	_	3	compound:nn	_	start_char=6|end_char=11
 3	Series	Series	NN	NN	_	0	root	_	start_char=12|end_char=18
 4	7	7	CD	CD	_	3	dep	_	start_char=19|end_char=20
 
+# sent_id = gcdt_news_apple-50
+# text = 起跳价S3型199美元、SE型279美元、S7型399美元。
 1	起跳价	起跳价	NN	NN	_	3	compound:nn	_	start_char=0|end_char=3
 2	S3	S3	NR	NR	_	3	compound:nn	_	start_char=4|end_char=6
 3	型	型	NN	NN	_	4	nsubj	_	start_char=7|end_char=8

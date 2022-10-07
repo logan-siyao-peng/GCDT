@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_wimax
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2008-05-01
+# meta::dateModified = 2008-06-23
+# meta::sourceURL = https://zh.wikinews.org/wiki/WiMAX%E6%9C%AA%E4%BE%86%E6%80%8E%E9%BA%BC%E6%BC%94%E8%AE%8A_%E8%B3%87%E5%AE%89%E3%80%81%E7%B6%B2%E8%B7%AF%E6%A5%AD%E8%80%85%E9%9B%99%E8%B4%8F
+# meta::speakerCount = 3
+# meta::title = WiMAX未来怎么演变 资安、网络业者双赢
+# meta::shortTitle = wimax
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = test
+# sent_id = gcdt_interview_wimax-1
+# text = WiMAX未来怎么演变 资安、网络业者双赢
 1	WiMAX	WiMAX	NN	NN	_	4	nsubj	_	start_char=0|end_char=5
 2	未来	未来	NT	NT	_	4	nmod:tmod	_	start_char=6|end_char=8
 3	怎么	怎么	AD	AD	_	4	advmod	_	start_char=9|end_char=11
@@ -8,6 +21,8 @@
 8	业者	业者	NN	NN	_	9	nsubj	_	start_char=23|end_char=25
 9	双赢	双赢	VV	VV	_	4	conj	_	start_char=26|end_char=28
 
+# sent_id = gcdt_interview_wimax-2
+# text = 【2008年5月1日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2008年	2008年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	5月	5月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -15,6 +30,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=14|end_char=15
 6	】	】	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_wimax-3
+# text = 资讯安全，几乎和生活息息相关，而科技，虽然带来了不少便利，但却蕴含着不少潜在的危机。
 1	资讯	资讯	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	安全	安全	NN	NN	_	8	nsubj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	8	punct	_	start_char=6|end_char=7
@@ -43,6 +60,8 @@
 26	危机	危机	NN	NN	_	21	dobj	_	start_char=64|end_char=66
 27	。	。	PU	PU	_	8	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_interview_wimax-4
+# text = 必然，每个人都想要便利，但却不知何时身处险境。
 1	必然	必然	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	每	每	DT	DT	_	5	det	_	start_char=5|end_char=6
@@ -61,6 +80,8 @@
 16	险境	险境	NN	NN	_	15	dobj	_	start_char=35|end_char=37
 17	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_interview_wimax-5
+# text = 以目前经济部、工研院、台北市电脑公会主打的网络未来之星─WiMAX为例，虽然被普遍认定是第四代，也是下一代的网络标准，但是，随着不少网络犯罪问题广受资安业者的重视，以及行动相关设备（例：UMPC、Pocket PC等），将有可能随着WiMAX，而大幅提升其使用族群的关系，部分资安业者，也因此对这项技术，抱持着质疑的态度，毕竟，这项新技术，既期待，又怕受伤害。
 1	以	以	P	P	_	17	case	_	start_char=0|end_char=1
 2	目前	目前	NT	NT	_	10	nmod:tmod	_	start_char=2|end_char=4
 3	经济部	经济部	NN	NN	_	9	conj	_	start_char=5|end_char=8
@@ -174,6 +195,8 @@
 111	伤害	伤害	NN	NN	_	110	dobj	_	start_char=286|end_char=288
 112	。	。	PU	PU	_	92	punct	_	start_char=289|end_char=290
 
+# sent_id = gcdt_interview_wimax-6
+# text = 尽管，资安业者借由数据分析，质疑WiMAX的前景，但资讯产业，是如何解读这种可能会发生的问题？
 1	尽管	尽管	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	资安	资安	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -203,6 +226,8 @@
 27	问题	问题	NN	NN	_	20	dobj	_	start_char=70|end_char=72
 28	？	？	PU	PU	_	20	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_interview_wimax-7
+# text = 因此，借由两项记者会的进行，维基新闻记者Rico Shen先后访问了微软亚洲研究院院长洪小文，与台北市电脑公会副总干事张笠，借由他们在资讯产业的经验，来解读资安业者的分析。
 1	因此	因此	AD	AD	_	16	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
 3	借由	借由	P	P	_	8	case	_	start_char=5|end_char=7
@@ -249,6 +274,8 @@
 44	分析	分析	NN	NN	_	40	dobj	_	start_char=125|end_char=127
 45	。	。	PU	PU	_	16	punct	_	start_char=128|end_char=129
 
+# sent_id = gcdt_interview_wimax-8
+# text = 洪小文：资安业者的力量，并非水到渠成，而是经验上的累积
 1	洪小文	洪小文	NR	NR	_	10	nmod:topic	_	start_char=0|end_char=3
 2	：	：	PU	PU	_	10	punct	_	start_char=4|end_char=5
 3	资安	资安	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -267,6 +294,8 @@
 16	的	的	DEG	DEG	_	14	case	_	start_char=39|end_char=40
 17	累积	累积	NN	NN	_	10	conj	_	start_char=41|end_char=43
 
+# sent_id = gcdt_interview_wimax-9
+# text = 资讯科技的进步，带来很多机会，但是，安全产业对资讯安全是格外重视的，对此，您对资安的看法？
 1	资讯	资讯	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	科技	科技	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -298,6 +327,8 @@
 29	看法	看法	NN	NN	_	6	conj	_	start_char=70|end_char=72
 30	？	？	PU	PU	_	6	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_interview_wimax-10
+# text = 因为在此之前，WiMAX这项未来网络技术，虽然将会带动行动族群的成长，但在安全性的部分，却遭到资安业者，提出相当的质疑。
 1	因为	因为	P	P	_	27	case	_	start_char=0|end_char=2
 2	在此之前	在此之前	AD	AD	_	27	advmod	_	start_char=3|end_char=7
 3	，	，	PU	PU	_	27	punct	_	start_char=8|end_char=9
@@ -334,6 +365,8 @@
 34	质疑	质疑	NN	NN	_	31	dobj	_	start_char=90|end_char=92
 35	。	。	PU	PU	_	27	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_interview_wimax-11
+# text = 安全、灵活性，很不巧地，这两样息息相关，倘若要一个东西，怎么通，怎么行，很显然地，仍旧有安全上的顾虑，就像是一个家可以让任何人进入的原理，要让一个家安全，就必须要花上一番功夫，因此，安全是一个必经的走势。
 1	安全	安全	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	、	、	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	灵活性	灵活性	NN	NN	_	14	nsubj	_	start_char=5|end_char=8
@@ -411,6 +444,8 @@
 75	走势	走势	NN	NN	_	14	conj	_	start_char=173|end_char=175
 76	。	。	PU	PU	_	62	punct	_	start_char=176|end_char=177
 
+# sent_id = gcdt_interview_wimax-12
+# text = 诚如您所提及的行动安全，相对地，一个技术未被广泛地普及时，适当的质疑就是给这些（安全与网络）业者一个很好的机会。
 1	诚	诚	AD	AD	_	28	nmod:prep	_	start_char=0|end_char=1
 2	如	如	P	P	_	8	case	_	start_char=2|end_char=3
 3	您	您	PN	PN	_	5	nsubj	_	start_char=4|end_char=5
@@ -454,6 +489,8 @@
 41	机会	机会	NN	NN	_	28	dobj	_	start_char=93|end_char=95
 42	。	。	PU	PU	_	41	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_interview_wimax-13
+# text = 把东西都锁起来，虽然安全，但不方便，因此，人们要的，反而是一种既安全又方便的产物，相对地，加密、密码、政策等要素，或者是以Web 2.0的机制所进行的安全防护，就更显重要。
 1	把	把	BA	BA	_	4	aux:ba	_	start_char=0|end_char=1
 2	东西	东西	NN	NN	_	4	dep	_	start_char=2|end_char=4
 3	都	都	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -513,6 +550,8 @@
 57	重要	重要	VA	VA	_	4	conj	_	start_char=138|end_char=140
 58	。	。	PU	PU	_	4	punct	_	start_char=141|end_char=142
 
+# sent_id = gcdt_interview_wimax-14
+# text = 资讯安全，有无意与恶意的攻击者，要怎么去阻止，就要先一步地进行规划，才能适当地完善其防护措施，因此，资讯安全产业，需要长期的观察与研究，与适当的配套措施，而不是一下子有解决方案就算了。
 1	资讯	资讯	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	安全	安全	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
@@ -577,6 +616,8 @@
 62	了	了	AS	AS	_	61	aux:asp	_	start_char=151|end_char=152
 63	。	。	PU	PU	_	14	punct	_	start_char=153|end_char=154
 
+# sent_id = gcdt_interview_wimax-15
+# text = 张笠：无论WiMAX的未来如何，攻方、守方都会有商机
 1	张笠	张笠	NR	NR	_	14	dep	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	无论	无论	AD	AD	_	7	advmod	_	start_char=5|end_char=7
@@ -593,6 +634,8 @@
 14	有	有	VE	VE	_	0	root	_	start_char=36|end_char=37
 15	商机	商机	NN	NN	_	14	dobj	_	start_char=38|end_char=40
 
+# sent_id = gcdt_interview_wimax-16
+# text = 部分资安业者，在亚太资安论坛中，针对目前公会正在推展的未来网络技术WiMAX进行质疑，对此，您的看法？
 1	部分	部分	CD	CD	_	3	dep	_	start_char=0|end_char=2
 2	资安	资安	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	业者	业者	NN	NN	_	21	nsubj	_	start_char=6|end_char=8
@@ -624,6 +667,8 @@
 29	看法	看法	NN	NN	_	21	dobj	_	start_char=76|end_char=78
 30	？	？	PU	PU	_	21	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_interview_wimax-17
+# text = 主要的厂商，会改变资讯产业的走向，根据我们（电脑公会）新选出的理事会，因为结构上，大多数都是面板与笔记型电脑的业者，只要业界的大老能获得共识，走向将更加明确。
 1	主要	主要	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	厂商	厂商	NN	NN	_	6	nsubj	_	start_char=5|end_char=7
@@ -674,6 +719,8 @@
 48	明确	明确	VA	VA	_	6	conj	_	start_char=123|end_char=125
 49	。	。	PU	PU	_	6	punct	_	start_char=126|end_char=127
 
+# sent_id = gcdt_interview_wimax-18
+# text = 之前洪小文表示：“人们要享受一个新的技术或科技时，必要的周边防护，还是要有的。”
 1	之前	之前	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	洪小文	洪小文	NR	NR	_	3	nsubj	_	start_char=3|end_char=6
 3	表示	表示	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -703,11 +750,15 @@
 27	。	。	PU	PU	_	3	punct	_	start_char=64|end_char=65
 28	”	”	PU	PU	_	3	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_interview_wimax-19
+# text = 您的看法？
 1	您	您	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	看法	看法	NN	NN	_	0	root	_	start_char=4|end_char=6
 4	？	？	PU	PU	_	3	punct	_	start_char=7|end_char=8
 
+# sent_id = gcdt_interview_wimax-20
+# text = 这是绝对不能否认的事实，当一项新技术正在研发时，业界大多只会看前景，而不去看隐藏的因素，像是资料安全的问题，当互联网的发展刚开始时，人们绝对不知道问题的严重性，而您说的WiMAX，目前只是发展中的产物，但却因为有许多意想不到的事情，可能在未来会发生，所以，商机就会冒出来。
 1	这	这	PN	PN	_	8	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	8	cop	_	start_char=2|end_char=3
 3	绝对	绝对	AD	AD	_	6	advmod	_	start_char=4|end_char=6
@@ -801,6 +852,8 @@
 91	出来	出来	VV	VV	_	90	advmod:rcomp	_	start_char=223|end_char=225
 92	。	。	PU	PU	_	8	punct	_	start_char=226|end_char=227
 
+# sent_id = gcdt_interview_wimax-21
+# text = 因此，在WiMAX还没出来前，资讯业者的质疑是？
 1	因此	因此	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	在	在	P	P	_	7	case	_	start_char=5|end_char=6
@@ -817,6 +870,8 @@
 14	是	是	VC	VC	_	0	root	_	start_char=35|end_char=36
 15	？	？	PU	PU	_	14	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_interview_wimax-22
+# text = 依照目前的现况，当身处在一个宽带或是无线网络的环境内，没人会想到任何（好或坏的）资讯流的出现，不管是理论或实务，或是过去的经验，这些（议题）是绝对会被（业者）关注的。
 1	依照	依照	P	P	_	4	case	_	start_char=0|end_char=2
 2	目前	目前	NT	NT	_	4	nmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -875,6 +930,8 @@
 56	的	的	SP	SP	_	55	discourse	_	start_char=136|end_char=137
 57	。	。	PU	PU	_	55	punct	_	start_char=138|end_char=139
 
+# sent_id = gcdt_interview_wimax-23
+# text = 我的看法是，不管是防守（安全）或前景（科技），业者在追求新纪录、新商机的时候，他们（业者）一定先看前景，因此，防守这部分，则会让资安（像是趋势科技等），来进行主导，无论如何，两边的商机都在。
 1	我	我	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	看法	看法	NN	NN	_	45	nsubj	_	start_char=4|end_char=6
@@ -942,8 +999,12 @@
 65	在	在	VV	VV	_	45	conj	_	start_char=157|end_char=158
 66	。	。	PU	PU	_	65	punct	_	start_char=159|end_char=160
 
+# sent_id = gcdt_interview_wimax-24
+# text = 总结
 1	总结	总结	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_interview_wimax-25
+# text = “瞻前顾后”，这是一种处事的最佳手段，因为做一件事情之前，需要有适当的分析，才可能知道后果会是如何。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	瞻前顾后	瞻前顾后	VV	VV	_	12	dep	_	start_char=2|end_char=6
 3	”	”	PU	PU	_	2	punct	_	start_char=7|end_char=8
@@ -979,6 +1040,8 @@
 33	如何	如何	VA	VA	_	29	ccomp	_	start_char=79|end_char=81
 34	。	。	PU	PU	_	12	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_interview_wimax-26
+# text = 反观WiMAX，虽然它是一个未来的网络趋势，但许多业者可能只看到前面的好，却看不见资安业者关注的潜在危机，因此，若能适当地洞竹机先，那么，受伤害的几率就会减低，毕竟，安全业者有个名言：“事先预防胜于事后补救。”
 1	反观	反观	VV	VV	_	19	dep	_	start_char=0|end_char=2
 2	WiMAX	WiMAX	NN	NN	_	1	dobj	_	start_char=3|end_char=8
 3	，	，	PU	PU	_	19	punct	_	start_char=9|end_char=10
@@ -1048,6 +1111,8 @@
 67	。	。	PU	PU	_	51	punct	_	start_char=169|end_char=170
 68	”	”	PU	PU	_	51	punct	_	start_char=171|end_char=172
 
+# sent_id = gcdt_interview_wimax-27
+# text = 尽管，一个产物可能对两种不同的层面，带来不同的影响。
 1	尽管	尽管	CS	CS	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	5	nummod	_	start_char=5|end_char=6

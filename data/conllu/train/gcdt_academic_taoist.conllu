@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_taoist
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2021-08-12
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=44530
+# meta::speakerCount = 0
+# meta::title = 道家生态美学思想及其当代价值
+# meta::shortTitle = taoist
+# meta::author = Meiyun Luo
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_taoist-1
+# text = 道家生态美学思想及其当代价值
 1	道家	道家	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	生态	生态	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	美学	美学	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -7,11 +20,15 @@
 7	当代	当代	NT	NT	_	8	compound:nn	_	start_char=16|end_char=18
 8	价值	价值	NN	NN	_	0	root	_	start_char=19|end_char=21
 
+# sent_id = gcdt_academic_taoist-2
+# text = 2. 自然生态美思想
 1	2.	2.	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	自然	自然	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	生态美	生态美	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
 4	思想	思想	NN	NN	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_academic_taoist-3
+# text = 道家的最高本体是道，而道又具有规律的意思。
 1	道家	道家	NN	NN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	最高	最高	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
@@ -28,6 +45,8 @@
 14	意思	意思	NN	NN	_	6	conj	_	start_char=31|end_char=33
 15	。	。	PU	PU	_	6	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_academic_taoist-4
+# text = 作为规律的道主要是指，本体之道或万事万物，自然而然的属性或状态。
 1	作为	作为	P	P	_	4	case	_	start_char=0|end_char=2
 2	规律	规律	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -50,6 +69,8 @@
 20	状态	状态	NN	NN	_	7	dobj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	7	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_taoist-5
+# text = 在道家看来，不管从纵的时间的维度来看，还是从横的空间的维度来看，本体之道都是无，是非存在，“道以无有为体”(《文子·上德》)。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	道家	道家	NN	NN	_	28	nmod:prep	_	start_char=2|end_char=4
 3	看来	看来	LC	LC	_	2	case	_	start_char=5|end_char=7
@@ -97,6 +118,8 @@
 45	)	)	PU	PU	_	43	punct	_	start_char=105|end_char=106
 46	。	。	PU	PU	_	32	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_academic_taoist-6
+# text = 而这个无、这个非存在的本体之道却又是确确实实地存在着。
 1	而	而	AD	AD	_	19	advmod	_	start_char=0|end_char=1
 2	这	这	DT	DT	_	13	det	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -119,6 +142,8 @@
 20	着	着	AS	AS	_	19	aux:asp	_	start_char=44|end_char=45
 21	。	。	PU	PU	_	19	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_taoist-7
+# text = 它先于鬼神、先于上帝，是天地之根、万物之祖。
 1	它	它	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	先于	先于	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	鬼神	鬼神	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -136,6 +161,8 @@
 15	祖	祖	NN	NN	_	2	conj	_	start_char=34|end_char=35
 16	。	。	PU	PU	_	2	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_academic_taoist-8
+# text = 万事万物都是由道生化出来的。
 1	万事	万事	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	万物	万物	NN	NN	_	7	nsubj	_	start_char=3|end_char=5
 3	都	都	AD	AD	_	7	advmod	_	start_char=6|end_char=7
@@ -147,6 +174,8 @@
 9	的	的	SP	SP	_	10	discourse	_	start_char=20|end_char=21
 10	。	。	PU	PU	_	0	root	_	start_char=22|end_char=23
 
+# sent_id = gcdt_academic_taoist-9
+# text = “夫道有情有信，无为无形；可传而不可受，可得而不可见；自本自根，未有天地，自古以固存；神鬼神帝，生天生地；在太极之先而不为高，在六极之下而不为深，先天地生而不为久，长于上古而不为老。”(《庄子·大宗师》)
 1	“	“	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	夫	夫	NN	NN	_	3	compound:nn	_	start_char=2|end_char=3
 3	道	道	NN	NN	_	4	dep	_	start_char=4|end_char=5
@@ -232,6 +261,8 @@
 83	》	》	PU	PU	_	82	punct	_	start_char=182|end_char=183
 84	)	)	PU	PU	_	4	punct	_	start_char=184|end_char=185
 
+# sent_id = gcdt_academic_taoist-10
+# text = 道化生出万物，不管是从纵的时间的维度来看、还是从横的空间的维度来看，都使万物形成一个有机联系的和谐整体。
 1	道	道	NN	NN	_	2	nsubj	_	start_char=0|end_char=1
 2	化生	化生	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	出	出	VV	VV	_	2	advmod:rcomp	_	start_char=5|end_char=6
@@ -268,6 +299,8 @@
 34	整体	整体	NN	NN	_	27	dobj	_	start_char=82|end_char=84
 35	。	。	PU	PU	_	2	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_academic_taoist-11
+# text = “道生一，一生二，二生三，三生万物。万物负阴而抱阳，冲气以为和。”(《道德经》第42章)是道家道生万物的典型模式。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	道	道	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	生	生	VV	VV	_	2	ccomp	_	start_char=4|end_char=5
@@ -313,6 +346,8 @@
 43	模式	模式	NN	NN	_	2	conj	_	start_char=96|end_char=98
 44	。	。	PU	PU	_	43	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_academic_taoist-12
+# text = 其中的“一”，即是道，是原始的精气；“二”是由原始的精气分化出来的阴阳二气；“和”是由阴阳二气合在一块而形成的和气。
 1	其中	其中	NN	NN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	“	“	PU	PU	_	4	punct	_	start_char=5|end_char=6
@@ -359,6 +394,8 @@
 44	和气	和气	NN	NN	_	13	conj	_	start_char=98|end_char=100
 45	。	。	PU	PU	_	13	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_academic_taoist-13
+# text = 因此，由道生出的每一个事物都包含着道，包含着精气、包含着阴阳二气，包含着和气，每个事物自身都是和谐的，每个事物和其他事物都是平等的，每个事物之间都有交感的关系。
 1	因此	因此	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	由	由	P	P	_	4	case	_	start_char=5|end_char=6
@@ -419,6 +456,8 @@
 58	关系	关系	NN	NN	_	55	dobj	_	start_char=134|end_char=136
 59	。	。	PU	PU	_	12	punct	_	start_char=137|end_char=138
 
+# sent_id = gcdt_academic_taoist-14
+# text = 具体地说，这种道生万物的生成模式有以下几种表现形式：第一，由精气直接生出万事万物。
 1	具体	具体	VA	VA	_	3	advmod:dvp	_	start_char=0|end_char=2
 2	地	地	DEV	DEV	_	1	mark	_	start_char=3|end_char=4
 3	说	说	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -448,6 +487,8 @@
 27	万物	万物	NN	NN	_	25	dobj	_	start_char=64|end_char=66
 28	。	。	PU	PU	_	3	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_academic_taoist-15
+# text = “精微者天地之始也。”(《鹖冠子·泰录》)
 1	“	“	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	精微者	精微者	NN	NN	_	3	compound:nn	_	start_char=2|end_char=5
 3	天地	天地	NN	NN	_	5	nmod:assmod	_	start_char=6|end_char=8
@@ -462,6 +503,8 @@
 12	》	》	PU	PU	_	11	punct	_	start_char=30|end_char=31
 13	)	)	PU	PU	_	11	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_academic_taoist-16
+# text = 这种原始的精气本身是和谐的，所以，它生出的万物也是和谐的。
 1	这	这	DT	DT	_	5	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	原始	原始	JJ	JJ	_	5	amod	_	start_char=4|end_char=6
@@ -484,6 +527,8 @@
 20	的	的	SP	SP	_	19	discourse	_	start_char=46|end_char=47
 21	。	。	PU	PU	_	7	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_academic_taoist-17
+# text = 第二，由阴阳二气合和而生出万事万物。
 1	第二	第二	OD	OD	_	9	dep	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	由	由	P	P	_	6	case	_	start_char=5|end_char=6
@@ -497,6 +542,8 @@
 11	万物	万物	NN	NN	_	9	dobj	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	9	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_taoist-18
+# text = “天地之气，莫大于和。和者，阴阳调，日夜分，故万物春分而生，秋分而成，生与成，必得和之精。”(《文子·上仁》)
 1	“	“	PU	PU	_	7	punct	_	start_char=0|end_char=1
 2	天地	天地	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	之	之	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -542,6 +589,8 @@
 43	》	》	PU	PU	_	42	punct	_	start_char=95|end_char=96
 44	)	)	PU	PU	_	37	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_academic_taoist-19
+# text = 阴阳二气相互配合，达至和谐，才能生出万物，因此，万物是和谐的。
 1	阴阳	阴阳	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	二	二	CD	CD	_	3	dep	_	start_char=3|end_char=4
 3	气	气	NN	NN	_	5	nsubj	_	start_char=5|end_char=6
@@ -565,6 +614,8 @@
 21	的	的	SP	SP	_	20	discourse	_	start_char=49|end_char=50
 22	。	。	PU	PU	_	5	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_taoist-20
+# text = 第三，由阴阳二气的表现天地生出万物。
 1	第三	第三	OD	OD	_	10	dep	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	10	punct	_	start_char=3|end_char=4
 3	由	由	P	P	_	9	case	_	start_char=5|end_char=6
@@ -578,6 +629,8 @@
 11	万物	万物	NN	NN	_	10	dobj	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	10	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_taoist-21
+# text = “天地感而万物化生。”(《周易·咸》)
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	天地	天地	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	感	感	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -592,6 +645,8 @@
 12	》	》	PU	PU	_	11	punct	_	start_char=28|end_char=29
 13	)	)	PU	PU	_	3	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_academic_taoist-22
+# text = 天地也只有相互配合、相互交感，达至和谐，才能生出万物，因此，万物是和谐的。
 1	天地	天地	NN	NN	_	5	nsubj	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	5	advmod	_	start_char=3|end_char=4
 3	只有	只有	AD	AD	_	5	advmod	_	start_char=5|end_char=7
@@ -618,6 +673,8 @@
 24	的	的	SP	SP	_	23	discourse	_	start_char=58|end_char=59
 25	。	。	PU	PU	_	5	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_taoist-23
+# text = 第四，由天地的一些要素或力量而生出万物。
 1	第四	第四	OD	OD	_	11	dep	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	11	punct	_	start_char=3|end_char=4
 3	由	由	P	P	_	9	case	_	start_char=5|end_char=6
@@ -632,6 +689,8 @@
 12	万物	万物	NN	NN	_	11	dobj	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	11	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_academic_taoist-24
+# text = “故水火相逮，雷风不相悖，山泽通气，然后能变化，既成万物也。”(《周易·说卦》)
 1	“	“	PU	PU	_	6	punct	_	start_char=0|end_char=1
 2	故	故	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	水	水	NN	NN	_	4	compound:nn	_	start_char=4|end_char=5
@@ -665,6 +724,8 @@
 31	》	》	PU	PU	_	30	punct	_	start_char=68|end_char=69
 32	)	)	PU	PU	_	6	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_academic_taoist-25
+# text = 天地间的各种要素很好地协调才能使万物成长。
 1	天地	天地	NN	NN	_	6	nmod	_	start_char=0|end_char=2
 2	间	间	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	1	case	_	start_char=5|end_char=6
@@ -682,6 +743,8 @@
 15	成长	成长	VV	VV	_	13	ccomp	_	start_char=32|end_char=34
 16	。	。	PU	PU	_	10	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_academic_taoist-26
+# text = 总之，由道、精气、阴阳等的和谐性，而致使它们生出的万物也具有和谐性。
 1	总之	总之	AD	AD	_	20	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	20	punct	_	start_char=3|end_char=4
 3	由	由	P	P	_	8	case	_	start_char=5|end_char=6
@@ -705,6 +768,8 @@
 21	和谐性	和谐性	NN	NN	_	20	dobj	_	start_char=50|end_char=53
 22	。	。	PU	PU	_	20	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_academic_taoist-27
+# text = 万物是由道生出来的，万物内部都含有道，从这个意义来说，万物，包括道，是平等的。
 1	万物	万物	NN	NN	_	5	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	5	cop	_	start_char=3|end_char=4
 3	由	由	P	P	_	4	case	_	start_char=5|end_char=6
@@ -735,6 +800,8 @@
 28	的	的	SP	SP	_	27	discourse	_	start_char=64|end_char=65
 29	。	。	PU	PU	_	5	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_academic_taoist-28
+# text = 道生出万物之后，还要赋予万物以特性。
 1	道	道	NN	NN	_	2	nsubj	_	start_char=0|end_char=1
 2	生出	生出	VV	VV	_	8	advcl:loc	_	start_char=2|end_char=4
 3	万物	万物	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -748,6 +815,8 @@
 11	特性	特性	NN	NN	_	8	nmod:prep	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	8	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_taoist-29
+# text = 因道在万物内部的存在形式、表现形式不同，因此，万物的特性也各不相同。
 1	因	因	P	P	_	12	case	_	start_char=0|end_char=1
 2	道	道	NN	NN	_	12	nsubj	_	start_char=2|end_char=3
 3	在	在	P	P	_	11	case	_	start_char=4|end_char=5
@@ -772,6 +841,8 @@
 22	相同	相同	VA	VA	_	0	root	_	start_char=52|end_char=54
 23	。	。	PU	PU	_	22	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_academic_taoist-30
+# text = 道赋予万物不同的特性，万物的特性都是适于自己、自然而然、不假人为、不假外求的。
 1	道	道	NN	NN	_	2	nsubj	_	start_char=0|end_char=1
 2	赋予	赋予	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	万物	万物	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -799,6 +870,8 @@
 25	的	的	SP	SP	_	24	discourse	_	start_char=61|end_char=62
 26	。	。	PU	PU	_	2	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_academic_taoist-31
+# text = 且在自然之中，万物也都有自己独特的存在价值，是不可或缺的。
 1	且	且	AD	AD	_	9	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	自然	自然	NN	NN	_	9	nmod:prep	_	start_char=4|end_char=6
@@ -819,6 +892,8 @@
 18	的	的	SP	SP	_	17	discourse	_	start_char=44|end_char=45
 19	。	。	PU	PU	_	9	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_taoist-32
+# text = 道生出万物、赋予万物特性之后，还要以无为而无不为的方式，抚育万物、成就万物，而又不把万物据为己有、居功自傲。
 1	道	道	VV	VV	_	19	advcl:loc	_	start_char=0|end_char=1
 2	生出	生出	VV	VV	_	1	ccomp	_	start_char=2|end_char=4
 3	万物	万物	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -856,6 +931,8 @@
 35	自傲	自傲	VA	VA	_	32	conj	_	start_char=85|end_char=87
 36	。	。	PU	PU	_	19	punct	_	start_char=88|end_char=89
 
+# sent_id = gcdt_academic_taoist-33
+# text = 就像佘正荣所说：“故不仅天地万物是由道的运作生成的，而且宇宙中的一切实体、关系、结构和秩序，也是由道的运作生成的，而道创生了天地万物之后，并非就大功告成，它还继续生养万物，运化万物，参与万物的流行变化，养育和辅助万物的成长发育。
 1	就	就	AD	AD	_	17	advmod	_	start_char=0|end_char=1
 2	像	像	P	P	_	5	case	_	start_char=2|end_char=3
 3	佘正荣	佘正荣	NR	NR	_	5	nsubj	_	start_char=4|end_char=7
@@ -934,6 +1011,8 @@
 76	发育	发育	NN	NN	_	72	dobj	_	start_char=186|end_char=188
 77	。	。	PU	PU	_	5	punct	_	start_char=189|end_char=190
 
+# sent_id = gcdt_academic_taoist-34
+# text = 但是，道生养万物和哺育万物成长，并非出于有意的行为，也不是外力作用的结果，而是固存于一切事物和过程中的自然趋势和结果。
 1	但是	但是	AD	AD	_	24	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	24	punct	_	start_char=3|end_char=4
 3	道	道	VV	VV	_	24	dep	_	start_char=5|end_char=6
@@ -974,6 +1053,8 @@
 38	结果	结果	NN	NN	_	28	dobj	_	start_char=93|end_char=95
 39	。	。	PU	PU	_	3	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_academic_taoist-35
+# text = 天地万物因其自然之本性而生成、运行和显现。”( -LSB-1-RSB-, pp. 73-79)。
 1	天地	天地	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	万物	万物	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	因	因	P	P	_	7	case	_	start_char=6|end_char=7
@@ -1001,6 +1082,8 @@
 25	)	)	PU	PU	_	9	punct	_	start_char=67|end_char=68
 26	。	。	PU	PU	_	9	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_academic_taoist-36
+# text = 道生出万物之后，万物就有纵的时间维度上的生成关系及横的空间维度上的相互作用关系。
 1	道	道	NN	NN	_	2	nsubj	_	start_char=0|end_char=1
 2	生出	生出	VV	VV	_	8	advcl:loc	_	start_char=2|end_char=4
 3	万物	万物	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -1029,6 +1112,8 @@
 26	关系	关系	NN	NN	_	8	dobj	_	start_char=62|end_char=64
 27	。	。	PU	PU	_	8	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_taoist-37
+# text = 从纵的时间维度来说，尽管从终极的根源来说，万物都是由道生出来的，但万物之间也有生成的关系，动物、植物是由它们的祖先繁衍下来的，人也一样，且事物的繁衍、发展是不断进化的。
 1	从	从	P	P	_	5	case	_	start_char=0|end_char=1
 2	纵	纵	NN	NN	_	5	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -1089,6 +1174,8 @@
 58	的	的	SP	SP	_	57	discourse	_	start_char=139|end_char=140
 59	。	。	PU	PU	_	47	punct	_	start_char=141|end_char=142
 
+# sent_id = gcdt_academic_taoist-38
+# text = 从横的空间的维度来说，道生出万物之后，万物之间有相互作用的关系。
 1	从	从	P	P	_	6	case	_	start_char=0|end_char=1
 2	横	横	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -1111,6 +1198,8 @@
 20	关系	关系	NN	NN	_	16	dobj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	16	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_taoist-39
+# text = 比如，同类的物种会聚集在一块，共同占据一个生态领地，而不让别的物种侵入；同一个物种之间及不同的物种之间通过生存竞争、优胜劣汰而使物种得以不断进化。
 1	比如	比如	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	同类	同类	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -1160,6 +1249,8 @@
 47	进化	进化	VV	VV	_	43	ccomp	_	start_char=116|end_char=118
 48	。	。	PU	PU	_	7	punct	_	start_char=119|end_char=120
 
+# sent_id = gcdt_academic_taoist-40
+# text = 物种之间有相食的食物链的关系。
 1	物种	物种	NN	NN	_	3	advmod:loc	_	start_char=0|end_char=2
 2	之间	之间	LC	LC	_	1	case	_	start_char=3|end_char=5
 3	有	有	VE	VE	_	0	root	_	start_char=6|end_char=7
@@ -1172,6 +1263,8 @@
 10	关系	关系	NN	NN	_	3	dobj	_	start_char=21|end_char=23
 11	。	。	PU	PU	_	3	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_academic_taoist-41
+# text = 保持物种平衡、生态平衡是保证自然生态美的基本条件。
 1	保持	保持	VV	VV	_	8	dep	_	start_char=0|end_char=2
 2	物种	物种	NN	NN	_	6	compound:nn	_	start_char=3|end_char=5
 3	平衡	平衡	NN	NN	_	6	conj	_	start_char=6|end_char=8
@@ -1187,6 +1280,8 @@
 13	条件	条件	NN	NN	_	8	dobj	_	start_char=34|end_char=36
 14	。	。	PU	PU	_	8	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_academic_taoist-42
+# text = 道生出万物，万物因内部都含有道而相互之间会有交感关系。
 1	道	道	NN	NN	_	2	nsubj	_	start_char=0|end_char=1
 2	生出	生出	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	万物	万物	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -1206,6 +1301,8 @@
 17	关系	关系	NN	NN	_	15	dobj	_	start_char=40|end_char=42
 18	。	。	PU	PU	_	2	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_academic_taoist-43
+# text = 这种交感关系最能体现物与物之间的和谐美，最能体现自然生态美。
 1	这	这	DT	DT	_	4	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	交感	交感	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1226,6 +1323,8 @@
 18	生态美	生态美	NN	NN	_	16	dobj	_	start_char=43|end_char=46
 19	。	。	PU	PU	_	7	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_taoist-44
+# text = 总之，道生出万物之后，万物及整个世界就像一张天网。
 1	总之	总之	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	道	道	NN	NN	_	4	nsubj	_	start_char=5|end_char=6
@@ -1244,6 +1343,8 @@
 16	天网	天网	NN	NN	_	13	dobj	_	start_char=37|end_char=39
 17	。	。	PU	PU	_	13	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_academic_taoist-45
+# text = 每个事物都像天网上的一个纽结，都在天网上占据着自己的一定的位置，和别的纽结、别的事物联在一起。
 1	每	每	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	事物	事物	NN	NN	_	11	nsubj	_	start_char=4|end_char=6
@@ -1281,6 +1382,8 @@
 35	一起	一起	AD	AD	_	33	advmod	_	start_char=78|end_char=80
 36	。	。	PU	PU	_	11	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_academic_taoist-46
+# text = 整个世界就这样形成了一个有机联系的和谐整体。
 1	整个	整个	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	世界	世界	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	就	就	AD	AD	_	5	advmod	_	start_char=6|end_char=7
@@ -1296,6 +1399,8 @@
 13	整体	整体	NN	NN	_	5	dobj	_	start_char=31|end_char=33
 14	。	。	PU	PU	_	5	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_academic_taoist-47
+# text = 这就是道家所说的“天网恢恢，疏而不失。”(《道德经》第73章)
 1	这	这	PN	PN	_	10	nsubj	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	10	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	10	cop	_	start_char=4|end_char=5
@@ -1321,6 +1426,8 @@
 23	章	章	M	M	_	22	mark:clf	_	start_char=51|end_char=52
 24	)	)	PU	PU	_	10	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_academic_taoist-48
+# text = 道家认为，由道生出的万事万物，即使是天地，都不可能长久地生存下去，都必然要逝去、消亡。
 1	道家	道家	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	认为	认为	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -1351,6 +1458,8 @@
 28	消亡	消亡	VV	VV	_	26	conj	_	start_char=67|end_char=69
 29	。	。	PU	PU	_	2	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_academic_taoist-49
+# text = 而它们的逝去、消亡之处正是生出它们的本根之道。
 1	而	而	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	它们	它	PN	PN	_	8	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -1369,6 +1478,8 @@
 16	道	道	NN	NN	_	11	dobj	_	start_char=36|end_char=37
 17	。	。	PU	PU	_	11	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_academic_taoist-50
+# text = 我们人就是要通过自我修养而看到万物的归根复命之状，并且在自我的归根复命中，使自己与道融为一体。
 1	我们	我	PN	PN	_	2	nmod:poss	_	start_char=0|end_char=2
 2	人	人	NN	NN	_	10	nsubj	_	start_char=3|end_char=4
 3	就	就	AD	AD	_	10	advmod	_	start_char=5|end_char=6
@@ -1403,6 +1514,8 @@
 32	一体	一体	NN	NN	_	30	dobj	_	start_char=75|end_char=77
 33	。	。	PU	PU	_	16	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_taoist-51
+# text = 这是一种意味悠长的生命体验、审美体验。
 1	这	这	PN	PN	_	12	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	12	cop	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	12	nummod	_	start_char=4|end_char=5
@@ -1417,6 +1530,8 @@
 12	体验	体验	NN	NN	_	0	root	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	12	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_academic_taoist-52
+# text = 由上可见，从最形而上的层面来说，万事万物，包括人、人的精神及社会等都是由道衍生出来的。
 1	由	由	P	P	_	2	case	_	start_char=0|end_char=1
 2	上	上	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=3
 3	可	可	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -1450,6 +1565,8 @@
 31	的	的	SP	SP	_	29	discourse	_	start_char=71|end_char=72
 32	。	。	PU	PU	_	29	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_academic_taoist-53
+# text = 但从较形而下的层面来说，人、人的精神及社会等又是由自然演化而来的。
 1	但	但	AD	AD	_	21	advmod	_	start_char=0|end_char=1
 2	从	从	P	P	_	6	case	_	start_char=2|end_char=3
 3	较	较	P	P	_	6	case	_	start_char=4|end_char=5
@@ -1476,6 +1593,8 @@
 24	的	的	SP	SP	_	25	discourse	_	start_char=54|end_char=55
 25	。	。	PU	PU	_	0	root	_	start_char=56|end_char=57
 
+# sent_id = gcdt_academic_taoist-54
+# text = 因此，人、人的精神及社会等从属于自然，是自然的不同的表现形式，内蕴自然的本质与规律，与自然具有高度的一致性，要效法自然、遵循自然的规律。
 1	因此	因此	AD	AD	_	20	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	20	punct	_	start_char=3|end_char=4
 3	人	人	NN	NN	_	5	conj	_	start_char=5|end_char=6

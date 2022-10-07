@@ -1,4 +1,4 @@
-<text id="gum_zh_news_bubble" type="news" sourceURL="https://zh.wikinews.org/wiki/%E6%93%9A%E5%A0%B1%E5%8F%B0%E7%81%A3%E8%88%87%E5%B8%9B%E7%90%89%E7%9A%84%E3%80%8C%E6%97%85%E9%81%8A%E6%B3%A1%E6%B3%A1%E3%80%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E9%80%B2%E5%B1%95" dateCreated="2021-03-07" dateModified="2021-03-14"  dateCollected="2022-01-03" speakerCount="0" speakerList="none" author="Wikinews" title="据报台湾与帕劳的“旅游泡泡”有重大进展" shortTitle="bubble"/>
+<text id="gum_zh_news_bubble" genre="news" sourceURL="https://zh.wikinews.org/wiki/%E6%93%9A%E5%A0%B1%E5%8F%B0%E7%81%A3%E8%88%87%E5%B8%9B%E7%90%89%E7%9A%84%E3%80%8C%E6%97%85%E9%81%8A%E6%B3%A1%E6%B3%A1%E3%80%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E9%80%B2%E5%B1%95" dateCreated="2021-03-07" dateModified="2021-03-14"  dateCollected="2022-01-03" speakerCount="0" speakerList="none" author="Wikinews" title="据报台湾与帕劳的“旅游泡泡”有重大进展" shortTitle="bubble"/>
 据报台湾与帕劳的“旅游泡泡”有重大进展
 
 【2021年3月7日讯】

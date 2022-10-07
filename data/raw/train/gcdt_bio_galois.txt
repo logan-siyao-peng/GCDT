@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_galois" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-10-16" shortTitle="galois" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E5%9F%83%E7%93%A6%E9%87%8C%E6%96%AF%E7%89%B9%C2%B7%E4%BC%BD%E7%BD%97%E7%93%A6&oldid=68237540" speakerCount="0" speakerList="none" title="埃瓦里斯特·伽罗瓦" type="bio"/>
+<text id="gum_zh_bio_galois" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-10-16" shortTitle="galois" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E5%9F%83%E7%93%A6%E9%87%8C%E6%96%AF%E7%89%B9%C2%B7%E4%BC%BD%E7%BD%97%E7%93%A6&amp;oldid=68237540" speakerCount="0" speakerList="none" title="埃瓦里斯特·伽罗瓦" genre="bio"/>
 埃瓦里斯特·伽罗瓦
 
 埃瓦里斯特·伽罗瓦（法语：Évariste Galois，1811年10月25日－1832年5月31日，法语发音： -LSB-evaʁist ɡalwa-RSB-），著名法国数学家。

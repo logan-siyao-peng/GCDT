@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_ward
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2020-11-18
+# meta::dateModified = 2020-11-27
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E5%8F%B2%E6%8F%90%E8%8A%AC%C2%B7%E6%B2%83%E5%BE%B7%EF%BC%9A%E4%BA%BA%E5%80%91%E9%96%8B%E5%A7%8B%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%99%9B%E5%81%87%E7%9A%84%E7%8F%BE%E5%AF%A6%E4%B8%AD
+# meta::speakerCount = 2
+# meta::title = 史提芬·沃德：人们开始生活在虚假的现实中
+# meta::shortTitle = ward
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = dev
+# sent_id = gcdt_interview_ward-1
+# text = 史提芬·沃德：人们开始生活在虚假的现实中
 1	史提芬·沃德	史提芬·沃德	NR	NR	_	5	nmod:topic	_	start_char=0|end_char=6
 2	：	：	PU	PU	_	5	punct	_	start_char=7|end_char=8
 3	人们	人	NN	NN	_	5	nsubj	_	start_char=9|end_char=11
@@ -9,6 +22,8 @@
 9	现实	现实	NN	NN	_	5	nmod:prep	_	start_char=25|end_char=27
 10	中	中	LC	LC	_	9	case	_	start_char=28|end_char=29
 
+# sent_id = gcdt_interview_ward-2
+# text = 【2020年11月18日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2020年	2020年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	11月	11月	NT	NT	_	5	dep	_	start_char=8|end_char=11
@@ -16,6 +31,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=16|end_char=17
 6	】	】	PU	PU	_	5	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_interview_ward-3
+# text = 地球上近80亿人中的绝大多数人继续通过媒体和社交网络获得有关新冠病毒传播的讯息。
 1	地球	地球	NN	NN	_	5	dep	_	start_char=0|end_char=2
 2	上	上	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	近	近	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -40,6 +57,8 @@
 22	讯息	讯息	NN	NN	_	16	dobj	_	start_char=58|end_char=60
 23	。	。	PU	PU	_	16	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_interview_ward-4
+# text = 与此同时，在世界不同地区，当局、记者和公民对大流行的威胁和长期隔离的经济后果有不同的认识。
 1	与此同时	与此同时	AD	AD	_	24	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	24	punct	_	start_char=5|end_char=6
 3	在	在	P	P	_	6	case	_	start_char=7|end_char=8
@@ -69,6 +88,8 @@
 27	认识	认识	NN	NN	_	24	dobj	_	start_char=68|end_char=70
 28	。	。	PU	PU	_	24	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_interview_ward-5
+# text = 加拿大新闻学院院长、英属哥伦比亚大学教授史提芬·J·A·沃德（Stephen J. A. Ward），同时也是威斯康星大学新闻伦理中心的创始主任，他在接受俄语维基新闻采访时，谈到了他对当前新冠大流行病报道形势的看法。
 1	加拿大	加拿大	NR	NR	_	3	compound:nn	_	start_char=0|end_char=3
 2	新闻	新闻	NN	NN	_	3	compound:nn	_	start_char=4|end_char=6
 3	学院	学院	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -120,6 +141,8 @@
 49	看法	看法	NN	NN	_	38	dobj	_	start_char=150|end_char=152
 50	。	。	PU	PU	_	38	punct	_	start_char=153|end_char=154
 
+# sent_id = gcdt_interview_ward-6
+# text = 在采访时，作为前战地记者和加拿大记者协会（CAJ）道德委员会的负责人罗马·巴拉宾（Roman Balabin），沃德教授评价了目前媒体对病毒的报道。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	采访	采访	NN	NN	_	28	nmod:prep	_	start_char=2|end_char=4
 3	时	时	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -157,6 +180,8 @@
 35	报道	报道	NN	NN	_	28	dobj	_	start_char=104|end_char=106
 36	。	。	PU	PU	_	28	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_interview_ward-7
+# text = 2017年，你写道：“互联网曾经风靡一时，我们曾称赞它‘使媒体民主化并使“我们人民”一词成为现实’ 一个由巨魔、黑客、种族主义者、狂热分子、阴谋论者和政府为操纵社交网络，而创造由机器人组成的，喧闹而又经常危险的全球环境。”
 1	2017年	2017年	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
 3	你	你	PN	PN	_	4	nsubj	_	start_char=8|end_char=9
@@ -226,6 +251,8 @@
 67	。	。	PU	PU	_	4	punct	_	start_char=174|end_char=175
 68	”	”	PU	PU	_	4	punct	_	start_char=176|end_char=177
 
+# sent_id = gcdt_interview_ward-8
+# text = 你认为从那以后情况有变化吗？
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	认为	认为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	从	从	P	P	_	4	case	_	start_char=5|end_char=6
@@ -237,6 +264,8 @@
 9	吗	吗	SP	SP	_	10	discourse	_	start_char=20|end_char=21
 10	？	？	PU	PU	_	2	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_interview_ward-9
+# text = 不，情况并没有改变，事实上它已经变得更糟了。
 1	不	不	AD	AD	_	6	neg	_	start_char=0|end_char=1
 2	，	，	PU	PU	_	6	punct	_	start_char=2|end_char=3
 3	情况	情况	NN	NN	_	6	nsubj	_	start_char=4|end_char=6
@@ -254,6 +283,8 @@
 15	了	了	SP	SP	_	14	discourse	_	start_char=34|end_char=35
 16	。	。	PU	PU	_	6	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_interview_ward-10
+# text = 社会的公共讯息渠道──今天相当于他们与世界或“现实”的接触被扭曲，意味着他们不仅会误解问题，而且政府和其他虚假讯息的代理人将更有能力操纵他们和公众舆论。
 1	社会	社会	NN	NN	_	5	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	公共	公共	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -301,6 +332,8 @@
 45	舆论	舆论	NN	NN	_	41	dobj	_	start_char=117|end_char=119
 46	。	。	PU	PU	_	8	punct	_	start_char=120|end_char=121
 
+# sent_id = gcdt_interview_ward-11
+# text = 公众开始生活在一个由意识形态主义者、冒充民粹主义者的暴君和极右翼团体制造的虚假现实中。
 1	公众	公众	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	开始	开始	VV	VV	_	3	xcomp	_	start_char=3|end_char=5
 3	生活	生活	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -327,6 +360,8 @@
 24	中	中	LC	LC	_	23	case	_	start_char=64|end_char=65
 25	。	。	PU	PU	_	3	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_interview_ward-12
+# text = 在一个如此相互联系和相互依存的全球世界里，我想不出比这更危险的和平共处的发展了。
 1	在	在	P	P	_	12	case	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	12	nummod	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -357,6 +392,8 @@
 28	了	了	SP	SP	_	16	discourse	_	start_char=65|end_char=66
 29	。	。	PU	PU	_	16	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_interview_ward-13
+# text = 只要看看围绕COVID-19流传的错误讯息的程度就知道了。
 1	只要	只要	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	看看	看看	VV	VV	_	12	dep	_	start_char=3|end_char=5
 3	围绕	围绕	VV	VV	_	10	acl	_	start_char=6|end_char=8
@@ -372,6 +409,8 @@
 13	了	了	AS	AS	_	12	aux:asp	_	start_char=39|end_char=40
 14	。	。	PU	PU	_	12	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_interview_ward-14
+# text = 我们已经将我们的公共渠道“政治化”，以至于任何人都难以获得合理客观、非极化的讯息。
 1	我们	我	PN	PN	_	9	nsubj	_	start_char=0|end_char=2
 2	已经	已经	AD	AD	_	9	advmod	_	start_char=3|end_char=5
 3	将	将	BA	BA	_	9	aux:ba	_	start_char=6|end_char=7
@@ -398,6 +437,8 @@
 24	讯息	讯息	NN	NN	_	18	dobj	_	start_char=61|end_char=63
 25	。	。	PU	PU	_	9	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_interview_ward-15
+# text = 维基新闻是一个新闻媒体项目，任何人都可以编辑任何文章。
 1	维基	维基	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	新闻	新闻	NN	NN	_	8	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	8	cop	_	start_char=6|end_char=7
@@ -416,6 +457,8 @@
 16	文章	文章	NN	NN	_	14	dobj	_	start_char=39|end_char=41
 17	。	。	PU	PU	_	8	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_interview_ward-16
+# text = 这是否会给参与者带来任何特殊的道德问题？
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	是否	是否	AD	AD	_	6	advmod	_	start_char=2|end_char=4
 3	会	会	VV	VV	_	6	aux:modal	_	start_char=5|end_char=6
@@ -429,6 +472,8 @@
 11	问题	问题	NN	NN	_	6	dobj	_	start_char=27|end_char=29
 12	？	？	PU	PU	_	6	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_interview_ward-17
+# text = 这个问题围绕着“任何人”。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	问题	问题	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -440,6 +485,8 @@
 9	”	”	PU	PU	_	8	punct	_	start_char=19|end_char=20
 10	。	。	PU	PU	_	4	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_ward-18
+# text = 就像任何其他维基服务的用户一样，我看到的文章，（例如在维基媒体上）是关于非政治主题的，例如，哲学家或作家，我知道这些文章是不完整的，而且似乎是倾斜的，但我并不感到惊讶。
 1	就	就	AD	AD	_	9	advmod	_	start_char=0|end_char=1
 2	像	像	P	P	_	8	case	_	start_char=2|end_char=3
 3	任何	任何	DT	DT	_	8	det	_	start_char=4|end_char=6
@@ -497,6 +544,8 @@
 55	惊讶	惊讶	VA	VA	_	54	ccomp	_	start_char=135|end_char=137
 56	。	。	PU	PU	_	9	punct	_	start_char=138|end_char=139
 
+# sent_id = gcdt_interview_ward-19
+# text = 但当涉及到新闻时，管理维基新闻的人需要格外警惕，检查谁在写文章，并透明地提供讯息，说明为什么这个人有能力写这篇文章。
 1	但	但	AD	AD	_	13	advmod	_	start_char=0|end_char=1
 2	当	当	P	P	_	3	case	_	start_char=2|end_char=3
 3	涉及	涉及	VV	VV	_	13	nmod:prep	_	start_char=4|end_char=6
@@ -538,6 +587,8 @@
 39	文章	文章	NN	NN	_	36	dobj	_	start_char=93|end_char=95
 40	。	。	PU	PU	_	13	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_interview_ward-20
+# text = 我不认为维基新闻可以保证完全的客观性或公正性，无论这意味着什么，但他们需要采取媒体道德的基本步骤：负责任、透明、检查文章是否有偏见或不完整，文章要接受独立媒体专家的检查（Review），并明确阐述他们的道德准则，这是强制性的。
 1	我	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	不	不	AD	AD	_	3	neg	_	start_char=2|end_char=3
 3	认为	认为	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -607,6 +658,8 @@
 67	的	的	DEG	DEG	_	66	case	_	start_char=177|end_char=178
 68	。	。	PU	PU	_	3	punct	_	start_char=179|end_char=180
 
+# sent_id = gcdt_interview_ward-21
+# text = 教授克劳斯·梅耶（Klaus Meyer）和温森克·维斯（Vincenz Wyss）争论，在2月和3月初，有关COVID-19流行病的新闻“在科学估计中的观点多样性和偏见很少得到体现”。
 1	教授	教授	NN	NN	_	2	appos	_	start_char=0|end_char=2
 2	克劳斯·梅耶	克劳斯·梅耶	NR	NR	_	8	dep	_	start_char=3|end_char=9
 3	（	（	PU	PU	_	5	punct	_	start_char=10|end_char=11
@@ -649,6 +702,8 @@
 40	”	”	PU	PU	_	38	punct	_	start_char=128|end_char=129
 41	。	。	PU	PU	_	38	punct	_	start_char=130|end_char=131
 
+# sent_id = gcdt_interview_ward-22
+# text = 您是否同意这种观点？
 1	您	您	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	是否	是否	VV	VV	_	3	xcomp	_	start_char=2|end_char=4
 3	同意	同意	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -657,6 +712,8 @@
 6	观点	观点	NN	NN	_	3	dobj	_	start_char=12|end_char=14
 7	？	？	PU	PU	_	3	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_interview_ward-23
+# text = 覆盖范围大部分是关键的还是非关键的？
 1	覆盖	覆盖	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	范围	范围	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	大	大	JJ	JJ	_	4	amod	_	start_char=6|end_char=7
@@ -670,6 +727,8 @@
 11	的	的	SP	SP	_	10	discourse	_	start_char=26|end_char=27
 12	？	？	PU	PU	_	0	root	_	start_char=28|end_char=29
 
+# sent_id = gcdt_interview_ward-24
+# text = 报道科学上的不确定性总是一个问题，公平地说，今次大流行病包含的不确定性超出了常规。
 1	报道	报道	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	科学	科学	NN	NN	_	5	nmod	_	start_char=3|end_char=5
 3	上	上	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -696,6 +755,8 @@
 24	常规	常规	NN	NN	_	22	dobj	_	start_char=61|end_char=63
 25	。	。	PU	PU	_	13	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_interview_ward-25
+# text = 即使是世界上最伟大的流行病专家，也无法确定未来会发生什么。
 1	即使	即使	CS	CS	_	9	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	9	cop	_	start_char=3|end_char=4
 3	世界	世界	NN	NN	_	6	advmod:loc	_	start_char=5|end_char=7
@@ -715,6 +776,8 @@
 17	什么	什么	PN	PN	_	16	dobj	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	13	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_interview_ward-26
+# text = 这不是因为缺乏知识，而是人类不可能总是预测复杂疾病的后果。
 1	这	这	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	不	不	AD	AD	_	3	neg	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	0	root	_	start_char=4|end_char=5
@@ -735,12 +798,16 @@
 18	后果	后果	NN	NN	_	3	conj	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	3	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_interview_ward-27
+# text = 有这么多因素。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	这么	这么	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	多	多	CD	CD	_	4	dep	_	start_char=5|end_char=6
 4	因素	因素	NN	NN	_	1	dobj	_	start_char=7|end_char=9
 5	。	。	PU	PU	_	1	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_interview_ward-28
+# text = 另一个问题是，太多人认为科学是“确定”的知识，或者说是纯粹的事实，而不是基于现有最佳证据和推理模型的可能知识。
 1	另	另	DT	DT	_	4	det	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -781,6 +848,8 @@
 38	知识	知识	NN	NN	_	28	nmod:prep	_	start_char=89|end_char=91
 39	。	。	PU	PU	_	10	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_interview_ward-29
+# text = 所以，当记者报道科学家对某件事情“不确定”时，太多人就会得出科学家不知道自己在说什么的结论，并把他们和非专家归为同一桶。
 1	所以	所以	AD	AD	_	22	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	22	punct	_	start_char=3|end_char=4
 3	当	当	P	P	_	5	case	_	start_char=5|end_char=6
@@ -826,6 +895,8 @@
 43	桶	桶	M	M	_	42	mark:clf	_	start_char=100|end_char=101
 44	。	。	PU	PU	_	22	punct	_	start_char=102|end_char=103
 
+# sent_id = gcdt_interview_ward-30
+# text = 我赞成对不确定性进行细致入微的报道，我知道很多报道在这件事上没有做好。
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	赞成	赞成	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	对	对	P	P	_	4	case	_	start_char=5|end_char=6
@@ -849,6 +920,8 @@
 21	做好	做好	VV	VV	_	12	ccomp	_	start_char=52|end_char=54
 22	。	。	PU	PU	_	2	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_interview_ward-31
+# text = 这说明各大新闻单位需要在沟通风险和不确定性方面进行自我宣传，这是我多年来一直强调的。
 1	这	这	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	说明	说明	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	各	各	DT	DT	_	6	det	_	start_char=5|end_char=6
@@ -877,6 +950,8 @@
 26	的	的	SP	SP	_	25	discourse	_	start_char=65|end_char=66
 27	。	。	PU	PU	_	2	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_interview_ward-32
+# text = 也好，新闻学院应该把它作为教学的一部分。
 1	也好	也好	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	8	punct	_	start_char=3|end_char=4
 3	新闻	新闻	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -891,6 +966,8 @@
 12	部分	部分	NN	NN	_	8	dobj	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	8	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_interview_ward-33
+# text = 克劳斯·梅耶和温森克·维斯还表示，“德国和瑞士的媒体在报道时，基本没有距离感──他们的资讯与联邦和州的官方讯息一致。”
 1	克劳斯·梅耶	克劳斯·梅耶	NR	NR	_	3	conj	_	start_char=0|end_char=6
 2	和	和	CC	CC	_	3	cc	_	start_char=7|end_char=8
 3	温森克·维斯	温森克·维斯	NR	NR	_	5	nsubj	_	start_char=9|end_char=15
@@ -925,6 +1002,8 @@
 32	。	。	PU	PU	_	5	punct	_	start_char=88|end_char=89
 33	”	”	PU	PU	_	5	punct	_	start_char=90|end_char=91
 
+# sent_id = gcdt_interview_ward-34
+# text = 你同意这个观点吗？
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	同意	同意	VV	VV	_	7	dep	_	start_char=2|end_char=4
 3	这	这	DT	DT	_	5	det	_	start_char=5|end_char=6
@@ -933,6 +1012,8 @@
 6	吗	吗	SP	SP	_	7	discourse	_	start_char=12|end_char=13
 7	？	？	PU	PU	_	0	root	_	start_char=14|end_char=15
 
+# sent_id = gcdt_interview_ward-35
+# text = 美国和加拿大的情况是相似，还是不同？
 1	美国	美国	NR	NR	_	3	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	加拿大	加拿大	NR	NR	_	5	nmod:assmod	_	start_char=5|end_char=8
@@ -945,6 +1026,8 @@
 10	不同	不同	VA	VA	_	7	conj	_	start_char=24|end_char=26
 11	？	？	PU	PU	_	7	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_interview_ward-36
+# text = 这是报道健康问题和严重事态发展的另一个问题。
 1	这	这	PN	PN	_	14	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	14	cop	_	start_char=2|end_char=3
 3	报道	报道	NN	NN	_	5	compound:nn	_	start_char=4|end_char=6
@@ -961,6 +1044,8 @@
 14	问题	问题	NN	NN	_	0	root	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	14	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_interview_ward-37
+# text = 新闻媒体必须告诉人们他们的政府和相关机构在说什么，做什么，对事情。
 1	新闻	新闻	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	媒体	媒体	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	必须	必须	VV	VV	_	4	aux:modal	_	start_char=6|end_char=8
@@ -983,6 +1068,8 @@
 20	事情	事情	NN	NN	_	16	nmod:prep	_	start_char=49|end_char=51
 21	。	。	PU	PU	_	4	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_interview_ward-38
+# text = 有一个巨大的讯息真空需要填补，而这个真空将被恐惧和错误讯息所填补，否则。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	7	nummod	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1009,6 +1096,8 @@
 24	否则	否则	AD	AD	_	1	dep	_	start_char=56|end_char=58
 25	。	。	PU	PU	_	1	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_interview_ward-39
+# text = 然而，与此同时，至关重要的是，媒体要批判性地对待官方讯息，而不是简单地“接受”所有讯息。
 1	然而	然而	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	与此同时	与此同时	AD	AD	_	13	advmod	_	start_char=5|end_char=9
@@ -1037,6 +1126,8 @@
 26	讯息	讯息	NN	NN	_	23	dobj	_	start_char=66|end_char=68
 27	。	。	PU	PU	_	13	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_interview_ward-40
+# text = 他们需要进行自己的独立调查和报道。
 1	他们	他	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	需要	需要	VV	VV	_	3	xcomp	_	start_char=3|end_char=5
 3	进行	进行	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1048,6 +1139,8 @@
 9	报道	报道	NN	NN	_	3	dobj	_	start_char=22|end_char=24
 10	。	。	PU	PU	_	3	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_interview_ward-41
+# text = 在北美，它的纪录好坏参半。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	北美	北美	NR	NR	_	8	nmod:prep	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	8	punct	_	start_char=5|end_char=6
@@ -1058,6 +1151,8 @@
 8	参半	参半	VV	VV	_	0	root	_	start_char=17|end_char=19
 9	。	。	PU	PU	_	8	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_interview_ward-42
+# text = 在美国，各大新闻机构都对特朗普总统及其政权产生的官方路线提出了严重的质疑。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	美国	美国	NR	NR	_	19	nmod:prep	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	19	punct	_	start_char=5|end_char=6
@@ -1083,6 +1178,8 @@
 23	质疑	质疑	NN	NN	_	19	dobj	_	start_char=56|end_char=58
 24	。	。	PU	PU	_	19	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_interview_ward-43
+# text = 但太多时候，特朗普每天都在用他那可笑的新闻发布会来主导报道，病毒怀疑论是主题。
 1	但	但	AD	AD	_	18	advmod	_	start_char=0|end_char=1
 2	太	太	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	多	多	CD	CD	_	4	dep	_	start_char=4|end_char=5
@@ -1109,6 +1206,8 @@
 24	主题	主题	NN	NN	_	18	conj	_	start_char=59|end_char=61
 25	。	。	PU	PU	_	18	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_interview_ward-44
+# text = 在加拿大，加拿大广播公司（CBC）在平衡官方和非官方讯息方面做得很好，各大报纸也是如此。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	加拿大	加拿大	NR	NR	_	21	nmod:prep	_	start_char=2|end_char=5
 3	，	，	PU	PU	_	21	punct	_	start_char=6|end_char=7
@@ -1139,6 +1238,8 @@
 28	如此	如此	VA	VA	_	21	conj	_	start_char=68|end_char=70
 29	。	。	PU	PU	_	21	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_interview_ward-45
+# text = 加拿大的主要媒体也很好地展示了加拿大如何反应迟缓，在许多方面毫无准备。
 1	加拿大	加拿大	NR	NR	_	4	nmod:assmod	_	start_char=0|end_char=3
 2	的	的	DEG	DEG	_	1	case	_	start_char=4|end_char=5
 3	主要	主要	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
@@ -1161,6 +1262,8 @@
 20	准备	准备	NN	NN	_	19	dobj	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	9	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_interview_ward-46
+# text = 病死人数在俄罗斯媒体上基本被表述为“真实事实”。
 1	病死	病死	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	人数	人数	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	5	case	_	start_char=6|end_char=7
@@ -1177,11 +1280,15 @@
 14	”	”	PU	PU	_	13	punct	_	start_char=35|end_char=36
 15	。	。	PU	PU	_	9	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_interview_ward-47
+# text = 能否如此命名？
 1	能否	能否	VV	VV	_	3	advmod	_	start_char=0|end_char=2
 2	如此	如此	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	命名	命名	VV	VV	_	0	root	_	start_char=6|end_char=8
 4	？	？	PU	PU	_	3	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_interview_ward-48
+# text = 不，它们不是“真实的事实”，如果这意味着不容置疑或肯定的话。
 1	不	不	AD	AD	_	9	neg	_	start_char=0|end_char=1
 2	，	，	PU	PU	_	9	punct	_	start_char=2|end_char=3
 3	它们	它	PN	PN	_	9	nsubj	_	start_char=4|end_char=6
@@ -1203,6 +1310,8 @@
 19	的话	的话	SP	SP	_	14	discourse	_	start_char=45|end_char=47
 20	。	。	PU	PU	_	9	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_interview_ward-49
+# text = 人们为什么要接受这样的宣传？
 1	人们	人	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	为什么	为什么	AD	AD	_	4	advmod	_	start_char=3|end_char=6
 3	要	要	VV	VV	_	4	xcomp	_	start_char=7|end_char=8
@@ -1212,6 +1321,8 @@
 7	宣传	宣传	NN	NN	_	4	dobj	_	start_char=17|end_char=19
 8	？	？	PU	PU	_	4	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_interview_ward-50
+# text = 任何一个有理智的人都知道，现有的关于病毒和死亡人数等数据并不完整，取决于估计，而估计又取决于检测的多少。
 1	任何	任何	DT	DT	_	7	det	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	1	dep	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -1246,6 +1357,8 @@
 32	多少	多少	CD	CD	_	29	nmod:range	_	start_char=80|end_char=82
 33	。	。	PU	PU	_	9	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_interview_ward-51
+# text = 而俄罗斯或其他地方的政府，都有一个利益就是让事实看起来尽可能的好。
 1	而	而	AD	AD	_	10	advmod	_	start_char=0|end_char=1
 2	俄罗斯	俄罗斯	NR	NR	_	5	conj	_	start_char=2|end_char=5
 3	或	或	CC	CC	_	5	cc	_	start_char=6|end_char=7
@@ -1269,6 +1382,8 @@
 21	好	好	VA	VA	_	16	ccomp	_	start_char=51|end_char=52
 22	。	。	PU	PU	_	10	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_interview_ward-52
+# text = 这就是为什么媒体报道需要说这是政府公布的数据，然后继续指出任何不确定因素。
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	6	cop	_	start_char=4|end_char=5
@@ -1292,6 +1407,8 @@
 21	因素	因素	NN	NN	_	18	dobj	_	start_char=54|end_char=56
 22	。	。	PU	PU	_	6	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_interview_ward-53
+# text = 例如，CBC关于病毒的网站上有很多关于疾病传播的图表；但是，在网页的开头，它明确指出了这些数据的局限性，例如采样的测试次数。
 1	例如	例如	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	CBC	CBC	NR	NR	_	9	nsubj	_	start_char=5|end_char=8

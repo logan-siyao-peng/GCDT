@@ -37,152 +37,152 @@
 	</header>
 	<body>
 		<segment id="1" parent="289" relname="span">突发 疫情 下 的 政府 治理 研究 // Research on Government Governance under Emergency Epidemic</segment>
-		<segment id="2" parent="1" relname="explanation-evidence">—— 以 新冠 疫情 为 例 // ——Take the new crown epidemic as an example</segment>
+		<segment id="2" parent="1" relname="explanation-evidence">—— 以 新冠 疫情 为 例 // — — Take the new crown epidemic as an example</segment>
 		<segment id="3" parent="164" relname="organization-heading">1. 引言 // 1 Introduction</segment>
-		<segment id="4" parent="149" relname="joint-list">新 世纪 以来 ， 中国 经济 进入 高速 发展 的 时期 ， // Since the new century, China's economy has entered a period of rapid development.</segment>
+		<segment id="4" parent="149" relname="joint-list">新 世纪 以来 ， 中国 经济 进入 高速 发展 的 时期 ， // Since the new century , China 's economy has entered a period of rapid development .</segment>
 		<segment id="5" parent="149" relname="joint-list">全球化 的 发展 也 使得 人类 之间 的 联系 日益 密切 。 // The development of globalization also makes the connection between human beings increasingly close .</segment>
-		<segment id="6" parent="152" relname="span">同时 ， 我国 也 进入 了 突发 疫情 的 高频 阶段 ， // At the same time, my country has also entered a high-frequency stage of sudden outbreaks.</segment>
+		<segment id="6" parent="152" relname="span">同时 ， 我国 也 进入 了 突发 疫情 的 高频 阶段 ， // At the same time , my country has also entered a high - frequency stage of sudden outbreaks .</segment>
 		<segment id="7" parent="151" relname="same-unit">2020年 新冠 疫情 则 是 // The new crown epidemic in 2020 is</segment>
 		<segment id="8" parent="9" relname="context-circumstance">新 中国 成立 以来 // Since the founding of New China</segment>
-		<segment id="9" parent="150" relname="span">最 严重 的 一 次 公共 卫生 突发 事件 ， // the most serious public health emergency,</segment>
-		<segment id="10" parent="153" relname="joint-list">这 对 政府 的 治理 能力 与 治理 体系 提出 了 新 的 挑战 ， // This poses new challenges to the government's governance capacity and governance system.</segment>
+		<segment id="9" parent="150" relname="span">最 严重 的 一 次 公共 卫生 突发 事件 ， // the most serious public health emergency ,</segment>
+		<segment id="10" parent="153" relname="joint-list">这 对 政府 的 治理 能力 与 治理 体系 提出 了 新 的 挑战 ， // This poses new challenges to the government 's governance capacity and governance system .</segment>
 		<segment id="11" parent="153" relname="joint-list">也 是 对 中国 特色 社会 主义 治理 能力 与 治理 体系 的 一 次 大考 。 // It is also a big test of the governance capacity and governance system of socialism with Chinese characteristics .</segment>
-		<segment id="12" parent="155" relname="joint-list">目前 ， 我国 新冠 疫情 已经 基本 稳定 ， // At present, my country's new crown epidemic has basically stabilized.</segment>
-		<segment id="13" parent="155" relname="joint-list">进入 了 疫情 防控 常态化 阶段 。 // It has entered the normalization stage of epidemic prevention and control.</segment>
-		<segment id="14" parent="156" relname="joint-list">但 在 该 次 突发 疫情 中 ， 暴露 出 政府 在 责任 划分 和 合作 治理 等 方面 的 问题 ， // However, in this sudden outbreak, the government's problems in the division of responsibilities and cooperative governance were exposed.</segment>
+		<segment id="12" parent="155" relname="joint-list">目前 ， 我国 新冠 疫情 已经 基本 稳定 ， // At present , the new crown epidemic in my country has basically stabilized .</segment>
+		<segment id="13" parent="155" relname="joint-list">进入 了 疫情 防控 常态化 阶段 。 // It has entered the normalization stage of epidemic prevention and control .</segment>
+		<segment id="14" parent="156" relname="joint-list">但 在 该 次 突发 疫情 中 ， 暴露 出 政府 在 责任 划分 和 合作 治理 等 方面 的 问题 ， // However , in this sudden outbreak , the government 's problems in the division of responsibilities and cooperative governance were exposed .</segment>
 		<segment id="15" parent="156" relname="joint-list">削弱 了 政府 在 突发 疫情 中 的 治理 能力 。 // It weakens the government 's ability to govern in a sudden outbreak .</segment>
 		<segment id="16" parent="17" relname="mode-means">因此 ， 通过 完善 现有 法律 与 制度 ， // Therefore , by improving existing laws and institutions ,</segment>
 		<segment id="17" parent="158" relname="span">优化 政府 治理 存在 必要性 与 紧迫性 ， // It is necessary and urgent to optimize government governance ,</segment>
 		<segment id="18" parent="161" relname="same-unit">同时 也 是 // also</segment>
 		<segment id="19" parent="159" relname="joint-list">实现 中国 特色 社会 主义 治理 能力 // Realize the ability of socialist governance with Chinese characteristics</segment>
 		<segment id="20" parent="159" relname="joint-list">与 治理 体系 现代化 的 // with the modernization of the governance system</segment>
-		<segment id="21" parent="160" relname="span">必然 要求 。 // necessarily required.</segment>
-		<segment id="22" parent="286" relname="organization-heading">2. 相关 概念 与 制度 // 2. Related Concepts and Institutions</segment>
-		<segment id="23" parent="222" relname="organization-heading">2.1. 突发 疫情 的 定义 及 特点 // 2.1. Definition and characteristics of outbreaks</segment>
+		<segment id="21" parent="160" relname="span">必然 要求 。 // necessarily required .</segment>
+		<segment id="22" parent="286" relname="organization-heading">2. 相关 概念 与 制度 // 2 . Related Concepts and Institutions</segment>
+		<segment id="23" parent="222" relname="organization-heading">2.1. 突发 疫情 的 定义 及 特点 // 2.1 . Definition and characteristics of outbreaks</segment>
 		<segment id="24" parent="170" relname="same-unit">突发 疫情 是 指 突发 的 、 群发 的 、 // Emergencies refer to sudden , mass ,</segment>
-		<segment id="25" parent="167" relname="span">对 公共 健康 或 经济 、 政治 、 社会 等 影响 大 的 // Great influence on public health or economy, politics, society, etc.</segment>
-		<segment id="26" parent="166" relname="joint-disjunction">( 已 造成 危害 // (has caused harm</segment>
-		<segment id="27" parent="166" relname="joint-disjunction">或 可能 造成 危害 ) ， // or may cause a hazard),</segment>
+		<segment id="25" parent="167" relname="span">对 公共 健康 或 经济 、 政治 、 社会 等 影响 大 的 // Great influence on public health or economy , politics , society , etc .</segment>
+		<segment id="26" parent="166" relname="joint-disjunction">( 已 造成 危害 // ( has caused harm</segment>
+		<segment id="27" parent="166" relname="joint-disjunction">或 可能 造成 危害 ) ， // or may cause a hazard ) ,</segment>
 		<segment id="28" parent="168" relname="joint-list">需要 紧急 采取 控制 措施 ， // Urgent control measures are required ,</segment>
 		<segment id="29" parent="168" relname="joint-list">与 传染病 有关 的 // related to infectious diseases</segment>
 		<segment id="30" parent="169" relname="span">公共 卫生 事件 // public health event</segment>
 		<segment id="31" parent="170" relname="explanation-evidence">-LSB- 1 -RSB- 。 // -LSB- 1 -RSB- .</segment>
 		<segment id="32" parent="172" relname="span">相对于 其他 突发 事件 ， 突发 疫情 本身 具有 显著 特点 ， // Compared with other emergencies , the emergencies themselves have distinctive features .</segment>
 		<segment id="33" parent="32" relname="causal-result">对 政府 治理 提出 了 更 高 的 要求 ， // Put forward higher requirements for government governance ,</segment>
-		<segment id="34" parent="172" relname="elaboration-additional">集中 体现 在 以下 三 个 方面 。 // It is mainly reflected in the following three aspects .</segment>
-		<segment id="35" parent="182" relname="organization-preparation">公共性 。 // publicity.</segment>
-		<segment id="36" parent="174" relname="context-background">突发 疫情 属于 公共 卫生 事件 的 一 种 ， // An outbreak is a type of public health event.</segment>
-		<segment id="37" parent="174" relname="span">突发 疫情 的 最初 范围 不 一定 是 在 普遍 的 公众 领域 ， // The initial scope of an outbreak is not necessarily in the general public sphere,</segment>
+		<segment id="34" parent="172" relname="elaboration-additional">集中 体现 在 以下 三 个 方面 。 // It is concentrated in the following three aspects .</segment>
+		<segment id="35" parent="182" relname="organization-preparation">公共性 。 // publicity .</segment>
+		<segment id="36" parent="174" relname="context-background">突发 疫情 属于 公共 卫生 事件 的 一 种 ， // An outbreak is a type of public health event .</segment>
+		<segment id="37" parent="174" relname="span">突发 疫情 的 最初 范围 不 一定 是 在 普遍 的 公众 领域 ， // The initial scope of an outbreak is not necessarily in the general public sphere ,</segment>
 		<segment id="38" parent="37" relname="explanation-justify">很 可能 是 开始于 某 个 狭小 的 公众 领域 或 为数 不 多 的 特定 个体 ， // probably started in a small public sphere or a few specific individuals ,</segment>
 		<segment id="39" parent="176" relname="causal-cause">但是 由于 疫情 的 传染性 ， // But due to the contagious nature of the epidemic ,</segment>
 		<segment id="40" parent="176" relname="same-unit">会 // meeting</segment>
-		<segment id="41" parent="42" relname="mode-means">随着 人员 交流 、 人口 流动 、 社会 交往 等 // With personnel exchange , population flow , social interaction etc.</segment>
+		<segment id="41" parent="42" relname="mode-means">随着 人员 交流 、 人口 流动 、 社会 交往 等 // With personnel exchange , population flow , social interaction etc .</segment>
 		<segment id="42" parent="175" relname="span">得以 进一步 的 扩散 ， // to spread further ,</segment>
 		<segment id="43" parent="177" relname="causal-result">成为 一定 区域 乃至 全球 的 公共 卫生 事件 。 // become a regional and even global public health event .</segment>
 		<segment id="44" parent="45" relname="mode-means">因此 ， 政府 必须 通过 调动 和 整合 充足 的 公共 资源 ， // Therefore , the government must mobilize and integrate adequate public resources ,</segment>
-		<segment id="45" parent="179" relname="span">跨 区域 协调 联动 ， // Cross-regional coordination and linkage,</segment>
+		<segment id="45" parent="179" relname="span">跨 区域 协调 联动 ， // Cross - regional coordination and linkage ,</segment>
 		<segment id="46" parent="180" relname="joint-list">并且 消除 民众 心理 与 公共 评价 的 体系 中 的 不利 影响 // And eliminate the adverse effects in the system of public psychology and public evaluation .</segment>
-		<segment id="47" parent="181" relname="span">才 能 得以 解决 。 // to be resolved.</segment>
-		<segment id="48" parent="199" relname="organization-heading">突发性 。 // Sudden.</segment>
-		<segment id="49" parent="186" relname="joint-list">突发 疫情 的 发生 是 不 可 预测 的 ， // The occurrence of sudden outbreaks is unpredictable.</segment>
+		<segment id="47" parent="181" relname="span">才 能 得以 解决 。 // to be resolved .</segment>
+		<segment id="48" parent="199" relname="organization-heading">突发性 。 // Sudden .</segment>
+		<segment id="49" parent="186" relname="joint-list">突发 疫情 的 发生 是 不 可 预测 的 ， // The occurrence of sudden outbreaks is unpredictable .</segment>
 		<segment id="50" parent="186" relname="joint-list">容易 被 忽视 的 ， // easily overlooked ,</segment>
 		<segment id="51" parent="187" relname="adversative-contrast">但是 却 具有 极 大 危害性 乃至 颠覆性 。 // But it is extremely harmful and even subversive .</segment>
 		<segment id="52" parent="188" relname="causal-cause">公共 对策 研究 的 最大 困境 就 在于 很 难 对 事件 的 发生 和 发展 做出 预先 的 判断 ， // The biggest dilemma in the study of public countermeasures is that it is difficult to make advance judgments on the occurrence and development of events .</segment>
-		<segment id="53" parent="54" relname="contingency-condition">所以 事件 一旦 发生 ， // So once the event happens,</segment>
-		<segment id="54" parent="188" relname="span">公众 和 政府 容易 在 早期 陷入 被动 与 慌乱 。 // The public and the government are prone to passivity and panic early on .</segment>
+		<segment id="53" parent="54" relname="contingency-condition">所以 事件 一旦 发生 ， // So once the event happens ,</segment>
+		<segment id="54" parent="188" relname="span">公众 和 政府 容易 在 早期 陷入 被动 与 慌乱 。 // It is easy for the public and the government to fall into passivity and panic at an early stage .</segment>
 		<segment id="55" parent="192" relname="same-unit">同时 // at the same time</segment>
 		<segment id="56" parent="57" relname="elaboration-attribute">在 事件 中 不断 出现 的 // recurring in events</segment>
-		<segment id="57" parent="190" relname="span">新 情况 也 往往 是 无章可循 的 ， // New situations are also often out of order.</segment>
+		<segment id="57" parent="190" relname="span">新 情况 也 往往 是 无章可循 的 ， // New situations are also often out of order .</segment>
 		<segment id="58" parent="191" relname="span">需要 时间 // needs time</segment>
 		<segment id="59" parent="58" relname="purpose-goal">进行 分析 和 对策 ， // carry out analysis and countermeasures ,</segment>
-		<segment id="60" parent="194" relname="joint-sequence">这时 就 出现 了 “ 政策 真空 ” 的 时期 ， // This is where a period of "policy vacuum" emerges.</segment>
+		<segment id="60" parent="194" relname="joint-sequence">这时 就 出现 了 “ 政策 真空 ” 的 时期 ， // At this time there was a period of " policy vacuum " ,</segment>
 		<segment id="61" parent="194" relname="joint-sequence">事件 继续 恶化 // Events continue to worsen</segment>
 		<segment id="62" parent="194" relname="joint-sequence">走向 危机 // towards crisis</segment>
 		<segment id="63" parent="195" relname="explanation-evidence">-LSB- 2 -RSB- 。 // -LSB- 2 -RSB- .</segment>
-		<segment id="64" parent="198" relname="causal-result">因此 ， 政府 对于 突发 疫情 的 发生 与 发展 的 预先 判断 对于 防止 疫情 的 进一步 扩大 至关重要 。 // Therefore , the government 's pre-judgment of the occurrence and development of sudden epidemics is crucial to prevent the further expansion of the epidemic .</segment>
-		<segment id="65" parent="218" relname="organization-heading">危害性 。 // Hazardous.</segment>
+		<segment id="64" parent="198" relname="causal-result">因此 ， 政府 对于 突发 疫情 的 发生 与 发展 的 预先 判断 对于 防止 疫情 的 进一步 扩大 至关重要 。 // Therefore , the government 's pre - judgment of the occurrence and development of sudden epidemics is crucial to prevent the further expansion of the epidemic .</segment>
+		<segment id="65" parent="218" relname="organization-heading">危害性 。 // Hazardous .</segment>
 		<segment id="66" parent="217" relname="span">突发 疫情 的 危害性 体现 政治 、 经济 与 社会 生活 的 各个 方面 ， // The danger of sudden epidemics reflects all aspects of political , economic and social life .</segment>
-		<segment id="67" parent="202" relname="adversative-antithesis">相对于 短暂 的 卫生 事件 而言 ， // Compared to short-lived health events ,</segment>
-		<segment id="68" parent="202" relname="joint-list">突发 疫情 的 危害性 也 是 相对 持久 的 ， // The harm of sudden outbreaks is also relatively long-lasting.</segment>
-		<segment id="69" parent="202" relname="joint-list">范围 也 是 会 波及 甚 广 。 // The scope is also very wide.</segment>
-		<segment id="70" parent="214" relname="organization-preparation">就 经济 角度 而言 ， // From an economic point of view,</segment>
-		<segment id="71" parent="214" relname="joint-list">新冠 疫情 对 中国 经济 的 发展 产生 巨大 影响 ， // The new crown epidemic has had a huge impact on the development of China's economy.</segment>
+		<segment id="67" parent="202" relname="adversative-antithesis">相对于 短暂 的 卫生 事件 而言 ， // Compared to short - lived health events ,</segment>
+		<segment id="68" parent="202" relname="joint-list">突发 疫情 的 危害性 也 是 相对 持久 的 ， // The harm of sudden outbreaks is also relatively long - lasting .</segment>
+		<segment id="69" parent="202" relname="joint-list">范围 也 是 会 波及 甚 广 。 // The scope is also very wide .</segment>
+		<segment id="70" parent="214" relname="organization-preparation">就 经济 角度 而言 ， // From an economic point of view ,</segment>
+		<segment id="71" parent="214" relname="joint-list">新冠 疫情 对 中国 经济 的 发展 产生 巨大 影响 ， // The new crown epidemic has had a huge impact on the development of China 's economy .</segment>
 		<segment id="72" parent="205" relname="attribution-positive">要求 // Require</segment>
 		<segment id="73" parent="204" relname="same-unit">政府 // government</segment>
-		<segment id="74" parent="75" relname="context-circumstance">在 防控 疫情 时 ， // In the prevention and control of the epidemic,</segment>
+		<segment id="74" parent="75" relname="context-circumstance">在 防控 疫情 时 ， // In the prevention and control of the epidemic ,</segment>
 		<segment id="75" parent="203" relname="span">适时 恢复 社会 生产 ， // Resume social production in a timely manner ,</segment>
 		<segment id="76" parent="204" relname="purpose-goal">实现 防控 工作 与 经济 发展 的 平衡 。 // To achieve a balance between prevention and control work and economic development .</segment>
 		<segment id="77" parent="211" relname="span">突发 疫情 是 非 常态 的 ， // Epidemic outbreaks are very normal .</segment>
 		<segment id="78" parent="77" relname="explanation-justify">会 在 一定 时间 内 ， 对 一定 区域 内 社会 格局 产生 持久性 的 消极 影响 。 // It will have a lasting negative impact on the social pattern in a certain area within a certain period of time .</segment>
 		<segment id="79" parent="208" relname="same-unit">对于 // for</segment>
 		<segment id="80" parent="206" relname="joint-list">肩负 维护 社会 安全 与 稳定 、 // Should be responsible for maintaining social security and stability ,</segment>
-		<segment id="81" parent="206" relname="joint-list">保障 公民 各 项 权利 ， // To protect the rights of citizens,</segment>
+		<segment id="81" parent="206" relname="joint-list">保障 公民 各 项 权利 ， // To protect the rights of citizens ,</segment>
 		<segment id="82" parent="206" relname="joint-list">促进 经济 发展 任务 的 // task of promoting economic development</segment>
 		<segment id="83" parent="207" relname="span">各 级 政府 组织 而言 ， // For all levels of government organizations ,</segment>
-		<segment id="84" parent="209" relname="joint-list">应对 突发 疫情 是 一 个 长期 的 、 持续 的 过程 ， // Responding to sudden outbreaks is a long-term and continuous process.</segment>
-		<segment id="85" parent="209" relname="joint-list">是 其 职能 所 系 ， // is its function,</segment>
+		<segment id="84" parent="209" relname="joint-list">应对 突发 疫情 是 一 个 长期 的 、 持续 的 过程 ， // Responding to sudden outbreaks is a long - term and continuous process .</segment>
+		<segment id="85" parent="209" relname="joint-list">是 其 职能 所 系 ， // is its function ,</segment>
 		<segment id="86" parent="209" relname="joint-list">同时 也 对 政府 的 行政 能力 与 行政 合法性 层面 提出 了 要求 。 // At the same time , it also puts forward requirements on the administrative capacity and administrative legitimacy of the government .</segment>
-		<segment id="87" parent="284" relname="organization-heading">2.2. 突发 疫情 下 政府 治理 的 相关 制度 // 2.2. Relevant system of government governance under sudden epidemic situation</segment>
+		<segment id="87" parent="284" relname="organization-heading">2.2. 突发 疫情 下 政府 治理 的 相关 制度 // 2.2 . Relevant system of government governance under sudden epidemic situation</segment>
 		<segment id="88" parent="89" relname="context-circumstance">自 2003年 非典 突发 疫情 以后 ， // Since the SARS outbreak in 2003 ,</segment>
 		<segment id="89" parent="293" relname="span">中国 政府 加紧 建设 在 突发 状态 下 的 政府 应急 治理 体系 建设 ， // The Chinese government has stepped up the construction of a government emergency management system under emergency conditions ,</segment>
 		<segment id="90" parent="225" relname="same-unit">主要 集中 体现 在 建立 与 完善 // Mainly concentrated in the establishment and improvement</segment>
-		<segment id="91" parent="92" relname="elaboration-attribute">以 “ 一 案 三 制 ” 为 核心 的 // Centered on "one case, three systems"</segment>
+		<segment id="91" parent="92" relname="elaboration-attribute">以 “ 一 案 三 制 ” 为 核心 的 // Centered on " one case , three systems "</segment>
 		<segment id="92" parent="224" relname="span">应急 管理 体系 建设 ， // Construction of emergency management system ,</segment>
 		<segment id="93" parent="231" relname="span">包括 紧急 预案 、 应急 体制 、 应急 机制 与 法制 ， // Including emergency plan , emergency system , emergency mechanism and legal system ,</segment>
 		<segment id="94" parent="227" relname="same-unit">建立 // Establish</segment>
-		<segment id="95" parent="96" relname="elaboration-attribute">“ 国家 统一 领导 、 综合 协调 、 分类 管理 、 分级 负责 、 属地 管理 为 主 的 // "The national unified leadership, comprehensive coordination, classified management, hierarchical responsibility, territorial management-based</segment>
-		<segment id="96" parent="226" relname="span">应急 管理 体制 ” ， // emergency management system”,</segment>
-		<segment id="97" parent="228" relname="joint-list">保证 了 突发 状态 下 政府 的 应急 能力 与 治理 能力 。 // It ensures the government's emergency response and governance capabilities in emergencies.</segment>
-		<segment id="98" parent="240" relname="organization-heading">2.2.1. 紧急 预案 // 2.2.1. Emergency plan</segment>
+		<segment id="95" parent="96" relname="elaboration-attribute">“ 国家 统一 领导 、 综合 协调 、 分类 管理 、 分级 负责 、 属地 管理 为 主 的 // " The national unified leadership , comprehensive coordination , classified management , hierarchical responsibility , territorial management - based</segment>
+		<segment id="96" parent="226" relname="span">应急 管理 体制 ” ， // emergency management system ” ,</segment>
+		<segment id="97" parent="228" relname="joint-list">保证 了 突发 状态 下 政府 的 应急 能力 与 治理 能力 。 // It ensures the government 's emergency response and governance capabilities in emergencies .</segment>
+		<segment id="98" parent="240" relname="organization-heading">2.2.1. 紧急 预案 // 2.2.1 . Emergency plan</segment>
 		<segment id="99" parent="235" relname="same-unit">应急 预案 是 指 // emergency plan is</segment>
 		<segment id="100" parent="101" relname="purpose-attribute">承担 突发 事件 应对 职能 的 // undertake emergency response functions</segment>
 		<segment id="101" parent="233" relname="span">国家 机关 // state agency</segment>
-		<segment id="102" parent="103" relname="elaboration-additional">针对 突发 事件 的 预防 和 准备 、 监测 与 预警 、 处置 与 救援 、 恢复 与 重建 ， 以及 应急 管理 的 组织 、 指挥 、 保障 等 内容 // For emergency prevention and preparation, monitoring and early warning, disposal and rescue, recovery and reconstruction, as well as the organization, command and guarantee of emergency management, etc.</segment>
+		<segment id="102" parent="103" relname="elaboration-additional">针对 突发 事件 的 预防 和 准备 、 监测 与 预警 、 处置 与 救援 、 恢复 与 重建 ， 以及 应急 管理 的 组织 、 指挥 、 保障 等 内容 // Prevention and preparation , monitoring and early warning , disposal and rescue , recovery and reconstruction of emergencies , as well as the organization , command and guarantee of emergency management , etc .</segment>
 		<segment id="103" parent="292" relname="span">而 制定 的 // and made</segment>
 		<segment id="104" parent="234" relname="span">工作 计划 。 // Work Plan .</segment>
-		<segment id="105" parent="236" relname="joint-sequence">2005年 ， 国务院 审议 并 通过 了 《 国家 突发 公共 事件 总 应急 预案 》 ， // In 2005, the State Council reviewed and passed the "National General Emergency Response Plan for Public Emergencies".</segment>
+		<segment id="105" parent="236" relname="joint-sequence">2005年 ， 国务院 审议 并 通过 了 《 国家 突发 公共 事件 总 应急 预案 》 ， // In 2005 , the State Council reviewed and passed the " National General Emergency Response Plan for Public Emergencies " .</segment>
 		<segment id="106" parent="237" relname="attribution-positive">公共 卫生 事件 的 各 级 专项 预案 和 部门 预案 陆续 发布 ， // Special plans and department plans for public health incidents at all levels have been released one after another .</segment>
-		<segment id="107" parent="237" relname="span">将 突发 公共 卫生 危机 分为 特别 重大 、 重大 、 较大 和 一般 四 级 ， // Divide sudden public health crises into four levels: particularly major, major, major and general.</segment>
-		<segment id="108" parent="109" relname="mode-means">分别 用 红 、 橙 、 黄 、 蓝色 // Use red, orange, yellow, blue respectively</segment>
+		<segment id="107" parent="237" relname="span">将 突发 公共 卫生 危机 分为 特别 重大 、 重大 、 较大 和 一般 四 级 ， // Divide sudden public health crises into four levels : particularly major , major , major and general .</segment>
+		<segment id="108" parent="109" relname="mode-means">分别 用 红 、 橙 、 黄 、 蓝色 // Use red , orange , yellow , blue respectively</segment>
 		<segment id="109" parent="238" relname="span">来 表示 。 // To represent .</segment>
-		<segment id="110" parent="255" relname="organization-heading">2.2.2. 应急 体制 // 2.2.2. Emergency system</segment>
+		<segment id="110" parent="255" relname="organization-heading">2.2.2. 应急 体制 // 2.2.2 . Emergency system</segment>
 		<segment id="111" parent="243" relname="context-background">应急 体制 建设 是 国家 应急 体系 建设 中 一 个 重要 的 组成 部分 ， // Emergency system construction is an important part of national emergency system construction .</segment>
-		<segment id="112" parent="243" relname="same-unit">在 《 中华 人民 共和国 突发 事件 应对法 》 中 ， // In the Emergency Response Law of the People's Republic of China,</segment>
+		<segment id="112" parent="243" relname="same-unit">在 《 中华 人民 共和国 突发 事件 应对法 》 中 ， // In the Emergency Response Law of the People 's Republic of China ,</segment>
 		<segment id="113" parent="114" relname="mode-manner">根据 突发 疫情 发生 的 规模 程度 和 影响 范围 ， // According to the scale and scope of the outbreak ,</segment>
-		<segment id="114" parent="242" relname="span">分别 由 各 级 政府 实施 应急 管理 ； // Emergency management shall be implemented by governments at all levels;</segment>
-		<segment id="115" parent="244" relname="joint-list">跨 省区 、 跨 部门 或 特别 重大 的 突发 疫情 ， 由 国务院 及 有关 部门 进行 直接 管理 ， // Trans-provincial, inter-departmental or particularly serious emergencies shall be directly managed by the State Council and relevant departments.</segment>
-		<segment id="116" parent="244" relname="joint-list">地方 各 级 政府 予以 协助 配合 ； // Local governments at all levels provide assistance and cooperation;</segment>
-		<segment id="117" parent="245" relname="joint-list">其他 局部性 的 或 一般性 的 疫情 ， 由 地方 相应 层级 政府 负责 处理 ， // Other localized or general outbreaks shall be handled by the local government at the corresponding level.</segment>
-		<segment id="118" parent="245" relname="joint-list">上级 政府 或 有关 部门 可 予以 指导 、 支持 和 帮助 ， // Higher-level government or relevant departments can provide guidance, support and help,</segment>
+		<segment id="114" parent="242" relname="span">分别 由 各 级 政府 实施 应急 管理 ； // Emergency management shall be implemented by governments at all levels ;</segment>
+		<segment id="115" parent="244" relname="joint-list">跨 省区 、 跨 部门 或 特别 重大 的 突发 疫情 ， 由 国务院 及 有关 部门 进行 直接 管理 ， // Trans - provincial , inter - departmental or particularly serious emergencies shall be directly managed by the State Council and relevant departments .</segment>
+		<segment id="116" parent="244" relname="joint-list">地方 各 级 政府 予以 协助 配合 ； // Local governments at all levels shall provide assistance and cooperation ;</segment>
+		<segment id="117" parent="245" relname="joint-list">其他 局部性 的 或 一般性 的 疫情 ， 由 地方 相应 层级 政府 负责 处理 ， // Other localized or general outbreaks shall be handled by the local government at the corresponding level .</segment>
+		<segment id="118" parent="245" relname="joint-list">上级 政府 或 有关 部门 可 予以 指导 、 支持 和 帮助 ， // Higher - level government or relevant departments can provide guidance , support and help ,</segment>
 		<segment id="119" parent="247" relname="evaluation-comment">初步 形成 了 条块 结合 的 管理 结构 和 响应 体制 。 // An integrated management structure and response system have been initially formed .</segment>
 		<segment id="120" parent="249" relname="span">总的来说 ， 我国 目前 已 初步 建立 了 新型 的 、 法治 基础 上 的 平战 结合 // In general , our country has initially established a new type of peace - war combination based on the rule of law .</segment>
 		<segment id="121" parent="120" relname="restatement-partial">( 日常 与 紧急 时期 ) 、 // ( daily and emergency period ) ,</segment>
 		<segment id="122" parent="123" relname="elaboration-attribute">常态 管理 与 非 常态 管理 相 结合 的 // The combination of normal management and abnormal management</segment>
-		<segment id="123" parent="251" relname="span">新型 公共 卫生 应急 管理 体制 ， // A new public health emergency management system,</segment>
+		<segment id="123" parent="251" relname="span">新型 公共 卫生 应急 管理 体制 ， // A new public health emergency management system ,</segment>
 		<segment id="124" parent="250" relname="elaboration-additional">其 显著 特点 是 制度化 和 应急 管理 常态化 、 专业化 // Its distinctive feature is institutionalization and normalization and specialization of emergency management</segment>
 		<segment id="125" parent="252" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB- 3 -RSB- .</segment>
-		<segment id="126" parent="268" relname="organization-heading">2.2.3. 应急 机制 // 2.2.3. Emergency Mechanisms</segment>
-		<segment id="127" parent="257" relname="joint-list">突发 疫情 状态 下 的 应急 机制 是 整个 应急 管理 体系 中 的 基础 部分 ， // The emergency mechanism in the state of sudden epidemic is the basic part of the entire emergency management system.</segment>
+		<segment id="126" parent="268" relname="organization-heading">2.2.3. 应急 机制 // 2.2.3 . Emergency Mechanisms</segment>
+		<segment id="127" parent="257" relname="joint-list">突发 疫情 状态 下 的 应急 机制 是 整个 应急 管理 体系 中 的 基础 部分 ， // The emergency mechanism in the state of sudden epidemic is the basic part of the entire emergency management system .</segment>
 		<segment id="128" parent="258" relname="span">涉及 突发 疫情 状态 前后 政府 治理 的 各个 环节 ， // Involving all aspects of government governance before and after the sudden epidemic situation ,</segment>
 		<segment id="129" parent="128" relname="elaboration-additional">包括 监测 预警 、 信息 公开 、 社会 动员 、 协调 联动 、 舆论 引导 以及 重建 等 方面 。 // Including monitoring and early warning , information disclosure , social mobilization , coordination and linkage , public opinion guidance and reconstruction and so on .</segment>
-		<segment id="130" parent="265" relname="attribution-positive">《 国家 公共 卫生 总预案 》 中 提出 ， // "National Public Health General Plan" proposed,</segment>
+		<segment id="130" parent="265" relname="attribution-positive">《 国家 公共 卫生 总预案 》 中 提出 ， // " National Public Health General Plan " proposed ,</segment>
 		<segment id="131" parent="265" relname="same-unit">建立 // Establish</segment>
 		<segment id="132" parent="259" relname="joint-list">功能 完善 、 // perfect function ,</segment>
 		<segment id="133" parent="259" relname="joint-list">反应 迅速 、 // Rapid response ,</segment>
 		<segment id="134" parent="259" relname="joint-list">运转 协调 的 // run in coordination</segment>
-		<segment id="135" parent="266" relname="span">突发 公共 卫生 应急 体制 ， 为 国家 在 突发 疫情 下 应急 体制 建设 建立 了 总 的 指导 原则 。 // The emergency public health emergency system has established general guiding principles for the construction of the country's emergency response system in the event of a sudden epidemic.</segment>
-		<segment id="136" parent="281" relname="organization-heading">2.2.4. 应急 法制 // 2.2.4. Emergency Legal System</segment>
-		<segment id="137" parent="294" relname="joint-list">在 突发 疫情 状态 下 ， 法律 体系 的 建设 为 政府 治理 提供 了 根本 保障 ， // Under the state of sudden epidemic, the construction of the legal system provides a fundamental guarantee for government governance.</segment>
+		<segment id="135" parent="266" relname="span">突发 公共 卫生 应急 体制 ， 为 国家 在 突发 疫情 下 应急 体制 建设 建立 了 总 的 指导 原则 。 // The emergency public health emergency system has established general guiding principles for the construction of the country 's emergency response system in the event of a sudden epidemic .</segment>
+		<segment id="136" parent="281" relname="organization-heading">2.2.4. 应急 法制 // 2.2.4 . Emergency Legal System</segment>
+		<segment id="137" parent="294" relname="joint-list">在 突发 疫情 状态 下 ， 法律 体系 的 建设 为 政府 治理 提供 了 根本 保障 ， // Under the state of sudden epidemic , the construction of the legal system provides a fundamental guarantee for government governance .</segment>
 		<segment id="138" parent="294" relname="joint-list">对于 政府 治理 具有 根本 意义 。 // It has fundamental significance for government governance .</segment>
-		<segment id="139" parent="273" relname="context-circumstance">在 2003年 非典 疫情 过后 ， // After the SARS epidemic in 2003,</segment>
+		<segment id="139" parent="273" relname="context-circumstance">在 2003年 非典 疫情 过后 ， // After the SARS epidemic in 2003 ,</segment>
 		<segment id="140" parent="273" relname="same-unit">国家 加紧 完善 // The country steps up to improve</segment>
 		<segment id="141" parent="142" relname="elaboration-attribute">关于 包括 突发 疫情 在内 的 // About including emergencies</segment>
-		<segment id="142" parent="272" relname="span">公共 卫生 法律 体系 ， // public health legal system,</segment>
-		<segment id="143" parent="274" relname="elaboration-additional">先后 出台 了 《 突发 公共 卫生 事件 应急 条例 》 、 《 突发 公共 卫生 应急 总预案 》 、 《 重大 动物 疫情 应急 条例 》 、 《 中华 人民 共和国 传染病 防治法 》 、 《 中华 人民 共和国 动物 防疫法 》 等 一 系列 相关 法规 和 条例 ， // It has successively issued the "Regulations on Emergency Response to Public Health Emergencies", "General Plan for Public Health Emergency Responses", "Regulations on Emergency Responses to Major Animal Epidemics", "Law of the People's Republic of China on the Prevention and Control of Infectious Diseases", "Law of the People's Republic of China on Animal Epidemic Prevention", etc. A series of relevant laws and regulations,</segment>
+		<segment id="142" parent="272" relname="span">公共 卫生 法律 体系 ， // public health legal system ,</segment>
+		<segment id="143" parent="274" relname="elaboration-additional">先后 出台 了 《 突发 公共 卫生 事件 应急 条例 》 、 《 突发 公共 卫生 应急 总预案 》 、 《 重大 动物 疫情 应急 条例 》 、 《 中华 人民 共和国 传染病 防治法 》 、 《 中华 人民 共和国 动物 防疫法 》 等 一 系列 相关 法规 和 条例 ， // It has successively promulgated the " Regulations on Emergency Response to Public Health Emergencies " , " General Plan for Public Health Emergency Responses " , " Emergency Regulations on Major Animal Epidemics " , " Law of the People 's Republic of China on the Prevention and Control of Infectious Diseases " , " Law of the People 's Republic of China on Animal Epidemic Prevention " , etc . A series of relevant laws and regulations ,</segment>
 		<segment id="144" parent="277" relname="attribution-positive">标志 着 // marked</segment>
 		<segment id="145" parent="276" relname="same-unit">我国 // my country</segment>
 		<segment id="146" parent="147" relname="elaboration-attribute">包括 突发 疫情 在内 的 // including emergencies</segment>
-		<segment id="147" parent="275" relname="span">政府 应急 治理 进入 了 法制化 轨道 法制化 ， // The government's emergency management has entered the legalization track.</segment>
+		<segment id="147" parent="275" relname="span">政府 应急 治理 进入 了 法制化 轨道 法制化 ， // The government 's emergency management has entered the legalization track .</segment>
 		<segment id="148" parent="277" relname="joint-list">进一步 完善 了 政府 应急 治理 机制 与 体制 。 // The government emergency management mechanism and system have been further improved .</segment>
 		<group id="149" type="multinuc" parent="153" relname="causal-cause"/>
 		<group id="150" type="span" parent="151" relname="same-unit"/>

@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_socialized
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2020-06-02
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=35901
+# meta::speakerCount = 0
+# meta::title = 习近平人类命运共同体思想的哲学基础——基于马克思“社会化的人类”概念的理论分析
+# meta::shortTitle = socialized
+# meta::author = Yi Lin
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_socialized-1
+# text = 习近平人类命运共同体思想的哲学基础——基于马克思“社会化的人类”概念的理论分析
 1	习近平	习近平	VV	VV	_	8	acl	_	start_char=0|end_char=3
 2	人类	人类	NN	NN	_	5	compound:nn	_	start_char=4|end_char=6
 3	命运	命运	NN	NN	_	5	compound:nn	_	start_char=7|end_char=9
@@ -19,9 +32,13 @@
 19	理论	理论	NN	NN	_	20	compound:nn	_	start_char=53|end_char=55
 20	分析	分析	NN	NN	_	8	parataxis:prnmod	_	start_char=56|end_char=58
 
+# sent_id = gcdt_academic_socialized-2
+# text = 1. 引言
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	引言	引言	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_socialized-3
+# text = 马克思在《关于费尔巴哈的提纲》中指出：“旧唯物主义的立脚点是‘市民社会’，新唯物主义的立脚点是人类社会或社会化的人类” -LSB-1-RSB-。
 1	马克思	马克思	NR	NR	_	10	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	7	case	_	start_char=4|end_char=5
 3	《	《	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -63,6 +80,8 @@
 39	-RSB-	-RSB-	NN	NN	_	21	conj	_	start_char=103|end_char=108
 40	。	。	PU	PU	_	10	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_academic_socialized-4
+# text = 这一论断表明马克思的思维方式由实体性转变为关系性，摆脱了旧唯物主义的影响，扬弃和超越了以往哲学家对人与社会关系孤立式的理解方式，开始以崭新的姿态面向人类社会。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	论断	论断	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -111,6 +130,8 @@
 46	社会	社会	NN	NN	_	44	dobj	_	start_char=121|end_char=123
 47	。	。	PU	PU	_	4	punct	_	start_char=124|end_char=125
 
+# sent_id = gcdt_academic_socialized-5
+# text = “社会化的人类”概念作为马克思哲学思想的重要组成部分，贯穿马克思整个思想探索的始终，在马克思论证人类解放的内容和目标中为其服务。
 1	“	“	PU	PU	_	6	punct	_	start_char=0|end_char=1
 2	社会化	社会化	VV	VV	_	6	acl	_	start_char=2|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -149,6 +170,8 @@
 36	服务	服务	NN	NN	_	26	conj	_	start_char=96|end_char=98
 37	。	。	PU	PU	_	26	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_academic_socialized-6
+# text = “社会化的人类”概念的提出，以确认人的社会本质为前提，在其早年的著作中，马克思就指出，“人的本质是人的真正的社会联系” -LSB-2-RSB-。
 1	“	“	PU	PU	_	6	punct	_	start_char=0|end_char=1
 2	社会化	社会化	VV	VV	_	6	acl	_	start_char=2|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
@@ -195,6 +218,8 @@
 44	-RSB-	-RSB-	NN	NN	_	28	ccomp	_	start_char=108|end_char=113
 45	。	。	PU	PU	_	28	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_academic_socialized-7
+# text = 从人的本质这一理论视角出发，他分析了资本主义社会生产关系和社会关系的现实状况，他指出，在资本主义社会中，被资本控制的个人为了追求金钱利润，逐渐被商品所奴役，人的劳动发生了异化，这种异化使得资本主义社会内部，每个人同他人的关系都处于一种对立、排斥的状态。
 1	从	从	P	P	_	8	case	_	start_char=0|end_char=1
 2	人	人	NN	NN	_	8	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -279,6 +304,8 @@
 82	状态	状态	NN	NN	_	75	dobj	_	start_char=204|end_char=206
 83	。	。	PU	PU	_	9	punct	_	start_char=207|end_char=208
 
+# sent_id = gcdt_academic_socialized-8
+# text = 马克思认为，人类解放就是要消灭这些对立，达到人与人、人与社会的统一。
 1	马克思	马克思	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	认为	认为	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	，	，	PU	PU	_	2	punct	_	start_char=7|end_char=8
@@ -303,6 +330,8 @@
 22	统一	统一	NN	NN	_	13	dobj	_	start_char=52|end_char=54
 23	。	。	PU	PU	_	2	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_academic_socialized-9
+# text = 而在马克思看来，只有当人意识到自身“固有的力量”是社会力量时，人类解放才能成为可能。
 1	而	而	AD	AD	_	26	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	马克思	马克思	NR	NR	_	26	nmod:prep	_	start_char=4|end_char=7
@@ -332,6 +361,8 @@
 27	可能	可能	NN	NN	_	26	dobj	_	start_char=65|end_char=67
 28	。	。	PU	PU	_	26	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_academic_socialized-10
+# text = “社会化的人类”概念就像一把哲学钥匙，以“人的社会化”为逻辑支点，以“经济的社会化”为思想内核，以“观念的社会化”为价值诉求，揭示了人类社会发展的必然趋势和追求目标。
 1	“	“	PU	PU	_	8	punct	_	start_char=0|end_char=1
 2	社会化	社会化	VV	VV	_	6	acl	_	start_char=2|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -388,6 +419,8 @@
 54	目标	目标	NN	NN	_	44	dobj	_	start_char=133|end_char=135
 55	。	。	PU	PU	_	8	punct	_	start_char=136|end_char=137
 
+# sent_id = gcdt_academic_socialized-11
+# text = 人类命运共同体思想作为新时代重大的理论创新成果，以“社会化的人类”概念作为思想来源，向全世界解答了人类命运共同体何以可行的问题，为人类命运的总体发展提供了全新的价值理念。
 1	人类	人类	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	命运	命运	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	共同体	共同体	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -439,6 +472,8 @@
 49	理念	理念	NN	NN	_	44	dobj	_	start_char=130|end_char=132
 50	。	。	PU	PU	_	21	punct	_	start_char=133|end_char=134
 
+# sent_id = gcdt_academic_socialized-12
+# text = 2. 人的社会化：为人类命运共同体提供原初动力
 1	2.	2.	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	人	人	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -452,6 +487,8 @@
 11	原初	原初	JJ	JJ	_	12	amod	_	start_char=28|end_char=30
 12	动力	动力	NN	NN	_	10	dobj	_	start_char=31|end_char=33
 
+# sent_id = gcdt_academic_socialized-13
+# text = 当今世界所发生的各种各样的问题，如人与人之间交往的冷漠、人与社会之间矛盾的频发、国家之间冷战冲突的不断，究其本质来说，都来自于现代社会个体社会性的缺失。
 1	当今	当今	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=2
 2	世界	世界	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	所	所	MSP	MSP	_	4	aux:prtmod	_	start_char=6|end_char=7
@@ -500,6 +537,8 @@
 46	缺失	缺失	NN	NN	_	40	dobj	_	start_char=118|end_char=120
 47	。	。	PU	PU	_	40	punct	_	start_char=121|end_char=122
 
+# sent_id = gcdt_academic_socialized-14
+# text = 个体社会性的缺失不仅会导致人的存在状态发生异化，更阻碍了人类社会的稳定发展。
 1	个体	个体	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	社会性	社会性	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -524,6 +563,8 @@
 22	发展	发展	NN	NN	_	16	dobj	_	start_char=56|end_char=58
 23	。	。	PU	PU	_	7	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_academic_socialized-15
+# text = 马克思对人的本质的考察，从哲学思维的层面把握到了人的社会性本质，揭示了人类命运共同体思想在存在论上的根据。
 1	马克思	马克思	NR	NR	_	7	nmod	_	start_char=0|end_char=3
 2	对	对	P	P	_	3	case	_	start_char=4|end_char=5
 3	人	人	NN	NN	_	5	nmod:assmod	_	start_char=6|end_char=7
@@ -558,6 +599,8 @@
 32	根据	根据	NN	NN	_	22	dobj	_	start_char=81|end_char=83
 33	。	。	PU	PU	_	14	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_academic_socialized-16
+# text = 在马克思看来，以往的全部哲学家，可以说都在不自觉的以形而上的思维方式把人拆零，从不同的方面去规定人的本质。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	马克思	马克思	NR	NR	_	11	nmod:prep	_	start_char=2|end_char=5
 3	看来	看来	LC	LC	_	2	case	_	start_char=6|end_char=8
@@ -594,6 +637,8 @@
 34	本质	本质	NN	NN	_	31	dobj	_	start_char=83|end_char=85
 35	。	。	PU	PU	_	11	punct	_	start_char=86|end_char=87
 
+# sent_id = gcdt_academic_socialized-17
+# text = 18世纪的唯物论者们把“自保，自爱，趋利，避害”看作是人的本质特点，人是纯粹的自然存在物，并没有超出动物的水平。
 1	18	18	OD	OD	_	2	amod:ordmod	_	start_char=0|end_char=2
 2	世纪	世纪	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -630,6 +675,8 @@
 34	水平	水平	NN	NN	_	31	dobj	_	start_char=86|end_char=88
 35	。	。	PU	PU	_	15	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_academic_socialized-18
+# text = 黑格尔认为市民社会是“各个成员作为独立的单个人的联合” -LSB-3-RSB-，并把人理解为个体本质。
 1	黑格尔	黑格尔	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	认为	认为	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	市民	市民	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -660,6 +707,8 @@
 28	本质	本质	NN	NN	_	25	dobj	_	start_char=74|end_char=76
 29	。	。	PU	PU	_	2	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_academic_socialized-19
+# text = 他指出，市民社会是一个追求私人利益的领域，是人与人、人与社会之间相互对立、敌视甚至是斗争的领域。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	指出	指出	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -693,6 +742,8 @@
 31	领域	领域	NN	NN	_	13	conj	_	start_char=75|end_char=77
 32	。	。	PU	PU	_	2	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_socialized-20
+# text = 费尔巴哈把“类”理解为人的一般特性，而没有明确意识到人的本质所应有的丰富内涵，在他眼中在，“类不外是种的共同物” -LSB-4-RSB-。
 1	费尔巴哈	费尔巴哈	NR	NR	_	6	nsubj	_	start_char=0|end_char=4
 2	把	把	BA	BA	_	6	aux:ba	_	start_char=5|end_char=6
 3	“	“	PU	PU	_	4	punct	_	start_char=7|end_char=8
@@ -738,6 +789,8 @@
 43	-RSB-	-RSB-	NN	NN	_	6	conj	_	start_char=104|end_char=109
 44	。	。	PU	PU	_	6	punct	_	start_char=110|end_char=111
 
+# sent_id = gcdt_academic_socialized-21
+# text = 然而，无论是从当代人类面临的危机等现实性问题来看，还是从哲学因抽象化理解人而陷入的理论困境来看，都要求哲学对人的本质有一个总体、科学的理解。
 1	然而	然而	AD	AD	_	31	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	31	punct	_	start_char=3|end_char=4
 3	无论	无论	CS	CS	_	31	advmod	_	start_char=5|end_char=7
@@ -784,6 +837,8 @@
 44	理解	理解	NN	NN	_	37	dobj	_	start_char=110|end_char=112
 45	。	。	PU	PU	_	31	punct	_	start_char=113|end_char=114
 
+# sent_id = gcdt_academic_socialized-22
+# text = 马克思提出人的本质是一切社会关系的总和，社会关系包含人与自然、人与自我、人与社会三重属性，缺一不可。
 1	马克思	马克思	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	提出	提出	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	人	人	NN	NN	_	5	nmod:assmod	_	start_char=7|end_char=8
@@ -820,6 +875,8 @@
 34	可	可	VV	VV	_	31	dep	_	start_char=81|end_char=82
 35	。	。	PU	PU	_	2	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_academic_socialized-23
+# text = 人首先表现出自然属性，人同动物一样生存于自然界内，与自然保持共生的状态。
 1	人	人	NN	NN	_	3	nsubj	_	start_char=0|end_char=1
 2	首先	首先	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	表现	表现	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -843,6 +900,8 @@
 21	状态	状态	NN	NN	_	18	dobj	_	start_char=53|end_char=55
 22	。	。	PU	PU	_	3	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_academic_socialized-24
+# text = 但马克思又指出“人不仅仅是自然存在物”，人与动物最显著的不同在于人拥有自我意识，人可以感知到自我的存在。
 1	但	但	AD	AD	_	4	advmod	_	start_char=0|end_char=1
 2	马克思	马克思	NR	NR	_	4	nsubj	_	start_char=2|end_char=5
 3	又	又	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -877,6 +936,8 @@
 32	存在	存在	NN	NN	_	28	dobj	_	start_char=80|end_char=82
 33	。	。	PU	PU	_	4	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_academic_socialized-25
+# text = 通过自我意识，人把自己的生命活动变成了可以被自我意识到的对象。
 1	通过	通过	P	P	_	3	case	_	start_char=0|end_char=2
 2	自我	自我	PN	PN	_	3	compound:nn	_	start_char=3|end_char=5
 3	意识	意识	NN	NN	_	11	nmod:prep	_	start_char=6|end_char=8
@@ -898,6 +959,8 @@
 19	对象	对象	NN	NN	_	11	dobj	_	start_char=46|end_char=48
 20	。	。	PU	PU	_	11	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_academic_socialized-26
+# text = 人与社会的关系是马克思人的本质理论的核心内容。
 1	人	人	NN	NN	_	3	conj	_	start_char=0|end_char=1
 2	与	与	CC	CC	_	3	cc	_	start_char=2|end_char=3
 3	社会	社会	NN	NN	_	5	nmod:assmod	_	start_char=4|end_char=6
@@ -914,6 +977,8 @@
 14	内容	内容	NN	NN	_	0	root	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	14	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_academic_socialized-27
+# text = 马克思认为个人是社会存在物，人们通过与他人或者外界互相的依赖合作，也就是通过与他人或外界的交往中进行人的社会化，从而使人类从自然界中分离出来，并最终形成了人类社会。
 1	马克思	马克思	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	认为	认为	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	个人	个人	NN	NN	_	6	nsubj	_	start_char=7|end_char=9
@@ -965,6 +1030,8 @@
 49	社会	社会	NN	NN	_	46	dobj	_	start_char=127|end_char=129
 50	。	。	PU	PU	_	2	punct	_	start_char=130|end_char=131
 
+# sent_id = gcdt_academic_socialized-28
+# text = 作为“社会存在物”的“个人”不是孤立的、单子式的个人，而是蕴含着全部社会性的丰富的、真正的“个人”。
 1	作为	作为	P	P	_	4	case	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	社会	社会	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -1000,6 +1067,8 @@
 33	”	”	PU	PU	_	32	punct	_	start_char=80|end_char=81
 34	。	。	PU	PU	_	17	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_academic_socialized-29
+# text = 由此我们可以理解，人的真实本质要求个体既要生存于自然之中、又要有着丰富多样的自我意识，并且处在社会关系之中。
 1	由	由	P	P	_	2	case	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	5	nmod:prep	_	start_char=2|end_char=3
 3	我们	我	PN	PN	_	5	nsubj	_	start_char=4|end_char=6
@@ -1036,6 +1105,8 @@
 34	之中	之中	LC	LC	_	33	case	_	start_char=84|end_char=86
 35	。	。	PU	PU	_	5	punct	_	start_char=87|end_char=88
 
+# sent_id = gcdt_academic_socialized-30
+# text = 马克思这一对人的本质的全新理解，超越了通常所了解的“本质”的规定，把人理解为人与自然、人与人、人与社会的本质统一。
 1	马克思	马克思	NR	NR	_	5	nmod	_	start_char=0|end_char=3
 2	这	这	DT	DT	_	5	det	_	start_char=4|end_char=5
 3	一	一	CD	CD	_	2	dep	_	start_char=6|end_char=7
@@ -1079,6 +1150,8 @@
 41	统一	统一	VV	VV	_	26	ccomp	_	start_char=94|end_char=96
 42	。	。	PU	PU	_	12	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_academic_socialized-31
+# text = 马克思人的本质理论所蕴含的本质统一关系，回答了人类命运共同体何以存在并且理应存在。
 1	马克思	马克思	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=3
 2	人	人	NN	NN	_	5	nmod:assmod	_	start_char=4|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -1103,6 +1176,8 @@
 22	存在	存在	VV	VV	_	19	conj	_	start_char=59|end_char=61
 23	。	。	PU	PU	_	13	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_academic_socialized-32
+# text = 毫无疑问，我们正处在一个充满个性和差异性的世界。
 1	毫无	毫无	VE	VE	_	6	dep	_	start_char=0|end_char=2
 2	疑问	疑问	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -1120,6 +1195,8 @@
 15	世界	世界	NN	NN	_	6	nmod:prep	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	6	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_academic_socialized-33
+# text = 当今世界，人类世界由不同国家、民族、肤色、文化、宗教所组成。
 1	当今	当今	NT	NT	_	2	compound:nn	_	start_char=0|end_char=2
 2	世界	世界	NN	NN	_	18	nmod:topic	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	18	punct	_	start_char=6|end_char=7
@@ -1140,6 +1217,8 @@
 18	组成	组成	VV	VV	_	0	root	_	start_char=44|end_char=46
 19	。	。	PU	PU	_	18	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_socialized-34
+# text = 各国国土面积、生态资源、经济贫富，国力强弱千差万别，文化传统和社会制度判然不同，对于安全利益的诉求也迥然相异。
 1	各国	各国	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	国土	国土	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	面积	面积	NN	NN	_	19	conj	_	start_char=6|end_char=8
@@ -1172,6 +1251,8 @@
 30	相异	相异	VV	VV	_	21	conj	_	start_char=81|end_char=83
 31	。	。	PU	PU	_	21	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_academic_socialized-35
+# text = 也因此，我们正处在一个充满矛盾和冲突的世界，由于个体社会化的缺失，人类社会被零和博弈规则和霸权思维所控制，人与自然、人与人、人与社会在根本利益上达不到内在的统一，经济危机、生态危机及公共卫生安全威胁、核武器威胁、极端主义等问题也因此频发。
 1	也	也	AD	AD	_	6	advmod	_	start_char=0|end_char=1
 2	因此	因此	AD	AD	_	6	advmod	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	6	punct	_	start_char=5|end_char=6
@@ -1249,6 +1330,8 @@
 75	频发	频发	VV	VV	_	6	conj	_	start_char=190|end_char=192
 76	。	。	PU	PU	_	6	punct	_	start_char=193|end_char=194
 
+# sent_id = gcdt_academic_socialized-36
+# text = 人类社会要想达到长久的发展，就必须以人与自然、人与人、人与社会这三种关系的深层次统一为指导，历史规律不可抗拒，人类社会命运与共已成必然趋势。
 1	人类	人类	NN	NN	_	2	nmod:poss	_	start_char=0|end_char=2
 2	社会	社会	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	要	要	VV	VV	_	4	xcomp	_	start_char=6|end_char=7
@@ -1299,6 +1382,8 @@
 48	趋势	趋势	NN	NN	_	46	dobj	_	start_char=114|end_char=116
 49	。	。	PU	PU	_	4	punct	_	start_char=117|end_char=118
 
+# sent_id = gcdt_academic_socialized-37
+# text = 这一规律为我们提供了审视人类社会发展的新视角，判断一种社会制度是否先进，绝不能忽视这种制度所蕴含的个体社会化程度，脱离了个体社会化的社会制度，至多是抽象的形式。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	规律	规律	NN	NN	_	6	nsubj	_	start_char=4|end_char=6
@@ -1351,6 +1436,8 @@
 50	形式	形式	NN	NN	_	6	conj	_	start_char=126|end_char=128
 51	。	。	PU	PU	_	6	punct	_	start_char=129|end_char=130
 
+# sent_id = gcdt_academic_socialized-38
+# text = 人与人之间文化、信仰可以不相同，国家与国家之间制度、道路可以不相同，但重要的是要在不同之中寻求统一。
 1	人	人	NN	NN	_	3	conj	_	start_char=0|end_char=1
 2	与	与	CC	CC	_	3	cc	_	start_char=2|end_char=3
 3	人	人	NN	NN	_	7	dep	_	start_char=4|end_char=5
@@ -1385,6 +1472,8 @@
 32	统一	统一	NN	NN	_	31	dobj	_	start_char=78|end_char=80
 33	。	。	PU	PU	_	10	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_academic_socialized-39
+# text = 人类命运共同体承认个体的差别，尊重每个国家文化、宗教、历史、信仰及意识形态等多方面的差异，提倡人类社会超越狭隘的地域、民族及国家的区别，主张全人类的命运与共。
 1	人类	人类	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	命运	命运	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	共同体	共同体	NN	NN	_	4	nsubj	_	start_char=6|end_char=9
@@ -1435,6 +1524,8 @@
 48	与共	与共	VV	VV	_	43	ccomp	_	start_char=123|end_char=125
 49	。	。	PU	PU	_	4	punct	_	start_char=126|end_char=127
 
+# sent_id = gcdt_academic_socialized-40
+# text = 习近平总书记指出，“这个世界，各国相互联系、相互依存的程度空前加深，人类生活在同一个地球村里，生活在历史和现实交汇的同一个时空里，越来越成为你中有我、我中有你的命运共同体” -LSB-5-RSB-。
 1	习近平	习近平	NR	NR	_	2	compound:nn	_	start_char=0|end_char=3
 2	总书记	总书记	NN	NN	_	3	nsubj	_	start_char=4|end_char=7
 3	指出	指出	VV	VV	_	0	root	_	start_char=8|end_char=10
@@ -1499,6 +1590,8 @@
 62	-RSB-	-RSB-	NN	NN	_	46	dobj	_	start_char=153|end_char=158
 63	。	。	PU	PU	_	3	punct	_	start_char=159|end_char=160
 
+# sent_id = gcdt_academic_socialized-41
+# text = 习近平总书记这一经典论述回答了人类命运共同体存在的根据。
 1	习近平	习近平	NR	NR	_	2	compound:nn	_	start_char=0|end_char=3
 2	总书记	总书记	NN	NN	_	6	compound:nn	_	start_char=4|end_char=7
 3	这	这	DT	DT	_	6	det	_	start_char=8|end_char=9
@@ -1515,6 +1608,8 @@
 14	根据	根据	NN	NN	_	7	dobj	_	start_char=38|end_char=40
 15	。	。	PU	PU	_	7	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_academic_socialized-42
+# text = “国家不分大小、强弱、贫富，主权和尊严必须得到尊重，内政不容干涉，都有权自主选择社会制度和发展道路” -LSB-6-RSB-。
 1	“	“	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	国家	国家	NN	NN	_	4	nsubj	_	start_char=2|end_char=4
 3	不	不	AD	AD	_	4	neg	_	start_char=5|end_char=6
@@ -1552,6 +1647,8 @@
 35	-RSB-	-RSB-	NN	NN	_	26	dobj	_	start_char=90|end_char=95
 36	。	。	PU	PU	_	4	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_academic_socialized-43
+# text = 人类命运共同体中的每一个国家都不存在干涉和约束，不存在一部分人对另一部分人的控制和支配，共同体中的每个国家和人都是自由的。
 1	人类	人类	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	命运	命运	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	共同体	共同体	NN	NN	_	9	nmod	_	start_char=6|end_char=9
@@ -1597,6 +1694,8 @@
 43	的	的	SP	SP	_	42	discourse	_	start_char=101|end_char=102
 44	。	。	PU	PU	_	12	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_academic_socialized-44
+# text = 在这种共同体中，每一个人命运与共，宗教、信仰、意识形态不同的国家能够从政治、安全、经济、文化、生态等方面进行合作，共同推进世界的繁荣发展，这种状态，正是人的社会化的真正实现。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	这	这	DT	DT	_	4	det	_	start_char=2|end_char=3
 3	种	种	M	M	_	2	mark:clf	_	start_char=4|end_char=5

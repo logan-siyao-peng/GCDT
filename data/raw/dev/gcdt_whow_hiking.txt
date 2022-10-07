@@ -1,4 +1,4 @@
-<text id="gum_zh_whow_hiking" type="whow" sourceURL="https://zh.wikihow.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C" dateCreated="XXXX-XX-XX" dateCollected="2022-01-02" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何徒步旅行" shortTitle="hiking"/>
+<text id="gum_zh_whow_hiking" genre="whow" sourceURL="https://zh.wikihow.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C" author="Thomas Churchill" dateCreated="XXXX-XX-XX" dateCollected="2022-01-02" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何徒步旅行" shortTitle="hiking"/>
 如何徒步旅行
 
 很少有什么事情是比到美丽的户外去徒步旅行更愉快的了。

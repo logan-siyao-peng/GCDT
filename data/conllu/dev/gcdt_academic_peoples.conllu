@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_peoples
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2021-09-09
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=45104
+# meta::speakerCount = 0
+# meta::title = 疫情期间主流媒体的传播策略研究——以人民日报抖音号为例
+# meta::shortTitle = peoples
+# meta::author = Shen Liu
+# meta::genre = academic
+# meta::partition = dev
+# sent_id = gcdt_academic_peoples-1
+# text = 疫情期间主流媒体的传播策略研究——以人民日报抖音号为例
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	期间	期间	NN	NN	_	8	dep	_	start_char=3|end_char=5
 3	主流	主流	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
@@ -14,10 +27,14 @@
 14	为	为	VV	VV	_	8	dep	_	start_char=38|end_char=39
 15	例	例	NN	NN	_	14	dobj	_	start_char=40|end_char=41
 
+# sent_id = gcdt_academic_peoples-2
+# text = 1. 研究背景
 1	1.	1.	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	研究	研究	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	背景	背景	NN	NN	_	0	root	_	start_char=6|end_char=8
 
+# sent_id = gcdt_academic_peoples-3
+# text = 2020年，新冠疫情在中国爆发，并快速蔓延全球。
 1	2020年	2020年	NT	NT	_	7	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	7	punct	_	start_char=6|end_char=7
 3	新冠	新冠	NR	NR	_	4	nmod:assmod	_	start_char=8|end_char=10
@@ -32,6 +49,8 @@
 12	全球	全球	NN	NN	_	11	dobj	_	start_char=32|end_char=34
 13	。	。	PU	PU	_	7	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_academic_peoples-4
+# text = 中国人民在党和政府的领导下进入全民抗疫阻击战和疫情防控阻击战。
 1	中国	中国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	人民	人民	NN	NN	_	10	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	8	case	_	start_char=6|end_char=7
@@ -51,6 +70,8 @@
 17	阻击战	阻击战	NN	NN	_	10	dobj	_	start_char=43|end_char=46
 18	。	。	PU	PU	_	10	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_peoples-5
+# text = 面对疫情对现有公共话语体系的冲击，抖音短视频平台契合了信息传播的需要，因此，众多政务号获得了很好的发展机会。
 1	面对	面对	P	P	_	9	case	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	9	dep	_	start_char=3|end_char=5
 3	对	对	P	P	_	7	case	_	start_char=6|end_char=7
@@ -85,6 +106,8 @@
 32	机会	机会	NN	NN	_	26	dobj	_	start_char=82|end_char=84
 33	。	。	PU	PU	_	26	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_academic_peoples-6
+# text = 人民日报作为中国最重要的主流媒体之一，在疫情期间生产有关疫情的短视频新闻，获得了大量关注。
 1	人民	人民	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	23	nsubj	_	start_char=3|end_char=5
 3	作为	作为	P	P	_	10	case	_	start_char=6|end_char=8
@@ -113,6 +136,8 @@
 26	关注	关注	NN	NN	_	23	dobj	_	start_char=67|end_char=69
 27	。	。	PU	PU	_	23	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_academic_peoples-7
+# text = 直至今天的新冠疫情常态化防治时期，我们看到了以人民日报为首的我国各大主流媒体应对重大公共卫生事件所采取的不同传播行动。
 1	直	直	AD	AD	_	12	nmod:prep	_	start_char=0|end_char=1
 2	至	至	P	P	_	9	case	_	start_char=2|end_char=3
 3	今天	今天	NT	NT	_	9	nmod	_	start_char=4|end_char=6
@@ -150,6 +175,8 @@
 35	行动	行动	NN	NN	_	12	dobj	_	start_char=90|end_char=92
 36	。	。	PU	PU	_	12	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_academic_peoples-8
+# text = 2. 人民日报的传播策略分析
 1	2.	2.	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	人民	人民	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	日报	日报	NN	NN	_	6	nmod:assmod	_	start_char=6|end_char=8
@@ -158,6 +185,8 @@
 6	策略	策略	NN	NN	_	7	nsubj	_	start_char=14|end_char=16
 7	分析	分析	VV	VV	_	0	root	_	start_char=17|end_char=19
 
+# sent_id = gcdt_academic_peoples-9
+# text = 2.1. 人民日报的成功经验
 1	2.1.	2.1.	NR	NR	_	3	compound:nn	_	start_char=0|end_char=4
 2	人民	人民	NN	NN	_	3	compound:nn	_	start_char=5|end_char=7
 3	日报	日报	NN	NN	_	6	nmod:assmod	_	start_char=8|end_char=10
@@ -165,6 +194,8 @@
 5	成功	成功	JJ	JJ	_	6	amod	_	start_char=13|end_char=15
 6	经验	经验	NN	NN	_	0	root	_	start_char=16|end_char=18
 
+# sent_id = gcdt_academic_peoples-10
+# text = 2.1.1. 注重平民故事，触发大众共情
 1	2.1.1.	2.1.1.	NR	NR	_	2	nsubj	_	start_char=0|end_char=6
 2	注重	注重	VV	VV	_	0	root	_	start_char=7|end_char=9
 3	平民	平民	NN	NN	_	4	compound:nn	_	start_char=10|end_char=12
@@ -174,6 +205,8 @@
 7	大众	大众	NN	NN	_	8	compound:nn	_	start_char=21|end_char=23
 8	共情	共情	NN	NN	_	6	dobj	_	start_char=24|end_char=26
 
+# sent_id = gcdt_academic_peoples-11
+# text = 来源于民间和生活的信息，是短视频内容的最核心组成。
 1	来源于	来源于	VV	VV	_	15	conj	_	start_char=0|end_char=3
 2	民间	民间	NN	NN	_	4	conj	_	start_char=4|end_char=6
 3	和	和	CC	CC	_	4	cc	_	start_char=7|end_char=8
@@ -191,6 +224,8 @@
 15	组成	组成	NN	NN	_	0	root	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	15	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_peoples-12
+# text = 民间化视角、民间化表达、民间化立场是民间化叙事的基本内涵。-LSB-1-RSB-
 1	民间化	民间化	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	视角	视角	NN	NN	_	8	conj	_	start_char=4|end_char=6
 3	、	、	PU	PU	_	8	punct	_	start_char=7|end_char=8
@@ -210,6 +245,8 @@
 17	1	1	CD	CD	_	14	dep	_	start_char=50|end_char=51
 18	-RSB-	-RSB-	X	X	_	14	dep	_	start_char=52|end_char=57
 
+# sent_id = gcdt_academic_peoples-13
+# text = 在传播学的劝服效果理论中，诉诸感情比诉诸理性可能更有效果。-LSB-2-RSB-
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	传播学	传播学	NN	NN	_	6	nmod:assmod	_	start_char=2|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -232,6 +269,8 @@
 20	2	2	CD	CD	_	21	dep	_	start_char=53|end_char=54
 21	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=55|end_char=60
 
+# sent_id = gcdt_academic_peoples-14
+# text = 在疫情爆发和蔓延时期，人民日报报道了很多基层工作人员和一线医护人员的故事，通过传递抗疫故事共情。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	疫情	疫情	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	爆发	爆发	VV	VV	_	6	acl	_	start_char=5|end_char=7
@@ -261,6 +300,8 @@
 27	共情	共情	NN	NN	_	24	dobj	_	start_char=71|end_char=73
 28	。	。	PU	PU	_	10	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_academic_peoples-15
+# text = 让大众感受到在疫情肆虐下社会的温情，激发人们对生活的希望。
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	大众	大众	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	感受	感受	VV	VV	_	1	ccomp	_	start_char=5|end_char=7
@@ -281,6 +322,8 @@
 18	希望	希望	NN	NN	_	13	dobj	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	1	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_peoples-16
+# text = 经统计，2020年1月20日到2月29日人民日报共发布了288条抖音，其中和疫情有关的有262条。
 1	经	经	P	P	_	2	case	_	start_char=0|end_char=1
 2	统计	统计	NN	NN	_	13	nmod:prep	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	13	punct	_	start_char=5|end_char=6
@@ -309,6 +352,8 @@
 26	条	条	M	M	_	25	mark:clf	_	start_char=72|end_char=73
 27	。	。	PU	PU	_	13	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_academic_peoples-17
+# text = 在262条中，有100条与普通人的抗疫生活有关。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	262	262	CD	CD	_	6	nmod:prep	_	start_char=2|end_char=5
 3	条	条	M	M	_	2	mark:clf	_	start_char=6|end_char=7
@@ -326,6 +371,8 @@
 15	有关	有关	VV	VV	_	6	ccomp	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	6	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_academic_peoples-18
+# text = 2020年3月1日至4月30日共发布了322条抖音，和疫情有关的抖音166条，其中有92条抖音与普通人抗疫生活有关。
 1	2020年	2020年	NT	NT	_	6	compound:nn	_	start_char=0|end_char=5
 2	3月	3月	NT	NT	_	6	compound:nn	_	start_char=6|end_char=8
 3	1日	1日	NT	NT	_	6	conj	_	start_char=9|end_char=11
@@ -360,6 +407,8 @@
 32	有关	有关	VV	VV	_	23	ccomp	_	start_char=86|end_char=88
 33	。	。	PU	PU	_	8	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_academic_peoples-19
+# text = 2020年5月1日至9月30日共有532条抖音发布，和疫情有关的抖音87条，其中有25条与普通人抗疫生活有关。
 1	2020年	2020年	NT	NT	_	6	compound:nn	_	start_char=0|end_char=5
 2	5月	5月	NT	NT	_	6	compound:nn	_	start_char=6|end_char=8
 3	1日	1日	NT	NT	_	6	conj	_	start_char=9|end_char=11
@@ -393,6 +442,8 @@
 31	有关	有关	VV	VV	_	23	ccomp	_	start_char=82|end_char=84
 32	。	。	PU	PU	_	8	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_academic_peoples-20
+# text = 与疫情有关的抖音数量的减少是因为国内疫情趋势总体向好，人们对于疫情的恐惧和消极心理减少，因此数量总体在减小。
 1	与	与	P	P	_	2	case	_	start_char=0|end_char=1
 2	疫情	疫情	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
 3	有关	有关	VV	VV	_	8	acl	_	start_char=5|end_char=7
@@ -426,6 +477,8 @@
 31	减小	减小	VV	VV	_	25	conj	_	start_char=81|end_char=83
 32	。	。	PU	PU	_	9	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_academic_peoples-21
+# text = 总体而言，从2020年1月20日到9月30日发布的抖音中，有42.1%的视频是关于普通人在疫情期间的抗疫生活。
 1	总体而言	总体而言	AD	AD	_	15	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	15	punct	_	start_char=5|end_char=6
 3	从	从	P	P	_	12	case	_	start_char=7|end_char=8
@@ -456,6 +509,8 @@
 28	生活	生活	NN	NN	_	15	ccomp	_	start_char=79|end_char=81
 29	。	。	PU	PU	_	15	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_academic_peoples-22
+# text = 在1月28日，一条视频为“妻子驰援武汉，丈夫送别时一句话让人瞬间泪目”火遍全网。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	1月	1月	NT	NT	_	3	compound:nn	_	start_char=2|end_char=4
 3	28日	28日	NT	NT	_	20	nmod:prep	_	start_char=5|end_char=8
@@ -484,6 +539,8 @@
 26	全网	全网	VV	VV	_	20	ccomp	_	start_char=62|end_char=64
 27	。	。	PU	PU	_	20	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_peoples-23
+# text = 视频中，丈夫用四川话对即将去往武汉的医护妻子喊话，在她回家之后，自己包一年的家务活。
 1	视频	视频	NN	NN	_	14	advmod:loc	_	start_char=0|end_char=2
 2	中	中	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	14	punct	_	start_char=5|end_char=6
@@ -512,6 +569,8 @@
 26	家务活	家务活	NN	NN	_	22	dobj	_	start_char=63|end_char=66
 27	。	。	PU	PU	_	14	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_academic_peoples-24
+# text = 这种平凡又不凡的情感，令人动容。
 1	这	这	DT	DT	_	7	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	平凡	平凡	VA	VA	_	7	amod	_	start_char=4|end_char=6
@@ -525,6 +584,8 @@
 11	动容	动容	VV	VV	_	9	ccomp	_	start_char=23|end_char=25
 12	。	。	PU	PU	_	9	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_academic_peoples-25
+# text = 这条抖音获得了127.7 w的点赞量，5.6w的评论量和2.8w的转发量。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	条	条	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	抖音	抖音	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -543,6 +604,8 @@
 16	转发量	转发量	NN	NN	_	4	dobj	_	start_char=47|end_char=50
 17	。	。	PU	PU	_	4	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_peoples-26
+# text = 人民日报聚焦普通人的常态化生活，虽然没有极具冲击力的视觉效果，但是能够使大众在酸甜苦辣中感同身受。
 1	人民	人民	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	聚焦	聚焦	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -572,6 +635,8 @@
 27	身受	身受	VV	VV	_	26	compound:vc	_	start_char=72|end_char=74
 28	。	。	PU	PU	_	3	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_academic_peoples-27
+# text = 2.1.2. 巧用素材和音乐，沉浸式传播信息
 1	2.1.2.	2.1.2.	URL	URL	_	9	compound:nn	_	start_char=0|end_char=6
 2	巧用	巧用	JJ	JJ	_	3	amod	_	start_char=7|end_char=9
 3	素材	素材	NN	NN	_	5	conj	_	start_char=10|end_char=12
@@ -582,6 +647,8 @@
 8	传播	传播	NN	NN	_	9	compound:nn	_	start_char=24|end_char=26
 9	信息	信息	NN	NN	_	0	root	_	start_char=27|end_char=29
 
+# sent_id = gcdt_academic_peoples-28
+# text = 人民日报主要采用的视频制作方式为“同期声 + 视频画面 + 音乐”。
 1	人民	人民	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	主要	主要	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -601,6 +668,8 @@
 17	”	”	PU	PU	_	16	punct	_	start_char=44|end_char=45
 18	。	。	PU	PU	_	16	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_peoples-29
+# text = 同期声的使用增强了现场感，让观众沉浸式感受视频内容，身临其境。
 1	同期声	同期声	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=3
 2	的	的	DEG	DEG	_	1	case	_	start_char=4|end_char=5
 3	使用	使用	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -620,6 +689,8 @@
 17	其境	其境	NN	NN	_	16	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	4	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_peoples-30
+# text = 据统计，在全部和疫情有关的515条抖音中，来自抗疫现场，由现场的人拍摄的视频有181条。
 1	据	据	P	P	_	2	case	_	start_char=0|end_char=1
 2	统计	统计	NN	NN	_	26	nmod:prep	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	26	punct	_	start_char=5|end_char=6
@@ -650,6 +721,8 @@
 28	条	条	M	M	_	27	mark:clf	_	start_char=69|end_char=70
 29	。	。	PU	PU	_	26	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_academic_peoples-31
+# text = 素材来源为监控的有8条。
 1	素材	素材	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	来源	来源	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	为	为	VC	VC	_	6	dep	_	start_char=6|end_char=7
@@ -660,6 +733,8 @@
 8	条	条	M	M	_	7	mark:clf	_	start_char=17|end_char=18
 9	。	。	PU	PU	_	6	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_academic_peoples-32
+# text = 2020年1月30日发布的“一对母女在火车站悄悄放下十多瓶消毒液”；“火神山医院病区初具雏形”；2月10日发布的“武汉方舱医院医生患者一起打太极”等视频，都用适合该素材的音乐进行气氛渲染和情绪引导。
 1	2020年	2020年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	1月	1月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=8
 3	30日	30日	NT	NT	_	4	nmod:tmod	_	start_char=9|end_char=12
@@ -717,6 +792,8 @@
 55	引导	引导	NN	NN	_	50	dobj	_	start_char=150|end_char=152
 56	。	。	PU	PU	_	13	punct	_	start_char=153|end_char=154
 
+# sent_id = gcdt_academic_peoples-33
+# text = 让受众感受到疫情期间医护人员在一线奋战的大无畏精神，配合视频画面，增强报道内容的可信度 -LSB-3-RSB-。
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	受众	受众	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	感受	感受	VV	VV	_	1	ccomp	_	start_char=5|end_char=7
@@ -746,6 +823,8 @@
 27	-RSB-	-RSB-	NN	NN	_	1	dep	_	start_char=75|end_char=80
 28	。	。	PU	PU	_	1	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_academic_peoples-34
+# text = 2.1.3. 使用科技手段，借图表直观展示疫情
 1	2.1.3.	2.1.3.	AD	AD	_	2	advmod	_	start_char=0|end_char=6
 2	使用	使用	VV	VV	_	0	root	_	start_char=7|end_char=9
 3	科技	科技	NN	NN	_	4	compound:nn	_	start_char=10|end_char=12
@@ -757,6 +836,8 @@
 9	展示	展示	VV	VV	_	2	conj	_	start_char=26|end_char=28
 10	疫情	疫情	NN	NN	_	9	dobj	_	start_char=29|end_char=31
 
+# sent_id = gcdt_academic_peoples-35
+# text = 疫情期间，在人民日报抖音号采取图表的形式，报道每日疫情变动的信息。
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	期间	期间	NN	NN	_	13	nmod:topic	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	13	punct	_	start_char=6|end_char=7
@@ -777,6 +858,8 @@
 18	信息	信息	NN	NN	_	13	dobj	_	start_char=47|end_char=49
 19	。	。	PU	PU	_	13	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_academic_peoples-36
+# text = 如在2020年2月9日发布的“湖北以外新增确诊病例连续5天下降！小黄线，请一路向下别回头！小紫线和小橙线也请跟上！加油！”的视频，采用了折线图，可视化展示疫情的最新动向。
 1	如	如	AD	AD	_	17	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	5	case	_	start_char=2|end_char=3
 3	2020年	2020年	NT	NT	_	5	compound:nn	_	start_char=4|end_char=9
@@ -833,6 +916,8 @@
 54	动向	动向	NN	NN	_	50	dobj	_	start_char=135|end_char=137
 55	。	。	PU	PU	_	17	punct	_	start_char=138|end_char=139
 
+# sent_id = gcdt_academic_peoples-37
+# text = 将疫情情况利用折线图展示，不止能够让观众直观地看到一段时间内的疫情变化情况，还能够告诉大众目前的疫情环境和当下防疫措施的实施成果。
 1	将	将	BA	BA	_	4	aux:ba	_	start_char=0|end_char=1
 2	疫情	疫情	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	情况	情况	NN	NN	_	4	dep	_	start_char=5|end_char=7
@@ -874,6 +959,8 @@
 39	成果	成果	NN	NN	_	27	dobj	_	start_char=100|end_char=102
 40	。	。	PU	PU	_	11	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_academic_peoples-38
+# text = 此外，对于前线的医护人员和基层工作人员来说，看到折线图的变化也给了他们正能量，让他们看到了目前所做的一切都是有效的，是他们在让一切变好。
 1	此外	此外	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	对于	对于	P	P	_	11	case	_	start_char=5|end_char=7
@@ -921,6 +1008,8 @@
 45	变好	变好	VV	VV	_	43	ccomp	_	start_char=109|end_char=111
 46	。	。	PU	PU	_	14	punct	_	start_char=112|end_char=113
 
+# sent_id = gcdt_academic_peoples-39
+# text = 因此可见，图表化疫情信息一举多得。
 1	因	因	P	P	_	2	case	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	4	nmod:prep	_	start_char=2|end_char=3
 3	可	可	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -933,6 +1022,8 @@
 10	多得	多得	VV	VV	_	0	root	_	start_char=23|end_char=25
 11	。	。	PU	PU	_	10	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_academic_peoples-40
+# text = 2.2. 需要调整和改正的问题
 1	2.2.	2.2.	AD	AD	_	2	advmod	_	start_char=0|end_char=4
 2	需要	需要	VV	VV	_	0	root	_	start_char=5|end_char=7
 3	调整	调整	NN	NN	_	7	acl	_	start_char=8|end_char=10
@@ -941,12 +1032,16 @@
 6	的	的	DEC	DEC	_	3	mark	_	start_char=16|end_char=17
 7	问题	问题	NN	NN	_	2	dobj	_	start_char=18|end_char=20
 
+# sent_id = gcdt_academic_peoples-41
+# text = 2.2.1. 同质化现象较严重
 1	2.2.1.	2.2.1.	URL	URL	_	3	compound:nn	_	start_char=0|end_char=6
 2	同质化	同质化	NN	NN	_	3	compound:nn	_	start_char=7|end_char=10
 3	现象	现象	NN	NN	_	5	nsubj	_	start_char=11|end_char=13
 4	较	较	AD	AD	_	5	advmod	_	start_char=14|end_char=15
 5	严重	严重	VA	VA	_	0	root	_	start_char=16|end_char=18
 
+# sent_id = gcdt_academic_peoples-42
+# text = 人民日报所发布的一部分视频，其原素材已被多个政务号二创转载，但人民日报仍选择发布。
 1	人民	人民	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	所	所	MSP	MSP	_	4	aux:prtmod	_	start_char=6|end_char=7
@@ -975,6 +1070,8 @@
 26	发布	发布	VV	VV	_	25	ccomp	_	start_char=63|end_char=65
 27	。	。	PU	PU	_	19	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_academic_peoples-43
+# text = 这些政务号有像人民日报和央视新闻一样的全国性官媒，也有地区性的地方媒体和消防公安政务号，还有一些抖音博主为博关注而发布。
 1	这些	这些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	政务号	政务号	NN	NN	_	3	dep	_	start_char=3|end_char=6
 3	有	有	VE	VE	_	0	root	_	start_char=7|end_char=8
@@ -1012,6 +1109,8 @@
 35	发布	发布	VV	VV	_	27	ccomp	_	start_char=91|end_char=93
 36	。	。	PU	PU	_	3	punct	_	start_char=94|end_char=95
 
+# sent_id = gcdt_academic_peoples-44
+# text = 这造成了一定程度上的资源浪费。
 1	这	这	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	造成	造成	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=5|end_char=6
@@ -1023,12 +1122,16 @@
 9	浪费	浪费	NN	NN	_	2	dobj	_	start_char=20|end_char=22
 10	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_academic_peoples-45
+# text = 2.2.2. 很少回复大众评论
 1	2.2.2.	2.2.2.	URL	URL	_	3	nsubj	_	start_char=0|end_char=6
 2	很少	很少	AD	AD	_	3	advmod	_	start_char=7|end_char=9
 3	回复	回复	VV	VV	_	0	root	_	start_char=10|end_char=12
 4	大众	大众	NN	NN	_	5	compound:nn	_	start_char=13|end_char=15
 5	评论	评论	NN	NN	_	3	dobj	_	start_char=16|end_char=18
 
+# sent_id = gcdt_academic_peoples-46
+# text = 在人民日报的评论区，很少看到人民日报的评论回应。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	人民	人民	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	日报	日报	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=7
@@ -1044,6 +1147,8 @@
 13	回应	回应	NN	NN	_	8	dobj	_	start_char=33|end_char=35
 14	。	。	PU	PU	_	8	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_academic_peoples-47
+# text = 很多视频的第一条热评来源于各地区的消防公安政务号，普通大众的评论大部分都在每条视频的第二条评论之后。
 1	很多	很多	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	视频	视频	NN	NN	_	6	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -1075,6 +1180,8 @@
 29	之后	之后	LC	LC	_	28	case	_	start_char=75|end_char=77
 30	。	。	PU	PU	_	7	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_peoples-48
+# text = 评论区很难见到人民日报的评论回复。
 1	评论区	评论区	NN	NN	_	4	nsubj	_	start_char=0|end_char=3
 2	很	很	AD	AD	_	4	advmod	_	start_char=4|end_char=5
 3	难	难	AD	AD	_	2	dep	_	start_char=6|end_char=7
@@ -1086,6 +1193,8 @@
 9	回复	回复	NN	NN	_	4	dobj	_	start_char=22|end_char=24
 10	。	。	PU	PU	_	4	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_academic_peoples-49
+# text = 2.2.3. 发布数据图的次数较少，且形式较单一
 1	2.2.3.	2.2.3.	URL	URL	_	2	nsubj	_	start_char=0|end_char=6
 2	发布	发布	VV	VV	_	6	acl	_	start_char=7|end_char=9
 3	数据	数据	NN	NN	_	4	compound:nn	_	start_char=10|end_char=12
@@ -1100,6 +1209,8 @@
 12	较	较	AD	AD	_	13	advmod	_	start_char=31|end_char=32
 13	单一	单一	VA	VA	_	8	conj	_	start_char=33|end_char=35
 
+# sent_id = gcdt_academic_peoples-50
+# text = 纵观500条抖音，只有2条抖音发布了数据图，且都在疫情爆发时期的2020年2月初。
 1	纵观	纵观	VV	VV	_	7	dep	_	start_char=0|end_char=2
 2	500	500	CD	CD	_	4	nummod	_	start_char=3|end_char=6
 3	条	条	M	M	_	2	mark:clf	_	start_char=7|end_char=8
@@ -1126,6 +1237,8 @@
 24	初	初	LC	LC	_	23	case	_	start_char=62|end_char=63
 25	。	。	PU	PU	_	7	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_academic_peoples-51
+# text = 后续如北京新发地，大连等地的疫情也没有使用数据图表。
 1	后续	后续	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	如	如	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	北京	北京	NR	NR	_	4	nmod:assmod	_	start_char=5|end_char=7
@@ -1143,6 +1256,8 @@
 15	图表	图表	NN	NN	_	13	dobj	_	start_char=37|end_char=39
 16	。	。	PU	PU	_	13	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_academic_peoples-52
+# text = 3. 基于人民日报传播策略的启发
 1	3.	3.	AD	AD	_	0	root	_	start_char=0|end_char=2
 2	基于	基于	P	P	_	8	case	_	start_char=3|end_char=5
 3	人民	人民	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -1152,6 +1267,8 @@
 7	的	的	DEG	DEG	_	6	case	_	start_char=18|end_char=19
 8	启发	启发	NN	NN	_	1	dep	_	start_char=20|end_char=22
 
+# sent_id = gcdt_academic_peoples-53
+# text = 3.1. 应多发掘故事，进行多元化报道
 1	3.1.	3.1.	NR	NR	_	4	nsubj	_	start_char=0|end_char=4
 2	应	应	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
 3	多	多	AD	AD	_	4	advmod	_	start_char=7|end_char=8
@@ -1162,6 +1279,8 @@
 8	多元化	多元化	NN	NN	_	9	compound:nn	_	start_char=20|end_char=23
 9	报道	报道	NN	NN	_	7	dobj	_	start_char=24|end_char=26
 
+# sent_id = gcdt_academic_peoples-54
+# text = 疫情期间，政务号视频同质化严重。
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	期间	期间	NN	NN	_	7	nmod:topic	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -1171,6 +1290,8 @@
 7	严重	严重	VA	VA	_	0	root	_	start_char=19|end_char=21
 8	。	。	PU	PU	_	7	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_academic_peoples-55
+# text = 作为媒体，真实性是生命，时效性是视频是否能够受到关注的关键所在，但是不能够盲目跟从爆火视频，忘记了自身的使命。
 1	作为	作为	P	P	_	2	case	_	start_char=0|end_char=2
 2	媒体	媒体	NN	NN	_	6	nmod:prep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -1205,6 +1326,8 @@
 32	使命	使命	NN	NN	_	28	dobj	_	start_char=83|end_char=85
 33	。	。	PU	PU	_	6	punct	_	start_char=86|end_char=87
 
+# sent_id = gcdt_academic_peoples-56
+# text = 主流媒体可以派遣记者在生活中寻找选题，也可以在微博等平台按照关键词搜索信息，以避免同质化选题。
 1	主流	主流	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	媒体	媒体	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=6|end_char=8
@@ -1234,6 +1357,8 @@
 27	选题	选题	NN	NN	_	25	dobj	_	start_char=70|end_char=72
 28	。	。	PU	PU	_	4	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_academic_peoples-57
+# text = 如果这个同质化的选题是非常棒的选题，不想更换的话，可以从不同的角度入手，减少大众视觉疲劳。
 1	如果	如果	CS	CS	_	11	advmod	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	6	det	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -1264,6 +1389,8 @@
 28	疲劳	疲劳	NN	NN	_	25	dobj	_	start_char=69|end_char=71
 29	。	。	PU	PU	_	23	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_academic_peoples-58
+# text = 3.2. 应借用科技手段，将数据可视化呈现
 1	3.2.	3.2.	AD	AD	_	3	advmod	_	start_char=0|end_char=4
 2	应	应	VV	VV	_	3	aux:modal	_	start_char=5|end_char=6
 3	借用	借用	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -1275,6 +1402,8 @@
 9	可视化	可视化	VV	VV	_	10	advmod	_	start_char=23|end_char=26
 10	呈现	呈现	VV	VV	_	3	conj	_	start_char=27|end_char=29
 
+# sent_id = gcdt_academic_peoples-59
+# text = 当代社会，有着众多数据统计和数据分析软件。
 1	当代	当代	NT	NT	_	2	compound:nn	_	start_char=0|end_char=2
 2	社会	社会	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
@@ -1289,6 +1418,8 @@
 12	软件	软件	NN	NN	_	4	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	4	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_academic_peoples-60
+# text = 不仅是前文提到的折线图，“词云”、柱状图、饼图，都可以直观地展示数据变化。
 1	不仅	不仅	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	7	cop	_	start_char=3|end_char=4
 3	前文	前文	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1315,6 +1446,8 @@
 24	变化	变化	NN	NN	_	22	dobj	_	start_char=57|end_char=59
 25	。	。	PU	PU	_	7	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_peoples-61
+# text = 此外，甚至可以结合地理行政图，人口分布图等地理层面的地图，分地区进行数据标记。
 1	此外	此外	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	甚至	甚至	AD	AD	_	5	advmod	_	start_char=5|end_char=7
@@ -1340,6 +1473,8 @@
 23	标记	标记	NN	NN	_	21	dobj	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	5	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_academic_peoples-62
+# text = 这样大众不仅可以知道疫情数据信息，还可以了解到疫情和自己所出地区和自己生活圈的距离。
 1	这样	这样	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	大众	大众	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	不仅	不仅	AD	AD	_	5	advmod	_	start_char=6|end_char=8
@@ -1367,6 +1502,8 @@
 25	距离	距离	NN	NN	_	12	dobj	_	start_char=63|end_char=65
 26	。	。	PU	PU	_	5	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_academic_peoples-63
+# text = 3.3. 应重视与观众的评论互动
 1	3.3.	3.3.	AD	AD	_	3	advmod	_	start_char=0|end_char=4
 2	应	应	VV	VV	_	3	aux:modal	_	start_char=5|end_char=6
 3	重视	重视	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -1376,6 +1513,8 @@
 7	评论	评论	NN	NN	_	8	compound:nn	_	start_char=17|end_char=19
 8	互动	互动	NN	NN	_	3	dobj	_	start_char=20|end_char=22
 
+# sent_id = gcdt_academic_peoples-64
+# text = 在抖音短视频平台，人民日报很少在评论区和观众互动。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	抖音	抖音	NN	NN	_	5	compound:nn	_	start_char=2|end_char=4
 3	短	短	JJ	JJ	_	5	amod	_	start_char=5|end_char=6
@@ -1393,6 +1532,8 @@
 15	互动	互动	VV	VV	_	0	root	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	15	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_peoples-65
+# text = 在新媒体时代，观众很希望自己的评论可以获得视频作者的认可。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	新	新	JJ	JJ	_	3	amod	_	start_char=2|end_char=3
 3	媒体	媒体	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1412,6 +1553,8 @@
 17	认可	认可	NN	NN	_	13	dobj	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	8	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_academic_peoples-66
+# text = 如果评论被官方媒体回应，称之为“被翻牌子”，会更加活跃地表达自己的观点，也让人民日报更直观看到自己的舆论引导效果。
 1	如果	如果	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	评论	评论	NN	NN	_	6	nsubjpass	_	start_char=3|end_char=5
 3	被	被	LB	LB	_	6	auxpass	_	start_char=6|end_char=7
@@ -1450,6 +1593,8 @@
 36	效果	效果	NN	NN	_	31	dobj	_	start_char=89|end_char=91
 37	。	。	PU	PU	_	20	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_academic_peoples-67
+# text = 因此，加强评论区的互动，可以更好的引导舆论。
 1	因此	因此	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	加强	加强	VV	VV	_	12	dep	_	start_char=5|end_char=7
@@ -1465,9 +1610,13 @@
 13	舆论	舆论	NN	NN	_	12	dobj	_	start_char=31|end_char=33
 14	。	。	PU	PU	_	12	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_academic_peoples-68
+# text = 4. 结语
 1	4.	4.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	结语	结语	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_peoples-69
+# text = 由上可见，互联网的飞速发展，视频剪辑技术的简单化和普及化催生了各类短视频APP，从而影响了整个新闻媒体发展的大方向，媒体的传播方式发生了改变。
 1	由	由	P	P	_	2	case	_	start_char=0|end_char=1
 2	上	上	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=3
 3	可	可	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -1513,6 +1662,8 @@
 43	改变	改变	NN	NN	_	41	dobj	_	start_char=110|end_char=112
 44	。	。	PU	PU	_	4	punct	_	start_char=113|end_char=114
 
+# sent_id = gcdt_academic_peoples-70
+# text = 对新型冠状肺炎疫情的抗击，是对媒体信息传播治理体系和能力的一次“大考”。
 1	对	对	P	P	_	5	case	_	start_char=0|end_char=1
 2	新型	新型	JJ	JJ	_	5	amod	_	start_char=2|end_char=4
 3	冠状	冠状	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -1538,6 +1689,8 @@
 23	”	”	PU	PU	_	22	punct	_	start_char=56|end_char=57
 24	。	。	PU	PU	_	22	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_peoples-71
+# text = 我们在媒体的舆论引领下，全球人民共同抗疫的信心。
 1	我们	我	PN	PN	_	14	dep	_	start_char=0|end_char=2
 2	在	在	P	P	_	6	case	_	start_char=3|end_char=4
 3	媒体	媒体	NN	NN	_	6	nmod:assmod	_	start_char=5|end_char=7
@@ -1554,11 +1707,15 @@
 14	信心	信心	NN	NN	_	0	root	_	start_char=34|end_char=36
 15	。	。	PU	PU	_	14	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_academic_peoples-72
+# text = 道阻且长，行则将至。
 1	道阻且长	道阻且长	VV	VV	_	0	root	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	1	punct	_	start_char=5|end_char=6
 3	行则将至	行则将至	VV	VV	_	1	conj	_	start_char=7|end_char=11
 4	。	。	PU	PU	_	1	punct	_	start_char=12|end_char=13
 
+# sent_id = gcdt_academic_peoples-73
+# text = 在报道突发公共卫生事件上，主流媒体仍需努力学习，积极汲取经验和教训，以达到其预期的舆论引导效果。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	报道	报道	VV	VV	_	14	nmod:prep	_	start_char=2|end_char=4
 3	突发	突发	JJ	JJ	_	6	amod	_	start_char=5|end_char=7

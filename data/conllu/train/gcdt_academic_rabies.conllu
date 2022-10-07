@@ -1,11 +1,28 @@
+# newdoc id = gcdt_academic_rabies
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2018-07-24
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=31385
+# meta::speakerCount = 0
+# meta::title = 狂犬病疫苗研究进展
+# meta::shortTitle = rabies
+# meta::author = Qianfen Wang
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_rabies-1
+# text = 狂犬病疫苗研究进展
 1	狂犬病	狂犬病	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	疫苗	疫苗	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
 3	研究	研究	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
 4	进展	进展	NN	NN	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_academic_rabies-2
+# text = 1. 引言
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	引言	引言	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_rabies-3
+# text = 狂犬病是一种人畜共患的疾病，感染是通过患病的动物传染给人类的。
 1	狂犬病	狂犬病	NN	NN	_	9	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	9	cop	_	start_char=4|end_char=5
 3	一	一	CD	CD	_	5	nummod	_	start_char=6|end_char=7
@@ -28,6 +45,8 @@
 20	的	的	SP	SP	_	18	discourse	_	start_char=48|end_char=49
 21	。	。	PU	PU	_	9	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_academic_rabies-4
+# text = 引起狂犬病的动物主要有狗、浣熊、臭鼬、蝙蝠和狐狸。
 1	引起	引起	VV	VV	_	4	acl	_	start_char=0|end_char=2
 2	狂犬病	狂犬病	NN	NN	_	1	dobj	_	start_char=3|end_char=6
 3	的	的	DEC	DEC	_	1	mark	_	start_char=7|end_char=8
@@ -45,6 +64,8 @@
 15	狐狸	狐狸	NN	NN	_	6	dobj	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	6	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_rabies-5
+# text = 狂犬病是由病毒引起的，病毒攻击神经系统后通过唾液排出。
 1	狂犬病	狂犬病	NN	NN	_	5	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	15	cop	_	start_char=4|end_char=5
 3	由	由	P	P	_	4	case	_	start_char=6|end_char=7
@@ -62,6 +83,8 @@
 15	排出	排出	VV	VV	_	0	root	_	start_char=38|end_char=40
 16	。	。	PU	PU	_	15	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_academic_rabies-6
+# text = 狂犬病影响大脑和脊髓(中枢神经系统)，初始症状类似流感、发烧、头痛，但是感染可以快速发展到幻觉、瘫痪，并最终死亡，目前没有有效的疗法。
 1	狂犬病	狂犬病	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	影响	影响	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	大脑	大脑	NN	NN	_	5	conj	_	start_char=7|end_char=9
@@ -103,6 +126,8 @@
 39	疗法	疗法	NN	NN	_	36	dobj	_	start_char=102|end_char=104
 40	。	。	PU	PU	_	2	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_academic_rabies-7
+# text = 一旦发生疾病，死亡率近100%。
 1	一旦	一旦	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	发生	发生	VV	VV	_	7	dep	_	start_char=3|end_char=5
 3	疾病	疾病	NN	NN	_	2	dobj	_	start_char=6|end_char=8
@@ -112,6 +137,8 @@
 7	100%	100%	CD	CD	_	0	root	_	start_char=17|end_char=21
 8	。	。	PU	PU	_	7	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_academic_rabies-8
+# text = 狂犬病在150多个国家和地区都有存在。
 1	狂犬病	狂犬病	NN	NN	_	9	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	7	case	_	start_char=4|end_char=5
 3	150多	150多	CD	CD	_	7	nummod	_	start_char=6|end_char=10
@@ -124,6 +151,8 @@
 10	存在	存在	NN	NN	_	9	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	9	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_rabies-9
+# text = 据世卫组织估计，每年有近55,000人死于狂犬病。
 1	据	据	P	P	_	4	case	_	start_char=0|end_char=1
 2	世卫	世卫	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	组织	组织	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -139,6 +168,8 @@
 13	狂犬病	狂犬病	NN	NN	_	12	dobj	_	start_char=33|end_char=36
 14	。	。	PU	PU	_	8	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_academic_rabies-10
+# text = 狗是这背后的主要原因，其中大约99%人类死亡是狗咬伤导致的。
 1	狗	狗	NN	NN	_	7	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	7	cop	_	start_char=2|end_char=3
 3	这	这	DT	DT	_	4	det	_	start_char=4|end_char=5
@@ -159,6 +190,8 @@
 18	的	的	SP	SP	_	17	discourse	_	start_char=45|end_char=46
 19	。	。	PU	PU	_	7	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_rabies-11
+# text = 发展中国家和亚发展中国家都是狂犬病的受害者。
 1	发展中	发展中	JJ	JJ	_	2	amod	_	start_char=0|end_char=3
 2	国家	国家	NN	NN	_	4	conj	_	start_char=4|end_char=6
 3	和	和	CC	CC	_	4	cc	_	start_char=7|end_char=8
@@ -172,6 +205,8 @@
 11	受害者	受害者	NN	NN	_	0	root	_	start_char=28|end_char=31
 12	。	。	PU	PU	_	11	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_academic_rabies-12
+# text = 有了接触后预防制度，每年有327,000人可以预防这种疾病 -LSB-1-RSB- 。
 1	有	有	VE	VE	_	10	dep	_	start_char=0|end_char=1
 2	了	了	AS	AS	_	1	aux:asp	_	start_char=2|end_char=3
 3	接触	接触	NN	NN	_	1	dobj	_	start_char=4|end_char=6
@@ -194,6 +229,8 @@
 20	-RSB-	-RSB-	NN	NN	_	14	dobj	_	start_char=54|end_char=59
 21	。	。	PU	PU	_	10	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_rabies-13
+# text = 狂犬病是感染狂犬病毒导致的一种病毒性疾病。
 1	狂犬病	狂犬病	NN	NN	_	11	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	11	cop	_	start_char=4|end_char=5
 3	感染	感染	VV	VV	_	11	acl	_	start_char=6|end_char=8
@@ -207,6 +244,8 @@
 11	疾病	疾病	NN	NN	_	0	root	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	11	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_academic_rabies-14
+# text = 狂犬病病毒呈子弹状，弹状病毒科狂犬病毒属的模式种，病毒具有包膜和单反密码股的RNA基因组，基因组编码的5个基因是高度保守的，这些基因编码核蛋白(N)、磷蛋白质(P)、基质蛋白(M)、糖蛋白(G)和病毒RNA聚合酶(L)，其中G蛋白是主要的保护性抗原 -LSB-2-RSB- 。
 1	狂犬病	狂犬病	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	病毒	病毒	NN	NN	_	3	nsubj	_	start_char=4|end_char=6
 3	呈	呈	VV	VV	_	0	root	_	start_char=7|end_char=8
@@ -287,12 +326,16 @@
 78	-RSB-	-RSB-	NN	NN	_	3	conj	_	start_char=207|end_char=212
 79	。	。	PU	PU	_	3	punct	_	start_char=213|end_char=214
 
+# sent_id = gcdt_academic_rabies-15
+# text = 2. 狂犬病疫苗的起源
 1	2.	2.	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	狂犬病	狂犬病	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	疫苗	疫苗	NN	NN	_	5	nmod:assmod	_	start_char=7|end_char=9
 4	的	的	DEG	DEG	_	3	case	_	start_char=10|end_char=11
 5	起源	起源	NN	NN	_	0	root	_	start_char=12|end_char=14
 
+# sent_id = gcdt_academic_rabies-16
+# text = 狂犬病毒在自然界中广泛传播。
 1	狂犬	狂犬	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	病毒	病毒	NN	NN	_	7	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	4	case	_	start_char=6|end_char=7
@@ -302,6 +345,8 @@
 7	传播	传播	VV	VV	_	0	root	_	start_char=17|end_char=19
 8	。	。	PU	PU	_	7	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_academic_rabies-17
+# text = 1804年，Georg Gottfried Zinke使用唾液注入的方法第一个将狂犬病病毒从患狂犬病的狗到正常的狗，从狗到一只兔子和一只母鸡进行传播。
 1	1804年	1804年	NT	NT	_	21	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	21	punct	_	start_char=6|end_char=7
 3	Georg	Georg	NR	NR	_	5	name	_	start_char=8|end_char=13
@@ -341,6 +386,8 @@
 37	传播	传播	NN	NN	_	36	dobj	_	start_char=106|end_char=108
 38	。	。	PU	PU	_	36	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_academic_rabies-18
+# text = 这证明了该疾病具有传染性，但物种敏感性还不清楚，直到Victor Galtier展示了狂犬病病毒从狗到兔子再到兔子的传播。
 1	这	这	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	证明	证明	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=5|end_char=6
@@ -375,6 +422,8 @@
 32	传播	传播	NN	NN	_	29	dobj	_	start_char=88|end_char=90
 33	。	。	PU	PU	_	2	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_academic_rabies-19
+# text = 然后他用患狂犬病的唾液静脉注射接种来免疫绵羊，这并没有产生疾病，但有趣的是，它保护动物免受进一步感染的影响 -LSB-3-RSB- 。
 1	然后	然后	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	9	nsubj	_	start_char=3|end_char=4
 3	用	用	P	P	_	8	case	_	start_char=5|end_char=6
@@ -413,6 +462,8 @@
 36	-RSB-	-RSB-	NN	NN	_	29	dobj	_	start_char=94|end_char=99
 37	。	。	PU	PU	_	9	punct	_	start_char=100|end_char=101
 
+# sent_id = gcdt_academic_rabies-20
+# text = 1885年7月6日，9岁的Joseph Meister从阿尔萨斯被带走，他于7月4日被染了狂犬病的狗咬伤。
 1	1885年	1885年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	7月	7月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=8
 3	6日	6日	NT	NT	_	13	nmod:tmod	_	start_char=9|end_char=11
@@ -440,6 +491,8 @@
 25	咬伤	咬伤	VV	VV	_	20	conj	_	start_char=73|end_char=75
 26	。	。	PU	PU	_	13	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_academic_rabies-21
+# text = Grancher说服了巴斯德提供6月21日死于狂犬病的兔子脊髓中获得的乳剂(乳剂在干燥的空气中保存了15天)。
 1	Grancher	Grancher	NR	NR	_	2	nsubj	_	start_char=0|end_char=8
 2	说服	说服	VV	VV	_	0	root	_	start_char=9|end_char=11
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=12|end_char=13
@@ -470,6 +523,8 @@
 28	)	)	PU	PU	_	2	punct	_	start_char=80|end_char=81
 29	。	。	PU	PU	_	2	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_academic_rabies-22
+# text = 在10天内，孩子得到13次深层接种，脊髓的部分逐渐更新鲜(毒力更强)，直到三个月零三天后，他宣布孩子的生命脱离危险。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	10	10	CD	CD	_	7	nmod:prep	_	start_char=2|end_char=4
 3	天	天	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -513,6 +568,8 @@
 41	危险	危险	NN	NN	_	40	dobj	_	start_char=95|end_char=97
 42	。	。	PU	PU	_	7	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_academic_rabies-23
+# text = 10月20日，他成功治疗一个六天前被疯狗感染的病人。
 1	10月	10月	NT	NT	_	2	compound:nn	_	start_char=0|end_char=3
 2	20日	20日	NT	NT	_	6	nmod:tmod	_	start_char=4|end_char=7
 3	，	，	PU	PU	_	6	punct	_	start_char=8|end_char=9
@@ -531,6 +588,8 @@
 16	病人	病人	NN	NN	_	6	dobj	_	start_char=38|end_char=40
 17	。	。	PU	PU	_	6	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_academic_rabies-24
+# text = 到1886年，他治疗了来自欧洲各地、俄罗斯和美国的350例病人 -LSB-4-RSB- 。
 1	到	到	P	P	_	2	case	_	start_char=0|end_char=1
 2	1886年	1886年	NT	NT	_	5	nmod:prep	_	start_char=2|end_char=7
 3	，	，	PU	PU	_	5	punct	_	start_char=8|end_char=9
@@ -554,6 +613,8 @@
 21	-RSB-	-RSB-	NN	NN	_	5	dobj	_	start_char=57|end_char=62
 22	。	。	PU	PU	_	5	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_academic_rabies-25
+# text = 尽管有一些对于含有致命病毒疫苗安全性的抨击，但是医学界还是迅速接受了巴斯德的治疗方法。
 1	尽管	尽管	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	17	dep	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	11	dep	_	start_char=5|end_char=7
@@ -578,6 +639,8 @@
 22	方法	方法	NN	NN	_	17	dobj	_	start_char=61|end_char=63
 23	。	。	PU	PU	_	17	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_academic_rabies-26
+# text = 为了使患者避免疫苗中病毒引起的医源性感染，Fermi和Semple引进了在神经组织疫苗制备中的一些修改，他们靠苯酚部分或完全灭活病毒。
 1	为了	为了	P	P	_	2	case	_	start_char=0|end_char=2
 2	使	使	VV	VV	_	16	nmod:prep	_	start_char=3|end_char=4
 3	患者	患者	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -615,6 +678,8 @@
 35	病毒	病毒	NN	NN	_	34	dobj	_	start_char=98|end_char=100
 36	。	。	PU	PU	_	16	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_academic_rabies-27
+# text = 即使这些修改仍存在疫苗接种后通过不完全灭活的病毒或疫苗中的成分与成年哺乳动物神经组织的反应引起麻痹的情况发生，表现为靠敏化髓鞘碱性蛋白质引起的变态反应性脑脊髓炎，Semple疫苗仍然是用于亚洲和非洲人类 -LSB-5-RSB- 。
 1	即使	即使	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	这些	这些	DT	DT	_	3	det	_	start_char=3|end_char=5
 3	修改	修改	NN	NN	_	5	nsubj	_	start_char=6|end_char=8
@@ -674,6 +739,8 @@
 57	-RSB-	-RSB-	NN	NN	_	50	dobj	_	start_char=163|end_char=168
 58	。	。	PU	PU	_	50	punct	_	start_char=169|end_char=170
 
+# sent_id = gcdt_academic_rabies-28
+# text = Fuenzalida和同事引进第一个无髓磷脂的制备于新生小鼠大脑的狂犬病病毒灭活疫苗 -LSB-6-RSB- ，这种疫苗仍广泛应用于南美洲。
 1	Fuenzalida	Fuenzalida	NR	NR	_	3	conj	_	start_char=0|end_char=10
 2	和	和	CC	CC	_	3	cc	_	start_char=11|end_char=12
 3	同事	同事	NN	NN	_	4	nsubj	_	start_char=13|end_char=15
@@ -705,6 +772,8 @@
 29	南美洲	南美洲	NR	NR	_	28	dobj	_	start_char=92|end_char=95
 30	。	。	PU	PU	_	4	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_academic_rabies-29
+# text = 所以，狂犬病靠接种疫苗是可预防的，并且一些新的狂犬病疫苗已被成功进行了研究。
 1	所以	所以	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	狂犬病	狂犬病	NN	NN	_	9	nsubj	_	start_char=5|end_char=8
@@ -730,11 +799,15 @@
 23	研究	研究	NN	NN	_	21	dobj	_	start_char=57|end_char=59
 24	。	。	PU	PU	_	21	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_rabies-30
+# text = 3. 鸭胚胎疫苗
 1	3.	3.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	鸭	鸭	NN	NN	_	4	compound:nn	_	start_char=3|end_char=4
 3	胚胎	胚胎	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
 4	疫苗	疫苗	NN	NN	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_academic_rabies-31
+# text = 严重反应较少的另一个疫苗是鸭胚疫苗(duck embryo vaccine简称DEV)，该疫苗通过在受孕鸭蛋里传播的病毒制备 -LSB-7-RSB- -LSB-8-RSB- 。
 1	严重	严重	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	反应	反应	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	较	较	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -774,6 +847,8 @@
 37	-RSB-	-RSB-	NN	NN	_	31	dobj	_	start_char=113|end_char=118
 38	。	。	PU	PU	_	12	punct	_	start_char=119|end_char=120
 
+# sent_id = gcdt_academic_rabies-32
+# text = 然而，DEV不如脑组织疫苗的免疫原性强，并不总是能预防狂犬病。
 1	然而	然而	AD	AD	_	16	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
 3	DEV	DEV	NR	NR	_	11	nsubj	_	start_char=5|end_char=8
@@ -793,6 +868,8 @@
 17	狂犬病	狂犬病	NN	NN	_	16	dobj	_	start_char=43|end_char=46
 18	。	。	PU	PU	_	11	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_rabies-33
+# text = 瑞士血清和疫苗研究所随后通过引入纯化的DEV (PDEV)改善了DEV，PDEV含有约1%的DEV蛋白质，因此降低了过敏反应的风险 -LSB-9-RSB- -LSB-10-RSB- 。
 1	瑞士	瑞士	NR	NR	_	5	nmod:assmod	_	start_char=0|end_char=2
 2	血清	血清	NN	NN	_	5	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	5	cc	_	start_char=6|end_char=7
@@ -834,6 +911,8 @@
 39	-RSB-	-RSB-	NN	NN	_	28	dobj	_	start_char=120|end_char=125
 40	。	。	PU	PU	_	15	punct	_	start_char=126|end_char=127
 
+# sent_id = gcdt_academic_rabies-34
+# text = 密度梯度超速离心法产生的病毒浓度大幅度增加了疫苗的有效性和其引起人类病毒中和抗体应答反应的能力。
 1	密度	密度	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	梯度	梯度	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	超速	超速	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
@@ -861,6 +940,8 @@
 25	能力	能力	NN	NN	_	10	dobj	_	start_char=69|end_char=71
 26	。	。	PU	PU	_	10	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_academic_rabies-35
+# text = PDEV至今仍在生产，并用于全球人类的疫苗接种。
 1	PDEV	PDEV	NN	NN	_	5	nsubj	_	start_char=0|end_char=4
 2	至今	至今	AD	AD	_	5	advmod	_	start_char=5|end_char=7
 3	仍	仍	AD	AD	_	5	advmod	_	start_char=8|end_char=9
@@ -876,11 +957,15 @@
 13	接种	接种	NN	NN	_	8	dobj	_	start_char=33|end_char=35
 14	。	。	PU	PU	_	5	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_academic_rabies-36
+# text = 4. 细胞培养疫苗
 1	4.	4.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	细胞	细胞	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	培养	培养	VV	VV	_	0	root	_	start_char=6|end_char=8
 4	疫苗	疫苗	NN	NN	_	3	dobj	_	start_char=9|end_char=11
 
+# sent_id = gcdt_academic_rabies-37
+# text = 细胞培养狂犬病疫苗作为一种新的发展逐渐蔓延。
 1	细胞	细胞	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	培养	培养	VV	VV	_	12	dep	_	start_char=3|end_char=5
 3	狂犬病	狂犬病	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -895,6 +980,8 @@
 12	蔓延	蔓延	VV	VV	_	0	root	_	start_char=30|end_char=32
 13	。	。	PU	PU	_	12	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_academic_rabies-38
+# text = 第一次组织培养疫苗来自生长在仓鼠肾细胞的病毒 -LSB-10-RSB- -LSB-11-RSB- 。
 1	第一	第一	OD	OD	_	3	nummod	_	start_char=0|end_char=2
 2	次	次	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	组织	组织	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -916,6 +1003,8 @@
 19	-RSB-	-RSB-	NN	NN	_	4	dobj	_	start_char=59|end_char=64
 20	。	。	PU	PU	_	4	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_rabies-39
+# text = 仓鼠肾细胞狂犬病疫苗(PHKCV)是在莫斯科开发的，现在批准在中国使用和生产。
 1	仓鼠	仓鼠	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	肾	肾	NN	NN	_	3	compound:nn	_	start_char=3|end_char=4
 3	细胞	细胞	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -939,6 +1028,8 @@
 21	生产	生产	VV	VV	_	19	conj	_	start_char=56|end_char=58
 22	。	。	PU	PU	_	16	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_academic_rabies-40
+# text = 紧随其后的狂犬病毒固定株是在人类二倍体细胞株中生长 -LSB-12-RSB- 。
 1	紧随	紧随	VV	VV	_	8	acl	_	start_char=0|end_char=2
 2	其	其	PN	PN	_	1	advmod:loc	_	start_char=3|end_char=4
 3	后	后	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -960,6 +1051,8 @@
 19	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=50|end_char=55
 20	。	。	PU	PU	_	16	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_academic_rabies-41
+# text = 最初使用肺细胞株WI-38，但随后转用MRC-5细胞株，该细胞株促使了1970年代中期人类二倍体细胞疫苗(HDCV)的发展和许可。
 1	最初	最初	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	使用	使用	VV	VV	_	6	dep	_	start_char=3|end_char=5
 3	肺	肺	NN	NN	_	4	compound:nn	_	start_char=6|end_char=7
@@ -994,6 +1087,8 @@
 32	许可	许可	NN	NN	_	18	dobj	_	start_char=93|end_char=95
 33	。	。	PU	PU	_	6	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_academic_rabies-42
+# text = 然后Pitman-Moore狂犬病病毒株适应了WI-38 -LSB-13-RSB- ，自由病毒被β-丙内酯灭活，超速离心浓缩 -LSB-14-RSB- 。
 1	然后	然后	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	Pitman-Moore	Pitman-Moore	NR	NR	_	5	compound:nn	_	start_char=3|end_char=15
 3	狂犬病	狂犬病	NN	NN	_	5	compound:nn	_	start_char=16|end_char=19
@@ -1021,6 +1116,8 @@
 25	-RSB-	-RSB-	NN	NN	_	22	dobj	_	start_char=91|end_char=96
 26	。	。	PU	PU	_	6	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_academic_rabies-43
+# text = 人类二倍体细胞疫苗(HDCV)比在那段时间其他所有的疫苗更好地诱导了动物和人类免疫反应 -LSB-15-RSB- -LSB-16-RSB- 。
 1	人类	人类	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	二倍体	二倍体	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	细胞	细胞	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -1055,6 +1152,8 @@
 32	-RSB-	-RSB-	NN	NN	_	20	dobj	_	start_char=93|end_char=98
 33	。	。	PU	PU	_	20	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_academic_rabies-44
+# text = 接种HDCV不仅产生更高的抗体水平，而且接种疫苗后抗体出现的更早。
 1	接种	接种	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	HDCV	HDCV	NN	NN	_	4	nsubj	_	start_char=3|end_char=7
 3	不仅	不仅	AD	AD	_	4	advmod	_	start_char=8|end_char=10
@@ -1076,6 +1175,8 @@
 19	早	早	VA	VA	_	4	conj	_	start_char=49|end_char=50
 20	。	。	PU	PU	_	4	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_rabies-45
+# text = 使用这种疫苗，可能首次表明恶性病毒感染几个小时后疫苗的注射可以保护动物免于狂犬病 -LSB-17-RSB- 。
 1	使用	使用	VV	VV	_	9	dep	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	4	det	_	start_char=3|end_char=4
 3	种	种	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -1105,6 +1206,8 @@
 27	-RSB-	-RSB-	NN	NN	_	23	dobj	_	start_char=73|end_char=78
 28	。	。	PU	PU	_	9	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_academic_rabies-46
+# text = 自那时起，为了在较低的成本下生产像HDCV类似效价的疫苗，全球开始了一系列不同细胞培养疫苗的开发。
 1	自	自	P	P	_	2	case	_	start_char=0|end_char=1
 2	那时	那时	NT	NT	_	21	nmod:prep	_	start_char=2|end_char=4
 3	起	起	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -1137,6 +1240,8 @@
 30	开发	开发	NN	NN	_	27	dobj	_	start_char=75|end_char=77
 31	。	。	PU	PU	_	21	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_rabies-47
+# text = 狂犬病吸附疫苗(RVA)是由已适应二倍体猴肺成纤维细胞系的狂犬病病毒株制备的。
 1	狂犬病	狂犬病	NN	NN	_	3	compound:nn	_	start_char=0|end_char=3
 2	吸附	吸附	NN	NN	_	3	compound:nn	_	start_char=4|end_char=6
 3	疫苗	疫苗	NN	NN	_	5	dep	_	start_char=7|end_char=9
@@ -1159,6 +1264,8 @@
 20	的	的	SP	SP	_	19	discourse	_	start_char=56|end_char=57
 21	。	。	PU	PU	_	0	root	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_rabies-48
+# text = 狂犬病毒靠β-丙内酯灭活，靠吸附到磷酸铝进行浓缩 -LSB-18-RSB- -LSB-19-RSB- 。
 1	狂犬	狂犬	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	病毒	病毒	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	靠	靠	P	P	_	5	case	_	start_char=6|end_char=7
@@ -1180,6 +1287,8 @@
 19	-RSB-	-RSB-	NN	NN	_	12	dobj	_	start_char=61|end_char=66
 20	。	。	PU	PU	_	6	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_academic_rabies-49
+# text = 在效价和安全性方面，该疫苗被认为是等同于HDCV的 -LSB-20-RSB- 。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	效价	效价	NN	NN	_	5	conj	_	start_char=2|end_char=4
 3	和	和	CC	CC	_	5	cc	_	start_char=5|end_char=6
@@ -1199,6 +1308,8 @@
 17	-RSB-	-RSB-	NN	NN	_	12	dobj	_	start_char=48|end_char=53
 18	。	。	PU	PU	_	10	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_academic_rabies-50
+# text = HDCV的另一种选择是使用纯化的小鸡胚胎细胞(PCEC) -LSB-21-RSB- 。
 1	HDCV	HDCV	NN	NN	_	6	nmod:assmod	_	start_char=0|end_char=4
 2	的	的	DEG	DEG	_	1	case	_	start_char=5|end_char=6
 3	另	另	DT	DT	_	6	det	_	start_char=7|end_char=8
@@ -1220,6 +1331,8 @@
 19	-RSB-	-RSB-	NN	NN	_	13	parataxis:prnmod	_	start_char=53|end_char=58
 20	。	。	PU	PU	_	13	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_academic_rabies-51
+# text = PCECV是通过生长在原始的小鸡胚胎成纤维细胞的狂犬病毒毒株制备的鸡胚疫苗。
 1	PCECV	PCECV	NN	NN	_	19	nsubj	_	start_char=0|end_char=5
 2	是	是	VC	VC	_	19	cop	_	start_char=6|end_char=7
 3	通过	通过	P	P	_	4	case	_	start_char=8|end_char=10
@@ -1241,6 +1354,8 @@
 19	疫苗	疫苗	NN	NN	_	0	root	_	start_char=53|end_char=55
 20	。	。	PU	PU	_	19	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_academic_rabies-52
+# text = 病毒用β-丙内酯灭活，蔗糖梯度区域离心纯化浓缩。
 1	病毒	病毒	NN	NN	_	5	nsubj	_	start_char=0|end_char=2
 2	用	用	P	P	_	4	case	_	start_char=3|end_char=4
 3	β-	β-	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -1255,6 +1370,8 @@
 12	浓缩	浓缩	VV	VV	_	5	conj	_	start_char=32|end_char=34
 13	。	。	PU	PU	_	5	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_academic_rabies-53
+# text = 对比HDCV试验显示两种疫苗之间没有显著差异 -LSB-22-RSB- -LSB-23-RSB- 。
 1	对比	对比	VV	VV	_	3	acl	_	start_char=0|end_char=2
 2	HDCV	HDCV	NN	NN	_	3	compound:nn	_	start_char=3|end_char=7
 3	试验	试验	NN	NN	_	4	nsubj	_	start_char=8|end_char=10
@@ -1274,6 +1391,8 @@
 17	-RSB-	-RSB-	NN	NN	_	9	dobj	_	start_char=57|end_char=62
 18	。	。	PU	PU	_	4	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_academic_rabies-54
+# text = 现在，这些疫苗在全球范围内得到了成功应用。
 1	现在	现在	NT	NT	_	9	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	这些	这些	DT	DT	_	4	det	_	start_char=5|end_char=7
@@ -1288,6 +1407,8 @@
 12	应用	应用	NN	NN	_	9	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	9	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_academic_rabies-55
+# text = 一个连续的非洲绿猴肾细胞系Vero被用于生产另一个狂犬病疫苗 -LSB-24-RSB- 。
 1	一	一	CD	CD	_	8	nummod	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	连续	连续	VA	VA	_	8	amod	_	start_char=4|end_char=6
@@ -1310,6 +1431,8 @@
 20	-RSB-	-RSB-	NN	NN	_	12	dobj	_	start_char=56|end_char=61
 21	。	。	PU	PU	_	11	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_academic_rabies-56
+# text = 纯化的Vero细胞狂犬病疫苗(PVRV)是基于狂犬病毒的Pitmanman-Moore毒株，该毒株用β-丙内酯灭活，通过离心及超滤进行浓缩纯化。
 1	纯化	纯化	VV	VV	_	6	acl	_	start_char=0|end_char=2
 2	的	的	DEC	DEC	_	1	mark	_	start_char=3|end_char=4
 3	Vero	Vero	NR	NR	_	4	compound:nn	_	start_char=5|end_char=9
@@ -1343,6 +1466,8 @@
 31	纯化	纯化	NN	NN	_	29	dobj	_	start_char=99|end_char=101
 32	。	。	PU	PU	_	23	punct	_	start_char=102|end_char=103
 
+# sent_id = gcdt_academic_rabies-57
+# text = 初始和增强接种后的抗体反应与接种HDCV之后的抗体反应可以相媲美 -LSB-25-RSB- 。
 1	初始	初始	VV	VV	_	18	dep	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	1	cc	_	start_char=3|end_char=4
 3	增强	增强	VV	VV	_	18	advcl:loc	_	start_char=5|end_char=7
@@ -1366,6 +1491,8 @@
 21	-RSB-	-RSB-	NN	NN	_	18	dobj	_	start_char=59|end_char=64
 22	。	。	PU	PU	_	18	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_rabies-58
+# text = 在欧洲和许多发展中国家，PVRV许可用于人类。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	欧洲	欧洲	NR	NR	_	6	conj	_	start_char=2|end_char=4
 3	和	和	CC	CC	_	6	cc	_	start_char=5|end_char=6

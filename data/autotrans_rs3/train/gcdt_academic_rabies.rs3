@@ -42,84 +42,84 @@
 		<segment id="4" parent="5" relname="elaboration-attribute">人 畜 共患 的 // zoonotic</segment>
 		<segment id="5" parent="229" relname="span">疾病 ， // disease ,</segment>
 		<segment id="6" parent="231" relname="joint-list">感染 是 通过 患病 的 动物 传染 给 人类 的 。 // Infection is passed from sick animals to humans .</segment>
-		<segment id="7" parent="8" relname="elaboration-attribute">引起 狂犬病 的 // rabies-causing</segment>
-		<segment id="8" parent="232" relname="span">动物 主要 有 狗 、 浣熊 、 臭鼬 、 蝙蝠 和 狐狸 。 // Animals are mainly dogs, raccoons, skunks, bats and foxes.</segment>
-		<segment id="9" parent="236" relname="joint-list">狂犬病 是 由 病毒 引起 的 ， // Rabies is caused by a virus,</segment>
+		<segment id="7" parent="8" relname="elaboration-attribute">引起 狂犬病 的 // rabies - causing</segment>
+		<segment id="8" parent="232" relname="span">动物 主要 有 狗 、 浣熊 、 臭鼬 、 蝙蝠 和 狐狸 。 // Animals are mainly dogs , raccoons , skunks , bats and foxes .</segment>
+		<segment id="9" parent="236" relname="joint-list">狂犬病 是 由 病毒 引起 的 ， // Rabies is caused by a virus ,</segment>
 		<segment id="10" parent="235" relname="same-unit">病毒 // Virus</segment>
 		<segment id="11" parent="233" relname="context-circumstance">攻击 神经 系统 后 // After attacking the nervous system</segment>
 		<segment id="12" parent="13" relname="mode-means">通过 唾液 // by saliva</segment>
-		<segment id="13" parent="233" relname="span">排出 。 // discharge.</segment>
+		<segment id="13" parent="233" relname="span">排出 。 // discharge .</segment>
 		<segment id="14" parent="237" relname="span">狂犬病 影响 大脑 和 脊髓 // Rabies affects the brain and spinal cord</segment>
 		<segment id="15" parent="14" relname="restatement-partial">( 中枢 神经 系统 ) ， // ( Central Nervous System ) ,</segment>
-		<segment id="16" parent="238" relname="joint-sequence">初始 症状 类似 流感 、 发烧 、 头痛 ， // Initial symptoms are flu-like, fever, headache,</segment>
+		<segment id="16" parent="238" relname="joint-sequence">初始 症状 类似 流感 、 发烧 、 头痛 ， // Initial symptoms are flu - like , fever , headache ,</segment>
 		<segment id="17" parent="238" relname="joint-sequence">但是 感染 可以 快速 发展 到 幻觉 、 瘫痪 ， // But infections can progress quickly to hallucinations , paralysis ,</segment>
-		<segment id="18" parent="238" relname="joint-sequence">并 最终 死亡 ， // and eventually died,</segment>
+		<segment id="18" parent="238" relname="joint-sequence">并 最终 死亡 ， // and eventually died ,</segment>
 		<segment id="19" parent="261" relname="span">目前 没有 有效 的 疗法 。 // There is currently no effective treatment .</segment>
-		<segment id="20" parent="21" relname="contingency-condition">一旦 发生 疾病 ， // Once a disease occurs,</segment>
-		<segment id="21" parent="239" relname="span">死亡率 近 100% 。 // Mortality is nearly 100%.</segment>
+		<segment id="20" parent="21" relname="contingency-condition">一旦 发生 疾病 ， // Once a disease occurs ,</segment>
+		<segment id="21" parent="239" relname="span">死亡率 近 100% 。 // Mortality is nearly 100 % .</segment>
 		<segment id="22" parent="246" relname="span">狂犬病 在 150多 个 国家 和 地区 都 有 存在 。 // Rabies is present in more than 150 countries and territories .</segment>
-		<segment id="23" parent="24" relname="attribution-positive">据 世卫 组织 估计 ， // According to WHO estimates,</segment>
-		<segment id="24" parent="240" relname="span">每 年 有 近 55,000 人 死于 狂犬病 。 // Nearly 55,000 people die from rabies each year.</segment>
-		<segment id="25" parent="241" relname="span">狗 是 这 背后 的 主要 原因 ， // Dogs are the main reason behind this,</segment>
+		<segment id="23" parent="24" relname="attribution-positive">据 世卫 组织 估计 ， // According to WHO estimates ,</segment>
+		<segment id="24" parent="240" relname="span">每 年 有 近 55,000 人 死于 狂犬病 。 // Nearly 55,000 people die from rabies each year .</segment>
+		<segment id="25" parent="241" relname="span">狗 是 这 背后 的 主要 原因 ， // Dogs are the main reason behind this ,</segment>
 		<segment id="26" parent="25" relname="explanation-evidence">其中 大约 99% 人类 死亡 是 狗 咬伤 导致 的 。 // About 99 percent of human deaths are caused by dog ​​bites .</segment>
-		<segment id="27" parent="243" relname="joint-list">发展中 国家 和 亚 发展中 国家 都 是 狂犬病 的 受害者 。 // Developing and sub-developing countries are victims of rabies.</segment>
-		<segment id="28" parent="29" relname="contingency-condition">有 了 接触 后 预防 制度 ， // With post-exposure prophylaxis,</segment>
+		<segment id="27" parent="243" relname="joint-list">发展中 国家 和 亚 发展中 国家 都 是 狂犬病 的 受害者 。 // Developing and sub - developing countries are victims of rabies .</segment>
+		<segment id="28" parent="29" relname="contingency-condition">有 了 接触 后 预防 制度 ， // With post - exposure prophylaxis ,</segment>
 		<segment id="29" parent="244" relname="span">每 年 有 327,000 人 可以 预防 这 种 疾病 // 327,000 people can be prevented from the disease each year</segment>
 		<segment id="30" parent="246" relname="explanation-evidence">-LSB- 1 -RSB- 。 // -LSB- 1 -RSB- .</segment>
 		<segment id="31" parent="248" relname="same-unit">狂犬病 是 // Rabies is</segment>
 		<segment id="32" parent="33" relname="elaboration-attribute">感染 狂犬 病毒 导致 的 // caused by rabies virus</segment>
-		<segment id="33" parent="247" relname="span">一 种 病毒性 疾病 。 // a viral disease.</segment>
-		<segment id="34" parent="249" relname="joint-list">狂犬病 病毒 呈 子弹状 ， 弹状 病毒科 狂犬 病毒属 的 模式种 ， // The rabies virus is bullet-shaped, the type species of the genus Rabies in the Rhabdoviridae family.</segment>
+		<segment id="33" parent="247" relname="span">一 种 病毒性 疾病 。 // a viral disease .</segment>
+		<segment id="34" parent="249" relname="joint-list">狂犬病 病毒 呈 子弹状 ， 弹状 病毒科 狂犬 病毒属 的 模式种 ， // The rabies virus is bullet - shaped , a type species of the genus Rabies in the Rhabdoviridae family .</segment>
 		<segment id="35" parent="249" relname="joint-list">病毒 具有 包膜 和 单反 密码股 的 RNA 基因组 ， // Viruses have RNA genomes with envelopes and SLR coding strands ,</segment>
 		<segment id="36" parent="257" relname="span">基因组 编码 的 5 个 基因 是 高度 保守 的 ， // The five genes encoded by the genome are highly conserved ,</segment>
 		<segment id="37" parent="250" relname="span">这些 基因 编码 核 蛋白 // These genes encode nuclear proteins</segment>
-		<segment id="38" parent="37" relname="elaboration-attribute">( N ) 、 // (N),</segment>
+		<segment id="38" parent="37" relname="elaboration-attribute">( N ) 、 // ( N ) ,</segment>
 		<segment id="39" parent="252" relname="span">磷 蛋白质 // phosphoprotein</segment>
-		<segment id="40" parent="39" relname="elaboration-attribute">( P ) 、 // (P),</segment>
+		<segment id="40" parent="39" relname="elaboration-attribute">( P ) 、 // ( P ) ,</segment>
 		<segment id="41" parent="253" relname="span">基质 蛋白 // matrix protein</segment>
-		<segment id="42" parent="41" relname="elaboration-attribute">( M ) 、 // (M),</segment>
+		<segment id="42" parent="41" relname="elaboration-attribute">( M ) 、 // ( M ) ,</segment>
 		<segment id="43" parent="254" relname="span">糖蛋白 // glycoprotein</segment>
 		<segment id="44" parent="43" relname="elaboration-attribute">( G ) // ( G )</segment>
 		<segment id="45" parent="255" relname="span">和 病毒 RNA 聚合 酶 // and viral RNA polymerase</segment>
-		<segment id="46" parent="45" relname="elaboration-attribute">( L ) ， // (L),</segment>
+		<segment id="46" parent="45" relname="elaboration-attribute">( L ) ， // ( L ) ,</segment>
 		<segment id="47" parent="256" relname="joint-list">其中 G 蛋白 是 主要 的 保护性 抗原 // Among them G protein is the main protective antigen</segment>
 		<segment id="48" parent="258" relname="explanation-evidence">-LSB- 2 -RSB- 。 // -LSB- 2 -RSB- .</segment>
-		<segment id="49" parent="327" relname="organization-heading">2. 狂犬病 疫苗 的 起源 // 2. The origin of the rabies vaccine</segment>
+		<segment id="49" parent="327" relname="organization-heading">2. 狂犬病 疫苗 的 起源 // 2 . The origin of the rabies vaccine</segment>
 		<segment id="50" parent="274" relname="organization-preparation">狂犬 病毒 在 自然界 中 广泛 传播 。 // Rabies virus is widespread in nature .</segment>
 		<segment id="51" parent="268" relname="same-unit">1804年 ， Georg Gottfried Zinke // 1804 Georg Gottfried Zinke</segment>
 		<segment id="52" parent="53" relname="mode-means">使用 唾液 注入 的 方法 // The method of using saliva injection</segment>
 		<segment id="53" parent="269" relname="span">第一 个 将 狂犬病 病毒 从 // The first to remove rabies virus from</segment>
 		<segment id="54" parent="55" relname="elaboration-attribute">患 狂犬病 的 // rabid</segment>
-		<segment id="55" parent="267" relname="span">狗 到 正常 的 狗 ， 从 狗 到 一 只 兔子 和 一 只 母鸡 进行 传播 。 // The spread is from dog to normal dog, from dog to a rabbit and a hen.</segment>
+		<segment id="55" parent="267" relname="span">狗 到 正常 的 狗 ， 从 狗 到 一 只 兔子 和 一 只 母鸡 进行 传播 。 // The spread is from dog to normal dog , from dog to a rabbit and a hen .</segment>
 		<segment id="56" parent="57" relname="attribution-positive">这 证明 了 // this proves</segment>
 		<segment id="57" parent="270" relname="span">该 疾病 具有 传染性 ， // The disease is contagious ,</segment>
 		<segment id="58" parent="271" relname="adversative-contrast">但 物种 敏感性 还 不 清楚 ， // But species susceptibility is not yet known ,</segment>
-		<segment id="59" parent="271" relname="adversative-concession">直 到 Victor Galtier 展示 了 狂犬病 病毒 从 狗 到 兔子 再 到 兔子 的 传播 。 // Until Victor Galtier showed the transmission of the rabies virus from dog to rabbit to rabbit.</segment>
+		<segment id="59" parent="271" relname="adversative-concession">直 到 Victor Galtier 展示 了 狂犬病 病毒 从 狗 到 兔子 再 到 兔子 的 传播 。 // Until Victor Galtier showed the transmission of the rabies virus from dog to rabbit to rabbit .</segment>
 		<segment id="60" parent="275" relname="same-unit">然后 他 用 // then he uses</segment>
 		<segment id="61" parent="62" relname="elaboration-attribute">患 狂犬病 的 // rabid</segment>
 		<segment id="62" parent="272" relname="span">唾液 静脉 注射 接种 // Intravenous saliva inoculation</segment>
-		<segment id="63" parent="275" relname="purpose-goal">来 免疫 绵羊 ， // to immunize the sheep,</segment>
-		<segment id="64" parent="277" relname="adversative-concession">这 并 没有 产生 疾病 ， // This did not produce disease,</segment>
-		<segment id="65" parent="277" relname="span">但 有趣 的 是 ， 它 保护 动物 // But interestingly, it protects animals</segment>
+		<segment id="63" parent="275" relname="purpose-goal">来 免疫 绵羊 ， // to immunize the sheep ,</segment>
+		<segment id="64" parent="277" relname="adversative-concession">这 并 没有 产生 疾病 ， // This did not produce disease ,</segment>
+		<segment id="65" parent="277" relname="span">但 有趣 的 是 ， 它 保护 动物 // But interestingly , it protects animals</segment>
 		<segment id="66" parent="65" relname="elaboration-additional">免受 进一步 感染 的 影响 // protection from further infection</segment>
 		<segment id="67" parent="278" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB- 3 -RSB- .</segment>
-		<segment id="68" parent="283" relname="joint-list">1885年 7月 6日 ， 9 岁 的 Joseph Meister 从 阿尔萨斯 被 带走 ， // Joseph Meister was taken from Alsace at the age of 9 on July 6, 1885.</segment>
+		<segment id="68" parent="283" relname="joint-list">1885年 7月 6日 ， 9 岁 的 Joseph Meister 从 阿尔萨斯 被 带走 ， // Joseph Meister was taken from Alsace at the age of 9 on July 6 , 1885 .</segment>
 		<segment id="69" parent="282" relname="same-unit">他 于 7月 4日 被 // He was arrested on July 4th</segment>
 		<segment id="70" parent="71" relname="elaboration-attribute">染 了 狂犬病 的 // infected with rabies</segment>
-		<segment id="71" parent="281" relname="span">狗 咬伤 。 // Dog bites.</segment>
+		<segment id="71" parent="281" relname="span">狗 咬伤 。 // Dog bites .</segment>
 		<segment id="72" parent="286" relname="same-unit">Grancher 说服 了 巴斯德 提供 // Grancher persuaded Pasteur to provide</segment>
 		<segment id="73" parent="74" relname="elaboration-attribute">6月 21日 死于 狂犬病 的 // died of rabies on June 21</segment>
 		<segment id="74" parent="284" relname="span">兔子 脊髓 中 获得 的 // obtained from the spinal cord of a rabbit</segment>
 		<segment id="75" parent="285" relname="span">乳剂 // Emulsion</segment>
-		<segment id="76" parent="286" relname="elaboration-attribute">( 乳剂 在 干燥 的 空气 中 保存 了 15 天 ) 。 // (The emulsion is kept in dry air for 15 days).</segment>
-		<segment id="77" parent="289" relname="joint-sequence">在 10 天 内 ， 孩子 得到 13 次 深层 接种 ， // In 10 days, the child gets 13 deep vaccinations,</segment>
+		<segment id="76" parent="286" relname="elaboration-attribute">( 乳剂 在 干燥 的 空气 中 保存 了 15 天 ) 。 // ( The emulsion is kept in dry air for 15 days ) .</segment>
+		<segment id="77" parent="289" relname="joint-sequence">在 10 天 内 ， 孩子 得到 13 次 深层 接种 ， // In 10 days , the child gets 13 deep vaccinations ,</segment>
 		<segment id="78" parent="288" relname="span">脊髓 的 部分 逐渐 更 新鲜 // part of the spinal cord becomes fresher</segment>
-		<segment id="79" parent="78" relname="restatement-partial">( 毒力 更 强 ) ， // (more virulent),</segment>
-		<segment id="80" parent="289" relname="joint-sequence">直 到 三 个 月 零 三 天 后 ， 他 宣布 孩子 的 生命 脱离 危险 。 // It wasn't until three months and three days later that he declared the child's life out of danger.</segment>
-		<segment id="81" parent="293" relname="same-unit">10月 20日 ， 他 成功 治疗 一 个 // On October 20, he successfully treated a</segment>
+		<segment id="79" parent="78" relname="restatement-partial">( 毒力 更 强 ) ， // ( more virulent ) ,</segment>
+		<segment id="80" parent="289" relname="joint-sequence">直 到 三 个 月 零 三 天 后 ， 他 宣布 孩子 的 生命 脱离 危险 。 // It was n't until three months and three days later that he declared the child 's life out of danger .</segment>
+		<segment id="81" parent="293" relname="same-unit">10月 20日 ， 他 成功 治疗 一 个 // On October 20 , he successfully treated a</segment>
 		<segment id="82" parent="83" relname="elaboration-attribute">六 天 前 被 疯狗 感染 的 // Infected by a rabid dog six days ago</segment>
 		<segment id="83" parent="292" relname="span">病人 。 // patient .</segment>
-		<segment id="84" parent="295" relname="same-unit">到 1886年 ， 他 治疗 了 // By 1886, he had</segment>
+		<segment id="84" parent="295" relname="same-unit">到 1886年 ， 他 治疗 了 // By 1886 , he had</segment>
 		<segment id="85" parent="86" relname="elaboration-attribute">来自 欧洲 各 地 、 俄罗斯 和 美国 的 // from all over europe , russia and the united states</segment>
 		<segment id="86" parent="294" relname="span">350 例 病人 // 350 patients</segment>
 		<segment id="87" parent="295" relname="explanation-evidence">-LSB- 4 -RSB- 。 // -LSB- 4 -RSB- .</segment>
@@ -129,141 +129,141 @@
 		<segment id="91" parent="301" relname="span">但是 医学界 还是 迅速 接受 了 巴斯德 的 治疗 方法 。 // But the medical community was quick to embrace pasteur 's treatment .</segment>
 		<segment id="92" parent="303" relname="same-unit">为了 使 患者 避免 // In order to prevent patients from</segment>
 		<segment id="93" parent="94" relname="elaboration-attribute">疫苗 中 病毒 引起 的 // Caused by the virus in the vaccine</segment>
-		<segment id="94" parent="302" relname="span">医源性 感染 ， // iatrogenic infection,</segment>
+		<segment id="94" parent="302" relname="span">医源性 感染 ， // iatrogenic infection ,</segment>
 		<segment id="95" parent="304" relname="span">Fermi 和 Semple 引进 了 在 神经 组织 疫苗 制备 中 的 一些 修改 ， // Fermi and Semple introduced some modifications in neural tissue vaccine preparation ,</segment>
-		<segment id="96" parent="95" relname="elaboration-additional">他们 靠 苯酚 部分 或 完全 灭活 病毒 。 // They rely on phenol to partially or completely inactivate the virus.</segment>
+		<segment id="96" parent="95" relname="elaboration-additional">他们 靠 苯酚 部分 或 完全 灭活 病毒 。 // They rely on phenol to partially or completely inactivate the virus .</segment>
 		<segment id="97" parent="309" relname="same-unit">即使 这些 修改 仍 存在 疫苗 接种 后 // Even these modifications remain after vaccination</segment>
 		<segment id="98" parent="306" relname="same-unit">通过 // pass</segment>
 		<segment id="99" parent="100" relname="elaboration-attribute">不完全 灭活 的 // incompletely inactivated</segment>
 		<segment id="100" parent="305" relname="span">病毒 或 疫苗 中 的 成分 与 成年 哺乳 动物 神经 组织 的 反应 // Response of components of viruses or vaccines to adult mammalian nervous tissue</segment>
 		<segment id="101" parent="307" relname="span">引起 麻痹 的 // paralyzing</segment>
-		<segment id="102" parent="308" relname="span">情况 发生 ， // happens,</segment>
+		<segment id="102" parent="308" relname="span">情况 发生 ， // happens ,</segment>
 		<segment id="103" parent="310" relname="same-unit">表现 为 // manifested as</segment>
 		<segment id="104" parent="105" relname="elaboration-attribute">靠 敏化 髓鞘 碱性 蛋白质 引起 的 // Caused by sensitization of myelin basic protein</segment>
-		<segment id="105" parent="311" relname="span">变态 反应性 脑脊髓炎 ， // allergic encephalomyelitis,</segment>
+		<segment id="105" parent="311" relname="span">变态 反应性 脑脊髓炎 ， // allergic encephalomyelitis ,</segment>
 		<segment id="106" parent="313" relname="span">Semple 疫苗 仍然 是 用于 亚洲 和 非洲 人类 // The Semple vaccine is still being used in humans in Asia and Africa</segment>
 		<segment id="107" parent="313" relname="explanation-evidence">-LSB- 5 -RSB- 。 // -LSB- 5 -RSB- .</segment>
-		<segment id="108" parent="318" relname="same-unit">Fuenzalida 和 同事 引进 第一 个 无髓 磷脂 的 // Fuenzalida and colleagues introduce the first myelin-free</segment>
+		<segment id="108" parent="318" relname="same-unit">Fuenzalida 和 同事 引进 第一 个 无髓 磷脂 的 // Fuenzalida and colleagues introduce the first myelin - free</segment>
 		<segment id="109" parent="110" relname="elaboration-attribute">制备于 新生 小鼠 大脑 的 // prepared in neonatal mouse brain</segment>
 		<segment id="110" parent="317" relname="span">狂犬病 病毒 灭活 疫苗 // Rabies virus inactivated vaccine</segment>
 		<segment id="111" parent="318" relname="explanation-evidence">-LSB- 6 -RSB- ， // -LSB- 6 -RSB- ,</segment>
 		<segment id="112" parent="319" relname="elaboration-additional">这 种 疫苗 仍 广泛 应用于 南美洲 。 // This vaccine is still widely used in South America .</segment>
-		<segment id="113" parent="321" relname="same-unit">所以 ， 狂犬病 // So, rabies</segment>
+		<segment id="113" parent="321" relname="same-unit">所以 ， 狂犬病 // So , rabies</segment>
 		<segment id="114" parent="115" relname="mode-means">靠 接种 疫苗 // by vaccination</segment>
-		<segment id="115" parent="320" relname="span">是 可 预防 的 ， // is preventable,</segment>
+		<segment id="115" parent="320" relname="span">是 可 预防 的 ， // is preventable ,</segment>
 		<segment id="116" parent="323" relname="joint-other">并且 一些 新 的 狂犬病 疫苗 已 被 成功 进行 了 研究 。 // And some new rabies vaccines have been successfully studied .</segment>
-		<segment id="117" parent="350" relname="organization-heading">3. 鸭 胚胎 疫苗 // 3. Duck embryo vaccine</segment>
+		<segment id="117" parent="350" relname="organization-heading">3. 鸭 胚胎 疫苗 // 3 . Duck embryo vaccine</segment>
 		<segment id="118" parent="330" relname="elaboration-attribute">严重 反应 较 少 的 // less severe reaction</segment>
 		<segment id="119" parent="330" relname="span">另 一 个 疫苗 是 鸭胚 疫苗 // Another vaccine is the duck embryo vaccine</segment>
-		<segment id="120" parent="436" relname="joint-list">( duck embryo vaccine // (duck embryo vaccine</segment>
-		<segment id="121" parent="436" relname="joint-list">简称 DEV ) ， // DEV for short),</segment>
+		<segment id="120" parent="436" relname="joint-list">( duck embryo vaccine // ( duck embryo vaccine</segment>
+		<segment id="121" parent="436" relname="joint-list">简称 DEV ) ， // DEV for short ) ,</segment>
 		<segment id="122" parent="335" relname="same-unit">该 疫苗 // the vaccine</segment>
 		<segment id="123" parent="333" relname="same-unit">通过 // pass</segment>
 		<segment id="124" parent="125" relname="elaboration-attribute">在 受孕 鸭蛋 里 传播 的 // Spread in the egg of a pregnant duck</segment>
 		<segment id="125" parent="332" relname="span">病毒 // Virus</segment>
 		<segment id="126" parent="334" relname="span">制备 // preparation</segment>
 		<segment id="127" parent="335" relname="explanation-evidence">-LSB- 7 -RSB- -LSB- 8 -RSB- 。 // -LSB- 7 -RSB- -LSB- 8 -RSB- .</segment>
-		<segment id="128" parent="337" relname="joint-list">然而 ， DEV 不如 脑 组织 疫苗 的 免疫 原性 强 ， // However, DEV is not as immunogenic as brain tissue vaccines,</segment>
-		<segment id="129" parent="337" relname="joint-list">并不 总是 能 预防 狂犬病 。 // Rabies is not always prevented.</segment>
+		<segment id="128" parent="337" relname="joint-list">然而 ， DEV 不如 脑 组织 疫苗 的 免疫 原性 强 ， // However , DEV is not as immunogenic as brain tissue vaccines ,</segment>
+		<segment id="129" parent="337" relname="joint-list">并不 总是 能 预防 狂犬病 。 // Rabies is not always prevented .</segment>
 		<segment id="130" parent="340" relname="same-unit">瑞士 血清 和 疫苗 研究所 随后 // The Swiss Serum and Vaccine Institute then</segment>
 		<segment id="131" parent="338" relname="span">通过 引入 纯化 的 DEV // Purified DEV by introduction</segment>
-		<segment id="132" parent="131" relname="restatement-partial">( PDEV ) // (PDEV)</segment>
-		<segment id="133" parent="339" relname="span">改善 了 DEV ， // Improved DEV,</segment>
-		<segment id="134" parent="135" relname="causal-cause">PDEV 含有 约 1% 的 DEV 蛋白质 ， // PDEV contains about 1% DEV protein,</segment>
+		<segment id="132" parent="131" relname="restatement-partial">( PDEV ) // ( PDEV )</segment>
+		<segment id="133" parent="339" relname="span">改善 了 DEV ， // Improved DEV ,</segment>
+		<segment id="134" parent="135" relname="causal-cause">PDEV 含有 约 1% 的 DEV 蛋白质 ， // PDEV contains about 1 % DEV protein ,</segment>
 		<segment id="135" parent="341" relname="span">因此 降低 了 过敏 反应 的 风险 // Thus reducing the risk of allergic reactions</segment>
 		<segment id="136" parent="342" relname="explanation-evidence">-LSB- 9 -RSB- -LSB- 10 -RSB- 。 // -LSB- 9 -RSB- -LSB- 10 -RSB- .</segment>
 		<segment id="137" parent="138" relname="elaboration-attribute">密度 梯度 超速 离心法 产生 的 // produced by density gradient ultracentrifugation</segment>
-		<segment id="138" parent="346" relname="span">病毒 浓度 大幅度 增加 了 疫苗 的 有效性 和 // The virus concentration greatly increases the vaccine's effectiveness and</segment>
+		<segment id="138" parent="346" relname="span">病毒 浓度 大幅度 增加 了 疫苗 的 有效性 和 // The virus concentration greatly increases the vaccine 's effectiveness and</segment>
 		<segment id="139" parent="140" relname="elaboration-attribute">其 引起 人类 病毒 中和 抗体 应答 反应 的 // It elicits a human virus neutralizing antibody response</segment>
 		<segment id="140" parent="345" relname="span">能力 。 // ability .</segment>
 		<segment id="141" parent="348" relname="joint-list">PDEV 至今 仍 在 生产 ， // PDEVs are still in production today ,</segment>
 		<segment id="142" parent="348" relname="joint-list">并 用于 全球 人类 的 疫苗 接种 。 // and used to vaccinate people around the world .</segment>
-		<segment id="143" parent="434" relname="organization-heading">4. 细胞 培养 疫苗 // 4. Cell Culture Vaccines</segment>
-		<segment id="144" parent="361" relname="organization-preparation">细胞 培养 狂犬病 疫苗 作为 一 种 新 的 发展 逐渐 蔓延 。 // The cell culture rabies vaccine is spreading gradually as a new development .</segment>
+		<segment id="143" parent="434" relname="organization-heading">4. 细胞 培养 疫苗 // 4 . Cell Culture Vaccines</segment>
+		<segment id="144" parent="361" relname="organization-preparation">细胞 培养 狂犬病 疫苗 作为 一 种 新 的 发展 逐渐 蔓延 。 // The cell culture rabies vaccine is spreading as a new development .</segment>
 		<segment id="145" parent="355" relname="same-unit">第一 次 组织 培养 疫苗 来自 // The first tissue culture vaccine came from</segment>
 		<segment id="146" parent="147" relname="elaboration-attribute">生长 在 仓鼠 肾 细胞 的 // grown in hamster kidney cells</segment>
 		<segment id="147" parent="354" relname="span">病毒 // Virus</segment>
 		<segment id="148" parent="355" relname="explanation-evidence">-LSB- 10 -RSB- -LSB- 11 -RSB- 。 // -LSB- 10 -RSB- -LSB- 11 -RSB- .</segment>
 		<segment id="149" parent="357" relname="span">仓鼠 肾 细胞 狂犬病 疫苗 // hamster kidney cell rabies vaccine</segment>
 		<segment id="150" parent="149" relname="restatement-partial">( PHKCV ) // ( PHKCV )</segment>
-		<segment id="151" parent="358" relname="same-unit">是 在 莫斯科 开发 的 ， // was developed in Moscow,</segment>
-		<segment id="152" parent="359" relname="joint-list">现在 批准 在 中国 使用 和 生产 。 // Now approved for use and production in China.</segment>
+		<segment id="151" parent="358" relname="same-unit">是 在 莫斯科 开发 的 ， // was developed in Moscow ,</segment>
+		<segment id="152" parent="359" relname="joint-list">现在 批准 在 中国 使用 和 生产 。 // Now approved for use and production in China .</segment>
 		<segment id="153" parent="154" relname="elaboration-attribute">紧随 其 后 的 // followed by</segment>
 		<segment id="154" parent="362" relname="span">狂犬 病毒 固定 株 是 在 人类 二倍体 细胞 株 中 生长 // The rabies virus fixed strain is grown in a human diploid cell line</segment>
 		<segment id="155" parent="362" relname="explanation-evidence">-LSB- 12 -RSB- 。 // -LSB- 12 -RSB- .</segment>
-		<segment id="156" parent="364" relname="joint-sequence">最初 使用 肺 细胞 株 WI-38 ， // Initially using the lung cell line WI-38,</segment>
-		<segment id="157" parent="367" relname="span">但 随后 转用 MRC-5 细胞 株 ， // But then switched to MRC-5 cell line,</segment>
+		<segment id="156" parent="364" relname="joint-sequence">最初 使用 肺 细胞 株 WI-38 ， // Initially using the lung cell line WI-38 ,</segment>
+		<segment id="157" parent="367" relname="span">但 随后 转用 MRC-5 细胞 株 ， // But then switched to MRC-5 cell line ,</segment>
 		<segment id="158" parent="365" relname="span">该 细胞 株 促使 了 1970年代 中期 人类 二倍体 细胞 疫苗 // This cell line prompted the mid-1970s human diploid cell vaccine</segment>
-		<segment id="159" parent="158" relname="restatement-partial">( HDCV ) // (HDCV)</segment>
+		<segment id="159" parent="158" relname="restatement-partial">( HDCV ) // ( HDCV )</segment>
 		<segment id="160" parent="366" relname="same-unit">的 发展 和 许可 。 // development and licensing .</segment>
-		<segment id="161" parent="369" relname="span">然后 Pitman-Moore 狂犬病 病毒 株 适应 了 WI-38 // The Pitman-Moore rabies virus strain was then adapted to WI-38</segment>
+		<segment id="161" parent="369" relname="span">然后 Pitman-Moore 狂犬病 病毒 株 适应 了 WI-38 // The Pitman - Moore rabies virus strain was then adapted to WI-38</segment>
 		<segment id="162" parent="161" relname="explanation-evidence">-LSB- 13 -RSB- ， // -LSB- 13 -RSB- ,</segment>
-		<segment id="163" parent="370" relname="joint-list">自由 病毒 被 β- 丙内酯 灭活 ， // Free virus is inactivated by β-propiolactone,</segment>
+		<segment id="163" parent="370" relname="joint-list">自由 病毒 被 β- 丙内酯 灭活 ， // Free virus is inactivated by β - propiolactone ,</segment>
 		<segment id="164" parent="370" relname="joint-list">超速 离心 浓缩 // ultracentrifugation concentration</segment>
 		<segment id="165" parent="370" relname="explanation-evidence">-LSB- 14 -RSB- 。 // -LSB- 14 -RSB- .</segment>
 		<segment id="166" parent="373" relname="span">人类 二倍体 细胞 疫苗 // human diploid cell vaccine</segment>
-		<segment id="167" parent="166" relname="restatement-partial">( HDCV ) // (HDCV)</segment>
+		<segment id="167" parent="166" relname="restatement-partial">( HDCV ) // ( HDCV )</segment>
 		<segment id="168" parent="374" relname="same-unit">比 在 那 段 时间 其他 所有 的 疫苗 更 好 地 诱导 了 动物 和 人类 免疫 反应 // Induces immune responses in animals and humans better than all other vaccines of that time</segment>
 		<segment id="169" parent="374" relname="explanation-evidence">-LSB- 15 -RSB- -LSB- 16 -RSB- 。 // -LSB- 15 -RSB- -LSB- 16 -RSB- .</segment>
 		<segment id="170" parent="387" relname="joint-list">接种 HDCV 不仅 产生 更 高 的 抗体 水平 ， // Vaccination with HDCV not only produces higher antibody levels ,</segment>
 		<segment id="171" parent="386" relname="same-unit">而且 // and</segment>
 		<segment id="172" parent="173" relname="context-circumstance">接种 疫苗 后 // after vaccination</segment>
-		<segment id="173" parent="385" relname="span">抗体 出现 的 更 早 。 // Antibodies appeared earlier.</segment>
-		<segment id="174" parent="389" relname="attribution-positive">使用 这 种 疫苗 ， 可能 首 次 表明 // With this vaccine, it may be possible for the first time to show</segment>
+		<segment id="173" parent="385" relname="span">抗体 出现 的 更 早 。 // Antibodies appeared earlier .</segment>
+		<segment id="174" parent="389" relname="attribution-positive">使用 这 种 疫苗 ， 可能 首 次 表明 // With this vaccine , it may be possible for the first time to show</segment>
 		<segment id="175" parent="388" relname="context-circumstance">恶性 病毒 感染 几 个 小时 后 // A few hours after a vicious virus infection</segment>
 		<segment id="176" parent="388" relname="joint-list">疫苗 的 注射 可以 保护 动物 // Vaccine injection can protect animals</segment>
 		<segment id="177" parent="388" relname="joint-list">免于 狂犬病 // free from rabies</segment>
 		<segment id="178" parent="390" relname="explanation-evidence">-LSB- 17 -RSB- 。 // -LSB- 17 -RSB- .</segment>
-		<segment id="179" parent="396" relname="context-circumstance">自 那时 起 ， // Since then,</segment>
+		<segment id="179" parent="396" relname="context-circumstance">自 那时 起 ， // Since then ,</segment>
 		<segment id="180" parent="393" relname="same-unit">为了 在 较 低 的 成本 下 生产 // To produce at a lower cost</segment>
 		<segment id="181" parent="182" relname="elaboration-attribute">像 HDCV 类似 效价 的 // Similar to HDCV</segment>
 		<segment id="182" parent="392" relname="span">疫苗 ， // vaccine ,</segment>
 		<segment id="183" parent="395" relname="same-unit">全球 开始 了 一 系列 // The world started a series of</segment>
 		<segment id="184" parent="185" relname="elaboration-attribute">不同 细胞 培养 疫苗 的 // of different cell culture vaccines</segment>
-		<segment id="185" parent="394" relname="span">开发 。 // development.</segment>
+		<segment id="185" parent="394" relname="span">开发 。 // development .</segment>
 		<segment id="186" parent="398" relname="span">狂犬病 吸附 疫苗 // rabies adsorption vaccine</segment>
-		<segment id="187" parent="186" relname="restatement-partial">( RVA ) // (RVA)</segment>
+		<segment id="187" parent="186" relname="restatement-partial">( RVA ) // ( RVA )</segment>
 		<segment id="188" parent="399" relname="same-unit">是 由 // By</segment>
 		<segment id="189" parent="190" relname="elaboration-attribute">已 适应 二倍体 猴肺 成纤维 细胞系 的 // Adapted to a diploid monkey lung fibroblast cell line</segment>
 		<segment id="190" parent="400" relname="span">狂犬病 病毒 株 制备 的 。 // prepared from rabies virus strains .</segment>
-		<segment id="191" parent="401" relname="joint-list">狂犬 病毒 靠 β- 丙内酯 灭活 ， // Rabies virus is inactivated by beta-propiolactone,</segment>
+		<segment id="191" parent="401" relname="joint-list">狂犬 病毒 靠 β- 丙内酯 灭活 ， // Rabies virus is inactivated by beta - propiolactone ,</segment>
 		<segment id="192" parent="401" relname="joint-list">靠 吸附 到 磷酸铝 进行 浓缩 // Concentration by adsorption to aluminum phosphate</segment>
 		<segment id="193" parent="401" relname="explanation-evidence">-LSB- 18 -RSB- -LSB- 19 -RSB- 。 // -LSB- 18 -RSB- -LSB- 19 -RSB- .</segment>
 		<segment id="194" parent="404" relname="span">在 效价 和 安全性 方面 ， 该 疫苗 被 认为 是 等同于 HDCV 的 // The vaccine is considered equivalent to HDCV in terms of potency and safety .</segment>
 		<segment id="195" parent="194" relname="explanation-evidence">-LSB- 20 -RSB- 。 // -LSB- 20 -RSB- .</segment>
 		<segment id="196" parent="406" relname="span">HDCV 的 另 一 种 选择 是 使用 纯化 的 小鸡 胚胎 细胞 // Another option for HDCV is to use purified chick embryo cells</segment>
-		<segment id="197" parent="196" relname="restatement-partial">( PCEC ) // (PCEC)</segment>
+		<segment id="197" parent="196" relname="restatement-partial">( PCEC ) // ( PCEC )</segment>
 		<segment id="198" parent="406" relname="explanation-evidence">-LSB- 21 -RSB- 。 // -LSB- 21 -RSB- .</segment>
 		<segment id="199" parent="416" relname="same-unit">PCECV 是 // PCECV is</segment>
 		<segment id="200" parent="413" relname="same-unit">通过 // pass</segment>
 		<segment id="201" parent="202" relname="elaboration-attribute">生长 在 原始 的 小鸡 胚胎 成纤维 细胞 的 // Growing in Primitive Chick Embryo Fibroblasts</segment>
 		<segment id="202" parent="408" relname="span">狂犬 病毒 毒株 // rabies virus strain</segment>
 		<segment id="203" parent="414" relname="span">制备 的 // prepared</segment>
-		<segment id="204" parent="415" relname="span">鸡胚 疫苗 。 // Chicken embryo vaccine.</segment>
-		<segment id="205" parent="417" relname="joint-list">病毒 用 β- 丙内酯 灭活 ， // The virus is inactivated with beta-propiolactone,</segment>
+		<segment id="204" parent="415" relname="span">鸡胚 疫苗 。 // Chicken embryo vaccine .</segment>
+		<segment id="205" parent="417" relname="joint-list">病毒 用 β- 丙内酯 灭活 ， // The virus is inactivated with beta - propiolactone ,</segment>
 		<segment id="206" parent="417" relname="joint-list">蔗糖 梯度 区域 离心 // Sucrose gradient regional centrifugation</segment>
-		<segment id="207" parent="417" relname="joint-list">纯化 浓缩 。 // Purified and concentrated.</segment>
+		<segment id="207" parent="417" relname="joint-list">纯化 浓缩 。 // Purified and concentrated .</segment>
 		<segment id="208" parent="209" relname="attribution-positive">对比 HDCV 试验 显示 // Comparative HDCV test shows</segment>
 		<segment id="209" parent="421" relname="span">两 种 疫苗 之间 没有 显著 差异 // No significant difference between the two vaccines</segment>
 		<segment id="210" parent="421" relname="explanation-evidence">-LSB- 22 -RSB- -LSB- 23 -RSB- 。 // -LSB- 22 -RSB- -LSB- 23 -RSB- .</segment>
 		<segment id="211" parent="424" relname="joint-list">现在 ， 这些 疫苗 在 全球 范围 内 得到 了 成功 应用 。 // Now , these vaccines are being used successfully around the world .</segment>
-		<segment id="212" parent="425" relname="span">一 个 连续 的 非洲 绿猴 肾 细胞系 Vero 被 用于 生产 另 一 个 狂犬病 疫苗 // A serial African green monkey kidney cell line, Vero, was used to produce another rabies vaccine</segment>
+		<segment id="212" parent="425" relname="span">一 个 连续 的 非洲 绿猴 肾 细胞系 Vero 被 用于 生产 另 一 个 狂犬病 疫苗 // A serial African green monkey kidney cell line , Vero , was used to produce another rabies vaccine</segment>
 		<segment id="213" parent="212" relname="explanation-evidence">-LSB- 24 -RSB- 。 // -LSB- 24 -RSB- .</segment>
 		<segment id="214" parent="382" relname="span">纯化 的 Vero 细胞 狂犬病 疫苗 // Purified Vero cell rabies vaccine</segment>
 		<segment id="215" parent="214" relname="restatement-partial">( PVRV ) // ( PVRV )</segment>
 		<segment id="216" parent="383" relname="same-unit">是 // Yes</segment>
 		<segment id="217" parent="218" relname="elaboration-attribute">基于 狂犬 病毒 的 // rabies virus based</segment>
-		<segment id="218" parent="384" relname="span">Pitmanman-Moore 毒株 ， // Pitmanman-Moore strain,</segment>
-		<segment id="219" parent="426" relname="joint-list">该 毒株 用 β- 丙内酯 灭活 ， // The strain was inactivated with β-propiolactone,</segment>
+		<segment id="218" parent="384" relname="span">Pitmanman-Moore 毒株 ， // Pitmanman - Moore strain ,</segment>
+		<segment id="219" parent="426" relname="joint-list">该 毒株 用 β- 丙内酯 灭活 ， // The strain was inactivated with β - propiolactone ,</segment>
 		<segment id="220" parent="221" relname="mode-means">通过 离心 及 超滤 // by centrifugation and ultrafiltration</segment>
 		<segment id="221" parent="381" relname="span">进行 浓缩 纯化 。 // Concentrate and purify .</segment>
 		<segment id="222" parent="223" relname="elaboration-attribute">初始 和 增强 接种 后 的 // After initial and booster vaccination</segment>
-		<segment id="223" parent="379" relname="span">抗体 反应 与 // Antibody response and</segment>
+		<segment id="223" parent="379" relname="span">抗体 反应 与 // antibody response and</segment>
 		<segment id="224" parent="225" relname="context-circumstance">接种 HDCV 之后 // After HDCV vaccination</segment>
 		<segment id="225" parent="376" relname="span">的 // of</segment>
 		<segment id="226" parent="377" relname="span">抗体 反应 可以 相 媲美 // Antibody responses are comparable</segment>
 		<segment id="227" parent="378" relname="explanation-evidence">-LSB- 25 -RSB- 。 // -LSB- 25 -RSB- .</segment>
-		<segment id="228" parent="429" relname="joint-list">在 欧洲 和 许多 发展中 国家 ， PVRV 许可 用于 人类 。 // In Europe and many developing countries, PVRV is licensed for human use.</segment>
+		<segment id="228" parent="429" relname="joint-list">在 欧洲 和 许多 发展中 国家 ， PVRV 许可 用于 人类 。 // In Europe and many developing countries , PVRV is licensed for human use .</segment>
 		<group id="229" type="span" parent="230" relname="same-unit"/>
 		<group id="230" type="multinuc" parent="231" relname="joint-list"/>
 		<group id="231" type="multinuc" parent="262" relname="span"/>

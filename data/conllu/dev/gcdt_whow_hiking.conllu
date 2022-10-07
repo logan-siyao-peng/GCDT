@@ -1,7 +1,22 @@
+# newdoc id = gcdt_whow_hiking
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C
+# meta::speakerCount = 0
+# meta::title = 如何徒步旅行
+# meta::shortTitle = hiking
+# meta::author = Thomas Churchill
+# meta::genre = whow
+# meta::partition = dev
+# sent_id = gcdt_whow_hiking-1
+# text = 如何徒步旅行
 1	如何	如何	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	徒步	徒步	VV	VV	_	3	compound:vc	_	start_char=3|end_char=5
 3	旅行	旅行	VV	VV	_	0	root	_	start_char=6|end_char=8
 
+# sent_id = gcdt_whow_hiking-2
+# text = 很少有什么事情是比到美丽的户外去徒步旅行更愉快的了。
 1	很少	很少	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	什么	什么	DT	DT	_	4	det	_	start_char=5|end_char=7
@@ -21,6 +36,8 @@
 17	了	了	SP	SP	_	18	discourse	_	start_char=40|end_char=41
 18	。	。	PU	PU	_	2	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_hiking-3
+# text = 太阳温暖地照耀在你的肩头，你置身于大自然之中，眼前会出现令人难以置信的景色——连小径都会成为真正的天堂。
 1	太阳	太阳	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	温暖	温暖	VA	VA	_	4	advmod:dvp	_	start_char=3|end_char=5
 3	地	地	DEV	DEV	_	2	mark	_	start_char=6|end_char=7
@@ -54,6 +71,8 @@
 31	天堂	天堂	NN	NN	_	28	dobj	_	start_char=79|end_char=81
 32	。	。	PU	PU	_	4	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_whow_hiking-4
+# text = 然而，如果没有做好正确的准备的话，徒步旅行也会很危险。
 1	然而	然而	AD	AD	_	16	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
 3	如果	如果	CS	CS	_	5	advmod	_	start_char=5|end_char=7
@@ -72,6 +91,8 @@
 16	危险	危险	VA	VA	_	0	root	_	start_char=39|end_char=41
 17	。	。	PU	PU	_	16	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_hiking-5
+# text = 为徒步旅行做好准备，知道一旦上路你要做什么，这些都是相当重要的。
 1	为	为	P	P	_	3	case	_	start_char=0|end_char=1
 2	徒步	徒步	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	旅行	旅行	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -94,9 +115,13 @@
 20	的	的	SP	SP	_	19	discourse	_	start_char=49|end_char=50
 21	。	。	PU	PU	_	4	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_hiking-6
+# text = 警告：
 1	警告	警告	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_hiking-7
+# text = 由于新冠肺炎疫情的缘故，许多徒步路线已经关闭，以减缓疾病的传播。
 1	由于	由于	P	P	_	6	case	_	start_char=0|end_char=2
 2	新冠	新冠	NR	NR	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	肺炎	肺炎	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -117,6 +142,8 @@
 18	传播	传播	NN	NN	_	15	dobj	_	start_char=46|end_char=48
 19	。	。	PU	PU	_	12	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_hiking-8
+# text = 上网查询你想去的远足路线是否开放，以及任何关于路线的最新资讯。
 1	上网	上网	VV	VV	_	2	compound:vc	_	start_char=0|end_char=2
 2	查询	查询	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	你	你	PN	PN	_	4	nsubj	_	start_char=6|end_char=7
@@ -137,15 +164,21 @@
 18	资讯	资讯	NN	NN	_	10	nmod:prep	_	start_char=45|end_char=47
 19	。	。	PU	PU	_	2	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_hiking-9
+# text = 部分1
 1	部分	部分	CD	CD	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_hiking-10
+# text = 为徒步旅行做准备
 1	为	为	P	P	_	3	case	_	start_char=0|end_char=1
 2	徒步	徒步	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	旅行	旅行	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
 4	做	做	VV	VV	_	0	root	_	start_char=8|end_char=9
 5	准备	准备	NN	NN	_	4	dobj	_	start_char=10|end_char=12
 
+# sent_id = gcdt_whow_hiking-11
+# text = 1 购买当地旅游指南。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	购买	购买	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	当地	当地	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -153,6 +186,8 @@
 5	指南	指南	NN	NN	_	2	dobj	_	start_char=11|end_char=13
 6	。	。	PU	PU	_	2	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_whow_hiking-12
+# text = 要找到适合你的远足行程，远足旅行指南是必不可少的。
 1	要	要	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	找到	找到	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	适合	适合	VV	VV	_	7	acl	_	start_char=5|end_char=7
@@ -169,6 +204,8 @@
 14	的	的	SP	SP	_	13	discourse	_	start_char=36|end_char=37
 15	。	。	PU	PU	_	2	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_hiking-13
+# text = 你周围所有的自然景观都能在当地旅游指南中找到——从在不同季节远足时能看到的野花，到头顶飞过的鸟儿的种类。
 1	你	你	PN	PN	_	2	nmod:poss	_	start_char=0|end_char=1
 2	周围	周围	NN	NN	_	6	dep	_	start_char=2|end_char=4
 3	所有	所有	DT	DT	_	6	dep	_	start_char=5|end_char=7
@@ -204,6 +241,8 @@
 33	种类	种类	NN	NN	_	14	dobj	_	start_char=81|end_char=83
 34	。	。	PU	PU	_	14	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_whow_hiking-14
+# text = 你应该能在自己所在的当地书店、户外探险店、或是你所在区域中公园的游客中心买到当地远足指南。
 1	你	你	PN	PN	_	25	nsubj	_	start_char=0|end_char=1
 2	应该	应该	VV	VV	_	25	aux:modal	_	start_char=2|end_char=4
 3	能	能	VV	VV	_	25	aux:modal	_	start_char=5|end_char=6
@@ -234,12 +273,16 @@
 28	指南	指南	NN	NN	_	25	dobj	_	start_char=69|end_char=71
 29	。	。	PU	PU	_	25	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_whow_hiking-15
+# text = 网上也能够买到。
 1	网上	网上	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	能够	能够	VV	VV	_	4	aux:modal	_	start_char=5|end_char=7
 4	买到	买到	VV	VV	_	0	root	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	4	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_hiking-16
+# text = 你也可以在网上搜索当地的徒步旅行。
 1	你	你	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	6	aux:modal	_	start_char=4|end_char=6
@@ -252,6 +295,8 @@
 10	旅行	旅行	NN	NN	_	6	dobj	_	start_char=23|end_char=25
 11	。	。	PU	PU	_	6	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_whow_hiking-17
+# text = 即使你住在像旧金山一样的中心城市，你也很可能会发现有一大堆网站详细介绍了你周边能够开展的很棒的远足。
 1	即使	即使	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	住在	住在	VV	VV	_	16	dep	_	start_char=5|end_char=7
@@ -286,6 +331,8 @@
 32	远足	远足	NN	NN	_	22	dobj	_	start_char=78|end_char=80
 33	。	。	PU	PU	_	16	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_whow_hiking-18
+# text = （如果你确实住在旧金山，还是找一找马林海岬周边的吧！）
 1	（	（	PU	PU	_	9	punct	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	5	advmod	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -304,9 +351,13 @@
 16	吧！	吧！	NN	NN	_	9	dobj	_	start_char=39|end_char=41
 17	）	）	PU	PU	_	9	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_hiking-19
+# text = 专家提示
 1	专家	专家	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	提示	提示	VV	VV	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_whow_hiking-20
+# text = 尽管纸质地图作为安全防护措施很重要，但科技的发展让徒步旅行变得更轻松。
 1	尽管	尽管	CS	CS	_	9	advmod	_	start_char=0|end_char=2
 2	纸质	纸质	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	地图	地图	NN	NN	_	9	nsubj	_	start_char=6|end_char=8
@@ -329,6 +380,8 @@
 20	轻松	轻松	VA	VA	_	18	ccomp	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	15	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_hiking-21
+# text = 徒步和背包旅行领队Thomas Churchill介绍说： “我建议尝试新的路线之前，从应用商店下载Topomaps+或类似的应用。
 1	徒步	徒步	NN	NN	_	5	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	5	cc	_	start_char=3|end_char=4
 3	背包	背包	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -359,6 +412,8 @@
 28	应用	应用	NN	NN	_	23	dobj	_	start_char=88|end_char=90
 29	。	。	PU	PU	_	9	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_whow_hiking-22
+# text = 你可以通过这些应用下载任何路线的详细徒步地图，并且就算离线也能查看地图位置。”
 1	你	你	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	6	aux:modal	_	start_char=2|end_char=4
 3	通过	通过	P	P	_	5	case	_	start_char=5|end_char=7
@@ -383,6 +438,8 @@
 22	。	。	PU	PU	_	6	punct	_	start_char=58|end_char=59
 23	”	”	PU	PU	_	6	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_whow_hiking-23
+# text = 2 从小型旅行开始。
 1	2	2	CD	CD	_	5	dep	_	start_char=0|end_char=1
 2	从	从	P	P	_	4	case	_	start_char=2|end_char=3
 3	小型	小型	JJ	JJ	_	4	amod	_	start_char=4|end_char=6
@@ -390,6 +447,8 @@
 5	开始	开始	VV	VV	_	0	root	_	start_char=10|end_char=12
 6	。	。	PU	PU	_	5	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_whow_hiking-24
+# text = 如果你第一次进行远足，你应当选一个相对简单的旅行。
 1	如果	如果	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	5	nsubj	_	start_char=3|end_char=4
 3	第一	第一	OD	OD	_	5	dep	_	start_char=5|end_char=7
@@ -408,6 +467,8 @@
 16	旅行	旅行	NN	NN	_	10	dobj	_	start_char=37|end_char=39
 17	。	。	PU	PU	_	10	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_hiking-25
+# text = 根据自己的能力，选一个距离在可控范围内的短日程旅行。
 1	根据	根据	P	P	_	4	case	_	start_char=0|end_char=2
 2	自己	自己	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -427,6 +488,8 @@
 17	旅行	旅行	NN	NN	_	6	dobj	_	start_char=39|end_char=41
 18	。	。	PU	PU	_	6	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_hiking-26
+# text = 如果很少出门亲近大自然的话，你可能会坚持选择一段一到两公里的顺畅的旅途。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	很少	很少	AD	AD	_	4	advmod	_	start_char=3|end_char=5
 3	出门	出门	VV	VV	_	4	xcomp	_	start_char=6|end_char=8
@@ -451,6 +514,8 @@
 22	旅途	旅途	NN	NN	_	12	dobj	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	11	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_hiking-27
+# text = 对于其他那些经常锻炼的人来说，简单的五公里往返旅程可能更符合你的风格——这完全取决于你自己。
 1	对于	对于	P	P	_	7	case	_	start_char=0|end_char=2
 2	其他	其他	DT	DT	_	7	det	_	start_char=3|end_char=5
 3	那些	那些	DT	DT	_	7	det	_	start_char=6|end_char=8
@@ -480,6 +545,8 @@
 27	自己	自己	PN	PN	_	25	dobj	_	start_char=69|end_char=71
 28	。	。	PU	PU	_	18	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_whow_hiking-28
+# text = 第一次外出，只要不把自己弄得太累就好。-LSB-1-RSB-
 1	第一	第一	OD	OD	_	3	dep	_	start_char=0|end_char=2
 2	次	次	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	外出	外出	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -498,12 +565,16 @@
 16	1	1	CD	CD	_	17	dep	_	start_char=39|end_char=40
 17	-RSB-	-RSB-	X	X	_	3	dep	_	start_char=41|end_char=46
 
+# sent_id = gcdt_whow_hiking-29
+# text = 3 带大量水。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	带	带	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	大量	大量	CD	CD	_	4	dep	_	start_char=4|end_char=6
 4	水	水	NN	NN	_	2	dobj	_	start_char=7|end_char=8
 5	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_whow_hiking-30
+# text = 在学习如何安全地进行徒步旅行中，很重要的一点是要带适量的水。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	学习	学习	NN	NN	_	6	nsubj	_	start_char=2|end_char=4
 3	如何	如何	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -527,6 +598,8 @@
 21	水	水	NN	NN	_	18	dobj	_	start_char=48|end_char=49
 22	。	。	PU	PU	_	18	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_hiking-31
+# text = 保持水分充足相当重要，因此，在你出门远足之前，一定要喝大量的水。
 1	保持	保持	VV	VV	_	17	dep	_	start_char=0|end_char=2
 2	水分	水分	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	充足	充足	VA	VA	_	1	ccomp	_	start_char=6|end_char=8
@@ -549,6 +622,8 @@
 20	水	水	NN	NN	_	17	dobj	_	start_char=49|end_char=50
 21	。	。	PU	PU	_	17	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_hiking-32
+# text = 带上比你认为自己需要的更多的水——带过多的水比起没带够水而脱水要好多了。
 1	带上	带上	VV	VV	_	25	dep	_	start_char=0|end_char=2
 2	比	比	P	P	_	3	case	_	start_char=3|end_char=4
 3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -578,6 +653,8 @@
 27	了	了	SP	SP	_	28	discourse	_	start_char=60|end_char=61
 28	。	。	PU	PU	_	0	root	_	start_char=62|end_char=63
 
+# sent_id = gcdt_whow_hiking-33
+# text = 告诉你一个不错的经验法则：每人每两小时需要摄入至少一升的水。-LSB-2-RSB-
 1	告诉	告诉	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	1	dobj	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	8	nummod	_	start_char=5|end_char=6
@@ -604,12 +681,16 @@
 24	2	2	CD	CD	_	25	dep	_	start_char=58|end_char=59
 25	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=60|end_char=65
 
+# sent_id = gcdt_whow_hiking-34
+# text = 4 收拾好背包。
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	收拾	收拾	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	好	好	JJ	JJ	_	4	amod	_	start_char=5|end_char=6
 4	背包	背包	NN	NN	_	2	dobj	_	start_char=7|end_char=9
 5	。	。	PU	PU	_	2	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_hiking-35
+# text = 根据远足的长短，你需要考虑带上不同的东西。
 1	根据	根据	P	P	_	4	case	_	start_char=0|end_char=2
 2	远足	远足	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -624,6 +705,8 @@
 12	东西	东西	NN	NN	_	9	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	8	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_hiking-36
+# text = 不过，通常来说，不论旅途的长短，你都需要带上一些能够补充能量的零食（带上什锦干果肯定不会错）、一把小刀（瑞士军刀是很好的选择）、指南针以及地图、手电筒、火柴或是打火机，以及额外的衣物（以防天气突变。）-LSB-3-RSB-
 1	不过	不过	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	通常来说	通常来说	AD	AD	_	13	advmod	_	start_char=5|end_char=9
@@ -690,6 +773,8 @@
 64	3	3	CD	CD	_	13	dep	_	start_char=168|end_char=169
 65	-RSB-	-RSB-	PU	PU	_	13	punct	_	start_char=170|end_char=175
 
+# sent_id = gcdt_whow_hiking-37
+# text = 你也可以考虑带上急救箱、指南针、望远镜等等。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=4|end_char=6
@@ -703,6 +788,8 @@
 11	等等	等等	ETC	ETC	_	10	etc	_	start_char=29|end_char=31
 12	。	。	PU	PU	_	4	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_hiking-38
+# text = 只要记住，不要让自己被不必要的东西压垮。
 1	只要	只要	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	记住	记住	VV	VV	_	6	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -718,12 +805,16 @@
 13	压垮	压垮	VV	VV	_	6	ccomp	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	6	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_hiking-39
+# text = 但是要常备水。
 1	但是	但是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
 3	常备	常备	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	水	水	NN	NN	_	3	dobj	_	start_char=8|end_char=9
 5	。	。	PU	PU	_	3	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_hiking-40
+# text = 如果你要在新冠肺炎期间去徒步旅行，一定要戴好口罩；只要路上有其他人同行，你就最好戴上口罩。
 1	如果	如果	CS	CS	_	10	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	10	nsubj	_	start_char=3|end_char=4
 3	要	要	VV	VV	_	10	xcomp	_	start_char=5|end_char=6
@@ -754,6 +845,8 @@
 28	口罩	口罩	NN	NN	_	27	dobj	_	start_char=69|end_char=71
 29	。	。	PU	PU	_	27	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_whow_hiking-41
+# text = 5 避免被太阳晒伤。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	避免	避免	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	被	被	LB	LB	_	5	auxpass	_	start_char=5|end_char=6
@@ -761,6 +854,8 @@
 5	晒伤	晒伤	VV	VV	_	2	ccomp	_	start_char=10|end_char=12
 6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_whow_hiking-42
+# text = 除了装在包里的其他东西，你还需要带上能让你免受晒伤的物品。
 1	除了	除了	P	P	_	8	case	_	start_char=0|end_char=2
 2	装	装	VV	VV	_	8	acl	_	start_char=3|end_char=4
 3	在	在	P	P	_	4	case	_	start_char=5|end_char=6
@@ -783,6 +878,8 @@
 20	物品	物品	NN	NN	_	13	dobj	_	start_char=45|end_char=47
 21	。	。	PU	PU	_	13	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_hiking-43
+# text = 包括防晒霜、帽子、太阳镜。
 1	包括	包括	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	防晒霜	防晒霜	NN	NN	_	6	conj	_	start_char=3|end_char=6
 3	、	、	PU	PU	_	6	punct	_	start_char=7|end_char=8
@@ -791,6 +888,8 @@
 6	太阳镜	太阳镜	NN	NN	_	1	dobj	_	start_char=14|end_char=17
 7	。	。	PU	PU	_	1	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_hiking-44
+# text = 中了太阳毒或者得了皮肤癌可不是闹着玩的，所以，尽可能地让自己免受太阳的强烈辐射。
 1	中	中	VV	VV	_	20	dep	_	start_char=0|end_char=1
 2	了	了	AS	AS	_	1	aux:asp	_	start_char=2|end_char=3
 3	太阳毒	太阳毒	NN	NN	_	1	dobj	_	start_char=4|end_char=7
@@ -819,6 +918,8 @@
 26	辐射	辐射	NN	NN	_	22	dobj	_	start_char=62|end_char=64
 27	。	。	PU	PU	_	20	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_whow_hiking-45
+# text = 6 穿合适的鞋。
 1	6	6	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	穿	穿	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	合适	合适	JJ	JJ	_	5	amod	_	start_char=4|end_char=6
@@ -826,6 +927,8 @@
 5	鞋	鞋	NN	NN	_	2	dobj	_	start_char=9|end_char=10
 6	。	。	PU	PU	_	2	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_hiking-46
+# text = 穿上便于走路的鞋很重要。
 1	穿上	穿上	VV	VV	_	7	dep	_	start_char=0|end_char=2
 2	便于	便于	VV	VV	_	5	acl	_	start_char=3|end_char=5
 3	走路	走路	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
@@ -835,6 +938,8 @@
 7	重要	重要	VA	VA	_	0	root	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	7	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_hiking-47
+# text = 别穿人字拖，穿系带鞋，这样能更好地支撑脚底。
 1	别	别	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	穿	穿	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	人字拖	人字拖	NN	NN	_	2	dobj	_	start_char=4|end_char=7
@@ -851,6 +956,8 @@
 14	脚底	脚底	NN	NN	_	13	dobj	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	13	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_whow_hiking-48
+# text = 如果可以的话，穿徒步鞋或是越野鞋——面对崎岖的地形，这些鞋是最好的选择。
 1	如果	如果	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	可以	可以	VV	VV	_	21	dep	_	start_char=3|end_char=5
 3	的话	的话	SP	SP	_	2	discourse	_	start_char=6|end_char=8
@@ -874,6 +981,8 @@
 21	选择	选择	NN	NN	_	0	root	_	start_char=53|end_char=55
 22	。	。	PU	PU	_	21	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_hiking-49
+# text = 如果你有一双以前从来没穿过的新鞋，在出行之前，试着让它跟你的脚磨合好。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	dep	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	18	dep	_	start_char=5|end_char=6
@@ -903,6 +1012,8 @@
 27	好	好	VA	VA	_	26	advmod:rcomp	_	start_char=59|end_char=60
 28	。	。	PU	PU	_	18	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_hiking-50
+# text = 否则的话，你的脚上可能会被磨出讨厌的水泡。
 1	否则	否则	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	的话	的话	SP	SP	_	11	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	11	punct	_	start_char=6|end_char=7
@@ -919,6 +1030,8 @@
 14	水泡	水泡	NN	NN	_	11	dobj	_	start_char=31|end_char=33
 15	。	。	PU	PU	_	11	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_hiking-51
+# text = 7 叫上几个朋友或是家人跟你一起。
 1	7	7	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	叫上	叫上	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	几	几	CD	CD	_	7	nummod	_	start_char=5|end_char=6
@@ -931,6 +1044,8 @@
 10	一起	一起	AD	AD	_	2	ccomp	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	2	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_whow_hiking-52
+# text = 初级者在能够独自出行之前，最好是抱团，或者跟有经验的远足者们在一起。
 1	初级者	初级者	NN	NN	_	10	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	5	case	_	start_char=4|end_char=5
 3	能够	能够	VV	VV	_	5	aux:modal	_	start_char=6|end_char=8
@@ -952,6 +1067,8 @@
 19	一起	一起	AD	AD	_	18	advmod	_	start_char=49|end_char=51
 20	。	。	PU	PU	_	10	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_whow_hiking-53
+# text = 这是因为相比跟别人在一起，如果你一个人远足的时候发生了什么事故，你将更难获得帮助。
 1	这	这	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	0	root	_	start_char=2|end_char=3
 3	因为	因为	P	P	_	7	case	_	start_char=4|end_char=6
@@ -982,6 +1099,8 @@
 28	帮助	帮助	NN	NN	_	27	dobj	_	start_char=65|end_char=67
 29	。	。	PU	PU	_	2	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_whow_hiking-54
+# text = 计划好徒步旅行的行程后，叫上你的朋友一块儿，这不仅可以增添乐趣，也是为了安全起见。-LSB-4-RSB-
 1	计划	计划	VV	VV	_	9	dep	_	start_char=0|end_char=2
 2	好	好	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	徒步	徒步	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -1012,6 +1131,8 @@
 28	4	4	CD	CD	_	29	dep	_	start_char=73|end_char=74
 29	-RSB-	-RSB-	NN	NN	_	9	dep	_	start_char=75|end_char=80
 
+# sent_id = gcdt_whow_hiking-55
+# text = 如果你决定一个人远足，至少让其他人知道你要去哪儿，以及你预计什么时候回来。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	决定	决定	VV	VV	_	10	dep	_	start_char=5|end_char=7
@@ -1038,6 +1159,8 @@
 24	回来	回来	VV	VV	_	21	ccomp	_	start_char=57|end_char=59
 25	。	。	PU	PU	_	10	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_whow_hiking-56
+# text = 告诉他们当你结束旅行后，你会联系他们。
 1	告诉	告诉	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	他们	他	PN	PN	_	1	dobj	_	start_char=3|end_char=5
 3	当	当	P	P	_	5	case	_	start_char=6|end_char=7
@@ -1052,6 +1175,8 @@
 12	他们	他	PN	PN	_	11	dobj	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	11	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_hiking-57
+# text = 千万别忘了回来后要联系他们，否则他们可能报警找你。
 1	千万	千万	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	别	别	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	忘	忘	VV	VV	_	8	advcl:loc	_	start_char=5|end_char=6
@@ -1070,6 +1195,8 @@
 16	你	你	PN	PN	_	15	dobj	_	start_char=38|end_char=39
 17	。	。	PU	PU	_	8	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_hiking-58
+# text = 8 了解遇到紧急情况要做什么。
 1	8	8	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	了解	了解	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	遇到	遇到	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1080,6 +1207,8 @@
 8	什么	什么	PN	PN	_	7	dobj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	3	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_hiking-59
+# text = 虽然你的旅程通常会进行得相当顺利，但是也要时常为未知的事物做准备。
 1	虽然	虽然	CS	CS	_	10	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -1103,6 +1232,8 @@
 21	准备	准备	NN	NN	_	20	dobj	_	start_char=50|end_char=52
 22	。	。	PU	PU	_	20	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_hiking-60
+# text = 要随身携带急救箱，还有手机。
 1	要	要	VV	VV	_	3	xcomp	_	start_char=0|end_char=1
 2	随身	随身	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	携带	携带	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1112,6 +1243,8 @@
 7	手机	手机	NN	NN	_	3	dobj	_	start_char=17|end_char=19
 8	。	。	PU	PU	_	3	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_hiking-61
+# text = 时刻准备好，虽然，你可能根本不会到森林里去。
 1	时刻	时刻	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	准备	准备	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	好	好	VA	VA	_	2	ccomp	_	start_char=6|end_char=7
@@ -1129,6 +1262,8 @@
 15	去	去	VV	VV	_	12	conj	_	start_char=34|end_char=35
 16	。	。	PU	PU	_	2	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_whow_hiking-62
+# text = 更多关于野外生存的指导，请参见“如何在野外生存”。
 1	更多	更多	CD	CD	_	6	dep	_	start_char=0|end_char=2
 2	关于	关于	P	P	_	4	case	_	start_char=3|end_char=5
 3	野外	野外	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -1146,12 +1281,18 @@
 15	”	”	PU	PU	_	14	punct	_	start_char=37|end_char=38
 16	。	。	PU	PU	_	9	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_hiking-63
+# text = 部分2
 1	部分	部分	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_hiking-64
+# text = 上路后
 1	上路	上路	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	后	后	LC	LC	_	1	case	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_hiking-65
+# text = 1 从起点标志出发。
 1	1	1	CD	CD	_	5	dep	_	start_char=0|end_char=1
 2	从	从	P	P	_	4	case	_	start_char=2|end_char=3
 3	起点	起点	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1159,6 +1300,8 @@
 5	出发	出发	VV	VV	_	0	root	_	start_char=10|end_char=12
 6	。	。	PU	PU	_	5	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_whow_hiking-66
+# text = 每条路都有一个起始标志——这个标志通常能表示出路名以及到尽头的距离（或是环路的长度。）
 1	每	每	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	条	条	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	路	路	NN	NN	_	5	nsubj	_	start_char=4|end_char=5
@@ -1190,6 +1333,8 @@
 29	。	。	PU	PU	_	5	punct	_	start_char=69|end_char=70
 30	）	）	PU	PU	_	5	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_whow_hiking-67
+# text = 其他像在国家公园内的那些起点标志，会有一张显示所有与你所在的路相连路径的地图，地图上还会标志出徒步旅行时需要留神的其他各种事物。
 1	其他	其他	DT	DT	_	10	det	_	start_char=0|end_char=2
 2	像	像	P	P	_	10	case	_	start_char=3|end_char=4
 3	在	在	P	P	_	5	case	_	start_char=5|end_char=6
@@ -1236,6 +1381,8 @@
 44	事物	事物	NN	NN	_	33	dobj	_	start_char=104|end_char=106
 45	。	。	PU	PU	_	13	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_whow_hiking-68
+# text = 如果你找不到起始路标，可能你没有在正确的位置。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	找	找	VV	VV	_	11	dep	_	start_char=5|end_char=6
@@ -1252,6 +1399,8 @@
 14	位置	位置	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	11	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_whow_hiking-69
+# text = 向别人打听一下方向。
 1	向	向	P	P	_	2	case	_	start_char=0|end_char=1
 2	别人	别人	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
 3	打听	打听	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1259,6 +1408,8 @@
 5	方向	方向	NN	NN	_	3	dobj	_	start_char=11|end_char=13
 6	。	。	PU	PU	_	3	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_whow_hiking-70
+# text = 有些其他路可能没有路标——这一情况会在你的旅行指南上提到。
 1	有些	有些	DT	DT	_	3	det	_	start_char=0|end_char=2
 2	其他	其他	DT	DT	_	3	det	_	start_char=3|end_char=5
 3	路	路	NN	NN	_	5	nsubj	_	start_char=6|end_char=7
@@ -1279,11 +1430,15 @@
 18	提到	提到	VV	VV	_	5	conj	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	5	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_whow_hiking-71
+# text = 2 留意路标。
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	留意	留意	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	路标	路标	NN	NN	_	2	dobj	_	start_char=5|end_char=7
 4	。	。	PU	PU	_	2	punct	_	start_char=8|end_char=9
 
+# sent_id = gcdt_whow_hiking-72
+# text = 当你在户外远足时，势必会碰到交叉路口。
 1	当	当	P	P	_	5	case	_	start_char=0|end_char=1
 2	你	你	PN	PN	_	5	nsubj	_	start_char=2|end_char=3
 3	在	在	P	P	_	4	case	_	start_char=4|end_char=5
@@ -1298,6 +1453,8 @@
 12	路口	路口	NN	NN	_	10	dobj	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	10	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_hiking-73
+# text = 请依照路标上标的路名前往你要去的地方。
 1	请	请	VV	VV	_	8	xcomp	_	start_char=0|end_char=1
 2	依照	依照	P	P	_	7	case	_	start_char=2|end_char=4
 3	路标	路标	NN	NN	_	5	nmod:prep	_	start_char=5|end_char=7
@@ -1313,6 +1470,8 @@
 13	地方	地方	NN	NN	_	8	dobj	_	start_char=28|end_char=30
 14	。	。	PU	PU	_	8	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_hiking-74
+# text = 如果没有路标（这是比较罕见的情况），在地图上查一下，或是找找周围有没有堆石界标。
 1	如果	如果	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	没有	没有	VE	VE	_	16	dep	_	start_char=3|end_char=5
 3	路标	路标	NN	NN	_	2	dobj	_	start_char=6|end_char=8
@@ -1340,6 +1499,8 @@
 25	界标	界标	NN	NN	_	23	dobj	_	start_char=61|end_char=63
 26	。	。	PU	PU	_	16	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_whow_hiking-75
+# text = 堆石界标是用以给远足者们指引正确道路的石堆。
 1	堆石	堆石	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	界标	界标	NN	NN	_	11	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	11	cop	_	start_char=6|end_char=7
@@ -1353,6 +1514,8 @@
 11	石堆	石堆	NN	NN	_	0	root	_	start_char=29|end_char=31
 12	。	。	PU	PU	_	11	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_hiking-76
+# text = 你可能会发现从路边岔开的小岔路。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	可能	可能	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
@@ -1365,6 +1528,8 @@
 10	岔路	岔路	NN	NN	_	4	dobj	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	4	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_whow_hiking-77
+# text = 不要沿着这些岔路走——它们往往是鹿或是森林中其他生物的小道，它们会把你带到未知的地方去。
 1	不	不	AD	AD	_	6	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	6	xcomp	_	start_char=2|end_char=3
 3	沿着	沿着	P	P	_	5	case	_	start_char=4|end_char=6
@@ -1396,6 +1561,8 @@
 29	去	去	VV	VV	_	25	conj	_	start_char=70|end_char=71
 30	。	。	PU	PU	_	6	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_whow_hiking-78
+# text = 公园管路员以及道路维修员通常会把倒下的树枝拖到路口，来挡住这些动物踩出的小路。
 1	公园	公园	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	管路员	管路员	NN	NN	_	5	conj	_	start_char=3|end_char=6
 3	以及	以及	CC	CC	_	5	cc	_	start_char=7|end_char=9
@@ -1419,12 +1586,16 @@
 21	小路	小路	NN	NN	_	16	dobj	_	start_char=56|end_char=58
 22	。	。	PU	PU	_	12	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_whow_hiking-79
+# text = 3 遵循所有标志。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	遵循	遵循	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	所有	所有	DT	DT	_	4	det	_	start_char=5|end_char=7
 4	标志	标志	NN	NN	_	2	dobj	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	2	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_hiking-80
+# text = 如果你看到一个写着“离开此路”的标牌——猜对了，你应该离开。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	看到	看到	VV	VV	_	21	dep	_	start_char=5|end_char=7
@@ -1448,6 +1619,8 @@
 21	离开	离开	VV	VV	_	0	root	_	start_char=47|end_char=49
 22	。	。	PU	PU	_	21	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_hiking-81
+# text = 这个标牌之所以在这儿，很可能是因为这一区域的植被正在恢复生长。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	标牌	标牌	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -1469,6 +1642,8 @@
 19	生长	生长	NN	NN	_	18	dobj	_	start_char=46|end_char=48
 20	。	。	PU	PU	_	10	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_hiking-82
+# text = 如果太多人进入这一区域而非其他道路的话，植被可能被严重破坏。-LSB-5-RSB-
 1	如果	如果	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	太	太	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	多	多	CD	CD	_	4	dep	_	start_char=5|end_char=6
@@ -1493,6 +1668,8 @@
 22	5	5	CD	CD	_	23	dep	_	start_char=56|end_char=57
 23	-RSB-	-RSB-	NN	NN	_	19	dep	_	start_char=58|end_char=63
 
+# sent_id = gcdt_whow_hiking-83
+# text = 你也可能看到写着不要给野生动物喂食的标志。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	可能	可能	VV	VV	_	4	aux:modal	_	start_char=4|end_char=6
@@ -1509,6 +1686,8 @@
 14	标志	标志	NN	NN	_	5	dobj	_	start_char=31|end_char=33
 15	。	。	PU	PU	_	4	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_hiking-84
+# text = 这是一个很好的建议，因为这一行为不仅可能伤到动物，还会伤到你自己。
 1	这	这	PN	PN	_	8	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	8	cop	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	8	nummod	_	start_char=4|end_char=5
@@ -1534,6 +1713,8 @@
 23	自己	自己	PN	PN	_	21	dobj	_	start_char=52|end_char=54
 24	。	。	PU	PU	_	8	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_whow_hiking-85
+# text = 千万不要给野生动物喂食——无论它们看起来有多可爱。
 1	千万	千万	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	不	不	AD	AD	_	7	neg	_	start_char=3|end_char=4
 3	要	要	VV	VV	_	7	xcomp	_	start_char=5|end_char=6
@@ -1550,6 +1731,8 @@
 14	可爱	可爱	VA	VA	_	12	ccomp	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_hiking-86
+# text = 4 休息一下然后补充水分。
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	休息	休息	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	一下	一下	AD	AD	_	2	advmod	_	start_char=5|end_char=7
@@ -1558,6 +1741,8 @@
 6	水分	水分	NN	NN	_	5	dobj	_	start_char=14|end_char=16
 7	。	。	PU	PU	_	2	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_whow_hiking-87
+# text = 徒步旅行不是比赛，而是一次可以根据你自己的速度来调整的活动。
 1	徒步	徒步	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	旅行	旅行	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	不	不	AD	AD	_	5	neg	_	start_char=6|end_char=7
@@ -1580,6 +1765,8 @@
 20	活动	活动	NN	NN	_	5	conj	_	start_char=46|end_char=48
 21	。	。	PU	PU	_	5	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_hiking-88
+# text = 如果你觉得累了，别担心，放慢速度吧。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	觉得	觉得	VV	VV	_	8	dep	_	start_char=5|end_char=7
@@ -1594,6 +1781,8 @@
 12	吧	吧	SP	SP	_	10	discourse	_	start_char=27|end_char=28
 13	。	。	PU	PU	_	8	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_hiking-89
+# text = 无论何时，当你觉得旅行中需要喝水或是坐下来休息时，一定就要这么做。-LSB-6-RSB-
 1	无论	无论	AD	AD	_	21	advmod	_	start_char=0|end_char=2
 2	何时	何时	AD	AD	_	21	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	21	punct	_	start_char=6|end_char=7
@@ -1620,6 +1809,8 @@
 24	6	6	CD	CD	_	21	dep	_	start_char=61|end_char=62
 25	-RSB-	-RSB-	PU	PU	_	21	punct	_	start_char=63|end_char=68
 
+# sent_id = gcdt_whow_hiking-90
+# text = 5 留心可能出现在脚底下的小动物。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	留心	留心	NN	NN	_	4	nsubj	_	start_char=2|end_char=4
 3	可能	可能	VV	VV	_	4	aux:modal	_	start_char=5|end_char=7
@@ -1632,6 +1823,8 @@
 10	动物	动物	NN	NN	_	4	dobj	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	4	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_whow_hiking-91
+# text = 要知道，在你徒步旅行的过程中，你会经过许许多多不同生物的家——小到最小的虫子，大到熊。
 1	要	要	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	知道	知道	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -1664,6 +1857,8 @@
 30	熊	熊	NN	NN	_	29	dobj	_	start_char=70|end_char=71
 31	。	。	PU	PU	_	2	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_whow_hiking-92
+# text = 永远不要试图接近或者跟野生动物进行互动，因为——毕竟它们是野生的啊。
 1	永远	永远	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	不	不	AD	AD	_	4	neg	_	start_char=3|end_char=4
 3	要	要	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -1686,12 +1881,16 @@
 20	啊	啊	SP	SP	_	14	discourse	_	start_char=51|end_char=52
 21	。	。	PU	PU	_	4	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_hiking-93
+# text = 尤其要小心蛇。
 1	尤其	尤其	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
 3	小心	小心	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	蛇	蛇	NN	NN	_	3	dobj	_	start_char=8|end_char=9
 5	。	。	PU	PU	_	3	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_hiking-94
+# text = 当走在岩石嶙峋的地方时，要小心，这是常见的蛇群居住地——踩到蛇可从来不是什么愉快的经历。
 1	当	当	P	P	_	2	case	_	start_char=0|end_char=1
 2	走	走	VV	VV	_	11	nmod:prep	_	start_char=2|end_char=3
 3	在	在	P	P	_	7	case	_	start_char=4|end_char=5
@@ -1723,6 +1922,8 @@
 29	经历	经历	NN	NN	_	18	conj	_	start_char=69|end_char=71
 30	。	。	PU	PU	_	11	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_whow_hiking-95
+# text = 6 只留下脚印，只带走照片。
 1	6	6	CD	CD	_	3	nsubj	_	start_char=0|end_char=1
 2	只	只	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	留下	留下	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -1733,6 +1934,8 @@
 8	照片	照片	NN	NN	_	7	dobj	_	start_char=17|end_char=19
 9	。	。	PU	PU	_	3	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_hiking-96
+# text = 这是我们年轻时就被教导的话，现今它仍是正确的。
 1	这	这	PN	PN	_	10	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	10	cop	_	start_char=2|end_char=3
 3	我们	我	PN	PN	_	8	nsubj	_	start_char=4|end_char=6
@@ -1752,6 +1955,8 @@
 17	的	的	SP	SP	_	16	discourse	_	start_char=37|end_char=38
 18	。	。	PU	PU	_	10	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_hiking-97
+# text = 荒野是一个必须被尊重的美丽的地方。
 1	荒野	荒野	NN	NN	_	11	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	11	cop	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	11	nummod	_	start_char=5|end_char=6
@@ -1765,6 +1970,8 @@
 11	地方	地方	NN	NN	_	0	root	_	start_char=24|end_char=26
 12	。	。	PU	PU	_	11	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_whow_hiking-98
+# text = 不要把垃圾丢在地上，也不要让爆破般的音乐或是声嘶力竭的说话声打破荒野的宁静。
 1	不	不	AD	AD	_	5	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	5	xcomp	_	start_char=2|end_char=3
 3	把	把	BA	BA	_	5	aux:ba	_	start_char=4|end_char=5
@@ -1791,6 +1998,8 @@
 24	宁静	宁静	NN	NN	_	21	dobj	_	start_char=58|end_char=60
 25	。	。	PU	PU	_	5	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_hiking-99
+# text = 当你离开时，也不要带走这里的石头，植物或是动物——如果你这样做了，你会扰乱你周边美丽的生态系统。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	你	你	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	离开	离开	VV	VV	_	9	nmod:prep	_	start_char=4|end_char=6
@@ -1825,6 +2034,8 @@
 32	系统	系统	NN	NN	_	26	dobj	_	start_char=76|end_char=78
 33	。	。	PU	PU	_	26	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_whow_hiking-100
+# text = 要成为一名真正的徒步旅行者，必须尊重自然。-LSB-7-RSB-
 1	要	要	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	成为	成为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	一	一	CD	CD	_	8	nummod	_	start_char=5|end_char=6

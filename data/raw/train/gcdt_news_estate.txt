@@ -1,4 +1,4 @@
-<text id="gum_zh_news_estate" type="news" sourceURL="https://zh.wikinews.org/wiki/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%8A%A0%E5%A4%A7%E5%8A%9B%E5%BA%A6%E6%89%AD%E8%BD%AC%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A2%93%E5%8A%BF" dateCreated="2008-12-05" dateModified="2009-02-04"  dateCollected="2022-01-04" speakerCount="0" speakerList="none" author="Wikinews" title="美国考虑加大力度扭转房地产颓势" shortTitle="estate"/>
+<text id="gum_zh_news_estate" genre="news" sourceURL="https://zh.wikinews.org/wiki/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%8A%A0%E5%A4%A7%E5%8A%9B%E5%BA%A6%E6%89%AD%E8%BD%AC%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A2%93%E5%8A%BF" dateCreated="2008-12-05" dateModified="2009-02-04"  dateCollected="2022-01-04" speakerCount="0" speakerList="none" author="Wikinews" title="美国考虑加大力度扭转房地产颓势" shortTitle="estate"/>
 美国考虑加大力度扭转房地产颓势
 
 【2008年12月5日讯】

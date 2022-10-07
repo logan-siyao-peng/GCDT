@@ -37,41 +37,41 @@
 	</header>
 	<body>
 		<segment id="1" parent="451" relname="organization-heading">维基 新闻 专访 瑞典 海盗党 领袖 里卡德·福尔克文 // Wiki News interview with Swedish Pirate Party leader Ricard Falkvin</segment>
-		<segment id="2" parent="275" relname="span">【 2020年 11月 24日 讯 】 // 【 News on November 24, 2020 】</segment>
-		<segment id="3" parent="4" relname="attribution-positive">译者 注 ： // Translator's Note:</segment>
-		<segment id="4" parent="234" relname="span">英文 维基 新闻 在 2006年 6月 20日 首 次 出版 此 稿 // This article was first published by English Wikinews on June 20, 2006</segment>
+		<segment id="2" parent="275" relname="span">【 2020年 11月 24日 讯 】 // 【 News on November 24 , 2020 】</segment>
+		<segment id="3" parent="4" relname="attribution-positive">译者 注 ： // Translator 's Note :</segment>
+		<segment id="4" parent="234" relname="span">英文 维基 新闻 在 2006年 6月 20日 首 次 出版 此 稿 // This article was first published by English Wikinews on June 20 , 2006</segment>
 		<segment id="5" parent="236" relname="same-unit">海盗党 是 是 // pirate party yes yes</segment>
 		<segment id="6" parent="7" relname="elaboration-attribute">2006年 1月份 公开 出现 的 // Opened in January 2006</segment>
-		<segment id="7" parent="235" relname="span">瑞典 新 政党 ， // Sweden's new political party,</segment>
+		<segment id="7" parent="235" relname="span">瑞典 新 政党 ， // Sweden 's new political party ,</segment>
 		<segment id="8" parent="239" relname="attribution-positive">该 党 希望 // the party hopes</segment>
 		<segment id="9" parent="239" relname="same-unit">将 // Will</segment>
 		<segment id="10" parent="11" relname="mode-means">使用 互联网 // using the Internet</segment>
 		<segment id="11" parent="237" relname="span">分享 音乐 、 电影 和 其他 版权 内容 的 // for sharing music , movies and other copyrighted content</segment>
-		<segment id="12" parent="238" relname="span">行为 合法化 。 // Act legalization.</segment>
+		<segment id="12" parent="238" relname="span">行为 合法化 。 // Act legalization .</segment>
 		<segment id="13" parent="241" relname="adversative-contrast">一 小 群 理想 主义者 的 努力 看似 注定 要 失败 ， // The efforts of a small group of idealists seemed doomed to fail .</segment>
 		<segment id="14" parent="241" relname="adversative-contrast">但 却 引起 了 媒体 的 极 大 关注 ， // But it has attracted great attention from the media .</segment>
 		<segment id="15" parent="243" relname="same-unit">部分 原因 是 警方 曾 突袭 了 // In part because the police raided</segment>
 		<segment id="16" parent="17" relname="elaboration-attribute">极 受 欢迎 的 // extremely popular</segment>
 		<segment id="17" parent="242" relname="span">BitTorrent 追踪器 海盗湾 // BitTorrent Tracker The Pirate Bay</segment>
-		<segment id="18" parent="243" relname="explanation-evidence">（ 见 维基 新闻 报道 ） 。 // (see Wikinews report).</segment>
+		<segment id="18" parent="243" relname="explanation-evidence">（ 见 维基 新闻 报道 ） 。 // ( see Wikinews report ) .</segment>
 		<segment id="19" parent="245" relname="span">海盗湾 // The Pirate Bay</segment>
-		<segment id="20" parent="19" relname="restatement-partial">（ The Pirate Bay ） // (The Pirate Bay)</segment>
+		<segment id="20" parent="19" relname="restatement-partial">（ The Pirate Bay ） // ( The Pirate Bay )</segment>
 		<segment id="21" parent="247" relname="same-unit">允许 人们 // allow people</segment>
 		<segment id="22" parent="23" relname="mode-means">使用 BitTorrent 协议 // Use the BitTorrent protocol</segment>
 		<segment id="23" parent="246" relname="span">下载 // download</segment>
 		<segment id="24" parent="25" relname="elaboration-attribute">其 数据库 中 列出 的 // listed in its database</segment>
 		<segment id="25" parent="248" relname="span">内容 // content</segment>
-		<segment id="26" parent="248" relname="elaboration-attribute">（ 包括 最新 的 好莱坞 电影 或 电脑 游戏 ） ， // (including the latest Hollywood movies or computer games),</segment>
-		<segment id="27" parent="278" relname="span">并 获得 了 某 种 国际 崇拜 的 地位 ， // and attained some sort of international cult status,</segment>
+		<segment id="26" parent="248" relname="elaboration-attribute">（ 包括 最新 的 好莱坞 电影 或 电脑 游戏 ） ， // ( including the latest Hollywood movies or computer games ) ,</segment>
+		<segment id="27" parent="278" relname="span">并 获得 了 某 种 国际 崇拜 的 地位 ， // and attained some sort of international cult status ,</segment>
 		<segment id="28" parent="252" relname="same-unit">部分 原因 是 其 对 // Part of the reason is that its</segment>
 		<segment id="29" parent="30" relname="elaboration-attribute">来自 大 公司 版权 律师 的 // From a large corporate copyright attorney</segment>
 		<segment id="30" parent="251" relname="span">法律 威胁 的 公开 和 不敬 的 回应 。 // Public and disrespectful responses to legal threats .</segment>
 		<segment id="31" parent="254" relname="same-unit">该 网站 // the website</segment>
 		<segment id="32" parent="33" relname="context-circumstance">在 荷兰 服务器 被 突袭 后 // After the Dutch server was raided</segment>
 		<segment id="33" parent="253" relname="span">几 天 重新 开放 // reopen in a few days</segment>
-		<segment id="34" parent="254" relname="adversative-concession">（ 但 现在 又 回到 了 瑞典 ） 。 // (but now back in Sweden).</segment>
+		<segment id="34" parent="254" relname="adversative-concession">（ 但 现在 又 回到 了 瑞典 ） 。 // ( but now back in Sweden ) .</segment>
 		<segment id="35" parent="256" relname="span">盗版党 领袖 里卡德·福尔克文 // Pirate Party leader Ricard Falkvin</segment>
-		<segment id="36" parent="35" relname="restatement-partial">（ Rickard Falkvinge ） // (Rickard Falkvinge)</segment>
+		<segment id="36" parent="35" relname="restatement-partial">（ Rickard Falkvinge ） // ( Rickard Falkvinge )</segment>
 		<segment id="37" parent="257" relname="same-unit">认为 ， // think ,</segment>
 		<segment id="38" parent="258" relname="adversative-concession">无论 此 案 的 法律 结果 如何 ， // Regardless of the legal outcome of the case ,</segment>
 		<segment id="39" parent="40" relname="attribution-positive">该 网站 都 表明 // The site shows</segment>
@@ -80,8 +80,8 @@
 		<segment id="42" parent="43" relname="elaboration-attribute">被 人 诟病 的 // criticized</segment>
 		<segment id="43" parent="260" relname="span">“ 网络 海盗 ” 的 绰号 ， // the nickname of " cyber pirate " ,</segment>
 		<segment id="44" parent="265" relname="attribution-positive">主张 // claim</segment>
-		<segment id="45" parent="265" relname="joint-list">大幅 限制 版权法 的 范围 和 执行 ， // substantially limit the scope and enforcement of copyright laws,</segment>
-		<segment id="46" parent="265" relname="joint-list">废除 专利法 ， // repeal patent law,</segment>
+		<segment id="45" parent="265" relname="joint-list">大幅 限制 版权法 的 范围 和 执行 ， // substantially limit the scope and enforcement of copyright laws ,</segment>
+		<segment id="46" parent="265" relname="joint-list">废除 专利法 ， // repeal patent law ,</segment>
 		<segment id="47" parent="264" relname="same-unit">并 在 // and in</segment>
 		<segment id="48" parent="49" relname="elaboration-attribute">其 认为 的 // it thinks</segment>
 		<segment id="49" parent="263" relname="span">“ 控制 和 监视 社会 ” 中 // In " Control and Surveillance Society "</segment>
@@ -93,182 +93,182 @@
 		<segment id="55" parent="268" relname="joint-list">回答 了 英文 维基 新闻 的 问题 。 // Answers to English Wikinews questions .</segment>
 		<segment id="56" parent="270" relname="attribution-positive">有 传言 称 ， // There are rumors that</segment>
 		<segment id="57" parent="269" relname="span">瑞典 政府 是 间接 代表 美国 美国 电影 协会 // The Swedish government is an indirect representative of the American Film Institute of America</segment>
-		<segment id="58" parent="57" relname="restatement-partial">（ MPAA ） // (MPAA)</segment>
+		<segment id="58" parent="57" relname="restatement-partial">（ MPAA ） // ( MPAA )</segment>
 		<segment id="59" parent="270" relname="joint-list">关闭 该 网站 。 // Close this site .</segment>
 		<segment id="60" parent="61" relname="attribution-positive">你 觉得 // You feel</segment>
-		<segment id="61" parent="271" relname="span">你 的 政府 对 美国 的 利益 负责 吗 ？ // Is your government accountable to America's interests?</segment>
+		<segment id="61" parent="271" relname="span">你 的 政府 对 美国 的 利益 负责 吗 ？ // Is your government accountable to America 's interests ?</segment>
 		<segment id="62" parent="63" relname="attribution-positive">哦 ， MPAA 自己 在 新闻稿 中 也 说 了 ， // Oh , the MPAA itself said in a press release ,</segment>
-		<segment id="63" parent="286" relname="span">这 不 仅仅 是 一 个 谣言 。 // This is not just a rumor.</segment>
+		<segment id="63" parent="286" relname="span">这 不 仅仅 是 一 个 谣言 。 // This is not just a rumor .</segment>
 		<segment id="64" parent="287" relname="span">看看 他们 的 新闻稿 // Check out their press release</segment>
-		<segment id="65" parent="64" relname="elaboration-additional">《 瑞典 当局 击沉 海盗湾 》 。 // "Swedish Authorities Sink The Pirate Bay".</segment>
+		<segment id="65" parent="64" relname="elaboration-additional">《 瑞典 当局 击沉 海盗湾 》 。 // " Swedish Authorities Sink The Pirate Bay " .</segment>
 		<segment id="66" parent="294" relname="span">是 的 ， 这 一 特定 事实 在 瑞典 引起 了 一些 骚动 。 // Yes , this particular fact has caused some uproar in sweden .</segment>
 		<segment id="67" parent="292" relname="attribution-positive">人们 普遍 认为 ， // people usually think that ,</segment>
 		<segment id="68" parent="292" relname="span">瑞典 当局 或多或少 是 受 外国 势力 的 命令 ， // The swedish authorities are more or less at the behest of a foreign power ,</segment>
 		<segment id="69" parent="291" relname="same-unit">对 一 个 // to a</segment>
 		<segment id="70" parent="71" relname="mode-means">根据 瑞典 法律 // According to Swedish law</segment>
 		<segment id="71" parent="289" relname="span">最 差 也 是 处于 法律 灰色 地带 的 // The worst is also in the legal gray area</segment>
-		<segment id="72" parent="290" relname="span">实体 采取 强硬 行动 。 // Entity takes tough action.</segment>
+		<segment id="72" parent="290" relname="span">实体 采取 强硬 行动 。 // Entity takes tough action .</segment>
 		<segment id="73" parent="297" relname="context-background">今 次 突袭 一定 提高 了 你 的 知名度 。 // This raid must have raised your profile .</segment>
-		<segment id="74" parent="297" relname="joint-list">你们 目前 有 多少 成员 ， // How many members do you currently have?</segment>
+		<segment id="74" parent="297" relname="joint-list">你们 目前 有 多少 成员 ， // How many members do you currently have ?</segment>
 		<segment id="75" parent="299" relname="same-unit">以及 你们 的 筹款 // and your fundraising</segment>
 		<segment id="76" parent="77" relname="context-circumstance">努力 到 目前 为止 // work hard so far</segment>
-		<segment id="77" parent="298" relname="span">有 多 成功 ？ // How successful is it?</segment>
-		<segment id="78" parent="79" relname="adversative-antithesis">我们 的 会员 人数 是 6540 人 ， // Our membership is 6540,</segment>
-		<segment id="79" parent="301" relname="span">不 ， 6541 人 ， // no, 6541 people,</segment>
-		<segment id="80" parent="302" relname="span">不 ， 等等 ， 6543 人 …… // No, wait, 6543 people  …</segment>
-		<segment id="81" parent="306" relname="organization-phatic">嗯 ， 你 懂 的 。 // Well, you get the idea.</segment>
+		<segment id="77" parent="298" relname="span">有 多 成功 ？ // How successful is it ?</segment>
+		<segment id="78" parent="79" relname="adversative-antithesis">我们 的 会员 人数 是 6540 人 ， // Our membership is 6540 ,</segment>
+		<segment id="79" parent="301" relname="span">不 ， 6541 人 ， // no , 6541 people ,</segment>
+		<segment id="80" parent="302" relname="span">不 ， 等等 ， 6543 人 …… // No , wait , 6543 people   …</segment>
+		<segment id="81" parent="306" relname="organization-phatic">嗯 ， 你 懂 的 。 // Well , you get the idea .</segment>
 		<segment id="82" parent="304" relname="same-unit">我们 的 会员 // our members</segment>
 		<segment id="83" parent="84" relname="context-circumstance">在 以 电子 方式 支付 会员费 后 ， // After paying the membership fee electronically ,</segment>
-		<segment id="84" parent="303" relname="span">在 我们 的 网站 上 注册 ， // register on our website,</segment>
+		<segment id="84" parent="303" relname="span">在 我们 的 网站 上 注册 ， // register on our website ,</segment>
 		<segment id="85" parent="304" relname="causal-result">这 有助于 大大 减少 我们 的 管理 负担 。 // This helps to greatly reduce our administrative burden .</segment>
-		<segment id="86" parent="309" relname="span">筹款 带来 了 10.8万 瑞典 克朗 // Fundraising brought in SEK 108,000</segment>
-		<segment id="87" parent="88" relname="attribution-positive">（ 编者 注 ： // (Editor's note:</segment>
-		<segment id="88" parent="308" relname="span">约 14700 美元 ） ， // about $14,700),</segment>
-		<segment id="89" parent="312" relname="joint-list">足够 购买 300万 张 选票 ， // enough to buy 3 million votes,</segment>
+		<segment id="86" parent="309" relname="span">筹款 带来 了 10.8万 瑞典 克朗 // Fundraising brought in 108,000 SEK</segment>
+		<segment id="87" parent="88" relname="attribution-positive">（ 编者 注 ： // ( Editor 's note :</segment>
+		<segment id="88" parent="308" relname="span">约 14700 美元 ） ， // about $ 14,700 ) ,</segment>
+		<segment id="89" parent="312" relname="joint-list">足够 购买 300万 张 选票 ， // enough to buy 3 million votes ,</segment>
 		<segment id="90" parent="311" relname="same-unit">这 是 某 种 // this is some kind of</segment>
-		<segment id="91" parent="92" relname="elaboration-attribute">至少 我们 不 会 挨饿 的 // At least we won't starve</segment>
+		<segment id="91" parent="92" relname="elaboration-attribute">至少 我们 不 会 挨饿 的 // At least we wo n't starve</segment>
 		<segment id="92" parent="310" relname="span">最低 标准 。 // Minimum Standards .</segment>
-		<segment id="93" parent="313" relname="adversative-contrast">我们 没有 吃饱 ， // We are not full,</segment>
-		<segment id="94" parent="313" relname="adversative-contrast">但 也 没有 挨饿 。 // But also not starving.</segment>
-		<segment id="95" parent="96" relname="context-circumstance">在 突袭 海盗湾 之后 ， // After the raid on The Pirate Bay,</segment>
-		<segment id="96" parent="315" relname="span">我们 又 收到 了 5万 块 钱 的 捐款 。 // We received another $50,000 donation.</segment>
+		<segment id="93" parent="313" relname="adversative-contrast">我们 没有 吃饱 ， // We are not full ,</segment>
+		<segment id="94" parent="313" relname="adversative-contrast">但 也 没有 挨饿 。 // But also not starving .</segment>
+		<segment id="95" parent="96" relname="context-circumstance">在 突袭 海盗湾 之后 ， // After the raid on The Pirate Bay ,</segment>
+		<segment id="96" parent="315" relname="span">我们 又 收到 了 5万 块 钱 的 捐款 。 // We received another $ 50,000 donation .</segment>
 		<segment id="97" parent="316" relname="same-unit">我 真诚 地 感谢 每 一 位 // I sincerely thank everyone</segment>
 		<segment id="98" parent="99" relname="elaboration-attribute">想要 帮助 我们 的 // want to help us</segment>
 		<segment id="99" parent="453" relname="span">人 ； // people ;</segment>
 		<segment id="100" parent="101" relname="attribution-positive">我们 现在 正在 研究 // We are currently researching</segment>
-		<segment id="101" parent="317" relname="span">获得 更 多 的 选票 ， // get more votes,</segment>
-		<segment id="102" parent="317" relname="purpose-goal">以 确保 我们 不 会 在 选举日 用完 。 // to make sure we don't run out on election day.</segment>
+		<segment id="101" parent="317" relname="span">获得 更 多 的 选票 ， // get more votes ,</segment>
+		<segment id="102" parent="317" relname="purpose-goal">以 确保 我们 不 会 在 选举日 用完 。 // to make sure we do n't run out on election day .</segment>
 		<segment id="103" parent="318" relname="elaboration-additional">（ 1000万 张 选票 是 我们 最初 的 满分 目标 ） // ( 10 million votes was our initial goal of full marks )</segment>
 		<segment id="104" parent="105" relname="attribution-positive">你 认为 // Do you think</segment>
 		<segment id="105" parent="326" relname="span">你 是否 有 能力 支付 未来 的 广播 和 电视 广告 等 费用 ？ // Can you afford to pay for future radio and TV commercials etc ?</segment>
-		<segment id="106" parent="107" relname="context-circumstance">在 突袭 海盗湾 后 ， // After the raid on The Pirate Bay,</segment>
-		<segment id="107" parent="327" relname="span">我们 的 会员 人数 增加 了 三 倍 ， // Our membership has tripled,</segment>
-		<segment id="108" parent="367" relname="span">我们 不 需要 广告 了 ， // We don't need ads anymore,</segment>
+		<segment id="106" parent="107" relname="context-circumstance">在 突袭 海盗湾 后 ， // After the raid on The Pirate Bay ,</segment>
+		<segment id="107" parent="327" relname="span">我们 的 会员 人数 增加 了 三 倍 ， // Our membership has tripled ,</segment>
+		<segment id="108" parent="367" relname="span">我们 不 需要 广告 了 ， // We do n't need ads anymore ,</segment>
 		<segment id="109" parent="367" relname="explanation-justify">上 周 全国 电视台 几乎 每 个 新闻 时段 都 提到 了 我们 的 名字 。 // Our names were mentioned in almost every news slot on national television last week .</segment>
-		<segment id="110" parent="111" relname="context-circumstance">而且 ， 在 我们 成功 之后 ， // And, after our success,</segment>
+		<segment id="110" parent="111" relname="context-circumstance">而且 ， 在 我们 成功 之后 ， // And , after our success ,</segment>
 		<segment id="111" parent="328" relname="span">老牌 政党 也 开始 转向 了 。 // The old parties are also starting to turn .</segment>
 		<segment id="112" parent="113" relname="elaboration-attribute">代表 近 半数 民选 议会 的 // representing nearly half of the elected assembly</segment>
 		<segment id="113" parent="329" relname="span">党派 ， 现在 都 在 描述 // Partisanship is now describing</segment>
 		<segment id="114" parent="330" relname="span">今天 的 版权 状况 是 行 不 通 的 。 // The copyright situation today is not going to work .</segment>
-		<segment id="115" parent="334" relname="span">不过 他们 还是 不 明白 为什么 ， // But they still don't understand why,</segment>
+		<segment id="115" parent="334" relname="span">不过 他们 还是 不 明白 为什么 ， // But they still do n't understand why ,</segment>
 		<segment id="116" parent="332" relname="same-unit">他们 只 是 在 呼应 // They are just echoing</segment>
 		<segment id="117" parent="118" relname="elaboration-attribute">我们 说 的 // what we said</segment>
 		<segment id="118" parent="331" relname="span">话 ， // talk ,</segment>
-		<segment id="119" parent="335" relname="adversative-contrast">却 不 明白 这些 话 的 意思 。 // but did not understand the meaning of these words.</segment>
+		<segment id="119" parent="335" relname="adversative-contrast">却 不 明白 这些 话 的 意思 。 // but did not understand the meaning of these words .</segment>
 		<segment id="120" parent="336" relname="span">我们 会 去 教 他们 // we will teach them</segment>
-		<segment id="121" parent="120" relname="elaboration-additional">── 他们 和 选民 都 一样 。 // -- they are the same as the elect.</segment>
+		<segment id="121" parent="120" relname="elaboration-additional">── 他们 和 选民 都 一样 。 // -- they are the same as the elect .</segment>
 		<segment id="122" parent="338" relname="same-unit">对于 // for</segment>
 		<segment id="123" parent="124" relname="elaboration-attribute">不 关注 瑞典 媒体 的 // Not following Swedish media</segment>
-		<segment id="124" parent="337" relname="span">人 来说 ， // For people,</segment>
-		<segment id="125" parent="339" relname="span">这 可能 很 难 理解 ， // This can be hard to understand,</segment>
-		<segment id="126" parent="340" relname="span">但 我们 已经 引起 了 很 大 的 轰动 。 // But we've made a big splash.</segment>
-		<segment id="127" parent="128" relname="attribution-positive">今天 ， 我们 的 司法 部长 被 引用 说 ， // Today our attorney general was quoted as saying,</segment>
+		<segment id="124" parent="337" relname="span">人 来说 ， // For people ,</segment>
+		<segment id="125" parent="339" relname="span">这 可能 很 难 理解 ， // This can be hard to understand ,</segment>
+		<segment id="126" parent="340" relname="span">但 我们 已经 引起 了 很 大 的 轰动 。 // But we 've made a big splash .</segment>
+		<segment id="127" parent="128" relname="attribution-positive">今天 ， 我们 的 司法 部长 被 引用 说 ， // Today our attorney general was quoted as saying ,</segment>
 		<segment id="128" parent="341" relname="span">他 对 修改 版权法 ， 使 文件 共享 合法化 持 开放 态度 ， // He is open to changing copyright law to legalize file sharing ,</segment>
-		<segment id="129" parent="342" relname="span">标题 是 《 博德斯特伦 // The title is "Bodström"</segment>
+		<segment id="129" parent="342" relname="span">标题 是 《 博德斯特伦 // The title is " Bodström "</segment>
 		<segment id="130" parent="129" relname="restatement-partial">（ 他 的 名字 ） // ( his name )</segment>
-		<segment id="131" parent="343" relname="same-unit">对 文件 共享 翻脸 》 。 // Turn Your Face On File Sharing.</segment>
-		<segment id="132" parent="345" relname="joint-list">紧接着 是 海盗党 对 他 建议 的 评论 。 // This is followed by the Pirate Party's comments on his proposal.</segment>
-		<segment id="133" parent="349" relname="organization-phatic">我们 再 来 看看 ： // Let's take a look again:</segment>
+		<segment id="131" parent="343" relname="same-unit">对 文件 共享 翻脸 》 。 // Turn Your Face On File Sharing .</segment>
+		<segment id="132" parent="345" relname="joint-list">紧接着 是 海盗党 对 他 建议 的 评论 。 // This is followed by the Pirate Party 's comments on his proposal .</segment>
+		<segment id="133" parent="349" relname="organization-phatic">我们 再 来 看看 ： // Let 's take a look again :</segment>
 		<segment id="134" parent="348" relname="context-circumstance">当 一 个 部长 发表 关于 文件 共享 的 声明 时 ， // When a minister makes a statement about file sharing ,</segment>
 		<segment id="135" parent="347" relname="same-unit">媒体 就 会 // The media will</segment>
 		<segment id="136" parent="137" relname="mode-means">打 电话 // Call up</segment>
-		<segment id="137" parent="346" relname="span">给 我们 征求 意见 ， // give us advice,</segment>
-		<segment id="138" parent="348" relname="joint-list">并 在 声明 旁边 发表 。 // and posted alongside the statement.</segment>
-		<segment id="139" parent="140" relname="context-circumstance">自从 突袭 海盗湾 之后 ， // Since the raid on The Pirate Bay,</segment>
-		<segment id="140" parent="350" relname="span">我们 就 变得 这么 大 了 。 // We just got so big.</segment>
+		<segment id="137" parent="346" relname="span">给 我们 征求 意见 ， // give us advice ,</segment>
+		<segment id="138" parent="348" relname="joint-list">并 在 声明 旁边 发表 。 // and posted alongside the statement .</segment>
+		<segment id="139" parent="140" relname="context-circumstance">自从 突袭 海盗湾 之后 ， // Since the raid on The Pirate Bay ,</segment>
+		<segment id="140" parent="350" relname="span">我们 就 变得 这么 大 了 。 // We just got so big .</segment>
 		<segment id="141" parent="352" relname="same-unit">司法 部长 后来 向 // The Attorney General later</segment>
 		<segment id="142" parent="143" relname="elaboration-attribute">报道 此 事 的 // reported this</segment>
 		<segment id="143" parent="351" relname="span">媒体 否认 // media deny</segment>
 		<segment id="144" parent="353" relname="span">发表 过 该 声明 。 // issued the statement .</segment>
 		<segment id="145" parent="146" relname="organization-preparation">在 我 看来 ， // in my opinion ,</segment>
-		<segment id="146" parent="354" relname="span">我们 将 永远 无法 支付 电视 广告 费用 。 // We'll never be able to pay for TV commercials.</segment>
-		<segment id="147" parent="354" relname="adversative-antithesis">除非 有 一 个 非常 富有 的 捐赠者 上台 。 // Unless a very wealthy donor comes to power.</segment>
-		<segment id="148" parent="363" relname="contingency-condition">（ 如果 有 这样 的 人 在 读 这 篇 文章 ， // (If anyone like this is reading this,</segment>
+		<segment id="146" parent="354" relname="span">我们 将 永远 无法 支付 电视 广告 费用 。 // We 'll never be able to pay for TV commercials .</segment>
+		<segment id="147" parent="354" relname="adversative-antithesis">除非 有 一 个 非常 富有 的 捐赠者 上台 。 // Unless a very wealthy donor comes to power .</segment>
+		<segment id="148" parent="363" relname="contingency-condition">（ 如果 有 这样 的 人 在 读 这 篇 文章 ， // ( If anyone like this is reading this ,</segment>
 		<segment id="149" parent="357" relname="attribution-positive">我们 已经 计划 好 了 // we have a plan</segment>
 		<segment id="150" parent="357" relname="same-unit">如何 在 选举 之前 ， 以 一 种 // How to use a</segment>
 		<segment id="151" parent="152" relname="elaboration-attribute">成本 效益 高 的 // cost effective</segment>
-		<segment id="152" parent="356" relname="span">方式 ， 在 // way, in</segment>
+		<segment id="152" parent="356" relname="span">方式 ， 在 // way , in</segment>
 		<segment id="153" parent="154" relname="elaboration-attribute">捐款 出现 的 // donations appear</segment>
-		<segment id="154" parent="358" relname="span">情况 下 ， 花费 高 达 37.5万 美元 。 // case, cost up to $375,000.</segment>
+		<segment id="154" parent="358" relname="span">情况 下 ， 花费 高 达 37.5万 美元 。 // case , cost up to $ 375,000 .</segment>
 		<segment id="155" parent="362" relname="adversative-concession">这 笔 支出 仍然 不 包括 任何 电视 广告 ） // This payout still excludes any TV commercials )</segment>
 		<segment id="156" parent="157" relname="attribution-negative">你 是否 知道 // did you know</segment>
-		<segment id="157" parent="379" relname="span">其他 国家 有 类似 的 举措 ？ // Do other countries have similar initiatives?</segment>
+		<segment id="157" parent="379" relname="span">其他 国家 有 类似 的 举措 ？ // Do other countries have similar initiatives ?</segment>
 		<segment id="158" parent="380" relname="adversative-contrast">有些 国家 正在 尝试 ， // Some countries are trying</segment>
 		<segment id="159" parent="380" relname="adversative-contrast">但 没有 一 个 国家 像 我们 这样 取得 必要 的 势头 和 临界 质量 。 // But no country has achieved the necessary momentum and critical mass like ours .</segment>
 		<segment id="160" parent="383" relname="attribution-positive">我们 期望 // we expect</segment>
-		<segment id="161" parent="382" relname="joint-list">一旦 我们 进入 瑞典 议会 ， // Once we enter the Swedish parliament,</segment>
+		<segment id="161" parent="382" relname="joint-list">一旦 我们 进入 瑞典 议会 ， // Once we enter the Swedish parliament ,</segment>
 		<segment id="162" parent="163" relname="attribution-positive">并 显示 出 // and show</segment>
-		<segment id="163" parent="381" relname="span">这 是 可以 做到 的 ， // It can be done,</segment>
-		<segment id="164" parent="383" relname="span">这 种 势头 就 会 发生 。 // This momentum will happen.</segment>
-		<segment id="165" parent="388" relname="same-unit">“ 盗版党 ” 这 个 名字 似乎 将 该 党 与 // The name "Pirate Party" seems to associate the party with</segment>
+		<segment id="163" parent="381" relname="span">这 是 可以 做到 的 ， // It can be done ,</segment>
+		<segment id="164" parent="383" relname="span">这 种 势头 就 会 发生 。 // This momentum will happen .</segment>
+		<segment id="165" parent="388" relname="same-unit">“ 盗版党 ” 这 个 名字 似乎 将 该 党 与 // The name " Pirate Party " seems to associate the party with</segment>
 		<segment id="166" parent="167" relname="elaboration-attribute">目前 被 定义 为 犯罪 的 // currently defined as criminal</segment>
-		<segment id="167" parent="387" relname="span">行为 联系 在 一起 ： // Behaviors are linked together:</segment>
-		<segment id="168" parent="388" relname="elaboration-attribute">盗版 软件 、 电影 、 音乐 等 。 // Pirated software, movies, music, etc.</segment>
-		<segment id="169" parent="170" relname="context-circumstance">既然 “ 盗版党 ” 这样 的 标签 被 如此 负面 地 使用 ， // Since labels like "piracy party" are used so negatively,</segment>
-		<segment id="170" parent="390" relname="span">那么 “ 盗版党 ” 这样 的 名字 会 不 会 引起 选民 的 反感 呢 ？ // So will a name like "Pirate Party" irritate voters?</segment>
+		<segment id="167" parent="387" relname="span">行为 联系 在 一起 ： // Behaviors are linked together :</segment>
+		<segment id="168" parent="388" relname="elaboration-attribute">盗版 软件 、 电影 、 音乐 等 。 // Pirated software , movies , music , etc .</segment>
+		<segment id="169" parent="170" relname="context-circumstance">既然 “ 盗版党 ” 这样 的 标签 被 如此 负面 地 使用 ， // Since labels like " piracy party " are used so negatively ,</segment>
+		<segment id="170" parent="390" relname="span">那么 “ 盗版党 ” 这样 的 名字 会 不 会 引起 选民 的 反感 呢 ？ // So will a name like " Pirate Party " irritate voters ?</segment>
 		<segment id="171" parent="394" relname="same-unit">国外 那些 // those abroad</segment>
 		<segment id="172" parent="173" relname="attribution-positive">主张 // claim</segment>
 		<segment id="173" parent="392" relname="span">建立 更 平衡 的 版权 制度 的 // for a more balanced copyright system</segment>
 		<segment id="174" parent="396" relname="span">潜在 盟友 呢 ， 比如 电子 前沿 基金会 // What about potential allies like the Electronic Frontier Foundation ?</segment>
-		<segment id="175" parent="174" relname="restatement-partial">（ Electronic Frontier Foundation ） // (Electronic Frontier Foundation)</segment>
+		<segment id="175" parent="174" relname="restatement-partial">（ Electronic Frontier Foundation ） // ( Electronic Frontier Foundation )</segment>
 		<segment id="176" parent="395" relname="span">或 创意 共享 组织 // or Creative Commons</segment>
-		<segment id="177" parent="176" relname="restatement-partial">（ Creative Commons ） ？ // (Creative Commons)?</segment>
-		<segment id="178" parent="397" relname="span">哦 ， 这 是 一 种 犯罪 。 // Oh, it's a crime.</segment>
-		<segment id="179" parent="178" relname="evaluation-comment">这 才 是 问题 的 核心 ！ // This is the core of the problem!</segment>
+		<segment id="177" parent="176" relname="restatement-partial">（ Creative Commons ） ？ // ( Creative Commons ) ?</segment>
+		<segment id="178" parent="397" relname="span">哦 ， 这 是 一 种 犯罪 。 // Oh , it 's a crime .</segment>
+		<segment id="179" parent="178" relname="evaluation-comment">这 才 是 问题 的 核心 ！ // This is the core of the problem !</segment>
 		<segment id="180" parent="399" relname="same-unit">问题 的 关键 在于 ， // The crux of the matter is that</segment>
-		<segment id="181" parent="182" relname="elaboration-attribute">20% 的 选民 所 做 的 // what 20% of voters did</segment>
-		<segment id="182" parent="398" relname="span">事情 是 非法 的 ， // things are illegal,</segment>
-		<segment id="183" parent="400" relname="joint-list">要 受到 坐牢 的 惩罚 。 // To be punished by jail.</segment>
-		<segment id="184" parent="421" relname="span">这 就 是 我们 要 改变 的 。 // That's what we're going to change.</segment>
+		<segment id="181" parent="182" relname="elaboration-attribute">20% 的 选民 所 做 的 // what 20 % of voters did</segment>
+		<segment id="182" parent="398" relname="span">事情 是 非法 的 ， // things are illegal ,</segment>
+		<segment id="183" parent="400" relname="joint-list">要 受到 坐牢 的 惩罚 。 // To be punished by jail .</segment>
+		<segment id="184" parent="421" relname="span">这 就 是 我们 要 改变 的 。 // That 's what we 're going to change .</segment>
 		<segment id="185" parent="186" relname="attribution-positive">既定 政党 说 // established party says</segment>
-		<segment id="186" parent="401" relname="span">选民 坏 了 ， // Voters are broken,</segment>
+		<segment id="186" parent="401" relname="span">选民 坏 了 ， // Voters are broken ,</segment>
 		<segment id="187" parent="188" relname="attribution-positive">我们 却 说 // we say</segment>
-		<segment id="188" parent="402" relname="span">是 法律 坏 了 。 // It's the law that's broken.</segment>
-		<segment id="189" parent="404" relname="same-unit">另外 ， 这 也 是 // In addition, this is also</segment>
+		<segment id="188" parent="402" relname="span">是 法律 坏 了 。 // It 's the law that 's broken .</segment>
+		<segment id="189" parent="404" relname="same-unit">另外 ， 这 也 是 // In addition , this is also</segment>
 		<segment id="190" parent="191" relname="elaboration-attribute">收回 一 个 词 的 // take back a word</segment>
 		<segment id="191" parent="403" relname="span">方式 。 // Way .</segment>
-		<segment id="192" parent="406" relname="joint-list">媒体 集团 一直 对 我们 指指点点 ， // The media groups have been pointing fingers at us,</segment>
+		<segment id="192" parent="406" relname="joint-list">媒体 集团 一直 对 我们 指指点点 ， // The media groups have been pointing fingers at us ,</segment>
 		<segment id="193" parent="194" relname="attribution-positive">说 // Say</segment>
-		<segment id="194" parent="405" relname="span">我们 是 海盗 ， // we are pirates,</segment>
-		<segment id="195" parent="423" relname="span">想 让 我们 感到 某 种 程度 上 的 羞耻 。 // To make us feel ashamed in some way.</segment>
-		<segment id="196" parent="427" relname="evaluation-comment">这 没有用 。 // It didn't work.</segment>
+		<segment id="194" parent="405" relname="span">我们 是 海盗 ， // we are pirates ,</segment>
+		<segment id="195" parent="423" relname="span">想 让 我们 感到 某 种 程度 上 的 羞耻 。 // To make us feel ashamed in some way .</segment>
+		<segment id="196" parent="427" relname="evaluation-comment">这 没有用 。 // It did n't work .</segment>
 		<segment id="197" parent="411" relname="same-unit">我们 // us</segment>
 		<segment id="198" parent="408" relname="same-unit">穿 着 // dressed</segment>
-		<segment id="199" parent="200" relname="elaboration-attribute">写 着 “ 海盗 ” 的 // with "Pirates" written on it</segment>
+		<segment id="199" parent="200" relname="elaboration-attribute">写 着 “ 海盗 ” 的 // with " Pirates " written on it</segment>
 		<segment id="200" parent="407" relname="span">衣服 ， // clothing ,</segment>
 		<segment id="201" parent="409" relname="joint-list">穿 着 鲜艳 的 颜色 // wearing bright colors</segment>
-		<segment id="202" parent="410" relname="span">上街 。 // Take to the streets.</segment>
+		<segment id="202" parent="410" relname="span">上街 。 // Take to the streets .</segment>
 		<segment id="203" parent="412" relname="organization-phatic">是 的 ， // Yes ,</segment>
-		<segment id="204" parent="412" relname="joint-list">我们 是 海盗 ， // we are pirates,</segment>
-		<segment id="205" parent="412" relname="joint-list">我们 也 很 自豪 。 // We are also very proud.</segment>
-		<segment id="206" parent="417" relname="span">此外 ， 这 个 词 在 瑞典 并不 那么 负面 ， // Also, the term is not so negative in Sweden,</segment>
+		<segment id="204" parent="412" relname="joint-list">我们 是 海盗 ， // we are pirates ,</segment>
+		<segment id="205" parent="412" relname="joint-list">我们 也 很 自豪 。 // We are also proud .</segment>
+		<segment id="206" parent="417" relname="span">此外 ， 这 个 词 在 瑞典 并不 那么 负面 ， // Also , the term is not so negative in Sweden ,</segment>
 		<segment id="207" parent="414" relname="span">这 要 归功于 海盗局 // Thanks to the Pirate Bureau</segment>
-		<segment id="208" parent="207" relname="restatement-partial">（ Piratbyrån ） // (Piratbyrån)</segment>
+		<segment id="208" parent="207" relname="restatement-partial">（ Piratbyrån ） // ( Piratbyrån )</segment>
 		<segment id="209" parent="415" relname="same-unit">的 出色 工作 ， // the excellent work ,</segment>
-		<segment id="210" parent="415" relname="elaboration-additional">他们 自 2003年 以来 一直 致力于 教育 公众 。 // They have been educating the public since 2003.</segment>
-		<segment id="211" parent="430" relname="joint-list">如果 你 当选 ， // If you are elected,</segment>
-		<segment id="212" parent="430" relname="joint-list">并 有 机会 成为 瑞典 下 一 届 政府 的 一 部分 ， // and the chance to be part of Sweden's next government,</segment>
+		<segment id="210" parent="415" relname="elaboration-additional">他们 自 2003年 以来 一直 致力于 教育 公众 。 // They have been educating the public since 2003 .</segment>
+		<segment id="211" parent="430" relname="joint-list">如果 你 当选 ， // If you are elected ,</segment>
+		<segment id="212" parent="430" relname="joint-list">并 有 机会 成为 瑞典 下 一 届 政府 的 一 部分 ， // and the chance to be part of Sweden 's next government ,</segment>
 		<segment id="213" parent="431" relname="attribution-negative">你 是否 打算 // are you going to</segment>
 		<segment id="214" parent="431" relname="span">只 关注 你 的 纲领 中 的 问题 // Just focus on the issues in your program</segment>
-		<segment id="215" parent="214" relname="elaboration-attribute">（ 知识 产权法 和 隐私 ） ？ // (Intellectual Property Law and Privacy)?</segment>
-		<segment id="216" parent="454" relname="span">我们 目前 的 计划 是 在 议会 中 支持 政府 ， 但 不 参与 其中 。 // Our current plan is to support the government in parliament but not be involved.</segment>
+		<segment id="215" parent="214" relname="elaboration-attribute">（ 知识 产权法 和 隐私 ） ？ // ( Intellectual Property Law and Privacy ) ?</segment>
+		<segment id="216" parent="454" relname="span">我们 目前 的 计划 是 在 议会 中 支持 政府 ， 但 不 参与 其中 。 // Our current plan is to support the government in parliament but not be involved .</segment>
 		<segment id="217" parent="435" relname="contingency-condition">如果 我们 是 它 的 一 部分 ， // if we were part of it</segment>
 		<segment id="218" parent="434" relname="attribution-positive">那 就 意味 着 // that means</segment>
-		<segment id="219" parent="434" relname="joint-list">我们 得到 了 既得 利益 ， // We have a vested interest,</segment>
-		<segment id="220" parent="434" relname="joint-list">不 能 推翻 它 ， // cannot overturn it,</segment>
-		<segment id="221" parent="222" relname="contingency-condition">如果 他们 开始 违背 我们 的 利益 ， // If they start working against our interests,</segment>
-		<segment id="222" parent="437" relname="span">就 会 使 我们 处于 较 弱 的 地位 。 // would put us in a weaker position.</segment>
+		<segment id="219" parent="434" relname="joint-list">我们 得到 了 既得 利益 ， // We have a vested interest ,</segment>
+		<segment id="220" parent="434" relname="joint-list">不 能 推翻 它 ， // can not overturn it ,</segment>
+		<segment id="221" parent="222" relname="contingency-condition">如果 他们 开始 违背 我们 的 利益 ， // If they start working against our interests ,</segment>
+		<segment id="222" parent="437" relname="span">就 会 使 我们 处于 较 弱 的 地位 。 // would put us in a weaker position .</segment>
 		<segment id="223" parent="440" relname="span">总的来说 ， 我们 的 策略 是 实现 权力 平衡 ， // In general , our strategy is to achieve a balance of power ,</segment>
 		<segment id="224" parent="439" relname="span">左 右 两 块 都 需要 我们 的 选票 // Both the left and the right need our votes</segment>
-		<segment id="225" parent="224" relname="purpose-goal">来 实现 多数 ， // to achieve the majority,</segment>
+		<segment id="225" parent="224" relname="purpose-goal">来 实现 多数 ， // to achieve the majority ,</segment>
 		<segment id="226" parent="442" relname="attribution-positive">然后 支持 // then support</segment>
 		<segment id="227" parent="442" relname="same-unit">哪 一 个 // which one</segment>
 		<segment id="228" parent="229" relname="elaboration-attribute">同意 推动 我们 议题 的 // agree to advance our issues</segment>
-		<segment id="229" parent="441" relname="span">政府 的 议题 最 强 。 // The government's issues are the strongest.</segment>
-		<segment id="230" parent="446" relname="same-unit">基本上 ， 我们 把 我们 在 其他 议题 上 的 选票 卖给 // Basically, we sell our votes on other issues to</segment>
+		<segment id="229" parent="441" relname="span">政府 的 议题 最 强 。 // The government 's issues are the strongest .</segment>
+		<segment id="230" parent="446" relname="same-unit">基本上 ， 我们 把 我们 在 其他 议题 上 的 选票 卖给 // Basically , we sell our votes on other issues to</segment>
 		<segment id="231" parent="232" relname="elaboration-attribute">出价 最高 的 // highest bid</segment>
 		<segment id="232" parent="445" relname="span">人 ， // people ,</segment>
-		<segment id="233" parent="446" relname="purpose-goal">以 换取 他们 推动 我们 的 议题 。 // In exchange for them pushing our agenda.</segment>
+		<segment id="233" parent="446" relname="purpose-goal">以 换取 他们 推动 我们 的 议题 。 // In exchange for them pushing our agenda .</segment>
 		<group id="234" type="span" parent="2" relname="adversative-concession"/>
 		<group id="235" type="span" parent="236" relname="same-unit"/>
 		<group id="236" type="multinuc" parent="240" relname="context-background"/>

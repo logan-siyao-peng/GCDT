@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_chao" author="Wikipedia, The Free Encyclopedia" dateCreated="XXXX-XX-XX" dateCollected="2021-12-04" dateModified="2021-12-03" shortTitle="chao" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%B5%B5%E5%85%83%E4%BB%BB&oldid=68901642" speakerCount="0" speakerList="none" title="赵元任" type="bio"/>
+<text id="gum_zh_bio_chao" author="Wikipedia, The Free Encyclopedia" dateCreated="XXXX-XX-XX" dateCollected="2021-12-04" dateModified="2021-12-03" shortTitle="chao" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%B5%B5%E5%85%83%E4%BB%BB&amp;oldid=68901642" speakerCount="0" speakerList="none" title="赵元任" genre="bio"/>
 赵元任
 
 赵元任（英语：Yuen Ren Chao，1892年11月3日－1982年2月24日-LSB-8-RSB-），字宜仲，生于天津，江苏阳湖人，语言学家，精研北方话与吴语方言的音系。

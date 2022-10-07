@@ -14,10 +14,7 @@ def read_text_file(text_file, include_xml=True):
 		text_lines = [x for x in text_lines if not x.strip().startswith("<")]
 	return text_lines
 
-
-def write_parsed_file(output_parse, parsed_file):
-	with io.open(parsed_file, "w", encoding="utf8") as f_parsed:
-		f_parsed.write("\n\n".join(output_parse) + "\n\n")
+	
 		
 def write_lines_file(output_lines, lines_file):
 	"""

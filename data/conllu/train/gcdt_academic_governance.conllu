@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_governance
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2021-01-12
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=39705
+# meta::speakerCount = 0
+# meta::title = 突发疫情下的政府治理研究——以新冠疫情为例
+# meta::shortTitle = governance
+# meta::author = Zhe Chen
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_governance-1
+# text = 突发疫情下的政府治理研究——以新冠疫情为例
 1	突发	突发	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	7	nmod	_	start_char=3|end_char=5
 3	下	下	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -12,9 +25,13 @@
 12	为	为	VV	VV	_	7	dep	_	start_char=30|end_char=31
 13	例	例	NN	NN	_	12	dobj	_	start_char=32|end_char=33
 
+# sent_id = gcdt_academic_governance-2
+# text = 1. 引言
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	引言	引言	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_governance-3
+# text = 新世纪以来，中国经济进入高速发展的时期，全球化的发展也使得人类之间的联系日益密切。
 1	新	新	JJ	JJ	_	2	amod	_	start_char=0|end_char=1
 2	世纪	世纪	NN	NN	_	17	advmod:loc	_	start_char=2|end_char=4
 3	以来	以来	LC	LC	_	2	case	_	start_char=5|end_char=7
@@ -40,6 +57,8 @@
 23	密切	密切	VA	VA	_	17	ccomp	_	start_char=60|end_char=62
 24	。	。	PU	PU	_	17	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_academic_governance-4
+# text = 同时，我国也进入了突发疫情的高频阶段，2020年新冠疫情则是新中国成立以来最严重的一次公共卫生突发事件，这对政府的治理能力与治理体系提出了新的挑战，也是对中国特色社会主义治理能力与治理体系的一次大考。
 1	同时	同时	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	我国	我国	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -104,6 +123,8 @@
 62	大考	大考	NN	NN	_	5	conj	_	start_char=158|end_char=160
 63	。	。	PU	PU	_	5	punct	_	start_char=161|end_char=162
 
+# sent_id = gcdt_academic_governance-5
+# text = 目前，我国新冠疫情已经基本稳定，进入了疫情防控常态化阶段。
 1	目前	目前	NT	NT	_	8	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	8	punct	_	start_char=3|end_char=4
 3	我国	我国	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -121,6 +142,8 @@
 15	阶段	阶段	NN	NN	_	10	dobj	_	start_char=40|end_char=42
 16	。	。	PU	PU	_	8	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_academic_governance-6
+# text = 但在该次突发疫情中，暴露出政府在责任划分和合作治理等方面的问题，削弱了政府在突发疫情中的治理能力。
 1	但	但	AD	AD	_	23	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	6	case	_	start_char=2|end_char=3
 3	该	该	DT	DT	_	6	det	_	start_char=4|end_char=5
@@ -155,6 +178,8 @@
 32	能力	能力	NN	NN	_	23	dobj	_	start_char=77|end_char=79
 33	。	。	PU	PU	_	23	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_academic_governance-7
+# text = 因此，通过完善现有法律与制度，优化政府治理存在必要性与紧迫性，同时也是实现中国特色社会主义治理能力与治理体系现代化的必然要求。
 1	因此	因此	AD	AD	_	34	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	34	punct	_	start_char=3|end_char=4
 3	通过	通过	P	P	_	4	case	_	start_char=5|end_char=7
@@ -191,12 +216,16 @@
 34	要求	要求	NN	NN	_	0	root	_	start_char=93|end_char=95
 35	。	。	PU	PU	_	34	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_academic_governance-8
+# text = 2. 相关概念与制度
 1	2.	2.	NN	NN	_	5	compound:nn	_	start_char=0|end_char=2
 2	相关	相关	JJ	JJ	_	3	amod	_	start_char=3|end_char=5
 3	概念	概念	NN	NN	_	5	conj	_	start_char=6|end_char=8
 4	与	与	CC	CC	_	5	cc	_	start_char=9|end_char=10
 5	制度	制度	NN	NN	_	0	root	_	start_char=11|end_char=13
 
+# sent_id = gcdt_academic_governance-9
+# text = 2.1. 突发疫情的定义及特点
 1	2.1.	2.1.	NR	NR	_	3	nmod	_	start_char=0|end_char=4
 2	突发	突发	JJ	JJ	_	3	amod	_	start_char=5|end_char=7
 3	疫情	疫情	NN	NN	_	7	nmod:assmod	_	start_char=8|end_char=10
@@ -205,6 +234,8 @@
 6	及	及	CC	CC	_	7	cc	_	start_char=16|end_char=17
 7	特点	特点	NN	NN	_	0	root	_	start_char=18|end_char=20
 
+# sent_id = gcdt_academic_governance-10
+# text = 突发疫情是指突发的、群发的、对公共健康或经济、政治、社会等影响大的(已造成危害或可能造成危害)，需要紧急采取控制措施，与传染病有关的公共卫生事件 -LSB-1-RSB-。
 1	突发	突发	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	4	cop	_	start_char=6|end_char=7
@@ -256,6 +287,8 @@
 49	-RSB-	-RSB-	NN	NN	_	36	dobj	_	start_char=126|end_char=131
 50	。	。	PU	PU	_	36	punct	_	start_char=132|end_char=133
 
+# sent_id = gcdt_academic_governance-11
+# text = 相对于其他突发事件，突发疫情本身具有显著特点，对政府治理提出了更高的要求，集中体现在以下三个方面。
 1	相对于	相对于	P	P	_	4	case	_	start_char=0|end_char=3
 2	其他	其他	DT	DT	_	4	det	_	start_char=4|end_char=6
 3	突发	突发	JJ	JJ	_	4	amod	_	start_char=7|end_char=9
@@ -287,9 +320,13 @@
 29	方面	方面	NN	NN	_	24	nmod:prep	_	start_char=74|end_char=76
 30	。	。	PU	PU	_	9	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_academic_governance-12
+# text = 公共性。
 1	公共性	公共性	NN	NN	_	0	root	_	start_char=0|end_char=3
 2	。	。	PU	PU	_	1	punct	_	start_char=4|end_char=5
 
+# sent_id = gcdt_academic_governance-13
+# text = 突发疫情属于公共卫生事件的一种，突发疫情的最初范围不一定是在普遍的公众领域，很可能是开始于某个狭小的公众领域或为数不多的特定个体，但是由于疫情的传染性，会随着人员交流、人口流动、社会交往等得以进一步的扩散，成为一定区域乃至全球的公共卫生事件。
 1	突发	突发	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	属于	属于	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -365,6 +402,8 @@
 73	事件	事件	NN	NN	_	65	dobj	_	start_char=190|end_char=192
 74	。	。	PU	PU	_	3	punct	_	start_char=193|end_char=194
 
+# sent_id = gcdt_academic_governance-14
+# text = 因此，政府必须通过调动和整合充足的公共资源，跨区域协调联动，并且消除民众心理与公共评价的体系中的不利影响才能得以解决。
 1	因此	因此	AD	AD	_	35	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	35	punct	_	start_char=3|end_char=4
 3	政府	政府	NN	NN	_	35	nsubj	_	start_char=5|end_char=7
@@ -402,9 +441,13 @@
 35	解决	解决	NN	NN	_	0	root	_	start_char=90|end_char=92
 36	。	。	PU	PU	_	35	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_academic_governance-15
+# text = 突发性。
 1	突发性	突发性	NN	NN	_	0	root	_	start_char=0|end_char=3
 2	。	。	PU	PU	_	1	punct	_	start_char=4|end_char=5
 
+# sent_id = gcdt_academic_governance-16
+# text = 突发疫情的发生是不可预测的，容易被忽视的，但是却具有极大危害性乃至颠覆性。
 1	突发	突发	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -430,6 +473,8 @@
 23	颠覆性	颠覆性	NN	NN	_	18	dobj	_	start_char=55|end_char=58
 24	。	。	PU	PU	_	18	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_academic_governance-17
+# text = 公共对策研究的最大困境就在于很难对事件的发生和发展做出预先的判断，所以事件一旦发生，公众和政府容易在早期陷入被动与慌乱。
 1	公共	公共	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	对策	对策	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	研究	研究	NN	NN	_	6	nmod:assmod	_	start_char=6|end_char=8
@@ -468,6 +513,8 @@
 36	慌乱	慌乱	NN	NN	_	33	dobj	_	start_char=92|end_char=94
 37	。	。	PU	PU	_	8	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_academic_governance-18
+# text = 同时在事件中不断出现的新情况也往往是无章可循的，需要时间进行分析和对策，这时就出现了“政策真空”的时期，事件继续恶化走向危机 -LSB-2-RSB-。
 1	同时	同时	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	3	case	_	start_char=3|end_char=4
 3	事件	事件	NN	NN	_	6	nmod:prep	_	start_char=5|end_char=7
@@ -511,6 +558,8 @@
 41	-RSB-	-RSB-	NN	NN	_	36	dobj	_	start_char=108|end_char=113
 42	。	。	PU	PU	_	13	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_academic_governance-19
+# text = 因此，政府对于突发疫情的发生与发展的预先判断对于防止疫情的进一步扩大至关重要。
 1	因此	因此	AD	AD	_	20	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	20	punct	_	start_char=3|end_char=4
 3	政府	政府	NN	NN	_	20	nsubj	_	start_char=5|end_char=7
@@ -533,9 +582,13 @@
 20	至关重要	至关重要	VV	VV	_	0	root	_	start_char=53|end_char=57
 21	。	。	PU	PU	_	20	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_governance-20
+# text = 危害性。
 1	危害性	危害性	NN	NN	_	0	root	_	start_char=0|end_char=3
 2	。	。	PU	PU	_	1	punct	_	start_char=4|end_char=5
 
+# sent_id = gcdt_academic_governance-21
+# text = 突发疫情的危害性体现政治、经济与社会生活的各个方面，相对于短暂的卫生事件而言，突发疫情的危害性也是相对持久的，范围也是会波及甚广。
 1	突发	突发	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -577,6 +630,8 @@
 39	广	广	VA	VA	_	37	conj	_	start_char=101|end_char=102
 40	。	。	PU	PU	_	5	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_academic_governance-22
+# text = 就经济角度而言，新冠疫情对中国经济的发展产生巨大影响，要求政府在防控疫情时，适时恢复社会生产，实现防控工作与经济发展的平衡。
 1	就	就	P	P	_	3	case	_	start_char=0|end_char=1
 2	经济	经济	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	角度	角度	NN	NN	_	13	nmod:prep	_	start_char=5|end_char=7
@@ -615,6 +670,8 @@
 36	平衡	平衡	NN	NN	_	29	dobj	_	start_char=94|end_char=96
 37	。	。	PU	PU	_	13	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_academic_governance-23
+# text = 突发疫情是非常态的，会在一定时间内，对一定区域内社会格局产生持久性的消极影响。
 1	突发	突发	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	5	cop	_	start_char=6|end_char=7
@@ -641,6 +698,8 @@
 24	影响	影响	NN	NN	_	20	dobj	_	start_char=59|end_char=61
 25	。	。	PU	PU	_	20	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_academic_governance-24
+# text = 对于肩负维护社会安全与稳定、保障公民各项权利，促进经济发展任务的各级政府组织而言，应对突发疫情是一个长期的、持续的过程，是其职能所系，同时也对政府的行政能力与行政合法性层面提出了要求。
 1	对于	对于	P	P	_	23	case	_	start_char=0|end_char=2
 2	肩负	肩负	VV	VV	_	37	nmod:prep	_	start_char=3|end_char=5
 3	维护	维护	VV	VV	_	23	acl	_	start_char=6|end_char=8
@@ -701,6 +760,8 @@
 58	要求	要求	NN	NN	_	56	dobj	_	start_char=146|end_char=148
 59	。	。	PU	PU	_	37	punct	_	start_char=149|end_char=150
 
+# sent_id = gcdt_academic_governance-25
+# text = 2.2. 突发疫情下政府治理的相关制度
 1	2.2.	2.2.	NR	NR	_	3	nmod	_	start_char=0|end_char=4
 2	突发	突发	JJ	JJ	_	3	amod	_	start_char=5|end_char=7
 3	疫情	疫情	NN	NN	_	9	dep	_	start_char=8|end_char=10
@@ -711,6 +772,8 @@
 8	相关	相关	JJ	JJ	_	9	amod	_	start_char=21|end_char=23
 9	制度	制度	NN	NN	_	0	root	_	start_char=24|end_char=26
 
+# sent_id = gcdt_academic_governance-26
+# text = 自2003年非典突发疫情以后，中国政府加紧建设在突发状态下的政府应急治理体系建设，主要集中体现在建立与完善以“一案三制”为核心的应急管理体系建设，包括紧急预案、应急体制、应急机制与法制，建立“国家统一领导、综合协调、分类管理、分级负责、属地管理为主的应急管理体制”，保证了突发状态下政府的应急能力与治理能力。
 1	自	自	P	P	_	5	case	_	start_char=0|end_char=1
 2	2003年	2003年	NT	NT	_	5	compound:nn	_	start_char=2|end_char=7
 3	非典	非典	JJ	JJ	_	5	amod	_	start_char=8|end_char=10
@@ -806,10 +869,14 @@
 93	能力	能力	NN	NN	_	82	dobj	_	start_char=243|end_char=245
 94	。	。	PU	PU	_	11	punct	_	start_char=246|end_char=247
 
+# sent_id = gcdt_academic_governance-27
+# text = 2.2.1. 紧急预案
 1	2.2.1.	2.2.1.	URL	URL	_	3	compound:nn	_	start_char=0|end_char=6
 2	紧急	紧急	JJ	JJ	_	3	amod	_	start_char=7|end_char=9
 3	预案	预案	NN	NN	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_academic_governance-28
+# text = 应急预案是指承担突发事件应对职能的国家机关针对突发事件的预防和准备、监测与预警、处置与救援、恢复与重建，以及应急管理的组织、指挥、保障等内容而制定的工作计划。
 1	应急	应急	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	预案	预案	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	4	cop	_	start_char=6|end_char=7
@@ -860,6 +927,8 @@
 48	计划	计划	NN	NN	_	4	dobj	_	start_char=123|end_char=125
 49	。	。	PU	PU	_	4	punct	_	start_char=126|end_char=127
 
+# sent_id = gcdt_academic_governance-29
+# text = 2005年，国务院审议并通过了《国家突发公共事件总应急预案》，公共卫生事件的各级专项预案和部门预案陆续发布，将突发公共卫生危机分为特别重大、重大、较大和一般四级，分别用红、橙、黄、蓝色来表示。
 1	2005年	2005年	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	4	punct	_	start_char=6|end_char=7
 3	国务院	国务院	NN	NN	_	4	nsubj	_	start_char=8|end_char=11
@@ -921,10 +990,14 @@
 59	表示	表示	VV	VV	_	4	conj	_	start_char=151|end_char=153
 60	。	。	PU	PU	_	4	punct	_	start_char=154|end_char=155
 
+# sent_id = gcdt_academic_governance-30
+# text = 2.2.2. 应急体制
 1	2.2.2.	2.2.2.	URL	URL	_	3	compound:nn	_	start_char=0|end_char=6
 2	应急	应急	JJ	JJ	_	3	amod	_	start_char=7|end_char=9
 3	体制	体制	NN	NN	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_academic_governance-31
+# text = 应急体制建设是国家应急体系建设中一个重要的组成部分，在《中华人民共和国突发事件应对法》中，根据突发疫情发生的规模程度和影响范围，分别由各级政府实施应急管理；跨省区、跨部门或特别重大的突发疫情，由国务院及有关部门进行直接管理，地方各级政府予以协助配合；其他局部性的或一般性的疫情，由地方相应层级政府负责处理，上级政府或有关部门可予以指导、支持和帮助，初步形成了条块结合的管理结构和响应体制。
 1	应急	应急	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	体制	体制	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	建设	建设	NN	NN	_	15	nsubj	_	start_char=6|end_char=8
@@ -1043,6 +1116,8 @@
 116	体制	体制	NN	NN	_	107	dobj	_	start_char=306|end_char=308
 117	。	。	PU	PU	_	15	punct	_	start_char=309|end_char=310
 
+# sent_id = gcdt_academic_governance-32
+# text = 总的来说，我国目前已初步建立了新型的、法治基础上的平战结合(日常与紧急时期)、常态管理与非常态管理相结合的新型公共卫生应急管理体制，其显著特点是制度化和应急管理常态化、专业化 -LSB-3-RSB-。
 1	总的来说	总的来说	AD	AD	_	7	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	7	punct	_	start_char=5|end_char=6
 3	我国	我国	NN	NN	_	7	nsubj	_	start_char=7|end_char=9
@@ -1099,10 +1174,14 @@
 54	-RSB-	-RSB-	NN	NN	_	7	conj	_	start_char=146|end_char=151
 55	。	。	PU	PU	_	7	punct	_	start_char=152|end_char=153
 
+# sent_id = gcdt_academic_governance-33
+# text = 2.2.3. 应急机制
 1	2.2.3.	2.2.3.	CD	CD	_	3	dep	_	start_char=0|end_char=6
 2	应急	应急	JJ	JJ	_	3	amod	_	start_char=7|end_char=9
 3	机制	机制	NN	NN	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_academic_governance-34
+# text = 突发疫情状态下的应急机制是整个应急管理体系中的基础部分，涉及突发疫情状态前后政府治理的各个环节，包括监测预警、信息公开、社会动员、协调联动、舆论引导以及重建等方面。
 1	突发	突发	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	疫情	疫情	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	状态	状态	NN	NN	_	7	nmod	_	start_char=6|end_char=8
@@ -1152,6 +1231,8 @@
 47	方面	方面	NN	NN	_	29	dobj	_	start_char=125|end_char=127
 48	。	。	PU	PU	_	16	punct	_	start_char=128|end_char=129
 
+# sent_id = gcdt_academic_governance-35
+# text = 《国家公共卫生总预案》中提出，建立功能完善、反应迅速、运转协调的突发公共卫生应急体制，为国家在突发疫情下应急体制建设建立了总的指导原则。
 1	《	《	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	国家	国家	NN	NN	_	5	compound:nn	_	start_char=2|end_char=4
 3	公共	公共	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -1194,10 +1275,14 @@
 40	原则	原则	NN	NN	_	35	dobj	_	start_char=104|end_char=106
 41	。	。	PU	PU	_	8	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_academic_governance-36
+# text = 2.2.4. 应急法制
 1	2.2.4.	2.2.4.	URL	URL	_	3	compound:nn	_	start_char=0|end_char=6
 2	应急	应急	JJ	JJ	_	3	amod	_	start_char=7|end_char=9
 3	法制	法制	NN	NN	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_academic_governance-37
+# text = 在突发疫情状态下，法律体系的建设为政府治理提供了根本保障，对于政府治理具有根本意义。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	突发	突发	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
 3	疫情	疫情	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -1224,6 +1309,8 @@
 24	意义	意义	NN	NN	_	22	dobj	_	start_char=62|end_char=64
 25	。	。	PU	PU	_	14	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_governance-38
+# text = 在2003年非典疫情过后，国家加紧完善关于包括突发疫情在内的公共卫生法律体系，先后出台了《突发公共卫生事件应急条例》、《突发公共卫生应急总预案》、《重大动物疫情应急条例》、《中华人民共和国传染病防治法》、《中华人民共和国动物防疫法》等一系列相关法规和条例，标志着我国包括突发疫情在内的政府应急治理进入了法制化轨道法制化，进一步完善了政府应急治理机制与体制。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	2003年	2003年	NT	NT	_	4	compound:nn	_	start_char=2|end_char=7
 3	非典	非典	JJ	JJ	_	4	amod	_	start_char=8|end_char=10

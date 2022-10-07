@@ -1,7 +1,22 @@
+# newdoc id = gcdt_whow_glowstick
+# meta::dateCollected = 2021-12-05
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E5%88%B6%E4%BD%9C%E8%8D%A7%E5%85%89%E6%A3%92
+# meta::speakerCount = 0
+# meta::title = 如何制作荧光棒
+# meta::shortTitle = glowstick
+# meta::author = wikiHow员工
+# meta::genre = whow
+# meta::partition = train
+# sent_id = gcdt_whow_glowstick-1
+# text = 如何制作荧光棒
 1	如何	如何	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	制作	制作	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	荧光棒	荧光棒	NN	NN	_	2	dobj	_	start_char=6|end_char=9
 
+# sent_id = gcdt_whow_glowstick-2
+# text = 网上那些用激浪饮料、过氧化氢和小苏打制作荧光棒的视频都是骗人的，利用已经做好的荧光棒里面的物质制作新的荧光棒，这样的做法无非是作弊。
 1	网上	网上	NN	NN	_	16	nmod:topic	_	start_char=0|end_char=2
 2	那些	那些	DT	DT	_	13	det	_	start_char=3|end_char=5
 3	用	用	P	P	_	9	case	_	start_char=6|end_char=7
@@ -41,6 +56,8 @@
 37	作弊	作弊	VV	VV	_	0	root	_	start_char=99|end_char=101
 38	。	。	PU	PU	_	37	punct	_	start_char=102|end_char=103
 
+# sent_id = gcdt_whow_glowstick-3
+# text = 要真正自己动手做荧光棒，你就要调动浑身的科学细胞（还要花点钱）。
 1	要	要	VV	VV	_	5	xcomp	_	start_char=0|end_char=1
 2	真正	真正	AD	AD	_	5	advmod	_	start_char=2|end_char=4
 3	自己	自己	PN	PN	_	5	nsubj	_	start_char=5|end_char=7
@@ -65,6 +82,8 @@
 22	）	）	PU	PU	_	19	punct	_	start_char=51|end_char=52
 23	。	。	PU	PU	_	11	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_glowstick-4
+# text = 还是很想制作荧光棒吗？
 1	还是	还是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	很	很	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	7	dep	_	start_char=5|end_char=6
@@ -73,6 +92,8 @@
 6	吗	吗	SP	SP	_	7	discourse	_	start_char=14|end_char=15
 7	？	？	PU	PU	_	0	root	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_glowstick-5
+# text = 那就继续阅读吧。
 1	那	那	AD	AD	_	4	advmod	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	继续	继续	VV	VV	_	4	xcomp	_	start_char=4|end_char=6
@@ -80,19 +101,27 @@
 5	吧	吧	SP	SP	_	6	discourse	_	start_char=10|end_char=11
 6	。	。	PU	PU	_	0	root	_	start_char=12|end_char=13
 
+# sent_id = gcdt_whow_glowstick-6
+# text = 方法1
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_glowstick-7
+# text = 用发光氨制作荧光棒
 1	用	用	P	P	_	2	case	_	start_char=0|end_char=1
 2	发光氨	发光氨	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=5
 3	制作	制作	VV	VV	_	0	root	_	start_char=6|end_char=8
 4	荧光棒	荧光棒	NN	NN	_	3	dobj	_	start_char=9|end_char=12
 
+# sent_id = gcdt_whow_glowstick-8
+# text = 1 戴上护目镜。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	戴上	戴上	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	护目镜	护目镜	NN	NN	_	2	dobj	_	start_char=5|end_char=8
 4	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_whow_glowstick-9
+# text = 还要戴上手套以保护皮肤，另外，穿得光鲜亮丽显然也不是什么明智的选择，最好是换身旧衣服，或者在外面套一件工作服来保护衣服。
 1	还	还	AD	AD	_	3	advmod	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
 3	戴上	戴上	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -134,6 +163,8 @@
 39	衣服	衣服	NN	NN	_	38	dobj	_	start_char=95|end_char=97
 40	。	。	PU	PU	_	3	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_whow_glowstick-10
+# text = 本实验中有些物质是危险品，因此本实验并不适合儿童。
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	实验	实验	NN	NN	_	7	advmod:loc	_	start_char=2|end_char=4
 3	中	中	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -150,6 +181,8 @@
 14	儿童	儿童	NN	NN	_	13	dobj	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_glowstick-11
+# text = 注意，孩子们：你将要使用的溶液的pH值高达12，这就意味着你绝对不可以喝下去，绝对不可以滴到眼睛里，绝对不可以把身体任何部分浸到里面，总之，不要与之有任何直接接触。
 1	注意	注意	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	1	punct	_	start_char=3|end_char=4
 3	孩子们	孩子们	NN	NN	_	15	nmod:topic	_	start_char=5|end_char=8
@@ -207,15 +240,21 @@
 55	接触	接触	NN	NN	_	52	dobj	_	start_char=133|end_char=135
 56	。	。	PU	PU	_	1	punct	_	start_char=136|end_char=137
 
+# sent_id = gcdt_whow_glowstick-12
+# text = 明白了吗？
 1	明白	明白	VV	VV	_	4	dep	_	start_char=0|end_char=2
 2	了	了	AS	AS	_	1	aux:asp	_	start_char=3|end_char=4
 3	吗	吗	SP	SP	_	4	discourse	_	start_char=5|end_char=6
 4	？	？	PU	PU	_	0	root	_	start_char=7|end_char=8
 
+# sent_id = gcdt_whow_glowstick-13
+# text = 现在继续。
 1	现在	现在	NT	NT	_	2	nmod:tmod	_	start_char=0|end_char=2
 2	继续	继续	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	。	。	PU	PU	_	2	punct	_	start_char=6|end_char=7
 
+# sent_id = gcdt_whow_glowstick-14
+# text = 2 将50毫升过氧化氢与1升蒸馏水倒入碗中混合。
 1	2	2	CD	CD	_	10	dep	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	10	aux:ba	_	start_char=2|end_char=3
 3	50	50	CD	CD	_	5	nummod	_	start_char=4|end_char=6
@@ -230,6 +269,8 @@
 12	混合	混合	NN	NN	_	10	dobj	_	start_char=31|end_char=33
 13	。	。	PU	PU	_	10	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_glowstick-15
+# text = 最好用陶瓷的碗，塑料的也可以。
 1	最好	最好	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	用	用	VV	VV	_	10	dep	_	start_char=3|end_char=4
 3	陶瓷	陶瓷	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=7
@@ -242,6 +283,8 @@
 10	可以	可以	VA	VA	_	0	root	_	start_char=21|end_char=23
 11	。	。	PU	PU	_	10	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_whow_glowstick-16
+# text = 用漏斗、量筒及滴管来精确量取溶液，量取的同时要注意与其保持距离。
 1	用	用	P	P	_	6	case	_	start_char=0|end_char=1
 2	漏斗	漏斗	NN	NN	_	6	conj	_	start_char=2|end_char=4
 3	、	、	PU	PU	_	6	punct	_	start_char=5|end_char=6
@@ -264,6 +307,8 @@
 20	距离	距离	NN	NN	_	19	dobj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	16	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_glowstick-17
+# text = 过氧化氢中的氧可以置换出发光氨中的氮原子。
 1	过氧化氢	过氧化氢	NN	NN	_	4	nmod	_	start_char=0|end_char=4
 2	中	中	LC	LC	_	1	case	_	start_char=5|end_char=6
 3	的	的	DEG	DEG	_	1	case	_	start_char=7|end_char=8
@@ -278,6 +323,8 @@
 12	原子	原子	NN	NN	_	6	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	6	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_glowstick-18
+# text = 在此过程中，所有物质都会剧烈反应，天翻地覆，电子得失流转，最终产生质子。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	此	此	DT	DT	_	3	det	_	start_char=2|end_char=3
 3	过程	过程	NN	NN	_	11	nmod:prep	_	start_char=4|end_char=6
@@ -302,6 +349,8 @@
 22	质子	质子	NN	NN	_	21	dobj	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	11	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_glowstick-19
+# text = 这期间你会看到什么？
 1	这	这	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	期间	期间	NN	NN	_	5	nmod:topic	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -310,9 +359,13 @@
 6	什么	什么	PN	PN	_	5	dobj	_	start_char=12|end_char=14
 7	？	？	PU	PU	_	5	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_glowstick-20
+# text = 荧光。
 1	荧光	荧光	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_glowstick-21
+# text = 3 配制第二种混合溶液。
 1	3	3	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	配制	配制	NN	NN	_	6	compound:nn	_	start_char=2|end_char=4
 3	第二	第二	OD	OD	_	6	nummod	_	start_char=5|end_char=7
@@ -321,6 +374,8 @@
 6	溶液	溶液	NN	NN	_	0	root	_	start_char=13|end_char=15
 7	。	。	PU	PU	_	6	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_glowstick-22
+# text = 再拿一个碗，取2克发光氨、4克碳酸钠、4克硫酸铜、5克碳酸铵及1升蒸馏水混合。
 1	再	再	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	拿	拿	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	5	nummod	_	start_char=4|end_char=5
@@ -350,6 +405,8 @@
 27	混合	混合	VV	VV	_	2	conj	_	start_char=62|end_char=64
 28	。	。	PU	PU	_	2	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_whow_glowstick-23
+# text = 手 千万不要碰到发光氨，量取发光氨时一定要用漏斗以保证安全。
 1	手	手	NN	NN	_	5	nsubj	_	start_char=0|end_char=1
 2	千万	千万	AD	AD	_	5	advmod	_	start_char=2|end_char=4
 3	不	不	AD	AD	_	5	neg	_	start_char=5|end_char=6
@@ -369,6 +426,8 @@
 17	安全	安全	NN	NN	_	16	dobj	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	5	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_glowstick-24
+# text = 安全措施一定要做好，因为很可惜，这些危险的化学物质才不会像图上一样自己从半空中飞到容器里去呢。
 1	安全	安全	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	措施	措施	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	一定	一定	AD	AD	_	5	advmod	_	start_char=6|end_char=8
@@ -401,6 +460,8 @@
 30	呢	呢	SP	SP	_	26	discourse	_	start_char=74|end_char=75
 31	。	。	PU	PU	_	5	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_whow_glowstick-25
+# text = 当然啦，除非你是法医或者什么脑残间谍或刑事学家，你家里一般都不会有那些化学实验用具。
 1	当然	当然	AD	AD	_	22	advmod	_	start_char=0|end_char=2
 2	啦	啦	SP	SP	_	22	dep	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	22	punct	_	start_char=5|end_char=6
@@ -429,6 +490,8 @@
 26	用具	用具	NN	NN	_	22	dobj	_	start_char=64|end_char=66
 27	。	。	PU	PU	_	22	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_whow_glowstick-26
+# text = 不过，如果你打定了主意要做些荧光棒来卖（呵呵，这还不算最糟糕的主意），那么你可以查查Alfa Aesar-LSB-1-RSB- 或Sigma Aldrich-LSB-2-RSB- 等网站，这些网站上出售相关实验用具。
 1	不过	不过	AD	AD	_	29	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	29	punct	_	start_char=3|end_char=4
 3	如果	如果	CS	CS	_	5	advmod	_	start_char=5|end_char=7
@@ -481,6 +544,8 @@
 50	用具	用具	NN	NN	_	47	dobj	_	start_char=150|end_char=152
 51	。	。	PU	PU	_	29	punct	_	start_char=153|end_char=154
 
+# sent_id = gcdt_whow_glowstick-27
+# text = 所有溶剂都要充分混合。
 1	所有	所有	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	溶剂	溶剂	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	都	都	AD	AD	_	6	advmod	_	start_char=6|end_char=7
@@ -489,6 +554,8 @@
 6	混合	混合	VV	VV	_	0	root	_	start_char=13|end_char=15
 7	。	。	PU	PU	_	6	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_glowstick-28
+# text = 不要用手搅拌溶剂，要用厨房用具之类的东西，金属或塑料的都可以。
 1	不	不	AD	AD	_	5	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	5	xcomp	_	start_char=2|end_char=3
 3	用	用	P	P	_	4	case	_	start_char=4|end_char=5
@@ -512,6 +579,8 @@
 21	可以	可以	VA	VA	_	5	conj	_	start_char=48|end_char=50
 22	。	。	PU	PU	_	5	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_glowstick-29
+# text = 4 清洗盛装最后的混合溶液的容器，等其干透。
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	清洗	清洗	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	盛装	盛装	VV	VV	_	2	compound:vc	_	start_char=5|end_char=7
@@ -527,6 +596,8 @@
 13	干透	干透	VV	VV	_	2	conj	_	start_char=30|end_char=32
 14	。	。	PU	PU	_	2	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_glowstick-30
+# text = 用于制作荧光棒的管状容器一定要清洁、卫生，否则里面残余的其他物质可能会与已经调配好的溶液发生反应。
 1	用于	用于	VV	VV	_	6	acl	_	start_char=0|end_char=2
 2	制作	制作	VV	VV	_	6	acl	_	start_char=3|end_char=5
 3	荧光棒	荧光棒	NN	NN	_	2	dobj	_	start_char=6|end_char=9
@@ -557,6 +628,8 @@
 28	反应	反应	NN	NN	_	27	dobj	_	start_char=73|end_char=75
 29	。	。	PU	PU	_	9	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_whow_glowstick-31
+# text = 5 把管状容器的盖子放在随手可及的地方。
 1	5	5	CD	CD	_	6	nummod	_	start_char=0|end_char=1
 2	把	把	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	管状	管状	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -569,6 +642,8 @@
 10	地方	地方	NN	NN	_	7	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	7	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_glowstick-32
+# text = 这样，当你在容器中注满溶液后，你就能迅速盖起来了，虽然并不是说溶液长久暴露在空气中就会失去荧光，但你还是尽快盖起来比较好。
 1	这样	这样	AD	AD	_	16	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
 3	当	当	P	P	_	8	case	_	start_char=5|end_char=6
@@ -613,6 +688,8 @@
 42	好	好	VA	VA	_	39	conj	_	start_char=100|end_char=101
 43	。	。	PU	PU	_	39	punct	_	start_char=102|end_char=103
 
+# sent_id = gcdt_whow_glowstick-33
+# text = 6 将等量的两种溶液混合，然后封闭容器，震荡，关灯！
 1	6	6	CD	CD	_	8	nsubj	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	8	aux:ba	_	start_char=2|end_char=3
 3	等量	等量	JJ	JJ	_	7	amod	_	start_char=4|end_char=6
@@ -631,6 +708,8 @@
 16	关灯	关灯	VV	VV	_	14	conj	_	start_char=37|end_char=39
 17	！	！	PU	PU	_	8	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_glowstick-34
+# text = 如果你没有看到荧光，那么你肯定有哪一步做错了，重来吧。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	没有	没有	AD	AD	_	4	neg	_	start_char=5|end_char=7
@@ -651,6 +730,8 @@
 18	吧	吧	SP	SP	_	17	discourse	_	start_char=42|end_char=43
 19	。	。	PU	PU	_	0	root	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_glowstick-35
+# text = 7 欣赏这奇妙化学混合物发出的炫彩荧光吧。
 1	7	7	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	欣赏	欣赏	VV	VV	_	12	dep	_	start_char=2|end_char=4
 3	这	这	DT	DT	_	6	det	_	start_char=5|end_char=6
@@ -664,6 +745,8 @@
 11	吧	吧	SP	SP	_	12	discourse	_	start_char=28|end_char=29
 12	。	。	PU	PU	_	0	root	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_glowstick-36
+# text = 把你的荧光棒带到派对上去，然后卖给朋友，好好敲他们一笔吧。
 1	把	把	BA	BA	_	5	aux:ba	_	start_char=0|end_char=1
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -685,6 +768,8 @@
 19	吧	吧	SP	SP	_	15	discourse	_	start_char=45|end_char=46
 20	。	。	PU	PU	_	5	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_glowstick-37
+# text = 不过动作要快，荧光能维持的时间不长。
 1	不过	不过	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	动作	动作	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	要	要	VV	VV	_	4	xcomp	_	start_char=6|end_char=7
@@ -699,6 +784,8 @@
 12	长	长	VA	VA	_	4	conj	_	start_char=27|end_char=28
 13	。	。	PU	PU	_	4	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_glowstick-38
+# text = 怎么，听到这话有点失望？
 1	怎么	怎么	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	听到	听到	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -708,6 +795,8 @@
 7	失望	失望	VA	VA	_	3	ccomp	_	start_char=15|end_char=17
 8	？	？	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_glowstick-39
+# text = 别担心，第二种方法帮你解决这一问题。
 1	别	别	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	担心	担心	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -722,6 +811,8 @@
 12	问题	问题	NN	NN	_	9	dobj	_	start_char=26|end_char=28
 13	。	。	PU	PU	_	2	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_glowstick-40
+# text = 发光氨和过氧化氢发生反应的持续时间不长，可能只有几分钟。
 1	发光氨	发光氨	NN	NN	_	3	conj	_	start_char=0|end_char=3
 2	和	和	CC	CC	_	3	cc	_	start_char=4|end_char=5
 3	过氧化氢	过氧化氢	NN	NN	_	4	nsubj	_	start_char=6|end_char=10
@@ -740,6 +831,8 @@
 16	分钟	分钟	M	M	_	15	mark:clf	_	start_char=40|end_char=42
 17	。	。	PU	PU	_	10	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_glowstick-41
+# text = 如果你想做一个荧光可以维持好几个小时的荧光棒，那么请参考下一个方法（这种方法可能必须在实验室里进行，不过还是值得一提的）。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	18	dep	_	start_char=5|end_char=6
@@ -781,14 +874,20 @@
 39	）	）	PU	PU	_	36	punct	_	start_char=97|end_char=98
 40	。	。	PU	PU	_	18	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_whow_glowstick-42
+# text = 方法2
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_glowstick-43
+# text = 用TCPO制作荧光棒
 1	用	用	P	P	_	2	case	_	start_char=0|end_char=1
 2	TCPO	TCPO	NR	NR	_	3	nmod:prep	_	start_char=2|end_char=6
 3	制作	制作	VV	VV	_	0	root	_	start_char=7|end_char=9
 4	荧光棒	荧光棒	NN	NN	_	3	dobj	_	start_char=10|end_char=13
 
+# sent_id = gcdt_whow_glowstick-44
+# text = 1 拿出做实验的各种道具吧。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	拿出	拿出	VV	VV	_	10	dep	_	start_char=2|end_char=4
 3	做	做	VV	VV	_	8	acl	_	start_char=5|end_char=6
@@ -800,6 +899,8 @@
 9	吧	吧	SP	SP	_	10	discourse	_	start_char=19|end_char=20
 10	。	。	PU	PU	_	0	root	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_glowstick-45
+# text = 这回要干点技术活了。
 1	这	这	DT	DT	_	4	dep	_	start_char=0|end_char=1
 2	回	回	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	要	要	VV	VV	_	4	xcomp	_	start_char=4|end_char=5
@@ -809,6 +910,8 @@
 7	了	了	SP	SP	_	8	discourse	_	start_char=14|end_char=15
 8	。	。	PU	PU	_	0	root	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_glowstick-46
+# text = 你除了要准备防护装以外，还要备好试管、漏斗及注射器。
 1	你	你	PN	PN	_	10	nsubj	_	start_char=0|end_char=1
 2	除了	除了	P	P	_	4	case	_	start_char=2|end_char=4
 3	要	要	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -826,6 +929,8 @@
 15	注射器	注射器	NN	NN	_	10	dobj	_	start_char=36|end_char=39
 16	。	。	PU	PU	_	10	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_glowstick-47
+# text = 该实验的要求比较严格，因此比较适合那些在化学实验方面有丰富经验的人。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	实验	实验	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -848,6 +953,8 @@
 20	人	人	NN	NN	_	10	dobj	_	start_char=51|end_char=52
 21	。	。	PU	PU	_	6	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_glowstick-48
+# text = 注意，实验中用到的某些试剂如使用不当可能极具危险性。
 1	注意	注意	VV	VV	_	12	dep	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	实验	实验	NN	NN	_	5	advmod:loc	_	start_char=5|end_char=7
@@ -866,6 +973,8 @@
 16	危险性	危险性	NN	NN	_	15	dobj	_	start_char=37|end_char=40
 17	。	。	PU	PU	_	1	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_whow_glowstick-49
+# text = 务必戴好防护手套及护目镜。
 1	务必	务必	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	戴好	戴好	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	防护	防护	NN	NN	_	6	compound:nn	_	start_char=6|end_char=8
@@ -874,6 +983,8 @@
 6	护目镜	护目镜	NN	NN	_	2	dobj	_	start_char=14|end_char=17
 7	。	。	PU	PU	_	2	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_glowstick-50
+# text = 同时也要保护好手臂，避免皮肤与化学试剂直接接触。
 1	同时	同时	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	要	要	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -890,6 +1001,8 @@
 14	接触	接触	VV	VV	_	8	ccomp	_	start_char=34|end_char=36
 15	。	。	PU	PU	_	4	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_whow_glowstick-51
+# text = 不怕一万，只怕万一。
 1	不	不	AD	AD	_	2	neg	_	start_char=0|end_char=1
 2	怕	怕	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	一万	一万	CD	CD	_	2	nmod:range	_	start_char=4|end_char=6
@@ -899,6 +1012,8 @@
 7	万一	万一	NN	NN	_	6	dobj	_	start_char=13|end_char=15
 8	。	。	PU	PU	_	2	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_glowstick-52
+# text = 容器可任选，不过考虑到透光的效果，玻璃容器显然比塑料容器更佳。
 1	容器	容器	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	可	可	VV	VV	_	3	aux:modal	_	start_char=3|end_char=4
 3	任选	任选	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -920,6 +1035,8 @@
 19	佳	佳	VA	VA	_	3	conj	_	start_char=47|end_char=48
 20	。	。	PU	PU	_	3	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_glowstick-53
+# text = 2 在10毫升酞酸二乙酯中加入3毫克荧光染料。
 1	2	2	CD	CD	_	7	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	5	case	_	start_char=2|end_char=3
 3	10	10	CD	CD	_	5	nummod	_	start_char=4|end_char=6
@@ -933,6 +1050,8 @@
 11	染料	染料	NN	NN	_	7	dobj	_	start_char=29|end_char=31
 12	。	。	PU	PU	_	7	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_glowstick-54
+# text = 你没有看错，就是“酞酸二乙酯”，读起来挺拗口的吧。
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	没有	没有	AD	AD	_	3	neg	_	start_char=2|end_char=4
 3	看错	看错	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -951,6 +1070,8 @@
 16	吧	吧	SP	SP	_	14	discourse	_	start_char=38|end_char=39
 17	。	。	PU	PU	_	3	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_glowstick-55
+# text = 不管怎样，千万不要加水，因为我们用到的这些试剂在水中是不会发生反应的。
 1	不管	不管	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	怎样	怎样	VA	VA	_	7	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -976,6 +1097,8 @@
 23	的	的	SP	SP	_	21	discourse	_	start_char=55|end_char=56
 24	。	。	PU	PU	_	7	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_glowstick-56
+# text = 不错，这也是本实验简单易行的方面之一。
 1	不	不	AD	AD	_	2	neg	_	start_char=0|end_char=1
 2	错	错	VA	VA	_	0	root	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -991,6 +1114,8 @@
 13	之一	之一	NN	NN	_	2	conj	_	start_char=28|end_char=30
 14	。	。	PU	PU	_	2	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_glowstick-57
+# text = 确保你用的是荧光染料。
 1	确保	确保	VV	VV	_	7	nsubj	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	用	用	VV	VV	_	1	ccomp	_	start_char=5|end_char=6
@@ -1000,6 +1125,8 @@
 7	染料	染料	NN	NN	_	0	root	_	start_char=14|end_char=16
 8	。	。	PU	PU	_	7	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_whow_glowstick-58
+# text = 9,10-二(苯基乙炔基)蒽可以用作绿色，红荧烯可以用作黄色，9,10-二苯基蒽可以用作蓝色，罗丹明B可以用作红色。
 1	9,10-二	9,10-二	NR	NR	_	7	dep	_	start_char=0|end_char=6
 2	(	(	PU	PU	_	3	punct	_	start_char=7|end_char=8
 3	苯基乙炔基	苯基乙炔基	NR	NR	_	5	dep	_	start_char=9|end_char=14
@@ -1025,6 +1152,8 @@
 23	红色	红色	NN	NN	_	22	dobj	_	start_char=77|end_char=79
 24	。	。	PU	PU	_	7	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_whow_glowstick-59
+# text = 需要注意的是这些物质固态时的颜色与液态时完全不同。
 1	需要	需要	VV	VV	_	2	xcomp	_	start_char=0|end_char=2
 2	注意	注意	VV	VV	_	15	nsubj	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
@@ -1042,6 +1171,8 @@
 15	不同	不同	VA	VA	_	0	root	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	15	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_glowstick-60
+# text = 3 在染料混合溶液中加入50毫克TCPO（氧化三十六烷基磷）。
 1	3	3	CD	CD	_	7	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	5	case	_	start_char=2|end_char=3
 3	染料	染料	NN	NN	_	5	compound:nn	_	start_char=4|end_char=6
@@ -1057,6 +1188,8 @@
 13	）	）	PU	PU	_	12	punct	_	start_char=40|end_char=41
 14	。	。	PU	PU	_	7	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_glowstick-61
+# text = 这样你就制成了双(2,4,6-三氯苯基)草酸酯。
 1	这样	这样	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	就	就	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -1069,6 +1202,8 @@
 10	草酸酯	草酸酯	NN	NN	_	4	dobj	_	start_char=29|end_char=32
 11	。	。	PU	PU	_	4	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_glowstick-62
+# text = 这种试剂很贵，但如果你在化学实验方面很有经验的话，你完全可以自己做，当然有经验是前提，否则我们不推荐你这样做。-LSB-3-RSB-
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	试剂	试剂	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -1111,6 +1246,8 @@
 40	3	3	CD	CD	_	5	dep	_	start_char=99|end_char=100
 41	-RSB-	-RSB-	PU	PU	_	5	punct	_	start_char=101|end_char=106
 
+# sent_id = gcdt_whow_glowstick-63
+# text = 本方法用到了TCPO，而没有使用发光氨，TCPO正是使溶液持续发光的关键物质。
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	方法	方法	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	用到	用到	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1134,6 +1271,8 @@
 21	物质	物质	NN	NN	_	3	conj	_	start_char=56|end_char=58
 22	。	。	PU	PU	_	3	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_whow_glowstick-64
+# text = 不要用鼻子闻TCPO，TCPO会致癌。
 1	不	不	AD	AD	_	5	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	5	xcomp	_	start_char=2|end_char=3
 3	用	用	P	P	_	4	case	_	start_char=4|end_char=5
@@ -1146,6 +1285,8 @@
 10	致癌	致癌	VV	VV	_	5	conj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	5	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_glowstick-65
+# text = 4 再加入100毫克醋酸钠。
 1	4	4	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	再	再	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	加入	加入	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -1154,6 +1295,8 @@
 6	醋酸钠	醋酸钠	NN	NN	_	3	dobj	_	start_char=14|end_char=17
 7	。	。	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_glowstick-66
+# text = 如果你没有醋酸钠，也可以用碳酸氢钠（即小苏打，这大概也就是一开始提到的配方中包含小苏打的原因吧）和水杨酸钠。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	没有	没有	VE	VE	_	28	dep	_	start_char=5|end_char=7
@@ -1188,6 +1331,8 @@
 32	水杨酸钠	水杨酸钠	VV	VV	_	0	root	_	start_char=80|end_char=84
 33	。	。	PU	PU	_	32	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_whow_glowstick-67
+# text = 震荡，使其混合均匀。
 1	震荡	震荡	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	使	使	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -1196,6 +1341,8 @@
 6	均匀	均匀	NN	NN	_	5	dobj	_	start_char=12|end_char=14
 7	。	。	PU	PU	_	3	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_glowstick-68
+# text = 做完后，一定要将盖子紧紧盖起来。
 1	做完	做完	VV	VV	_	9	advcl:loc	_	start_char=0|end_char=2
 2	后	后	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	9	punct	_	start_char=5|end_char=6
@@ -1208,6 +1355,8 @@
 10	起来	起来	VV	VV	_	9	advmod:rcomp	_	start_char=22|end_char=24
 11	。	。	PU	PU	_	9	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_whow_glowstick-69
+# text = 当然了，这些化学品也都能在网上买到。
 1	当然	当然	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	了	了	SP	SP	_	11	dep	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	11	punct	_	start_char=5|end_char=6
@@ -1221,6 +1370,8 @@
 11	买到	买到	VV	VV	_	0	root	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	11	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_glowstick-70
+# text = 你可以去看看Alfa Aesa和Sigma Aldrich 这两个网站。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	4	aux:modal	_	start_char=2|end_char=4
 3	去	去	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -1236,6 +1387,8 @@
 13	网站	网站	NN	NN	_	4	dobj	_	start_char=42|end_char=44
 14	。	。	PU	PU	_	4	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_glowstick-71
+# text = 5 最后，在混合物中加入3毫升过氧化氢。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	最后	最后	NN	NN	_	7	nsubj	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	7	punct	_	start_char=5|end_char=6
@@ -1248,6 +1401,8 @@
 10	过氧化氢	过氧化氢	NN	NN	_	7	dobj	_	start_char=23|end_char=27
 11	。	。	PU	PU	_	7	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_glowstick-72
+# text = 最后这一步非常重要，因为只有做完这一步，反应才开始。
 1	最后	最后	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	6	dep	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	2	dep	_	start_char=5|end_char=6
@@ -1267,6 +1422,8 @@
 17	开始	开始	VV	VV	_	6	nmod:prep	_	start_char=39|end_char=41
 18	。	。	PU	PU	_	6	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_glowstick-73
+# text = 加完试剂后要立即盖上盖子，震荡，然后关灯。
 1	加完	加完	VV	VV	_	6	advcl:loc	_	start_char=0|end_char=2
 2	试剂	试剂	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	后	后	LC	LC	_	1	case	_	start_char=6|end_char=7
@@ -1281,6 +1438,8 @@
 12	关灯	关灯	VV	VV	_	6	conj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	6	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_glowstick-74
+# text = 这时你就会看到一根亮晶晶的荧光棒了。
 1	这时	这时	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	5	nsubj	_	start_char=3|end_char=4
 3	就	就	AD	AD	_	5	advmod	_	start_char=5|end_char=6
@@ -1294,6 +1453,8 @@
 11	了	了	SP	SP	_	12	discourse	_	start_char=26|end_char=27
 12	。	。	PU	PU	_	0	root	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_glowstick-75
+# text = 想让反应时间再持续得久一点，TCPO和醋酸钠的量就可以多一点。
 1	想	想	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	让	让	VV	VV	_	1	ccomp	_	start_char=2|end_char=3
 3	反应	反应	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1315,6 +1476,8 @@
 19	一点	一点	AD	AD	_	18	advmod	_	start_char=46|end_char=48
 20	。	。	PU	PU	_	1	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_glowstick-76
+# text = 你有兴趣的话，也可以适当调整各种试剂的量，看看什么样的配方产生的荧光效果最好。
 1	你	你	PN	PN	_	2	dep	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	9	dep	_	start_char=2|end_char=3
 3	兴趣	兴趣	NN	NN	_	2	dobj	_	start_char=4|end_char=6

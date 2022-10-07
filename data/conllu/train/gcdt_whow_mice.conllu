@@ -1,3 +1,16 @@
+# newdoc id = gcdt_whow_mice
+# meta::dateCollected = 2021-12-05
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E4%BB%A5%E8%87%AA%E7%84%B6%E6%96%B9%E6%B3%95%E9%A9%B1%E9%80%90%E8%80%81%E9%BC%A0
+# meta::speakerCount = 0
+# meta::title = 如何以自然方法驱逐老鼠
+# meta::shortTitle = mice
+# meta::author = wikiHow员工
+# meta::genre = whow
+# meta::partition = train
+# sent_id = gcdt_whow_mice-1
+# text = 如何以自然方法驱逐老鼠
 1	如何	如何	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	以	以	P	P	_	4	case	_	start_char=3|end_char=4
 3	自然	自然	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -5,6 +18,8 @@
 5	驱逐	驱逐	VV	VV	_	0	root	_	start_char=11|end_char=13
 6	老鼠	老鼠	NN	NN	_	5	dobj	_	start_char=14|end_char=16
 
+# sent_id = gcdt_whow_mice-2
+# text = 家里有老鼠，既烦人又有害健康。
 1	家里	家里	NN	NN	_	2	dep	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	老鼠	老鼠	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -16,6 +31,8 @@
 9	健康	健康	VA	VA	_	8	compound:vc	_	start_char=20|end_char=22
 10	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_mice-3
+# text = 老鼠不仅会造成财产损失，还会搞得家里一团糟，甚至留下一股难闻的气味。
 1	老鼠	老鼠	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	不仅	不仅	AD	AD	_	4	advmod	_	start_char=3|end_char=5
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=6|end_char=7
@@ -38,6 +55,8 @@
 20	气味	气味	NN	NN	_	15	dobj	_	start_char=50|end_char=52
 21	。	。	PU	PU	_	4	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_mice-4
+# text = 但是，如果不知道怎幺正确地驱逐老鼠，干起来确实是件头疼的事。
 1	但是	但是	AD	AD	_	19	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	19	punct	_	start_char=3|end_char=4
 3	如果	如果	CS	CS	_	5	advmod	_	start_char=5|end_char=7
@@ -59,6 +78,8 @@
 19	事	事	NN	NN	_	0	root	_	start_char=46|end_char=47
 20	。	。	PU	PU	_	19	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_mice-5
+# text = 像是买老鼠药的办法又存在误伤的危险。
 1	像是	像是	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	买	买	VV	VV	_	5	acl	_	start_char=3|end_char=4
 3	老鼠药	老鼠药	NN	NN	_	2	dobj	_	start_char=5|end_char=8
@@ -71,6 +92,8 @@
 10	危险	危险	NN	NN	_	7	dobj	_	start_char=24|end_char=26
 11	。	。	PU	PU	_	7	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_whow_mice-6
+# text = 好的是，我们总结出了不用老鼠药就能简单有效地驱逐老鼠的方法。
 1	好	好	VA	VA	_	17	nsubj	_	start_char=0|end_char=1
 2	的	的	DEC	DEC	_	1	mark	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	6	cop	_	start_char=4|end_char=5
@@ -93,20 +116,28 @@
 20	方法	方法	NN	NN	_	17	dobj	_	start_char=46|end_char=48
 21	。	。	PU	PU	_	17	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_mice-7
+# text = 方法1
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_mice-8
+# text = 自然地驱逐老鼠
 1	自然	自然	VA	VA	_	3	advmod:dvp	_	start_char=0|end_char=2
 2	地	地	DEV	DEV	_	1	mark	_	start_char=3|end_char=4
 3	驱逐	驱逐	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	老鼠	老鼠	NN	NN	_	3	dobj	_	start_char=8|end_char=10
 
+# sent_id = gcdt_whow_mice-9
+# text = 1 保持室内整洁。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	保持	保持	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	室内	室内	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
 4	整洁	整洁	VA	VA	_	2	ccomp	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	2	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_mice-10
+# text = 老鼠跑到屋子里来一般都是受到食物的诱惑。
 1	老鼠	老鼠	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	跑到	跑到	VV	VV	_	12	dep	_	start_char=3|end_char=5
 3	屋子	屋子	NN	NN	_	2	advmod:loc	_	start_char=6|end_char=8
@@ -121,6 +152,8 @@
 12	诱惑	诱惑	NN	NN	_	0	root	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	12	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_mice-11
+# text = 如果家里什么吃的都没有，老鼠自然也就不怎么呆的下去了。
 1	如果	如果	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	家里	家里	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	什么	什么	PN	PN	_	4	nsubj	_	start_char=6|end_char=8
@@ -141,6 +174,8 @@
 18	了	了	SP	SP	_	19	discourse	_	start_char=42|end_char=43
 19	。	。	PU	PU	_	0	root	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_mice-12
+# text = 把食物全都放在密封的容器里，或者是老鼠够不到的地方。-LSB-1-RSB-
 1	把	把	BA	BA	_	5	aux:ba	_	start_char=0|end_char=1
 2	食物	食物	NN	NN	_	5	dep	_	start_char=2|end_char=4
 3	全	全	AD	AD	_	5	advmod	_	start_char=5|end_char=6
@@ -163,6 +198,8 @@
 20	1	1	CD	CD	_	17	dep	_	start_char=50|end_char=51
 21	-RSB-	-RSB-	PU	PU	_	5	punct	_	start_char=52|end_char=57
 
+# sent_id = gcdt_whow_mice-13
+# text = 2 薄荷油是天然的驱逐剂，对啮齿类动物来说太刺激，它们都避而远之，并且它能盖住清洁时遗漏的食物残渣的味道，确实是驱逐老鼠的好东西。
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	薄荷油	薄荷油	NN	NN	_	6	nsubj	_	start_char=2|end_char=5
 3	是	是	VC	VC	_	6	cop	_	start_char=6|end_char=7
@@ -203,6 +240,8 @@
 38	东西	东西	NN	NN	_	6	conj	_	start_char=98|end_char=100
 39	。	。	PU	PU	_	6	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_whow_mice-14
+# text = 大部分的保健食品商店和大型的食品杂货店都能找到薄荷油。-LSB-2-RSB-
 1	大	大	JJ	JJ	_	2	amod	_	start_char=0|end_char=1
 2	部分	部分	NN	NN	_	6	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -223,6 +262,8 @@
 18	2	2	CD	CD	_	19	dep	_	start_char=49|end_char=50
 19	-RSB-	-RSB-	NN	NN	_	14	dep	_	start_char=51|end_char=56
 
+# sent_id = gcdt_whow_mice-15
+# text = 在棉球上滴一两滴薄荷油。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	棉球	棉球	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=4
 3	上	上	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -233,6 +274,8 @@
 8	薄荷油	薄荷油	NN	NN	_	4	dobj	_	start_char=15|end_char=18
 9	。	。	PU	PU	_	4	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_whow_mice-16
+# text = 把棉球放在垃圾桶下面，防止老鼠爬进去。
 1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
 2	棉球	棉球	NN	NN	_	3	dep	_	start_char=2|end_char=4
 3	放在	放在	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -245,6 +288,8 @@
 10	进去	进去	VV	VV	_	9	advmod:rcomp	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	3	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_mice-17
+# text = 把棉球放在老鼠可能的入口处，像是门口或者是通风口等等。
 1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
 2	棉球	棉球	NN	NN	_	3	dep	_	start_char=2|end_char=4
 3	放在	放在	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -260,6 +305,8 @@
 13	等等	等等	ETC	ETC	_	12	etc	_	start_char=36|end_char=38
 14	。	。	PU	PU	_	3	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_mice-18
+# text = 棉球每5-7天就得换一次，具体依据薄荷油的质量而定。
 1	棉球	棉球	NN	NN	_	9	nsubj	_	start_char=0|end_char=2
 2	每	每	DT	DT	_	9	dep	_	start_char=3|end_char=4
 3	5	5	CD	CD	_	2	dep	_	start_char=5|end_char=6
@@ -281,6 +328,8 @@
 19	定	定	VV	VV	_	9	conj	_	start_char=42|end_char=43
 20	。	。	PU	PU	_	9	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_mice-19
+# text = 在入口处放几盆薄荷盆栽。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	入口处	入口处	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=5
 3	放	放	VV	VV	_	0	root	_	start_char=6|end_char=7
@@ -290,6 +339,8 @@
 7	盆栽	盆栽	NN	NN	_	3	dobj	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_mice-20
+# text = 薄荷既能用来做菜，还能起到驱逐剂的作用。
 1	薄荷	薄荷	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	既	既	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	能	能	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
@@ -304,6 +355,8 @@
 12	作用	作用	NN	NN	_	9	dobj	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	4	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_mice-21
+# text = 3 收集一些干的蛇粪，放在入口处和其他老鼠活动的地方，能震慑它们。
 1	3	3	CD	CD	_	18	dep	_	start_char=0|end_char=1
 2	收集	收集	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	一些	一些	CD	CD	_	6	dep	_	start_char=5|end_char=7
@@ -325,6 +378,8 @@
 19	它们	它	PN	PN	_	18	dobj	_	start_char=47|end_char=49
 20	。	。	PU	PU	_	18	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_mice-22
+# text = 当地的爬行动物中心、宠物店或者是动物园都能找到蛇粪。-LSB-3-RSB-
 1	当地	当地	NN	NN	_	9	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	爬行	爬行	NN	NN	_	9	compound:nn	_	start_char=5|end_char=7
@@ -343,6 +398,8 @@
 16	3	3	CD	CD	_	17	dep	_	start_char=46|end_char=47
 17	-RSB-	-RSB-	NN	NN	_	12	dep	_	start_char=48|end_char=53
 
+# sent_id = gcdt_whow_mice-23
+# text = 一定要把蛇粪放在孩子和宠物够不着的地方。
 1	一定	一定	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	5	xcomp	_	start_char=3|end_char=4
 3	把	把	BA	BA	_	5	aux:ba	_	start_char=5|end_char=6
@@ -358,12 +415,16 @@
 13	地方	地方	NN	NN	_	5	dobj	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	5	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_mice-24
+# text = 4 用超声波灭鼠。
 1	4	4	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	用	用	P	P	_	3	case	_	start_char=2|end_char=3
 3	超声波	超声波	NN	NN	_	4	nmod:prep	_	start_char=4|end_char=7
 4	灭鼠	灭鼠	VV	VV	_	0	root	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	4	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_mice-25
+# text = 市面上有很多超声波发声器，可以发出老鼠讨厌的蜂鸣声，在当地的家居店或者网上都能买到。
 1	市面	市面	NN	NN	_	3	advmod:loc	_	start_char=0|end_char=2
 2	上	上	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	0	root	_	start_char=5|end_char=6
@@ -389,6 +450,8 @@
 23	买到	买到	VV	VV	_	3	conj	_	start_char=61|end_char=63
 24	。	。	PU	PU	_	3	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_whow_mice-26
+# text = 这些超声波灭鼠器的作用范围都在一条直线上，所以使用前需要弄清楚老鼠活动具体的路线。
 1	这些	这些	DT	DT	_	3	det	_	start_char=0|end_char=2
 2	超声波	超声波	JJ	JJ	_	3	amod	_	start_char=3|end_char=6
 3	灭鼠器	灭鼠器	NN	NN	_	6	nmod:assmod	_	start_char=7|end_char=10
@@ -415,6 +478,8 @@
 24	路线	路线	NN	NN	_	18	dobj	_	start_char=61|end_char=63
 25	。	。	PU	PU	_	8	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_whow_mice-27
+# text = 这种超声波可能只在短时间内起效，因为老鼠可能很快就能适应它。-LSB-4-RSB-
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	超声波	超声波	NN	NN	_	10	nsubj	_	start_char=4|end_char=7
@@ -440,12 +505,16 @@
 23	4	4	CD	CD	_	24	dep	_	start_char=57|end_char=58
 24	-RSB-	-RSB-	NN	NN	_	10	dep	_	start_char=59|end_char=64
 
+# sent_id = gcdt_whow_mice-28
+# text = 5 买有机驱鼠剂。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	买	买	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	有机	有机	JJ	JJ	_	4	amod	_	start_char=4|end_char=6
 4	驱鼠剂	驱鼠剂	NN	NN	_	2	dobj	_	start_char=7|end_char=10
 5	。	。	PU	PU	_	2	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_mice-29
+# text = 许多专注于有机园艺和居家产品的公司会生产有机驱鼠剂，大多是用薄荷等老鼠讨厌的纯天然成分制成的，而这种有机驱鼠剂和传统的老鼠药相比更有利于保护环境。
 1	许多	许多	CD	CD	_	9	dep	_	start_char=0|end_char=2
 2	专注于	专注于	VV	VV	_	9	acl	_	start_char=3|end_char=6
 3	有机	有机	JJ	JJ	_	7	amod	_	start_char=7|end_char=9
@@ -490,6 +559,8 @@
 42	环境	环境	NN	NN	_	40	dobj	_	start_char=111|end_char=113
 43	。	。	PU	PU	_	11	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_whow_mice-30
+# text = 有机驱鼠剂虽然不会杀死老鼠，但放了药的地方也定是看不到老鼠的踪迹了。
 1	有机	有机	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	驱鼠剂	驱鼠剂	NN	NN	_	6	nsubj	_	start_char=3|end_char=6
 3	虽然	虽然	CS	CS	_	6	advmod	_	start_char=7|end_char=9
@@ -516,6 +587,8 @@
 24	了	了	SP	SP	_	18	discourse	_	start_char=55|end_char=56
 25	。	。	PU	PU	_	16	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_mice-31
+# text = 有机驱鼠剂在当地的园艺或者家具店里应该就能买到。
 1	有机	有机	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	驱鼠剂	驱鼠剂	NN	NN	_	13	nsubj	_	start_char=3|end_char=6
 3	在	在	P	P	_	8	case	_	start_char=7|end_char=8
@@ -531,6 +604,8 @@
 13	买到	买到	VV	VV	_	0	root	_	start_char=33|end_char=35
 14	。	。	PU	PU	_	13	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_whow_mice-32
+# text = 如果你有想买的特定的驱鼠剂，上网搜一搜，看具体哪里可以买到。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	20	dep	_	start_char=5|end_char=6
@@ -553,6 +628,8 @@
 20	买到	买到	VV	VV	_	0	root	_	start_char=46|end_char=48
 21	。	。	PU	PU	_	20	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_mice-33
+# text = 6 养只猫，家猫可以解决这个问题，特别是有专门的室外猫/室内猫。
 1	6	6	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	养	养	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	只	只	M	M	_	4	nummod	_	start_char=4|end_char=5
@@ -574,6 +651,8 @@
 19	室内猫	室内猫	NN	NN	_	14	dobj	_	start_char=45|end_char=48
 20	。	。	PU	PU	_	2	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_mice-34
+# text = 长期在室外活动的猫更可能自己觅食，追踪老鼠。
 1	长期	长期	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	4	case	_	start_char=3|end_char=4
 3	室外	室外	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -589,6 +668,8 @@
 13	老鼠	老鼠	NN	NN	_	12	dobj	_	start_char=31|end_char=33
 14	。	。	PU	PU	_	10	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_mice-35
+# text = 但是要明白，并不是所有的猫都有足够的精力和兴趣抓老鼠。
 1	但是	但是	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
 3	明白	明白	VV	VV	_	11	dep	_	start_char=5|end_char=7
@@ -609,6 +690,8 @@
 18	老鼠	老鼠	NN	NN	_	17	dobj	_	start_char=41|end_char=43
 19	。	。	PU	PU	_	11	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_mice-36
+# text = 像室内的喂食充足的宠物小猫咪可能就把老鼠当玩具而已，可能玩累了就失去对老鼠的兴趣了。
 1	像	像	P	P	_	4	case	_	start_char=0|end_char=1
 2	室内	室内	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -639,6 +722,8 @@
 28	了	了	SP	SP	_	23	discourse	_	start_char=67|end_char=68
 29	。	。	PU	PU	_	14	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_whow_mice-37
+# text = 对于一只猫是否是捕鼠能手，动物收养所一般不会知道的，一般也不会去测试。
 1	对于	对于	P	P	_	4	case	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	4	nummod	_	start_char=3|end_char=4
 3	只	只	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -664,6 +749,8 @@
 23	测试	测试	VV	VV	_	0	root	_	start_char=54|end_char=56
 24	。	。	PU	PU	_	23	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_mice-38
+# text = 有的地方会提供这类信息，但有的没有。
 1	有的	有的	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	地方	地方	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=6|end_char=7
@@ -677,6 +764,8 @@
 11	没有	没有	VE	VE	_	4	conj	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_mice-39
+# text = 就算有的捕鼠能手可能适合做宠物，但也不是所有猫都这样。
 1	就算	就算	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	有的	有的	DT	DT	_	4	det	_	start_char=3|end_char=5
 3	捕鼠	捕鼠	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -696,6 +785,8 @@
 17	这样	这样	VA	VA	_	0	root	_	start_char=40|end_char=42
 18	。	。	PU	PU	_	17	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_mice-40
+# text = 有的野猫很会捕鼠，但和人类却相处不来。
 1	有的	有的	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	野猫	野猫	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	很	很	AD	AD	_	5	advmod	_	start_char=6|end_char=7
@@ -711,6 +802,8 @@
 13	来	来	VV	VV	_	11	dep	_	start_char=29|end_char=30
 14	。	。	PU	PU	_	5	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_mice-41
+# text = 就算你没有猫，也可以用用过的猫砂来抵御老鼠。
 1	就算	就算	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	没有	没有	VE	VE	_	13	dep	_	start_char=5|end_char=7
@@ -727,6 +820,8 @@
 14	老鼠	老鼠	NN	NN	_	13	dobj	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	13	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_whow_mice-42
+# text = 用盆子装些用过的猫砂放在门口，老鼠一旦问到猫尿液的味道，自己就马上逃走了。
 1	用	用	P	P	_	6	case	_	start_char=0|end_char=1
 2	盆子	盆子	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
 3	装些	装些	VV	VV	_	6	acl	_	start_char=5|end_char=7
@@ -750,6 +845,8 @@
 21	了	了	AS	AS	_	20	aux:asp	_	start_char=55|end_char=56
 22	。	。	PU	PU	_	7	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_mice-43
+# text = 如果家里老鼠太多，一只猫可能不能把它们赶尽杀绝。
 1	如果	如果	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	家里	家里	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	老鼠	老鼠	NN	NN	_	5	nsubj	_	start_char=6|end_char=8
@@ -768,6 +865,8 @@
 16	杀绝	杀绝	VV	VV	_	15	advmod:rcomp	_	start_char=36|end_char=38
 17	。	。	PU	PU	_	15	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_mice-44
+# text = 但如果你已经灭掉了家里所有的老鼠，养一只猫倒是完全可以防止老鼠在家做窝。-LSB-5-RSB-
 1	但	但	AD	AD	_	19	advmod	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	5	advmod	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -795,6 +894,8 @@
 25	5	5	CD	CD	_	26	dep	_	start_char=65|end_char=66
 26	-RSB-	-RSB-	NN	NN	_	19	dep	_	start_char=67|end_char=72
 
+# sent_id = gcdt_whow_mice-45
+# text = 7 把垃圾袋扔得远一些。
 1	7	7	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	把	把	BA	BA	_	6	aux:ba	_	start_char=2|end_char=3
 3	垃圾袋	垃圾袋	NN	NN	_	6	dep	_	start_char=4|end_char=7
@@ -804,6 +905,8 @@
 7	一些	一些	AD	AD	_	6	advmod	_	start_char=14|end_char=16
 8	。	。	PU	PU	_	6	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_whow_mice-46
+# text = 老鼠一般都是闻到垃圾的味道才跑到家里来的。
 1	老鼠	老鼠	NN	NN	_	10	nsubj	_	start_char=0|end_char=2
 2	一般	一般	AD	AD	_	10	advmod	_	start_char=3|end_char=5
 3	都	都	AD	AD	_	10	advmod	_	start_char=6|end_char=7
@@ -819,6 +922,8 @@
 13	的	的	SP	SP	_	10	discourse	_	start_char=31|end_char=32
 14	。	。	PU	PU	_	0	root	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_mice-47
+# text = 如果你把垃圾袋扔到离你家足够远的地方，那么老鼠在你家落脚的可能性自然也就小了。
 1	如果	如果	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	5	nsubj	_	start_char=3|end_char=4
 3	把	把	BA	BA	_	5	aux:ba	_	start_char=5|end_char=6
@@ -847,6 +952,8 @@
 26	了	了	SP	SP	_	27	discourse	_	start_char=62|end_char=63
 27	。	。	PU	PU	_	0	root	_	start_char=64|end_char=65
 
+# sent_id = gcdt_whow_mice-48
+# text = 8 在花园里建一个鸟屋，提高飞禽居住的可能性，吸引它们在院里定居。
 1	8	8	CD	CD	_	5	nsubj	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	花园	花园	NN	NN	_	5	nmod:prep	_	start_char=4|end_char=6
@@ -869,6 +976,8 @@
 20	定居	定居	VV	VV	_	16	ccomp	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	5	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_mice-49
+# text = 这可能需要花点时间，但是如果真能引来吃老鼠的鸟类，那这点等待也是值得的。-LSB-6-RSB-
 1	这	这	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	可能	可能	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	需要	需要	VV	VV	_	4	xcomp	_	start_char=5|end_char=7
@@ -899,6 +1008,8 @@
 28	6	6	CD	CD	_	4	dep	_	start_char=68|end_char=69
 29	-RSB-	-RSB-	PU	PU	_	4	punct	_	start_char=70|end_char=75
 
+# sent_id = gcdt_whow_mice-50
+# text = 检查看鸟屋里有没有钉子或者其他可能伤害到它们的东西。
 1	检查	检查	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	看	看	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	鸟屋	鸟屋	NN	NN	_	5	advmod:loc	_	start_char=5|end_char=7
@@ -916,6 +1027,8 @@
 15	东西	东西	NN	NN	_	11	dobj	_	start_char=37|end_char=39
 16	。	。	PU	PU	_	2	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_mice-51
+# text = 仓鸮（猫头鹰的一种）是最适合的飞禽。
 1	仓鸮	仓鸮	ON	ON	_	12	dep	_	start_char=0|end_char=2
 2	（	（	PU	PU	_	1	punct	_	start_char=3|end_char=4
 3	猫头鹰	猫头鹰	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=8
@@ -930,6 +1043,8 @@
 12	飞禽	飞禽	NN	NN	_	0	root	_	start_char=26|end_char=28
 13	。	。	PU	PU	_	12	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_mice-52
+# text = 一窝仓鸮一个晚上就能吃掉许多的老鼠。
 1	一窝	一窝	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	仓鸮	仓鸮	VV	VV	_	8	dep	_	start_char=3|end_char=5
 3	一	一	CD	CD	_	5	nummod	_	start_char=6|end_char=7
@@ -943,6 +1058,8 @@
 11	老鼠	老鼠	NN	NN	_	8	dobj	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	8	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_mice-53
+# text = 但是你的鸟屋很可能吸引来其他种类的猫头鹰或者是鸟类。
 1	但是	但是	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6

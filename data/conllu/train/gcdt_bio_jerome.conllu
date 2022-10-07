@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_jerome
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-10-02
+# meta::sourceURL = https://zh.wikipedia.org/wiki/%E8%80%B6%E6%9F%94%E7%B1%B3
+# meta::speakerCount = 0
+# meta::title = 哲罗姆
+# meta::shortTitle = jerome
+# meta::author = Wikipedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_jerome-1
+# text = 哲罗姆
 1	哲罗姆	哲罗姆	NR	NR	_	0	root	_	start_char=0|end_char=3
 
+# sent_id = gcdt_bio_jerome-2
+# text = 哲罗姆，天主教译圣热罗尼莫或圣叶理诺，也译作圣杰罗姆（约342年－420年；英文：Jerome（以前叫 Saint Hierom）；拉丁文：Eusebius Sophronius Hieronymus；希腊文：Εὐσέβιος Σωφρόνιος Ἱερώνυμος），是古代西方教会领导群伦的圣经学者，他完成了圣经拉丁文译本《武加大译本》。
 1	哲罗姆	哲罗姆	NR	NR	_	4	nmod:topic	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	4	punct	_	start_char=4|end_char=5
 3	天主教	天主教	NN	NN	_	4	nsubj	_	start_char=6|end_char=9
@@ -62,6 +77,8 @@
 60	》	》	PU	PU	_	59	punct	_	start_char=222|end_char=223
 61	。	。	PU	PU	_	4	punct	_	start_char=224|end_char=225
 
+# sent_id = gcdt_bio_jerome-3
+# text = 哲罗姆很早就显露出对藏书的热情，并建立了古典晚期最卓著的私人图书馆（由学生时代的异教文学经典开始，逐渐包含大量的基督教圣经与神学作品）；他在罗马接受教育，去莱茵河边寻求仕途，并在皈依苦修理念后前往叙利亚的荒漠地区苦行，晚年时（386年－420年）定居于耶稣的出生地伯利恒，过苦修隐居的生活。
 1	哲罗姆	哲罗姆	NR	NR	_	5	nsubj	_	start_char=0|end_char=3
 2	很	很	AD	AD	_	5	advmod	_	start_char=4|end_char=5
 3	早	早	AD	AD	_	5	advmod	_	start_char=6|end_char=7
@@ -149,6 +166,8 @@
 85	生活	生活	NN	NN	_	81	dobj	_	start_char=226|end_char=228
 86	。	。	PU	PU	_	5	punct	_	start_char=229|end_char=230
 
+# sent_id = gcdt_bio_jerome-4
+# text = 在早期的拉丁教会他被尊为四位西方教会圣师之一，这个约定俗成的称号后来被教宗鲍尼法八世列为正式头衔。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	早期	早期	NN	NN	_	5	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -181,8 +200,12 @@
 30	头衔	头衔	NN	NN	_	27	dobj	_	start_char=75|end_char=77
 31	。	。	PU	PU	_	15	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_jerome-5
+# text = 生平
 1	生平	生平	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_jerome-6
+# text = 哲罗姆是最有教养，最有学问古教父当中的一位，也可说是古代西方教会中最伟大的学者-LSB-1-RSB--LSB-2-RSB-。
 1	哲罗姆	哲罗姆	NR	NR	_	4	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	4	cop	_	start_char=4|end_char=5
 3	最	最	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -217,6 +240,8 @@
 32	-RSB-	-RSB-	NN	NN	_	4	conj	_	start_char=87|end_char=92
 33	。	。	PU	PU	_	4	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_bio_jerome-7
+# text = 哲罗姆约于340（也有书上写342）年生在挞马太司垂登的基督徒家庭，在罗马成长和就学。
 1	哲罗姆	哲罗姆	NR	NR	_	24	nsubj	_	start_char=0|end_char=3
 2	约	约	AD	AD	_	24	advmod	_	start_char=4|end_char=5
 3	于	于	P	P	_	4	case	_	start_char=6|end_char=7
@@ -245,6 +270,8 @@
 26	就学	就学	VV	VV	_	24	conj	_	start_char=65|end_char=67
 27	。	。	PU	PU	_	24	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_bio_jerome-8
+# text = 约360年教宗利伯流为他受洗。
 1	约	约	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	360年	360年	NT	NT	_	7	nmod:tmod	_	start_char=2|end_char=6
 3	教宗	教宗	NN	NN	_	4	appos	_	start_char=7|end_char=9
@@ -254,6 +281,8 @@
 7	受洗	受洗	VV	VV	_	0	root	_	start_char=18|end_char=20
 8	。	。	PU	PU	_	7	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_bio_jerome-9
+# text = 父母都是非常虔诚的基督徒。
 1	父母	父母	NN	NN	_	7	nsubj	_	start_char=0|end_char=2
 2	都	都	AD	AD	_	7	advmod	_	start_char=3|end_char=4
 3	是	是	VC	VC	_	7	cop	_	start_char=5|end_char=6
@@ -263,6 +292,8 @@
 7	基督徒	基督徒	NN	NN	_	0	root	_	start_char=15|end_char=18
 8	。	。	PU	PU	_	7	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_bio_jerome-10
+# text = 哲罗姆年青时有志于博览宗教方面的书籍，并且遍游天下各地的名胜。
 1	哲罗姆	哲罗姆	NR	NR	_	4	nsubj	_	start_char=0|end_char=3
 2	年青	年青	VA	VA	_	4	advmod:loc	_	start_char=4|end_char=6
 3	时	时	LC	LC	_	2	case	_	start_char=7|end_char=8
@@ -282,6 +313,8 @@
 17	名胜	名胜	NN	NN	_	12	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	4	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_bio_jerome-11
+# text = 自366-370年间，走遍西方所有的城市之后，他又遍游东方，当他到了安提阿市，在安提阿生了一场大病-LSB-3-RSB-。
 1	自	自	P	P	_	5	case	_	start_char=0|end_char=1
 2	366	366	CD	CD	_	5	dep	_	start_char=2|end_char=5
 3	-	-	PU	PU	_	5	punct	_	start_char=6|end_char=7
@@ -318,6 +351,8 @@
 34	-RSB-	-RSB-	NN	NN	_	27	dobj	_	start_char=88|end_char=93
 35	。	。	PU	PU	_	16	punct	_	start_char=94|end_char=95
 
+# sent_id = gcdt_bio_jerome-12
+# text = 有一天在异象中，觉得他到上了上帝的审判台前。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	天	天	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -335,6 +370,8 @@
 15	前	前	LC	LC	_	14	case	_	start_char=34|end_char=35
 16	。	。	PU	PU	_	1	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_bio_jerome-13
+# text = 当他称自己为基督徒时，有一声音说：“你说谎。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	称	称	VV	VV	_	9	nmod:prep	_	start_char=4|end_char=5
@@ -353,6 +390,8 @@
 16	说谎	说谎	VV	VV	_	12	ccomp	_	start_char=34|end_char=36
 17	。	。	PU	PU	_	9	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_bio_jerome-14
+# text = 你是西塞罗的信徒，而不是基督的追随者(Ciceronianus es, non Christianus)，因为你的财宝在那里，你的心也在那！”-LSB-4-RSB-。
 1	你	你	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	5	cop	_	start_char=2|end_char=3
 3	西塞罗	西塞罗	NR	NR	_	5	nmod:assmod	_	start_char=4|end_char=7
@@ -393,6 +432,8 @@
 38	-RSB-	-RSB-	NN	NN	_	5	conj	_	start_char=111|end_char=116
 39	。	。	PU	PU	_	5	punct	_	start_char=117|end_char=118
 
+# sent_id = gcdt_bio_jerome-15
+# text = 于373-379年他就到旷野去专心研究神学及圣经。
 1	于	于	P	P	_	4	case	_	start_char=0|end_char=1
 2	373	373	NT	NT	_	7	nmod:prep	_	start_char=2|end_char=5
 3	-	-	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -409,6 +450,8 @@
 14	圣经	圣经	NN	NN	_	11	dobj	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_jerome-16
+# text = 并且学习希伯来文，在离安提阿不远之处修道，在379年时他到君士坦丁堡，在拿先素斯的贵格利的门下受教。
 1	并且	并且	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	学习	学习	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	希伯来文	希伯来文	NR	NR	_	2	dobj	_	start_char=6|end_char=10
@@ -438,6 +481,8 @@
 27	受教	受教	VV	VV	_	2	conj	_	start_char=73|end_char=75
 28	。	。	PU	PU	_	2	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_bio_jerome-17
+# text = 382年回到罗马在那宣讲他的主张及修道主义。
 1	382年	382年	NT	NT	_	2	nmod:tmod	_	start_char=0|end_char=4
 2	回到	回到	VV	VV	_	0	root	_	start_char=5|end_char=7
 3	罗马	罗马	NR	NR	_	2	dobj	_	start_char=8|end_char=10
@@ -452,6 +497,8 @@
 12	主义	主义	NN	NN	_	6	dobj	_	start_char=30|end_char=32
 13	。	。	PU	PU	_	2	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_bio_jerome-18
+# text = 修道主义在西方仍有些人反对。
 1	修道	修道	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	主义	主义	NN	NN	_	8	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	4	case	_	start_char=6|end_char=7
@@ -462,6 +509,8 @@
 8	反对	反对	VV	VV	_	0	root	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	8	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_bio_jerome-19
+# text = 虽然在第四世纪末有哲罗姆、安波罗修和希波的奥古斯丁都提倡及传讲。
 1	虽然	虽然	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	4	case	_	start_char=3|end_char=4
 3	第四	第四	OD	OD	_	4	amod:ordmod	_	start_char=5|end_char=7
@@ -481,6 +530,8 @@
 17	传讲	传讲	VV	VV	_	15	conj	_	start_char=45|end_char=47
 18	。	。	PU	PU	_	15	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_jerome-20
+# text = 当哲罗姆传讲修道主义优点时，赞成的特别是在罗马的高贵妇女为主。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	哲罗姆	哲罗姆	NR	NR	_	3	nsubj	_	start_char=2|end_char=5
 3	传讲	传讲	VV	VV	_	18	nmod:prep	_	start_char=6|end_char=8
@@ -501,6 +552,8 @@
 18	主	主	NN	NN	_	0	root	_	start_char=46|end_char=47
 19	。	。	PU	PU	_	18	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_jerome-21
+# text = 可是有些圣职阶级的也有反对的。
 1	可是	可是	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	有些	有些	DT	DT	_	4	det	_	start_char=3|end_char=5
 3	圣职	圣职	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -512,6 +565,8 @@
 9	的	的	SP	SP	_	10	discourse	_	start_char=21|end_char=22
 10	。	。	PU	PU	_	0	root	_	start_char=23|end_char=24
 
+# sent_id = gcdt_bio_jerome-22
+# text = 385年，哲罗姆永久地离开罗马（乃至西方），在耶路撒冷各地朝圣后定居伯利恒。
 1	385年	385年	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	6	punct	_	start_char=5|end_char=6
 3	哲罗姆	哲罗姆	NR	NR	_	6	nsubj	_	start_char=7|end_char=10
@@ -535,6 +590,8 @@
 21	伯利恒	伯利恒	NR	NR	_	20	dobj	_	start_char=54|end_char=57
 22	。	。	PU	PU	_	6	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_bio_jerome-23
+# text = 后来他到了当年在罗马受他感动的保拉在伯利恒建的男修道院当院长，一直到420年去世，享年约有80岁-LSB-5-RSB-。
 1	后来	后来	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	到	到	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -571,6 +628,8 @@
 34	-RSB-	-RSB-	NN	NN	_	29	dobj	_	start_char=87|end_char=92
 35	。	。	PU	PU	_	3	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_bio_jerome-24
+# text = 410年8月24日西哥特人阿拉利在夜间用突击的方式攻破了罗马，这是八百年来罗马第一次被攻破，在当时的人来说，心理上的打击是非常大的。
 1	410年	410年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=4
 2	8月	8月	NT	NT	_	3	compound:nn	_	start_char=5|end_char=7
 3	24日	24日	NT	NT	_	12	nmod:tmod	_	start_char=8|end_char=11
@@ -613,6 +672,8 @@
 40	的	的	SP	SP	_	39	discourse	_	start_char=103|end_char=104
 41	。	。	PU	PU	_	12	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_bio_jerome-25
+# text = 当哲罗姆时在伯利恒修道院，哭泣的说：“征服了整个世界的城市，现在给人征服了！”-LSB-6-RSB-。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	哲罗姆	哲罗姆	NR	NR	_	3	nsubj	_	start_char=2|end_char=5
 3	时在	时在	VV	VV	_	9	nmod:prep	_	start_char=6|end_char=8
@@ -643,6 +704,8 @@
 28	-RSB-	-RSB-	NN	NN	_	22	dobj	_	start_char=72|end_char=77
 29	。	。	PU	PU	_	9	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_jerome-26
+# text = 焦虑的无法工作，并且相信敌基督将会出现，因此悲伤的说：“世界恐怕快要毁灭了。
 1	焦虑	焦虑	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	无法	无法	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -669,6 +732,8 @@
 24	了	了	SP	SP	_	23	discourse	_	start_char=59|end_char=60
 25	。	。	PU	PU	_	4	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_bio_jerome-27
+# text = 这伟大的城都，罗马帝国的首都，意付诸一炬……
 1	这	这	DT	DT	_	4	det	_	start_char=0|end_char=1
 2	伟大	伟大	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -684,6 +749,8 @@
 13	…	…	PU	PU	_	12	punct	_	start_char=32|end_char=33
 14	…	…	PU	PU	_	12	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_bio_jerome-28
+# text = 谁会料到，一度征服世界的罗马帝国的基石，竟会如此衰亡……”-LSB-7-RSB-
 1	谁	谁	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	会	会	VV	VV	_	3	aux:modal	_	start_char=2|end_char=3
 3	料到	料到	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -707,9 +774,13 @@
 21	7	7	CD	CD	_	3	dep	_	start_char=54|end_char=55
 22	-RSB-	-RSB-	PU	PU	_	3	punct	_	start_char=56|end_char=61
 
+# sent_id = gcdt_bio_jerome-29
+# text = 神学贡献
 1	神学	神学	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	贡献	贡献	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_jerome-30
+# text = 哲罗姆以研究圣经和注释经文闻名。
 1	哲罗姆	哲罗姆	NR	NR	_	8	nsubj	_	start_char=0|end_char=3
 2	以	以	P	P	_	7	case	_	start_char=4|end_char=5
 3	研究	研究	NN	NN	_	7	compound:nn	_	start_char=6|end_char=8
@@ -720,6 +791,8 @@
 8	闻名	闻名	VV	VV	_	0	root	_	start_char=20|end_char=22
 9	。	。	PU	PU	_	8	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_bio_jerome-31
+# text = 当他住在安提阿及伯利恒时，向犹太拉比学习希伯来文，因此他可算是拉丁教会中唯一懂得希伯来文的人。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	住在	住在	VV	VV	_	12	nmod:prep	_	start_char=4|end_char=6
@@ -749,6 +822,8 @@
 27	人	人	NN	NN	_	18	ccomp	_	start_char=71|end_char=72
 28	。	。	PU	PU	_	18	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_bio_jerome-32
+# text = 哲罗姆非常博学多闻，可能是和他对古文学的研究和游遍各城有关。
 1	哲罗姆	哲罗姆	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	非常	非常	AD	AD	_	3	advmod	_	start_char=4|end_char=6
 3	博学	博学	VA	VA	_	0	root	_	start_char=7|end_char=9
@@ -770,6 +845,8 @@
 19	有关	有关	VV	VV	_	3	conj	_	start_char=45|end_char=47
 20	。	。	PU	PU	_	3	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_jerome-33
+# text = 因为对希伯来文有研究，所以在翻译圣经这件事上，就可以完全展现他的才华。
 1	因为	因为	P	P	_	4	case	_	start_char=0|end_char=2
 2	对	对	P	P	_	3	case	_	start_char=3|end_char=4
 3	希伯来文	希伯来文	NR	NR	_	4	nmod:prep	_	start_char=5|end_char=9
@@ -794,6 +871,8 @@
 22	才华	才华	NN	NN	_	19	dobj	_	start_char=53|end_char=55
 23	。	。	PU	PU	_	19	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_bio_jerome-34
+# text = 在382年后，他出任罗马教宗达玛稣的秘书。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	382年	382年	NT	NT	_	6	nmod:prep	_	start_char=2|end_char=6
 3	后	后	LC	LC	_	2	case	_	start_char=7|end_char=8
@@ -807,6 +886,8 @@
 11	秘书	秘书	NN	NN	_	6	dobj	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	6	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_jerome-35
+# text = 在罗马这段期间教宗请他将圣经翻译成拉丁文。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	罗马	罗马	NR	NR	_	5	nmod	_	start_char=2|end_char=4
 3	这	这	DT	DT	_	5	det	_	start_char=5|end_char=6
@@ -822,6 +903,8 @@
 13	拉丁文	拉丁文	NR	NR	_	11	dobj	_	start_char=29|end_char=32
 14	。	。	PU	PU	_	7	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_bio_jerome-36
+# text = 虽然当时已有一部拉丁文译文，但该部圣经相当的粗糙又错误繁多。
 1	虽然	虽然	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	当时	当时	NT	NT	_	4	nmod:tmod	_	start_char=3|end_char=5
 3	已	已	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -843,6 +926,8 @@
 19	繁多	繁多	VA	VA	_	16	conj	_	start_char=45|end_char=47
 20	。	。	PU	PU	_	16	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_jerome-37
+# text = 他翻译时先用旧约的希腊文译本也就是七十士译本和希腊文新约作基础，再译成拉丁文的诗篇、旧约及四福音书。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	翻译	翻译	VV	VV	_	5	advcl:loc	_	start_char=2|end_char=4
 3	时	时	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -874,6 +959,8 @@
 29	四福音书	四福音书	NN	NN	_	22	dobj	_	start_char=73|end_char=77
 30	。	。	PU	PU	_	18	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_jerome-38
+# text = 但是后来他发现要将希伯来原文所蕴藏的宝库，展现给拉丁文的读者。
 1	但是	但是	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	后来	后来	AD	AD	_	4	advmod	_	start_char=3|end_char=5
 3	他	他	PN	PN	_	4	nsubj	_	start_char=6|end_char=7
@@ -894,6 +981,8 @@
 18	读者	读者	NN	NN	_	14	dobj	_	start_char=45|end_char=47
 19	。	。	PU	PU	_	4	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_jerome-39
+# text = 所以他又以希伯来文旧约作基础，重新翻译，他辛勤工作二十三年（382年－405年）完成了拉丁文圣经修订本《武加大译本》-LSB-8-RSB-，-LSB-9-RSB-，-LSB-10-RSB-，这也是拉丁文通俗译本（包括一部新约保守性的拉丁文订正本）-LSB-11-RSB-。
 1	所以	所以	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	7	nsubj	_	start_char=3|end_char=4
 3	又	又	AD	AD	_	7	advmod	_	start_char=5|end_char=6
@@ -958,6 +1047,8 @@
 62	-RSB-	-RSB-	NN	NN	_	51	dobj	_	start_char=191|end_char=196
 63	。	。	PU	PU	_	7	punct	_	start_char=197|end_char=198
 
+# sent_id = gcdt_bio_jerome-40
+# text = 这也是西方教会所认定核可的拉丁文译本。
 1	这	这	PN	PN	_	11	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	11	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	11	cop	_	start_char=4|end_char=5
@@ -971,6 +1062,8 @@
 11	译本	译本	NN	NN	_	0	root	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	11	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_bio_jerome-41
+# text = 并在1546年的“天特会议”重新受到肯定。
 1	并	并	AD	AD	_	10	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	7	case	_	start_char=2|end_char=3
 3	1546年	1546年	NT	NT	_	7	nmod	_	start_char=4|end_char=9
@@ -984,6 +1077,8 @@
 11	肯定	肯定	NN	NN	_	10	dobj	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	10	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_jerome-42
+# text = 直到今日这译本仍为罗马天主教会所重用。
 1	直	直	AD	AD	_	12	nmod:prep	_	start_char=0|end_char=1
 2	到	到	P	P	_	3	case	_	start_char=2|end_char=3
 3	今日	今日	NT	NT	_	5	compound:nn	_	start_char=4|end_char=6
@@ -998,6 +1093,8 @@
 12	重用	重用	VV	VV	_	0	root	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	12	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_jerome-43
+# text = 由这可以看到哲罗姆对圣经、真理、学问的追求是一丝不苟。-LSB-12-RSB-，-LSB-13-RSB-
 1	由	由	P	P	_	2	case	_	start_char=0|end_char=1
 2	这	这	PN	PN	_	4	nmod:prep	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=4|end_char=6
@@ -1022,6 +1119,8 @@
 22	13	13	CD	CD	_	23	dep	_	start_char=66|end_char=68
 23	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=69|end_char=74
 
+# sent_id = gcdt_bio_jerome-44
+# text = 布鲁斯‧A‧德马雷斯特形容哲罗姆是最有教养、最有学问的古教父之一，“这位伯利恒的伟大隐士的才华不及奥古斯丁，品格高超上不及安波罗修，在坚定的意志力不如屈梭多模，但在学识和多才多艺上，上述没有一个人能比得上他”。
 1	布鲁斯‧A‧德马雷斯特	布鲁斯‧A‧德马雷斯特	NR	NR	_	2	nsubj	_	start_char=0|end_char=11
 2	形容	形容	VV	VV	_	0	root	_	start_char=12|end_char=14
 3	哲罗姆	哲罗姆	NR	NR	_	15	nsubj	_	start_char=15|end_char=18
@@ -1086,9 +1185,13 @@
 62	”	”	PU	PU	_	58	punct	_	start_char=164|end_char=165
 63	。	。	PU	PU	_	2	punct	_	start_char=166|end_char=167
 
+# sent_id = gcdt_bio_jerome-45
+# text = 主要著作
 1	主要	主要	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	著作	著作	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_jerome-46
+# text = 哲罗姆除了圣经的翻译，并且写了许多圣经的注解，在这方面哲罗姆是非常有天分。
 1	哲罗姆	哲罗姆	NR	NR	_	8	nsubj	_	start_char=0|end_char=3
 2	除了	除了	P	P	_	5	case	_	start_char=4|end_char=6
 3	圣经	圣经	NN	NN	_	5	nmod:assmod	_	start_char=7|end_char=9
@@ -1113,6 +1216,8 @@
 22	天分	天分	NN	NN	_	21	dobj	_	start_char=55|end_char=57
 23	。	。	PU	PU	_	8	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_bio_jerome-47
+# text = 他依赖许多犹太传统，也大量引用早期教会权威的看法意见。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	依赖	依赖	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	许多	许多	CD	CD	_	5	dep	_	start_char=5|end_char=7
@@ -1130,6 +1235,8 @@
 15	意见	意见	NN	NN	_	9	dobj	_	start_char=38|end_char=40
 16	。	。	PU	PU	_	2	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_bio_jerome-48
+# text = 他的注释书的权威和俄利根及奥古斯丁并列。
 1	他	他	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	注释	注释	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1143,6 +1250,8 @@
 11	并列	并列	VV	VV	_	0	root	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	11	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_jerome-49
+# text = 他又将希腊神学家的一些著作将他们翻成拉丁文，而且喜欢参与讨论。
 1	他	他	PN	PN	_	11	nsubj	_	start_char=0|end_char=1
 2	又	又	AD	AD	_	11	advmod	_	start_char=2|end_char=3
 3	将	将	BA	BA	_	11	aux:ba	_	start_char=4|end_char=5
@@ -1162,6 +1271,8 @@
 17	讨论	讨论	NN	NN	_	16	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	11	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_bio_jerome-50
+# text =  哲罗姆的著作除了武加大译本，及许多圣经注释外，还有续编了优西比乌的历代志及编辑一部名人传（De viris Inlustribus），以及说明独身与修道生活的许多论文及书-LSB-14-RSB-。
 1	哲罗姆	哲罗姆	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=3
 2	的	的	DEG	DEG	_	1	case	_	start_char=4|end_char=5
 3	著作	著作	NN	NN	_	15	nsubj	_	start_char=6|end_char=8
@@ -1209,6 +1320,8 @@
 45	-RSB-	-RSB-	NN	NN	_	15	dobj	_	start_char=134|end_char=139
 46	。	。	PU	PU	_	15	punct	_	start_char=140|end_char=141
 
+# sent_id = gcdt_bio_jerome-51
+# text = 约15世纪的荷兰鹿特丹的伊拉斯姆，他编了哲罗姆文集，这是一个杰出的成就，也可以看出哲罗姆是非常多产且重要的神学家。-LSB-15-RSB-
 1	约	约	AD	AD	_	3	advmod	_	start_char=0|end_char=1
 2	15	15	OD	OD	_	3	amod:ordmod	_	start_char=2|end_char=4
 3	世纪	世纪	NN	NN	_	8	nmod:assmod	_	start_char=5|end_char=7
@@ -1248,6 +1361,8 @@
 37	15	15	CD	CD	_	38	dep	_	start_char=98|end_char=100
 38	-RSB-	-RSB-	X	X	_	11	dep	_	start_char=101|end_char=106
 
+# sent_id = gcdt_bio_jerome-52
+# text = 哲罗姆与安波罗修，相信圣灵不仅出于圣父，并且也出于圣子，所以是主张圣灵是出于圣父和圣子的‘双出说’，这种的观念已加入在亚他拿修信经的当中。-LSB-16-RSB-
 1	哲罗姆	哲罗姆	NR	NR	_	3	conj	_	start_char=0|end_char=3
 2	与	与	CC	CC	_	3	cc	_	start_char=4|end_char=5
 3	安波罗修	安波罗修	NR	NR	_	5	nsubj	_	start_char=6|end_char=10
@@ -1293,6 +1408,8 @@
 43	16	16	CD	CD	_	44	dep	_	start_char=116|end_char=118
 44	-RSB-	-RSB-	X	X	_	5	dep	_	start_char=119|end_char=124
 
+# sent_id = gcdt_bio_jerome-53
+# text = 哲罗姆对亚流派的思想是非常忧心的，甚至于他写道“全世界发现为亚流派所支配，受惊而呻吟起来”，可见他的失望和沮丧-LSB-17-RSB-。
 1	哲罗姆	哲罗姆	NR	NR	_	8	nsubj	_	start_char=0|end_char=3
 2	对	对	P	P	_	3	case	_	start_char=4|end_char=5
 3	亚流派	亚流派	NN	NN	_	5	nmod:assmod	_	start_char=6|end_char=9
@@ -1333,6 +1450,8 @@
 38	-RSB-	-RSB-	NN	NN	_	30	dobj	_	start_char=99|end_char=104
 39	。	。	PU	PU	_	8	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_bio_jerome-54
+# text =  对于圣徒和殉道的膜拜，当时哲罗姆、安波罗修和奥古斯丁都表示鼓励。
 1	对于	对于	P	P	_	6	case	_	start_char=0|end_char=2
 2	圣徒	圣徒	NN	NN	_	4	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	4	cc	_	start_char=6|end_char=7
@@ -1351,6 +1470,8 @@
 16	鼓励	鼓励	NN	NN	_	15	dobj	_	start_char=44|end_char=46
 17	。	。	PU	PU	_	15	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_bio_jerome-55
+# text = 并且哲罗姆曾说：“无论羔羊往那里去，他们都跟着祂。
 1	并且	并且	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	哲罗姆	哲罗姆	NR	NR	_	4	nsubj	_	start_char=3|end_char=6
 3	曾	曾	AD	AD	_	4	advmod	_	start_char=7|end_char=8
@@ -1370,6 +1491,8 @@
 17	祂	祂	NN	NN	_	15	dobj	_	start_char=39|end_char=40
 18	。	。	PU	PU	_	4	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_bio_jerome-56
+# text = 假如羔羊是各处同时都在的，那么，我们也得相信那些与羔羊同在的人各处同时都在。”
 1	假如	假如	CS	CS	_	8	advmod	_	start_char=0|end_char=2
 2	羔羊	羔羊	NN	NN	_	8	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	8	cop	_	start_char=6|end_char=7
@@ -1401,6 +1524,8 @@
 29	。	。	PU	PU	_	16	punct	_	start_char=65|end_char=66
 30	”	”	PU	PU	_	16	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_bio_jerome-57
+# text = 并且他们在圣徒面前以点灯，表示对圣徒的尊敬。-LSB-18-RSB-
 1	并且	并且	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	他们	他	PN	PN	_	9	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	5	case	_	start_char=6|end_char=7

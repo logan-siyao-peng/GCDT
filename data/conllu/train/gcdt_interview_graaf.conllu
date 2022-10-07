@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_graaf
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2020-08-26
+# meta::dateModified = 2020-09-02
+# meta::sourceURL = https://zh.wikinews.org/wiki/2020%E5%B9%B4%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%A4%A7%E9%81%B87%E6%9C%88%E7%AB%B6%E9%81%B8%E6%B4%BB%E5%8B%95
+# meta::speakerCount = 2
+# meta::title = 2020年美国总统大选7月竞选活动
+# meta::shortTitle = graaf
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_graaf-1
+# text = 2020年美国总统大选7月竞选活动
 1	2020年	2020年	NT	NT	_	7	compound:nn	_	start_char=0|end_char=5
 2	美国	美国	NR	NR	_	4	nmod:assmod	_	start_char=6|end_char=8
 3	总统	总统	NN	NN	_	4	compound:nn	_	start_char=9|end_char=11
@@ -6,6 +19,8 @@
 6	竞选	竞选	NN	NN	_	7	compound:nn	_	start_char=18|end_char=20
 7	活动	活动	NN	NN	_	0	root	_	start_char=21|end_char=23
 
+# sent_id = gcdt_interview_graaf-2
+# text = 约翰·德·格拉夫（面包和玫瑰党）
 1	约翰·德·格拉夫	约翰·德·格拉夫	NR	NR	_	5	dep	_	start_char=0|end_char=8
 2	（	（	PU	PU	_	5	punct	_	start_char=9|end_char=10
 3	面包	面包	NN	NN	_	5	conj	_	start_char=11|end_char=13
@@ -13,6 +28,8 @@
 5	玫瑰党	玫瑰党	NR	NR	_	0	root	_	start_char=16|end_char=19
 6	）	）	PU	PU	_	5	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_interview_graaf-3
+# text = 整个7月，由马利兰大学研究学者杰罗姆·石格尔（Jerome Segal）担任总统、电影制片人约翰·德·格拉夫（John de Graaf）担任副总统，为面包与玫瑰党（Bread and Roses Party）获得投票权进行了请愿。
 1	整个	整个	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	7月	7月	NT	NT	_	25	nmod:tmod	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	25	punct	_	start_char=6|end_char=7
@@ -57,6 +74,8 @@
 42	请愿	请愿	NN	NN	_	40	dobj	_	start_char=148|end_char=150
 43	。	。	PU	PU	_	14	punct	_	start_char=151|end_char=152
 
+# sent_id = gcdt_interview_graaf-4
+# text = 为了避免破坏者效应，该党只在非摇摆州寻求获得选票的机会，因为在这些州，某一个主要政党预计将赢得选举。
 1	为了	为了	P	P	_	2	case	_	start_char=0|end_char=2
 2	避免	避免	VV	VV	_	11	nmod:prep	_	start_char=3|end_char=5
 3	破坏者	破坏者	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -89,6 +108,8 @@
 30	选举	选举	NN	NN	_	29	dobj	_	start_char=76|end_char=78
 31	。	。	PU	PU	_	11	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_interview_graaf-5
+# text = 在摇摆州，该党支持民主党的总统票。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	摇摆州	摇摆州	NR	NR	_	6	nmod:prep	_	start_char=2|end_char=5
 3	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -100,6 +121,8 @@
 9	总统票	总统票	NN	NN	_	6	dobj	_	start_char=21|end_char=24
 10	。	。	PU	PU	_	6	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_interview_graaf-6
+# text = 西格尔在2018年成立了面包和玫瑰党，其名称源于1912年马萨诸塞州移民纺织工人罢工时的号召力。
 1	西格尔	西格尔	NR	NR	_	4	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	3	case	_	start_char=4|end_char=5
 3	2018年	2018年	NT	NT	_	4	nmod:prep	_	start_char=6|end_char=11
@@ -123,6 +146,8 @@
 21	号召力	号召力	NN	NN	_	12	dobj	_	start_char=64|end_char=67
 22	。	。	PU	PU	_	4	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_interview_graaf-7
+# text = 该党持左派、自称“社会主义”的立场，包括就业权、带薪休假、缩短每周工作时间、承认巴勒斯坦国等。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	党	党	NN	NN	_	3	nsubj	_	start_char=2|end_char=3
 3	持	持	VV	VV	_	0	root	_	start_char=4|end_char=5
@@ -153,6 +178,8 @@
 28	等	等	ETC	ETC	_	27	etc	_	start_char=72|end_char=73
 29	。	。	PU	PU	_	3	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_interview_graaf-8
+# text = 2019年8月，该党提名塞加尔为总统，今年4月，他宣布德格拉夫为竞选伙伴。
 1	2019年	2019年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	8月	8月	NT	NT	_	6	nmod:tmod	_	start_char=6|end_char=8
 3	，	，	PU	PU	_	6	punct	_	start_char=9|end_char=10
@@ -174,6 +201,8 @@
 19	伙伴	伙伴	NN	NN	_	15	ccomp	_	start_char=52|end_char=54
 20	。	。	PU	PU	_	6	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_interview_graaf-9
+# text = 作为一名电影人，德格拉夫已经制作了40部纪录片。
 1	作为	作为	P	P	_	4	case	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	4	nummod	_	start_char=3|end_char=4
 3	名	名	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -188,6 +217,8 @@
 12	纪录片	纪录片	NN	NN	_	8	dobj	_	start_char=31|end_char=34
 13	。	。	PU	PU	_	8	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_interview_graaf-10
+# text = 此外，他还与人合写了4本书，并为《进步》、《国家》和《纽约时报》等刊物撰写了大量文章。
 1	此外	此外	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	他	他	PN	PN	_	7	nsubj	_	start_char=5|end_char=6
@@ -222,6 +253,8 @@
 32	文章	文章	NN	NN	_	29	dobj	_	start_char=71|end_char=73
 33	。	。	PU	PU	_	7	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_interview_graaf-11
+# text = 帕特尔与维基新闻就竞选活动进行了交谈，一起讨论了他为什么要加入面包和玫瑰党，他作为副总统候选人的角色是什么，以及为什么非摇摆州的选民应该选择投票给西格尔和格拉夫。
 1	帕特尔	帕特尔	NR	NR	_	4	conj	_	start_char=0|end_char=3
 2	与	与	CC	CC	_	4	cc	_	start_char=4|end_char=5
 3	维基	维基	NR	NR	_	4	compound:nn	_	start_char=6|end_char=8
@@ -267,6 +300,8 @@
 43	格拉夫	格拉夫	NR	NR	_	39	dobj	_	start_char=119|end_char=122
 44	。	。	PU	PU	_	8	punct	_	start_char=123|end_char=124
 
+# sent_id = gcdt_interview_graaf-12
+# text = 你为什么决定竞选面包和玫瑰党的副总统候选人？
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	为什么	为什么	AD	AD	_	3	advmod	_	start_char=2|end_char=5
 3	决定	决定	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -279,6 +314,8 @@
 10	候选人	候选人	NN	NN	_	3	dobj	_	start_char=27|end_char=30
 11	？	？	PU	PU	_	3	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_interview_graaf-13
+# text = 杰罗姆邀请我成为面包和玫瑰党的竞选伙伴，我认为这是一种荣誉，因为半个世纪以来，我一直在倡导其原则。
 1	杰罗姆	杰罗姆	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	邀请	邀请	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	我	我	PN	PN	_	2	dobj	_	start_char=7|end_char=8
@@ -312,6 +349,8 @@
 31	原则	原则	NN	NN	_	29	dobj	_	start_char=76|end_char=78
 32	。	。	PU	PU	_	2	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_interview_graaf-14
+# text = 我们相信，生活质量比金钱或商品的数量更重要，我们国家优先考虑的经济增长、对股市的崇拜和不断减税以促进盲目消费，都威胁着地球的生命系统，并忽视了“玫瑰”在我们生活中的重要性，如自然、自然美和聪明的人类设计、艺术、社会联系、健康，尤其是足够的休闲时间来实际享受我们巨大的劳动成果。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	相信	相信	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -399,6 +438,8 @@
 85	成果	成果	NN	NN	_	80	dobj	_	start_char=219|end_char=221
 86	。	。	PU	PU	_	2	punct	_	start_char=222|end_char=223
 
+# sent_id = gcdt_interview_graaf-15
+# text = 我们出身于抵制消费主义的“自愿简朴”运动，但明白简单和生态的生活并不只是个人的选择。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	出身	出身	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	于	于	P	P	_	12	case	_	start_char=6|end_char=7
@@ -427,6 +468,8 @@
 26	选择	选择	NN	NN	_	2	conj	_	start_char=64|end_char=66
 27	。	。	PU	PU	_	2	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_interview_graaf-16
+# text = 我们需要制定政策，让人们更容易赚取适度但有保障的收入，而不是为了生产而生产，也不是为了有意义的工作、人与人之间的联系和美丽的环境能够给我们带来的满足感。
 1	我们	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	需要	需要	VV	VV	_	3	xcomp	_	start_char=3|end_char=5
 3	制定	制定	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -479,6 +522,8 @@
 50	满足感	满足感	NN	NN	_	28	nmod:prep	_	start_char=121|end_char=124
 51	。	。	PU	PU	_	3	punct	_	start_char=125|end_char=126
 
+# sent_id = gcdt_interview_graaf-17
+# text = 杰罗姆还长期倡导中东和平和为巴勒斯坦人伸张正义，在以色列实现两国解决方案。
 1	杰罗姆	杰罗姆	NR	NR	_	4	nsubj	_	start_char=0|end_char=3
 2	还	还	AD	AD	_	4	advmod	_	start_char=4|end_char=5
 3	长期	长期	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -500,6 +545,8 @@
 19	方案	方案	NN	NN	_	16	dobj	_	start_char=52|end_char=54
 20	。	。	PU	PU	_	4	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_interview_graaf-18
+# text = 我们支持这一点，也支持为了世界和平而大规模削减核武器和军备集结。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	支持	支持	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	这	这	DT	DT	_	2	dobj	_	start_char=6|end_char=7
@@ -521,6 +568,8 @@
 19	集结	集结	NN	NN	_	15	dobj	_	start_char=47|end_char=49
 20	。	。	PU	PU	_	2	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_interview_graaf-19
+# text = 作为一个国家，我们的优先事项根本就不正常，我们想说明这一点，并提出对美好生活的不同看法。
 1	作为	作为	P	P	_	4	case	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	4	nummod	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -552,6 +601,8 @@
 29	看法	看法	NN	NN	_	23	dobj	_	start_char=69|end_char=71
 30	。	。	PU	PU	_	13	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_interview_graaf-20
+# text = 虽然他是一个学者和学者，但我是一个电影制片人和传播者，他花了四十年时间为公共广播电视公司制作关于生活质量问题的纪录片。
 1	虽然	虽然	CS	CS	_	8	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	8	nsubj	_	start_char=3|end_char=4
 3	是	是	VC	VC	_	8	cop	_	start_char=5|end_char=6
@@ -591,6 +642,8 @@
 37	纪录片	纪录片	NN	NN	_	31	dobj	_	start_char=91|end_char=94
 38	。	。	PU	PU	_	18	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_interview_graaf-21
+# text = 作为面包和玫瑰党的副总统提名人，你有什么职责和责任？
 1	作为	作为	P	P	_	7	case	_	start_char=0|end_char=2
 2	面包	面包	NN	NN	_	4	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	4	cc	_	start_char=6|end_char=7
@@ -607,6 +660,8 @@
 14	责任	责任	NN	NN	_	10	dobj	_	start_char=36|end_char=38
 15	？	？	PU	PU	_	10	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_interview_graaf-22
+# text = 在这一点上，只是为了帮助宣传，因为我们并不抱有获胜的幻想。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	这	这	DT	DT	_	8	nmod:prep	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	2	dep	_	start_char=4|end_char=5
@@ -628,6 +683,8 @@
 19	幻想	幻想	NN	NN	_	16	dobj	_	start_char=44|end_char=46
 20	。	。	PU	PU	_	8	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_interview_graaf-23
+# text = 我们的目标是教育性的，我们希望我们的关键概念，即保证工作或收入，让人们过上适度但有保障的生活，以及让“美丽新政”和“绿色新政”能被主要政党的候选人和领导人接受。
 1	我们	我	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	目标	目标	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -680,6 +737,8 @@
 50	接受	接受	VV	VV	_	32	ccomp	_	start_char=126|end_char=128
 51	。	。	PU	PU	_	5	punct	_	start_char=129|end_char=130
 
+# sent_id = gcdt_interview_graaf-24
+# text = 当然，我们很难期望美国政府党会认真对待我们，但我们知道许多民主党人与我们的价值观相同，并将受到我们的建议的启发。
 1	当然	当然	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	我们	我	PN	PN	_	6	nsubj	_	start_char=5|end_char=7
@@ -714,6 +773,8 @@
 32	启发	启发	NN	NN	_	27	dobj	_	start_char=84|end_char=86
 33	。	。	PU	PU	_	6	punct	_	start_char=87|end_char=88
 
+# sent_id = gcdt_interview_graaf-25
+# text = 我们希望看到民主党内有一个“面包与玫瑰核心小组”，我们同意它呼吁更大的平等、气候行动、种族正义、同情心和善良。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	希望	希望	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	看到	看到	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
@@ -750,6 +811,8 @@
 34	善良	善良	NN	NN	_	20	dobj	_	start_char=85|end_char=87
 35	。	。	PU	PU	_	2	punct	_	start_char=88|end_char=89
 
+# sent_id = gcdt_interview_graaf-26
+# text = 我们还认为，这应该关注“玫瑰”，应该努力减少国际紧张局势。
 1	我们	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	还	还	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	认为	认为	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -769,6 +832,8 @@
 17	局势	局势	NN	NN	_	14	dobj	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	3	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_interview_graaf-27
+# text = 我们将继续作为第三党和在民主党内为这些理念而努力。
 1	我们	我	PN	PN	_	14	nsubj	_	start_char=0|end_char=2
 2	将	将	AD	AD	_	14	advmod	_	start_char=3|end_char=4
 3	继续	继续	VV	VV	_	14	xcomp	_	start_char=5|end_char=7
@@ -785,6 +850,8 @@
 14	努力	努力	VV	VV	_	0	root	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	14	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_interview_graaf-28
+# text = 预计你们的得票会以哪些州份为主？
 1	预计	预计	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	你们	你们	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -797,6 +864,8 @@
 10	主	主	NN	NN	_	9	dobj	_	start_char=23|end_char=24
 11	？	？	PU	PU	_	1	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_interview_graaf-29
+# text = 为什么这些州的选民应该选择投给你们？
 1	为什么	为什么	AD	AD	_	7	advmod	_	start_char=0|end_char=3
 2	这些	这些	DT	DT	_	3	det	_	start_char=4|end_char=6
 3	州	州	NN	NN	_	5	nmod:assmod	_	start_char=7|end_char=8
@@ -808,6 +877,8 @@
 9	你们	你们	PN	PN	_	8	dobj	_	start_char=23|end_char=25
 10	？	？	PU	PU	_	7	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_interview_graaf-30
+# text = 因为2019冠状病毒病疫情大流行，我们很难收集到许多州的选票，你只能在杰罗姆居住的马利兰州和佛蒙特州看到我们今年的选票。
 1	因为	因为	P	P	_	7	case	_	start_char=0|end_char=2
 2	2019	2019	CD	CD	_	5	dep	_	start_char=3|end_char=7
 3	冠状	冠状	NN	NN	_	5	compound:nn	_	start_char=8|end_char=10
@@ -843,6 +914,8 @@
 33	选票	选票	NN	NN	_	29	dobj	_	start_char=89|end_char=91
 34	。	。	PU	PU	_	29	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_interview_graaf-31
+# text = 我们并不寻求成为破坏者，也无意在导致拜登落选的州进行竞选，因为我们认为目前最重要的事情是结束特朗普总统任期的畸形状态。
 1	我们	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	并不	并不	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	寻求	寻求	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -878,6 +951,8 @@
 33	状态	状态	NN	NN	_	27	dobj	_	start_char=88|end_char=90
 34	。	。	PU	PU	_	3	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_interview_graaf-32
+# text = 我们认为佛蒙特州和马利兰州是联盟中最蓝的州之一，在那里，一些左派人士也有可能不参加选举，因为他们知道拜登在该州的胜利是肯定的。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	认为	认为	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	佛蒙特州	佛蒙特州	NR	NR	_	5	conj	_	start_char=6|end_char=10
@@ -919,6 +994,8 @@
 39	的	的	SP	SP	_	38	discourse	_	start_char=99|end_char=100
 40	。	。	PU	PU	_	2	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_interview_graaf-33
+# text = 相反，我们希望他们会出来投我们的票，然后再投给更往下的其他进步人士。
 1	相反	相反	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	我们	我	PN	PN	_	4	nsubj	_	start_char=5|end_char=7
@@ -942,6 +1019,8 @@
 21	人士	人士	NN	NN	_	15	dobj	_	start_char=51|end_char=53
 22	。	。	PU	PU	_	4	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_interview_graaf-34
+# text = 如果我们获得足够的选票而被注意到，我们希望我们可以创造一个新的对话，关于“玫瑰花”在政治思想中的重要性。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	我们	我	PN	PN	_	3	nsubj	_	start_char=3|end_char=5
 3	获得	获得	VV	VV	_	13	dep	_	start_char=6|end_char=8
@@ -976,6 +1055,8 @@
 32	重要性	重要性	NN	NN	_	16	dobj	_	start_char=79|end_char=82
 33	。	。	PU	PU	_	13	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_interview_graaf-35
+# text = 在其他安全的蓝州或深红的州，选民可以给我们写信，发出关于生活质量的讯息。
 1	在	在	P	P	_	9	case	_	start_char=0|end_char=1
 2	其他	其他	DT	DT	_	3	det	_	start_char=2|end_char=4
 3	安全	安全	NN	NN	_	9	nmod:assmod	_	start_char=5|end_char=7
@@ -1000,6 +1081,8 @@
 22	讯息	讯息	NN	NN	_	17	dobj	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	15	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_interview_graaf-36
+# text = 当我们从2019冠状病毒病疫情大流行中脱颖而出时，我们不希望回到一个严重不平等、过度劳累的美国的旧常态，沉迷于物质主义价值观，而牺牲我们的环境、健康和幸福。
 1	当	当	P	P	_	11	case	_	start_char=0|end_char=1
 2	我们	我	PN	PN	_	11	nsubj	_	start_char=2|end_char=4
 3	从	从	P	P	_	9	case	_	start_char=5|end_char=6
@@ -1047,6 +1130,8 @@
 45	幸福	幸福	NN	NN	_	38	dobj	_	start_char=119|end_char=121
 46	。	。	PU	PU	_	16	punct	_	start_char=122|end_char=123
 
+# sent_id = gcdt_interview_graaf-37
+# text = 我希望读到这篇文章的人能够查看我们的网页和我们的Facebook专页。
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	希望	希望	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	读到	读到	VV	VV	_	8	acl	_	start_char=5|end_char=7

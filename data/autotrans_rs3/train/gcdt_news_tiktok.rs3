@@ -36,114 +36,114 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="219" relname="organization-heading">TikTok 出售 或 须 先 得 北京 同意 // TikTok sale may require Beijing's approval</segment>
-		<segment id="2" parent="218" relname="context-circumstance">【 2020年 8月 31日 讯 】 // 【 News on August 31, 2020 】</segment>
+		<segment id="1" parent="219" relname="organization-heading">TikTok 出售 或 须 先 得 北京 同意 // TikTok sale may require Beijing 's approval</segment>
+		<segment id="2" parent="218" relname="context-circumstance">【 2020年 8月 31日 讯 】 // 【 News on August 31 , 2020 】</segment>
 		<segment id="3" parent="137" relname="context-background">中国 日前 对 科技 出口 制定 新 的 管制 规定 。 // China has introduced new regulations on technology exports .</segment>
 		<segment id="4" parent="135" relname="attribution-positive">一 名 中国 专家 说 ， // A Chinese expert said ,</segment>
 		<segment id="5" parent="121" relname="attribution-positive">这 意味 着 // this means</segment>
 		<segment id="6" parent="121" relname="same-unit">字节跳动 公司 // ByteDance Company</segment>
 		<segment id="7" parent="8" relname="contingency-condition">如果 出售 美国 TikTok 业务 // If the US TikTok business is sold</segment>
-		<segment id="8" parent="120" relname="span">需要 先 得到 北京 的 同意 。 // Beijing's approval is required.</segment>
+		<segment id="8" parent="120" relname="span">需要 先 得到 北京 的 同意 。 // Beijing 's approval is required .</segment>
 		<segment id="9" parent="123" relname="same-unit">这 个 规定 将 使得 // This provision will make</segment>
 		<segment id="10" parent="11" relname="elaboration-attribute">原本 已经 与 政治 因素 有关 的 // originally related to political factors</segment>
-		<segment id="11" parent="122" relname="span">TikTok 剥离 要求 更加 复杂化 。 // TikTok's divestment requirements are more complicated.</segment>
+		<segment id="11" parent="122" relname="span">TikTok 剥离 要求 更加 复杂化 。 // TikTok 's divestment requirements are more complicated .</segment>
 		<segment id="12" parent="127" relname="same-unit">美国 总统 特朗普 // US President Trump</segment>
 		<segment id="13" parent="125" relname="same-unit">以 // by</segment>
 		<segment id="14" parent="15" relname="elaboration-attribute">TikTok 可能 存在 损害 美国 国家 安全 的 // TikTok may exist to harm US national security .</segment>
-		<segment id="15" parent="124" relname="span">威胁 为 由 ， // for threats,</segment>
+		<segment id="15" parent="124" relname="span">威胁 为 由 ， // for threats ,</segment>
 		<segment id="16" parent="126" relname="span">于 8月 14日 下令 // Ordered on August 14th</segment>
 		<segment id="17" parent="129" relname="same-unit">中国 公司 字节跳动 在 90 天 内 ， 从 // Chinese company ByteDance in 90 days from</segment>
 		<segment id="18" parent="19" relname="elaboration-attribute">在 美国 运营 的 // operating in the US</segment>
-		<segment id="19" parent="128" relname="span">视频 共享 应用 程序 TikTok 撤资 。 // Video-sharing app TikTok divested.</segment>
+		<segment id="19" parent="128" relname="span">视频 共享 应用 程序 TikTok 撤资 。 // Video - sharing app TikTok divested .</segment>
 		<segment id="20" parent="132" relname="same-unit">这 个 命令 增加 了 // This command adds</segment>
 		<segment id="21" parent="22" relname="elaboration-attribute">字节跳动 从 TikTok 剥离 的 // ByteDance spun off from TikTok</segment>
 		<segment id="22" parent="131" relname="span">压力 ， // pressure ,</segment>
 		<segment id="23" parent="133" relname="joint-list">并 合法 支持 特朗普 政府 对 这 个 中国 社交 媒体 应用 程序 的 封杀 。 // and legitimately support the trump administration 's blockade of the chinese social media app .</segment>
-		<segment id="24" parent="140" relname="attribution-positive">此前 8月 6日 ， 总统 特朗普 签署 行政令 ， // Prior to August 6, President Trump signed an executive order,</segment>
+		<segment id="24" parent="140" relname="attribution-positive">此前 8月 6日 ， 总统 特朗普 签署 行政令 ， // Prior to August 6 , President Trump signed an executive order ,</segment>
 		<segment id="25" parent="140" relname="same-unit">将 在 45 天 后 禁止 // will be banned after 45 days</segment>
 		<segment id="26" parent="27" relname="elaboration-attribute">美国 司法 管辖 的 // U.S. jurisdiction</segment>
-		<segment id="27" parent="139" relname="span">任何 人 或 企业 与 TikTok 母公司 进行 任何 交易 。 // Any person or business doing any transaction with TikTok's parent company.</segment>
+		<segment id="27" parent="139" relname="span">任何 人 或 企业 与 TikTok 母公司 进行 任何 交易 。 // Any person or business doing any transaction with TikTok 's parent company .</segment>
 		<segment id="28" parent="29" relname="attribution-positive">北京 则 谴责 // Beijing condemned</segment>
-		<segment id="29" parent="142" relname="span">特朗普 的 打压 是 政治 行为 。 // Trump's crackdown is a political act.</segment>
+		<segment id="29" parent="142" relname="span">特朗普 的 打压 是 政治 行为 。 // Trump 's crackdown is a political act .</segment>
 		<segment id="30" parent="144" relname="same-unit">目前 // Currently</segment>
 		<segment id="31" parent="143" relname="elaboration-attribute">有意 收购 TikTok 在 美国 、 加拿大 、 新西兰 和 澳大利亚 业务 的 // interested in acquiring TikTok 's operations in the US , Canada , New Zealand and Australia</segment>
 		<segment id="32" parent="143" relname="span">买家 包括 微软 // Buyers include Microsoft</segment>
-		<segment id="33" parent="32" relname="restatement-partial">（ Microsoft Corp ) 、 // (Microsoft Corp),</segment>
+		<segment id="33" parent="32" relname="restatement-partial">（ Microsoft Corp ) 、 // ( Microsoft Corp ) ,</segment>
 		<segment id="34" parent="145" relname="restatement-repetition">甲骨文 // Oracle</segment>
-		<segment id="35" parent="145" relname="restatement-repetition">（ Oracle Corp ) // (Oracle Corp)</segment>
+		<segment id="35" parent="145" relname="restatement-repetition">（ Oracle Corp ) // ( Oracle Corp )</segment>
 		<segment id="36" parent="146" relname="span">和 沃尔玛 // and Walmart</segment>
-		<segment id="37" parent="36" relname="restatement-partial">（ Walmart Inc. ) // (Walmart Inc.)</segment>
+		<segment id="37" parent="36" relname="restatement-partial">（ Walmart Inc. ) // ( Walmart Inc. )</segment>
 		<segment id="38" parent="144" relname="same-unit">等 。 // Wait .</segment>
-		<segment id="39" parent="147" relname="span">不过 ， 中国 商务部 与 科技部 8月 28日 调整 发布 了 “ 中国 禁止 出口 限制 出口 技术 目录 ” 。 // However , the Ministry of Commerce and the Ministry of Science and Technology of China adjusted and released the "China's Catalogue of Technologies Prohibited and Restricted from Export" on August 28.</segment>
+		<segment id="39" parent="147" relname="span">不过 ， 中国 商务部 与 科技部 8月 28日 调整 发布 了 “ 中国 禁止 出口 限制 出口 技术 目录 ” 。 // However , the Ministry of Commerce and the Ministry of Science and Technology of China adjusted and released the " China 's Catalogue of Technologies Prohibited and Restricted from Export " on August 28 .</segment>
 		<segment id="40" parent="39" relname="elaboration-additional">这 是 中国 12 年 来 首 次 这么 做 。 // This is the first time China has done so in 12 years .</segment>
 		<segment id="41" parent="149" relname="same-unit">新华社 星期天 // Xinhua News Agency Sunday</segment>
-		<segment id="42" parent="43" relname="context-circumstance">（ 8月 30日 ） // (August 30)</segment>
-		<segment id="43" parent="148" relname="span">报道 说 ， // The report said,</segment>
+		<segment id="42" parent="43" relname="context-circumstance">（ 8月 30日 ） // ( August 30 )</segment>
+		<segment id="43" parent="148" relname="span">报道 说 ， // The report said ,</segment>
 		<segment id="44" parent="45" relname="attribution-positive">对外 经济 贸易 大学 的 国际 贸易 教授 崔凡 认为 ， // According to Cui Fan , a professor of international trade at the University of International Business and Economics ,</segment>
-		<segment id="45" parent="150" relname="span">这些 修订 都 适用于 TikTok 。 // These revisions all apply to TikTok.</segment>
+		<segment id="45" parent="150" relname="span">这些 修订 都 适用于 TikTok 。 // These revisions all apply to TikTok .</segment>
 		<segment id="46" parent="151" relname="same-unit">报道 // report</segment>
 		<segment id="47" parent="48" relname="mode-means">援引 他 的 话 // quote him</segment>
 		<segment id="48" parent="224" relname="span">说 ： // Say :</segment>
 		<segment id="49" parent="223" relname="same-unit">“ 如果 // " if</segment>
 		<segment id="50" parent="51" relname="attribution-positive">字节跳动 计划 // ByteDance plan</segment>
 		<segment id="51" parent="222" relname="span">出口 相关 技术 ， // export related technologies ,</segment>
-		<segment id="52" parent="152" relname="span">应该 履行 申请 许可 程序 。 ” // The licensing process should be followed. "</segment>
+		<segment id="52" parent="152" relname="span">应该 履行 申请 许可 程序 。 ” // The licensing process should be followed . "</segment>
 		<segment id="53" parent="153" relname="joint-list">中国 商务部 在 新规 中 增加 了 23 个 项 限制类 条目 ， // The Chinese Ministry of Commerce has added 23 restricted items to the new regulations .</segment>
-		<segment id="54" parent="153" relname="joint-list">对 21 项 条 目的 控制 要点 和 技术 参数 进行 了 修改 。 // The control points and technical parameters of 21 items have been revised.</segment>
+		<segment id="54" parent="153" relname="joint-list">对 21 项 条 目的 控制 要点 和 技术 参数 进行 了 修改 。 // The control points and technical parameters of 21 items have been revised .</segment>
 		<segment id="55" parent="159" relname="attribution-positive">路透社 星期天 报道 说 ， // Reuters reported on Sunday that ,</segment>
 		<segment id="56" parent="57" relname="elaboration-attribute">新增 限制 的 // Added restricted</segment>
-		<segment id="57" parent="154" relname="span">项目 中 包括 ： // The project includes:</segment>
+		<segment id="57" parent="154" relname="span">项目 中 包括 ： // The project includes :</segment>
 		<segment id="58" parent="59" relname="elaboration-attribute">根据 数据 分析 与 人工 智能 互动 接口 技术 的 // Based on data analysis and artificial intelligence interactive interface technology</segment>
 		<segment id="59" parent="155" relname="span">个人 信息 推播 服务 ， // personal information push service ,</segment>
 		<segment id="60" parent="156" relname="contingency-condition">如果 要 出口 这些 技术 // If you want to export these technologies</segment>
 		<segment id="61" parent="62" relname="purpose-goal">需要 最多 30 天 // Takes up to 30 days</segment>
-		<segment id="62" parent="156" relname="span">才 能 得到 初步 批准 。 // to get preliminary approval.</segment>
+		<segment id="62" parent="156" relname="span">才 能 得到 初步 批准 。 // to get preliminary approval .</segment>
 		<segment id="63" parent="162" relname="same-unit">崔凡 // Cui Fan</segment>
 		<segment id="64" parent="65" relname="context-circumstance">接受 新华社 采访 时 // In an interview with Xinhua News Agency</segment>
 		<segment id="65" parent="161" relname="span">说 ， // explain ,</segment>
-		<segment id="66" parent="164" relname="span">字节跳动 的 国际 业务 能 快速 发展 ， 依靠 的 是 其 国内 强大 的 技术 支撑 ， // The rapid development of ByteDance's international business relies on its strong domestic technical support.</segment>
-		<segment id="67" parent="163" relname="span">它 源源不断 的 向 境外 公司 提供 最新 的 核心 算法 服务 ， // It continuously provides the latest core algorithm services to overseas companies ,</segment>
+		<segment id="66" parent="164" relname="span">字节跳动 的 国际 业务 能 快速 发展 ， 依靠 的 是 其 国内 强大 的 技术 支撑 ， // The rapid development of ByteDance 's international business relies on its strong domestic technical support .</segment>
+		<segment id="67" parent="163" relname="span">它 源源不断 的 向 境外 公司 提供 最新 的 核心 算法 服务 ， // It continuously provides the latest core algorithm services to overseas companies .</segment>
 		<segment id="68" parent="67" relname="elaboration-additional">就 是 一 种 典型 的 技术 服务 出口 。 // It is a typical technical service export .</segment>
 		<segment id="69" parent="168" relname="attribution-positive">他 说 ， // He says ,</segment>
 		<segment id="70" parent="167" relname="contingency-condition">如果 它 的 国际 业务 要 继续 顺利 运营 ， // If its international business is to continue to run smoothly ,</segment>
 		<segment id="71" parent="166" relname="context-circumstance">无论 其 新 的 所有者 和 运营者 是 谁 ， // regardless of its new owner and operator ,</segment>
-		<segment id="72" parent="166" relname="joint-disjunction">很 可能 都 需要 从 中国 境内 向 境外 转让 软件 代码 或 其 使用权 ， // It is very likely that it is necessary to transfer the software code or the right to use it from China to overseas.</segment>
-		<segment id="73" parent="166" relname="joint-disjunction">也 可能 需要 从 中国 境内 向 境外 提供 技术 服务 。 // It may also be necessary to provide technical services from within China to outside the country .</segment>
-		<segment id="74" parent="172" relname="attribution-positive">崔凡 建议 ， // Cui Fan suggested,</segment>
+		<segment id="72" parent="166" relname="joint-disjunction">很 可能 都 需要 从 中国 境内 向 境外 转让 软件 代码 或 其 使用权 ， // It is very likely that the software code or the right to use it will need to be transferred from within China to abroad .</segment>
+		<segment id="73" parent="166" relname="joint-disjunction">也 可能 需要 从 中国 境内 向 境外 提供 技术 服务 。 // It may also be necessary to provide technical services from within China to abroad .</segment>
+		<segment id="74" parent="172" relname="attribution-positive">崔凡 建议 ， // Cui Fan suggested ,</segment>
 		<segment id="75" parent="171" relname="same-unit">字节跳动 认真 研究 // ByteDance earnestly research</segment>
 		<segment id="76" parent="77" relname="elaboration-attribute">调整 后 的 // after adjustment</segment>
 		<segment id="77" parent="170" relname="span">目录 ， // Table of contents ,</segment>
 		<segment id="78" parent="79" relname="attribution-positive">严肃 并 慎重 考虑 // serious and careful consideration</segment>
 		<segment id="79" parent="173" relname="span">是否 需要 暂停 相关 交易 的 实质性 谈判 ， // Whether it is necessary to suspend substantive negotiations on the relevant transaction ,</segment>
-		<segment id="80" parent="172" relname="joint-list">履行 好 法定 申报 程序 ， // Fulfill the statutory declaration procedures,</segment>
+		<segment id="80" parent="172" relname="joint-list">履行 好 法定 申报 程序 ， // Fulfill the statutory declaration procedures ,</segment>
 		<segment id="81" parent="175" relname="same-unit">然后 再 // after that</segment>
 		<segment id="82" parent="83" relname="mode-means">看 情况 // see the situation</segment>
-		<segment id="83" parent="174" relname="span">采取 进一步 行动 。 // Take further action.</segment>
+		<segment id="83" parent="174" relname="span">采取 进一步 行动 。 // Take further action .</segment>
 		<segment id="84" parent="177" relname="same-unit">字节跳动 星期天 没有 回复 // Bytedance Sunday no reply</segment>
 		<segment id="85" parent="86" relname="elaboration-attribute">路透社 有关 置评 的 // Reuters for comment</segment>
 		<segment id="86" parent="176" relname="span">请求 。 // ask .</segment>
-		<segment id="87" parent="213" relname="joint-list">TikTok 的 母公司 字节跳动 8月 24日 正式 启动 对 特朗普 政府 的 司法 诉讼 程序 ， // TikTok's parent company ByteDance officially launched judicial proceedings against the Trump administration on August 24.</segment>
+		<segment id="87" parent="213" relname="joint-list">TikTok 的 母公司 字节跳动 8月 24日 正式 启动 对 特朗普 政府 的 司法 诉讼 程序 ， // TikTok 's parent company ByteDance officially launched judicial proceedings against the Trump administration on August 24 .</segment>
 		<segment id="88" parent="180" relname="same-unit">挑战 // challenge</segment>
 		<segment id="89" parent="178" relname="elaboration-attribute">特朗普 总统 8月 6日 签署 的 // Signed by President Trump on August 6</segment>
 		<segment id="90" parent="91" relname="purpose-attribute">禁止 与 TikTok 一切 交易 的 // All transactions with TikTok are prohibited</segment>
-		<segment id="91" parent="178" relname="span">行政 命令 。 // executive order.</segment>
-		<segment id="92" parent="182" relname="attribution-positive">中国 官媒 中新网 说 ， // China's state media Chinanews.com said,</segment>
+		<segment id="91" parent="178" relname="span">行政 命令 。 // executive order .</segment>
+		<segment id="92" parent="182" relname="attribution-positive">中国 官媒 中新网 说 ， // China 's state media Chinanews.com said ,</segment>
 		<segment id="93" parent="94" relname="elaboration-attribute">字节跳动 宣布 正式 起诉 的 // ByteDance announced the formal prosecution of</segment>
 		<segment id="94" parent="181" relname="span">同时 ， // at the same time ,</segment>
-		<segment id="95" parent="182" relname="span">开始 准备 美国 业务 的 “ 关停 预案 ” 。 // Begin preparation of a "shutdown plan" for US operations.</segment>
-		<segment id="96" parent="186" relname="same-unit">这 个 高调 起诉 行动 引发 了 // The high-profile indictment sparked a</segment>
+		<segment id="95" parent="182" relname="span">开始 准备 美国 业务 的 “ 关停 预案 ” 。 // Begin preparation of a " shutdown plan " for US operations .</segment>
+		<segment id="96" parent="186" relname="same-unit">这 个 高调 起诉 行动 引发 了 // The high - profile indictment sparked a</segment>
 		<segment id="97" parent="184" relname="joint-disjunction">对 字节跳动 是 正当 维权 // It is a legitimate rights protection for ByteDance</segment>
 		<segment id="98" parent="184" relname="joint-disjunction">还是 政治 操弄 的 // or political manipulation</segment>
-		<segment id="99" parent="185" relname="span">探讨 。 // Discuss.</segment>
+		<segment id="99" parent="185" relname="span">探讨 。 // Discuss .</segment>
 		<segment id="100" parent="189" relname="attribution-positive">有 观察 人士 认为 ， // Some observers believe that</segment>
 		<segment id="101" parent="188" relname="causal-cause">中国 以 种种 理由 把 谷歌 搜索 引擎 、 脸书 和 推特 拒之门外 ， // china shuts out google search engine , facebook and twitter for various reasons ,</segment>
 		<segment id="102" parent="188" relname="same-unit">美国 // U.S.</segment>
-		<segment id="103" parent="104" relname="adversative-concession">就算 不 以 国家 安全 为 由 ， // Even if not for national security reasons,</segment>
+		<segment id="103" parent="104" relname="adversative-concession">就算 不 以 国家 安全 为 由 ， // Even if not for national security reasons ,</segment>
 		<segment id="104" parent="187" relname="span">单 凭 对等 原则 就 应该 对 中国 资讯 软件 下手 。 // The principle of reciprocity alone should start with Chinese information software .</segment>
 		<segment id="105" parent="191" relname="attribution-positive">中国 官媒 则 指责 // Chinese state media accused</segment>
 		<segment id="106" parent="191" relname="same-unit">美国 // U.S.</segment>
 		<segment id="107" parent="108" relname="mode-means">以 国家 安全 为 借口 // under the pretext of national security</segment>
-		<segment id="108" parent="192" relname="span">来 围堵 中国 ， // to contain China,</segment>
+		<segment id="108" parent="192" relname="span">来 围堵 中国 ， // to contain China ,</segment>
 		<segment id="109" parent="110" relname="attribution-positive">认为 // think</segment>
 		<segment id="110" parent="194" relname="span">字节跳动 起诉 特朗普 政府 是 企业 正当 的 维权 举动 。 // Bytedance 's lawsuit against the Trump administration is a legitimate corporate rights move .</segment>
 		<segment id="111" parent="198" relname="attribution-positive">纽约 城市 大学 亨特 学院 兼任 教授 滕彪 对 美国之音 说 ， // Teng Biao , an adjunct professor at Hunter College of the City University of New York , told VOA ,</segment>

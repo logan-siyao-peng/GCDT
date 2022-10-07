@@ -1,4 +1,4 @@
-<text id="gum_zh_interview_wimax" type="interview" sourceURL="https://zh.wikinews.org/wiki/WiMAX%E6%9C%AA%E4%BE%86%E6%80%8E%E9%BA%BC%E6%BC%94%E8%AE%8A_%E8%B3%87%E5%AE%89%E3%80%81%E7%B6%B2%E8%B7%AF%E6%A5%AD%E8%80%85%E9%9B%99%E8%B4%8F" dateCreated="2008-05-01" dateModified="2008-06-23" dateCollected="2022-01-03" speakerCount="3" speakerList="#WSS, #Hong, #Zhang" author="Wikinews" title="WiMAX未来怎么演变 资安、网络业者双赢" shortTitle="wimax"/>
+<text id="gum_zh_interview_wimax" genre="interview" sourceURL="https://zh.wikinews.org/wiki/WiMAX%E6%9C%AA%E4%BE%86%E6%80%8E%E9%BA%BC%E6%BC%94%E8%AE%8A_%E8%B3%87%E5%AE%89%E3%80%81%E7%B6%B2%E8%B7%AF%E6%A5%AD%E8%80%85%E9%9B%99%E8%B4%8F" dateCreated="2008-05-01" dateModified="2008-06-23" dateCollected="2022-01-03" speakerCount="3" speakerList="#WSS, #Hong, #Zhang" author="Wikinews" title="WiMAX未来怎么演变 资安、网络业者双赢" shortTitle="wimax"/>
 WiMAX未来怎么演变 资安、网络业者双赢
 
 【2008年5月1日讯】

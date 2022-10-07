@@ -1,4 +1,4 @@
-<text id="gum_zh_news_unemployment" type="news" sourceURL="https://zh.wikinews.org/wiki/%E9%A6%99%E6%B8%AF%E6%9C%80%E6%96%B0%E5%A4%B1%E6%A5%AD%E7%8E%87%E5%89%B5%E5%8D%81%E5%85%AD%E5%B9%B4%E4%BE%86%E9%AB%98%E4%BD%8D" dateCreated="2021-01-20" dateModified="2021-01-27"  dateCollected="2022-01-04" speakerCount="0" speakerList="none" author="Wikinews" title="香港最新失业率创十六年来高位" shortTitle="unemployment"/>
+<text id="gum_zh_news_unemployment" genre="news" sourceURL="https://zh.wikinews.org/wiki/%E9%A6%99%E6%B8%AF%E6%9C%80%E6%96%B0%E5%A4%B1%E6%A5%AD%E7%8E%87%E5%89%B5%E5%8D%81%E5%85%AD%E5%B9%B4%E4%BE%86%E9%AB%98%E4%BD%8D" dateCreated="2021-01-20" dateModified="2021-01-27"  dateCollected="2022-01-04" speakerCount="0" speakerList="none" author="Wikinews" title="香港最新失业率创十六年来高位" shortTitle="unemployment"/>
 香港最新失业率创十六年来高位
 
 【2021年1月20日讯】

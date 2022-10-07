@@ -1,8 +1,23 @@
+# newdoc id = gcdt_whow_skittles
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E5%88%B6%E4%BD%9C%E5%BD%A9%E8%99%B9%E4%BC%8F%E7%89%B9%E5%8A%A0
+# meta::speakerCount = 0
+# meta::title = 如何制作彩虹伏特加
+# meta::shortTitle = skittles
+# meta::author = wikiHow员工
+# meta::genre = whow
+# meta::partition = train
+# sent_id = gcdt_whow_skittles-1
+# text = 如何制作彩虹伏特加
 1	如何	如何	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	制作	制作	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	彩虹	彩虹	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
 4	伏特加	伏特加	NN	NN	_	2	dobj	_	start_char=9|end_char=12
 
+# sent_id = gcdt_whow_skittles-2
+# text = 彩虹伏特加制作起来非常有趣，还能给普通的伏特加增添果味和色彩。
 1	彩虹	彩虹	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	伏特加	伏特加	NN	NN	_	6	nsubj	_	start_char=3|end_char=6
 3	制作	制作	VV	VV	_	6	dep	_	start_char=7|end_char=9
@@ -22,6 +37,8 @@
 17	色彩	色彩	NN	NN	_	14	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	6	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_skittles-3
+# text = 其制作方法非常简单，只要把你最喜欢的彩虹糖混在一起，倒入一杯或一瓶伏特加内，然后充分溶合即可。
 1	其	其	PN	PN	_	3	compound:nn	_	start_char=0|end_char=1
 2	制作	制作	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	方法	方法	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -53,6 +70,8 @@
 29	即可	即可	VV	VV	_	28	advmod:rcomp	_	start_char=72|end_char=74
 30	。	。	PU	PU	_	5	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_whow_skittles-4
+# text = 配好的彩虹伏特加可以配制色彩艳丽的鸡尾酒，也可以当糖酒饮用。
 1	配好	配好	VV	VV	_	4	acl	_	start_char=0|end_char=2
 2	的	的	DEC	DEC	_	1	mark	_	start_char=3|end_char=4
 3	彩虹	彩虹	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -71,6 +90,8 @@
 16	饮用	饮用	VV	VV	_	6	conj	_	start_char=42|end_char=44
 17	。	。	PU	PU	_	6	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_skittles-5
+# text = 掌握诸多制作方法后，你就可以品尝色彩绚丽的彩虹伏特加啦！
 1	掌握	掌握	VV	VV	_	10	advcl:loc	_	start_char=0|end_char=2
 2	诸多	诸多	CD	CD	_	4	dep	_	start_char=3|end_char=5
 3	制作	制作	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -89,8 +110,12 @@
 16	啦	啦	SP	SP	_	17	discourse	_	start_char=41|end_char=42
 17	！	！	PU	PU	_	0	root	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_skittles-6
+# text = 素材
 1	素材	素材	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_whow_skittles-7
+# text = 每袋彩虹糖配1.9升伏特加
 1	每	每	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	袋	袋	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	彩虹糖	彩虹糖	NN	NN	_	4	nsubj	_	start_char=4|end_char=7
@@ -99,13 +124,19 @@
 6	升	升	VV	VV	_	4	conj	_	start_char=14|end_char=15
 7	伏特加	伏特加	NN	NN	_	6	dobj	_	start_char=16|end_char=19
 
+# sent_id = gcdt_whow_skittles-8
+# text = 大包彩虹糖
 1	大	大	JJ	JJ	_	2	advmod	_	start_char=0|end_char=1
 2	包	包	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	彩虹糖	彩虹糖	NN	NN	_	2	dobj	_	start_char=4|end_char=7
 
+# sent_id = gcdt_whow_skittles-9
+# text = 方法1 
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_skittles-10
+# text = 单杯彩虹伏特加(25毫升)
 1	单	单	CD	CD	_	4	nummod	_	start_char=0|end_char=1
 2	杯	杯	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	彩虹	彩虹	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -115,6 +146,8 @@
 7	毫升	毫升	M	M	_	6	mark:clf	_	start_char=16|end_char=18
 8	)	)	PU	PU	_	4	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_whow_skittles-11
+# text = 1 将制作彩虹伏特加的彩虹糖按颜色分类。
 1	1	1	CD	CD	_	10	dep	_	start_char=0|end_char=1
 2	将	将	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	制作	制作	VV	VV	_	7	acl	_	start_char=4|end_char=6
@@ -127,6 +160,8 @@
 10	分类	分类	VV	VV	_	0	root	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	10	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_skittles-12
+# text = 许多人都不喜欢绿色和紫色的彩虹糖，这两种颜色的糖果在正宗的彩虹糖中分别是青柠和葡萄口味。
 1	许多	许多	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	人	人	NN	NN	_	5	nsubj	_	start_char=3|end_char=4
 3	都	都	AD	AD	_	5	advmod	_	start_char=5|end_char=6
@@ -157,6 +192,8 @@
 28	口味	口味	NN	NN	_	5	conj	_	start_char=68|end_char=70
 29	。	。	PU	PU	_	5	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_whow_skittles-13
+# text = 它们和伏特加混合后会产生一种奇怪的口感，而且混合而成的颜色也不尽人意。
 1	它们	它	PN	PN	_	7	nsubj	_	start_char=0|end_char=2
 2	和	和	P	P	_	3	case	_	start_char=3|end_char=4
 3	伏特加	伏特加	NR	NR	_	4	nmod:prep	_	start_char=5|end_char=8
@@ -181,6 +218,8 @@
 22	人意	人意	VV	VV	_	7	conj	_	start_char=53|end_char=55
 23	。	。	PU	PU	_	7	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_skittles-14
+# text = 如果你喜欢，也可以选择它们来配制彩虹伏特加。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	喜欢	喜欢	VV	VV	_	7	dep	_	start_char=5|end_char=7
@@ -195,6 +234,8 @@
 12	伏特加	伏特加	NN	NN	_	10	dobj	_	start_char=29|end_char=32
 13	。	。	PU	PU	_	7	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_skittles-15
+# text = 如果你不在乎伏特加的色泽，可以忽略这一步。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	不	不	AD	AD	_	4	neg	_	start_char=5|end_char=6
@@ -210,6 +251,8 @@
 13	步	步	M	M	_	12	mark:clf	_	start_char=31|end_char=32
 14	。	。	PU	PU	_	10	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_skittles-16
+# text = 2 每6颗糖果配25毫升的伏特加。
 1	2	2	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	每	每	DT	DT	_	5	det	_	start_char=2|end_char=3
 3	6	6	CD	CD	_	2	dep	_	start_char=4|end_char=5
@@ -222,6 +265,8 @@
 10	伏特加	伏特加	NN	NN	_	6	dobj	_	start_char=21|end_char=24
 11	。	。	PU	PU	_	6	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_whow_skittles-17
+# text = 不停摇晃酒杯直至彩虹糖和伏特加几近溶合。
 1	不停	不停	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	摇晃	摇晃	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	酒杯	酒杯	NN	NN	_	2	dobj	_	start_char=6|end_char=8
@@ -234,6 +279,8 @@
 10	溶合	溶合	VV	VV	_	2	conj	_	start_char=26|end_char=28
 11	。	。	PU	PU	_	2	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_skittles-18
+# text = 糖果和伏特加的搭配比例各异，在配制大量彩虹伏特加前，先找到你所钟意的搭配比例。
 1	糖果	糖果	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	伏特加	伏特加	NN	NN	_	6	nmod:assmod	_	start_char=5|end_char=8
@@ -260,6 +307,8 @@
 24	比例	比例	NN	NN	_	18	dobj	_	start_char=59|end_char=61
 25	。	。	PU	PU	_	8	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_whow_skittles-19
+# text = 3 将残余的彩虹糖渣过滤掉。
 1	3	3	CD	CD	_	7	dep	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	7	aux:ba	_	start_char=2|end_char=3
 3	残余	残余	JJ	JJ	_	6	amod	_	start_char=4|end_char=6
@@ -270,6 +319,8 @@
 8	掉	掉	VV	VV	_	7	advmod:rcomp	_	start_char=18|end_char=19
 9	。	。	PU	PU	_	7	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_skittles-20
+# text = 经过单杯的尝试后，你会找到自己钟意的口味，如果有意愿，可以尝试配制大瓶彩虹伏特加啦。
 1	经过	经过	P	P	_	4	case	_	start_char=0|end_char=2
 2	单杯	单杯	JJ	JJ	_	4	amod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -297,13 +348,19 @@
 25	啦	啦	SP	SP	_	20	discourse	_	start_char=64|end_char=65
 26	。	。	PU	PU	_	9	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_skittles-21
+# text = 方法2
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_skittles-22
+# text = 瓶装彩虹伏特加
 1	瓶装	瓶装	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	彩虹	彩虹	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	伏特加	伏特加	NN	NN	_	1	dobj	_	start_char=6|end_char=9
 
+# sent_id = gcdt_whow_skittles-23
+# text = 1 倒出一点伏特加，为彩虹糖腾出些空间。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	倒出	倒出	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	一点	一点	CD	CD	_	4	dep	_	start_char=5|end_char=7
@@ -316,6 +373,8 @@
 10	空间	空间	NN	NN	_	8	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	2	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_skittles-24
+# text = 2 按颜色将彩虹糖分类。
 1	2	2	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	按	按	P	P	_	3	case	_	start_char=2|end_char=3
 3	颜色	颜色	NN	NN	_	6	nmod:prep	_	start_char=4|end_char=6
@@ -324,6 +383,8 @@
 6	分类	分类	VV	VV	_	0	root	_	start_char=13|end_char=15
 7	。	。	PU	PU	_	6	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_skittles-25
+# text = 3 加入彩虹糖，每350毫升伏特加搭配20到25颗糖果。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	加入	加入	VV	VV	_	9	dep	_	start_char=2|end_char=4
 3	彩虹糖	彩虹糖	NR	NR	_	2	dobj	_	start_char=5|end_char=8
@@ -340,6 +401,8 @@
 14	糖果	糖果	NN	NN	_	9	dobj	_	start_char=37|end_char=39
 15	。	。	PU	PU	_	9	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_skittles-26
+# text = 4 将混合好的酒静置一两天。
 1	4	4	CD	CD	_	7	dep	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	7	aux:ba	_	start_char=2|end_char=3
 3	混合	混合	VV	VV	_	6	acl	_	start_char=4|end_char=6
@@ -352,6 +415,8 @@
 10	天	天	M	M	_	9	mark:clf	_	start_char=20|end_char=21
 11	。	。	PU	PU	_	7	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_whow_skittles-27
+# text = 时不时地摇摇瓶子，让糖果和伏特加充分混合。
 1	时不时	时不时	AD	AD	_	3	advmod:dvp	_	start_char=0|end_char=3
 2	地	地	DEV	DEV	_	1	mark	_	start_char=4|end_char=5
 3	摇摇	摇摇	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -365,6 +430,8 @@
 11	混合	混合	VV	VV	_	6	ccomp	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	3	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_skittles-28
+# text = 5 用咖啡滤纸或干净的T恤等将糖渣筛去。
 1	5	5	CD	CD	_	12	dep	_	start_char=0|end_char=1
 2	用	用	P	P	_	8	case	_	start_char=2|end_char=3
 3	咖啡	咖啡	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -379,6 +446,8 @@
 12	筛去	筛去	VV	VV	_	0	root	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	12	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_skittles-29
+# text = 6 放置于冰箱中一晚。
 1	6	6	CD	CD	_	2	nsubj	_	start_char=0|end_char=1
 2	放置于	放置于	VV	VV	_	0	root	_	start_char=2|end_char=5
 3	冰箱	冰箱	NN	NN	_	6	dep	_	start_char=6|end_char=8
@@ -387,12 +456,18 @@
 6	晚	晚	NN	NN	_	2	dobj	_	start_char=13|end_char=14
 7	。	。	PU	PU	_	2	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_skittles-30
+# text = 方法3
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	3	3	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_skittles-31
+# text = 洗碗机制酒法
 1	洗碗机	洗碗机	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	制酒法	制酒法	NN	NN	_	0	root	_	start_char=4|end_char=7
 
+# sent_id = gcdt_whow_skittles-32
+# text = 1 将5袋200克的彩虹糖按颜色分类。
 1	1	1	CD	CD	_	11	dep	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	11	aux:ba	_	start_char=2|end_char=3
 3	5	5	CD	CD	_	8	nummod	_	start_char=4|end_char=5
@@ -406,6 +481,8 @@
 11	分类	分类	VV	VV	_	0	root	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	11	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_skittles-33
+# text = 2 用5个700毫升的瓶子做容器，将300毫升的伏特加倒入壶中，然后分别倒入5个装有彩虹糖的瓶中。
 1	2	2	CD	CD	_	9	dep	_	start_char=0|end_char=1
 2	用	用	P	P	_	8	case	_	start_char=2|end_char=3
 3	5	5	CD	CD	_	8	nummod	_	start_char=4|end_char=5
@@ -436,6 +513,8 @@
 28	瓶中	瓶中	NN	NN	_	22	dobj	_	start_char=72|end_char=74
 29	。	。	PU	PU	_	9	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_whow_skittles-34
+# text = 3 将瓶子放在洗碗机中，然后开启强力模式。
 1	3	3	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	4	aux:ba	_	start_char=2|end_char=3
 3	瓶子	瓶子	NN	NN	_	4	dep	_	start_char=4|end_char=6
@@ -449,6 +528,8 @@
 11	模式	模式	NN	NN	_	9	dobj	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	4	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_skittles-35
+# text = 时间过去三分之一后，将每瓶酒都用力摇一摇。
 1	时间	时间	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	过去	过去	NT	NT	_	3	dep	_	start_char=3|end_char=5
 3	三分之一	三分之一	CD	CD	_	11	advmod:loc	_	start_char=6|end_char=10
@@ -465,6 +546,8 @@
 14	摇	摇	VV	VV	_	12	dep	_	start_char=32|end_char=33
 15	。	。	PU	PU	_	11	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_skittles-36
+# text = 时间过去三分之二后，再次摇晃酒瓶。
 1	时间	时间	NN	NN	_	7	nsubj	_	start_char=0|end_char=2
 2	过去	过去	NT	NT	_	3	dep	_	start_char=3|end_char=5
 3	三分之二	三分之二	CD	CD	_	7	advmod:loc	_	start_char=6|end_char=10
@@ -475,6 +558,8 @@
 8	酒瓶	酒瓶	NN	NN	_	7	dobj	_	start_char=21|end_char=23
 9	。	。	PU	PU	_	7	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_whow_skittles-37
+# text = 4 洗碗机停止一轮工作后，再次摇晃每个瓶子。
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	洗碗机	洗碗机	NN	NN	_	3	nsubj	_	start_char=2|end_char=5
 3	停止	停止	VV	VV	_	10	advcl:loc	_	start_char=6|end_char=8
@@ -490,6 +575,8 @@
 13	瓶子	瓶子	NN	NN	_	10	dobj	_	start_char=30|end_char=32
 14	。	。	PU	PU	_	10	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_skittles-38
+# text = 然后将瓶子放到冰箱里。
 1	然后	然后	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	将	将	BA	BA	_	4	aux:ba	_	start_char=3|end_char=4
 3	瓶子	瓶子	NN	NN	_	4	dep	_	start_char=5|end_char=7
@@ -498,6 +585,8 @@
 6	里	里	LC	LC	_	5	case	_	start_char=14|end_char=15
 7	。	。	PU	PU	_	4	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_skittles-39
+# text = 5 伏特加冷藏后会呈现浆状。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	伏特加	伏特加	NN	NN	_	3	nsubj	_	start_char=2|end_char=5
 3	冷藏	冷藏	VV	VV	_	6	advcl:loc	_	start_char=6|end_char=8
@@ -507,6 +596,8 @@
 7	浆状	浆状	NN	NN	_	6	dobj	_	start_char=16|end_char=18
 8	。	。	PU	PU	_	6	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_whow_skittles-40
+# text = 拿一个筛子，上置纱布或咖啡滤纸，底下放一个大壶，缓缓倒入伏特加。
 1	拿	拿	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	4	nummod	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -529,6 +620,8 @@
 20	伏特加	伏特加	NN	NN	_	19	dobj	_	start_char=47|end_char=50
 21	。	。	PU	PU	_	1	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_skittles-41
+# text = 6 第一瓶彩虹伏特加过滤完毕后，将瓶子洗干净，然后将彩虹伏特加倒回瓶内。
 1	6	6	CD	CD	_	5	nummod	_	start_char=0|end_char=1
 2	第一	第一	OD	OD	_	5	nummod	_	start_char=2|end_char=4
 3	瓶	瓶	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -551,6 +644,8 @@
 20	瓶内	瓶内	NN	NN	_	19	dobj	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	12	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_skittles-42
+# text = 7 之后几瓶彩虹伏特加都按上述方法制作，注意每次用完都要洗净容器，以防混色。
 1	7	7	NT	NT	_	10	advmod:loc	_	start_char=0|end_char=1
 2	之后	之后	LC	LC	_	1	case	_	start_char=2|end_char=4
 3	几瓶	几瓶	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -574,6 +669,8 @@
 21	混色	混色	VV	VV	_	20	ccomp	_	start_char=54|end_char=56
 22	。	。	PU	PU	_	10	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_skittles-43
+# text = 8 把所有的酒瓶都放在冰箱里，喝的时候再拿出来。
 1	8	8	CD	CD	_	7	dep	_	start_char=0|end_char=1
 2	把	把	BA	BA	_	7	aux:ba	_	start_char=2|end_char=3
 3	所有	所有	DT	DT	_	5	dep	_	start_char=4|end_char=6
@@ -592,6 +689,8 @@
 16	出来	出来	VV	VV	_	15	advmod:rcomp	_	start_char=35|end_char=37
 17	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_skittles-44
+# text = 别担心，伏特加不会结冻。
 1	别	别	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	担心	担心	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -601,6 +700,8 @@
 7	结冻	结冻	VV	VV	_	2	ccomp	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	2	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_skittles-45
+# text = 9 大功告成，享受你的美味彩虹伏特加吧！
 1	9	9	NN	NN	_	2	nsubj	_	start_char=0|end_char=1
 2	大功告成	大功告成	VV	VV	_	0	root	_	start_char=2|end_char=6
 3	，	，	PU	PU	_	2	punct	_	start_char=7|end_char=8

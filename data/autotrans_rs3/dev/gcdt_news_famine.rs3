@@ -36,330 +36,330 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="2" relname="organization-preparation">十月 革命 百 年 // Centennial of the October Revolution // Centennial of the October Revolution</segment>
-		<segment id="2" parent="169" relname="span">乌克兰 纪念 大 饥荒 // Ukraine commemorates the great famine // Ukraine commemorates the great famine // Ukraine commemorates the great famine</segment>
-		<segment id="3" parent="321" relname="context-circumstance">【 2017年 11月 26日 讯 】 // 【 News on November 26, 2017 】 // 【 News on November 26, 2017 】 // 【 News on November 26, 2017 】</segment>
-		<segment id="4" parent="172" relname="organization-preparation">乌克兰 星期六 再次 纪念 大 饥荒 。 // Ukraine is again commemorating the Great Famine on Saturday . // Ukraine is again commemorating the Great Famine on Saturday . // Ukraine is again commemorating the Great Famine on Saturday .</segment>
-		<segment id="5" parent="171" relname="context-circumstance">在 十月 革命 百 年 之 际 ， // On the centenary of the October Revolution, // On the centenary of the October Revolution,</segment>
-		<segment id="6" parent="170" relname="attribution-positive">今年 的 大 饥荒 纪念 活动 特别 强调 ， // This year 's commemoration of the Great Famine highlights , // This year 's commemoration of the Great Famine highlights ,</segment>
-		<segment id="7" parent="170" relname="span">独裁者 斯大林 人为 制造 和 利用 大 饥荒 // Dictator Stalin artificially created and exploited the Great Famine // Dictator Stalin artificially created and exploited the Great Famine // Dictator Stalin artificially created and exploited the Great Famine</segment>
-		<segment id="8" parent="7" relname="purpose-goal">消灭 乌克兰 社会 ， 特别是 农村 中 对 苏共 政权 的 不满 。 // Eliminate dissatisfaction with the CPSU regime in Ukrainian society, especially in the countryside. // Eliminate dissatisfaction with the CPSU regime in Ukrainian society, especially in the countryside. // Eliminate dissatisfaction with the CPSU regime in Ukrainian society, especially in the countryside.</segment>
-		<segment id="9" parent="183" relname="organization-heading">全国 默哀 // National silence // National silence // National silence</segment>
-		<segment id="10" parent="174" relname="joint-list">乌克兰 星期六 再次 举行 全国性 活动 ， // ukraine held another nationwide event on saturday , // ukraine held another nationwide event on saturday ,</segment>
-		<segment id="11" parent="174" relname="joint-list">悼念 1932年 到 1933年 乌克兰 大 饥荒 中 的 受难者 。 // Tribute to the victims of the Great Ukrainian Famine of 1932-1933 . // Tribute to the victims of the Great Ukrainian Famine of 1932-1933 . // Tribute to the victims of the Great Ukrainian Famine of 1932-1933 .</segment>
-		<segment id="12" parent="175" relname="context-background">同 每年 的 活动 一样 ， // Like the annual event, // // Like the annual event,</segment>
-		<segment id="13" parent="175" relname="joint-sequence">下午 4点 时 乌克兰 全国 默哀 ， // At 4:00 pm, the whole country observes a moment of silence. // At 4:00 pm, the whole country observes a moment of silence. // At 4:00 pm, the whole country observes a moment of silence.</segment>
-		<segment id="14" parent="175" relname="joint-sequence">然后 点燃 蜡烛 。 // Then light the candle. // Then light the candle. // Then light the candle.</segment>
-		<segment id="15" parent="178" relname="joint-list">乌克兰 总统 和 总理 率领 高官 和 社会 人士 向 首都 基辅 的 大 饥荒 纪念碑 献 花圈 。 // The Ukrainian president and prime minister led senior officials and members of society to lay wreaths at the Great Famine Memorial in the capital Kyiv . // The Ukrainian president and prime minister led senior officials and members of society to lay wreaths at the Great Famine Memorial in the capital Kyiv . // The Ukrainian president and prime minister led senior officials and members of society to lay wreaths at the Great Famine Memorial in the capital Kyiv .</segment>
-		<segment id="16" parent="178" relname="joint-list">乌克兰 各 地 也 同时 举行 了 献 花圈 活动 。 // Wreath-laying events were also held across Ukraine at the same time . // Wreath-laying events were also held across Ukraine at the same time . // Wreath-laying events were also held across Ukraine at the same time .</segment>
-		<segment id="17" parent="179" relname="joint-list">乌克兰 各 政府 机关 和 有关 机构 星期六 下 半旗 ， // Ukrainian government agencies and related agencies flew their flags at half mast on Saturday . // Ukrainian government agencies and related agencies flew their flags at half mast on Saturday .</segment>
-		<segment id="18" parent="179" relname="joint-list">并 在 国旗 上 悬挂 致哀 用 的 黑色 丝带 ， // and hung black ribbons of condolences on the flag, // and hung black ribbons of condolences on the flag, // and hung black ribbons of condolences on the flag,</segment>
-		<segment id="19" parent="181" relname="joint-list">各 种 娱乐 活动 当天 受到 限制 ， // Various entertainment activities were restricted on the day , // Various entertainment activities were restricted on the day ,</segment>
-		<segment id="20" parent="181" relname="joint-list">乌克兰 全国 各 地 教堂 都 举行 了 安灵 弥撒 活动 。 // Relief Masses are being held in churches across Ukraine . // Relief Masses are being held in churches across Ukraine . // Relief Masses are being held in churches across Ukraine .</segment>
-		<segment id="21" parent="180" relname="joint-list">镇压 民族 复兴 // Suppression of national revival // Suppression of national revival // Suppression of national revival</segment>
-		<segment id="22" parent="180" relname="joint-list">用 大 饥荒 报复 // Vengeance with the Great Famine // Vengeance with the Great Famine // Vengeance with the Great Famine</segment>
-		<segment id="23" parent="186" relname="same-unit">在 // exist // in // exist</segment>
-		<segment id="24" parent="25" relname="elaboration-attribute">十月 革命 百 年 之 // Centennial of the October Revolution // Centennial of the October Revolution</segment>
-		<segment id="25" parent="185" relname="span">际 ， // inter, // inter, // inter,</segment>
-		<segment id="26" parent="231" relname="joint-list">今年 乌克兰 大 饥荒 纪念 活动 的 主题 是 ， 共产党 政权 当年 人为 制造 大 饥荒 ， 目的 是 报复 // The theme of this year's ukraine famine commemoration is that the communist regime created an artificial famine in revenge // The theme of this year's ukraine famine commemoration is that the communist regime created an artificial famine in revenge</segment>
-		<segment id="27" parent="28" relname="elaboration-attribute">当时 所 兴起 的 // what arose at that time // what arose at that time</segment>
-		<segment id="28" parent="187" relname="span">乌克兰 民族 复兴 运动 。 // Ukrainian National Revival Movement . // Ukrainian National Revival Movement . // Ukrainian National Revival Movement .</segment>
-		<segment id="29" parent="189" relname="context-background">一百 年 前 沙俄 帝国 崩溃 ， // One hundred years ago, the Tsarist Empire collapsed, // One hundred years ago, the Tsarist Empire collapsed,</segment>
-		<segment id="30" parent="189" relname="joint-list">末代 沙皇 被 推翻 // The last tsar is overthrown // // The last tsar is overthrown</segment>
-		<segment id="31" parent="189" relname="joint-list">和 十月 革命 爆发 后 ， // and the outbreak of the October Revolution , // and the outbreak of the October Revolution ,</segment>
-		<segment id="32" parent="191" relname="same-unit">芬兰 ， 以及 // Finland , and // Finland , and // Finland , and</segment>
-		<segment id="33" parent="34" relname="elaboration-attribute">与 乌克兰 拥有 密切 历史 和 文化 渊源 的 // with close historical and cultural ties to Ukraine // // with close historical and cultural ties to Ukraine</segment>
-		<segment id="34" parent="190" relname="span">波兰 先后 独立 ， // Poland became independent successively, // Poland became independent successively, // Poland became independent successively,</segment>
-		<segment id="35" parent="204" relname="span">乌克兰 知识界 从 1917年 起 积极 寻找 乌克兰 的 文化 和 民族 定位 。 // Ukrainian intellectuals have been actively searching for Ukrainian culture and national identity since 1917 . // Ukrainian intellectuals have been actively searching for Ukrainian culture and national identity since 1917 . // Ukrainian intellectuals have been actively searching for Ukrainian culture and national identity since 1917 .</segment>
-		<segment id="36" parent="194" relname="same-unit">与此同时 ， 富裕 的 乌克兰 农村 对 // At the same time , wealthy rural ukrainian // At the same time , wealthy rural ukrainian</segment>
-		<segment id="37" parent="38" relname="elaboration-attribute">布尔什维克 政权 强制 推行 的 // imposed by the Bolshevik regime // imposed by the Bolshevik regime</segment>
-		<segment id="38" parent="193" relname="span">集体 农庄 运动 日益 抵触 ， // The collective farm movement is increasingly resisting, // The collective farm movement is increasingly resisting,</segment>
-		<segment id="39" parent="196" relname="attribution-positive">乌克兰 媒体 说 ， // Ukrainian media said, // // Ukrainian media said,</segment>
-		<segment id="40" parent="196" relname="same-unit">大 饥荒 就 成为 // The great famine became // The great famine became // The great famine became</segment>
-		<segment id="41" parent="42" relname="elaboration-attribute">斯大林 专制 政权 对 乌克兰 寻求 自由 和 民族 革命 的 // Stalin's autocratic regime seeks freedom and national revolution in Ukraine // Stalin's autocratic regime seeks freedom and national revolution in Ukraine</segment>
-		<segment id="42" parent="195" relname="span">一 场 报复 。 // A revenge. // A revenge. // A revenge.</segment>
-		<segment id="43" parent="44" relname="elaboration-attribute">目前 定居 波兰 的 // Currently residing in Poland // // Currently residing in Poland</segment>
-		<segment id="44" parent="198" relname="span">美国 记者 和 专栏 作家 阿普勒鲍姆 几 天 前 在 乌克兰 首都 基辅 表示 ， // American journalist and columnist Applebaum said a few days ago in the ukrainian capital Kyiv , // American journalist and columnist Applebaum said a few days ago in the ukrainian capital Kyiv ,</segment>
-		<segment id="45" parent="200" relname="same-unit">斯大林 // Stalin // Stalin // Stalin</segment>
-		<segment id="46" parent="47" relname="mode-means">利用 大 饥荒 // Take advantage of the Great Famine // Take advantage of the Great Famine // Take advantage of the Great Famine</segment>
-		<segment id="47" parent="199" relname="span">来 镇压 乌克兰 社会 当时 的 抗议 和 不满 。 // to suppress the protests and dissatisfaction in Ukrainian society at that time . // to suppress the protests and dissatisfaction in Ukrainian society at that time . // to suppress the protests and dissatisfaction in Ukrainian society at that time .</segment>
-		<segment id="48" parent="229" relname="same-unit">在 今年 大 饥荒 纪念 活动 前夕 ， 这 位 普利策奖 得主 在 基辅 特别 介绍 了 // On the eve of this year's Great Famine commemoration, the Pulitzer Prize winner gave a special presentation in Kyiv. // // On the eve of this year's Great Famine commemoration, the Pulitzer Prize winner gave a special presentation in Kyiv.</segment>
-		<segment id="49" parent="50" relname="elaboration-attribute">她 撰写 的 // she wrote // // she wrote</segment>
-		<segment id="50" parent="202" relname="span">新 书 《 红色 饥荒 ， 斯大林 // New book The Red Famine, Stalin // New book The Red Famine, Stalin</segment>
-		<segment id="51" parent="52" relname="elaboration-attribute">针对 乌克兰 的 // for Ukraine // // for Ukraine</segment>
-		<segment id="52" parent="287" relname="span">战争 》 。 // War". // War". // War".</segment>
-		<segment id="53" parent="54" relname="context-circumstance">她 撰写 这 本 书 时 // While she was writing this book // While she was writing this book</segment>
-		<segment id="54" parent="205" relname="span">研究 了 当年 斯大林 与 乌克兰 共产党 领导人 之间 的 往来 信件 。 // A study of letters exchanged between Stalin and the Ukrainian Communist Party leaders in those years . // A study of letters exchanged between Stalin and the Ukrainian Communist Party leaders in those years . // A study of letters exchanged between Stalin and the Ukrainian Communist Party leaders in those years .</segment>
-		<segment id="55" parent="324" relname="attribution-positive">阿普勒鲍姆 认为 ， // Applebaum believes that // // Applebaum believes that</segment>
-		<segment id="56" parent="324" relname="span">斯大林 在 1917年 时 就 对 乌克兰 的 民族 运动 深感 恐惧 ， // Stalin was terrified of the Ukrainian national movement in 1917, // Stalin was terrified of the Ukrainian national movement in 1917, // Stalin was terrified of the Ukrainian national movement in 1917,</segment>
-		<segment id="57" parent="58" relname="attribution-positive">因为 他 害怕 // because he is afraid // // because he is afraid</segment>
-		<segment id="58" parent="206" relname="span">乌克兰 民族 运动 会 与 布尔什维克 革命 相 竞争 。 // The Ukrainian National Games competed with the Bolshevik Revolution. // The Ukrainian National Games competed with the Bolshevik Revolution. // The Ukrainian National Games competed with the Bolshevik Revolution.</segment>
-		<segment id="59" parent="208" relname="same-unit">斯大林 // Stalin // Stalin // Stalin</segment>
-		<segment id="60" parent="61" relname="mode-means">利用 大 饥荒 // Take advantage of the Great Famine // Take advantage of the Great Famine // Take advantage of the Great Famine</segment>
-		<segment id="61" parent="207" relname="span">解决 了 所谓 的 “ 乌克兰 问题 ” ， // solved the so-called "Ukrainian problem", // // solved the so-called "Ukrainian problem",</segment>
-		<segment id="62" parent="209" relname="joint-sequence">那 就 是 首先 跟除 了 乌克兰 农民 中 的 抗议 潜力 ， // That's the first thing to do with the protest potential among Ukrainian peasants, // That's the first thing to do with the protest potential among Ukrainian peasants,</segment>
-		<segment id="63" parent="209" relname="joint-sequence">接下来 镇压 迫害 乌克兰 知识 阶层 ， // Then the repression and persecution of the Ukrainian intellectual class, // Then the repression and persecution of the Ukrainian intellectual class,</segment>
-		<segment id="64" parent="209" relname="joint-sequence">最终 目的 是 不 让 乌克兰 对 布尔什维克 政权 构成 威胁 。 // The ultimate goal is to prevent ukraine from posing a threat to the bolshevik regime . // The ultimate goal is to prevent ukraine from posing a threat to the bolshevik regime . // The ultimate goal is to prevent ukraine from posing a threat to the bolshevik regime .</segment>
-		<segment id="65" parent="236" relname="elaboration-additional">阿普勒鲍姆 的 夫婿 是 波兰 前 外长 和 前 国会 议长 西科尔斯基 。 // Applebaum 's husband is former Polish foreign minister and former parliament speaker Sikorski . // Applebaum 's husband is former Polish foreign minister and former parliament speaker Sikorski . // Applebaum 's husband is former Polish foreign minister and former parliament speaker Sikorski .</segment>
-		<segment id="66" parent="221" relname="span">饥荒 都 发生 在 黑 土地 // Famines happen in the black land // Famines happen in the black land</segment>
-		<segment id="67" parent="66" relname="purpose-goal">消灭 反抗 力量 // Destroy the resistance // Destroy the resistance // Destroy the resistance</segment>
-		<segment id="68" parent="212" relname="attribution-positive">俄罗斯 时事 评论 人士 伊赫洛夫 说 ， // Russian current affairs commentator Ikhlov said , // // Russian current affairs commentator Ikhlov said ,</segment>
-		<segment id="69" parent="70" relname="contingency-condition">看 一下 地图 // look at the map // look at the map // look at the map</segment>
-		<segment id="70" parent="210" relname="span">就 知道 ， // just know, // just know, // just know,</segment>
-		<segment id="71" parent="211" relname="adversative-contrast">苏联 北部 土地 贫瘠 的 地区 没有 发生 饥荒 。 // There was no famine in the barren regions of the northern Soviet Union . // There was no famine in the barren regions of the northern Soviet Union . // There was no famine in the barren regions of the northern Soviet Union .</segment>
-		<segment id="72" parent="211" relname="adversative-contrast">大 饥荒 都 发生 在 乌克兰 、 俄罗斯 ， 以及 哈萨克斯坦 那些 肥沃 的 黑 土地 地区 。 // Great famines occurred in ukraine , russia , and the fertile black lands of kazakhstan . // Great famines occurred in ukraine , russia , and the fertile black lands of kazakhstan . // Great famines occurred in ukraine , russia , and the fertile black lands of kazakhstan .</segment>
-		<segment id="73" parent="215" relname="attribution-positive">伊赫洛夫 认为 ， // According to Ikhlov, // // According to Ikhlov,</segment>
-		<segment id="74" parent="215" relname="same-unit">大 饥荒 更 消灭 了 // The great famine was wiped out // The great famine was wiped out</segment>
-		<segment id="75" parent="213" relname="joint-list">对 共产党 政权 不满 // dissatisfaction with the communist regime // Dissatisfaction with the communist regime // dissatisfaction with the communist regime</segment>
-		<segment id="76" parent="213" relname="joint-list">并 构成 潜在 威胁 的 // and constitute a potential threat // and constitute a potential threat</segment>
-		<segment id="77" parent="214" relname="span">农民 阶层 。 // peasant class. // peasant class. // peasant class.</segment>
-		<segment id="78" parent="223" relname="attribution-positive">伊赫洛夫 说 ： // Ikhlov says: // Ikhlov says: // Ikhlov says:</segment>
-		<segment id="79" parent="217" relname="adversative-concession">“ 尽管 大 饥荒 中 饿死 的 以 乌克兰人 和 哈萨克人 居多 ， // "Although most of the people who starved to death in the Great Famine were Ukrainians and Kazakhs, // "Although most of the people who starved to death in the Great Famine were Ukrainians and Kazakhs,</segment>
-		<segment id="80" parent="217" relname="joint-list">但 那 场 民族 灭绝 行动 不 仅仅 针对 单一 民族 ， // But that genocide wasn't just for a single people. // But that genocide wasn't just for a single people.</segment>
-		<segment id="81" parent="217" relname="joint-list">也 同样 针对 某 个 社会 阶层 ， // also for a certain social class, // // also for a certain social class,</segment>
-		<segment id="82" parent="220" relname="same-unit">那 就 是 有意 // That is intentional // That is intentional</segment>
-		<segment id="83" parent="84" relname="mode-means">利用 大 饥荒 // Take advantage of the Great Famine // Take advantage of the Great Famine // Take advantage of the Great Famine</segment>
-		<segment id="84" parent="219" relname="span">来 彻底 消灭 那些 比较 富裕 ， 很 独立 自主 的 农村 地区 中 的 农民 。 ” // To completely eliminate the peasants in the more affluent and independent rural areas. " // To completely eliminate the peasants in the more affluent and independent rural areas. ” // To completely eliminate the peasants in the more affluent and independent rural areas. "</segment>
-		<segment id="85" parent="251" relname="organization-heading">饥荒 之后 俄语 居民 填充 空旷 农村 // Russian inhabitants fill empty countryside after famine // // Russian inhabitants fill the countryside empty after famine</segment>
-		<segment id="86" parent="241" relname="attribution-positive">伊赫洛夫 说 ， // Ikhlov said, // Ikhlov said, // Ikhlov said,</segment>
-		<segment id="87" parent="88" relname="context-circumstance">当 苏共 政权 派 军队 到 农村 持枪 强行 征收 粮食 和 农民 手 中 的 食品 后 ， // When the Soviet Communist regime sent troops to the countryside to forcibly expropriate grain and food from peasants with guns , // When the Soviet Communist regime sent troops to the countryside to forcibly expropriate grain and food from peasants with guns ,</segment>
-		<segment id="88" parent="241" relname="span">饥荒 立刻 开始 。 // The famine started immediately. // The famine started immediately. // The famine started immediately.</segment>
-		<segment id="89" parent="243" relname="joint-sequence">今天 乌克兰 境内 的 很多 俄语系 居民 就 是 在 大 饥荒 之后 被 迁移 到 了 空旷 已无人烟 的 乌克兰 农村 ， // Many Russian-speaking residents in Ukraine today were relocated to the empty and uninhabited Ukrainian countryside after the Great Famine. // Many Russian-speaking residents in Ukraine today were relocated to the empty and uninhabited Ukrainian countryside after the Great Famine.</segment>
-		<segment id="90" parent="243" relname="joint-sequence">然后 定居 了 下来 。 // Then settled down. // Then settled down. // Then settled down.</segment>
-		<segment id="91" parent="92" relname="elaboration-attribute">乌克兰 人口学家 最近 公布 的 // Ukrainian demographers recently published // // Ukrainian demographers recently published</segment>
-		<segment id="92" parent="244" relname="span">研究 结果 显示 ， // research shows , // // research shows ,</segment>
-		<segment id="93" parent="246" relname="same-unit">在 // exist // in // exist</segment>
-		<segment id="94" parent="95" relname="elaboration-attribute">大 饥荒 爆发 后 的 // After the Great Famine // After the Great Famine</segment>
-		<segment id="95" parent="245" relname="span">头 7 个 月 ， 就 有 3百万 人 丧生 ， // 3 million people died in the first 7 months, // 3 million people died in the first 7 months, // 3 million people died in the first 7 months,</segment>
-		<segment id="96" parent="97" relname="attribution-positive">说明 // illustrate // explain // illustrate</segment>
-		<segment id="97" parent="247" relname="span">当时 的 饿死 现象 非常 集中 。 // Starvation at that time was very concentrated . // Starvation at that time was very concentrated . // Starvation at that time was very concentrated .</segment>
-		<segment id="98" parent="253" relname="joint-list">推动 立法 // push for legislation // push for legislation</segment>
-		<segment id="99" parent="100" relname="attribution-negative">否认 // deny // deny // deny</segment>
-		<segment id="100" parent="254" relname="span">大 饥荒 将 承担 责任 // The Great Famine Will Take Responsibility // The Great Famine Will Take Responsibility</segment>
-		<segment id="101" parent="255" relname="attribution-positive">乌克兰 总统 波罗申科 星期六 说 ， // Ukrainian President Petro Poroshenko said Saturday , // // Ukrainian President Petro Poroshenko said Saturday ,</segment>
-		<segment id="102" parent="255" relname="joint-list">乌克兰 永远 不 会 忘记 那 场 可怕 的 犯罪 行动 的 组织者 ， // Ukraine will never forget the organizer of that horrific crime , // Ukraine will never forget the organizer of that horrific crime ,</segment>
-		<segment id="103" parent="255" relname="joint-list">反 人类 犯罪 行为 永远 没有 时间 期限 。 // There is never a time limit for crimes against humanity . // There is never a time limit for crimes against humanity . // There is never a time limit for crimes against humanity .</segment>
-		<segment id="104" parent="274" relname="attribution-positive">波罗申科 在 纪念 活动 上 表示 ， // Poroshenko said at the commemorative event , // // Poroshenko said at the commemorative event ,</segment>
-		<segment id="105" parent="274" relname="span">乌克兰 必须 立法 ， // Ukraine must legislate // Ukraine must legislate // Ukraine must legislate</segment>
-		<segment id="106" parent="258" relname="context-background">如同 否认 纳粹 屠杀 犹太人 将 承担 责任 一样 ， // Just as the denial of the Holocaust of the Jews will be held responsible , // Just as the denial of the Holocaust of the Jews will be held responsible ,</segment>
-		<segment id="107" parent="258" relname="same-unit">那些 // Those ones // those // Those ones</segment>
-		<segment id="108" parent="109" relname="elaboration-attribute">否认 乌克兰 大 饥荒 的 // Denial of the Great Famine in Ukraine // Denial of the Great Famine in Ukraine</segment>
-		<segment id="109" parent="257" relname="span">行为 也 应 受到 惩处 ， // behavior should also be punished, // behavior should also be punished</segment>
-		<segment id="110" parent="260" relname="attribution-positive">这样 做 能 让 后人 牢记 ， // Doing so can make future generations remember, // Doing so can make future generations remember,</segment>
-		<segment id="111" parent="260" relname="joint-list">苏共 政权 不但 人为 制造 ， // The Communist regime of the Soviet Union was not only artificial, // The Communist regime of the Soviet Union was not only artificial,</segment>
-		<segment id="112" parent="260" relname="joint-list">更 精心 策划 了 大 饥荒 。 // The Great Famine was more carefully planned. // The Great Famine was more carefully planned. // The Great Famine was more carefully planned.</segment>
-		<segment id="113" parent="263" relname="same-unit">波罗申科 9月份 // Poroshenko in September // Poroshenko in September // Poroshenko in September</segment>
-		<segment id="114" parent="115" relname="context-circumstance">在 纽约 联合国 大会 发言 时 // Speaking at the UN General Assembly in New York // Speaking at the UN General Assembly in New York</segment>
-		<segment id="115" parent="262" relname="span">也 强调 ， // also stressed that // also stressed, // also stressed that</segment>
-		<segment id="116" parent="117" relname="elaboration-attribute">斯大林 专制 政权 人为 制造 的 // Artificially created by Stalin's autocratic regime // // Artificially created by Stalin's autocratic regime</segment>
-		<segment id="117" parent="264" relname="span">大 饥荒 造成 7百万 到 1千万 乌克兰人 丧生 ， // The Great Famine killed between 7 and 10 million Ukrainians, // The Great Famine killed between 7 and 10 million Ukrainians, // The Great Famine killed between 7 and 10 million Ukrainians,</segment>
-		<segment id="118" parent="266" relname="attribution-positive">他 呼吁 // he calls // he calls // he calls</segment>
-		<segment id="119" parent="289" relname="attribution-positive">国际 社会 承认 // recognized by the international community // // recognized by the international community</segment>
-		<segment id="120" parent="289" relname="same-unit">大 饥荒 是 // the great famine is // // the great famine is</segment>
-		<segment id="121" parent="122" relname="elaboration-attribute">针对 乌克兰人 的 // for Ukrainians // // for Ukrainians</segment>
-		<segment id="122" parent="288" relname="span">民族 灭绝 行动 。 // Genocide action. // Genocide action. // Genocide action.</segment>
-		<segment id="123" parent="124" relname="attribution-positive">目前 已经 有 20多 个 国家 ， 美国 的 几 个 州 都 承认 // At present, there are more than 20 countries, and several states in the United States have recognized them // At present, there are more than 20 countries, and several states in the United States have recognized them</segment>
-		<segment id="124" parent="268" relname="span">乌克兰 大 饥荒 是 民族 灭绝 行动 。 // The Great Ukrainian Famine was an act of genocide. // The Great Ukrainian Famine was an act of genocide. // The Great Ukrainian Famine was an act of genocide.</segment>
-		<segment id="125" parent="269" relname="attribution-positive">乌克兰 驻 美国 大使 查伊拉 说 ， // Ukrainian ambassador to the US Chaila said , // Ukrainian ambassador to the US Chaila said , // Ukrainian ambassador to the US Chaila said ,</segment>
-		<segment id="126" parent="269" relname="span">乌克兰 正 积极 推动 美国 国会 // Ukraine is actively pushing the US Congress // Ukraine is actively pushing the US Congress // Ukraine is actively pushing the US Congress</segment>
-		<segment id="127" parent="126" relname="purpose-goal">通过 有关 决议 。 // Pass the relevant resolutions. // Pass the relevant resolutions. // Pass the relevant resolutions.</segment>
-		<segment id="128" parent="272" relname="same-unit">与此同时 ， 乌克兰 总统 和 总理 ， 以及 其他 政府 高官 也 // At the same time , the ukrainian president and prime minister , as well as other senior government officials // At the same time , the ukrainian president and prime minister , as well as other senior government officials</segment>
-		<segment id="129" parent="130" relname="mode-manner">利用 各 种 外交 活动 // Use various diplomatic activities // // Use various diplomatic activities</segment>
-		<segment id="130" parent="271" relname="span">推动 更 多 国家 做出 相应 决定 。 // Push more countries to make corresponding decisions . // Push more countries to make corresponding decisions . // Push more countries to make corresponding decisions.</segment>
-		<segment id="131" parent="282" relname="joint-list">苏联 噤声 // soviet silence // soviet silence // soviet silence</segment>
-		<segment id="132" parent="282" relname="joint-list">俄罗斯 沉默 // russian silence // russian silence // russian silence</segment>
-		<segment id="133" parent="134" relname="elaboration-attribute">乌克兰 国家 安全局 今年 2月 公布 的 // The National Security Service of Ukraine announced in February this year // // The National Security Service of Ukraine announced in February this year</segment>
-		<segment id="134" parent="283" relname="span">前 苏联 秘密 警察 的 解密 档案 显示 ， // Declassified archives of the former Soviet secret police show that // Declassified archives of the former Soviet secret police show that</segment>
-		<segment id="135" parent="284" relname="span">苏共 当局 尽量 对 大 饥荒 议题 噤声 。 // The CPSU authorities tried their best to keep silent on the issue of the Great Famine . // The CPSU authorities tried their best to keep silent on the issue of the Great Famine . // The CPSU authorities tried their best to keep silent on the issue of the Great Famine .</segment>
-		<segment id="136" parent="299" relname="attribution-positive">乌克兰 克格勃 负责人 在 1988年 的 一 份 秘密 文件 中 说 ， // The head of the Ukrainian KGB said in a secret document in 1988 , // The head of the Ukrainian KGB said in a secret document in 1988 ,</segment>
-		<segment id="137" parent="286" relname="same-unit">国外 反苏 势力 // foreign anti-Soviet forces // foreign anti-Soviet forces</segment>
-		<segment id="138" parent="139" relname="mode-manner">利用 大 饥荒 // Take advantage of the Great Famine // Take advantage of the Great Famine // Take advantage of the Great Famine</segment>
-		<segment id="139" parent="285" relname="span">对 苏联 从事 意识 形态 上 的 破坏 行动 ， // engaged in ideological sabotage against the Soviet Union , // engaged in ideological sabotage against the Soviet Union , // engaged in ideological sabotage against the Soviet Union ,</segment>
-		<segment id="140" parent="298" relname="span">苏联 有关 部门 应 对 出国 访问 的 文化 和 知识界 人士 事先 “ 洗脑 ” ， // The relevant departments of the Soviet Union should "brainwash" the cultural and intellectual people who visit abroad in advance. // The relevant departments of the Soviet Union should "brainwash" the cultural and intellectual people who visit abroad in advance.</segment>
-		<segment id="141" parent="291" relname="same-unit">以便 让 他们 能 抵制 // so that they can resist // // so that they can resist</segment>
-		<segment id="142" parent="143" relname="elaboration-attribute">针对 苏联 的 // for the Soviet Union // // for the Soviet Union</segment>
-		<segment id="143" parent="290" relname="span">负面 声音 。 // negative voice. // negative voice. // negative voice.</segment>
-		<segment id="144" parent="145" relname="adversative-concession">普京 统治 下 的 俄罗斯 虽然 当年 同样 也 遭受 过 大 饥荒 ， // Although Russia under Putin also suffered from great famine in those years , // Although Russia under Putin also suffered from great famine in those years , // Although Russia under Putin also suffered from great famine in those years ,</segment>
-		<segment id="145" parent="292" relname="span">但 俄罗斯 目前 对 大 饥荒 议题 基本 保持 沉默 。 // But Russia has remained largely silent on the issue of the famine . // But Russia has remained largely silent on the issue of the famine . // But Russia has remained largely silent on the issue of the famine.</segment>
-		<segment id="146" parent="147" relname="attribution-positive">俄罗斯 甚至 指责 // Russia even accuses // Russia even accuses // Russia even accuses</segment>
-		<segment id="147" parent="293" relname="span">乌克兰 把 大 饥荒 议题 政治化 。 // Ukraine politicizes the issue of the Great Famine . // Ukraine politicizes the issue of the Great Famine . // Ukraine politicizes the issue of the Great Famine .</segment>
-		<segment id="148" parent="316" relname="organization-heading">不 忘 祖辈 血泪 历史 // Do not forget the history of blood and tears of ancestors // Do not forget the history of blood and tears of ancestors</segment>
-		<segment id="149" parent="296" relname="same-unit">除了 // Apart from // except // Apart from</segment>
-		<segment id="150" parent="294" relname="joint-list">被 民众 推翻 的 // overthrown by the people // // overthrown by the people</segment>
-		<segment id="151" parent="294" relname="joint-list">亲 俄罗斯 的 // pro russian // pro russian // pro russian</segment>
-		<segment id="152" parent="295" relname="span">前 总统 亚努科维奇 不 太 重视 大 饥荒 议题 外 ， // Former President Yanukovych did not pay much attention to the issue of the Great Famine. // Former President Yanukovych did not pay much attention to the issue of the Great Famine.</segment>
-		<segment id="153" parent="304" relname="span">乌克兰 前 总统 库奇马 ， 尤先科 ， 以及 现任 总统 波罗申科 一直 关注 大 饥荒 的 纪念 活动 。 // Former ukrainian presidents kuchma , yushchenko , and current president poroshenko have been following the famine remembrance . // Former ukrainian presidents kuchma , yushchenko , and current president poroshenko have been following the famine remembrance . // Former ukrainian presidents kuchma , yushchenko , and current president poroshenko have been following the famine remembrance .</segment>
-		<segment id="154" parent="155" relname="attribution-positive">乌克兰 多 年 前 确定 // Ukraine determined many years ago // Ukraine determined many years ago // Ukraine determined many years ago</segment>
-		<segment id="155" parent="305" relname="span">每年 11月份 的 最后 一 个 星期六 是 大 饥荒 的 纪念 日 。 // The last Saturday in November is the anniversary of the Great Famine. // The last Saturday in November is the anniversary of the Great Famine. // The last Saturday in November is the anniversary of the Great Famine.</segment>
-		<segment id="156" parent="306" relname="context-circumstance">在 每年 的 乌克兰 大 饥荒 纪念 日 到来 前 ， // Before the annual anniversary of the Great Famine in Ukraine , // // Before the annual anniversary of the Great Famine in Ukraine ,</segment>
-		<segment id="157" parent="306" relname="joint-list">幸存者 回忆 过去 ， // Survivors recall the past, // Survivors recall the past, // Survivors recall the past,</segment>
-		<segment id="158" parent="306" relname="joint-list">中小 学生 会 参观 有关 的 展览 和 纪念馆 。 // Primary and secondary students will visit related exhibitions and memorials . // Primary and secondary students will visit related exhibitions and memorials . // Primary and secondary students will visit related exhibitions and memorials .</segment>
-		<segment id="159" parent="317" relname="joint-list">乌克兰 今年 还 推出 了 一些 新 的 大 饥荒 纪录 影片 。 // Ukraine also released some new famine documentaries this year . // Ukraine also released some new famine documentaries this year . // Ukraine also released some new famine documentaries this year .</segment>
-		<segment id="160" parent="309" relname="attribution-positive">一 家 乌克兰 媒体 说 ， // A Ukrainian media said, // // A Ukrainian media said,</segment>
-		<segment id="161" parent="309" relname="same-unit">许多 乌克兰人 都 能 讲述 // Many Ukrainians can tell // // Many Ukrainians can tell</segment>
-		<segment id="162" parent="163" relname="elaboration-attribute">自己 祖辈 在 大 饥荒 中 所 经历 的 // What my ancestors experienced in the great famine // What my ancestors experienced in the great famine</segment>
-		<segment id="163" parent="308" relname="span">血泪 历史 。 // Blood and Tears History. // Blood and Tears History. // Blood and Tears History.</segment>
-		<segment id="164" parent="165" relname="elaboration-attribute">有 欧洲 粮仓 之 称 的 // known as the granary of Europe // // known as the granary of Europe</segment>
-		<segment id="165" parent="311" relname="span">乌克兰 在 十月 革命 后 的 20年代 和 // Ukraine in the 1920s after the October Revolution and // Ukraine in the 1920s after the October Revolution and // Ukraine in the 1920s after the October Revolution and</segment>
-		<segment id="166" parent="167" relname="elaboration-attribute">二战 结束 后 的 // After World War II // // After World War II</segment>
-		<segment id="167" parent="312" relname="span">40年代 也 曾 爆发 过 另外 两 场 大 饥荒 ， // There were two other great famines in the 1940s. // There were two other great famines in the 1940s.</segment>
-		<segment id="168" parent="314" relname="span">但 30年代 的 饥荒 规模 最 大 。 // But the famine in the 1930s was the greatest . // But the famine in the 1930s was the greatest . // But the famine in the 1930s was the greatest .</segment>
-		<group id="169" type="span" parent="322" relname="organization-heading"/>
+		<segment id="1" parent="2" relname="organization-preparation">十月 革命 百 年 // Centennial of the October Revolution</segment>
+		<segment id="2" parent="169" relname="span">乌克兰 纪念 大 饥荒 // Ukraine commemorates the great famine</segment>
+		<segment id="3" parent="326" relname="context-circumstance">【 2017年 11月 26日 讯 】 // 【 News on November 26 , 2017 】</segment>
+		<segment id="4" parent="172" relname="organization-preparation">乌克兰 星期六 再次 纪念 大 饥荒 。 // Ukraine is again commemorating the Great Famine on Saturday .</segment>
+		<segment id="5" parent="171" relname="context-circumstance">在 十月 革命 百 年 之 际 ， // On the centenary of the October Revolution ,</segment>
+		<segment id="6" parent="170" relname="attribution-positive">今年 的 大 饥荒 纪念 活动 特别 强调 ， // This year 's commemoration of the Great Famine highlights ,</segment>
+		<segment id="7" parent="170" relname="span">独裁者 斯大林 人为 制造 和 利用 大 饥荒 // Dictator Stalin artificially created and exploited the Great Famine</segment>
+		<segment id="8" parent="7" relname="purpose-goal">消灭 乌克兰 社会 ， 特别是 农村 中 对 苏共 政权 的 不满 。 // Eliminate dissatisfaction with the CPSU regime in Ukrainian society , especially in the countryside .</segment>
+		<segment id="9" parent="184" relname="organization-heading">全国 默哀 // National silence</segment>
+		<segment id="10" parent="174" relname="joint-list">乌克兰 星期六 再次 举行 全国性 活动 ， // ukraine held another nationwide event on saturday ,</segment>
+		<segment id="11" parent="174" relname="joint-list">悼念 1932年 到 1933年 乌克兰 大 饥荒 中 的 受难者 。 // Tribute to the victims of the Great Ukrainian Famine of 1932 - 1933 .</segment>
+		<segment id="12" parent="175" relname="context-background">同 每年 的 活动 一样 ， // Like the annual event ,</segment>
+		<segment id="13" parent="175" relname="joint-sequence">下午 4点 时 乌克兰 全国 默哀 ， // At 4:00 pm , the whole country observes a moment of silence .</segment>
+		<segment id="14" parent="175" relname="joint-sequence">然后 点燃 蜡烛 。 // Then light the candle .</segment>
+		<segment id="15" parent="178" relname="joint-list">乌克兰 总统 和 总理 率领 高官 和 社会 人士 向 首都 基辅 的 大 饥荒 纪念碑 献 花圈 。 // The Ukrainian president and prime minister led senior officials and members of society to lay wreaths at the Great Famine Memorial in the capital Kyiv .</segment>
+		<segment id="16" parent="178" relname="joint-list">乌克兰 各 地 也 同时 举行 了 献 花圈 活动 。 // Wreath - laying events were also held across Ukraine at the same time .</segment>
+		<segment id="17" parent="179" relname="joint-list">乌克兰 各 政府 机关 和 有关 机构 星期六 下 半旗 ， // Ukrainian government agencies and related agencies flew their flags at half mast on Saturday .</segment>
+		<segment id="18" parent="179" relname="joint-list">并 在 国旗 上 悬挂 致哀 用 的 黑色 丝带 ， // and hung black ribbons of condolences on the flag ,</segment>
+		<segment id="19" parent="181" relname="joint-list">各 种 娱乐 活动 当天 受到 限制 ， // Various entertainment activities were restricted on the day ,</segment>
+		<segment id="20" parent="181" relname="joint-list">乌克兰 全国 各 地 教堂 都 举行 了 安灵 弥撒 活动 。 // Relief Masses are being held in churches across Ukraine .</segment>
+		<segment id="21" parent="180" relname="joint-list">镇压 民族 复兴 // Suppression of national revival</segment>
+		<segment id="22" parent="180" relname="joint-list">用 大 饥荒 报复 // Vengeance with the Great Famine</segment>
+		<segment id="23" parent="187" relname="same-unit">在 // exist</segment>
+		<segment id="24" parent="25" relname="elaboration-attribute">十月 革命 百 年 之 // Centennial of the October Revolution</segment>
+		<segment id="25" parent="186" relname="span">际 ， // inter ,</segment>
+		<segment id="26" parent="236" relname="joint-list">今年 乌克兰 大 饥荒 纪念 活动 的 主题 是 ， 共产党 政权 当年 人为 制造 大 饥荒 ， 目的 是 报复 // The theme of this year 's ukraine famine commemoration is that the communist regime created an artificial famine in revenge</segment>
+		<segment id="27" parent="28" relname="elaboration-attribute">当时 所 兴起 的 // what arose at that time</segment>
+		<segment id="28" parent="188" relname="span">乌克兰 民族 复兴 运动 。 // Ukrainian National Revival Movement .</segment>
+		<segment id="29" parent="190" relname="context-background">一百 年 前 沙俄 帝国 崩溃 ， // One hundred years ago , the Tsarist Empire collapsed ,</segment>
+		<segment id="30" parent="190" relname="joint-list">末代 沙皇 被 推翻 // The last tsar is overthrown</segment>
+		<segment id="31" parent="190" relname="joint-list">和 十月 革命 爆发 后 ， // and the outbreak of the October Revolution ,</segment>
+		<segment id="32" parent="192" relname="same-unit">芬兰 ， 以及 // Finland , and</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">与 乌克兰 拥有 密切 历史 和 文化 渊源 的 // with close historical and cultural ties to Ukraine</segment>
+		<segment id="34" parent="191" relname="span">波兰 先后 独立 ， // Poland became independent successively ,</segment>
+		<segment id="35" parent="205" relname="span">乌克兰 知识界 从 1917年 起 积极 寻找 乌克兰 的 文化 和 民族 定位 。 // Ukrainian intellectuals have been actively searching for Ukrainian culture and national identity since 1917 .</segment>
+		<segment id="36" parent="195" relname="same-unit">与此同时 ， 富裕 的 乌克兰 农村 对 // At the same time , wealthy rural ukrainian</segment>
+		<segment id="37" parent="38" relname="elaboration-attribute">布尔什维克 政权 强制 推行 的 // imposed by the Bolshevik regime</segment>
+		<segment id="38" parent="194" relname="span">集体 农庄 运动 日益 抵触 ， // The collective farm movement is increasingly resisting ,</segment>
+		<segment id="39" parent="197" relname="attribution-positive">乌克兰 媒体 说 ， // Ukrainian media said ,</segment>
+		<segment id="40" parent="197" relname="same-unit">大 饥荒 就 成为 // The great famine became</segment>
+		<segment id="41" parent="42" relname="elaboration-attribute">斯大林 专制 政权 对 乌克兰 寻求 自由 和 民族 革命 的 // Stalin 's autocratic regime seeks freedom and national revolution in Ukraine</segment>
+		<segment id="42" parent="196" relname="span">一 场 报复 。 // A revenge .</segment>
+		<segment id="43" parent="44" relname="elaboration-attribute">目前 定居 波兰 的 // Currently residing in Poland</segment>
+		<segment id="44" parent="199" relname="span">美国 记者 和 专栏 作家 阿普勒鲍姆 几 天 前 在 乌克兰 首都 基辅 表示 ， // American journalist and columnist Applebaum said a few days ago in the ukrainian capital Kyiv ,</segment>
+		<segment id="45" parent="201" relname="same-unit">斯大林 // Stalin</segment>
+		<segment id="46" parent="47" relname="mode-means">利用 大 饥荒 // Take advantage of the Great Famine</segment>
+		<segment id="47" parent="200" relname="span">来 镇压 乌克兰 社会 当时 的 抗议 和 不满 。 // to suppress the protests and dissatisfaction in Ukrainian society at that time .</segment>
+		<segment id="48" parent="234" relname="same-unit">在 今年 大 饥荒 纪念 活动 前夕 ， 这 位 普利策奖 得主 在 基辅 特别 介绍 了 // On the eve of this year 's Great Famine commemoration , the Pulitzer Prize winner gave a special presentation in Kyiv .</segment>
+		<segment id="49" parent="50" relname="elaboration-attribute">她 撰写 的 // she wrote</segment>
+		<segment id="50" parent="203" relname="span">新 书 《 红色 饥荒 ， 斯大林 // New book The Red Famine , Stalin</segment>
+		<segment id="51" parent="52" relname="elaboration-attribute">针对 乌克兰 的 // for Ukraine</segment>
+		<segment id="52" parent="292" relname="span">战争 》 。 // War " .</segment>
+		<segment id="53" parent="54" relname="context-circumstance">她 撰写 这 本 书 时 // While she was writing this book</segment>
+		<segment id="54" parent="206" relname="span">研究 了 当年 斯大林 与 乌克兰 共产党 领导人 之间 的 往来 信件 。 // A study of letters exchanged between Stalin and the Ukrainian Communist Party leaders in those years .</segment>
+		<segment id="55" parent="329" relname="attribution-positive">阿普勒鲍姆 认为 ， // Applebaum believes that</segment>
+		<segment id="56" parent="329" relname="span">斯大林 在 1917年 时 就 对 乌克兰 的 民族 运动 深感 恐惧 ， // Stalin was terrified of the Ukrainian national movement in 1917 ,</segment>
+		<segment id="57" parent="58" relname="attribution-positive">因为 他 害怕 // because he is afraid</segment>
+		<segment id="58" parent="209" relname="span">乌克兰 民族 运动 会 与 布尔什维克 革命 相 竞争 。 // The Ukrainian National Games competed with the Bolshevik Revolution .</segment>
+		<segment id="59" parent="213" relname="same-unit">斯大林 // Stalin</segment>
+		<segment id="60" parent="61" relname="mode-means">利用 大 饥荒 // Take advantage of the Great Famine</segment>
+		<segment id="61" parent="212" relname="span">解决 了 所谓 的 “ 乌克兰 问题 ” ， // solved the so - called " Ukrainian problem " ,</segment>
+		<segment id="62" parent="214" relname="joint-sequence">那 就 是 首先 跟除 了 乌克兰 农民 中 的 抗议 潜力 ， // That 's the first thing to do with the protest potential among Ukrainian peasants ,</segment>
+		<segment id="63" parent="214" relname="joint-sequence">接下来 镇压 迫害 乌克兰 知识 阶层 ， // Then the repression and persecution of the Ukrainian intellectual class ,</segment>
+		<segment id="64" parent="214" relname="joint-sequence">最终 目的 是 不 让 乌克兰 对 布尔什维克 政权 构成 威胁 。 // The ultimate goal is to prevent ukraine from posing a threat to the bolshevik regime .</segment>
+		<segment id="65" parent="241" relname="elaboration-additional">阿普勒鲍姆 的 夫婿 是 波兰 前 外长 和 前 国会 议长 西科尔斯基 。 // Applebaum 's husband is former Polish foreign minister and former parliament speaker Sikorski .</segment>
+		<segment id="66" parent="226" relname="span">饥荒 都 发生 在 黑 土地 // Famines happen in the black land</segment>
+		<segment id="67" parent="66" relname="purpose-goal">消灭 反抗 力量 // Destroy the resistance</segment>
+		<segment id="68" parent="217" relname="attribution-positive">俄罗斯 时事 评论 人士 伊赫洛夫 说 ， // Russian current affairs commentator Ikhlov said ,</segment>
+		<segment id="69" parent="70" relname="contingency-condition">看 一下 地图 // look at the map</segment>
+		<segment id="70" parent="215" relname="span">就 知道 ， // just know ,</segment>
+		<segment id="71" parent="216" relname="adversative-contrast">苏联 北部 土地 贫瘠 的 地区 没有 发生 饥荒 。 // There was no famine in the barren regions of the northern Soviet Union .</segment>
+		<segment id="72" parent="216" relname="adversative-contrast">大 饥荒 都 发生 在 乌克兰 、 俄罗斯 ， 以及 哈萨克斯坦 那些 肥沃 的 黑 土地 地区 。 // Great famines occurred in ukraine , russia , and the fertile black lands of kazakhstan .</segment>
+		<segment id="73" parent="220" relname="attribution-positive">伊赫洛夫 认为 ， // According to Ikhlov ,</segment>
+		<segment id="74" parent="220" relname="same-unit">大 饥荒 更 消灭 了 // The great famine was wiped out</segment>
+		<segment id="75" parent="218" relname="joint-list">对 共产党 政权 不满 // dissatisfaction with the communist regime</segment>
+		<segment id="76" parent="218" relname="joint-list">并 构成 潜在 威胁 的 // and constitute a potential threat</segment>
+		<segment id="77" parent="219" relname="span">农民 阶层 。 // peasant class .</segment>
+		<segment id="78" parent="228" relname="attribution-positive">伊赫洛夫 说 ： // Ikhlov says :</segment>
+		<segment id="79" parent="222" relname="adversative-concession">“ 尽管 大 饥荒 中 饿死 的 以 乌克兰人 和 哈萨克人 居多 ， // " Although most of the people who starved to death in the Great Famine were Ukrainians and Kazakhs ,</segment>
+		<segment id="80" parent="222" relname="joint-list">但 那 场 民族 灭绝 行动 不 仅仅 针对 单一 民族 ， // But that genocide was n't just for a single people .</segment>
+		<segment id="81" parent="222" relname="joint-list">也 同样 针对 某 个 社会 阶层 ， // also for a certain social class ,</segment>
+		<segment id="82" parent="225" relname="same-unit">那 就 是 有意 // That is intentional</segment>
+		<segment id="83" parent="84" relname="mode-means">利用 大 饥荒 // Take advantage of the Great Famine</segment>
+		<segment id="84" parent="224" relname="span">来 彻底 消灭 那些 比较 富裕 ， 很 独立 自主 的 农村 地区 中 的 农民 。 ” // To completely eliminate the peasants in the more affluent and independent rural areas . "</segment>
+		<segment id="85" parent="256" relname="organization-heading">饥荒 之后 俄语 居民 填充 空旷 农村 // Russian inhabitants fill empty countryside after famine</segment>
+		<segment id="86" parent="246" relname="attribution-positive">伊赫洛夫 说 ， // Ikhlov said ,</segment>
+		<segment id="87" parent="88" relname="context-circumstance">当 苏共 政权 派 军队 到 农村 持枪 强行 征收 粮食 和 农民 手 中 的 食品 后 ， // When the Soviet Communist regime sent troops to the countryside to forcibly expropriate grain and food from peasants with guns ,</segment>
+		<segment id="88" parent="246" relname="span">饥荒 立刻 开始 。 // The famine started immediately .</segment>
+		<segment id="89" parent="248" relname="joint-sequence">今天 乌克兰 境内 的 很多 俄语系 居民 就 是 在 大 饥荒 之后 被 迁移 到 了 空旷 已无人烟 的 乌克兰 农村 ， // Many Russian - speaking residents in Ukraine today were relocated to the empty and uninhabited Ukrainian countryside after the Great Famine .</segment>
+		<segment id="90" parent="248" relname="joint-sequence">然后 定居 了 下来 。 // Then settled down .</segment>
+		<segment id="91" parent="92" relname="elaboration-attribute">乌克兰 人口学家 最近 公布 的 // Ukrainian demographers recently published</segment>
+		<segment id="92" parent="249" relname="span">研究 结果 显示 ， // research shows ,</segment>
+		<segment id="93" parent="251" relname="same-unit">在 // exist</segment>
+		<segment id="94" parent="95" relname="elaboration-attribute">大 饥荒 爆发 后 的 // After the Great Famine</segment>
+		<segment id="95" parent="250" relname="span">头 7 个 月 ， 就 有 3百万 人 丧生 ， // 3 million people died in the first 7 months ,</segment>
+		<segment id="96" parent="97" relname="attribution-positive">说明 // illustrate</segment>
+		<segment id="97" parent="252" relname="span">当时 的 饿死 现象 非常 集中 。 // Starvation at that time was very concentrated .</segment>
+		<segment id="98" parent="258" relname="joint-list">推动 立法 // push for legislation</segment>
+		<segment id="99" parent="100" relname="attribution-negative">否认 // deny</segment>
+		<segment id="100" parent="259" relname="span">大 饥荒 将 承担 责任 // The Great Famine Will Take Responsibility</segment>
+		<segment id="101" parent="260" relname="attribution-positive">乌克兰 总统 波罗申科 星期六 说 ， // Ukrainian President Petro Poroshenko said Saturday ,</segment>
+		<segment id="102" parent="260" relname="joint-list">乌克兰 永远 不 会 忘记 那 场 可怕 的 犯罪 行动 的 组织者 ， // Ukraine will never forget the organizer of that horrific crime ,</segment>
+		<segment id="103" parent="260" relname="joint-list">反 人类 犯罪 行为 永远 没有 时间 期限 。 // There is never a time limit for crimes against humanity .</segment>
+		<segment id="104" parent="279" relname="attribution-positive">波罗申科 在 纪念 活动 上 表示 ， // Poroshenko said at the commemorative event ,</segment>
+		<segment id="105" parent="279" relname="span">乌克兰 必须 立法 ， // Ukraine must legislate</segment>
+		<segment id="106" parent="263" relname="context-background">如同 否认 纳粹 屠杀 犹太人 将 承担 责任 一样 ， // Just as the denial of the Holocaust of the Jews will be held responsible ,</segment>
+		<segment id="107" parent="263" relname="same-unit">那些 // Those ones</segment>
+		<segment id="108" parent="109" relname="elaboration-attribute">否认 乌克兰 大 饥荒 的 // Denial of the Great Famine in Ukraine</segment>
+		<segment id="109" parent="262" relname="span">行为 也 应 受到 惩处 ， // behavior should also be punished ,</segment>
+		<segment id="110" parent="265" relname="attribution-positive">这样 做 能 让 后人 牢记 ， // Doing so can make future generations remember ,</segment>
+		<segment id="111" parent="265" relname="joint-list">苏共 政权 不但 人为 制造 ， // The Communist regime of the Soviet Union was not only artificial ,</segment>
+		<segment id="112" parent="265" relname="joint-list">更 精心 策划 了 大 饥荒 。 // The Great Famine was more carefully planned .</segment>
+		<segment id="113" parent="268" relname="same-unit">波罗申科 9月份 // Poroshenko in September</segment>
+		<segment id="114" parent="115" relname="context-circumstance">在 纽约 联合国 大会 发言 时 // Speaking at the UN General Assembly in New York</segment>
+		<segment id="115" parent="267" relname="span">也 强调 ， // also stressed that</segment>
+		<segment id="116" parent="117" relname="elaboration-attribute">斯大林 专制 政权 人为 制造 的 // Artificially created by Stalin 's autocratic regime</segment>
+		<segment id="117" parent="269" relname="span">大 饥荒 造成 7百万 到 1千万 乌克兰人 丧生 ， // The Great Famine killed between 7 and 10 million Ukrainians ,</segment>
+		<segment id="118" parent="271" relname="attribution-positive">他 呼吁 // he calls</segment>
+		<segment id="119" parent="294" relname="attribution-positive">国际 社会 承认 // recognized by the international community</segment>
+		<segment id="120" parent="294" relname="same-unit">大 饥荒 是 // the great famine is</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">针对 乌克兰人 的 // for Ukrainians</segment>
+		<segment id="122" parent="293" relname="span">民族 灭绝 行动 。 // Genocide action .</segment>
+		<segment id="123" parent="124" relname="attribution-positive">目前 已经 有 20多 个 国家 ， 美国 的 几 个 州 都 承认 // At present , there are more than 20 countries , and several states in the United States have recognized them</segment>
+		<segment id="124" parent="273" relname="span">乌克兰 大 饥荒 是 民族 灭绝 行动 。 // The Great Ukrainian Famine was an act of genocide .</segment>
+		<segment id="125" parent="274" relname="attribution-positive">乌克兰 驻 美国 大使 查伊拉 说 ， // Ukrainian ambassador to the US Chaila said ,</segment>
+		<segment id="126" parent="274" relname="span">乌克兰 正 积极 推动 美国 国会 // Ukraine is actively pushing the US Congress</segment>
+		<segment id="127" parent="126" relname="purpose-goal">通过 有关 决议 。 // Pass the relevant resolutions .</segment>
+		<segment id="128" parent="277" relname="same-unit">与此同时 ， 乌克兰 总统 和 总理 ， 以及 其他 政府 高官 也 // At the same time , the ukrainian president and prime minister , as well as other senior government officials</segment>
+		<segment id="129" parent="130" relname="mode-manner">利用 各 种 外交 活动 // Use various diplomatic activities</segment>
+		<segment id="130" parent="276" relname="span">推动 更 多 国家 做出 相应 决定 。 // Push more countries to make corresponding decisions .</segment>
+		<segment id="131" parent="287" relname="joint-list">苏联 噤声 // soviet silence</segment>
+		<segment id="132" parent="287" relname="joint-list">俄罗斯 沉默 // russian silence</segment>
+		<segment id="133" parent="134" relname="elaboration-attribute">乌克兰 国家 安全局 今年 2月 公布 的 // The National Security Service of Ukraine announced in February this year</segment>
+		<segment id="134" parent="288" relname="span">前 苏联 秘密 警察 的 解密 档案 显示 ， // Declassified archives of the former Soviet secret police show that</segment>
+		<segment id="135" parent="289" relname="span">苏共 当局 尽量 对 大 饥荒 议题 噤声 。 // The CPSU authorities tried their best to keep silent on the issue of the Great Famine .</segment>
+		<segment id="136" parent="304" relname="attribution-positive">乌克兰 克格勃 负责人 在 1988年 的 一 份 秘密 文件 中 说 ， // The head of the Ukrainian KGB said in a secret document in 1988 ,</segment>
+		<segment id="137" parent="291" relname="same-unit">国外 反苏 势力 // foreign anti - Soviet forces</segment>
+		<segment id="138" parent="139" relname="mode-manner">利用 大 饥荒 // Take advantage of the Great Famine</segment>
+		<segment id="139" parent="290" relname="span">对 苏联 从事 意识 形态 上 的 破坏 行动 ， // engaged in ideological sabotage against the Soviet Union ,</segment>
+		<segment id="140" parent="303" relname="span">苏联 有关 部门 应 对 出国 访问 的 文化 和 知识界 人士 事先 “ 洗脑 ” ， // The relevant departments of the Soviet Union should " brainwash " the cultural and intellectual people who visit abroad in advance .</segment>
+		<segment id="141" parent="296" relname="same-unit">以便 让 他们 能 抵制 // so that they can resist</segment>
+		<segment id="142" parent="143" relname="elaboration-attribute">针对 苏联 的 // for the Soviet Union</segment>
+		<segment id="143" parent="295" relname="span">负面 声音 。 // negative voice .</segment>
+		<segment id="144" parent="145" relname="adversative-concession">普京 统治 下 的 俄罗斯 虽然 当年 同样 也 遭受 过 大 饥荒 ， // Although Russia under Putin also suffered from great famine in those years ,</segment>
+		<segment id="145" parent="297" relname="span">但 俄罗斯 目前 对 大 饥荒 议题 基本 保持 沉默 。 // But Russia has remained largely silent on the issue of the famine .</segment>
+		<segment id="146" parent="147" relname="attribution-positive">俄罗斯 甚至 指责 // Russia even accuses</segment>
+		<segment id="147" parent="298" relname="span">乌克兰 把 大 饥荒 议题 政治化 。 // Ukraine politicizes the issue of the Great Famine .</segment>
+		<segment id="148" parent="321" relname="organization-heading">不 忘 祖辈 血泪 历史 // Do not forget the history of blood and tears of ancestors</segment>
+		<segment id="149" parent="301" relname="same-unit">除了 // Apart from</segment>
+		<segment id="150" parent="299" relname="joint-list">被 民众 推翻 的 // overthrown by the people</segment>
+		<segment id="151" parent="299" relname="joint-list">亲 俄罗斯 的 // pro russian</segment>
+		<segment id="152" parent="300" relname="span">前 总统 亚努科维奇 不 太 重视 大 饥荒 议题 外 ， // Former President Yanukovych did not pay much attention to the issue of the Great Famine .</segment>
+		<segment id="153" parent="309" relname="span">乌克兰 前 总统 库奇马 ， 尤先科 ， 以及 现任 总统 波罗申科 一直 关注 大 饥荒 的 纪念 活动 。 // Former ukrainian presidents kuchma , yushchenko , and current president poroshenko have been following the famine remembrance .</segment>
+		<segment id="154" parent="155" relname="attribution-positive">乌克兰 多 年 前 确定 // Ukraine determined many years ago</segment>
+		<segment id="155" parent="310" relname="span">每年 11月份 的 最后 一 个 星期六 是 大 饥荒 的 纪念 日 。 // The last Saturday in November is the anniversary of the Great Famine .</segment>
+		<segment id="156" parent="311" relname="context-circumstance">在 每年 的 乌克兰 大 饥荒 纪念 日 到来 前 ， // Before the annual anniversary of the Great Famine in Ukraine ,</segment>
+		<segment id="157" parent="311" relname="joint-list">幸存者 回忆 过去 ， // Survivors recall the past ,</segment>
+		<segment id="158" parent="311" relname="joint-list">中小 学生 会 参观 有关 的 展览 和 纪念馆 。 // Primary and secondary students will visit related exhibitions and memorials .</segment>
+		<segment id="159" parent="322" relname="joint-list">乌克兰 今年 还 推出 了 一些 新 的 大 饥荒 纪录 影片 。 // Ukraine also released some new famine documentaries this year .</segment>
+		<segment id="160" parent="314" relname="attribution-positive">一 家 乌克兰 媒体 说 ， // A Ukrainian media said ,</segment>
+		<segment id="161" parent="314" relname="same-unit">许多 乌克兰人 都 能 讲述 // Many Ukrainians can tell</segment>
+		<segment id="162" parent="163" relname="elaboration-attribute">自己 祖辈 在 大 饥荒 中 所 经历 的 // What my ancestors experienced in the great famine</segment>
+		<segment id="163" parent="313" relname="span">血泪 历史 。 // Blood and Tears History .</segment>
+		<segment id="164" parent="165" relname="elaboration-attribute">有 欧洲 粮仓 之 称 的 // known as the granary of Europe</segment>
+		<segment id="165" parent="316" relname="span">乌克兰 在 十月 革命 后 的 20年代 和 // Ukraine in the 1920s after the October Revolution and</segment>
+		<segment id="166" parent="167" relname="elaboration-attribute">二战 结束 后 的 // After World War II</segment>
+		<segment id="167" parent="317" relname="span">40年代 也 曾 爆发 过 另外 两 场 大 饥荒 ， // There were two other great famines in the 1940s .</segment>
+		<segment id="168" parent="319" relname="span">但 30年代 的 饥荒 规模 最 大 。 // But the famine in the 1930s was the greatest .</segment>
+		<group id="169" type="span" parent="327" relname="organization-heading"/>
 		<group id="170" type="span" parent="171" relname="span"/>
 		<group id="171" type="span" parent="172" relname="span"/>
 		<group id="172" type="span" parent="173" relname="span"/>
-		<group id="173" type="span" parent="320" relname="context-background"/>
-		<group id="174" type="multinuc" parent="182" relname="span"/>
+		<group id="173" type="span" parent="325" relname="context-background"/>
+		<group id="174" type="multinuc" parent="183" relname="span"/>
 		<group id="175" type="multinuc" parent="176" relname="span"/>
 		<group id="176" type="span" parent="177" relname="span"/>
 		<group id="177" type="span" parent="174" relname="elaboration-additional"/>
 		<group id="178" type="multinuc" parent="176" relname="explanation-evidence"/>
 		<group id="179" type="multinuc" parent="181" relname="joint-list"/>
-		<group id="180" type="multinuc" parent="239" relname="organization-heading"/>
-		<group id="181" type="multinuc" parent="183" relname="joint-other"/>
-		<group id="182" type="span" parent="183" relname="joint-other"/>
-		<group id="183" type="multinuc" parent="184" relname="span"/>
-		<group id="184" type="span" parent="320" relname="joint-other"/>
-		<group id="185" type="span" parent="186" relname="same-unit"/>
-		<group id="186" type="multinuc" parent="231" relname="context-circumstance"/>
-		<group id="187" type="span" parent="231" relname="joint-list"/>
-		<group id="188" type="span" parent="232" relname="joint-list"/>
-		<group id="189" type="multinuc" parent="203" relname="span"/>
-		<group id="190" type="span" parent="191" relname="same-unit"/>
-		<group id="191" type="multinuc" parent="192" relname="span"/>
-		<group id="192" type="span" parent="35" relname="context-background"/>
-		<group id="193" type="span" parent="194" relname="same-unit"/>
-		<group id="194" type="multinuc" parent="228" relname="joint-list"/>
-		<group id="195" type="span" parent="196" relname="same-unit"/>
-		<group id="196" type="multinuc" parent="197" relname="span"/>
-		<group id="197" type="span" parent="233" relname="span"/>
-		<group id="198" type="span" parent="200" relname="attribution-positive"/>
-		<group id="199" type="span" parent="200" relname="same-unit"/>
-		<group id="200" type="multinuc" parent="201" relname="span"/>
-		<group id="201" type="span" parent="235" relname="span"/>
-		<group id="202" type="span" parent="229" relname="same-unit"/>
-		<group id="203" type="span" parent="191" relname="context-circumstance"/>
-		<group id="204" type="span" parent="228" relname="joint-list"/>
-		<group id="205" type="span" parent="234" relname="joint-list"/>
-		<group id="206" type="span" parent="56" relname="causal-cause"/>
-		<group id="207" type="span" parent="208" relname="same-unit"/>
-		<group id="208" type="multinuc" parent="230" relname="span"/>
-		<group id="209" type="multinuc" parent="208" relname="elaboration-additional"/>
-		<group id="210" type="span" parent="211" relname="attribution-positive"/>
-		<group id="211" type="multinuc" parent="212" relname="span"/>
-		<group id="212" type="span" parent="222" relname="span"/>
-		<group id="213" type="multinuc" parent="77" relname="elaboration-attribute"/>
-		<group id="214" type="span" parent="215" relname="same-unit"/>
-		<group id="215" type="multinuc" parent="216" relname="span"/>
-		<group id="216" type="span" parent="225" relname="joint-other"/>
-		<group id="217" type="multinuc" parent="218" relname="span"/>
-		<group id="218" type="span" parent="220" relname="organization-preparation"/>
+		<group id="180" type="multinuc" parent="244" relname="organization-heading"/>
+		<group id="181" type="multinuc" parent="184" relname="joint-other"/>
+		<group id="183" type="span" parent="184" relname="joint-other"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="325" relname="joint-other"/>
+		<group id="186" type="span" parent="187" relname="same-unit"/>
+		<group id="187" type="multinuc" parent="236" relname="context-circumstance"/>
+		<group id="188" type="span" parent="236" relname="joint-list"/>
+		<group id="189" type="span" parent="237" relname="joint-list"/>
+		<group id="190" type="multinuc" parent="204" relname="span"/>
+		<group id="191" type="span" parent="192" relname="same-unit"/>
+		<group id="192" type="multinuc" parent="193" relname="span"/>
+		<group id="193" type="span" parent="35" relname="context-background"/>
+		<group id="194" type="span" parent="195" relname="same-unit"/>
+		<group id="195" type="multinuc" parent="233" relname="joint-list"/>
+		<group id="196" type="span" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="198" type="span" parent="238" relname="span"/>
+		<group id="199" type="span" parent="201" relname="attribution-positive"/>
+		<group id="200" type="span" parent="201" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="202" type="span" parent="240" relname="span"/>
+		<group id="203" type="span" parent="234" relname="same-unit"/>
+		<group id="204" type="span" parent="192" relname="context-circumstance"/>
+		<group id="205" type="span" parent="233" relname="joint-list"/>
+		<group id="206" type="span" parent="239" relname="joint-list"/>
+		<group id="209" type="span" parent="56" relname="causal-cause"/>
+		<group id="212" type="span" parent="213" relname="same-unit"/>
+		<group id="213" type="multinuc" parent="235" relname="span"/>
+		<group id="214" type="multinuc" parent="213" relname="elaboration-additional"/>
+		<group id="215" type="span" parent="216" relname="attribution-positive"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="227" relname="span"/>
+		<group id="218" type="multinuc" parent="77" relname="elaboration-attribute"/>
 		<group id="219" type="span" parent="220" relname="same-unit"/>
-		<group id="220" type="multinuc" parent="223" relname="span"/>
-		<group id="221" type="span" parent="226" relname="organization-heading"/>
-		<group id="222" type="span" parent="225" relname="joint-other"/>
-		<group id="223" type="span" parent="224" relname="span"/>
-		<group id="224" type="span" parent="225" relname="explanation-evidence"/>
-		<group id="225" type="multinuc" parent="226" relname="span"/>
-		<group id="226" type="span" parent="227" relname="span"/>
-		<group id="227" type="span" parent="320" relname="joint-other"/>
-		<group id="228" type="multinuc" parent="232" relname="joint-list"/>
-		<group id="229" type="multinuc" parent="234" relname="joint-list"/>
-		<group id="230" type="span" parent="236" relname="span"/>
-		<group id="231" type="multinuc" parent="188" relname="span"/>
-		<group id="232" type="multinuc" parent="197" relname="context-background"/>
-		<group id="233" type="span" parent="239" relname="joint-list"/>
-		<group id="234" type="multinuc" parent="201" relname="context-background"/>
-		<group id="235" type="span" parent="238" relname="span"/>
-		<group id="236" type="span" parent="237" relname="span"/>
-		<group id="237" type="span" parent="235" relname="elaboration-additional"/>
-		<group id="238" type="span" parent="239" relname="joint-list"/>
-		<group id="239" type="multinuc" parent="240" relname="span"/>
-		<group id="240" type="span" parent="320" relname="joint-other"/>
+		<group id="220" type="multinuc" parent="221" relname="span"/>
+		<group id="221" type="span" parent="230" relname="joint-other"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="225" relname="organization-preparation"/>
+		<group id="224" type="span" parent="225" relname="same-unit"/>
+		<group id="225" type="multinuc" parent="228" relname="span"/>
+		<group id="226" type="span" parent="231" relname="organization-heading"/>
+		<group id="227" type="span" parent="230" relname="joint-other"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="230" relname="explanation-evidence"/>
+		<group id="230" type="multinuc" parent="231" relname="span"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="325" relname="joint-other"/>
+		<group id="233" type="multinuc" parent="237" relname="joint-list"/>
+		<group id="234" type="multinuc" parent="239" relname="joint-list"/>
+		<group id="235" type="span" parent="241" relname="span"/>
+		<group id="236" type="multinuc" parent="189" relname="span"/>
+		<group id="237" type="multinuc" parent="198" relname="context-background"/>
+		<group id="238" type="span" parent="244" relname="joint-list"/>
+		<group id="239" type="multinuc" parent="202" relname="context-background"/>
+		<group id="240" type="span" parent="243" relname="span"/>
 		<group id="241" type="span" parent="242" relname="span"/>
-		<group id="242" type="span" parent="250" relname="context-background"/>
-		<group id="243" type="multinuc" parent="250" relname="joint-other"/>
-		<group id="244" type="span" parent="246" relname="attribution-positive"/>
-		<group id="245" type="span" parent="246" relname="same-unit"/>
-		<group id="246" type="multinuc" parent="248" relname="span"/>
-		<group id="247" type="span" parent="248" relname="evaluation-comment"/>
-		<group id="248" type="span" parent="249" relname="span"/>
-		<group id="249" type="span" parent="250" relname="joint-other"/>
-		<group id="250" type="multinuc" parent="251" relname="span"/>
-		<group id="251" type="span" parent="252" relname="span"/>
-		<group id="252" type="span" parent="320" relname="joint-other"/>
-		<group id="253" type="multinuc" parent="280" relname="organization-heading"/>
-		<group id="254" type="span" parent="253" relname="joint-list"/>
+		<group id="242" type="span" parent="240" relname="elaboration-additional"/>
+		<group id="243" type="span" parent="244" relname="joint-list"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="325" relname="joint-other"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="255" relname="context-background"/>
+		<group id="248" type="multinuc" parent="255" relname="joint-other"/>
+		<group id="249" type="span" parent="251" relname="attribution-positive"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="253" relname="span"/>
+		<group id="252" type="span" parent="253" relname="evaluation-comment"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="joint-other"/>
 		<group id="255" type="multinuc" parent="256" relname="span"/>
-		<group id="256" type="span" parent="275" relname="context-background"/>
-		<group id="257" type="span" parent="258" relname="same-unit"/>
-		<group id="258" type="multinuc" parent="259" relname="span"/>
-		<group id="259" type="span" parent="273" relname="joint-list"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="325" relname="joint-other"/>
+		<group id="258" type="multinuc" parent="285" relname="organization-heading"/>
+		<group id="259" type="span" parent="258" relname="joint-list"/>
 		<group id="260" type="multinuc" parent="261" relname="span"/>
-		<group id="261" type="span" parent="273" relname="joint-list"/>
+		<group id="261" type="span" parent="280" relname="context-background"/>
 		<group id="262" type="span" parent="263" relname="same-unit"/>
-		<group id="263" type="multinuc" parent="264" relname="attribution-positive"/>
-		<group id="264" type="span" parent="265" relname="span"/>
-		<group id="265" type="span" parent="267" relname="explanation-evidence"/>
-		<group id="266" type="span" parent="267" relname="span"/>
-		<group id="267" type="span" parent="277" relname="span"/>
-		<group id="268" type="span" parent="279" relname="joint-list"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="278" relname="joint-list"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="278" relname="joint-list"/>
+		<group id="267" type="span" parent="268" relname="same-unit"/>
+		<group id="268" type="multinuc" parent="269" relname="attribution-positive"/>
 		<group id="269" type="span" parent="270" relname="span"/>
-		<group id="270" type="span" parent="279" relname="joint-list"/>
-		<group id="271" type="span" parent="272" relname="same-unit"/>
-		<group id="272" type="multinuc" parent="279" relname="joint-list"/>
-		<group id="273" type="multinuc" parent="105" relname="purpose-goal"/>
+		<group id="270" type="span" parent="272" relname="explanation-evidence"/>
+		<group id="271" type="span" parent="272" relname="span"/>
+		<group id="272" type="span" parent="282" relname="span"/>
+		<group id="273" type="span" parent="284" relname="joint-list"/>
 		<group id="274" type="span" parent="275" relname="span"/>
-		<group id="275" type="span" parent="276" relname="span"/>
-		<group id="276" type="span" parent="280" relname="joint-list"/>
-		<group id="277" type="span" parent="278" relname="span"/>
-		<group id="278" type="span" parent="280" relname="joint-list"/>
-		<group id="279" type="multinuc" parent="277" relname="causal-result"/>
-		<group id="280" type="multinuc" parent="281" relname="span"/>
-		<group id="281" type="span" parent="320" relname="joint-other"/>
-		<group id="282" type="multinuc" parent="301" relname="organization-heading"/>
-		<group id="283" type="span" parent="135" relname="attribution-positive"/>
-		<group id="284" type="span" parent="302" relname="span"/>
-		<group id="285" type="span" parent="286" relname="same-unit"/>
-		<group id="286" type="multinuc" parent="299" relname="joint-list"/>
-		<group id="287" type="span" parent="229" relname="same-unit"/>
-		<group id="288" type="span" parent="289" relname="same-unit"/>
-		<group id="289" type="multinuc" parent="266" relname="span"/>
+		<group id="275" type="span" parent="284" relname="joint-list"/>
+		<group id="276" type="span" parent="277" relname="same-unit"/>
+		<group id="277" type="multinuc" parent="284" relname="joint-list"/>
+		<group id="278" type="multinuc" parent="105" relname="explanation-motivation"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="285" relname="joint-list"/>
+		<group id="282" type="span" parent="283" relname="span"/>
+		<group id="283" type="span" parent="285" relname="joint-list"/>
+		<group id="284" type="multinuc" parent="282" relname="causal-result"/>
+		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="286" type="span" parent="325" relname="joint-other"/>
+		<group id="287" type="multinuc" parent="306" relname="organization-heading"/>
+		<group id="288" type="span" parent="135" relname="attribution-positive"/>
+		<group id="289" type="span" parent="307" relname="span"/>
 		<group id="290" type="span" parent="291" relname="same-unit"/>
-		<group id="291" type="multinuc" parent="140" relname="purpose-goal"/>
-		<group id="292" type="span" parent="297" relname="span"/>
-		<group id="293" type="span" parent="292" relname="elaboration-additional"/>
-		<group id="294" type="multinuc" parent="152" relname="elaboration-attribute"/>
+		<group id="291" type="multinuc" parent="304" relname="joint-list"/>
+		<group id="292" type="span" parent="234" relname="same-unit"/>
+		<group id="293" type="span" parent="294" relname="same-unit"/>
+		<group id="294" type="multinuc" parent="271" relname="span"/>
 		<group id="295" type="span" parent="296" relname="same-unit"/>
-		<group id="296" type="multinuc" parent="153" relname="adversative-antithesis"/>
-		<group id="297" type="span" parent="301" relname="joint-list"/>
-		<group id="298" type="span" parent="299" relname="joint-list"/>
-		<group id="299" type="multinuc" parent="300" relname="span"/>
-		<group id="300" type="span" parent="284" relname="explanation-evidence"/>
-		<group id="301" type="multinuc" parent="303" relname="span"/>
-		<group id="302" type="span" parent="301" relname="joint-list"/>
-		<group id="303" type="span" parent="320" relname="joint-other"/>
-		<group id="304" type="span" parent="315" relname="joint-list"/>
-		<group id="305" type="span" parent="315" relname="joint-list"/>
-		<group id="306" type="multinuc" parent="307" relname="span"/>
-		<group id="307" type="span" parent="317" relname="joint-list"/>
-		<group id="308" type="span" parent="309" relname="same-unit"/>
-		<group id="309" type="multinuc" parent="310" relname="span"/>
-		<group id="310" type="span" parent="317" relname="causal-result"/>
-		<group id="311" type="span" parent="313" relname="same-unit"/>
-		<group id="312" type="span" parent="313" relname="same-unit"/>
-		<group id="313" type="multinuc" parent="168" relname="adversative-concession"/>
-		<group id="314" type="span" parent="316" relname="joint-other"/>
-		<group id="315" type="multinuc" parent="316" relname="joint-other"/>
-		<group id="316" type="multinuc" parent="319" relname="span"/>
-		<group id="317" type="multinuc" parent="318" relname="span"/>
-		<group id="318" type="span" parent="316" relname="joint-other"/>
-		<group id="319" type="span" parent="320" relname="joint-other"/>
-		<group id="320" type="multinuc" parent="321" relname="span"/>
-		<group id="321" type="span" parent="322" relname="span"/>
-		<group id="322" type="span" parent="323" relname="span"/>
-		<group id="323" type="span" />
-		<group id="324" type="span" parent="325" relname="span"/>
-		<group id="325" type="span" parent="230" relname="causal-cause"/>
+		<group id="296" type="multinuc" parent="140" relname="purpose-goal"/>
+		<group id="297" type="span" parent="302" relname="span"/>
+		<group id="298" type="span" parent="297" relname="elaboration-additional"/>
+		<group id="299" type="multinuc" parent="152" relname="elaboration-attribute"/>
+		<group id="300" type="span" parent="301" relname="same-unit"/>
+		<group id="301" type="multinuc" parent="153" relname="adversative-antithesis"/>
+		<group id="302" type="span" parent="306" relname="joint-list"/>
+		<group id="303" type="span" parent="304" relname="joint-list"/>
+		<group id="304" type="multinuc" parent="305" relname="span"/>
+		<group id="305" type="span" parent="289" relname="explanation-evidence"/>
+		<group id="306" type="multinuc" parent="308" relname="span"/>
+		<group id="307" type="span" parent="306" relname="joint-list"/>
+		<group id="308" type="span" parent="325" relname="joint-other"/>
+		<group id="309" type="span" parent="320" relname="joint-list"/>
+		<group id="310" type="span" parent="320" relname="joint-list"/>
+		<group id="311" type="multinuc" parent="312" relname="span"/>
+		<group id="312" type="span" parent="322" relname="joint-list"/>
+		<group id="313" type="span" parent="314" relname="same-unit"/>
+		<group id="314" type="multinuc" parent="315" relname="span"/>
+		<group id="315" type="span" parent="322" relname="causal-result"/>
+		<group id="316" type="span" parent="318" relname="same-unit"/>
+		<group id="317" type="span" parent="318" relname="same-unit"/>
+		<group id="318" type="multinuc" parent="168" relname="adversative-concession"/>
+		<group id="319" type="span" parent="321" relname="joint-other"/>
+		<group id="320" type="multinuc" parent="321" relname="joint-other"/>
+		<group id="321" type="multinuc" parent="324" relname="span"/>
+		<group id="322" type="multinuc" parent="323" relname="span"/>
+		<group id="323" type="span" parent="321" relname="joint-other"/>
+		<group id="324" type="span" parent="325" relname="joint-other"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="327" relname="span"/>
+		<group id="327" type="span" parent="328" relname="span"/>
+		<group id="328" type="span" />
+		<group id="329" type="span" parent="330" relname="span"/>
+		<group id="330" type="span" parent="235" relname="causal-cause"/>
 	</body>
 </rst>

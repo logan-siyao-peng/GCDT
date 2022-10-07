@@ -38,123 +38,123 @@
 	<body>
 		<segment id="1" parent="287" relname="organization-heading">2020年 美国 总统 大选 7月 竞选 活动 // 2020 US Presidential Election July Campaign</segment>
 		<segment id="2" parent="146" relname="span">约翰·德·格拉夫 // John de Graff</segment>
-		<segment id="3" parent="2" relname="elaboration-additional">（ 面包 和 玫瑰党 ） // (Bread and Rose Party)</segment>
-		<segment id="4" parent="147" relname="span">整个 7月 ， 由 马利兰 大学 研究 学者 杰罗姆·石格尔 // Throughout July, by University of Maryland Research Scholar Jerome Shiger</segment>
-		<segment id="5" parent="4" relname="restatement-partial">（ Jerome Segal ） // (Jerome Segal)</segment>
-		<segment id="6" parent="148" relname="same-unit">担任 总统 、 // as president,</segment>
+		<segment id="3" parent="2" relname="elaboration-additional">（ 面包 和 玫瑰党 ） // ( Bread and Rose Party )</segment>
+		<segment id="4" parent="147" relname="span">整个 7月 ， 由 马利兰 大学 研究 学者 杰罗姆·石格尔 // Throughout July , by University of Maryland Research Scholar Jerome Shiger</segment>
+		<segment id="5" parent="4" relname="restatement-partial">（ Jerome Segal ） // ( Jerome Segal )</segment>
+		<segment id="6" parent="148" relname="same-unit">担任 总统 、 // as president ,</segment>
 		<segment id="7" parent="149" relname="span">电影 制片人 约翰·德·格拉夫 // film producer john de grave</segment>
-		<segment id="8" parent="7" relname="restatement-partial">（ John de Graaf ） // (John de Graaf)</segment>
-		<segment id="9" parent="150" relname="same-unit">担任 副总统 ， // as vice president,</segment>
+		<segment id="8" parent="7" relname="restatement-partial">（ John de Graaf ） // ( John de Graaf )</segment>
+		<segment id="9" parent="150" relname="same-unit">担任 副总统 ， // as vice president ,</segment>
 		<segment id="10" parent="151" relname="span">为 面包 与 玫瑰党 // For Bread and Rose Party</segment>
-		<segment id="11" parent="10" relname="restatement-partial">（ Bread and Roses Party ） // (Bread and Roses Party)</segment>
+		<segment id="11" parent="10" relname="restatement-partial">（ Bread and Roses Party ） // ( Bread and Roses Party )</segment>
 		<segment id="12" parent="152" relname="same-unit">获得 投票权 // get the right to vote</segment>
-		<segment id="13" parent="153" relname="span">进行 了 请愿 。 // A petition was made.</segment>
+		<segment id="13" parent="153" relname="span">进行 了 请愿 。 // A petition was made .</segment>
 		<segment id="14" parent="157" relname="purpose-goal">为了 避免 破坏者 效应 ， // To avoid the spoiler effect ,</segment>
-		<segment id="15" parent="157" relname="same-unit">该 党 只 在 非摇摆州 寻求 // The party seeks only in non-swing states</segment>
+		<segment id="15" parent="157" relname="same-unit">该 党 只 在 非摇摆州 寻求 // The party seeks only in non - swing states</segment>
 		<segment id="16" parent="17" relname="elaboration-attribute">获得 选票 的 // get votes</segment>
 		<segment id="17" parent="156" relname="span">机会 ， // Chance ,</segment>
 		<segment id="18" parent="158" relname="causal-cause">因为 在 这些 州 ， 某 一 个 主要 政党 预计 将 赢得 选举 。 // Because in these states one of the major parties is expected to win the election .</segment>
 		<segment id="19" parent="160" relname="adversative-contrast">在 摇摆州 ， 该 党 支持 民主党 的 总统票 。 // In swing states , the party supports the Democratic presidential vote .</segment>
-		<segment id="20" parent="174" relname="span">西格尔 在 2018年 成立 了 面包 和 玫瑰党 ， // Siegel started the Bread and Rose Party in 2018,</segment>
+		<segment id="20" parent="174" relname="span">西格尔 在 2018年 成立 了 面包 和 玫瑰党 ， // Siegel started the Bread and Rose Party in 2018 ,</segment>
 		<segment id="21" parent="163" relname="same-unit">其 名称 源于 // its name comes from</segment>
 		<segment id="22" parent="23" relname="context-circumstance">1912年 马萨诸塞州 移民 纺织 工人 罢工 时 // When immigrant textile workers in Massachusetts went on strike in 1912</segment>
 		<segment id="23" parent="161" relname="span">的 // of</segment>
-		<segment id="24" parent="162" relname="span">号召力 。 // appeal.</segment>
-		<segment id="25" parent="165" relname="same-unit">该 党 持 左派 、 // The party is left-wing,</segment>
-		<segment id="26" parent="27" relname="elaboration-attribute">自称 “ 社会 主义 ” 的 // self-proclaimed "socialist"</segment>
-		<segment id="27" parent="164" relname="span">立场 ， // position,</segment>
+		<segment id="24" parent="162" relname="span">号召力 。 // appeal .</segment>
+		<segment id="25" parent="165" relname="same-unit">该 党 持 左派 、 // The party is left - wing ,</segment>
+		<segment id="26" parent="27" relname="elaboration-attribute">自称 “ 社会 主义 ” 的 // self - proclaimed " socialist "</segment>
+		<segment id="27" parent="164" relname="span">立场 ， // position ,</segment>
 		<segment id="28" parent="166" relname="joint-list">包括 就业权 、 带薪 休假 、 // including employment rights , paid leave ,</segment>
-		<segment id="29" parent="166" relname="joint-list">缩短 每 周 工作 时间 、 // Shorten working hours per week,</segment>
-		<segment id="30" parent="166" relname="joint-list">承认 巴勒斯坦国 等 。 // Recognition of the State of Palestine etc.</segment>
-		<segment id="31" parent="168" relname="joint-sequence">2019年 8月 ， 该 党 提名 塞加尔 为 总统 ， // In August 2019, the party nominated Segal for president,</segment>
+		<segment id="29" parent="166" relname="joint-list">缩短 每 周 工作 时间 、 // Shorten working hours per week ,</segment>
+		<segment id="30" parent="166" relname="joint-list">承认 巴勒斯坦国 等 。 // Recognition of the State of Palestine etc .</segment>
+		<segment id="31" parent="168" relname="joint-sequence">2019年 8月 ， 该 党 提名 塞加尔 为 总统 ， // In August 2019 , the party nominated Segal for president ,</segment>
 		<segment id="32" parent="175" relname="span">今年 4月 ， 他 宣布 德格拉夫 为 竞选 伙伴 。 // In april , he announced de graff as his running mate .</segment>
 		<segment id="33" parent="169" relname="joint-list">作为 一 名 电影人 ， 德格拉夫 已经 制作 了 40 部 纪录片 。 // As a filmmaker , de Graaf has made 40 documentaries .</segment>
-		<segment id="34" parent="169" relname="joint-list">此外 ， 他 还 与 人 合写 了 4 本 书 ， // In addition, he has co-authored 4 books,</segment>
-		<segment id="35" parent="169" relname="joint-list">并 为 《 进步 》 、 《 国家 》 和 《 纽约 时报 》 等 刊物 撰写 了 大量 文章 。 // And has written extensively for publications such as Progress, The Nation, and The New York Times.</segment>
+		<segment id="34" parent="169" relname="joint-list">此外 ， 他 还 与 人 合写 了 4 本 书 ， // In addition , he has co - authored 4 books ,</segment>
+		<segment id="35" parent="169" relname="joint-list">并 为 《 进步 》 、 《 国家 》 和 《 纽约 时报 》 等 刊物 撰写 了 大量 文章 。 // And has written extensively for publications such as Progress , The Nation , and The New York Times .</segment>
 		<segment id="36" parent="172" relname="joint-list">帕特尔 与 维基 新闻 就 竞选 活动 进行 了 交谈 ， // Patel spoke to Wikinews about the campaign ,</segment>
 		<segment id="37" parent="170" relname="attribution-positive">一起 讨论 了 // discussed together</segment>
-		<segment id="38" parent="170" relname="joint-list">他 为什么 要 加入 面包 和 玫瑰党 ， // Why did he join the party of bread and roses,</segment>
-		<segment id="39" parent="170" relname="joint-list">他 作为 副总统 候选人 的 角色 是 什么 ， // What is his role as a vice presidential candidate?</segment>
-		<segment id="40" parent="170" relname="joint-list">以及 为什么 非摇摆州 的 选民 应该 选择 投票 给 西格尔 和 格拉夫 。 // and why voters in non-swing states should choose to vote for siegel and graff .</segment>
+		<segment id="38" parent="170" relname="joint-list">他 为什么 要 加入 面包 和 玫瑰党 ， // Why did he join the party of bread and roses ,</segment>
+		<segment id="39" parent="170" relname="joint-list">他 作为 副总统 候选人 的 角色 是 什么 ， // What is his role as a vice presidential candidate ?</segment>
+		<segment id="40" parent="170" relname="joint-list">以及 为什么 非摇摆州 的 选民 应该 选择 投票 给 西格尔 和 格拉夫 。 // and why voters in non - swing states should choose to vote for siegel and graff .</segment>
 		<segment id="41" parent="42" relname="attribution-positive">你 为什么 决定 // why did you decide</segment>
-		<segment id="42" parent="179" relname="span">竞选 面包 和 玫瑰党 的 副总统 候选人 ？ // Running for the vice presidential nominee of the Party of Bread and Roses?</segment>
+		<segment id="42" parent="179" relname="span">竞选 面包 和 玫瑰党 的 副总统 候选人 ？ // Running for the vice presidential nominee of the Party of Bread and Roses ?</segment>
 		<segment id="43" parent="44" relname="attribution-positive">杰罗姆 邀请 我 // Jerome invited me</segment>
 		<segment id="44" parent="180" relname="span">成为 面包 和 玫瑰党 的 竞选 伙伴 ， // be a running mate at the party of bread and roses ,</segment>
 		<segment id="45" parent="46" relname="attribution-positive">我 认为 // I think</segment>
-		<segment id="46" parent="181" relname="span">这 是 一 种 荣誉 ， // It's an honor,</segment>
+		<segment id="46" parent="181" relname="span">这 是 一 种 荣誉 ， // It 's an honor ,</segment>
 		<segment id="47" parent="183" relname="same-unit">因为 // because</segment>
-		<segment id="48" parent="49" relname="context-circumstance">半 个 世纪 以来 ， // For half a century,</segment>
-		<segment id="49" parent="182" relname="span">我 一直 在 倡导 其 原则 。 // I've been advocating its principles.</segment>
+		<segment id="48" parent="49" relname="context-circumstance">半 个 世纪 以来 ， // For half a century ,</segment>
+		<segment id="49" parent="182" relname="span">我 一直 在 倡导 其 原则 。 // I 've been advocating its principles .</segment>
 		<segment id="50" parent="51" relname="attribution-positive">我们 相信 ， // we believe ,</segment>
 		<segment id="51" parent="184" relname="span">生活 质量 比 金钱 或 商品 的 数量 更 重要 ， // Quality of life is more important than money or quantity of goods ,</segment>
-		<segment id="52" parent="53" relname="elaboration-attribute">我们 国家 优先 考虑 的 // our country's priority</segment>
+		<segment id="52" parent="53" relname="elaboration-attribute">我们 国家 优先 考虑 的 // our country 's priority</segment>
 		<segment id="53" parent="185" relname="span">经济 增长 、 对 股市 的 崇拜 和 不断 减税 // economic growth , the cult of the stock market and the constant tax cuts</segment>
-		<segment id="54" parent="185" relname="purpose-goal">以 促进 盲目 消费 ， // to promote blind consumption ,</segment>
-		<segment id="55" parent="187" relname="same-unit">都 威胁 着 地球 的 生命 系统 ， // are threatening the life system of the earth,</segment>
-		<segment id="56" parent="189" relname="span">并 忽视 了 “ 玫瑰 ” 在 我们 生活 中 的 重要性 ， 如 自然 、 自然美 和 聪明 的 人类 设计 、 艺术 、 社会 联系 、 健康 ， 尤其是 足够 的 休闲 时间 // And ignore the importance of "roses" in our lives such as nature, natural beauty and smart human design, art, social connection, health and especially enough leisure time</segment>
-		<segment id="57" parent="56" relname="purpose-goal">来 实际 享受 我们 巨大 的 劳动 成果 。 // Come and actually enjoy the fruits of our great labor.</segment>
+		<segment id="54" parent="185" relname="purpose-goal">以 促进 盲目 消费 ， // To promote blind consumption ,</segment>
+		<segment id="55" parent="187" relname="same-unit">都 威胁 着 地球 的 生命 系统 ， // are threatening the life system of the earth ,</segment>
+		<segment id="56" parent="189" relname="span">并 忽视 了 “ 玫瑰 ” 在 我们 生活 中 的 重要性 ， 如 自然 、 自然美 和 聪明 的 人类 设计 、 艺术 、 社会 联系 、 健康 ， 尤其是 足够 的 休闲 时间 // And ignore the importance of " roses " in our lives such as nature , natural beauty and smart human design , art , social connection , health and especially enough leisure time</segment>
+		<segment id="57" parent="56" relname="purpose-goal">来 实际 享受 我们 巨大 的 劳动 成果 。 // Come and actually enjoy the fruits of our great labor .</segment>
 		<segment id="58" parent="193" relname="same-unit">我们 出身 于 // We were born in</segment>
 		<segment id="59" parent="60" relname="elaboration-attribute">抵制 消费 主义 的 // resisting consumerism</segment>
-		<segment id="60" parent="192" relname="span">“ 自愿 简朴 ” 运动 ， // "Voluntary Simplicity" movement,</segment>
+		<segment id="60" parent="192" relname="span">“ 自愿 简朴 ” 运动 ， // " Voluntary Simplicity " movement ,</segment>
 		<segment id="61" parent="62" relname="attribution-positive">但 明白 // but understand</segment>
 		<segment id="62" parent="194" relname="span">简单 和 生态 的 生活 并不 只 是 个人 的 选择 。 // Simple and ecological living is not just a personal choice .</segment>
 		<segment id="63" parent="215" relname="span">我们 需要 制定 政策 ， // We need to develop policies</segment>
 		<segment id="64" parent="198" relname="same-unit">让 人们 更 容易 赚取 适度 // Make it easier for people to earn moderation</segment>
 		<segment id="65" parent="66" relname="elaboration-attribute">但 有 保障 的 // but guaranteed</segment>
 		<segment id="66" parent="197" relname="span">收入 ， // income ,</segment>
-		<segment id="67" parent="200" relname="joint-list">而 不 是 为了 生产 而 生产 ， // instead of producing for production's sake,</segment>
+		<segment id="67" parent="200" relname="joint-list">而 不 是 为了 生产 而 生产 ， // instead of producing for production 's sake ,</segment>
 		<segment id="68" parent="202" relname="same-unit">也 不 是 为了 // nor for</segment>
 		<segment id="69" parent="70" relname="elaboration-attribute">有 意义 的 // meaningful</segment>
 		<segment id="70" parent="201" relname="span">工作 、 人 与 人 之间 的 联系 和 美丽 的 环境 能够 给 我们 带来 的 // What work , human connections and a beautiful environment can bring us</segment>
-		<segment id="71" parent="206" relname="span">满足感 。 // Satisfaction.</segment>
+		<segment id="71" parent="206" relname="span">满足感 。 // satisfaction .</segment>
 		<segment id="72" parent="203" relname="joint-list">杰罗姆 还 长期 倡导 中东 和平 // Jerome has also long advocated for peace in the Middle East</segment>
-		<segment id="73" parent="203" relname="joint-list">和 为 巴勒斯坦 人 伸张 正义 ， // and justice for the Palestinians,</segment>
-		<segment id="74" parent="203" relname="joint-list">在 以色列 实现 两国 解决 方案 。 // Achieving a two-state solution in Israel .</segment>
-		<segment id="75" parent="204" relname="joint-list">我们 支持 这 一 点 ， // We support this,</segment>
+		<segment id="73" parent="203" relname="joint-list">和 为 巴勒斯坦 人 伸张 正义 ， // and justice for the Palestinians ,</segment>
+		<segment id="74" parent="203" relname="joint-list">在 以色列 实现 两国 解决 方案 。 // Achieving a two - state solution in Israel .</segment>
+		<segment id="75" parent="204" relname="joint-list">我们 支持 这 一 点 ， // We support this ,</segment>
 		<segment id="76" parent="77" relname="attribution-positive">也 支持 // also support</segment>
 		<segment id="77" parent="205" relname="span">为了 世界 和平 而 大 规模 削减 核武器 和 军备 集结 。 // Massive reductions in nuclear weapons and armaments for world peace .</segment>
-		<segment id="78" parent="79" relname="context-background">作为 一 个 国家 ， 我们 的 优先 事项 根本 就 不 正常 ， // As a nation, our priorities are simply not normal,</segment>
-		<segment id="79" parent="207" relname="span">我们 想 说明 这 一 点 ， // We want to make this point clear,</segment>
+		<segment id="78" parent="79" relname="context-background">作为 一 个 国家 ， 我们 的 优先 事项 根本 就 不 正常 ， // As a nation , our priorities are simply not normal ,</segment>
+		<segment id="79" parent="207" relname="span">我们 想 说明 这 一 点 ， // We want to make this point clear ,</segment>
 		<segment id="80" parent="208" relname="joint-list">并 提出 对 美好 生活 的 不同 看法 。 // and offer different views on the good life .</segment>
-		<segment id="81" parent="210" relname="adversative-contrast">虽然 他 是 一 个 学者 和 学者 ， // Although he was a scholar and scholar,</segment>
-		<segment id="82" parent="210" relname="adversative-contrast">但 我 是 一 个 电影 制片人 和 传播者 ， // But I'm a filmmaker and communicator,</segment>
+		<segment id="81" parent="210" relname="adversative-contrast">虽然 他 是 一 个 学者 和 学者 ， // Although he was a scholar and scholar ,</segment>
+		<segment id="82" parent="210" relname="adversative-contrast">但 我 是 一 个 电影 制片人 和 传播者 ， // But I 'm a filmmaker and communicator ,</segment>
 		<segment id="83" parent="209" relname="span">他 花 了 四十 年 时间 // It took him forty years</segment>
 		<segment id="84" parent="83" relname="purpose-goal">为 公共 广播 电视 公司 制作 关于 生活 质量 问题 的 纪录片 。 // Documentary on quality of life issues for PBS .</segment>
-		<segment id="85" parent="242" relname="topic-question">作为 面包 和 玫瑰党 的 副总统 提名人 ， 你 有 什么 职责 和 责任 ？ // What are your duties and responsibilities as the vice presidential nominee for the Party of Bread and Roses?</segment>
-		<segment id="86" parent="222" relname="span">在 这 一 点 上 ， 只 是 为了 帮助 宣传 ， // At this point, just to help spread the word,</segment>
-		<segment id="87" parent="86" relname="causal-cause">因为 我们 并不 抱有 获胜 的 幻想 。 // Because we don't have the illusion of winning.</segment>
-		<segment id="88" parent="244" relname="adversative-contrast">我们 的 目标 是 教育性 的 ， // Our goal is educational,</segment>
+		<segment id="85" parent="242" relname="topic-question">作为 面包 和 玫瑰党 的 副总统 提名人 ， 你 有 什么 职责 和 责任 ？ // What are your duties and responsibilities as the vice presidential nominee for the Party of Bread and Roses ?</segment>
+		<segment id="86" parent="222" relname="span">在 这 一 点 上 ， 只 是 为了 帮助 宣传 ， // At this point , just to help spread the word ,</segment>
+		<segment id="87" parent="86" relname="causal-cause">因为 我们 并不 抱有 获胜 的 幻想 。 // Because we do n't have the illusion of winning .</segment>
+		<segment id="88" parent="244" relname="adversative-contrast">我们 的 目标 是 教育性 的 ， // Our goal is educational ,</segment>
 		<segment id="89" parent="228" relname="attribution-positive">我们 希望 // we hope</segment>
-		<segment id="90" parent="223" relname="span">我们 的 关键 概念 ， // our key concepts,</segment>
-		<segment id="91" parent="224" relname="joint-list">即 保证 工作 或 收入 ， // i.e. a guaranteed job or income,</segment>
+		<segment id="90" parent="223" relname="span">我们 的 关键 概念 ， // our key concepts ,</segment>
+		<segment id="91" parent="224" relname="joint-list">即 保证 工作 或 收入 ， // i.e. a guaranteed job or income ,</segment>
 		<segment id="92" parent="227" relname="same-unit">让 人们 过上 适度 // Let people live in moderation</segment>
 		<segment id="93" parent="94" relname="elaboration-attribute">但 有 保障 的 // but guaranteed</segment>
 		<segment id="94" parent="226" relname="span">生活 ， // Life ,</segment>
-		<segment id="95" parent="228" relname="same-unit">以及 让 “ 美丽 新政 ” 和 “ 绿色 新政 ” 能 被 主要 政党 的 候选人 和 领导人 接受 。 // As well as making the "Beautiful New Deal" and "Green New Deal" acceptable to candidates and leaders of the major parties.</segment>
-		<segment id="96" parent="97" relname="attribution-positive">当然 ， 我们 很 难 期望 // Of course, we can hardly expect</segment>
-		<segment id="97" parent="230" relname="span">美国 政府党 会 认真 对待 我们 ， // The US government party will take us seriously,</segment>
+		<segment id="95" parent="228" relname="same-unit">以及 让 “ 美丽 新政 ” 和 “ 绿色 新政 ” 能 被 主要 政党 的 候选人 和 领导人 接受 。 // As well as making the " Beauty New Deal " and " Green New Deal " acceptable to candidates and leaders of the major parties .</segment>
+		<segment id="96" parent="97" relname="attribution-positive">当然 ， 我们 很 难 期望 // Of course , we can hardly expect</segment>
+		<segment id="97" parent="230" relname="span">美国 政府党 会 认真 对待 我们 ， // The US government party will take us seriously ,</segment>
 		<segment id="98" parent="231" relname="attribution-positive">但 我们 知道 // but we know</segment>
-		<segment id="99" parent="231" relname="joint-list">许多 民主党人 与 我们 的 价值观 相同 ， // Many Democrats share our values,</segment>
-		<segment id="100" parent="231" relname="joint-list">并 将 受到 我们 的 建议 的 启发 。 // and will be inspired by our recommendations.</segment>
+		<segment id="99" parent="231" relname="joint-list">许多 民主党人 与 我们 的 价值观 相同 ， // Many Democrats share our values ,</segment>
+		<segment id="100" parent="231" relname="joint-list">并 将 受到 我们 的 建议 的 启发 。 // and will be inspired by our recommendations .</segment>
 		<segment id="101" parent="102" relname="attribution-positive">我们 希望 看到 // we want to see</segment>
-		<segment id="102" parent="233" relname="span">民主党 内 有 一 个 “ 面包 与 玫瑰 核心 小组 ” ， // There is a "bread and roses caucus" within the Democratic Party,</segment>
+		<segment id="102" parent="233" relname="span">民主党 内 有 一 个 “ 面包 与 玫瑰 核心 小组 ” ， // There is a " bread and roses caucus " within the Democratic Party ,</segment>
 		<segment id="103" parent="104" relname="attribution-positive">我们 同意 // we agree</segment>
-		<segment id="104" parent="234" relname="span">它 呼吁 更 大 的 平等 、 气候 行动 、 种族 正义 、 同情心 和 善良 。 // It calls for greater equality, climate action, racial justice, compassion and kindness.</segment>
-		<segment id="105" parent="235" relname="attribution-positive">我们 还 认为 ， // We also believe that</segment>
-		<segment id="106" parent="235" relname="joint-list">这 应该 关注 “ 玫瑰 ” ， // This should focus on "roses",</segment>
+		<segment id="104" parent="234" relname="span">它 呼吁 更 大 的 平等 、 气候 行动 、 种族 正义 、 同情心 和 善良 。 // It calls for greater equality , climate action , racial justice , compassion and kindness .</segment>
+		<segment id="105" parent="235" relname="attribution-positive">我们 还 认为 ， // We also think that</segment>
+		<segment id="106" parent="235" relname="joint-list">这 应该 关注 “ 玫瑰 ” ， // This should focus on " roses " ,</segment>
 		<segment id="107" parent="235" relname="joint-list">应该 努力 减少 国际 紧张 局势 。 // Efforts should be made to reduce international tensions .</segment>
 		<segment id="108" parent="240" relname="elaboration-additional">我们 将 继续 作为 第三党 和 在 民主党 内 为 这些 理念 而 努力 。 // We will continue to work for these ideas as a third party and within the Democratic Party .</segment>
-		<segment id="109" parent="245" relname="joint-list">预计 你们 的 得票 会 以 哪些 州份 为 主 ？ // Which states do you expect your votes to be dominated by?</segment>
-		<segment id="110" parent="245" relname="joint-list">为什么 这些 州 的 选民 应该 选择 投给 你们 ？ // Why should voters in these states vote for you?</segment>
-		<segment id="111" parent="248" relname="causal-cause">因为 2019 冠状 病毒病 疫情 大 流行 ， // Due to the COVID-19 pandemic,</segment>
-		<segment id="112" parent="248" relname="span">我们 很 难 收集 到 许多 州 的 选票 ， // We're having a hard time collecting votes in many states,</segment>
+		<segment id="109" parent="245" relname="joint-list">预计 你们 的 得票 会 以 哪些 州份 为 主 ？ // Which states do you expect your votes to be dominated by ?</segment>
+		<segment id="110" parent="245" relname="joint-list">为什么 这些 州 的 选民 应该 选择 投给 你们 ？ // Why should voters in these states vote for you ?</segment>
+		<segment id="111" parent="248" relname="causal-cause">因为 2019 冠状 病毒病 疫情 大 流行 ， // Due to the COVID-19 pandemic ,</segment>
+		<segment id="112" parent="248" relname="span">我们 很 难 收集 到 许多 州 的 选票 ， // We 're having a hard time collecting votes in many states ,</segment>
 		<segment id="113" parent="247" relname="same-unit">你 只 能 在 // you can only</segment>
 		<segment id="114" parent="115" relname="elaboration-attribute">杰罗姆 居住 的 // where jerome lives</segment>
-		<segment id="115" parent="246" relname="span">马利兰州 和 佛蒙特州 看到 我们 今年 的 选票 。 // Maryland and Vermont see our ballots this year.</segment>
-		<segment id="116" parent="252" relname="joint-list">我们 并不 寻求 成为 破坏者 ， // We don't seek to be disruptors,</segment>
+		<segment id="115" parent="246" relname="span">马利兰州 和 佛蒙特州 看到 我们 今年 的 选票 。 // Maryland and Vermont see our ballots this year .</segment>
+		<segment id="116" parent="252" relname="joint-list">我们 并不 寻求 成为 破坏者 ， // We do n't seek to be disruptors ,</segment>
 		<segment id="117" parent="251" relname="same-unit">也 无意 在 // also have no intention of</segment>
-		<segment id="118" parent="119" relname="elaboration-attribute">导致 拜登 落选 的 // What caused Biden to lose the election</segment>
-		<segment id="119" parent="250" relname="span">州 进行 竞选 ， // state elections,</segment>
+		<segment id="118" parent="119" relname="elaboration-attribute">导致 拜登 落选 的 // What led to Biden 's defeat</segment>
+		<segment id="119" parent="250" relname="span">州 进行 竞选 ， // state elections ,</segment>
 		<segment id="120" parent="121" relname="attribution-positive">因为 我们 认为 // because we think</segment>
 		<segment id="121" parent="253" relname="span">目前 最 重要 的 事情 是 结束 特朗普 总统 任期 的 畸形 状态 。 // The most important thing at the moment is to end the deformity of the Trump presidency .</segment>
 		<segment id="122" parent="123" relname="attribution-positive">我们 认为 // We believe that</segment>
@@ -162,21 +162,21 @@
 		<segment id="124" parent="255" relname="span">在 那里 ， 一些 左派 人士 也 有 可能 不 参加 选举 ， // There it is also possible that some leftists will not run in the elections ,</segment>
 		<segment id="125" parent="126" relname="attribution-positive">因为 他们 知道 // because they know</segment>
 		<segment id="126" parent="254" relname="span">拜登 在 该 州 的 胜利 是 肯定 的 。 // A win for biden in the state is certain .</segment>
-		<segment id="127" parent="257" relname="attribution-positive">相反 ， 我们 希望 // Instead, we hope</segment>
+		<segment id="127" parent="257" relname="attribution-positive">相反 ， 我们 希望 // Instead , we hope</segment>
 		<segment id="128" parent="256" relname="joint-list">他们 会 出来 // they will come out</segment>
-		<segment id="129" parent="256" relname="joint-list">投 我们 的 票 ， // vote for us,</segment>
+		<segment id="129" parent="256" relname="joint-list">投 我们 的 票 ， // vote for us ,</segment>
 		<segment id="130" parent="257" relname="joint-sequence">然后 再 投给 更 往下 的 其他 进步 人士 。 // Then vote for other progressives further down .</segment>
 		<segment id="131" parent="261" relname="same-unit">如果 我们 // if we</segment>
 		<segment id="132" parent="133" relname="mode-means">获得 足够 的 选票 // get enough votes</segment>
-		<segment id="133" parent="260" relname="span">而 被 注意 到 ， // and was noticed,</segment>
+		<segment id="133" parent="260" relname="span">而 被 注意 到 ， // and was noticed ,</segment>
 		<segment id="134" parent="135" relname="attribution-positive">我们 希望 // we hope</segment>
-		<segment id="135" parent="262" relname="span">我们 可以 创造 一 个 新 的 对话 ， 关于 “ 玫瑰花 ” 在 政治 思想 中 的 重要性 。 // We can create a new dialogue about the importance of "roses" in political thought.</segment>
-		<segment id="136" parent="282" relname="joint-list">在 其他 安全 的 蓝州 或 深红 的 州 ， 选民 可以 给 我们 写信 ， // In other safe blue states or deep red states, voters can write to us,</segment>
+		<segment id="135" parent="262" relname="span">我们 可以 创造 一 个 新 的 对话 ， 关于 “ 玫瑰花 ” 在 政治 思想 中 的 重要性 。 // We can create a new conversation about the importance of " roses " in political thought .</segment>
+		<segment id="136" parent="282" relname="joint-list">在 其他 安全 的 蓝州 或 深红 的 州 ， 选民 可以 给 我们 写信 ， // In other safe blue states or deep red states , voters can write to us ,</segment>
 		<segment id="137" parent="282" relname="joint-list">发出 关于 生活 质量 的 讯息 。 // Send a message about quality of life .</segment>
-		<segment id="138" parent="267" relname="context-circumstance">当 我们 从 2019 冠状 病毒病 疫情 大 流行 中 脱颖而出 时 ， // As we emerge from the COVID-19 pandemic,</segment>
-		<segment id="139" parent="266" relname="attribution-negative">我们 不 希望 // we don't want</segment>
-		<segment id="140" parent="266" relname="span">回到 一 个 严重 不 平等 、 过度 劳累 的 美国 的 旧 常态 ， // Back to the old normal of a deeply unequal, overworked America,</segment>
-		<segment id="141" parent="142" relname="causal-cause">沉迷于 物质 主义 价值观 ， // Addicted to materialistic values ​​,</segment>
+		<segment id="138" parent="267" relname="context-circumstance">当 我们 从 2019 冠状 病毒病 疫情 大 流行 中 脱颖而出 时 ， // As we emerge from the COVID-19 pandemic ,</segment>
+		<segment id="139" parent="266" relname="attribution-negative">我们 不 希望 // we do n't want</segment>
+		<segment id="140" parent="266" relname="span">回到 一 个 严重 不 平等 、 过度 劳累 的 美国 的 旧 常态 ， // Back to the old normal of a deeply unequal , overworked America ,</segment>
+		<segment id="141" parent="142" relname="causal-cause">沉迷于 物质 主义 价值观 ， // Addicted to materialistic values ​​ ,</segment>
 		<segment id="142" parent="265" relname="span">而 牺牲 我们 的 环境 、 健康 和 幸福 。 // At the expense of our environment , health and happiness .</segment>
 		<segment id="143" parent="268" relname="attribution-positive">我 希望 // I hope</segment>
 		<segment id="144" parent="145" relname="elaboration-attribute">读到 这 篇 文章 的 // who read this article</segment>

@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_higuchi" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2020-09-21" shortTitle="higuchi" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E6%A8%8B%E5%8F%A3%E4%B8%80%E8%91%89&oldid=61846593" speakerCount="0" speakerList="none" title="樋口一叶" type="bio"/>
+<text id="gum_zh_bio_higuchi" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2020-09-21" shortTitle="higuchi" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E6%A8%8B%E5%8F%A3%E4%B8%80%E8%91%89&amp;oldid=61846593" speakerCount="0" speakerList="none" title="樋口一叶" genre="bio"/>
 樋口一叶
 
 樋口一叶（1872年5月2日－1896年11月23日），生于东京，原名樋口奈津或樋口夏子，是日本明治初期主要的女性小说家。

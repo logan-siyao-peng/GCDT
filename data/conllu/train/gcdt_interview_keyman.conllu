@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_keyman
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2007-01-05
+# meta::dateModified = 2007-01-05
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E5%B0%88%E8%A8%AA%E9%A6%99%E6%B8%AF%E8%91%97%E5%90%8D%E8%B6%B3%E7%90%83%E8%A9%95%E8%BF%B0%E5%93%A1%E9%A6%AC%E5%95%93%E4%BB%81
+# meta::speakerCount = 2
+# meta::title = 专访香港著名足球评述员马启仁
+# meta::shortTitle = keyman
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_keyman-1
+# text = 专访香港著名足球评述员马启仁
 1	专访	专访	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	香港	香港	NR	NR	_	5	nmod	_	start_char=3|end_char=5
 3	著名	著名	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
@@ -5,6 +18,8 @@
 5	评述员	评述员	NN	NN	_	6	appos	_	start_char=12|end_char=15
 6	马启仁	马启仁	NR	NR	_	1	dobj	_	start_char=16|end_char=19
 
+# sent_id = gcdt_interview_keyman-2
+# text = 【2007年1月5日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2007年	2007年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	1月	1月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -12,6 +27,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=14|end_char=15
 6	】	】	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_keyman-3
+# text = 时间：2007年1月5日 晚上7:00pm （UTC+8）
 1	时间	时间	NN	NN	_	7	dep	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	2007年	2007年	NT	NT	_	7	compound:nn	_	start_char=5|end_char=10
@@ -23,6 +40,8 @@
 9	UTC+8	UTC+8	NR	NR	_	7	dep	_	start_char=29|end_char=34
 10	）	）	PU	PU	_	7	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_interview_keyman-4
+# text = 地点：505United 香港足球发源地
 1	地点	地点	NN	NN	_	7	dep	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	505	505	CD	CD	_	7	dep	_	start_char=5|end_char=8
@@ -31,6 +50,8 @@
 6	足球	足球	NN	NN	_	7	compound:nn	_	start_char=19|end_char=21
 7	发源地	发源地	NN	NN	_	0	root	_	start_char=22|end_char=25
 
+# sent_id = gcdt_interview_keyman-5
+# text = 人物：马启仁先生，维基新闻记者Tszkin
 1	人物	人物	NN	NN	_	8	dep	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	8	punct	_	start_char=3|end_char=4
 3	马启仁	马启仁	NR	NR	_	4	compound:nn	_	start_char=5|end_char=8
@@ -41,6 +62,8 @@
 8	记者	记者	NN	NN	_	0	root	_	start_char=20|end_char=22
 9	Tszkin	Tszkin	NR	NR	_	8	dep	_	start_char=23|end_char=29
 
+# sent_id = gcdt_interview_keyman-6
+# text = 今天十分荣幸与香港著名足球评述员马启仁先生作访问。
 1	今天	今天	NT	NT	_	11	nmod:tmod	_	start_char=0|end_char=2
 2	十分	十分	AD	AD	_	11	advmod	_	start_char=3|end_char=5
 3	荣幸	荣幸	AD	AD	_	11	advmod	_	start_char=6|end_char=8
@@ -55,6 +78,8 @@
 12	访问	访问	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 13	。	。	PU	PU	_	11	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_interview_keyman-7
+# text = 马启仁先生在今次专访中，回答了记者多条问题。
 1	马启仁	马启仁	NR	NR	_	2	compound:nn	_	start_char=0|end_char=3
 2	先生	先生	NN	NN	_	8	nsubj	_	start_char=4|end_char=6
 3	在	在	P	P	_	5	case	_	start_char=7|end_char=8
@@ -70,6 +95,8 @@
 13	问题	问题	NN	NN	_	8	dobj	_	start_char=31|end_char=33
 14	。	。	PU	PU	_	8	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_interview_keyman-8
+# text = 原来马启仁先生在访问前已听过维基百科，而且是一名Firefox支持者。
 1	原来	原来	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	马启仁	马启仁	NR	NR	_	3	compound:nn	_	start_char=3|end_char=6
 3	先生	先生	NN	NN	_	8	nsubj	_	start_char=7|end_char=9
@@ -90,6 +117,8 @@
 18	支持者	支持者	NN	NN	_	8	conj	_	start_char=48|end_char=51
 19	。	。	PU	PU	_	8	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_interview_keyman-9
+# text = 以下以“K”代表启仁先生，“T”代表记者Tszkin。
 1	以下	以下	PN	PN	_	6	nsubj	_	start_char=0|end_char=2
 2	以	以	P	P	_	4	case	_	start_char=3|end_char=4
 3	“	“	PU	PU	_	4	punct	_	start_char=5|end_char=6
@@ -107,6 +136,8 @@
 15	Tszkin	Tszkin	NR	NR	_	6	dobj	_	start_char=34|end_char=40
 16	。	。	PU	PU	_	6	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_interview_keyman-10
+# text = Keyman，你好（握手），很高兴今天能跟阁下做访问。
 1	Keyman	Keyman	NR	NR	_	4	nmod:topic	_	start_char=0|end_char=6
 2	，	，	PU	PU	_	4	punct	_	start_char=7|end_char=8
 3	你	你	PN	PN	_	4	nsubj	_	start_char=9|end_char=10
@@ -125,10 +156,14 @@
 16	访问	访问	NN	NN	_	15	dobj	_	start_char=39|end_char=41
 17	。	。	PU	PU	_	4	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_interview_keyman-11
+# text = 你好。
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	好	好	VA	VA	_	0	root	_	start_char=2|end_char=3
 3	。	。	PU	PU	_	2	punct	_	start_char=4|end_char=5
 
+# sent_id = gcdt_interview_keyman-12
+# text = 这里是“香港足球发源地”！
 1	这里	这里	PN	PN	_	6	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	6	cop	_	start_char=3|end_char=4
 3	“	“	PU	PU	_	6	punct	_	start_char=5|end_char=6
@@ -138,6 +173,8 @@
 7	”	”	PU	PU	_	6	punct	_	start_char=17|end_char=18
 8	！	！	PU	PU	_	6	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_interview_keyman-13
+# text = 这是我的名片，请坐。
 1	这	这	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	5	cop	_	start_char=2|end_char=3
 3	我	我	PN	PN	_	5	nmod:assmod	_	start_char=4|end_char=5
@@ -148,6 +185,8 @@
 8	坐	坐	VV	VV	_	5	conj	_	start_char=15|end_char=16
 9	。	。	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_keyman-14
+# text = 其实我想知道关于你多一点呢（哈哈）！
 1	其实	其实	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	我	我	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -162,6 +201,8 @@
 12	）	）	PU	PU	_	11	punct	_	start_char=27|end_char=28
 13	！	！	PU	PU	_	3	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_interview_keyman-15
+# text = 这是维基百科的网页，这里有你的资料，你还可以搜寻你心爱的球队－西汉姆联。
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	6	cop	_	start_char=2|end_char=3
 3	维基	维基	NR	NR	_	4	nmod:assmod	_	start_char=4|end_char=6
@@ -187,6 +228,8 @@
 23	西汉姆联	西汉姆联	NR	NR	_	17	dobj	_	start_char=53|end_char=57
 24	。	。	PU	PU	_	6	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_interview_keyman-16
+# text = 嗯，我的资料有一点错误，我的出生日期是1969年10月24日，不过可以不用改．
 1	嗯	嗯	IJ	IJ	_	6	dep	_	start_char=0|end_char=1
 2	，	，	PU	PU	_	6	punct	_	start_char=2|end_char=3
 3	我	我	PN	PN	_	5	nmod:assmod	_	start_char=4|end_char=5
@@ -213,6 +256,8 @@
 24	改	改	VV	VV	_	6	conj	_	start_char=60|end_char=61
 25	．	．	PU	PU	_	6	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_interview_keyman-17
+# text = 就当是多送我一份生日礼物吧。
 1	就	就	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	当	当	VV	VV	_	5	dep	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	5	cop	_	start_char=4|end_char=5
@@ -226,6 +271,8 @@
 11	吧	吧	SP	SP	_	12	discourse	_	start_char=22|end_char=23
 12	。	。	PU	PU	_	0	root	_	start_char=24|end_char=25
 
+# sent_id = gcdt_interview_keyman-18
+# text = 而结婚年份是1997年，有些资料连我自己都不知道，我补充一点资料吧，我正修读澳大利亚卧龙岗大学的新闻学硕士课程（Master of Journalism），我在香港电台及商业电台工作。
 1	而	而	AD	AD	_	5	advmod	_	start_char=0|end_char=1
 2	结婚	结婚	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	年份	年份	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -273,6 +320,8 @@
 45	工作	工作	VV	VV	_	5	conj	_	start_char=131|end_char=133
 46	。	。	PU	PU	_	5	punct	_	start_char=134|end_char=135
 
+# sent_id = gcdt_interview_keyman-19
+# text = 原来近来内容更新了不少，连我自己在平时打什么领带的颜色都有，看来撰写这条条目的人观察得十分细微。
 1	原来	原来	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	近来	近来	AD	AD	_	4	advmod	_	start_char=3|end_char=5
 3	内容	内容	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -306,6 +355,8 @@
 31	细微	细微	VA	VA	_	4	conj	_	start_char=75|end_char=77
 32	。	。	PU	PU	_	4	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_interview_keyman-20
+# text = 喔，原来马启仁先生是用左手写字！
 1	喔	喔	IJ	IJ	_	9	dep	_	start_char=0|end_char=1
 2	，	，	PU	PU	_	9	punct	_	start_char=2|end_char=3
 3	原来	原来	AD	AD	_	9	advmod	_	start_char=4|end_char=6
@@ -317,6 +368,8 @@
 9	写字	写字	VV	VV	_	0	root	_	start_char=21|end_char=23
 10	！	！	PU	PU	_	9	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_interview_keyman-21
+# text = 多谢马启仁先生补充和更正资料。
 1	多谢	多谢	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	马启仁	马启仁	NR	NR	_	3	compound:nn	_	start_char=3|end_char=6
 3	先生	先生	NN	NN	_	4	nsubj	_	start_char=7|end_char=9
@@ -326,6 +379,8 @@
 7	资料	资料	NN	NN	_	6	dobj	_	start_char=18|end_char=20
 8	。	。	PU	PU	_	1	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_keyman-22
+# text = Keyman，众所周知，你是韦斯咸和阿根廷球迷，在评述关于你心爱的球队赛事时，会不会有不自然的感觉？
 1	Keyman	Keyman	NR	NR	_	3	nsubj	_	start_char=0|end_char=6
 2	，	，	PU	PU	_	3	punct	_	start_char=7|end_char=8
 3	众所周知	众所周知	VV	VV	_	0	root	_	start_char=9|end_char=13
@@ -357,6 +412,8 @@
 29	感觉	感觉	NN	NN	_	25	dobj	_	start_char=75|end_char=77
 30	？	？	PU	PU	_	3	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_interview_keyman-23
+# text = 我认为传媒人最紧要做到保持中立这点，需要放下个人情感，但认为全世界99%球迷都有自己的喜恶，但在做节目前后和平日就不会掩饰。
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	认为	认为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	传媒人	传媒人	NN	NN	_	6	nsubj	_	start_char=5|end_char=8
@@ -398,6 +455,8 @@
 39	掩饰	掩饰	VV	VV	_	24	conj	_	start_char=97|end_char=99
 40	。	。	PU	PU	_	2	punct	_	start_char=100|end_char=101
 
+# sent_id = gcdt_interview_keyman-24
+# text = 我认为做这行应该跟观众的距离很近，像跟朋友看足球比赛一样，不介意让人知道自己心爱的球队是哪队，但在评述时会收敛。
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	认为	认为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	做	做	VV	VV	_	2	ccomp	_	start_char=5|end_char=6
@@ -439,6 +498,8 @@
 39	收敛	收敛	VV	VV	_	32	conj	_	start_char=91|end_char=93
 40	。	。	PU	PU	_	2	punct	_	start_char=94|end_char=95
 
+# sent_id = gcdt_interview_keyman-25
+# text = 在家和在家中收看足球比赛完全是两个人，在家中表现出真性情，但在评述时会加以压抑，用中肯态度于工作中。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	家	家	NN	NN	_	6	nmod:prep	_	start_char=2|end_char=3
 3	和	和	CC	CC	_	2	cc	_	start_char=4|end_char=5
@@ -476,6 +537,8 @@
 35	中	中	LC	LC	_	34	case	_	start_char=82|end_char=83
 36	。	。	PU	PU	_	13	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_interview_keyman-26
+# text = 但我的拍挡很喜欢用我来开玩笑，为了保护自己，陪他们玩，只是搞气氛。
 1	但	但	AD	AD	_	6	advmod	_	start_char=0|end_char=1
 2	我	我	PN	PN	_	4	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -501,6 +564,8 @@
 23	气氛	气氛	NN	NN	_	22	dobj	_	start_char=52|end_char=54
 24	。	。	PU	PU	_	6	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_interview_keyman-27
+# text = 近来了行这一行的人也会像我这样做。
 1	近来	近来	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	了	了	SP	SP	_	3	dep	_	start_char=3|end_char=4
 3	行	行	VV	VV	_	8	acl	_	start_char=5|end_char=6
@@ -517,6 +582,8 @@
 14	做	做	VV	VV	_	0	root	_	start_char=28|end_char=29
 15	。	。	PU	PU	_	14	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_interview_keyman-28
+# text = 如果自已心爱的球队仅以一球落败，会心生不忿：如果球队大比数落败，评述时会比较轻松。
 1	如果	如果	CS	CS	_	10	advmod	_	start_char=0|end_char=2
 2	自已	自已	PN	PN	_	3	nsubj	_	start_char=3|end_char=5
 3	心爱	心爱	VV	VV	_	5	acl	_	start_char=6|end_char=8
@@ -545,6 +612,8 @@
 26	轻松	轻松	VA	VA	_	14	ccomp	_	start_char=63|end_char=65
 27	。	。	PU	PU	_	14	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_interview_keyman-29
+# text = 但在某些位置上，不能过火，会适当地调节自己。
 1	但	但	AD	AD	_	14	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	4	case	_	start_char=2|end_char=3
 3	某些	某些	DT	DT	_	4	det	_	start_char=4|end_char=6
@@ -562,6 +631,8 @@
 15	自己	自己	PN	PN	_	14	dobj	_	start_char=33|end_char=35
 16	。	。	PU	PU	_	14	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_interview_keyman-30
+# text = 作为韦斯咸球迷的你，你对正在护级的韦斯咸今年有没有期望？
 1	作为	作为	P	P	_	5	case	_	start_char=0|end_char=2
 2	韦斯咸	韦斯咸	NR	NR	_	3	nmod:assmod	_	start_char=3|end_char=6
 3	球迷	球迷	NN	NN	_	5	nmod:assmod	_	start_char=7|end_char=9
@@ -580,16 +651,22 @@
 16	期望	期望	NN	NN	_	15	dobj	_	start_char=40|end_char=42
 17	？	？	PU	PU	_	14	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_interview_keyman-31
+# text = 过保顿啦！
 1	过	过	VV	VV	_	4	dep	_	start_char=0|end_char=1
 2	保顿	保顿	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	啦	啦	SP	SP	_	4	discourse	_	start_char=5|end_char=6
 4	！	！	PU	PU	_	0	root	_	start_char=7|end_char=8
 
+# sent_id = gcdt_interview_keyman-32
+# text = 没可能吧！
 1	没	没	VE	VE	_	4	dep	_	start_char=0|end_char=1
 2	可能	可能	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	吧	吧	SP	SP	_	4	discourse	_	start_char=5|end_char=6
 4	！	！	PU	PU	_	0	root	_	start_char=7|end_char=8
 
+# sent_id = gcdt_interview_keyman-33
+# text = 其实做韦斯咸的球迷很有趣。
 1	其实	其实	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	做	做	VV	VV	_	7	dep	_	start_char=3|end_char=4
 3	韦斯咸	韦斯咸	NR	NR	_	2	dobj	_	start_char=5|end_char=8
@@ -599,6 +676,8 @@
 7	有趣	有趣	VA	VA	_	0	root	_	start_char=16|end_char=18
 8	。	。	PU	PU	_	7	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_interview_keyman-34
+# text = 我认为做球迷是一生人的，不像小朋友两三年就转支持球会。
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	认为	认为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	做	做	VV	VV	_	2	ccomp	_	start_char=5|end_char=6
@@ -619,6 +698,8 @@
 18	球会	球会	NN	NN	_	16	dobj	_	start_char=41|end_char=43
 19	。	。	PU	PU	_	2	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_interview_keyman-35
+# text = 足球是公平的，有厉害的时候，又有差的时候，“有赢有输”，一定要明白这个道理。
 1	足球	足球	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	3	cop	_	start_char=3|end_char=4
 3	公平	公平	VA	VA	_	0	root	_	start_char=5|end_char=7
@@ -650,6 +731,8 @@
 29	道理	道理	NN	NN	_	26	dobj	_	start_char=63|end_char=65
 30	。	。	PU	PU	_	3	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_interview_keyman-36
+# text = 只有赢才高兴，输就不高兴，只会令自己很痛苦。
 1	只有	只有	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	赢	赢	NN	NN	_	4	nsubj	_	start_char=3|end_char=4
 3	才	才	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -668,6 +751,8 @@
 16	痛苦	痛苦	VA	VA	_	13	ccomp	_	start_char=34|end_char=36
 17	。	。	PU	PU	_	4	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_interview_keyman-37
+# text = 支持哪队球队都是公平的，而我支持韦斯咸，偶尔有场代表作已经十分开心，不预计韦斯咸会争夺锦标或前四名。
 1	支持	支持	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	哪队	哪队	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	球队	球队	NN	NN	_	6	nsubj	_	start_char=6|end_char=8
@@ -701,6 +786,8 @@
 31	名	名	M	M	_	30	mark:clf	_	start_char=78|end_char=79
 32	。	。	PU	PU	_	1	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_interview_keyman-38
+# text = 在今年曾经有些很言兴的地方，以为扩军能帮助球队，结果希望越大失望越大，从中学到一些人生道理，有时有些东西不能苛求，但不会放弃做人信念，相信韦斯咸能护级成功，如果真的降班，只能说是“抵死”（活该）。
 1	在	在	P	P	_	8	case	_	start_char=0|end_char=1
 2	今年	今年	NT	NT	_	6	nmod:tmod	_	start_char=2|end_char=4
 3	曾经	曾经	AD	AD	_	6	advmod	_	start_char=5|end_char=7
@@ -766,6 +853,8 @@
 63	）	）	PU	PU	_	59	punct	_	start_char=158|end_char=159
 64	。	。	PU	PU	_	10	punct	_	start_char=160|end_char=161
 
+# sent_id = gcdt_interview_keyman-39
+# text = 就算降班，亦可卷土重来，如足总杯亦可越级挑战一样。
 1	就算	就算	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	降班	降班	VV	VV	_	6	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -782,6 +871,8 @@
 14	一样	一样	VA	VA	_	6	conj	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	6	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_interview_keyman-40
+# text = 当年韦斯咸打升班时的情形令我十分深刻，十分刺激，像附加赛冠军。
 1	当年	当年	NT	NT	_	8	nmod:tmod	_	start_char=0|end_char=2
 2	韦斯咸	韦斯咸	NR	NR	_	3	nsubj	_	start_char=3|end_char=6
 3	打	打	VV	VV	_	7	nmod	_	start_char=7|end_char=8
@@ -802,6 +893,8 @@
 18	冠军	冠军	NN	NN	_	16	dobj	_	start_char=45|end_char=47
 19	。	。	PU	PU	_	8	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_interview_keyman-41
+# text = 会保持支持韦斯咸，不会改变。
 1	会	会	VV	VV	_	2	aux:modal	_	start_char=0|end_char=1
 2	保持	保持	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	支持	支持	VV	VV	_	2	ccomp	_	start_char=5|end_char=7
@@ -812,6 +905,8 @@
 8	改变	改变	VV	VV	_	2	conj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	2	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_keyman-42
+# text = 像世界杯一样，32队入到世界杯，每队都有人支持，但只有1队能夺冠军，球迷其实失意多于得意，其他落败球队的球迷，一定很不开心，但应该做个快乐的球迷，如入了球世界球、“偷鸡赢到场”、晋到级或者虽败但已尽力，如今晚十分专心看一场足球比赛，已享受其过程。
 1	像	像	P	P	_	2	case	_	start_char=0|end_char=1
 2	世界杯	世界杯	NR	NR	_	3	nmod:prep	_	start_char=2|end_char=5
 3	一样	一样	VA	VA	_	7	dep	_	start_char=6|end_char=8
@@ -898,6 +993,8 @@
 84	过程	过程	NN	NN	_	82	dobj	_	start_char=203|end_char=205
 85	。	。	PU	PU	_	7	punct	_	start_char=206|end_char=207
 
+# sent_id = gcdt_interview_keyman-43
+# text = 很多事情而令你开心，只要自已调节一下，我没太大问题，我每天都会到韦斯咸“朝圣”。
 1	很多	很多	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	事情	事情	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	而	而	MSP	MSP	_	4	advmod	_	start_char=6|end_char=7
@@ -927,6 +1024,8 @@
 27	”	”	PU	PU	_	26	punct	_	start_char=64|end_char=65
 28	。	。	PU	PU	_	4	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_interview_keyman-44
+# text = 听说Keyman你亦有玩Football Manager（足球经理）和Winning Eleven（实况足球），你对这些游戏有没有什么评价？
 1	听说	听说	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	Keyman	Keyman	NR	NR	_	1	dobj	_	start_char=3|end_char=9
 3	你	你	PN	PN	_	5	nsubj	_	start_char=10|end_char=11
@@ -957,10 +1056,14 @@
 28	评价	评价	NN	NN	_	26	dobj	_	start_char=92|end_char=94
 29	？	？	PU	PU	_	1	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_interview_keyman-45
+# text = FM呀！
 1	FM	FM	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	呀	呀	SP	SP	_	1	dep	_	start_char=3|end_char=4
 3	！	！	PU	PU	_	1	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_interview_keyman-46
+# text = 这套游戏我都有玩，但平时空闲的时间很少，而要玩这只游戏真的很花时间，如果是求学阶段时玩，真的不得了，我通常只玩到季初就没再玩下去。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	套	套	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	游戏	游戏	NN	NN	_	7	nmod:topic	_	start_char=4|end_char=6
@@ -1010,6 +1113,8 @@
 47	下去	下去	VV	VV	_	46	advmod:rcomp	_	start_char=108|end_char=110
 48	。	。	PU	PU	_	6	punct	_	start_char=111|end_char=112
 
+# sent_id = gcdt_interview_keyman-47
+# text = 但是当每出新版我都会立即购买，支持一下吧。
 1	但是	但是	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	当	当	P	P	_	5	case	_	start_char=3|end_char=4
 3	每	每	DT	DT	_	5	det	_	start_char=5|end_char=6
@@ -1026,6 +1131,8 @@
 14	吧	吧	SP	SP	_	15	discourse	_	start_char=32|end_char=33
 15	。	。	PU	PU	_	0	root	_	start_char=34|end_char=35
 
+# sent_id = gcdt_interview_keyman-48
+# text = 创造这只游戏的两兄弟是数据库迷，其FM现在还没到最复杂阶段,有些游戏连建球场等东西都有，其实我认为简单一点点就可了。
 1	创造	创造	VV	VV	_	7	acl	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	4	det	_	start_char=3|end_char=4
 3	只	只	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -1067,6 +1174,8 @@
 39	了	了	SP	SP	_	38	discourse	_	start_char=94|end_char=95
 40	。	。	PU	PU	_	10	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_interview_keyman-49
+# text = 据闻FM有手提机PSP的版本，但我每天都要驾车上班，如果挂着玩游戏的话，很易发生意外。
 1	据闻	据闻	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	FM	FM	NN	NN	_	3	dep	_	start_char=3|end_char=5
 3	有	有	VE	VE	_	0	root	_	start_char=6|end_char=7
@@ -1096,6 +1205,8 @@
 27	意外	意外	NN	NN	_	26	dobj	_	start_char=66|end_char=68
 28	。	。	PU	PU	_	3	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_interview_keyman-50
+# text = Winning比较控制上的真实感，但弱队的数值比较低，可帮我去反映一下吗？
 1	Winning	Winning	NN	NN	_	3	nsubj	_	start_char=0|end_char=7
 2	比较	比较	AD	AD	_	3	advmod	_	start_char=8|end_char=10
 3	控制	控制	VV	VV	_	7	nmod	_	start_char=11|end_char=13
@@ -1120,6 +1231,8 @@
 22	吗	吗	SP	SP	_	20	discourse	_	start_char=56|end_char=57
 23	？	？	PU	PU	_	14	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_interview_keyman-51
+# text = 足球的电玩及足球，是男人之间的电玩，女士们很难明白你在球场干什么。
 1	足球	足球	NN	NN	_	5	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	电玩	电玩	NN	NN	_	5	conj	_	start_char=5|end_char=7
@@ -1143,6 +1256,8 @@
 21	什么	什么	PN	PN	_	20	dobj	_	start_char=50|end_char=52
 22	。	。	PU	PU	_	11	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_interview_keyman-52
+# text = Keyman，在网上有不少人都说你其实是“曼联球迷”？
 1	Keyman	Keyman	NR	NR	_	5	dep	_	start_char=0|end_char=6
 2	，	，	PU	PU	_	5	punct	_	start_char=7|end_char=8
 3	在	在	P	P	_	4	case	_	start_char=9|end_char=10
@@ -1161,6 +1276,8 @@
 16	”	”	PU	PU	_	15	punct	_	start_char=40|end_char=41
 17	？	？	PU	PU	_	5	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_interview_keyman-53
+# text = “曼联球迷”这个称号呢是很多年前的啦。
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	曼联	曼联	NR	NR	_	3	compound:nn	_	start_char=2|end_char=4
 3	球迷	球迷	NN	NN	_	7	compound:nn	_	start_char=5|end_char=7
@@ -1177,6 +1294,8 @@
 14	啦	啦	SP	SP	_	15	discourse	_	start_char=30|end_char=31
 15	。	。	PU	PU	_	0	root	_	start_char=32|end_char=33
 
+# sent_id = gcdt_interview_keyman-54
+# text = 当我被冠上这个称号时，我也有想过这个问题，但我的确是一名韦斯咸球迷。
 1	当	当	P	P	_	4	case	_	start_char=0|end_char=1
 2	我	我	PN	PN	_	4	nsubjpass	_	start_char=2|end_char=3
 3	被	被	SB	SB	_	4	auxpass	_	start_char=4|end_char=5
@@ -1204,6 +1323,8 @@
 25	球迷	球迷	NN	NN	_	12	conj	_	start_char=55|end_char=57
 26	。	。	PU	PU	_	12	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_interview_keyman-55
+# text = 因为当年曼联“三冠王”很厉害，不少行家亦会看好曼联一线。
 1	因为	因为	P	P	_	8	case	_	start_char=0|end_char=2
 2	当年	当年	NT	NT	_	8	nmod:tmod	_	start_char=3|end_char=5
 3	曼联	曼联	NR	NR	_	5	compound:nn	_	start_char=6|end_char=8
@@ -1223,6 +1344,8 @@
 17	线	线	NN	NN	_	14	dobj	_	start_char=42|end_char=43
 18	。	。	PU	PU	_	14	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_interview_keyman-56
+# text = 如曼联对韦斯咸比起其他球队的赛事较有触目性。
 1	如	如	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	曼联	曼联	NR	NR	_	11	nsubj	_	start_char=2|end_char=4
 3	对	对	P	P	_	9	case	_	start_char=5|end_char=6
@@ -1237,6 +1360,8 @@
 12	触目性	触目性	NN	NN	_	11	dobj	_	start_char=29|end_char=32
 13	。	。	PU	PU	_	11	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_interview_keyman-57
+# text = 我现在评述足球亦会保持中立。
 1	我	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	现在	现在	NT	NT	_	3	nmod:tmod	_	start_char=2|end_char=4
 3	评述	评述	VV	VV	_	7	dep	_	start_char=5|end_char=7
@@ -1247,6 +1372,8 @@
 8	中立	中立	NN	NN	_	7	dobj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	7	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_keyman-58
+# text = Keyman，你小时候有没有想过当一位足球评述员？
 1	Keyman	Keyman	NR	NR	_	6	nmod:topic	_	start_char=0|end_char=6
 2	，	，	PU	PU	_	8	punct	_	start_char=7|end_char=8
 3	你	你	PN	PN	_	5	compound:nn	_	start_char=9|end_char=10
@@ -1262,10 +1389,14 @@
 13	评述员	评述员	NN	NN	_	9	dobj	_	start_char=33|end_char=36
 14	？	？	PU	PU	_	8	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_interview_keyman-59
+# text = 没有啦！
 1	没有	没有	VE	VE	_	3	dep	_	start_char=0|end_char=2
 2	啦	啦	SP	SP	_	3	discourse	_	start_char=3|end_char=4
 3	！	！	PU	PU	_	0	root	_	start_char=5|end_char=6
 
+# sent_id = gcdt_interview_keyman-60
+# text = 我小时候其实想做一些传媒的工作，在我当上第一份报纸（章）的体育记者前，我都没有当过以足球做媒介令自己做到想做的东西，第一份关于体育的开始是当华侨日报体育报记者，这条路就一直走下去，跟以前想的东西有点接近。
 1	我	我	PN	PN	_	3	compound:nn	_	start_char=0|end_char=1
 2	小	小	JJ	JJ	_	3	amod	_	start_char=2|end_char=3
 3	时候	时候	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -1337,6 +1468,8 @@
 69	接近	接近	VV	VV	_	5	conj	_	start_char=167|end_char=169
 70	。	。	PU	PU	_	5	punct	_	start_char=170|end_char=171
 
+# sent_id = gcdt_interview_keyman-61
+# text = 在小时候已想做传媒，但不知道传媒是什么，我觉得做一个媒介，跟多些人接触，接触最多人的就是媒体。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	小	小	JJ	JJ	_	3	amod	_	start_char=2|end_char=3
 3	时候	时候	NN	NN	_	5	nmod:prep	_	start_char=4|end_char=6
@@ -1374,6 +1507,8 @@
 35	媒体	媒体	NN	NN	_	5	conj	_	start_char=78|end_char=80
 36	。	。	PU	PU	_	5	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_interview_keyman-62
+# text = 传媒的东西我很想做，但读大学时，我不是读传媒，一听到有杂志或报纸征聘兼职记者时，就立即应征，做过很多报章、杂志的记者，亦当过八卦杂志的记者等，后来就当上了全职记者。
 1	传媒	传媒	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	东西	东西	NN	NN	_	6	nmod:topic	_	start_char=5|end_char=7
@@ -1433,6 +1568,8 @@
 57	记者	记者	NN	NN	_	54	dobj	_	start_char=135|end_char=137
 58	。	。	PU	PU	_	6	punct	_	start_char=138|end_char=139
 
+# sent_id = gcdt_interview_keyman-63
+# text = 后来，以前很多编辑在Cable里任职，就找了我帮忙，就慢慢晋身为足球评述员。
 1	后来	后来	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	以前	以前	NT	NT	_	9	nmod:tmod	_	start_char=5|end_char=7
@@ -1457,6 +1594,8 @@
 22	评述员	评述员	NN	NN	_	19	dobj	_	start_char=55|end_char=58
 23	。	。	PU	PU	_	9	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_interview_keyman-64
+# text = 由报章任职至电视台，再由电视台至电台，做杂志和网站，一直绕来绕去。
 1	由	由	P	P	_	2	case	_	start_char=0|end_char=1
 2	报章	报章	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
 3	任职	任职	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1479,6 +1618,8 @@
 20	绕去	绕去	VV	VV	_	3	conj	_	start_char=49|end_char=51
 21	。	。	PU	PU	_	3	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_interview_keyman-65
+# text = Keyman，你是一位足球评述员，大多数比赛在晚间进行，你过着日夜颠倒的生活，对你日常生活会不会受影响？
 1	Keyman	Keyman	NR	NR	_	8	nmod:topic	_	start_char=0|end_char=6
 2	，	，	PU	PU	_	8	punct	_	start_char=7|end_char=8
 3	你	你	PN	PN	_	8	nsubj	_	start_char=9|end_char=10
@@ -1513,6 +1654,8 @@
 32	影响	影响	NN	NN	_	31	dobj	_	start_char=80|end_char=82
 33	？	？	PU	PU	_	8	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_interview_keyman-66
+# text = 要有一个好好的编排啦！
 1	要	要	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	9	dep	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	7	nummod	_	start_char=4|end_char=5
@@ -1523,6 +1666,8 @@
 8	啦	啦	SP	SP	_	9	discourse	_	start_char=16|end_char=17
 9	！	！	PU	PU	_	0	root	_	start_char=18|end_char=19
 
+# sent_id = gcdt_interview_keyman-67
+# text = 我认为做一个球迷，都要有好好的编排，除了正常上班、家中生活外，都要看足球比赛啦，足球比赛通常在深夜进行，而我以此为工作，我亦能安排好，以往的正职比较辛苦，可能时间不够用，现在就自已工作，所以能够将就。
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	认为	认为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	做	做	VV	VV	_	2	ccomp	_	start_char=5|end_char=6
@@ -1593,6 +1738,8 @@
 68	将就	将就	VV	VV	_	64	conj	_	start_char=164|end_char=166
 69	。	。	PU	PU	_	2	punct	_	start_char=167|end_char=168
 
+# sent_id = gcdt_interview_keyman-68
+# text = 比起以前做一全正常时间的工作跟现在，家中相处的时间不会少了，没有太大分别，都要有好的编排。
 1	比起	比起	P	P	_	3	case	_	start_char=0|end_char=2
 2	以前	以前	NT	NT	_	3	nmod:tmod	_	start_char=3|end_char=5
 3	做	做	VV	VV	_	29	nmod:prep	_	start_char=6|end_char=7
@@ -1627,6 +1774,8 @@
 32	编排	编排	NN	NN	_	29	dobj	_	start_char=73|end_char=75
 33	。	。	PU	PU	_	29	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_interview_keyman-69
+# text = 这是长途战，像打联赛，不是杯赛，像球迷一样，只挂着这两星期看深夜足球比赛，第三个星期就死定了，都要自己懂得编排作息时间。
 1	这	这	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	3	cop	_	start_char=2|end_char=3
 3	长途战	长途战	NN	NN	_	0	root	_	start_char=4|end_char=7
@@ -1670,6 +1819,8 @@
 41	时间	时间	NN	NN	_	39	dobj	_	start_char=97|end_char=99
 42	。	。	PU	PU	_	3	punct	_	start_char=100|end_char=101
 
+# sent_id = gcdt_interview_keyman-70
+# text = Keyman，你有没有想过把你的女儿训练成为足球员或足球评述员？
 1	Keyman	Keyman	NR	NR	_	6	nmod:topic	_	start_char=0|end_char=6
 2	，	，	PU	PU	_	6	punct	_	start_char=7|end_char=8
 3	你	你	PN	PN	_	6	nsubj	_	start_char=9|end_char=10
@@ -1688,11 +1839,15 @@
 16	评述员	评述员	NN	NN	_	11	dobj	_	start_char=43|end_char=46
 17	？	？	PU	PU	_	6	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_interview_keyman-71
+# text = 当然没有啦！
 1	当然	当然	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	没有	没有	VE	VE	_	4	dep	_	start_char=3|end_char=5
 3	啦	啦	SP	SP	_	4	discourse	_	start_char=6|end_char=7
 4	！	！	PU	PU	_	0	root	_	start_char=8|end_char=9
 
+# sent_id = gcdt_interview_keyman-72
+# text = 但我会带女儿到球场看足球比赛，告诉她这是一场“嘉年华会”，她也有十分开心，每次在电视上看次足球比赛时，就会大嚷着是“嘉年华会”。
 1	但	但	AD	AD	_	4	advmod	_	start_char=0|end_char=1
 2	我	我	PN	PN	_	4	nsubj	_	start_char=2|end_char=3
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -1740,6 +1895,8 @@
 45	”	”	PU	PU	_	44	punct	_	start_char=106|end_char=107
 46	。	。	PU	PU	_	4	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_interview_keyman-73
+# text = 我并不会强迫她喜欢足球，但希望她能领略足球的乐趣，让她自由选择吧。
 1	我	我	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	并不	并不	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
@@ -1764,6 +1921,8 @@
 22	吧	吧	SP	SP	_	18	discourse	_	start_char=52|end_char=53
 23	。	。	PU	PU	_	4	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_interview_keyman-74
+# text = 祝马启仁先生工作顺利，今日的访问完毕，多谢马启仁先生抽空作专访。
 1	祝	祝	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	马启仁	马启仁	NR	NR	_	3	compound:nn	_	start_char=2|end_char=5
 3	先生	先生	NN	NN	_	4	nmod:assmod	_	start_char=6|end_char=8
@@ -1783,6 +1942,8 @@
 17	专访	专访	NN	NN	_	16	dobj	_	start_char=45|end_char=47
 18	。	。	PU	PU	_	1	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_interview_keyman-75
+# text = 多谢，现在很少记者会在访问完说这些祝福语。
 1	多谢	多谢	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	1	punct	_	start_char=3|end_char=4
 3	现在	现在	NT	NT	_	10	nmod:tmod	_	start_char=5|end_char=7

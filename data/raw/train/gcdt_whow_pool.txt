@@ -1,4 +1,4 @@
-<text id="gum_zh_whow_pool" type="whow" sourceURL="https://zh.wikihow.com/%E6%91%86%E6%94%BE%E5%8F%B0%E7%90%83" dateCreated="XXXX-XX-XX" dateCollected="2021-12-06" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何摆放台球" shortTitle="pool"/>
+<text id="gum_zh_whow_pool" genre="whow" sourceURL="https://zh.wikihow.com/%E6%91%86%E6%94%BE%E5%8F%B0%E7%90%83" author="wikiHow员工" dateCreated="XXXX-XX-XX" dateCollected="2021-12-06" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何摆放台球" shortTitle="pool"/>
 如何摆放台球
 
 <section/>

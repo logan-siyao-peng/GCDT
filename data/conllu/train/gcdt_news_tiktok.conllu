@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_tiktok
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2020-08-31
+# meta::dateModified = 2020-09-07
+# meta::sourceURL = https://zh.wikinews.org/wiki/TikTok%E5%87%BA%E5%94%AE%E6%88%96%E9%A1%BB%E5%85%88%E5%BE%97%E5%8C%97%E4%BA%AC%E5%90%8C%E6%84%8F
+# meta::speakerCount = 0
+# meta::title = TikTok出售或须先得北京同意
+# meta::shortTitle = tiktok
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_tiktok-1
+# text = TikTok出售或须先得北京同意
 1	TikTok	TikTok	NR	NR	_	2	nsubj	_	start_char=0|end_char=6
 2	出售	出售	VV	VV	_	0	root	_	start_char=7|end_char=9
 3	或	或	CC	CC	_	2	cc	_	start_char=10|end_char=11
@@ -7,6 +20,8 @@
 7	北京	北京	NR	NR	_	8	nmod:prep	_	start_char=18|end_char=20
 8	同意	同意	VV	VV	_	2	conj	_	start_char=21|end_char=23
 
+# sent_id = gcdt_news_tiktok-2
+# text = 【2020年8月31日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2020年	2020年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	8月	8月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -14,6 +29,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_tiktok-3
+# text = 中国日前对科技出口制定新的管制规定。
 1	中国	中国	NR	NR	_	6	nsubj	_	start_char=0|end_char=2
 2	日前	日前	NT	NT	_	6	nmod:tmod	_	start_char=3|end_char=5
 3	对	对	P	P	_	5	case	_	start_char=6|end_char=7
@@ -26,6 +43,8 @@
 10	规定	规定	NN	NN	_	6	dobj	_	start_char=24|end_char=26
 11	。	。	PU	PU	_	6	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_news_tiktok-4
+# text = 一名中国专家说，这意味着字节跳动公司如果出售美国TikTok业务需要先得到北京的同意。
 1	一	一	CD	CD	_	4	nummod	_	start_char=0|end_char=1
 2	名	名	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	中国	中国	NR	NR	_	4	nmod:assmod	_	start_char=4|end_char=6
@@ -50,6 +69,8 @@
 22	同意	同意	NN	NN	_	19	dobj	_	start_char=61|end_char=63
 23	。	。	PU	PU	_	5	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_news_tiktok-5
+# text = 这个规定将使得原本已经与政治因素有关的TikTok剥离要求更加复杂化。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	规定	规定	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -69,6 +90,8 @@
 17	复杂化	复杂化	VV	VV	_	5	ccomp	_	start_char=47|end_char=50
 18	。	。	PU	PU	_	5	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_news_tiktok-6
+# text = 美国总统特朗普以TikTok可能存在损害美国国家安全的威胁为由，于8月14日下令中国公司字节跳动在90天内，从在美国运营的视频共享应用程序TikTok撤资。
 1	美国	美国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	总统	总统	NN	NN	_	3	appos	_	start_char=3|end_char=5
 3	特朗普	特朗普	NR	NR	_	20	nsubj	_	start_char=6|end_char=9
@@ -110,6 +133,8 @@
 39	撤资	撤资	VV	VV	_	23	conj	_	start_char=113|end_char=115
 40	。	。	PU	PU	_	20	punct	_	start_char=116|end_char=117
 
+# sent_id = gcdt_news_tiktok-7
+# text = 这个命令增加了字节跳动从TikTok剥离的压力，并合法支持特朗普政府对这个中国社交媒体应用程序的封杀。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	命令	命令	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -139,6 +164,8 @@
 27	封杀	封杀	NN	NN	_	15	dobj	_	start_char=74|end_char=76
 28	。	。	PU	PU	_	4	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_news_tiktok-8
+# text = 此前8月6日，总统特朗普签署行政令，将在45天后禁止美国司法管辖的任何人或企业与TikTok母公司进行任何交易。
 1	此前	此前	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	8月	8月	NT	NT	_	3	compound:nn	_	start_char=3|end_char=5
 3	6日	6日	NT	NT	_	7	nmod:tmod	_	start_char=6|end_char=8
@@ -170,6 +197,8 @@
 29	交易	交易	NN	NN	_	27	dobj	_	start_char=81|end_char=83
 30	。	。	PU	PU	_	7	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_news_tiktok-9
+# text = 北京则谴责特朗普的打压是政治行为。
 1	北京	北京	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
 2	则	则	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	谴责	谴责	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -181,6 +210,8 @@
 9	行为	行为	NN	NN	_	3	ccomp	_	start_char=22|end_char=24
 10	。	。	PU	PU	_	3	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_news_tiktok-10
+# text = 目前有意收购TikTok在美国、加拿大、新西兰和澳大利亚业务的买家包括微软（Microsoft Corp)、甲骨文（Oracle Corp )和沃尔玛（Walmart Inc.) 等。
 1	目前	目前	NT	NT	_	2	nmod:tmod	_	start_char=0|end_char=2
 2	有意	有意	VV	VV	_	15	acl	_	start_char=3|end_char=5
 3	收购	收购	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
@@ -217,6 +248,8 @@
 34	等	等	ETC	ETC	_	32	dep	_	start_char=118|end_char=119
 35	。	。	PU	PU	_	2	punct	_	start_char=120|end_char=121
 
+# sent_id = gcdt_news_tiktok-11
+# text = 不过，中国商务部与科技部8月28日调整发布了“中国禁止出口限制出口技术目录”。
 1	不过	不过	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	中国	中国	NR	NR	_	6	nmod:assmod	_	start_char=5|end_char=7
@@ -239,6 +272,8 @@
 20	”	”	PU	PU	_	19	punct	_	start_char=56|end_char=57
 21	。	。	PU	PU	_	9	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_news_tiktok-12
+# text = 这是中国12 年来首次这么做。
 1	这	这	PN	PN	_	10	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	10	cop	_	start_char=2|end_char=3
 3	中国	中国	NR	NR	_	10	nsubj	_	start_char=4|end_char=6
@@ -251,6 +286,8 @@
 10	做	做	VV	VV	_	0	root	_	start_char=21|end_char=22
 11	。	。	PU	PU	_	10	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_news_tiktok-13
+# text = 新华社星期天 （8月30日）报道说，对外经济贸易大学的国际贸易教授崔凡认为，这些修订都适用于TikTok。
 1	新华社	新华社	NR	NR	_	8	nsubj	_	start_char=0|end_char=3
 2	星期天	星期天	NT	NT	_	8	nmod:tmod	_	start_char=4|end_char=7
 3	（	（	PU	PU	_	5	punct	_	start_char=8|end_char=9
@@ -278,6 +315,8 @@
 25	TikTok	TikTok	NR	NR	_	24	dobj	_	start_char=69|end_char=75
 26	。	。	PU	PU	_	8	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_news_tiktok-14
+# text = 报道援引他的话说：“如果字节跳动计划出口相关技术，应该履行申请许可程序。”
 1	报道	报道	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	援引	援引	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	他	他	PN	PN	_	5	nmod:assmod	_	start_char=6|end_char=7
@@ -301,6 +340,8 @@
 21	。	。	PU	PU	_	2	punct	_	start_char=55|end_char=56
 22	”	”	PU	PU	_	2	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_news_tiktok-15
+# text = 中国商务部在新规中增加了23个项限制类条目，对21项条目的控制要点和技术参数进行了修改。
 1	中国	中国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	商务部	商务部	NN	NN	_	6	nsubj	_	start_char=3|end_char=6
 3	在	在	P	P	_	4	case	_	start_char=7|end_char=8
@@ -329,6 +370,8 @@
 26	修改	修改	NN	NN	_	24	dobj	_	start_char=66|end_char=68
 27	。	。	PU	PU	_	6	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_news_tiktok-16
+# text = 路透社星期天报道说，新增限制的项目中包括：根据数据分析与人工智能互动接口技术的个人信息推播服务，如果要出口这些技术需要最多30天才能得到初步批准。
 1	路透社	路透社	NR	NR	_	4	nsubj	_	start_char=0|end_char=3
 2	星期天	星期天	NT	NT	_	4	nmod:tmod	_	start_char=4|end_char=7
 3	报道	报道	VV	VV	_	4	compound:vc	_	start_char=8|end_char=10
@@ -372,6 +415,8 @@
 41	批准	批准	NN	NN	_	39	dobj	_	start_char=110|end_char=112
 42	。	。	PU	PU	_	4	punct	_	start_char=113|end_char=114
 
+# sent_id = gcdt_news_tiktok-17
+# text = 崔凡接受新华社采访时说，字节跳动的国际业务能快速发展，依靠的是其国内强大的技术支撑，它源源不断的向境外公司提供最新的核心算法服务，就是一种典型的技术服务出口。
 1	崔凡	崔凡	NR	NR	_	6	nsubj	_	start_char=0|end_char=2
 2	接受	接受	VV	VV	_	6	advcl:loc	_	start_char=3|end_char=5
 3	新华社	新华社	NR	NR	_	4	nmod:assmod	_	start_char=6|end_char=9
@@ -421,6 +466,8 @@
 47	出口	出口	NN	NN	_	32	conj	_	start_char=122|end_char=124
 48	。	。	PU	PU	_	6	punct	_	start_char=125|end_char=126
 
+# sent_id = gcdt_news_tiktok-18
+# text = 他说，如果它的国际业务要继续顺利运营，无论其新的所有者和运营者是谁，很可能都需要从中国境内向境外转让软件代码或其使用权，也可能需要从中国境内向境外提供技术服务。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	说	说	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -473,6 +520,8 @@
 50	服务	服务	NN	NN	_	48	dobj	_	start_char=126|end_char=128
 51	。	。	PU	PU	_	2	punct	_	start_char=129|end_char=130
 
+# sent_id = gcdt_news_tiktok-19
+# text = 崔凡建议，字节跳动认真研究调整后的目录，严肃并慎重考虑是否需要暂停相关交易的实质性谈判，履行好法定申报程序，然后再看情况采取进一步行动。
 1	崔凡	崔凡	NR	NR	_	2	nsubj	_	start_char=0|end_char=2
 2	建议	建议	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -512,6 +561,8 @@
 37	行动	行动	NN	NN	_	35	dobj	_	start_char=101|end_char=103
 38	。	。	PU	PU	_	2	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_news_tiktok-20
+# text = 字节跳动星期天没有回复路透社有关置评的请求。
 1	字节跳动	字节跳动	VV	VV	_	0	root	_	start_char=0|end_char=4
 2	星期天	星期天	NT	NT	_	4	nmod:tmod	_	start_char=5|end_char=8
 3	没有	没有	AD	AD	_	4	neg	_	start_char=9|end_char=11
@@ -523,6 +574,8 @@
 9	请求	请求	NN	NN	_	4	dobj	_	start_char=27|end_char=29
 10	。	。	PU	PU	_	4	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_news_tiktok-21
+# text = TikTok的母公司字节跳动8月24日正式启动对特朗普政府的司法诉讼程序，挑战特朗普总统8月6日签署的禁止与TikTok一切交易的行政命令。
 1	TikTok	TikTok	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=6
 2	的	的	DEG	DEG	_	1	case	_	start_char=7|end_char=8
 3	母公司	母公司	NN	NN	_	4	nsubj	_	start_char=9|end_char=12
@@ -556,6 +609,8 @@
 31	命令	命令	NN	NN	_	17	dobj	_	start_char=97|end_char=99
 32	。	。	PU	PU	_	8	punct	_	start_char=100|end_char=101
 
+# sent_id = gcdt_news_tiktok-22
+# text = 中国官媒中新网说，字节跳动宣布正式起诉的同时，开始准备美国业务的“关停预案”。
 1	中国	中国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	官媒	官媒	NN	NN	_	3	appos	_	start_char=3|end_char=5
 3	中新网	中新网	NR	NR	_	4	nsubj	_	start_char=6|end_char=9
@@ -579,6 +634,8 @@
 21	”	”	PU	PU	_	20	punct	_	start_char=57|end_char=58
 22	。	。	PU	PU	_	4	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_news_tiktok-23
+# text = 这个高调起诉行动引发了对字节跳动是正当维权还是政治操弄的探讨。
 1	这	这	DT	DT	_	5	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	高调	高调	NN	NN	_	5	compound:nn	_	start_char=4|end_char=6
@@ -598,6 +655,8 @@
 17	探讨	探讨	NN	NN	_	6	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	6	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_news_tiktok-24
+# text = 有观察人士认为，中国以种种理由把谷歌搜索引擎、脸书和推特拒之门外，美国就算不以国家安全为由，单凭对等原则就应该对中国资讯软件下手。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	观察	观察	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	人士	人士	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -639,6 +698,8 @@
 39	下手	下手	VV	VV	_	18	conj	_	start_char=100|end_char=102
 40	。	。	PU	PU	_	1	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_news_tiktok-25
+# text = 中国官媒则指责美国以国家安全为借口来围堵中国，认为字节跳动起诉特朗普政府是企业正当的维权举动。
 1	中国	中国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	官媒	官媒	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	则	则	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -666,6 +727,8 @@
 25	举动	举动	NN	NN	_	15	ccomp	_	start_char=68|end_char=70
 26	。	。	PU	PU	_	4	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_news_tiktok-26
+# text = 纽约城市大学亨特学院兼任教授滕彪对美国之音说，由于字节跳动并不是一般意义的私营企业，美国政府以国家安全为由下达这个行政命令有其正当性。
 1	纽约	纽约	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	城市	城市	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	大学	大学	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8
@@ -705,6 +768,8 @@
 37	正当性	正当性	NN	NN	_	35	dobj	_	start_char=99|end_char=102
 38	。	。	PU	PU	_	11	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_news_tiktok-27
+# text = 美国官员担心字节跳动会把美国用户的数据资料转交给中国政府，字节跳动对此予以否认。
 1	美国	美国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	官员	官员	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	担心	担心	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -728,6 +793,8 @@
 21	否认	否认	NN	NN	_	20	dobj	_	start_char=57|end_char=59
 22	。	。	PU	PU	_	3	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_news_tiktok-28
+# text = TikTok在美国目前有高达8千万活跃用户。
 1	TikTok	TikTok	NR	NR	_	5	nsubj	_	start_char=0|end_char=6
 2	在	在	P	P	_	3	case	_	start_char=7|end_char=8
 3	美国	美国	NR	NR	_	5	nmod:prep	_	start_char=9|end_char=11

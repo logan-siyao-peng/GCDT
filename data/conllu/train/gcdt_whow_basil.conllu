@@ -1,7 +1,22 @@
+# newdoc id = gcdt_whow_basil
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E7%A7%8D%E6%A4%8D%E7%BD%97%E5%8B%92
+# meta::speakerCount = 0
+# meta::title = 如何种植罗勒
+# meta::shortTitle = basil
+# meta::author = wikiHow员工
+# meta::genre = whow
+# meta::partition = train
+# sent_id = gcdt_whow_basil-1
+# text = 如何种植罗勒
 1	如何	如何	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	种植	种植	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	罗勒	罗勒	NR	NR	_	2	dobj	_	start_char=6|end_char=8
 
+# sent_id = gcdt_whow_basil-2
+# text = 罗勒是富有香气的调味料，能给普通的料理带来魔力的效果，而且容易种植。
 1	罗勒	罗勒	NR	NR	_	6	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	6	cop	_	start_char=3|end_char=4
 3	富有	富有	VV	VV	_	6	acl	_	start_char=5|end_char=7
@@ -24,6 +39,8 @@
 20	种植	种植	VV	VV	_	13	conj	_	start_char=50|end_char=52
 21	。	。	PU	PU	_	6	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_basil-3
+# text = 新鲜的罗勒和干罗勒的味道很不同，甚至像是两种完全不同的香草一样。
 1	新鲜	新鲜	VA	VA	_	3	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	罗勒	罗勒	NR	NR	_	8	conj	_	start_char=5|end_char=7
@@ -46,6 +63,8 @@
 20	一样	一样	VA	VA	_	10	conj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	10	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_basil-4
+# text = 当然，新鲜的罗勒比干罗勒更加可口。
 1	当然	当然	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	10	punct	_	start_char=3|end_char=4
 3	新鲜	新鲜	VA	VA	_	5	amod	_	start_char=5|end_char=7
@@ -58,6 +77,8 @@
 10	可口	可口	VA	VA	_	0	root	_	start_char=23|end_char=25
 11	。	。	PU	PU	_	10	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_whow_basil-5
+# text = 读读这篇文章，来看看如何种植和收获罗勒。
 1	读读	读读	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	4	det	_	start_char=3|end_char=4
 3	篇	篇	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -72,11 +93,17 @@
 12	罗勒	罗勒	NR	NR	_	11	dobj	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	1	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_basil-6
+# text = 方法1
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_basil-7
+# text = 播种
 1	播种	播种	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_whow_basil-8
+# text = 1 选择你想要种植的品种。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	选择	选择	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -86,6 +113,8 @@
 7	品种	品种	NN	NN	_	2	dobj	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	2	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_basil-9
+# text = 罗勒有很多品种，每一种的香味都不同。
 1	罗勒	罗勒	NR	NR	_	2	dep	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	很多	很多	CD	CD	_	4	dep	_	start_char=5|end_char=7
@@ -100,6 +129,8 @@
 12	不同	不同	VA	VA	_	2	conj	_	start_char=26|end_char=28
 13	。	。	PU	PU	_	2	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_basil-10
+# text = 查一查相关的资料，并找一种或几种你喜欢的品种来种植。
 1	查	查	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	一	一	AD	AD	_	1	dep	_	start_char=2|end_char=3
 3	查	查	VV	VV	_	1	dep	_	start_char=4|end_char=5
@@ -122,6 +153,8 @@
 20	种植	种植	VV	VV	_	9	ccomp	_	start_char=42|end_char=44
 21	。	。	PU	PU	_	1	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_basil-11
+# text = 你可以从花店买到相应的种子。
 1	你	你	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	5	aux:modal	_	start_char=2|end_char=4
 3	从	从	P	P	_	4	case	_	start_char=5|end_char=6
@@ -132,6 +165,8 @@
 8	种子	种子	NN	NN	_	5	dobj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	5	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_basil-12
+# text = 先来看看我们的推荐：
 1	先	先	AD	AD	_	3	advmod	_	start_char=0|end_char=1
 2	来	来	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
 3	看看	看看	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -140,6 +175,8 @@
 6	推荐	推荐	NN	NN	_	3	dobj	_	start_char=12|end_char=14
 7	：	：	PU	PU	_	3	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_basil-13
+# text = 肉桂罗勒有甜香的味道，并能开出香气迷人的漂亮花朵。
 1	肉桂	肉桂	NN	NN	_	2	appos	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	3	dep	_	start_char=3|end_char=5
 3	有	有	VE	VE	_	0	root	_	start_char=6|end_char=7
@@ -157,6 +194,8 @@
 15	花朵	花朵	NN	NN	_	10	dobj	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	3	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_basil-14
+# text = 柠檬罗勒中含有柠檬醛。
 1	柠檬	柠檬	NN	NN	_	2	appos	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	4	advmod:loc	_	start_char=3|end_char=5
 3	中	中	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -164,6 +203,8 @@
 5	柠檬醛	柠檬醛	NR	NR	_	4	dobj	_	start_char=11|end_char=14
 6	。	。	PU	PU	_	4	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_basil-15
+# text = 柠檬醛是柑橘类水果的香味成分，柠檬罗勒闻起来也有浓郁的柠檬味道。
 1	柠檬醛	柠檬醛	NR	NR	_	7	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	7	cop	_	start_char=4|end_char=5
 3	柑橘类	柑橘类	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -184,6 +225,8 @@
 18	味道	味道	NN	NN	_	14	dobj	_	start_char=46|end_char=48
 19	。	。	PU	PU	_	7	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_basil-16
+# text = 紫色罗勒多为观赏用，香味迷人，花朵艳丽。
 1	紫色	紫色	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	5	nsubj	_	start_char=3|end_char=5
 3	多	多	AD	AD	_	5	advmod	_	start_char=6|end_char=7
@@ -198,6 +241,8 @@
 12	艳丽	艳丽	VA	VA	_	9	conj	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	5	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_basil-17
+# text = 还有一些罗勒为多年生，在枯萎后下一年还会继续长出来。
 1	还	还	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	0	root	_	start_char=2|end_char=3
 3	一些	一些	CD	CD	_	4	dep	_	start_char=4|end_char=6
@@ -220,6 +265,8 @@
 20	出来	出来	VV	VV	_	19	advmod:rcomp	_	start_char=42|end_char=44
 21	。	。	PU	PU	_	2	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_basil-18
+# text = 比如非洲蓝罗勒（这种罗勒的叶子上有蓝色的纹理）和泰国罗勒。
 1	比如	比如	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	非洲	非洲	NR	NR	_	3	name	_	start_char=3|end_char=5
 3	蓝罗勒	蓝罗勒	NR	NR	_	11	nsubj	_	start_char=6|end_char=9
@@ -240,6 +287,8 @@
 18	罗勒	罗勒	NR	NR	_	11	dobj	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	11	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_whow_basil-19
+# text = 但是大多数的罗勒都是一年生，你必须每年种一批新的才行。
 1	但是	但是	AD	AD	_	9	advmod	_	start_char=0|end_char=2
 2	大多数	大多数	CD	CD	_	4	nummod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -263,6 +312,8 @@
 21	行	行	VV	VV	_	9	conj	_	start_char=45|end_char=46
 22	。	。	PU	PU	_	9	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_basil-20
+# text = 希腊罗勒和香球罗勒比较难养，但是能长出叶株紧密的小束，适合观赏和园艺。
 1	希腊	希腊	NR	NR	_	2	name	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	5	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	5	cc	_	start_char=6|end_char=7
@@ -285,12 +336,16 @@
 20	园艺	园艺	NN	NN	_	17	dobj	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	7	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_basil-21
+# text = 2 在室内播种。
 1	2	2	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	室内	室内	NN	NN	_	4	nmod:prep	_	start_char=4|end_char=6
 4	播种	播种	VV	VV	_	0	root	_	start_char=7|end_char=9
 5	。	。	PU	PU	_	4	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_basil-22
+# text = 在最后一次霜冻的4-6星期前在室内播种。
 1	在	在	P	P	_	10	case	_	start_char=0|end_char=1
 2	最后	最后	JJ	JJ	_	3	amod	_	start_char=2|end_char=4
 3	一	一	CD	CD	_	5	dep	_	start_char=5|end_char=6
@@ -307,6 +362,8 @@
 14	播种	播种	VV	VV	_	0	root	_	start_char=30|end_char=32
 15	。	。	PU	PU	_	14	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_basil-23
+# text = 罗勒喜暖喜阳，在室内播种更为保险，能防止罗勒被霜冻侵害。
 1	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
 2	喜暖	喜暖	VV	VV	_	3	compound:vc	_	start_char=3|end_char=5
 3	喜阳	喜阳	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -326,6 +383,8 @@
 17	侵害	侵害	VV	VV	_	13	ccomp	_	start_char=41|end_char=43
 18	。	。	PU	PU	_	3	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_basil-24
+# text = 如果你居住在比较炎热的地区，则也可以在室外播种。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	居住	居住	VV	VV	_	15	dep	_	start_char=5|end_char=7
@@ -343,6 +402,8 @@
 15	播种	播种	VV	VV	_	0	root	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	15	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_basil-25
+# text = 如果你不知道什么时候是最后一次霜冻，可以查查万年历，或是问问当地的园丁。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	不	不	AD	AD	_	4	neg	_	start_char=5|end_char=6
@@ -366,6 +427,8 @@
 21	园丁	园丁	NN	NN	_	18	dobj	_	start_char=53|end_char=55
 22	。	。	PU	PU	_	14	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_basil-26
+# text = 3 准备好播种的容器和土壤。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	准备	准备	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	好	好	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -376,6 +439,8 @@
 8	土壤	土壤	NN	NN	_	2	dobj	_	start_char=17|end_char=19
 9	。	。	PU	PU	_	2	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_basil-27
+# text = 在方盆或是单独的容器里填上同等分量的蛭石、珍珠岩和泥炭土。
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	方盆	方盆	NN	NN	_	6	conj	_	start_char=2|end_char=4
 3	或是	或是	CC	CC	_	6	cc	_	start_char=5|end_char=7
@@ -394,6 +459,8 @@
 16	泥炭土	泥炭土	NN	NN	_	0	root	_	start_char=40|end_char=43
 17	。	。	PU	PU	_	16	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_basil-28
+# text = 轻压土壤来排除空气。
 1	轻压	轻压	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	土壤	土壤	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	来	来	MSP	MSP	_	4	aux:prtmod	_	start_char=6|end_char=7
@@ -401,6 +468,8 @@
 5	空气	空气	NN	NN	_	4	dobj	_	start_char=11|end_char=13
 6	。	。	PU	PU	_	4	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_whow_basil-29
+# text = 把土壤用水打湿，为种子发芽准备好合适的环境。
 1	把	把	BA	BA	_	5	aux:ba	_	start_char=0|end_char=1
 2	土壤	土壤	NN	NN	_	5	dep	_	start_char=2|end_char=4
 3	用	用	P	P	_	4	case	_	start_char=5|end_char=6
@@ -417,10 +486,14 @@
 14	环境	环境	NN	NN	_	10	dobj	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	5	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_whow_basil-30
+# text = 4 播种。
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	播种	播种	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	。	。	PU	PU	_	2	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_whow_basil-31
+# text = 在每个容器里埋入一到两颗种子，再轻轻盖上一层泥土。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	每	每	DT	DT	_	4	det	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -441,6 +514,8 @@
 18	泥土	泥土	NN	NN	_	15	dobj	_	start_char=39|end_char=41
 19	。	。	PU	PU	_	6	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_basil-32
+# text = 用塑料薄膜把花盆缠好，让土壤保持湿润。
 1	用	用	P	P	_	3	case	_	start_char=0|end_char=1
 2	塑料	塑料	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	薄膜	薄膜	NN	NN	_	6	nmod:prep	_	start_char=5|end_char=7
@@ -454,6 +529,8 @@
 11	湿润	湿润	NN	NN	_	10	dobj	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	6	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_basil-33
+# text = 把花盆放在朝阳的窗下，每天揭开薄膜两次，向泥土中洒水来保持湿润。
 1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
 2	花盆	花盆	NN	NN	_	3	dep	_	start_char=2|end_char=4
 3	放在	放在	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -477,6 +554,8 @@
 21	湿润	湿润	NN	NN	_	20	dobj	_	start_char=49|end_char=51
 22	。	。	PU	PU	_	3	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_whow_basil-34
+# text = 5 在种子发芽后移除塑料薄膜。
 1	5	5	CD	CD	_	6	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	4	case	_	start_char=2|end_char=3
 3	种子	种子	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -487,6 +566,8 @@
 8	薄膜	薄膜	NN	NN	_	6	dobj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	6	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_basil-35
+# text = 当看到第一束卷须状绿苗从土壤中钻出来时，就是移除薄膜的时候了。
 1	当	当	P	P	_	2	case	_	start_char=0|end_char=1
 2	看到	看到	VV	VV	_	19	nmod:prep	_	start_char=2|end_char=4
 3	第一	第一	OD	OD	_	5	nummod	_	start_char=5|end_char=7
@@ -509,6 +590,8 @@
 20	了	了	SP	SP	_	21	discourse	_	start_char=48|end_char=49
 21	。	。	PU	PU	_	0	root	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_basil-36
+# text = 每天给嫩芽浇两次水，千万不要让土壤完全干掉。
 1	每	每	DT	DT	_	5	dep	_	start_char=0|end_char=1
 2	天	天	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	给	给	P	P	_	4	case	_	start_char=4|end_char=5
@@ -527,6 +610,8 @@
 16	干掉	干掉	VV	VV	_	13	ccomp	_	start_char=34|end_char=36
 17	。	。	PU	PU	_	13	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_whow_basil-37
+# text = 当植物长到几厘米高，叶子也逐渐成熟时，就可以把罗勒移到大的容器里了。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	植物	植物	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	长到	长到	VV	VV	_	18	nmod:prep	_	start_char=5|end_char=7
@@ -552,16 +637,24 @@
 23	了	了	SP	SP	_	24	discourse	_	start_char=54|end_char=55
 24	。	。	PU	PU	_	0	root	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_basil-38
+# text = 方法2
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_basil-39
+# text = 照顾罗勒
 1	照顾	照顾	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_whow_basil-40
+# text = 1 移盆。
 1	1	1	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	移盆	移盆	NN	NN	_	0	root	_	start_char=2|end_char=4
 3	。	。	PU	PU	_	2	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_whow_basil-41
+# text = 当罗勒长出1-2枝成熟的叶子后，你就可以把罗勒移到花园或是正式的花盆里了。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
 3	长出	长出	VV	VV	_	18	nmod:prep	_	start_char=5|end_char=7
@@ -589,6 +682,8 @@
 25	了	了	SP	SP	_	26	discourse	_	start_char=59|end_char=60
 26	。	。	PU	PU	_	0	root	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_basil-42
+# text = 罗勒不耐冻，所以不要过早移到户外。
 1	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
 2	不	不	AD	AD	_	3	neg	_	start_char=3|end_char=4
 3	耐冻	耐冻	VA	VA	_	0	root	_	start_char=5|end_char=7
@@ -602,6 +697,8 @@
 11	户外	户外	NN	NN	_	10	dobj	_	start_char=24|end_char=26
 12	。	。	PU	PU	_	3	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_whow_basil-43
+# text = 最好是把罗勒移到有充足光照的地方、种在排水性良好的土壤里。-LSB-1-RSB-
 1	最好	最好	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	5	cop	_	start_char=3|end_char=4
 3	把	把	BA	BA	_	5	aux:ba	_	start_char=5|end_char=6
@@ -625,6 +722,8 @@
 21	1	1	CD	CD	_	22	dep	_	start_char=54|end_char=55
 22	-RSB-	-RSB-	X	X	_	5	dep	_	start_char=56|end_char=61
 
+# sent_id = gcdt_whow_basil-44
+# text = 如果你想在花园里种植罗勒，就每15厘米远挖一个洞，把罗勒的根埋在洞里，把土填到茎的部位。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	15	dep	_	start_char=5|end_char=6
@@ -659,6 +758,8 @@
 32	部位	部位	NN	NN	_	29	dobj	_	start_char=72|end_char=74
 33	。	。	PU	PU	_	15	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_whow_basil-45
+# text = 稍微把土压实一点，来排出土壤中的空气。
 1	稍微	稍微	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	把	把	BA	BA	_	4	aux:ba	_	start_char=3|end_char=4
 3	土	土	NN	NN	_	4	dep	_	start_char=5|end_char=6
@@ -673,6 +774,8 @@
 12	空气	空气	NN	NN	_	8	dobj	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	4	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_basil-46
+# text = 如果你想在某种容器里种植罗勒，那么请确保容器够大，能容下你种植的所有罗勒。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	14	dep	_	start_char=5|end_char=6
@@ -700,6 +803,8 @@
 25	罗勒	罗勒	NR	NR	_	20	dobj	_	start_char=58|end_char=60
 26	。	。	PU	PU	_	14	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_basil-47
+# text = 由于罗勒会长大很大，所以每株罗勒之间至少留出15厘米的距离。
 1	由于	由于	P	P	_	4	case	_	start_char=0|end_char=2
 2	罗勒	罗勒	NR	NR	_	4	nsubj	_	start_char=3|end_char=5
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=6|end_char=7
@@ -720,6 +825,8 @@
 18	距离	距离	NN	NN	_	14	dobj	_	start_char=44|end_char=46
 19	。	。	PU	PU	_	14	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_basil-48
+# text = 2 保持土壤湿润，但是不要让土壤水汪汪的。
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	保持	保持	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	土壤	土壤	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -734,6 +841,8 @@
 12	的	的	SP	SP	_	9	discourse	_	start_char=29|end_char=30
 13	。	。	PU	PU	_	2	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_basil-49
+# text = 罗勒在排水性好的土壤里才能长得好，不能一直泡在水里。
 1	罗勒	罗勒	NR	NR	_	12	nsubj	_	start_char=0|end_char=2
 2	在	在	P	P	_	6	case	_	start_char=3|end_char=4
 3	排水性	排水性	NN	NN	_	4	nsubj	_	start_char=5|end_char=8
@@ -754,6 +863,8 @@
 18	水里	水里	NN	NN	_	17	dobj	_	start_char=40|end_char=42
 19	。	。	PU	PU	_	12	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_basil-50
+# text = 对成熟的罗勒，每天早上应浇一次水，来给罗勒充分的时间来吸收和蒸发水分，防止土壤晚上干掉。
 1	对	对	P	P	_	4	case	_	start_char=0|end_char=1
 2	成熟	成熟	VA	VA	_	4	amod	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	2	mark	_	start_char=5|end_char=6
@@ -786,11 +897,15 @@
 30	干掉	干掉	VV	VV	_	27	ccomp	_	start_char=70|end_char=72
 31	。	。	PU	PU	_	10	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_whow_basil-51
+# text = 3 掐掉花骨朵。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	掐掉	掐掉	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	花骨朵	花骨朵	NN	NN	_	2	dobj	_	start_char=5|end_char=8
 4	。	。	PU	PU	_	2	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_whow_basil-52
+# text = 当罗勒开花时，把花和花下面的两片叶子都掐掉。
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
 3	开花	开花	VV	VV	_	16	nmod:prep	_	start_char=5|end_char=7
@@ -810,6 +925,8 @@
 17	掉	掉	VV	VV	_	16	advmod:rcomp	_	start_char=36|end_char=37
 18	。	。	PU	PU	_	16	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_basil-53
+# text = 开花会让罗勒的荷尔蒙发成变化，减少罗勒的香气，并让罗勒长出的叶子减少。
 1	开花	开花	VV	VV	_	3	dep	_	start_char=0|end_char=2
 2	会	会	VV	VV	_	3	aux:modal	_	start_char=3|end_char=4
 3	让	让	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -833,6 +950,8 @@
 21	减少	减少	VV	VV	_	16	ccomp	_	start_char=52|end_char=54
 22	。	。	PU	PU	_	3	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_whow_basil-54
+# text = 这种开花结子的现象多在阳光特别充足的情况下发生。
 1	这	这	DT	DT	_	4	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	开花	开花	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -850,6 +969,8 @@
 15	发生	发生	VV	VV	_	0	root	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	15	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_basil-55
+# text = 如果你不掐掉花骨朵，你会发现罗勒的叶子越来越瘦长，也不会像原来那样这么香气浓郁了。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	不	不	AD	AD	_	4	neg	_	start_char=5|end_char=6
@@ -878,6 +999,8 @@
 26	了	了	SP	SP	_	24	discourse	_	start_char=64|end_char=65
 27	。	。	PU	PU	_	9	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_basil-56
+# text = 4 注意虫害和霉菌。
 1	4	4	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	注意	注意	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	虫害	虫害	NN	NN	_	5	conj	_	start_char=5|end_char=7
@@ -885,6 +1008,8 @@
 5	霉菌	霉菌	NN	NN	_	2	dobj	_	start_char=10|end_char=12
 6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_whow_basil-57
+# text = 罗勒容易吸引日本甲虫。
 1	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
 2	容易	容易	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	吸引	吸引	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -892,6 +1017,8 @@
 5	甲虫	甲虫	NN	NN	_	3	dobj	_	start_char=12|end_char=14
 6	。	。	PU	PU	_	3	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_basil-58
+# text = 除虫害的最好方法就亲手把甲虫挑出并捉下来。-LSB-2-RSB- 
 1	除	除	P	P	_	5	case	_	start_char=0|end_char=1
 2	虫害	虫害	NN	NN	_	5	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -910,6 +1037,8 @@
 16	2	2	CD	CD	_	17	dep	_	start_char=41|end_char=42
 17	-RSB-	-RSB-	NN	NN	_	10	dep	_	start_char=43|end_char=48
 
+# sent_id = gcdt_whow_basil-59
+# text = 如果你的罗勒有被霉菌侵害的倾向，那证明它们可能阳光不够，或是长得太密。
 1	如果	如果	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -936,6 +1065,8 @@
 24	密	密	VA	VA	_	18	conj	_	start_char=56|end_char=57
 25	。	。	PU	PU	_	13	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_whow_basil-60
+# text = 把小的罗勒挖出来，给大罗勒充分的空间生长。
 1	把	把	BA	BA	_	5	aux:ba	_	start_char=0|end_char=1
 2	小	小	VA	VA	_	4	amod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -952,14 +1083,20 @@
 14	生长	生长	VV	VV	_	5	conj	_	start_char=31|end_char=33
 15	。	。	PU	PU	_	5	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_basil-61
+# text = 方法3
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	3	3	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_basil-62
+# text = 收获和使用罗勒
 1	收获	收获	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	1	cc	_	start_char=3|end_char=4
 3	使用	使用	VV	VV	_	1	conj	_	start_char=5|end_char=7
 4	罗勒	罗勒	NR	NR	_	3	dobj	_	start_char=8|end_char=10
 
+# sent_id = gcdt_whow_basil-63
+# text = 1 收获和摘心。-LSB-3-RSB- 
 1	1	1	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	收获	收获	NN	NN	_	4	conj	_	start_char=2|end_char=4
 3	和	和	CC	CC	_	4	cc	_	start_char=5|end_char=6
@@ -969,6 +1106,8 @@
 7	3	3	CD	CD	_	8	dep	_	start_char=18|end_char=19
 8	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=20|end_char=25
 
+# sent_id = gcdt_whow_basil-64
+# text = 随着植物的成熟，当罗勒长得够高的时候，就把最顶上的两片叶子摘掉。
 1	随着	随着	P	P	_	4	case	_	start_char=0|end_char=2
 2	植物	植物	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -994,6 +1133,8 @@
 23	摘掉	摘掉	VV	VV	_	0	root	_	start_char=51|end_char=53
 24	。	。	PU	PU	_	23	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_basil-65
+# text = 如果你仔细观察，就会发现每片叶子的根部都有两片嫩叶，如果你切掉它们之间的茎，这两片嫩叶就会长出来。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	仔细	仔细	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -1033,6 +1174,8 @@
 37	出来	出来	VV	VV	_	36	advmod:rcomp	_	start_char=82|end_char=84
 38	。	。	PU	PU	_	8	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_whow_basil-66
+# text = 在摘心时，尽量靠近嫩叶来切，但是注意不要伤到这两片叶子。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	摘心	摘心	VV	VV	_	6	nmod:prep	_	start_char=2|end_char=4
 3	时	时	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -1055,6 +1198,8 @@
 20	叶子	叶子	NN	NN	_	16	dobj	_	start_char=44|end_char=46
 21	。	。	PU	PU	_	6	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_basil-67
+# text = 摘心能让植物更有活力，促进强壮的茎和叶的继续生长。
 1	摘心	摘心	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	能	能	VV	VV	_	3	aux:modal	_	start_char=3|end_char=4
 3	让	让	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -1074,6 +1219,8 @@
 17	生长	生长	VV	VV	_	9	ccomp	_	start_char=38|end_char=40
 18	。	。	PU	PU	_	3	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_whow_basil-68
+# text = 这也会让植物长得更茂密。-LSB-4-RSB-
 1	这	这	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -1088,6 +1235,8 @@
 12	4	4	CD	CD	_	11	dep	_	start_char=28|end_char=29
 13	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=30|end_char=35
 
+# sent_id = gcdt_whow_basil-69
+# text = 不要掐掉茎的下端，否则罗勒会长得瘦而稀疏。
 1	不	不	AD	AD	_	3	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
 3	掐掉	掐掉	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -1105,6 +1254,8 @@
 15	稀疏	稀疏	VA	VA	_	3	conj	_	start_char=32|end_char=34
 16	。	。	PU	PU	_	3	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_whow_basil-70
+# text = 你想要的是茂密的罗勒。
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	想要	想要	VV	VV	_	7	nsubj	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	2	mark	_	start_char=5|end_char=6
@@ -1114,6 +1265,8 @@
 7	罗勒	罗勒	NR	NR	_	0	root	_	start_char=14|end_char=16
 8	。	。	PU	PU	_	7	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_whow_basil-71
+# text = 所以摘心一定要从顶上摘。
 1	所以	所以	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	摘心	摘心	NN	NN	_	7	nsubj	_	start_char=3|end_char=5
 3	一定	一定	AD	AD	_	7	advmod	_	start_char=6|end_char=8
@@ -1123,6 +1276,8 @@
 7	摘	摘	VV	VV	_	0	root	_	start_char=16|end_char=17
 8	。	。	PU	PU	_	7	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_basil-72
+# text = 2 享受新鲜的罗勒。
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	享受	享受	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	新鲜	新鲜	VA	VA	_	5	amod	_	start_char=5|end_char=7
@@ -1130,6 +1285,8 @@
 5	罗勒	罗勒	NR	NR	_	2	dobj	_	start_char=10|end_char=12
 6	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_whow_basil-73
+# text = 把罗勒洗干净后，就可以用它们做绿酱，或是用西红柿和马苏里芝士做成番茄芝士沙拉。
 1	把	把	BA	BA	_	11	aux:ba	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
 3	洗	洗	VV	VV	_	11	advcl:loc	_	start_char=5|end_char=6
@@ -1155,6 +1312,8 @@
 23	沙拉	沙拉	NN	NN	_	20	dobj	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	11	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_basil-74
+# text = 3 把罗勒放在冰箱里保存。
 1	3	3	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	把	把	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	罗勒	罗勒	NR	NR	_	4	nsubj	_	start_char=4|end_char=6
@@ -1164,6 +1323,8 @@
 7	保存	保存	VV	VV	_	4	conj	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	4	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_basil-75
+# text = 你可能会收获很多罗勒，一顿也吃不了，可以计划把罗勒放在冰箱里保存。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	可能	可能	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
@@ -1188,6 +1349,8 @@
 22	保存	保存	VV	VV	_	19	conj	_	start_char=51|end_char=53
 23	。	。	PU	PU	_	4	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_basil-76
+# text = 把叶子洗干净，晾干，用纸毛巾包好放在密封保鲜盒里放入冰箱。
 1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
 2	叶子	叶子	NN	NN	_	3	dep	_	start_char=2|end_char=4
 3	洗	洗	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -1206,11 +1369,15 @@
 16	冰箱	冰箱	NN	NN	_	15	dobj	_	start_char=41|end_char=43
 17	。	。	PU	PU	_	3	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_basil-77
+# text = 4 冰冻罗勒。
 1	4	4	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	冰冻	冰冻	NN	NN	_	3	appos	_	start_char=2|end_char=4
 3	罗勒	罗勒	NR	NR	_	0	root	_	start_char=5|end_char=7
 4	。	。	PU	PU	_	3	punct	_	start_char=8|end_char=9
 
+# sent_id = gcdt_whow_basil-78
+# text = 直接把罗勒叶子冻起来并不是什么好主意。
 1	直接	直接	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	把	把	BA	BA	_	5	aux:ba	_	start_char=3|end_char=4
 3	罗勒	罗勒	NR	NR	_	4	compound:nn	_	start_char=5|end_char=7
@@ -1224,6 +1391,8 @@
 11	主意	主意	NN	NN	_	0	root	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	11	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_basil-79
+# text = 但是如果先把罗勒打成泥，就可以在冷冻室储藏好几个月。
 1	但是	但是	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	如果	如果	CS	CS	_	6	advmod	_	start_char=3|end_char=5
 3	先	先	AD	AD	_	6	advmod	_	start_char=6|end_char=7
@@ -1242,6 +1411,8 @@
 16	月	月	NN	NN	_	13	dobj	_	start_char=39|end_char=40
 17	。	。	PU	PU	_	13	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_whow_basil-80
+# text = 把罗勒放入搅拌机，加上一点水，打成泥状，再把罗勒泥放到保鲜袋内放入冷冻室保存，在需要时取出即可。-LSB-5-RSB-
 1	把	把	BA	BA	_	3	aux:ba	_	start_char=0|end_char=1
 2	罗勒	罗勒	NR	NR	_	3	dep	_	start_char=2|end_char=4
 3	放入	放入	VV	VV	_	0	root	_	start_char=5|end_char=7

@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_galois
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-10-16
+# meta::sourceURL = https://zh.wikipedia.org/w/index.php?title=%E5%9F%83%E7%93%A6%E9%87%8C%E6%96%AF%E7%89%B9%C2%B7%E4%BC%BD%E7%BD%97%E7%93%A6&oldid=68237540
+# meta::speakerCount = 0
+# meta::title = 埃瓦里斯特·伽罗瓦
+# meta::shortTitle = galois
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_galois-1
+# text = 埃瓦里斯特·伽罗瓦
 1	埃瓦里斯特·伽罗瓦	埃瓦里斯特·伽罗瓦	NR	NR	_	0	root	_	start_char=0|end_char=9
 
+# sent_id = gcdt_bio_galois-2
+# text = 埃瓦里斯特·伽罗瓦（法语：Évariste Galois，1811年10月25日－1832年5月31日，法语发音： -LSB-evaʁist ɡalwa-RSB-），著名法国数学家。
 1	埃瓦里斯特·伽罗瓦	埃瓦里斯特·伽罗瓦	NR	NR	_	27	dep	_	start_char=0|end_char=9
 2	（	（	PU	PU	_	3	punct	_	start_char=10|end_char=11
 3	法语	法语	NN	NN	_	27	dep	_	start_char=12|end_char=14
@@ -29,6 +44,8 @@
 27	数学家	数学家	NN	NN	_	0	root	_	start_char=110|end_char=113
 28	。	。	PU	PU	_	27	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_bio_galois-3
+# text = 在他还只有十几岁的时候，他就发现了n次多项式可以用根式解的充要条件，解决了长期困扰数学界的问题。
 1	在	在	P	P	_	8	case	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	5	nsubj	_	start_char=2|end_char=3
 3	还	还	AD	AD	_	5	advmod	_	start_char=4|end_char=5
@@ -61,6 +78,8 @@
 30	问题	问题	NN	NN	_	24	dobj	_	start_char=74|end_char=76
 31	。	。	PU	PU	_	12	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_bio_galois-4
+# text = 他的工作为伽罗瓦理论（一个抽象代数的主要分支）以及伽罗瓦连接领域的研究奠定了基石。
 1	他	他	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	工作	工作	NN	NN	_	22	nsubj	_	start_char=4|end_char=6
@@ -87,6 +106,8 @@
 24	基石	基石	NN	NN	_	22	dobj	_	start_char=61|end_char=63
 25	。	。	PU	PU	_	22	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_bio_galois-5
+# text = 他是第一个使用“群”这一个数学术语来表示一组置换的人，与尼尔斯·阿贝尔并称为现代群论的创始人。
 1	他	他	PN	PN	_	15	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	15	cop	_	start_char=2|end_char=3
 3	第一	第一	OD	OD	_	13	nummod	_	start_char=4|end_char=6
@@ -118,6 +139,8 @@
 29	创始人	创始人	NN	NN	_	15	ccomp	_	start_char=71|end_char=74
 30	。	。	PU	PU	_	15	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_bio_galois-6
+# text = 在路易·菲利普复辟的时期，他是一个激进的共和主义者，并因此被逮捕、坐牢。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	路易·菲利普	路易·菲利普	NR	NR	_	3	nsubj	_	start_char=2|end_char=8
 3	复辟	复辟	VV	VV	_	5	acl	_	start_char=9|end_char=11
@@ -141,6 +164,8 @@
 21	坐牢	坐牢	VV	VV	_	19	conj	_	start_char=53|end_char=55
 22	。	。	PU	PU	_	14	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_bio_galois-7
+# text = 二十岁出狱后，他在一次几近自杀的决斗中逝世，引起种种揣测。
 1	二十	二十	CD	CD	_	3	dep	_	start_char=0|end_char=2
 2	岁	岁	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	出狱	出狱	VV	VV	_	17	advcl:loc	_	start_char=5|end_char=7
@@ -162,10 +187,16 @@
 19	揣测	揣测	NN	NN	_	17	dobj	_	start_char=44|end_char=46
 20	。	。	PU	PU	_	17	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_bio_galois-8
+# text = 生平
 1	生平	生平	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_galois-9
+# text = 出身
 1	出身	出身	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_galois-10
+# text = 伽罗瓦出生在法国皇后镇拉格兰德大街20号-LSB-1-RSB-的一个支持革命的-LSB-1-RSB-有着共和主义传统的知识分子家庭-LSB-2-RSB-中。
 1	伽罗瓦	伽罗瓦	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	出生	出生	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	在	在	P	P	_	18	case	_	start_char=7|end_char=8
@@ -201,6 +232,8 @@
 33	中	中	LC	LC	_	32	case	_	start_char=108|end_char=109
 34	。	。	PU	PU	_	2	punct	_	start_char=110|end_char=111
 
+# sent_id = gcdt_bio_galois-11
+# text = 他的祖父，是那个城市学校的校长，见证了1789年11月2号教会学校世俗化后市民大量涌入的历史。
 1	他	他	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	祖父	祖父	NN	NN	_	11	dep	_	start_char=4|end_char=6
@@ -229,6 +262,8 @@
 26	历史	历史	NN	NN	_	13	dobj	_	start_char=69|end_char=71
 27	。	。	PU	PU	_	11	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_bio_galois-12
+# text = 他的父亲，尼克拉－加布里埃尔·伽罗瓦（Nicolas-Gabriel Galois ，1775-1829），轮值机构负责人-LSB-1-RSB-，在百日王朝后，成为了皇后镇的自由派市长-LSB-2-RSB-直到因自杀而死。
 1	他	他	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	父亲	父亲	NN	NN	_	20	dep	_	start_char=4|end_char=6
@@ -271,6 +306,8 @@
 40	死	死	VV	VV	_	26	conj	_	start_char=146|end_char=147
 41	。	。	PU	PU	_	26	punct	_	start_char=148|end_char=149
 
+# sent_id = gcdt_bio_galois-13
+# text = 他的母亲阿德莱德－玛丽·德芒特（Adélaïde-Marie Demante，1788-1872）出身律师、法官之家-LSB-3-RSB-，能够流利地阅读拉丁文以及古典文学；他的姨母是安托万－玛丽·德芒特，更多体现为斯多亚学派，而不仅是基督教徒-LSB-2-RSB-。
 1	他	他	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	母亲	母亲	NN	NN	_	4	appos	_	start_char=4|end_char=6
@@ -325,6 +362,8 @@
 52	-RSB-	-RSB-	NN	NN	_	40	conj	_	start_char=178|end_char=183
 53	。	。	PU	PU	_	26	punct	_	start_char=184|end_char=185
 
+# sent_id = gcdt_bio_galois-14
+# text = 他家还另外有两个孩子：那塔利－提奥多和阿尔弗雷德，分别出生于1808年和1814年-LSB-4-RSB-。
 1	他	他	PN	PN	_	2	nmod:poss	_	start_char=0|end_char=1
 2	家	家	NN	NN	_	5	nsubj	_	start_char=2|end_char=3
 3	还	还	AD	AD	_	5	advmod	_	start_char=4|end_char=5
@@ -349,6 +388,8 @@
 22	-RSB-	-RSB-	NN	NN	_	15	nmod:prep	_	start_char=68|end_char=73
 23	。	。	PU	PU	_	5	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_bio_galois-15
+# text = 他们和埃瓦里斯特一样，在12岁之前都由他们的妈妈通过一些记忆练习教他们-LSB-3-RSB-一些人文学科-LSB-5-RSB-。
 1	他们	他	PN	PN	_	4	nsubj	_	start_char=0|end_char=2
 2	和	和	P	P	_	3	case	_	start_char=3|end_char=4
 3	埃瓦里斯特	埃瓦里斯特	NR	NR	_	4	nmod:prep	_	start_char=5|end_char=10
@@ -380,9 +421,13 @@
 29	-RSB-	-RSB-	NN	NN	_	19	dobj	_	start_char=86|end_char=91
 30	。	。	PU	PU	_	4	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_bio_galois-16
+# text = 早年生活
 1	早年	早年	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	生活	生活	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_galois-17
+# text = 1823年8月，11岁的伽罗瓦进入路易皇家中学就读，虽然在学期开始的时候学校有些动荡（有一百多名学生被开除），伽罗瓦却在前两年保持了很好的成绩，拉丁语还得了一等奖。
 1	1823年	1823年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	8月	8月	NT	NT	_	8	nmod:tmod	_	start_char=6|end_char=8
 3	，	，	PU	PU	_	8	punct	_	start_char=9|end_char=10
@@ -435,6 +480,8 @@
 50	奖	奖	NN	NN	_	47	dobj	_	start_char=129|end_char=130
 51	。	。	PU	PU	_	8	punct	_	start_char=131|end_char=132
 
+# sent_id = gcdt_bio_galois-18
+# text = 但他不久就对学校学习厌烦了，因为他14岁的时候开始跟随Vernier老师学习数学，并疯狂地爱上了数学，对于其他科目再也提不起任何兴趣了。
 1	但	但	AD	AD	_	7	advmod	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	7	nsubj	_	start_char=2|end_char=3
 3	不久	不久	NT	NT	_	7	nmod:tmod	_	start_char=4|end_char=6
@@ -478,6 +525,8 @@
 41	了	了	SP	SP	_	36	discourse	_	start_char=106|end_char=107
 42	。	。	PU	PU	_	7	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_bio_galois-19
+# text = 校方描述此时的伽罗瓦是“奇特、怪异、有原创力又封闭”。
 1	校方	校方	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	描述	描述	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	此时	此时	NT	NT	_	5	nmod	_	start_char=6|end_char=8
@@ -496,6 +545,8 @@
 16	”	”	PU	PU	_	8	punct	_	start_char=40|end_char=41
 17	。	。	PU	PU	_	2	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_bio_galois-20
+# text = 他找到了一本阿德里安-马里·勒让德的几何原理（Éléments de Géométrie），像小说一样地读完了它，并且在第一遍阅读就学会了。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	找到	找到	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=5|end_char=6
@@ -529,6 +580,8 @@
 31	了	了	AS	AS	_	30	aux:asp	_	start_char=96|end_char=97
 32	。	。	PU	PU	_	2	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_bio_galois-21
+# text = 15岁的时候他开始读约瑟夫·拉格朗日的原著，比如《关于方程代数解的思考》（Réflexions sur la résolution algébrique des équations，有可能正是因此，他后来专注于研究方程的解的理论）和《函数积分教程》（Leçons sur le calcul des fonctions，一本主要是面向专业数学工作者的书）。
 1	15	15	CD	CD	_	4	nummod	_	start_char=0|end_char=2
 2	岁	岁	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	1	case	_	start_char=5|end_char=6
@@ -601,6 +654,8 @@
 70	）	）	PU	PU	_	69	punct	_	start_char=234|end_char=235
 71	。	。	PU	PU	_	7	punct	_	start_char=236|end_char=237
 
+# sent_id = gcdt_bio_galois-22
+# text = 这之后不久，他的成绩就开始平庸了，他的老师指责他是受到了理想和创造性的负面影响-LSB-6-RSB-。
 1	这	这	PN	PN	_	10	advmod:loc	_	start_char=0|end_char=1
 2	之后	之后	LC	LC	_	1	case	_	start_char=2|end_char=4
 3	不久	不久	NT	NT	_	10	nmod:tmod	_	start_char=5|end_char=7
@@ -632,9 +687,13 @@
 29	-RSB-	-RSB-	NN	NN	_	19	dobj	_	start_char=73|end_char=78
 30	。	。	PU	PU	_	10	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_bio_galois-23
+# text = 结缘数学
 1	结缘	结缘	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	数学	数学	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_galois-24
+# text = 1829年3月1日伽罗瓦的第一份论文-LSB-7-RSB-出版了，是一份关于连分数的论文。
 1	1829年	1829年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	3月	3月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=8
 3	1日	1日	NT	NT	_	12	nmod:tmod	_	start_char=9|end_char=11
@@ -658,6 +717,8 @@
 21	论文	论文	NN	NN	_	12	conj	_	start_char=62|end_char=64
 22	。	。	PU	PU	_	12	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_bio_galois-25
+# text = 几乎同个时间，他开始了在多项式方程方面的研究。
 1	几乎	几乎	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	同	同	DT	DT	_	4	det	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -674,6 +735,8 @@
 14	研究	研究	NN	NN	_	7	dobj	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	7	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_bio_galois-26
+# text = 他将他两篇多项式方程方面的研究结果呈交给了法国科学院。
 1	他	他	PN	PN	_	12	nsubj	_	start_char=0|end_char=1
 2	将	将	BA	BA	_	12	aux:ba	_	start_char=2|end_char=3
 3	他	他	PN	PN	_	8	compound:nn	_	start_char=4|end_char=5
@@ -692,6 +755,8 @@
 16	科学院	科学院	NN	NN	_	12	dobj	_	start_char=38|end_char=41
 17	。	。	PU	PU	_	12	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_bio_galois-27
+# text = 这两篇论文由奥古斯丁·路易·柯西（Augustin Louis Cauchy）负责审阅，但都没有准许发表，其中的原因至今不明。
 1	这	这	DT	DT	_	4	det	_	start_char=0|end_char=1
 2	两	两	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	篇	篇	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -719,6 +784,8 @@
 25	不明	不明	VA	VA	_	12	conj	_	start_char=82|end_char=84
 26	。	。	PU	PU	_	12	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_bio_galois-28
+# text = 不过也有说法是柯西认识到了这两篇文章的重要性，只是建议把它们合并起来以期参加数学学术大奖的竞争。
 1	不过	不过	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	0	root	_	start_char=5|end_char=6
@@ -750,6 +817,8 @@
 29	竞争	竞争	NN	NN	_	24	dobj	_	start_char=73|end_char=75
 30	。	。	PU	PU	_	3	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_bio_galois-29
+# text = 柯西这位当时的一位极其杰出的数学家认为他的论文可能获奖-LSB-8-RSB-。
 1	柯西	柯西	NR	NR	_	11	nmod	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	11	det	_	start_char=3|end_char=4
 3	位	位	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -772,6 +841,8 @@
 20	-RSB-	-RSB-	NN	NN	_	17	dobj	_	start_char=52|end_char=57
 21	。	。	PU	PU	_	12	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_bio_galois-30
+# text = 之后伽罗瓦自信满满地投考他理想中的大学，法国声誉卓著的综合工科学校，而甚至都没有复习数学。
 1	之后	之后	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	伽罗瓦	伽罗瓦	NR	NR	_	6	nsubj	_	start_char=3|end_char=6
 3	自信	自信	NN	NN	_	6	nsubj	_	start_char=7|end_char=9
@@ -800,6 +871,8 @@
 26	数学	数学	NN	NN	_	25	dobj	_	start_char=67|end_char=69
 27	。	。	PU	PU	_	6	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_bio_galois-31
+# text = 但是他由于口试中没有解释清楚思路所以未能通过。
 1	但是	但是	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	7	nsubj	_	start_char=3|end_char=4
 3	由于	由于	P	P	_	4	case	_	start_char=5|end_char=7
@@ -814,6 +887,8 @@
 12	通过	通过	VV	VV	_	0	root	_	start_char=31|end_char=33
 13	。	。	PU	PU	_	12	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_bio_galois-32
+# text = 当时伽罗瓦的父亲在一场同当地牧师发生的痛苦的政治纷争中自杀身亡。
 1	当时	当时	NT	NT	_	19	nmod:tmod	_	start_char=0|end_char=2
 2	伽罗瓦	伽罗瓦	NR	NR	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -835,6 +910,8 @@
 19	身亡	身亡	VV	VV	_	0	root	_	start_char=47|end_char=49
 20	。	。	PU	PU	_	19	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_bio_galois-33
+# text = 几天后，伽罗瓦第二次尝试报考综合工科学校，可是又一次失败了。
 1	几	几	CD	CD	_	8	advmod:loc	_	start_char=0|end_char=1
 2	天	天	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	后	后	LC	LC	_	1	case	_	start_char=4|end_char=5
@@ -856,6 +933,8 @@
 19	了	了	AS	AS	_	18	aux:asp	_	start_char=46|end_char=47
 20	。	。	PU	PU	_	8	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_galois-34
+# text = 这时可以说伽罗瓦毫无疑问超过了“合格”的标准；但是不知为何他还是遭遇了失败。
 1	这时	这时	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=3|end_char=5
 3	说	说	VV	VV	_	0	root	_	start_char=6|end_char=7
@@ -881,6 +960,8 @@
 23	失败	失败	NN	NN	_	21	dobj	_	start_char=57|end_char=59
 24	。	。	PU	PU	_	3	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_bio_galois-35
+# text = 有传说说他对考官给他的题目毫无兴趣，甚至更让考官恼怒的是，他将擦黑板的抹布扔在了考官的脑袋上-LSB-9-RSB--LSB-10-RSB-。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	传说	传说	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	说	说	VV	VV	_	1	ccomp	_	start_char=5|end_char=6
@@ -922,6 +1003,8 @@
 39	-RSB-	-RSB-	NN	NN	_	28	dobj	_	start_char=102|end_char=107
 40	。	。	PU	PU	_	1	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_bio_galois-36
+# text = 看似合理些的解释说伽罗瓦在逻辑推理中跳了太多步骤，使得水准不高的考官跟不上他的思路，导致了他的愤怒。
 1	看似	看似	VV	VV	_	5	acl	_	start_char=0|end_char=2
 2	合理	合理	JJ	JJ	_	5	amod	_	start_char=3|end_char=5
 3	些	些	M	M	_	2	mark:clf	_	start_char=6|end_char=7
@@ -959,6 +1042,8 @@
 35	愤怒	愤怒	NN	NN	_	31	dobj	_	start_char=81|end_char=83
 36	。	。	PU	PU	_	6	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_bio_galois-37
+# text = 不过父亲的刚刚去世也许也是影响他表现的原因之一-LSB-6-RSB-。
 1	不过	不过	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	父亲	父亲	NN	NN	_	5	dep	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -978,6 +1063,8 @@
 17	-RSB-	-RSB-	NN	NN	_	14	parataxis:prnmod	_	start_char=45|end_char=50
 18	。	。	PU	PU	_	14	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_galois-38
+# text = 之后，伽罗瓦通过考试进入法国另一著名大学巴黎高等师范学校，现成为基础数学研究者的圣地，并在1829年12月29日获得了学位。
 1	之后	之后	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	伽罗瓦	伽罗瓦	NR	NR	_	6	nsubj	_	start_char=5|end_char=8
@@ -1012,6 +1099,8 @@
 32	学位	学位	NN	NN	_	30	dobj	_	start_char=90|end_char=92
 33	。	。	PU	PU	_	6	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_bio_galois-39
+# text = 他的数学考官曾说“这个孩子在表达他的想法时有些困难，但是他十分聪明，并体现出了非凡的学术精神”。
 1	他	他	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	数学	数学	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1047,9 +1136,13 @@
 33	”	”	PU	PU	_	18	punct	_	start_char=78|end_char=79
 34	。	。	PU	PU	_	6	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_bio_galois-40
+# text = 学生革命
 1	学生	学生	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	革命	革命	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_galois-41
+# text = 伽罗瓦在高等师范学校除了继续他的数学研究，也参加了政治活动。
 1	伽罗瓦	伽罗瓦	NR	NR	_	14	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	5	case	_	start_char=4|end_char=5
 3	高等	高等	JJ	JJ	_	5	amod	_	start_char=6|end_char=8
@@ -1069,6 +1162,8 @@
 17	活动	活动	NN	NN	_	14	dobj	_	start_char=43|end_char=45
 18	。	。	PU	PU	_	14	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_bio_galois-42
+# text = 1830年法国七月革命发生，保皇势力出亡，高等师范学校校长将学生锁在高墙内，引起伽罗瓦强烈不满，12月伽罗瓦在校报上抨击校长的作法，由于强烈支持共和主义，从1831年5月后，伽罗瓦两度因政治原因下狱，也曾企图自杀。
 1	1830年	1830年	NT	NT	_	5	nmod:tmod	_	start_char=0|end_char=5
 2	法国	法国	NR	NR	_	4	nmod:assmod	_	start_char=6|end_char=8
 3	七月	七月	NT	NT	_	5	nmod:tmod	_	start_char=9|end_char=11
@@ -1130,6 +1225,8 @@
 59	自杀	自杀	VV	VV	_	58	ccomp	_	start_char=162|end_char=164
 60	。	。	PU	PU	_	5	punct	_	start_char=165|end_char=166
 
+# sent_id = gcdt_bio_galois-43
+# text = 关于伽罗瓦的死亡众说纷纭，有一个说法是和人决斗，时间在三天后的正午。
 1	关于	关于	P	P	_	2	case	_	start_char=0|end_char=2
 2	伽罗瓦	伽罗瓦	NR	NR	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -1154,6 +1251,8 @@
 22	正午	正午	NN	NN	_	17	dobj	_	start_char=52|end_char=54
 23	。	。	PU	PU	_	5	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_bio_galois-44
+# text = 自知必死的伽罗瓦在决斗前三夜将他的所有数学成果狂笔疾书纪录下来，并时不时在一旁写下“我没有时间”，三天后，他在决斗中腹部中了3个子弹，躺了几天后身亡，时间是1832年5月31日。
 1	自	自	P	P	_	2	case	_	start_char=0|end_char=1
 2	知	知	VV	VV	_	6	acl	_	start_char=2|end_char=3
 3	必	必	VV	VV	_	4	xcomp	_	start_char=4|end_char=5
@@ -1216,6 +1315,8 @@
 60	31日	31日	NT	NT	_	54	conj	_	start_char=144|end_char=147
 61	。	。	PU	PU	_	20	punct	_	start_char=148|end_char=149
 
+# sent_id = gcdt_bio_galois-45
+# text = 这个传说富浪漫主义色彩，为后世史家所质疑-LSB-11-RSB-。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	传说	传说	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -1234,6 +1335,8 @@
 16	-RSB-	-RSB-	NN	NN	_	13	dobj	_	start_char=42|end_char=47
 17	。	。	PU	PU	_	13	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_bio_galois-46
+# text = 他的朋友Chevalier遵照伽罗瓦的遗愿，将他的数学论文寄给卡尔·弗里德里希·高斯与雅各比(又翻译作：雅可比)，但都石沉大海，一直到1843年，才由刘维尔肯定伽罗瓦结果之正确、独创与深邃，并在1846年将它发表。
 1	他	他	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	朋友	朋友	NN	NN	_	4	appos	_	start_char=4|end_char=6
@@ -1289,6 +1392,8 @@
 53	发表	发表	VV	VV	_	5	conj	_	start_char=156|end_char=158
 54	。	。	PU	PU	_	5	punct	_	start_char=159|end_char=160
 
+# sent_id = gcdt_bio_galois-47
+# text = 伽罗瓦使用群论的想法去讨论方程式的可解性，整套想法现称为伽罗瓦理论，是当代代数与数论的基本支柱之一。
 1	伽罗瓦	伽罗瓦	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	使用	使用	VV	VV	_	5	acl	_	start_char=4|end_char=6
 3	群论	群论	NN	NN	_	2	dobj	_	start_char=7|end_char=9
@@ -1318,6 +1423,8 @@
 27	之一	之一	NN	NN	_	7	conj	_	start_char=73|end_char=75
 28	。	。	PU	PU	_	7	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_bio_galois-48
+# text = 它直接推论的结果十分丰富：
 1	它	它	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	直接	直接	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	推论	推论	VV	VV	_	5	acl	_	start_char=5|end_char=7
@@ -1327,6 +1434,8 @@
 7	丰富	丰富	VA	VA	_	0	root	_	start_char=16|end_char=18
 8	：	：	PU	PU	_	7	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_bio_galois-49
+# text = 他系统化地阐释了为何五次以上之方程式没有根式解，而四次以下有根式解。
 1	他	他	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	系统化	系统化	VV	VV	_	4	advmod:dvp	_	start_char=2|end_char=5
 3	地	地	DEV	DEV	_	2	mark	_	start_char=6|end_char=7
@@ -1347,6 +1456,8 @@
 18	根式解	根式解	NN	NN	_	17	dobj	_	start_char=47|end_char=50
 19	。	。	PU	PU	_	4	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_galois-50
+# text = 他漂亮地证明高斯的论断：对所有质数 p，用尺规作图能作出正 p 边形当且仅当 p=2^{2^{k}}+1（所以正十七边形可做图）。
 1	他	他	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	漂亮	漂亮	VA	VA	_	4	advmod:dvp	_	start_char=2|end_char=4
 3	地	地	DEV	DEV	_	2	mark	_	start_char=5|end_char=6
@@ -1383,6 +1494,8 @@
 34	）	）	PU	PU	_	4	punct	_	start_char=92|end_char=93
 35	。	。	PU	PU	_	4	punct	_	start_char=94|end_char=95
 
+# sent_id = gcdt_bio_galois-51
+# text = 他解决了古代三大作图问题中的两个：“不能任意三等分角”，“倍立方不可能”。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	解决	解决	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=5|end_char=6
@@ -1411,6 +1524,8 @@
 26	”	”	PU	PU	_	25	punct	_	start_char=60|end_char=61
 27	。	。	PU	PU	_	2	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_bio_galois-52
+# text = 另外，怀尔斯在复证费马大定理的时候，亦使用到伽罗瓦理论。
 1	另外	另外	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	怀尔斯	怀尔斯	NR	NR	_	13	nsubj	_	start_char=5|end_char=8

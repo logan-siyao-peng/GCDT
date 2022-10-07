@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_marbles
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-11-28
+# meta::sourceURL = https://zh.wikipedia.org/wiki/%E7%8F%8D%E5%A8%9C%C2%B7%E7%91%AA%E6%9F%8F
+# meta::speakerCount = 0
+# meta::title = 珍娜·玛柏
+# meta::shortTitle = marbles
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_marbles-1
+# text = 珍娜·玛柏
 1	珍娜·玛柏	珍娜·玛柏	NR	NR	_	0	root	_	start_char=0|end_char=5
 
+# sent_id = gcdt_bio_marbles-2
+# text = 珍娜·妮可·穆雷（Jenna Nicole Mourey，1986年9月15日-LSB-2-RSB--LSB-3-RSB-－），较广为人知的是化名珍娜·玛柏（Jenna Marbles），美国YouTuber、喜剧演员与演员。
 1	珍娜·妮可·穆雷	珍娜·妮可·穆雷	NR	NR	_	24	dep	_	start_char=0|end_char=8
 2	（	（	PU	PU	_	5	punct	_	start_char=9|end_char=10
 3	Jenna	Jenna	NR	NR	_	5	name	_	start_char=11|end_char=16
@@ -38,6 +53,8 @@
 36	演员	演员	NN	NN	_	24	parataxis:prnmod	_	start_char=142|end_char=144
 37	。	。	PU	PU	_	24	punct	_	start_char=145|end_char=146
 
+# sent_id = gcdt_bio_marbles-3
+# text = 截至2017年4月，珍娜·玛柏已经有超过1716万名订阅者与22亿观看次数-LSB-4-RSB--LSB-5-RSB-，是YouTube第20多订阅者与曾经为最大的女性频道-LSB-6-RSB-。
 1	截至	截至	P	P	_	3	case	_	start_char=0|end_char=2
 2	2017年	2017年	NT	NT	_	3	compound:nn	_	start_char=3|end_char=8
 3	4月	4月	NT	NT	_	7	nmod:prep	_	start_char=9|end_char=11
@@ -77,9 +94,13 @@
 37	-RSB-	-RSB-	NN	NN	_	7	conj	_	start_char=128|end_char=133
 38	。	。	PU	PU	_	7	punct	_	start_char=134|end_char=135
 
+# sent_id = gcdt_bio_marbles-4
+# text = 早年生活
 1	早年	早年	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	生活	生活	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_marbles-5
+# text = 穆雷于1986年9月15日出生于罗彻斯特，并在该处长大，她父亲是一位化学家，母亲狄波拉（Deborah）则是一位市场营销，他们在穆雷还小的时候离婚，由她的爸爸和后来结婚的继母照顾-LSB-7-RSB-。
 1	穆雷	穆雷	NR	NR	_	6	nsubj	_	start_char=0|end_char=2
 2	于	于	P	P	_	5	case	_	start_char=3|end_char=4
 3	1986年	1986年	NT	NT	_	5	compound:nn	_	start_char=5|end_char=10
@@ -138,6 +159,8 @@
 56	-RSB-	-RSB-	NN	NN	_	53	dobj	_	start_char=150|end_char=155
 57	。	。	PU	PU	_	6	punct	_	start_char=156|end_char=157
 
+# sent_id = gcdt_bio_marbles-6
+# text = 她中学就读于布莱顿高中，2004年毕业后，穆雷搬到波士顿就读萨福克大学的心理学系-LSB-8-RSB-。
 1	她	她	PN	PN	_	2	nmod:poss	_	start_char=0|end_char=1
 2	中学	中学	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	就读于	就读于	VV	VV	_	0	root	_	start_char=5|end_char=8
@@ -161,6 +184,8 @@
 21	-RSB-	-RSB-	NN	NN	_	14	dobj	_	start_char=66|end_char=71
 22	。	。	PU	PU	_	3	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_bio_marbles-7
+# text = 在获得理学士学位后，她转读波士顿大学的体育心理学系并获得硕士学位-LSB-9-RSB-。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	获得	获得	VV	VV	_	8	nmod:prep	_	start_char=2|end_char=4
 3	理学士	理学士	NN	NN	_	4	compound:nn	_	start_char=5|end_char=8
@@ -183,6 +208,8 @@
 20	-RSB-	-RSB-	NN	NN	_	15	dobj	_	start_char=57|end_char=62
 21	。	。	PU	PU	_	8	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_bio_marbles-8
+# text = 之后穆雷在Barstool Sports找到一份版主助理的工作，在此之间她创建了一个名叫“StoolLaLa”的网站-LSB-10-RSB-。
 1	之后	之后	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	穆雷	穆雷	NR	NR	_	6	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	5	case	_	start_char=6|end_char=7
@@ -217,6 +244,8 @@
 32	-RSB-	-RSB-	NN	NN	_	18	dobj	_	start_char=95|end_char=100
 33	。	。	PU	PU	_	6	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_bio_marbles-9
+# text = 2010年的夏天，她搬到马萨诸塞州的剑桥，并以800美元租金与其他人同居一间三房公寓，期间穆雷当过酒保跟夜店舞者等工作-LSB-11-RSB-。
 1	2010年	2010年	NT	NT	_	3	nmod	_	start_char=0|end_char=5
 2	的	的	DEG	DEG	_	1	case	_	start_char=6|end_char=7
 3	夏天	夏天	NT	NT	_	6	nmod:topic	_	start_char=8|end_char=10
@@ -256,8 +285,12 @@
 37	-RSB-	-RSB-	NN	NN	_	28	dobj	_	start_char=102|end_char=107
 38	。	。	PU	PU	_	6	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_bio_marbles-10
+# text = YouTube
 1	YouTube	YouTube	NR	NR	_	0	root	_	start_char=0|end_char=7
 
+# sent_id = gcdt_bio_marbles-11
+# text = 穆雷于2010年2月16日以“珍娜·玛柏-LSB-注 1-RSB-”（JennaMarbles）为用户名创建YouTube频道，其第一部视频于隔天上传-LSB-12-RSB-，逢星期三或四上传新视频。
 1	穆雷	穆雷	NR	NR	_	20	nsubj	_	start_char=0|end_char=2
 2	于	于	P	P	_	5	case	_	start_char=3|end_char=4
 3	2010年	2010年	NT	NT	_	5	compound:nn	_	start_char=5|end_char=10
@@ -301,6 +334,8 @@
 41	视频	视频	NN	NN	_	39	dobj	_	start_char=136|end_char=138
 42	。	。	PU	PU	_	20	punct	_	start_char=139|end_char=140
 
+# sent_id = gcdt_bio_marbles-12
+# text = “珍娜·玛柏”这频道成名于《How to trick people into thinking you're good looking》和《How To Avoid Talking To People You Don't Want To Talk To》这2部视频，其中《How to trick people into thinking you're good looking》在上传后的第一周便录得超级530万次的观看数-LSB-13-RSB--LSB-14-RSB-，而《How To Avoid Talking To People You Don't Want To Talk To》则于2011年8月分别被《纽约时报》-LSB-15-RSB-和《ABC新闻》-LSB-16-RSB-报导。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	珍娜·玛柏	珍娜·玛柏	NR	NR	_	5	compound:nn	_	start_char=2|end_char=7
 3	”	”	PU	PU	_	2	punct	_	start_char=8|end_char=9
@@ -412,6 +447,8 @@
 109	报导	报导	VV	VV	_	6	conj	_	start_char=416|end_char=418
 110	。	。	PU	PU	_	6	punct	_	start_char=419|end_char=420
 
+# sent_id = gcdt_bio_marbles-13
+# text = 在该视频中，穆雷说：“我厌倦那些用自己的生殖器接触着我背部的家伙，而原因只是因为我在夜店出现或在酒吧跳舞-LSB-15-RSB--LSB-16-RSB-。”
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	该	该	DT	DT	_	3	det	_	start_char=2|end_char=3
 3	视频	视频	NN	NN	_	7	nmod:prep	_	start_char=4|end_char=6
@@ -457,6 +494,8 @@
 43	。	。	PU	PU	_	7	punct	_	start_char=118|end_char=119
 44	”	”	PU	PU	_	7	punct	_	start_char=120|end_char=121
 
+# sent_id = gcdt_bio_marbles-14
+# text = 穆雷亦曾在其他频道的视频中出现或为视频中出现的角色配音。
 1	穆雷	穆雷	NR	NR	_	10	nsubj	_	start_char=0|end_char=2
 2	亦	亦	AD	AD	_	10	advmod	_	start_char=3|end_char=4
 3	曾	曾	AD	AD	_	10	advmod	_	start_char=5|end_char=6
@@ -477,6 +516,8 @@
 18	配音	配音	NN	NN	_	10	dobj	_	start_char=42|end_char=44
 19	。	。	PU	PU	_	10	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_bio_marbles-15
+# text = 例如在《经典饶舌争霸战》第2季第13集《亚当V.S夏娃》中饰演夏娃-LSB-17-RSB-、为《柳丁搁来乱》其中一集《Fake n' Bacon》的香蕉配音-LSB-18-RSB-。
 1	例如	例如	AD	AD	_	18	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	15	case	_	start_char=3|end_char=4
 3	《	《	PU	PU	_	6	punct	_	start_char=5|end_char=6
@@ -521,6 +562,8 @@
 42	-RSB-	-RSB-	NN	NN	_	18	dobj	_	start_char=124|end_char=129
 43	。	。	PU	PU	_	18	punct	_	start_char=130|end_char=131
 
+# sent_id = gcdt_bio_marbles-16
+# text = 而和她合作过的YouTuber包括汉娜·哈特-LSB-19-RSB-、NigaHiga-LSB-20-RSB-、谢恩·多森-LSB-21-RSB-等。
 1	而	而	AD	AD	_	8	advmod	_	start_char=0|end_char=1
 2	和	和	P	P	_	3	case	_	start_char=2|end_char=3
 3	她	她	PN	PN	_	4	nmod:prep	_	start_char=4|end_char=5
@@ -547,8 +590,12 @@
 24	等	等	ETC	ETC	_	23	etc	_	start_char=96|end_char=97
 25	。	。	PU	PU	_	8	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_bio_marbles-17
+# text = 其他
 1	其他	其他	PN	PN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_marbles-18
+# text = 穆雷在由Smosh领衔主演的电影《Smosh：大电影》中饰演她自己-LSB-22-RSB-。
 1	穆雷	穆雷	NR	NR	_	16	nsubj	_	start_char=0|end_char=2
 2	在	在	P	P	_	13	case	_	start_char=3|end_char=4
 3	由	由	P	P	_	4	case	_	start_char=5|end_char=6
@@ -572,6 +619,8 @@
 21	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=60|end_char=65
 22	。	。	PU	PU	_	16	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_bio_marbles-19
+# text = 她同时也是SiriusXM Hits 1的节目《YouTube 15》的主持人-LSB-23-RSB-。
 1	她	她	PN	PN	_	16	nsubj	_	start_char=0|end_char=1
 2	同时	同时	AD	AD	_	16	advmod	_	start_char=2|end_char=4
 3	也	也	AD	AD	_	16	advmod	_	start_char=5|end_char=6
@@ -594,6 +643,8 @@
 20	-RSB-	-RSB-	NN	NN	_	16	dobj	_	start_char=62|end_char=67
 21	。	。	PU	PU	_	16	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_bio_marbles-20
+# text = 2014年10月，穆雷成为《逞能倒霉蛋》第四季第9集的来宾-LSB-24-RSB-。
 1	2014年	2014年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	10月	10月	NT	NT	_	5	nmod:tmod	_	start_char=6|end_char=9
 3	，	，	PU	PU	_	5	punct	_	start_char=10|end_char=11
@@ -614,9 +665,13 @@
 18	-RSB-	-RSB-	NN	NN	_	5	dobj	_	start_char=53|end_char=58
 19	。	。	PU	PU	_	5	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_bio_marbles-21
+# text = 个人生活
 1	个人	个人	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	生活	生活	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_marbles-22
+# text = 穆雷有一位哥哥，名叫德文（Devin）。
 1	穆雷有	穆雷有	NR	NR	_	4	nmod	_	start_char=0|end_char=3
 2	一	一	CD	CD	_	4	nummod	_	start_char=4|end_char=5
 3	位	位	M	M	_	2	mark:clf	_	start_char=6|end_char=7
@@ -630,6 +685,8 @@
 11	）	）	PU	PU	_	10	punct	_	start_char=28|end_char=29
 12	。	。	PU	PU	_	4	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_marbles-23
+# text = 穆雷自2013年6月起与同为YouTuber的朱利安·索洛米塔（Julien Solomita）交往-LSB-25-RSB-，截止2016年8月，他的频道有88万订阅数-LSB-26-RSB-。
 1	穆雷	穆雷	NR	NR	_	16	nsubj	_	start_char=0|end_char=2
 2	自	自	P	P	_	4	case	_	start_char=3|end_char=4
 3	2013年	2013年	NT	NT	_	4	compound:nn	_	start_char=5|end_char=10
@@ -665,6 +722,8 @@
 33	-RSB-	-RSB-	NN	NN	_	28	dobj	_	start_char=122|end_char=127
 34	。	。	PU	PU	_	16	punct	_	start_char=128|end_char=129
 
+# sent_id = gcdt_bio_marbles-24
+# text = 在此之前他曾跟另外2个名叫威利（Willy，2000年–2004年）和马克斯·怀兹（Max Weisz，2011年–2012年）男性交往过-LSB-7-RSB-。
 1	在此之前	在此之前	AD	AD	_	29	advmod	_	start_char=0|end_char=4
 2	他	他	PN	PN	_	29	nsubj	_	start_char=5|end_char=6
 3	曾	曾	AD	AD	_	29	advmod	_	start_char=7|end_char=8
@@ -700,6 +759,8 @@
 33	-RSB-	-RSB-	NN	NN	_	29	dobj	_	start_char=106|end_char=111
 34	。	。	PU	PU	_	29	punct	_	start_char=112|end_char=113
 
+# sent_id = gcdt_bio_marbles-25
+# text = 穆雷很爱小动物，也乐于观看粉丝给她的宠物照片-LSB-27-RSB-。
 1	穆雷	穆雷	NR	NR	_	3	nsubj	_	start_char=0|end_char=2
 2	很	很	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	爱	爱	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -720,6 +781,8 @@
 18	-RSB-	-RSB-	NN	NN	_	8	dobj	_	start_char=46|end_char=51
 19	。	。	PU	PU	_	3	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_marbles-26
+# text = 她养了2只狗，分别是芝娃娃“玛柏先生”（Mr. Marbles-LSB-注 2-RSB-）和意大利灵缇“克米特·渥姆”（Kermith Worm）-LSB-28-RSB-，2只宠物狗由于经常在视频中出现的关系所以很受观众喜爱，而穆雷的博客网站也有售卖基于它们设计的狗玩具-LSB-9-RSB-。
 1	她	她	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	养	养	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=4|end_char=5

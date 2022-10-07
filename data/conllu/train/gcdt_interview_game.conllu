@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_game
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2010-05-06
+# meta::dateModified = 2010-11-23
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E7%B6%AD%E5%9F%BA%E6%96%B0%E8%81%9E%E5%B0%88%E8%A8%AA%EF%BC%9A%E6%B7%BA%E8%AB%87%E8%A1%97%E6%A9%9F%E9%9F%B3%E9%81%8A%E6%96%B0%E8%B6%A8%E5%8B%A2%E2%94%80%E5%AF%A6%E9%AB%94%E7%AB%B6%E8%B3%BD
+# meta::speakerCount = 3
+# meta::title = 维基新闻专访：浅谈街机音游新趋势─实体竞赛
+# meta::shortTitle = game
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_game-1
+# text = 维基新闻专访：浅谈街机音游新趋势─实体竞赛
 1	维基	维基	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	新闻	新闻	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	专访	专访	NN	NN	_	5	dep	_	start_char=6|end_char=8
@@ -11,6 +24,8 @@
 11	实体	实体	NN	NN	_	12	compound:nn	_	start_char=27|end_char=29
 12	竞赛	竞赛	NN	NN	_	5	dobj	_	start_char=30|end_char=32
 
+# sent_id = gcdt_interview_game-2
+# text = 【2010年5月6日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2010年	2010年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	5月	5月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -18,6 +33,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=14|end_char=15
 6	】	】	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_game-3
+# text = 比赛时的空间规划，可以让比赛品质获得提升。
 1	比赛	比赛	NN	NN	_	5	nmod	_	start_char=0|end_char=2
 2	时	时	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	1	case	_	start_char=5|end_char=6
@@ -32,6 +49,8 @@
 12	提升	提升	NN	NN	_	11	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	8	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_interview_game-4
+# text = 当音乐游戏的知名度开始进入高原期，除了本土社团的发展与窜起，实体的竞赛更是炒热游戏人气的重要法门，然而，竞赛的品质、水平、公正性，多少对于音游的名气会形成一定的抗衡作用，如何打造一场好的比赛，让街机音游的知名度更能向上提升？
 1	当	当	P	P	_	7	case	_	start_char=0|end_char=1
 2	音乐	音乐	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	游戏	游戏	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=7
@@ -102,6 +121,8 @@
 68	提升	提升	VV	VV	_	60	ccomp	_	start_char=176|end_char=178
 69	？	？	PU	PU	_	28	punct	_	start_char=179|end_char=180
 
+# sent_id = gcdt_interview_game-5
+# text = 从其他国家的比赛，台湾能学习到什么？
 1	从	从	P	P	_	5	case	_	start_char=0|end_char=1
 2	其他	其他	DT	DT	_	3	det	_	start_char=2|end_char=4
 3	国家	国家	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=7
@@ -115,6 +136,8 @@
 11	什么	什么	PN	PN	_	9	dobj	_	start_char=25|end_char=27
 12	？	？	PU	PU	_	9	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_interview_game-6
+# text = 本次，延续了“电竞社团”的话题，将邀请南部的资深玩家（以下简称“A”），与北部的资深赛务人员（以下简称“B”），分别就比赛品质与制度两主轴，探讨比赛与音游的互动。
 1	本次	本次	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	延续	延续	VV	VV	_	13	dep	_	start_char=5|end_char=7
@@ -171,6 +194,8 @@
 54	互动	互动	NN	NN	_	49	dobj	_	start_char=131|end_char=133
 55	。	。	PU	PU	_	13	punct	_	start_char=134|end_char=135
 
+# sent_id = gcdt_interview_game-7
+# text = 店家维持比赛秩序时，需要注意的要点？
 1	店家	店家	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	维持	维持	VV	VV	_	8	advcl:loc	_	start_char=3|end_char=5
 3	比赛	比赛	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -183,6 +208,8 @@
 10	要点	要点	NN	NN	_	0	root	_	start_char=24|end_char=26
 11	？	？	PU	PU	_	8	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_interview_game-8
+# text = 基本上，店家应该从比赛前的空间规划开始做起，因为在比赛进行时，必须确保选手在不被干扰的情况下，让选手安心进行比赛，必要时应当有设置警戒线，提示观赛者不能进入比赛区域，妨碍参赛者比赛的权益，否则会导致比赛不公的情况，
 1	基本上	基本上	AD	AD	_	12	advmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	12	punct	_	start_char=4|end_char=5
 3	店家	店家	NN	NN	_	12	nsubj	_	start_char=6|end_char=8
@@ -249,6 +276,8 @@
 64	情况	情况	NN	NN	_	60	dobj	_	start_char=167|end_char=169
 65	，	，	PU	PU	_	12	punct	_	start_char=170|end_char=171
 
+# sent_id = gcdt_interview_game-9
+# text = 假使店家的比赛空间不利于警戒线的架设，举办比赛的店家应当如何应变？
 1	假使	假使	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	店家	店家	NN	NN	_	5	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -268,6 +297,8 @@
 17	应变	应变	VV	VV	_	0	root	_	start_char=46|end_char=48
 18	？	？	PU	PU	_	17	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_interview_game-10
+# text = 此时会建议观赛者不要在视线范围内走动，当然店家应当在赛前，进行必要的劝导，因为观赛者若与参赛者的距离过近，仍会有一定几率，妨碍比赛的正常进行。
 1	此时	此时	NT	NT	_	3	nmod:tmod	_	start_char=0|end_char=2
 2	会	会	VV	VV	_	3	aux:modal	_	start_char=3|end_char=4
 3	建议	建议	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -313,6 +344,8 @@
 43	进行	进行	NN	NN	_	39	dobj	_	start_char=110|end_char=112
 44	。	。	PU	PU	_	3	punct	_	start_char=113|end_char=114
 
+# sent_id = gcdt_interview_game-11
+# text = 妨碍选手正常比赛的主要人为因素？
 1	妨碍	妨碍	VV	VV	_	8	acl	_	start_char=0|end_char=2
 2	选手	选手	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	正常	正常	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
@@ -323,6 +356,8 @@
 8	因素	因素	NN	NN	_	0	root	_	start_char=20|end_char=22
 9	？	？	PU	PU	_	8	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_interview_game-12
+# text = 人为因素，多半是以观赛者离参赛者过近，或者是观赛者走动时与参赛者发生推挤、碰撞的情况，这种就是非常明显的“妨碍比赛”，近期，随着新手玩家加入比赛的行列，因此也常发生新手玩家妨碍资深选手比赛的状况，此外，因为有些观赛者、行政人员，或是新闻媒体记者，需要进行摄录影的关系，因此建议摄影者，在比赛期间，以不妨碍比赛为前提下，控制好与参赛者的距离，照相时务必要关闭闪光灯，因为在比赛进行时，闪光灯绝对会影响到参赛者的心理状态，杀伤力非常明显。
 1	人为	人为	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	因素	因素	NN	NN	_	35	nsubj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	35	punct	_	start_char=6|end_char=7
@@ -454,6 +489,8 @@
 129	明显	明显	VA	VA	_	120	conj	_	start_char=342|end_char=344
 130	。	。	PU	PU	_	5	punct	_	start_char=345|end_char=346
 
+# sent_id = gcdt_interview_game-13
+# text = 影响选手正常比赛的非人为因素？
 1	影响	影响	VV	VV	_	7	acl	_	start_char=0|end_char=2
 2	选手	选手	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	正常	正常	JJ	JJ	_	4	amod	_	start_char=6|end_char=8
@@ -463,6 +500,8 @@
 7	因素	因素	NN	NN	_	0	root	_	start_char=18|end_char=20
 8	？	？	PU	PU	_	7	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_game-14
+# text = 店家与参赛者应如何应变？
 1	店家	店家	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	与	与	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	参赛者	参赛者	NN	NN	_	6	nsubj	_	start_char=5|end_char=8
@@ -471,6 +510,8 @@
 6	应变	应变	VV	VV	_	0	root	_	start_char=14|end_char=16
 7	？	？	PU	PU	_	6	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_game-15
+# text = 假使比赛中，机台系统本身或是硬件（如：按键）在比赛前的测试就已经故障，或是在比赛进行中突然发生，选手应在第一时间，向裁判进行反应，并由赛事行政人员（或店家）进行检测，确定机台的运作是否正常，切勿因为“讲出来会不好意思”而失去应有的基本权利。
 1	假使	假使	P	P	_	2	case	_	start_char=0|end_char=2
 2	比赛	比赛	NN	NN	_	22	nmod:prep	_	start_char=3|end_char=5
 3	中	中	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -549,6 +590,8 @@
 76	权利	权利	NN	NN	_	71	dobj	_	start_char=192|end_char=194
 77	。	。	PU	PU	_	22	punct	_	start_char=195|end_char=196
 
+# sent_id = gcdt_interview_game-16
+# text = 就针对非人为因素再补充一个常见的问题，那就是“网络断线”，假使是比赛中的突发断线，两位以上的裁判可以根据两方的机台内分数，直接判定比赛的胜负，但如果是比赛前就已经“网络断线”，应当建议店家重新比赛。
 1	就	就	AD	AD	_	6	advmod	_	start_char=0|end_char=1
 2	针对	针对	P	P	_	4	case	_	start_char=2|end_char=4
 3	非人为	非人为	JJ	JJ	_	4	amod	_	start_char=5|end_char=8
@@ -616,6 +659,8 @@
 65	比赛	比赛	VV	VV	_	62	ccomp	_	start_char=160|end_char=162
 66	。	。	PU	PU	_	6	punct	_	start_char=163|end_char=164
 
+# sent_id = gcdt_interview_game-17
+# text = 曾有店家因为第一次举办比赛，而使用与基本规章有差异的赛制进行比赛，导致参赛者抗议的状况，针对这部分的看法？
 1	曾	曾	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	0	root	_	start_char=2|end_char=3
 3	店家	店家	NN	NN	_	7	nsubj	_	start_char=4|end_char=6
@@ -650,6 +695,8 @@
 32	看法	看法	NN	NN	_	22	dobj	_	start_char=81|end_char=83
 33	？	？	PU	PU	_	2	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_interview_game-18
+# text = 第一次举办的店家，多少会对于比赛基本运作不是很熟，因此才大胆使用店家自订的赛制进行比赛，基本上，如果店家不是很熟悉真正的运作，店家应可邀请主办单位派员亲临现场，协助比赛的顺利进行。
 1	第一	第一	OD	OD	_	3	dep	_	start_char=0|end_char=2
 2	次	次	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	举办	举办	VV	VV	_	5	acl	_	start_char=5|end_char=7
@@ -706,6 +753,8 @@
 54	进行	进行	NN	NN	_	50	dobj	_	start_char=140|end_char=142
 55	。	。	PU	PU	_	16	punct	_	start_char=143|end_char=144
 
+# sent_id = gcdt_interview_game-19
+# text = 主办单位虽然明定“各店家可依照现场参赛状况，随机变更比赛的赛制”，但比赛的基本赛制，仍应以主办单位提出的规章为基准。
 1	主办	主办	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	单位	单位	NN	NN	_	36	nsubj	_	start_char=3|end_char=5
 3	虽然	虽然	CS	CS	_	4	advmod	_	start_char=6|end_char=8
@@ -744,6 +793,8 @@
 36	基准	基准	NN	NN	_	0	root	_	start_char=90|end_char=92
 37	。	。	PU	PU	_	36	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_interview_game-20
+# text = 各连锁体系在比赛运作的模式，虽然不尽相同，但仍应依照正规的赛制进行比赛，才能避免不公平的事件再度发生。
 1	各	各	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	连锁	连锁	JJ	JJ	_	3	amod	_	start_char=2|end_char=4
 3	体系	体系	NN	NN	_	21	nsubj	_	start_char=5|end_char=7
@@ -778,6 +829,8 @@
 32	发生	发生	VV	VV	_	26	ccomp	_	start_char=79|end_char=81
 33	。	。	PU	PU	_	21	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_interview_game-21
+# text = 对于初办比赛的店家，找上资深玩家或当地社团协助比赛运作，您的看法？
 1	对于	对于	P	P	_	5	case	_	start_char=0|end_char=2
 2	初办	初办	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	比赛	比赛	NN	NN	_	5	nmod:assmod	_	start_char=6|end_char=8
@@ -799,6 +852,8 @@
 19	看法	看法	NN	NN	_	7	dobj	_	start_char=48|end_char=50
 20	？	？	PU	PU	_	7	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_interview_game-22
+# text = 其实有资深玩家在比赛中进行必要协助，或者由主办单位进行必要的指导，这些都是可以让第一次办比赛的店家，在对于比赛很生疏的状态下，可以快速上手赛事行政的良方，这种模式是值得推荐的。
 1	其实	其实	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	资深	资深	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
@@ -857,6 +912,8 @@
 56	的	的	SP	SP	_	54	discourse	_	start_char=141|end_char=142
 57	。	。	PU	PU	_	2	punct	_	start_char=143|end_char=144
 
+# sent_id = gcdt_interview_game-23
+# text = 店家举办一场比赛，其实需要的是经验的累积。
 1	店家	店家	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	举办	举办	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	一	一	CD	CD	_	5	nummod	_	start_char=6|end_char=7
@@ -872,6 +929,8 @@
 13	累积	累积	NN	NN	_	2	conj	_	start_char=30|end_char=32
 14	。	。	PU	PU	_	2	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_interview_game-24
+# text = 一场好的比赛，不只是店家的安排，玩家的观赛风度与水平更为重要，其实，在许多国际大型电子游戏的竞技中，或多或少，现场都会有所谓的观赛规章，让观赛者、赛事行政人员、媒体记者，有一个共通的标准来遵守，让比赛得以顺利地进行，当经验逐渐丰富之后，更多更有水平的比赛就会获得观赛者，甚至是大众舆论的重视。
 1	一	一	CD	CD	_	5	nummod	_	start_char=0|end_char=1
 2	场	场	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	好	好	JJ	JJ	_	5	amod	_	start_char=4|end_char=5

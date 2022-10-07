@@ -1,7 +1,22 @@
+# newdoc id = gcdt_whow_thanksgiving
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E5%BA%86%E7%A5%9D%E6%84%9F%E6%81%A9%E8%8A%82
+# meta::speakerCount = 0
+# meta::title = 如何庆祝感恩节
+# meta::shortTitle = thanksgiving
+# meta::author = wikiHow员工
+# meta::genre = whow
+# meta::partition = test
+# sent_id = gcdt_whow_thanksgiving-1
+# text = 如何庆祝感恩节
 1	如何	如何	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	庆祝	庆祝	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	感恩节	感恩节	NN	NN	_	2	dobj	_	start_char=6|end_char=9
 
+# sent_id = gcdt_whow_thanksgiving-2
+# text = 1621年十一月的第四个星期四，美国人庆祝了他们的第一个感恩节，从此以后，感恩节成了美国的传统节日之一。
 1	1621年	1621年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	十一月	十一月	NT	NT	_	6	nmod	_	start_char=6|end_char=9
 3	的	的	DEG	DEG	_	2	case	_	start_char=10|end_char=11
@@ -30,6 +45,8 @@
 26	之一	之一	NN	NN	_	20	dobj	_	start_char=74|end_char=76
 27	。	。	PU	PU	_	9	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_whow_thanksgiving-3
+# text = 感恩节对不同的人有着不同的含义，但对于大多数人来说，感恩节意味着大吃一顿，观看花车游行，看球赛，和家人还有朋友们欢聚一堂，当然还有别具一格的感恩节的火鸡大餐。
 1	感恩节	感恩节	NN	NN	_	6	nsubj	_	start_char=0|end_char=3
 2	对	对	P	P	_	5	case	_	start_char=4|end_char=5
 3	不同	不同	VA	VA	_	5	amod	_	start_char=6|end_char=8
@@ -79,6 +96,8 @@
 47	大餐	大餐	NN	NN	_	41	dobj	_	start_char=122|end_char=124
 48	。	。	PU	PU	_	6	punct	_	start_char=125|end_char=126
 
+# sent_id = gcdt_whow_thanksgiving-4
+# text = 感恩节让人们和家人朋友相聚，彼此交谈和陪伴。
 1	感恩节	感恩节	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	让	让	VV	VV	_	0	root	_	start_char=4|end_char=5
 3	人们	人	NN	NN	_	6	conj	_	start_char=6|end_char=8
@@ -93,6 +112,8 @@
 12	陪伴	陪伴	VV	VV	_	10	conj	_	start_char=30|end_char=32
 13	。	。	PU	PU	_	2	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_thanksgiving-5
+# text = 感恩节设立的意义在于对生命中美好的事物，重要的人表示感谢。
 1	感恩节	感恩节	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	设立	设立	VV	VV	_	4	acl	_	start_char=4|end_char=6
 3	的	的	DEC	DEC	_	2	mark	_	start_char=7|end_char=8
@@ -112,6 +133,8 @@
 17	感谢	感谢	NN	NN	_	16	dobj	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	5	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_thanksgiving-6
+# text = 如果你想知道怎样过一个有特点的感恩节，来阅读下面的步骤吧。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	20	dep	_	start_char=5|end_char=6
@@ -133,18 +156,26 @@
 19	吧	吧	SP	SP	_	20	discourse	_	start_char=45|end_char=46
 20	。	。	PU	PU	_	0	root	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_thanksgiving-7
+# text = 方法1
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_thanksgiving-8
+# text = 准备食物
 1	准备	准备	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	食物	食物	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_whow_thanksgiving-9
+# text = 1 提前决定菜单。
 1	1	1	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	提前	提前	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	决定	决定	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	菜单	菜单	NN	NN	_	3	dobj	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	3	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_thanksgiving-10
+# text = 传统的多人菜单包括烤火鸡，土豆泥，填料，数种蔬菜包括甘薯，南瓜，小红莓果酱，许多种类的派，还有面包。
 1	传统	传统	JJ	JJ	_	4	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	多人	多人	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -177,6 +208,8 @@
 30	面包	面包	NN	NN	_	5	dobj	_	start_char=76|end_char=78
 31	。	。	PU	PU	_	5	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_whow_thanksgiving-11
+# text = 下面是一些你需要准备的事：
 1	下面	下面	NN	NN	_	8	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	8	cop	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	8	dep	_	start_char=5|end_char=7
@@ -187,6 +220,8 @@
 8	事	事	NN	NN	_	0	root	_	start_char=18|end_char=19
 9	：	：	PU	PU	_	8	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_thanksgiving-12
+# text = 写下你需要从超市购买的感恩节大餐食材。
 1	写下	写下	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	6	nsubj	_	start_char=3|end_char=4
 3	需要	需要	VV	VV	_	6	xcomp	_	start_char=5|end_char=7
@@ -199,6 +234,8 @@
 10	食材	食材	NN	NN	_	1	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	1	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_thanksgiving-13
+# text = 检查你的储藏室，确定你还没准备的食材，把你所需要的所有东西写在一张单子上。
 1	检查	检查	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -226,6 +263,8 @@
 25	上	上	LC	LC	_	24	case	_	start_char=59|end_char=60
 26	。	。	PU	PU	_	1	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_thanksgiving-14
+# text = 去本地的农贸市场，肉店，超市还有面包店，买齐所有你需要的东西。
 1	去	去	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	本地	本地	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	2	case	_	start_char=5|end_char=6
@@ -246,6 +285,8 @@
 18	东西	东西	NN	NN	_	13	dobj	_	start_char=45|end_char=47
 19	。	。	PU	PU	_	1	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_thanksgiving-15
+# text = 提前买好感恩节大餐所需要的食材。
 1	提前	提前	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	买好	买好	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	感恩节	感恩节	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -256,6 +297,8 @@
 8	食材	食材	NN	NN	_	2	dobj	_	start_char=20|end_char=22
 9	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_thanksgiving-16
+# text = 记得提前预定火鸡，在感恩节到来之前火鸡和食材会被抢购一空。
 1	记得	记得	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	提前	提前	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	预定	预定	VV	VV	_	1	ccomp	_	start_char=6|end_char=8
@@ -273,6 +316,8 @@
 15	抢购一空	抢购一空	VV	VV	_	1	ccomp	_	start_char=38|end_char=42
 16	。	。	PU	PU	_	1	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_thanksgiving-17
+# text = 如果你可以冷冻保存食材，提前买好你所需要的东西，这样做可以避免在最后一刻去超市抢购。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=5|end_char=7
@@ -300,6 +345,8 @@
 25	抢购	抢购	VV	VV	_	23	conj	_	start_char=63|end_char=65
 26	。	。	PU	PU	_	19	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_thanksgiving-18
+# text = 烘烤食品最好在感恩节那一天购买，如果时间来不及，你可以自己在家烤制。
 1	烘烤	烘烤	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	食品	食品	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	最好	最好	AD	AD	_	9	advmod	_	start_char=6|end_char=8
@@ -323,6 +370,8 @@
 21	烤制	烤制	VV	VV	_	9	conj	_	start_char=51|end_char=53
 22	。	。	PU	PU	_	9	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_thanksgiving-19
+# text = 你应该提前给你的客人打电话，确定他们会按时到来。
 1	你	你	PN	PN	_	8	nsubj	_	start_char=0|end_char=1
 2	应该	应该	VV	VV	_	8	aux:modal	_	start_char=2|end_char=4
 3	提前	提前	AD	AD	_	8	advmod	_	start_char=5|end_char=7
@@ -340,6 +389,8 @@
 15	到来	到来	VV	VV	_	11	ccomp	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	8	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_thanksgiving-20
+# text = 和他们通电话的时候，询问他们是否想为感恩节大餐准备一道菜，如果他们愿意准备，你将会轻松许多。
 1	和	和	P	P	_	6	case	_	start_char=0|end_char=1
 2	他们	他	PN	PN	_	3	nsubj	_	start_char=2|end_char=4
 3	通	通	VV	VV	_	6	acl	_	start_char=5|end_char=6
@@ -372,6 +423,8 @@
 30	许多	许多	AD	AD	_	29	advmod	_	start_char=72|end_char=74
 31	。	。	PU	PU	_	8	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_whow_thanksgiving-21
+# text = 2 选择你的食谱。
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	选择	选择	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	5	nmod:assmod	_	start_char=5|end_char=6
@@ -379,6 +432,8 @@
 5	食谱	食谱	NN	NN	_	2	dobj	_	start_char=9|end_char=11
 6	。	。	PU	PU	_	2	punct	_	start_char=12|end_char=13
 
+# sent_id = gcdt_whow_thanksgiving-22
+# text = 提前了解你的食谱，这样做你在采购的时候才不会遗忘任何一道菜的原材料。
 1	提前	提前	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	了解	了解	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	你	你	PN	PN	_	5	nmod:assmod	_	start_char=6|end_char=7
@@ -404,6 +459,8 @@
 23	原材料	原材料	NN	NN	_	17	dobj	_	start_char=52|end_char=55
 24	。	。	PU	PU	_	2	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_thanksgiving-23
+# text = 了解制作每道菜所需要的时间。
 1	了解	了解	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	制作	制作	VV	VV	_	1	ccomp	_	start_char=3|end_char=5
 3	每	每	DT	DT	_	5	det	_	start_char=6|end_char=7
@@ -415,6 +472,8 @@
 9	时间	时间	NN	NN	_	1	dobj	_	start_char=19|end_char=21
 10	。	。	PU	PU	_	1	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_whow_thanksgiving-24
+# text = 下面是选择菜单和食谱的一些建议：
 1	下面	下面	NN	NN	_	9	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	9	cop	_	start_char=3|end_char=4
 3	选择	选择	VV	VV	_	9	acl	_	start_char=5|end_char=7
@@ -426,9 +485,13 @@
 9	建议	建议	NN	NN	_	0	root	_	start_char=21|end_char=23
 10	：	：	PU	PU	_	9	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_whow_thanksgiving-25
+# text = 火鸡。
 1	火鸡	火鸡	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_thanksgiving-26
+# text = 在火鸡里填上馅料，烤火鸡，制作出丰盛的火鸡大餐。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	火鸡	火鸡	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=4
 3	里	里	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -446,9 +509,13 @@
 15	大餐	大餐	NN	NN	_	10	dobj	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	4	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_thanksgiving-27
+# text = 蔬菜。
 1	蔬菜	蔬菜	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_thanksgiving-28
+# text = 传统的菜单通常包括：豆角，烤土豆，甘薯，南瓜汤，牛蒡和白萝卜。
 1	传统	传统	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	菜单	菜单	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -470,10 +537,14 @@
 19	白萝卜	白萝卜	NN	NN	_	5	dobj	_	start_char=45|end_char=48
 20	。	。	PU	PU	_	5	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_thanksgiving-29
+# text = 装饰食物。
 1	装饰	装饰	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	食物	食物	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	。	。	PU	PU	_	1	punct	_	start_char=6|end_char=7
 
+# sent_id = gcdt_whow_thanksgiving-30
+# text = 小红莓果酱，蔓越橘和餐包。
 1	小红莓	小红莓	NR	NR	_	2	compound:nn	_	start_char=0|end_char=3
 2	果酱	果酱	NN	NN	_	6	conj	_	start_char=4|end_char=6
 3	，	，	PU	PU	_	6	punct	_	start_char=7|end_char=8
@@ -482,10 +553,14 @@
 6	餐包	餐包	NN	NN	_	0	root	_	start_char=15|end_char=17
 7	。	。	PU	PU	_	6	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_thanksgiving-31
+# text = 烘焙食品。
 1	烘焙	烘焙	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	食品	食品	NN	NN	_	0	root	_	start_char=3|end_char=5
 3	。	。	PU	PU	_	2	punct	_	start_char=6|end_char=7
 
+# sent_id = gcdt_whow_thanksgiving-32
+# text = 烤南瓜派，南瓜卷，装饰花果的感恩节席次牌，感恩节饼干。
 1	烤	烤	VV	VV	_	13	acl	_	start_char=0|end_char=1
 2	南瓜派	南瓜派	NN	NN	_	1	dobj	_	start_char=2|end_char=5
 3	，	，	PU	PU	_	1	punct	_	start_char=6|end_char=7
@@ -501,6 +576,8 @@
 13	饼干	饼干	NN	NN	_	0	root	_	start_char=36|end_char=38
 14	。	。	PU	PU	_	13	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_thanksgiving-33
+# text = 你也可以用南瓜做成其他的感恩节甜点。
 1	你	你	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	6	aux:modal	_	start_char=4|end_char=6
@@ -513,6 +590,8 @@
 10	甜点	甜点	NN	NN	_	6	dobj	_	start_char=24|end_char=26
 11	。	。	PU	PU	_	6	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_whow_thanksgiving-34
+# text = 为素食者准备的食谱：各种蔬菜和豆腐做的素火鸡。
 1	为	为	P	P	_	2	case	_	start_char=0|end_char=1
 2	素食者	素食者	NN	NN	_	3	nsubj	_	start_char=2|end_char=5
 3	准备	准备	VV	VV	_	5	acl	_	start_char=6|end_char=8
@@ -530,6 +609,8 @@
 15	火鸡	火鸡	NN	NN	_	0	root	_	start_char=34|end_char=36
 16	。	。	PU	PU	_	15	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_whow_thanksgiving-35
+# text = 准备一些零食，比如小菜，糖果和三明治。
 1	准备	准备	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	一些	一些	CD	CD	_	3	dep	_	start_char=3|end_char=5
 3	零食	零食	NN	NN	_	10	dep	_	start_char=6|end_char=8
@@ -542,6 +623,8 @@
 10	三明治	三明治	NN	NN	_	1	dobj	_	start_char=24|end_char=27
 11	。	。	PU	PU	_	1	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_thanksgiving-36
+# text = 如果你的感恩节晚餐开始的时间比较晚，这些零食会让你和你的客人不感到饥饿。
 1	如果	如果	CS	CS	_	10	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	5	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -567,6 +650,8 @@
 23	饥饿	饥饿	NN	NN	_	22	dobj	_	start_char=55|end_char=57
 24	。	。	PU	PU	_	15	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_whow_thanksgiving-37
+# text = 你甚至可以做出一个糖果火鸡，孩子们一定会喜欢它的！
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	甚至	甚至	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=5|end_char=7
@@ -584,11 +669,15 @@
 15	的	的	SP	SP	_	13	discourse	_	start_char=37|end_char=38
 16	！	！	PU	PU	_	4	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_thanksgiving-38
+# text = 3 准备食物。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	准备	准备	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	食物	食物	NN	NN	_	2	dobj	_	start_char=5|end_char=7
 4	。	。	PU	PU	_	2	punct	_	start_char=8|end_char=9
 
+# sent_id = gcdt_whow_thanksgiving-39
+# text = 有些食物可以在感恩节前一天准备好，比如饼干和南瓜派，但有些食物比如火鸡必须在感恩节这一天制作。
 1	有些	有些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	食物	食物	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	可以	可以	VV	VV	_	9	aux:modal	_	start_char=6|end_char=8
@@ -619,6 +708,8 @@
 28	制作	制作	VV	VV	_	9	conj	_	start_char=71|end_char=73
 29	。	。	PU	PU	_	9	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_whow_thanksgiving-40
+# text = 无论你什么时候开始准备，都不要害怕寻求帮助，来自他人的帮助会使你的准备更加充分，也会让你的节日更加快乐。
 1	无论	无论	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	compound:nn	_	start_char=3|end_char=4
 3	什么	什么	DT	DT	_	4	det	_	start_char=5|end_char=7
@@ -655,6 +746,8 @@
 34	快乐	快乐	VA	VA	_	29	ccomp	_	start_char=82|end_char=84
 35	。	。	PU	PU	_	29	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_whow_thanksgiving-41
+# text = 你也可以简单地烤两只小火鸡来替代制作复杂感恩节火鸡。
 1	你	你	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	6	aux:modal	_	start_char=4|end_char=6
@@ -673,6 +766,8 @@
 16	火鸡	火鸡	NN	NN	_	12	dobj	_	start_char=38|end_char=40
 17	。	。	PU	PU	_	6	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_whow_thanksgiving-42
+# text = 下面是一些你准备节日晚宴时需要做的事：
 1	下面	下面	NN	NN	_	12	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	12	cop	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	12	dep	_	start_char=5|end_char=7
@@ -687,6 +782,8 @@
 12	事	事	NN	NN	_	0	root	_	start_char=28|end_char=29
 13	：	：	PU	PU	_	12	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_thanksgiving-43
+# text = 留出足够的时间让火鸡解冻。
 1	留出	留出	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	足够	足够	JJ	JJ	_	4	amod	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	2	case	_	start_char=6|end_char=7
@@ -696,6 +793,8 @@
 7	解冻	解冻	VV	VV	_	5	ccomp	_	start_char=16|end_char=18
 8	。	。	PU	PU	_	5	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_whow_thanksgiving-44
+# text = 解冻的时间根据火鸡的大小和重量有所变化。
 1	解冻	解冻	VV	VV	_	3	acl	_	start_char=0|end_char=2
 2	的	的	DEC	DEC	_	1	mark	_	start_char=3|end_char=4
 3	时间	时间	NN	NN	_	10	nsubj	_	start_char=5|end_char=7
@@ -709,6 +808,8 @@
 11	变化	变化	NN	NN	_	10	dobj	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	10	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_thanksgiving-45
+# text = 提前一天烘焙南瓜派或其他派。
 1	提前	提前	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	5	nummod	_	start_char=3|end_char=4
 3	天	天	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -719,6 +820,8 @@
 8	派	派	NN	NN	_	1	dobj	_	start_char=19|end_char=20
 9	。	。	PU	PU	_	1	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_thanksgiving-46
+# text = 这样做会给你留出足够的时间来制作感恩节的主菜。
 1	这样	这样	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	做	做	VV	VV	_	6	dep	_	start_char=3|end_char=4
 3	会	会	VV	VV	_	6	aux:modal	_	start_char=5|end_char=6
@@ -735,6 +838,8 @@
 14	主菜	主菜	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	6	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_whow_thanksgiving-47
+# text = 烤火鸡，并在感恩节这一天完成所有的准备工作。
 1	烤	烤	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	火鸡	火鸡	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	1	punct	_	start_char=5|end_char=6
@@ -751,6 +856,8 @@
 14	工作	工作	NN	NN	_	10	dobj	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	1	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_whow_thanksgiving-48
+# text = 在感恩节的前一天把火鸡洗净准备好。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	感恩节	感恩节	NN	NN	_	4	dep	_	start_char=2|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -764,6 +871,8 @@
 11	好	好	VA	VA	_	10	ccomp	_	start_char=25|end_char=26
 12	。	。	PU	PU	_	9	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_whow_thanksgiving-49
+# text = 让提前到的家人和朋友帮你准备感恩节大餐来减轻工作量。
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	提前	提前	VV	VV	_	7	acl	_	start_char=2|end_char=4
 3	到	到	VV	VV	_	2	advmod:rcomp	_	start_char=5|end_char=6
@@ -781,9 +890,13 @@
 15	工作量	工作量	NN	NN	_	14	dobj	_	start_char=36|end_char=39
 16	。	。	PU	PU	_	1	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_thanksgiving-50
+# text = 方法2
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_thanksgiving-51
+# text = 度过一个不可思议的感恩节
 1	度过	度过	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	6	nummod	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -791,12 +904,16 @@
 5	的	的	DEC	DEC	_	4	mark	_	start_char=12|end_char=13
 6	感恩节	感恩节	NN	NN	_	1	dobj	_	start_char=14|end_char=17
 
+# sent_id = gcdt_whow_thanksgiving-52
+# text = 1 装点节日气氛。
 1	1	1	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	装点	装点	NN	NN	_	4	compound:nn	_	start_char=2|end_char=4
 3	节日	节日	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
 4	气氛	气氛	NN	NN	_	0	root	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	4	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_thanksgiving-53
+# text = 如果你有分离式的餐桌，你就可以在感恩节的前一天把装饰物放在桌子上，如果没有，把装饰物提前准备出来，在第二天放在桌子上。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	dep	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	19	dep	_	start_char=5|end_char=6
@@ -836,6 +953,8 @@
 37	上	上	LC	LC	_	36	case	_	start_char=93|end_char=94
 38	。	。	PU	PU	_	19	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_whow_thanksgiving-54
+# text = 让孩子们帮你装饰桌子，让他们参与到准备晚餐的活动中来。
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	孩子们	孩子们	NN	NN	_	1	dobj	_	start_char=2|end_char=5
 3	帮	帮	P	P	_	1	ccomp	_	start_char=6|end_char=7
@@ -855,6 +974,8 @@
 17	来	来	VV	VV	_	10	conj	_	start_char=41|end_char=42
 18	。	。	PU	PU	_	1	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_thanksgiving-55
+# text = 下面是一些让你的桌子富有节日气氛的好方法：
 1	下面	下面	NN	NN	_	13	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	13	cop	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	13	dep	_	start_char=5|end_char=7
@@ -870,6 +991,8 @@
 13	方法	方法	NN	NN	_	0	root	_	start_char=30|end_char=32
 14	：	：	PU	PU	_	13	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_thanksgiving-56
+# text = 为了创造出节日气氛，你可以购买或者制作一个感恩节主题的中心装饰品。
 1	为了	为了	P	P	_	2	case	_	start_char=0|end_char=2
 2	创造	创造	VV	VV	_	9	nmod:prep	_	start_char=3|end_char=5
 3	出	出	VV	VV	_	2	advmod:rcomp	_	start_char=6|end_char=7
@@ -890,6 +1013,8 @@
 18	装饰品	装饰品	NN	NN	_	11	dobj	_	start_char=46|end_char=49
 19	。	。	PU	PU	_	9	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_thanksgiving-57
+# text = 你能在任何一家手工店找到DIY工具包来制作中心装饰物。
 1	你	你	PN	PN	_	8	nsubj	_	start_char=0|end_char=1
 2	能	能	VV	VV	_	8	aux:modal	_	start_char=2|end_char=3
 3	在	在	P	P	_	7	case	_	start_char=4|end_char=5
@@ -906,6 +1031,8 @@
 14	装饰物	装饰物	NN	NN	_	12	dobj	_	start_char=36|end_char=39
 15	。	。	PU	PU	_	8	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_thanksgiving-58
+# text = 孩子们甚至无事可做客人们都会乐于参加到装饰物DIY活动中来。
 1	孩子们	孩子们	NN	NN	_	3	nsubj	_	start_char=0|end_char=3
 2	甚至	甚至	AD	AD	_	3	advmod	_	start_char=4|end_char=6
 3	无事可做	无事可做	VV	VV	_	4	acl	_	start_char=7|end_char=11
@@ -922,6 +1049,8 @@
 14	来	来	VV	VV	_	8	conj	_	start_char=41|end_char=42
 15	。	。	PU	PU	_	7	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_thanksgiving-59
+# text = 香味蜡烛，花果装饰，一把秋天的花束就是很好的桌面中心装饰物。
 1	香味	香味	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	蜡烛	蜡烛	NN	NN	_	5	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	5	punct	_	start_char=6|end_char=7
@@ -943,6 +1072,8 @@
 19	装饰物	装饰物	NN	NN	_	0	root	_	start_char=44|end_char=47
 20	。	。	PU	PU	_	19	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_thanksgiving-60
+# text = 你也可以制作感恩节的标志，或把座次表做成火鸡的形状。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	也	也	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=4|end_char=6
@@ -960,6 +1091,8 @@
 15	形状	形状	NN	NN	_	12	dobj	_	start_char=37|end_char=39
 16	。	。	PU	PU	_	4	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_whow_thanksgiving-61
+# text = 制作火鸡形状的餐巾架。
 1	制作	制作	VV	VV	_	5	acl	_	start_char=0|end_char=2
 2	火鸡	火鸡	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	形状	形状	NN	NN	_	1	dobj	_	start_char=6|end_char=8
@@ -967,11 +1100,15 @@
 5	餐巾架	餐巾架	NN	NN	_	0	root	_	start_char=11|end_char=14
 6	。	。	PU	PU	_	5	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_thanksgiving-62
+# text = 制作感恩节花束。
 1	制作	制作	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	感恩节	感恩节	NN	NN	_	1	dobj	_	start_char=3|end_char=6
 3	花束	花束	VV	VV	_	1	conj	_	start_char=7|end_char=9
 4	。	。	PU	PU	_	1	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_thanksgiving-63
+# text = 花束可以放在桌子上或者餐具柜上。
 1	花束	花束	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=3|end_char=5
 3	放在	放在	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -982,6 +1119,8 @@
 8	上	上	LC	LC	_	7	case	_	start_char=21|end_char=22
 9	。	。	PU	PU	_	3	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_thanksgiving-64
+# text = 为你的客人准备足够的座椅。
 1	为	为	P	P	_	4	case	_	start_char=0|end_char=1
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -992,6 +1131,8 @@
 8	座椅	座椅	NN	NN	_	5	dobj	_	start_char=17|end_char=19
 9	。	。	PU	PU	_	5	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_thanksgiving-65
+# text = 如果你的座椅不够多，可以分出一部分客人垫着枕头坐在地上，在咖啡桌上用餐。
 1	如果	如果	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -1017,6 +1158,8 @@
 23	用餐	用餐	VV	VV	_	10	conj	_	start_char=55|end_char=57
 24	。	。	PU	PU	_	10	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_whow_thanksgiving-66
+# text = 2 进行一些传统的感恩节活动。
 1	2	2	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	进行	进行	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	一些	一些	CD	CD	_	7	dep	_	start_char=5|end_char=7
@@ -1026,6 +1169,8 @@
 7	活动	活动	NN	NN	_	2	dobj	_	start_char=17|end_char=19
 8	。	。	PU	PU	_	2	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_thanksgiving-67
+# text = 你可以在感恩节晚餐之前，之中或之后进行这些活动。
 1	你	你	PN	PN	_	11	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	11	aux:modal	_	start_char=2|end_char=4
 3	在	在	P	P	_	5	case	_	start_char=5|end_char=6
@@ -1041,6 +1186,8 @@
 13	活动	活动	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 14	。	。	PU	PU	_	11	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_whow_thanksgiving-68
+# text = 下面是一些倍受人们喜爱的活动：
 1	下面	下面	NN	NN	_	8	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	8	cop	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	8	dep	_	start_char=5|end_char=7
@@ -1051,6 +1198,8 @@
 8	活动	活动	NN	NN	_	0	root	_	start_char=19|end_char=21
 9	：	：	PU	PU	_	8	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_whow_thanksgiving-69
+# text = 一起看电视和足球赛。
 1	一起	一起	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	看	看	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	电视	电视	NN	NN	_	5	conj	_	start_char=5|end_char=7
@@ -1058,6 +1207,8 @@
 5	足球赛	足球赛	NN	NN	_	2	dobj	_	start_char=10|end_char=13
 6	。	。	PU	PU	_	2	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_whow_thanksgiving-70
+# text = 对于很多足球迷来说，在感恩节这一天花上几个小来看球赛是一大享受。
 1	对于	对于	P	P	_	3	case	_	start_char=0|end_char=2
 2	很多	很多	CD	CD	_	3	dep	_	start_char=3|end_char=5
 3	足球迷	足球迷	NN	NN	_	21	nmod:prep	_	start_char=6|end_char=9
@@ -1081,6 +1232,8 @@
 21	享受	享受	NN	NN	_	0	root	_	start_char=49|end_char=51
 22	。	。	PU	PU	_	21	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_whow_thanksgiving-71
+# text = 看球赛是消磨感恩节晚餐前的时间的好方法，除此之外，你还可以组织一场家人或朋友邻居之间后院球赛，来打发时间并享受运动的乐趣。
 1	看	看	VV	VV	_	12	conj	_	start_char=0|end_char=1
 2	球赛	球赛	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	是	是	VC	VC	_	12	cop	_	start_char=5|end_char=6
@@ -1120,6 +1273,8 @@
 37	乐趣	乐趣	NN	NN	_	34	dobj	_	start_char=94|end_char=96
 38	。	。	PU	PU	_	12	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_whow_thanksgiving-72
+# text = 和孩子们一起看电视转播的梅西的感恩节游行。
 1	和	和	P	P	_	2	case	_	start_char=0|end_char=1
 2	孩子们	孩子们	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=5
 3	一起	一起	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -1133,6 +1288,8 @@
 11	游行	游行	NN	NN	_	0	root	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	11	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_thanksgiving-73
+# text = 这场壮观的游行在纽约举行，受众广泛，每年都有数百万的家庭收看转播。
 1	这	这	DT	DT	_	5	det	_	start_char=0|end_char=1
 2	场	场	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	壮观	壮观	VA	VA	_	5	amod	_	start_char=4|end_char=6
@@ -1156,6 +1313,8 @@
 21	转播	转播	NN	NN	_	16	dobj	_	start_char=50|end_char=52
 22	。	。	PU	PU	_	8	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_thanksgiving-74
+# text = 如果时间允许，你可以参加本地的感恩节游行。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	时间	时间	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	允许	允许	VV	VV	_	7	dep	_	start_char=6|end_char=8
@@ -1169,6 +1328,8 @@
 11	游行	游行	NN	NN	_	7	dobj	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	7	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_thanksgiving-75
+# text = 3 花一些时间思考感恩节的意义。
 1	3	3	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	花	花	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	一些	一些	CD	CD	_	4	dep	_	start_char=4|end_char=6
@@ -1179,6 +1340,8 @@
 8	意义	意义	NN	NN	_	5	dobj	_	start_char=19|end_char=21
 9	。	。	PU	PU	_	2	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_whow_thanksgiving-76
+# text = 感恩节是许多家庭分开数年后重聚的好时机，也是反映你对他人的爱的好机会，你可以在这一天分享你的感激之情。
 1	感恩节	感恩节	NN	NN	_	12	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	12	cop	_	start_char=4|end_char=5
 3	许多	许多	CD	CD	_	4	dep	_	start_char=6|end_char=8
@@ -1218,6 +1381,8 @@
 37	情	情	NN	NN	_	32	dobj	_	start_char=85|end_char=86
 38	。	。	PU	PU	_	12	punct	_	start_char=87|end_char=88
 
+# sent_id = gcdt_whow_thanksgiving-77
+# text = 按照你个人的家庭风格来表达你的感激，或者你可以使用下面的建议：
 1	按照	按照	P	P	_	6	case	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	6	dep	_	start_char=3|end_char=4
 3	个人	个人	NN	NN	_	6	nmod:assmod	_	start_char=5|end_char=7
@@ -1239,6 +1404,8 @@
 19	建议	建议	NN	NN	_	16	dobj	_	start_char=46|end_char=48
 20	：	：	PU	PU	_	8	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_thanksgiving-78
+# text = 玩一个家庭字母游戏。
 1	玩	玩	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	6	nummod	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1247,6 +1414,8 @@
 6	游戏	游戏	NN	NN	_	1	dobj	_	start_char=12|end_char=14
 7	。	。	PU	PU	_	1	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_thanksgiving-79
+# text = 让所有人坐在一起，保证所有人能听到所有人。
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	所有	所有	DT	DT	_	3	det	_	start_char=2|end_char=4
 3	人	人	NN	NN	_	1	dobj	_	start_char=5|end_char=6
@@ -1262,6 +1431,8 @@
 13	人	人	NN	NN	_	11	dobj	_	start_char=31|end_char=32
 14	。	。	PU	PU	_	1	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_thanksgiving-80
+# text = 按照字母表的顺序，每个人轮流说出他或她所感激的事物。
 1	按照	按照	P	P	_	4	case	_	start_char=0|end_char=2
 2	字母表	字母表	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -1281,6 +1452,8 @@
 17	事物	事物	NN	NN	_	10	dobj	_	start_char=39|end_char=41
 18	。	。	PU	PU	_	10	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_thanksgiving-81
+# text = 比如，第一个人轮到的字母是“A”，他可以说感谢我的罗娜阿姨，第二个人轮到的字母是“B”，他可以说感谢我的兄弟们，第三个人轮到的是“C”，他可以说感谢我细心周到的妈妈。
 1	比如	比如	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	11	punct	_	start_char=3|end_char=4
 3	第一	第一	OD	OD	_	5	nummod	_	start_char=5|end_char=7
@@ -1341,6 +1514,8 @@
 58	妈妈	妈妈	NN	NN	_	53	dobj	_	start_char=137|end_char=139
 59	。	。	PU	PU	_	11	punct	_	start_char=140|end_char=141
 
+# sent_id = gcdt_whow_thanksgiving-82
+# text = 一直轮下去，直到二十六个字母都说完。
 1	一直	一直	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	轮	轮	VV	VV	_	11	dep	_	start_char=3|end_char=4
 3	下去	下去	VV	VV	_	2	advmod:rcomp	_	start_char=5|end_char=7
@@ -1354,6 +1529,8 @@
 11	说完	说完	VV	VV	_	0	root	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	11	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_thanksgiving-83
+# text = 做游戏的过程还可以录下来，作为未来回忆时的温馨一幕。
 1	做	做	VV	VV	_	4	acl	_	start_char=0|end_char=1
 2	游戏	游戏	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	1	mark	_	start_char=5|end_char=6
@@ -1373,6 +1550,8 @@
 17	幕	幕	M	M	_	16	mark:clf	_	start_char=40|end_char=41
 18	。	。	PU	PU	_	7	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_thanksgiving-84
+# text = 你可以创造一个感恩节新传统。
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=2|end_char=4
 3	创造	创造	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1383,6 +1562,8 @@
 8	传统	传统	NN	NN	_	3	dobj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	3	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_thanksgiving-85
+# text = 这一天是学会感恩的好时机，表达你对每一件美好事物或每一个人的感激之情。
 1	这	这	DT	DT	_	9	dep	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	天	天	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1412,6 +1593,8 @@
 27	情	情	NN	NN	_	11	dobj	_	start_char=59|end_char=60
 28	。	。	PU	PU	_	9	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_thanksgiving-86
+# text = 4 在感恩节帮助穷人。
 1	4	4	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	感恩节	感恩节	NN	NN	_	4	nmod:prep	_	start_char=4|end_char=7
@@ -1419,6 +1602,8 @@
 5	穷人	穷人	NN	NN	_	4	dobj	_	start_char=11|end_char=13
 6	。	。	PU	PU	_	4	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_whow_thanksgiving-87
+# text = 在感恩节时做义工，在流浪者庇护所提供食物，捐出多余的罐头和包装好的食物，捐献食物和衣服，举行捐款活动。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	感恩节	感恩节	NN	NN	_	4	nmod:prep	_	start_char=2|end_char=5
 3	时	时	LC	LC	_	2	case	_	start_char=6|end_char=7
@@ -1451,6 +1636,8 @@
 30	活动	活动	NN	NN	_	28	dobj	_	start_char=77|end_char=79
 31	。	。	PU	PU	_	4	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_whow_thanksgiving-88
+# text = 这些活动可以教育你的孩子们有感恩之心。
 1	这些	这些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	活动	活动	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=6|end_char=8
@@ -1464,6 +1651,8 @@
 11	心	心	NN	NN	_	8	dobj	_	start_char=27|end_char=28
 12	。	。	PU	PU	_	4	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_thanksgiving-89
+# text = 5 计划晚餐后的活动。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	计划	计划	NN	NN	_	6	dep	_	start_char=2|end_char=4
 3	晚餐	晚餐	NN	NN	_	6	nmod	_	start_char=5|end_char=7
@@ -1472,6 +1661,8 @@
 6	活动	活动	NN	NN	_	0	root	_	start_char=12|end_char=14
 7	。	。	PU	PU	_	6	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_whow_thanksgiving-90
+# text = 吃完晚饭后所有人多少有点昏昏欲睡，这时候可以进行一些放松的娱乐项目，下面是一些建议：
 1	吃完	吃完	VV	VV	_	9	advcl:loc	_	start_char=0|end_char=2
 2	晚饭	晚饭	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	后	后	LC	LC	_	1	case	_	start_char=6|end_char=7
@@ -1498,12 +1689,16 @@
 24	建议	建议	NN	NN	_	9	conj	_	start_char=62|end_char=64
 25	：	：	PU	PU	_	9	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_whow_thanksgiving-91
+# text = 全家人一起散步。
 1	全家	全家	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	人	人	NN	NN	_	4	nsubj	_	start_char=3|end_char=4
 3	一起	一起	AD	AD	_	4	advmod	_	start_char=5|end_char=7
 4	散步	散步	VV	VV	_	0	root	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	4	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_thanksgiving-92
+# text = 不要忘记你平常的遛狗活动，尤其是在狗狗吃了感恩节饼干之后。
 1	不	不	AD	AD	_	3	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
 3	忘记	忘记	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -1523,10 +1718,14 @@
 17	之后	之后	LC	LC	_	13	case	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	3	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_whow_thanksgiving-93
+# text = 娱乐活动。
 1	娱乐	娱乐	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	活动	活动	NN	NN	_	0	root	_	start_char=3|end_char=5
 3	。	。	PU	PU	_	2	punct	_	start_char=6|end_char=7
 
+# sent_id = gcdt_whow_thanksgiving-94
+# text = 玩字谜游戏，讲故事，分享照片，聊新闻等等。
 1	玩	玩	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	字谜	字谜	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	游戏	游戏	NN	NN	_	1	dobj	_	start_char=5|end_char=7
@@ -1542,9 +1741,13 @@
 13	等等	等等	ETC	ETC	_	12	etc	_	start_char=30|end_char=32
 14	。	。	PU	PU	_	1	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_whow_thanksgiving-95
+# text = 阅读。
 1	阅读	阅读	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	。	。	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_thanksgiving-96
+# text = 你平时总有一些收集起来却没时间看得书，现在就是开始阅读它们的好时候。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	平时	平时	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	总	总	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -1570,10 +1773,14 @@
 23	时候	时候	NN	NN	_	19	dobj	_	start_char=53|end_char=55
 24	。	。	PU	PU	_	4	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_thanksgiving-97
+# text = 看电影。
 1	看	看	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	电影	电影	NN	NN	_	1	dobj	_	start_char=2|end_char=4
 3	。	。	PU	PU	_	1	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_whow_thanksgiving-98
+# text = 浏览电视节目表来寻找适合观看的电影，或者欣赏你最喜欢的碟片。
 1	浏览	浏览	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	电视	电视	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	节目表	节目表	NN	NN	_	1	dobj	_	start_char=6|end_char=9
@@ -1593,11 +1800,15 @@
 17	碟片	碟片	NN	NN	_	12	dobj	_	start_char=43|end_char=45
 18	。	。	PU	PU	_	1	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_whow_thanksgiving-99
+# text = 玩棋盘游戏。
 1	玩	玩	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	棋盘	棋盘	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	游戏	游戏	NN	NN	_	1	dobj	_	start_char=5|end_char=7
 4	。	。	PU	PU	_	1	punct	_	start_char=8|end_char=9
 
+# sent_id = gcdt_whow_thanksgiving-100
+# text = 如果孩子们的兴致很高，你可以组织他们进行棋盘游戏。
 1	如果	如果	CS	CS	_	6	advmod	_	start_char=0|end_char=2
 2	孩子们	孩子们	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -1614,6 +1825,8 @@
 14	游戏	游戏	NN	NN	_	12	dobj	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	10	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_thanksgiving-101
+# text = 6 如果你觉得很困，在饭后打一个小盹。
 1	6	6	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	4	advmod	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -1629,6 +1842,8 @@
 13	小盹	小盹	NN	NN	_	10	dobj	_	start_char=27|end_char=29
 14	。	。	PU	PU	_	10	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_thanksgiving-102
+# text = 如果你计划参加下一天的黑色星期五采购，你会觉得这几个小时的睡眠非常值。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	计划	计划	VV	VV	_	15	dep	_	start_char=5|end_char=7
@@ -1654,6 +1869,8 @@
 23	值	值	VV	VV	_	15	ccomp	_	start_char=55|end_char=56
 24	。	。	PU	PU	_	15	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_thanksgiving-103
+# text = 即使你打算明天哪里都不去，在沙发上打个盹也没什么，这样做会让你精力充沛感觉更好。
 1	即使	即使	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	打算	打算	VV	VV	_	23	dep	_	start_char=5|end_char=7
@@ -1685,6 +1902,8 @@
 29	好	好	VA	VA	_	27	ccomp	_	start_char=66|end_char=67
 30	。	。	PU	PU	_	23	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_whow_thanksgiving-104
+# text = 7 在下一天充分利用感恩节剩下来的食物。
 1	7	7	CD	CD	_	7	nsubj	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	下	下	DT	DT	_	7	nmod:prep	_	start_char=4|end_char=5
@@ -1699,6 +1918,8 @@
 12	食物	食物	NN	NN	_	7	dobj	_	start_char=27|end_char=29
 13	。	。	PU	PU	_	7	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_whow_thanksgiving-105
+# text = 你的客人可以带走一部分食物，但剩下的食物仍旧数量可观。
 1	你	你	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	客人	客人	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -1717,6 +1938,8 @@
 16	可观	可观	VA	VA	_	5	conj	_	start_char=39|end_char=41
 17	。	。	PU	PU	_	5	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_whow_thanksgiving-106
+# text = 第二天，你充分休息之后，就该着手利用剩下的食物了，下面是一些制作建议：
 1	第二	第二	OD	OD	_	11	dep	_	start_char=0|end_char=2
 2	天	天	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	11	punct	_	start_char=5|end_char=6
@@ -1741,15 +1964,23 @@
 22	建议	建议	NN	NN	_	11	conj	_	start_char=53|end_char=55
 23	：	：	PU	PU	_	22	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_thanksgiving-107
+# text = 火鸡和杂烩
 1	火鸡	火鸡	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	杂烩	杂烩	NN	NN	_	0	root	_	start_char=5|end_char=7
 
+# sent_id = gcdt_whow_thanksgiving-108
+# text = 火鸡汤
 1	火鸡汤	火鸡汤	NR	NR	_	0	root	_	start_char=0|end_char=3
 
+# sent_id = gcdt_whow_thanksgiving-109
+# text = 火鸡三明治
 1	火鸡	火鸡	NN	NN	_	2	dep	_	start_char=0|end_char=2
 2	三明治	三明治	NR	NR	_	0	root	_	start_char=3|end_char=6
 
+# sent_id = gcdt_whow_thanksgiving-110
+# text = 裹有加雪莉酒的面包屑的火鸡
 1	裹有	裹有	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	加雪莉酒	加雪莉酒	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=7
 3	的	的	DEC	DEC	_	1	mark	_	start_char=8|end_char=9
@@ -1757,9 +1988,13 @@
 5	的	的	DEG	DEG	_	4	case	_	start_char=14|end_char=15
 6	火鸡	火鸡	NN	NN	_	1	dobj	_	start_char=16|end_char=18
 
+# sent_id = gcdt_whow_thanksgiving-111
+# text = 碎火鸡肉
 1	碎	碎	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	火鸡肉	火鸡肉	NN	NN	_	1	dobj	_	start_char=2|end_char=5
 
+# sent_id = gcdt_whow_thanksgiving-112
+# text = 在接下来的几天处理火鸡残余物
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	接下来	接下来	VV	VV	_	4	dep	_	start_char=2|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7

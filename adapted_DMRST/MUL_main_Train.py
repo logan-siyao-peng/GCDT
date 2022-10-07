@@ -33,7 +33,7 @@ def parse_args():
     parser.add_argument('--classifier_bias', type=str, default='True', help='Whether classifier has bias')
     parser.add_argument('--seed', type=int, default=111, help='Seed number')
     
-    parser.add_argument('--epoch', type=int, default=15, help='Epoch number')
+    parser.add_argument('--epoch', type=int, default=50, help='Epoch number')
 
     parser.add_argument('--lr', type=float, default=0.00002, help='Initial lr')
     parser.add_argument('--lr_decay_epoch', type=int, default=1, help='Lr decay epoch')

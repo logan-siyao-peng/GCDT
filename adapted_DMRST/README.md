@@ -21,7 +21,7 @@ We provide a preprocessed version of GCDT using the hfl/chinese-roberta-wwm-ext 
 
 Please specify your --datapath, and your --savepath would be Savings/{corpus\_embedding\_name}\_bs{batch\_size}\_seed\_{seed_number} by default.
 
-`python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 15 --batch_size 1 --seed 111`
+`python MUL_main_Train.py --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext/  --use_org_Parseval True --epoch 50 --batch_size 1 --seed 111`
 
 ### To evaluate with saved torch dumps
 

@@ -1,8 +1,23 @@
+# newdoc id = gcdt_news_kangle
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2020-05-11
+# meta::dateModified = 2020-06-15
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E5%BA%B7%E6%96%87%E7%BD%B2%E9%87%8D%E9%96%8B%E5%BA%B7%E6%A8%82%E8%A8%AD%E6%96%BD
+# meta::speakerCount = 0
+# meta::title = 康文署重开康乐设施
+# meta::shortTitle = kangle
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_kangle-1
+# text = 康文署重开康乐设施
 1	康文署	康文署	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	重开	重开	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	康乐	康乐	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
 4	设施	设施	NN	NN	_	2	dobj	_	start_char=10|end_char=12
 
+# sent_id = gcdt_news_kangle-2
+# text = 【2020年5月11日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2020年	2020年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	5月	5月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -10,6 +25,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_kangle-3
+# text = 康乐及文化事务署（康文署）今日（5月10日）宣布，鉴于2019冠状病毒病的最新情况，康乐文化署的更多康乐及文化场地将于5月21日重新开放。
 1	康乐	康乐	NR	NR	_	4	conj	_	start_char=0|end_char=2
 2	及	及	CC	CC	_	4	cc	_	start_char=3|end_char=4
 3	文化	文化	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -49,6 +66,8 @@
 37	开放	开放	VV	VV	_	13	ccomp	_	start_char=102|end_char=104
 38	。	。	PU	PU	_	13	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_news_kangle-4
+# text = 而康乐和体育活动训练班及外展音乐课程，也将从6月1日开始恢复。
 1	而	而	AD	AD	_	18	advmod	_	start_char=0|end_char=1
 2	康乐	康乐	NN	NN	_	10	conj	_	start_char=2|end_char=4
 3	和	和	CC	CC	_	10	cc	_	start_char=5|end_char=6
@@ -69,6 +88,8 @@
 18	恢复	恢复	VV	VV	_	0	root	_	start_char=45|end_char=47
 19	。	。	PU	PU	_	18	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_news_kangle-5
+# text = 将于5月21日（星期四）重新开放的休闲设施包括大部分公共游泳池（仅针对特定的游泳池设施，例如主池、副池）舞蹈室／活动室、健身室、运动攀登设施、英式／美式桌球台、体操训练场、烧烤场、贝澳营地、水上活动中心、屯门康乐体育中心户外运动攀登墙及绳网阵将在适当时候宣布将重新开放的设施的详细信息。
 1	将于	将于	VV	VV	_	11	acl	_	start_char=0|end_char=2
 2	5月	5月	NT	NT	_	3	compound:nn	_	start_char=3|end_char=5
 3	21日	21日	NT	NT	_	5	compound:nn	_	start_char=6|end_char=9
@@ -149,6 +170,8 @@
 78	信息	信息	NN	NN	_	70	dobj	_	start_char=217|end_char=219
 79	。	。	PU	PU	_	70	punct	_	start_char=220|end_char=221
 
+# sent_id = gcdt_news_kangle-6
+# text = 此外，康文署重新开放的收费场地（例如运动场、体育馆、壁球场、网球场、草地滚球场及屯门康乐体育中心）的更衣室及淋浴设施，将于明日（5月11日）重新开放。
 1	此外	此外	AD	AD	_	41	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	41	punct	_	start_char=3|end_char=4
 3	康文署	康文署	NN	NN	_	5	nsubj	_	start_char=5|end_char=8
@@ -192,6 +215,8 @@
 41	开放	开放	VV	VV	_	0	root	_	start_char=112|end_char=114
 42	。	。	PU	PU	_	41	punct	_	start_char=115|end_char=116
 
+# sent_id = gcdt_news_kangle-7
+# text = 将采取特殊措施，例如打开备用淋浴间或淋浴喷头，安排体温检查以及加强对淋浴间和储物柜的定期清洁和消毒。
 1	将	将	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	采取	采取	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	特殊	特殊	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
@@ -221,6 +246,8 @@
 27	消毒	消毒	NN	NN	_	18	dobj	_	start_char=73|end_char=75
 28	。	。	PU	PU	_	2	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_news_kangle-8
+# text = 市民可于5月20日（星期三）开始，透过康体通互联网订票服务，各区康乐事务办事处康体通预约室，重新开放设施的康体通预约室及自助服务亭，预订已重新开放的室内休闲设施）。
 1	市民	市民	NN	NN	_	9	nsubj	_	start_char=0|end_char=2
 2	可	可	VV	VV	_	9	aux:modal	_	start_char=3|end_char=4
 3	于	于	P	P	_	5	case	_	start_char=5|end_char=6
@@ -266,6 +293,8 @@
 43	）	）	PU	PU	_	35	punct	_	start_char=122|end_char=123
 44	。	。	PU	PU	_	35	punct	_	start_char=124|end_char=125
 
+# sent_id = gcdt_news_kangle-9
+# text = 水上运动中心的休闲链接预订处将在休闲设施重新开放的同一天恢复预订服务。
 1	水上	水上	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	运动	运动	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	中心	中心	NN	NN	_	7	nmod:assmod	_	start_char=6|end_char=8
@@ -288,6 +317,8 @@
 20	服务	服务	NN	NN	_	18	dobj	_	start_char=51|end_char=53
 21	。	。	PU	PU	_	18	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_news_kangle-10
+# text = 对于与较早关闭场所有关的退款安排（没有补场安排），租房者可以向重新开放的康文署休闲场所或地区休闲服务办公室的休闲链接预订处提交一份完整的退款申请表以及原始预订许可。
 1	对于	对于	P	P	_	9	case	_	start_char=0|end_char=2
 2	与	与	P	P	_	5	case	_	start_char=3|end_char=4
 3	较早	较早	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -334,6 +365,8 @@
 44	许可	许可	NN	NN	_	34	dobj	_	start_char=122|end_char=124
 45	。	。	PU	PU	_	34	punct	_	start_char=125|end_char=126
 
+# sent_id = gcdt_news_kangle-11
+# text = 可以从以下网站下载申请表。
 1	可以	可以	VV	VV	_	5	aux:modal	_	start_char=0|end_char=2
 2	从	从	P	P	_	4	case	_	start_char=3|end_char=4
 3	以下	以下	PN	PN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -342,6 +375,8 @@
 6	申请表	申请表	NN	NN	_	5	dobj	_	start_char=14|end_char=17
 7	。	。	PU	PU	_	5	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_news_kangle-12
+# text = 康乐文化署呼吁场地使用者遵守《预防及控制疾病（禁止群组聚集）规例》（第599G章），禁止团体聚会人数超过法律规定的人数。
 1	康乐	康乐	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	文化署	文化署	NN	NN	_	3	nsubj	_	start_char=3|end_char=6
 3	呼吁	呼吁	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -376,6 +411,8 @@
 32	人数	人数	NN	NN	_	24	dobj	_	start_char=88|end_char=90
 33	。	。	PU	PU	_	3	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_news_kangle-13
+# text = 康文署会在休憩设施采取特别措施，以重新开放。
 1	康文署	康文署	NN	NN	_	6	nsubj	_	start_char=0|end_char=3
 2	会	会	VV	VV	_	6	aux:modal	_	start_char=4|end_char=5
 3	在	在	P	P	_	5	case	_	start_char=6|end_char=7
@@ -390,6 +427,8 @@
 12	开放	开放	VV	VV	_	6	conj	_	start_char=30|end_char=32
 13	。	。	PU	PU	_	6	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_news_kangle-14
+# text = 措施包括加强清洁工作，安排所有进入室内场所的人的体温检查，限制场所使用者的数量以及打开备用桌子或有特定距离的桌子。
 1	措施	措施	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	包括	包括	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	加强	加强	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
@@ -424,6 +463,8 @@
 32	桌子	桌子	NN	NN	_	24	dobj	_	start_char=85|end_char=87
 33	。	。	PU	PU	_	2	punct	_	start_char=88|end_char=89
 
+# sent_id = gcdt_news_kangle-15
+# text = 康乐文化署亦会于6月1日（星期一）在户外及室内场地，以及在水上运动中心举办的康体活动，恢复一些娱乐节目。
 1	康乐	康乐	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	文化署	文化署	NN	NN	_	27	nsubj	_	start_char=3|end_char=6
 3	亦	亦	AD	AD	_	27	advmod	_	start_char=7|end_char=8
@@ -456,6 +497,8 @@
 30	节目	节目	NN	NN	_	27	dobj	_	start_char=78|end_char=80
 31	。	。	PU	PU	_	27	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_news_kangle-16
+# text = 这些包括康乐及体育活动训练班，包括网球、高尔夫球、太极、草地滚球、羽毛球、壁球、乒乓球、健体舞、器械健体、社交舞、独木舟、滑浪风帆等。
 1	这些	这些	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	包括	包括	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	康乐	康乐	NN	NN	_	7	conj	_	start_char=6|end_char=8
@@ -494,6 +537,8 @@
 36	等	等	ETC	ETC	_	35	etc	_	start_char=100|end_char=101
 37	。	。	PU	PU	_	2	punct	_	start_char=102|end_char=103
 
+# sent_id = gcdt_news_kangle-17
+# text = 为减少社交接触和感染风险，参加人数每个程序最多可容纳八人（包括导师）或法律规定的人数。
 1	为	为	P	P	_	2	case	_	start_char=0|end_char=1
 2	减少	减少	VV	VV	_	16	nmod:prep	_	start_char=2|end_char=4
 3	社交	社交	NN	NN	_	7	compound:nn	_	start_char=5|end_char=7
@@ -523,6 +568,8 @@
 27	人数	人数	NN	NN	_	16	dobj	_	start_char=66|end_char=68
 28	。	。	PU	PU	_	16	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_news_kangle-18
+# text = 公众人士可自2020年5月25日（星期一）起，通过互联网，在康文署的区康乐事务办事处预订柜台，设有康乐通服务及自助服务亭的康乐场所，以先到先得的方式报名。
 1	公众	公众	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	人士	人士	NN	NN	_	23	nsubj	_	start_char=3|end_char=5
 3	可	可	VV	VV	_	23	aux:modal	_	start_char=6|end_char=7
@@ -566,6 +613,8 @@
 41	报名	报名	VV	VV	_	37	ccomp	_	start_char=114|end_char=116
 42	。	。	PU	PU	_	23	punct	_	start_char=117|end_char=118
 
+# sent_id = gcdt_news_kangle-19
+# text = 有关课程及报名的详情，稍后会上载至康文署网页。
 1	有关	有关	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	课程	课程	NN	NN	_	6	conj	_	start_char=3|end_char=5
 3	及	及	CC	CC	_	6	cc	_	start_char=6|end_char=7
@@ -581,6 +630,8 @@
 13	网页	网页	NN	NN	_	10	dobj	_	start_char=32|end_char=34
 14	。	。	PU	PU	_	10	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_news_kangle-20
+# text = 公众也可以向地区休闲服务办公室查询。
 1	公众	公众	NN	NN	_	9	nsubj	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	9	advmod	_	start_char=3|end_char=4
 3	可以	可以	VV	VV	_	9	aux:modal	_	start_char=5|end_char=7
@@ -592,6 +643,8 @@
 9	查询	查询	VV	VV	_	0	root	_	start_char=23|end_char=25
 10	。	。	PU	PU	_	9	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_news_kangle-21
+# text = 处理及接受部门的非收费土地康乐及体育设施的个人及集体预订申请，针对收费土地康乐及体育设施的集体预订申请，婚礼场地，圆形剧场及非收费休闲场地的使用申请非指定用途/销售活动将暂停，直到另行通知。
 1	处理	处理	VV	VV	_	18	nsubj	_	start_char=0|end_char=2
 2	及	及	CC	CC	_	1	cc	_	start_char=3|end_char=4
 3	接受	接受	VV	VV	_	1	conj	_	start_char=5|end_char=7
@@ -651,6 +704,8 @@
 57	通知	通知	NN	NN	_	55	dobj	_	start_char=148|end_char=150
 58	。	。	PU	PU	_	47	punct	_	start_char=151|end_char=152
 
+# sent_id = gcdt_news_kangle-22
+# text = 公共游泳池重新开放后，将宣布对游泳池设施进行整体预订的安排。
 1	公共	公共	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	游泳池	游泳池	NN	NN	_	4	nsubj	_	start_char=3|end_char=6
 3	重新	重新	AD	AD	_	4	advmod	_	start_char=7|end_char=9
@@ -669,6 +724,8 @@
 16	安排	安排	NN	NN	_	12	dobj	_	start_char=42|end_char=44
 17	。	。	PU	PU	_	8	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_news_kangle-23
+# text = 关于文化场所，另外12个地区图书馆的成人和儿童图书馆将于5月21日部分开放，并实行特殊的开放时间。
 1	关于	关于	P	P	_	3	case	_	start_char=0|end_char=2
 2	文化	文化	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	场所	场所	NN	NN	_	20	nmod:prep	_	start_char=6|end_char=8
@@ -698,6 +755,8 @@
 27	时间	时间	NN	NN	_	23	dobj	_	start_char=72|end_char=74
 28	。	。	PU	PU	_	20	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_news_kangle-24
+# text = 它们包括香港仔公共图书馆，柴湾公共图书馆，骆克道公共图书馆，荔枝角公共图书馆，蓝田公共图书馆，牛池湾公共图书馆，油麻地公共图书馆，粉岭公共图书馆，大埔公共图书馆，调乌坑岭公共图书馆，青衣公共图书馆和东涌公共图书馆。
 1	它们	它	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	包括	包括	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	香港仔	香港仔	NR	NR	_	5	nmod	_	start_char=6|end_char=9
@@ -749,6 +808,8 @@
 49	图书馆	图书馆	NN	NN	_	2	dobj	_	start_char=151|end_char=154
 50	。	。	PU	PU	_	2	punct	_	start_char=155|end_char=156
 
+# sent_id = gcdt_news_kangle-25
+# text = 这12个地区图书馆的开放时间为周一至周六的下午1点至晚上8点，周日和公众假期的上午9点至下午5点。
 1	这	这	DT	DT	_	5	det	_	start_char=0|end_char=1
 2	12	12	CD	CD	_	1	dep	_	start_char=2|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -780,6 +841,8 @@
 29	5点	5点	NT	NT	_	0	root	_	start_char=74|end_char=76
 30	。	。	PU	PU	_	29	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_news_kangle-26
+# text = 为了避免人们聚集，图书馆将按时段安排入场，每个时段持续约一小时。
 1	为了	为了	P	P	_	2	case	_	start_char=0|end_char=2
 2	避免	避免	VV	VV	_	10	nmod:prep	_	start_char=3|end_char=5
 3	人们	人	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -801,6 +864,8 @@
 19	小时	小时	NN	NN	_	16	dobj	_	start_char=47|end_char=49
 20	。	。	PU	PU	_	10	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_kangle-27
+# text = 入学单将以先到先得的方式分配，以参加每届会议。
 1	入学单	入学单	NN	NN	_	8	nsubj	_	start_char=0|end_char=3
 2	将	将	AD	AD	_	8	advmod	_	start_char=4|end_char=5
 3	以	以	P	P	_	7	case	_	start_char=6|end_char=7
@@ -816,6 +881,8 @@
 13	会议	会议	NN	NN	_	11	dobj	_	start_char=32|end_char=34
 14	。	。	PU	PU	_	8	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_news_kangle-28
+# text = 12岁以下的儿童仅在成人陪同下才能进入。
 1	12	12	CD	CD	_	5	nmod	_	start_char=0|end_char=2
 2	岁	岁	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	以下	以下	LC	LC	_	1	case	_	start_char=5|end_char=7
@@ -831,6 +898,8 @@
 13	进入	进入	VV	VV	_	0	root	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	13	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_news_kangle-29
+# text = 将提供有限的服务，包括借出和退还图书馆资料以及领取保留的图书馆资料。
 1	将	将	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	提供	提供	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	有限	有限	VA	VA	_	5	amod	_	start_char=5|end_char=7
@@ -851,6 +920,8 @@
 18	资料	资料	NN	NN	_	7	dobj	_	start_char=48|end_char=50
 19	。	。	PU	PU	_	2	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_news_kangle-30
+# text = 一些计算机设施将恢复服务并开放供电话预订。
 1	一些	一些	CD	CD	_	3	dep	_	start_char=0|end_char=2
 2	计算机	计算机	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	设施	设施	NN	NN	_	5	nsubj	_	start_char=7|end_char=9
@@ -864,6 +935,8 @@
 11	预订	预订	VV	VV	_	9	ccomp	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	5	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_news_kangle-31
+# text = 报纸和期刊区将保持关闭。
 1	报纸	报纸	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	期刊区	期刊区	NN	NN	_	5	nsubj	_	start_char=5|end_char=8
@@ -872,6 +945,8 @@
 6	关闭	关闭	NN	NN	_	5	dobj	_	start_char=14|end_char=16
 7	。	。	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_kangle-32
+# text = 上述12个公共图书馆和5个已重新开放的主要图书馆（包括九龙，坪山天水围，沙田，荃湾，屯门公共图书馆）的学生学习室将在同一天恢复服务。
 1	上述	上述	JJ	JJ	_	5	amod	_	start_char=0|end_char=2
 2	12	12	CD	CD	_	5	nummod	_	start_char=3|end_char=5
 3	个	个	M	M	_	2	mark:clf	_	start_char=6|end_char=7
@@ -913,6 +988,8 @@
 39	服务	服务	NN	NN	_	38	dobj	_	start_char=101|end_char=103
 40	。	。	PU	PU	_	38	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_news_kangle-33
+# text = 学生自习室将与上述图书馆一样实行特殊的开放时间。
 1	学生	学生	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	自习室	自习室	NN	NN	_	8	nsubj	_	start_char=3|end_char=6
 3	将	将	AD	AD	_	8	advmod	_	start_char=7|end_char=8
@@ -927,6 +1004,8 @@
 12	时间	时间	NN	NN	_	8	dobj	_	start_char=32|end_char=34
 13	。	。	PU	PU	_	8	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_news_kangle-34
+# text = 入场是按会话安排的，每次会话持续约三个小时，并且用户数量有限。
 1	入场	入场	NN	NN	_	5	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	5	cop	_	start_char=3|end_char=4
 3	按	按	P	P	_	4	case	_	start_char=5|end_char=6
@@ -949,6 +1028,8 @@
 20	有限	有限	VA	VA	_	11	conj	_	start_char=47|end_char=49
 21	。	。	PU	PU	_	11	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_kangle-35
+# text = 港岛东体育馆休憩处，香港文化中心及大围荃南路的自助图书馆站，以及香港公共图书馆的所有掉书服务，包括港铁中环，九龙塘及南区青站已恢复服务。
 1	港岛东	港岛东	NR	NR	_	2	compound:nn	_	start_char=0|end_char=3
 2	体育馆	体育馆	NN	NN	_	3	compound:nn	_	start_char=4|end_char=7
 3	休憩处	休憩处	NN	NN	_	22	dep	_	start_char=8|end_char=11
@@ -985,6 +1066,8 @@
 34	服务	服务	NN	NN	_	33	dobj	_	start_char=98|end_char=100
 35	。	。	PU	PU	_	33	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_news_kangle-36
+# text = 公共图书馆将继续提供在线服务，例如电子书和电子数据库。
 1	公共	公共	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	图书馆	图书馆	NN	NN	_	5	nsubj	_	start_char=3|end_char=6
 3	将	将	AD	AD	_	5	advmod	_	start_char=7|end_char=8
@@ -1000,6 +1083,8 @@
 13	数据库	数据库	NN	NN	_	5	dobj	_	start_char=35|end_char=38
 14	。	。	PU	PU	_	5	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_news_kangle-37
+# text = 有关详细信息，请访问康文署网站。
 1	有关	有关	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	详细	详细	JJ	JJ	_	3	amod	_	start_char=3|end_char=5
 3	信息	信息	NN	NN	_	6	nsubj	_	start_char=6|end_char=8
@@ -1010,6 +1095,8 @@
 8	网站	网站	NN	NN	_	6	dobj	_	start_char=20|end_char=22
 9	。	。	PU	PU	_	6	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_news_kangle-38
+# text = 此外，音乐事务处成人外展音乐课程将于6月1日恢复，参加课程的人数不得超过八名（包括导师）或法律规定的人数。
 1	此外	此外	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	音乐	音乐	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -1043,6 +1130,8 @@
 31	人数	人数	NN	NN	_	20	dobj	_	start_char=80|end_char=82
 32	。	。	PU	PU	_	13	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_news_kangle-39
+# text = 参观公共图书馆和音乐事务处音乐中心的游客将需要使用酒精搓手液，入场前要进行体温检测，还建议戴好口罩。
 1	参观	参观	VV	VV	_	10	acl	_	start_char=0|end_char=2
 2	公共	公共	JJ	JJ	_	3	amod	_	start_char=3|end_char=5
 3	图书馆	图书馆	NN	NN	_	8	conj	_	start_char=6|end_char=9
@@ -1072,6 +1161,8 @@
 27	口罩	口罩	VV	VV	_	26	compound:vc	_	start_char=73|end_char=75
 28	。	。	PU	PU	_	13	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_news_kangle-40
+# text = 将采取加强清洁措施，包括在会议之间进行清洁。
 1	将	将	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	采取	采取	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	加强	加强	VV	VV	_	2	ccomp	_	start_char=5|end_char=7
@@ -1086,6 +1177,8 @@
 12	清洁	清洁	NN	NN	_	11	dobj	_	start_char=30|end_char=32
 13	。	。	PU	PU	_	2	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_news_kangle-41
+# text = 康文署会继续密切监察情况，并及时检讨有关安排。
 1	康文署	康文署	NN	NN	_	5	nsubj	_	start_char=0|end_char=3
 2	会	会	VV	VV	_	5	aux:modal	_	start_char=4|end_char=5
 3	继续	继续	VV	VV	_	5	xcomp	_	start_char=6|end_char=8

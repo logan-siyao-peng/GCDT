@@ -1,8 +1,23 @@
+# newdoc id = gcdt_whow_flirt
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://zh.wikihow.com/%E7%94%A8%E7%9F%AD%E4%BF%A1%E8%B0%83%E6%83%85
+# meta::speakerCount = 0
+# meta::title = 如何用短信调情
+# meta::shortTitle = flirt
+# meta::author = Connell Barrett
+# meta::genre = whow
+# meta::partition = train
+# sent_id = gcdt_whow_flirt-1
+# text = 如何用短信调情
 1	如何	如何	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	用	用	P	P	_	3	case	_	start_char=3|end_char=4
 3	短信	短信	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
 4	调情	调情	VV	VV	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_whow_flirt-2
+# text = 这么说你打算利用简讯、微信、Whatsapp等即时通讯工具撩撩妹、调调情，又不想显得太主动，甚至猥琐？
 1	这么	这么	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	说	说	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -34,6 +49,8 @@
 29	猥琐	猥琐	VV	VV	_	26	conj	_	start_char=76|end_char=78
 30	？	？	PU	PU	_	2	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_whow_flirt-3
+# text = 那么恭喜你找对地方了！
 1	那么	那么	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	恭喜	恭喜	VV	VV	_	7	dep	_	start_char=3|end_char=5
 3	你	你	PN	PN	_	2	dobj	_	start_char=6|end_char=7
@@ -42,6 +59,8 @@
 6	了	了	SP	SP	_	7	discourse	_	start_char=14|end_char=15
 7	！	！	PU	PU	_	0	root	_	start_char=16|end_char=17
 
+# sent_id = gcdt_whow_flirt-4
+# text = 你懂得在下手之前先做功课，就已经比无数调情竞争对手强得多了。
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	懂得	懂得	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	在	在	P	P	_	4	case	_	start_char=5|end_char=6
@@ -64,6 +83,8 @@
 20	了	了	SP	SP	_	19	discourse	_	start_char=47|end_char=48
 21	。	。	PU	PU	_	2	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_whow_flirt-5
+# text = 从第一个步骤逐一看起，学习如何在尊重对方的基础上充分调动你的机智和心仪的对象调情吧。
 1	从	从	P	P	_	4	case	_	start_char=0|end_char=1
 2	第一	第一	OD	OD	_	4	nummod	_	start_char=2|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -92,13 +113,19 @@
 26	吧	吧	SP	SP	_	27	discourse	_	start_char=65|end_char=66
 27	。	。	PU	PU	_	6	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_whow_flirt-6
+# text = 方法1
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	1	1	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_flirt-7
+# text = 该做什么
 1	该	该	VV	VV	_	2	xcomp	_	start_char=0|end_char=1
 2	做	做	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	什么	什么	PN	PN	_	2	dobj	_	start_char=4|end_char=6
 
+# sent_id = gcdt_whow_flirt-8
+# text = 1 对话的开始一定要轻松随意。
 1	1	1	CD	CD	_	7	dep	_	start_char=0|end_char=1
 2	对话	对话	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -109,6 +136,8 @@
 8	随意	随意	VA	VA	_	7	compound:vc	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	7	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_flirt-9
+# text = 和线下世界一样，调情的第一步永远是打破沉默，和对方展开交流。
 1	和	和	P	P	_	3	case	_	start_char=0|end_char=1
 2	线下	线下	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	世界	世界	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -129,6 +158,8 @@
 18	交流	交流	NN	NN	_	17	dobj	_	start_char=44|end_char=46
 19	。	。	PU	PU	_	12	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_whow_flirt-10
+# text = 可以向对方发个简短的信息询问这一天过得怎么样，也可以针对对方的工作或者学习问个具体的问题，哪怕简简单单打声招呼也行。
 1	可以	可以	VV	VV	_	4	aux:modal	_	start_char=0|end_char=2
 2	向	向	P	P	_	3	case	_	start_char=3|end_char=4
 3	对方	对方	PN	PN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -167,6 +198,8 @@
 36	行	行	VV	VV	_	31	conj	_	start_char=91|end_char=92
 37	。	。	PU	PU	_	4	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_whow_flirt-11
+# text = 其实调情最难的是最初突破你给自己设置的心理防线。
 1	其实	其实	AD	AD	_	15	advmod	_	start_char=0|end_char=2
 2	调情	调情	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	最	最	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -184,6 +217,8 @@
 15	防线	防线	NN	NN	_	0	root	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	15	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_whow_flirt-12
+# text = 如果你还是害怕迈出这第一步，可以试着告诉自己，哪怕结果再不济，也比面对面向对方发起进攻失败的情形要好得多。
 1	如果	如果	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	还是	还是	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -220,6 +255,8 @@
 34	多	多	VA	VA	_	11	conj	_	start_char=84|end_char=85
 35	。	。	PU	PU	_	34	punct	_	start_char=86|end_char=87
 
+# sent_id = gcdt_whow_flirt-13
+# text = 通过微信等即时通讯工具调情其实真没什么好紧张的。
 1	通过	通过	P	P	_	6	case	_	start_char=0|end_char=2
 2	微信	微信	NN	NN	_	6	compound:nn	_	start_char=3|end_char=5
 3	等	等	ETC	ETC	_	2	etc	_	start_char=6|end_char=7
@@ -236,6 +273,8 @@
 14	的	的	SP	SP	_	15	discourse	_	start_char=35|end_char=36
 15	。	。	PU	PU	_	0	root	_	start_char=37|end_char=38
 
+# sent_id = gcdt_whow_flirt-14
+# text = 即便对方不想和你对话，也可以不选择完全回复了事，而从你这一边来看，和对方刚好没有看到你的信息也没有任何区别，无所谓尴尬。
 1	即便	即便	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	对方	对方	PN	PN	_	4	nsubj	_	start_char=3|end_char=5
 3	不	不	AD	AD	_	4	neg	_	start_char=6|end_char=7
@@ -277,6 +316,8 @@
 39	尴尬	尴尬	VA	VA	_	34	conj	_	start_char=95|end_char=97
 40	。	。	PU	PU	_	29	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_whow_flirt-15
+# text = 说起来，如果你和对方根本不熟，利用通讯工具发起对话还可以避免尴尬。
 1	说	说	VV	VV	_	19	dep	_	start_char=0|end_char=1
 2	起来	起来	VV	VV	_	1	advmod:rcomp	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	19	punct	_	start_char=5|end_char=6
@@ -299,6 +340,8 @@
 20	尴尬	尴尬	VA	VA	_	19	ccomp	_	start_char=49|end_char=51
 21	。	。	PU	PU	_	19	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_whow_flirt-16
+# text = 你可以向对方咨询与工作或者学习有关的问题就是个不错的法子。
 1	你	你	PN	PN	_	18	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	5	aux:modal	_	start_char=2|end_char=4
 3	向	向	P	P	_	4	case	_	start_char=5|end_char=6
@@ -319,6 +362,8 @@
 18	法子	法子	NN	NN	_	0	root	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	18	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_whow_flirt-17
+# text = 如果对方有什么特长，也可以就此展开交流。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	对方	对方	PN	PN	_	3	dep	_	start_char=3|end_char=5
 3	有	有	VE	VE	_	11	dep	_	start_char=6|end_char=7
@@ -333,6 +378,8 @@
 12	交流	交流	NN	NN	_	11	dobj	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	11	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_whow_flirt-18
+# text = 比如说，如果对方的昵称和某个乐队有关，可以这样问：“你的昵称真不错，去过某某乐队的演唱会吗？”
 1	比如说	比如说	AD	AD	_	15	advmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	15	punct	_	start_char=4|end_char=5
 3	如果	如果	CS	CS	_	11	advmod	_	start_char=6|end_char=8
@@ -366,12 +413,16 @@
 31	？	？	PU	PU	_	15	punct	_	start_char=75|end_char=76
 32	”	”	PU	PU	_	15	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_whow_flirt-19
+# text = 2 可以稍作寒暄。
 1	2	2	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=2|end_char=4
 3	稍作	稍作	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	寒暄	寒暄	VV	VV	_	3	ccomp	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	3	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_flirt-20
+# text = 交换过亲切友好的问候之后，就可以稍稍寒暄几句，问问对方最近过得如何了。
 1	交换	交换	VV	VV	_	12	advcl:loc	_	start_char=0|end_char=2
 2	过	过	AS	AS	_	1	aux:asp	_	start_char=3|end_char=4
 3	亲切	亲切	VA	VA	_	6	amod	_	start_char=5|end_char=7
@@ -396,6 +447,8 @@
 22	了	了	SP	SP	_	21	discourse	_	start_char=54|end_char=55
 23	。	。	PU	PU	_	12	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_flirt-21
+# text = 可以问候对方的工作、学习情况，也可以根据对方的兴趣爱好、最近的旅行经历等提问。
 1	可以	可以	VV	VV	_	2	aux:modal	_	start_char=0|end_char=2
 2	问候	问候	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	对方	对方	PN	PN	_	8	nmod:assmod	_	start_char=6|end_char=8
@@ -421,6 +474,8 @@
 23	提问	提问	NN	NN	_	2	dobj	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	2	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_flirt-22
+# text = 除了直接问人家问题，还可以给出你自己的看法。
 1	除了	除了	P	P	_	3	case	_	start_char=0|end_char=2
 2	直接	直接	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	问	问	VV	VV	_	9	nmod:prep	_	start_char=6|end_char=7
@@ -436,6 +491,8 @@
 13	看法	看法	NN	NN	_	9	dobj	_	start_char=31|end_char=33
 14	。	。	PU	PU	_	9	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_whow_flirt-23
+# text = 等对方回答你的问题之后，就可以简单地说几句你自己的看法，或者根据对方的回答进一步问问题。
 1	等	等	P	P	_	3	case	_	start_char=0|end_char=1
 2	对方	对方	PN	PN	_	3	nsubj	_	start_char=2|end_char=4
 3	回答	回答	VV	VV	_	13	nmod:prep	_	start_char=5|end_char=7
@@ -466,6 +523,8 @@
 28	问题	问题	NN	NN	_	27	dobj	_	start_char=68|end_char=70
 29	。	。	PU	PU	_	13	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_whow_flirt-24
+# text = 但是要记住，不要打探对方的个人生活，一定要将对话气氛控制在轻松有趣的范围之内。
 1	但是	但是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
 3	记住	记住	VV	VV	_	18	dep	_	start_char=5|end_char=7
@@ -492,6 +551,8 @@
 24	之内	之内	LC	LC	_	23	case	_	start_char=59|end_char=61
 25	。	。	PU	PU	_	3	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_whow_flirt-25
+# text = 不过寒暄问候的话题不要拖得太长，一两分钟破冰足矣，再长就无聊了。
 1	不过	不过	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	寒暄	寒暄	VV	VV	_	5	acl	_	start_char=3|end_char=5
 3	问候	问候	VV	VV	_	5	acl	_	start_char=6|end_char=8
@@ -517,6 +578,8 @@
 23	了	了	SP	SP	_	22	discourse	_	start_char=52|end_char=53
 24	。	。	PU	PU	_	11	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_whow_flirt-26
+# text = 举个例子，问过对方以乐队取名的昵称之后，很自然地可以继续问对方喜欢什么样的音乐，不喜欢什么样的音乐。
 1	举	举	VV	VV	_	19	dep	_	start_char=0|end_char=1
 2	个	个	M	M	_	3	nummod	_	start_char=2|end_char=3
 3	例子	例子	NN	NN	_	1	dobj	_	start_char=4|end_char=6
@@ -549,6 +612,8 @@
 30	音乐	音乐	NN	NN	_	27	dobj	_	start_char=76|end_char=78
 31	。	。	PU	PU	_	19	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_whow_flirt-27
+# text = 你还可以给出自己的想法，比如可以说：“如果你喜欢某某乐队，我再向你推荐一个某某某乐队，他们风格很像，只是风格更偏黑暗系一些。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	还	还	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=4|end_char=6
@@ -591,6 +656,8 @@
 40	一些	一些	AD	AD	_	39	advmod	_	start_char=98|end_char=100
 41	。	。	PU	PU	_	4	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_whow_flirt-28
+# text = 你还喜欢其他什么乐队？”
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	还	还	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	喜欢	喜欢	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -600,12 +667,16 @@
 7	？	？	PU	PU	_	3	punct	_	start_char=16|end_char=17
 8	”	”	PU	PU	_	3	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_flirt-29
+# text = 3 适当开玩笑。
 1	3	3	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	适当	适当	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	开	开	VV	VV	_	0	root	_	start_char=5|end_char=6
 4	玩笑	玩笑	NN	NN	_	3	dobj	_	start_char=7|end_char=9
 5	。	。	PU	PU	_	3	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_flirt-30
+# text = 恰到好处的幽默每个人都喜欢。
 1	恰到好处	恰到好处	VV	VV	_	3	acl	_	start_char=0|end_char=4
 2	的	的	DEC	DEC	_	1	mark	_	start_char=5|end_char=6
 3	幽默	幽默	NN	NN	_	6	compound:nn	_	start_char=7|end_char=9
@@ -616,6 +687,8 @@
 8	喜欢	喜欢	VV	VV	_	0	root	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	8	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_whow_flirt-31
+# text = 玛丽莲·梦露就说过，“如果你能让一个女人笑，你就能让她做任何事。”
 1	玛丽莲·梦露	玛丽莲·梦露	NR	NR	_	3	nsubj	_	start_char=0|end_char=6
 2	就	就	AD	AD	_	3	advmod	_	start_char=7|end_char=8
 3	说	说	VV	VV	_	0	root	_	start_char=9|end_char=10
@@ -642,6 +715,8 @@
 24	。	。	PU	PU	_	3	punct	_	start_char=54|end_char=55
 25	”	”	PU	PU	_	3	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_flirt-32
+# text = （别担心，对男士一样适用）
 1	（	（	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	别	别	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	担心	担心	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -652,6 +727,8 @@
 8	适用	适用	VA	VA	_	3	ccomp	_	start_char=17|end_char=19
 9	）	）	PU	PU	_	3	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_flirt-33
+# text = 所以就放松你紧绷的神经，充分发挥你的幽默才智吧，即使根据情况稍稍吐槽一下也无伤大雅。
 1	所以	所以	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	就	就	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	放松	放松	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -679,6 +756,8 @@
 25	大雅	大雅	NR	NR	_	24	dobj	_	start_char=63|end_char=65
 26	。	。	PU	PU	_	3	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_flirt-34
+# text = 例如，如果对方问你忙什么呢，不要说“在找人勾搭”，可以显得调侃一些，说：“正在写一本有史以来最伟大的书”或者“正在举杯望月，伤春悲秋中”等等。
 1	例如	例如	AD	AD	_	22	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	22	punct	_	start_char=3|end_char=4
 3	如果	如果	CS	CS	_	5	advmod	_	start_char=5|end_char=7
@@ -729,6 +808,8 @@
 48	等等	等等	ETC	ETC	_	29	dep	_	start_char=115|end_char=117
 49	。	。	PU	PU	_	22	punct	_	start_char=118|end_char=119
 
+# sent_id = gcdt_whow_flirt-35
+# text = 你还可以利用这样的回答来暗示对方你的兴趣所在，如你业余时间确实喜欢写东西，或者你是个品酒行家等。
 1	你	你	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	还	还	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=4|end_char=6
@@ -763,6 +844,8 @@
 32	等	等	ETC	ETC	_	31	etc	_	start_char=77|end_char=78
 33	。	。	PU	PU	_	4	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_whow_flirt-36
+# text = 还是刚刚举过的乐队的例子，你可以在讨论音乐的时候夹带一两句幽默的话。
 1	还是	还是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	刚刚	刚刚	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	举	举	VV	VV	_	6	acl	_	start_char=6|end_char=7
@@ -788,6 +871,8 @@
 23	话	话	NN	NN	_	17	dobj	_	start_char=54|end_char=55
 24	。	。	PU	PU	_	17	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_whow_flirt-37
+# text = 比如，你可以说：“我也不明白最近的音乐频道里为什么总放某某的歌，难道他忙于戒掉嗑药之余还有时间录歌？”
 1	比如	比如	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	你	你	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -825,6 +910,8 @@
 35	？	？	PU	PU	_	5	punct	_	start_char=83|end_char=84
 36	”	”	PU	PU	_	5	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_whow_flirt-38
+# text = 4 适当的时候可以稍作挑逗之语。
 1	4	4	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	适当	适当	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -836,6 +923,8 @@
 9	语	语	NN	NN	_	6	dobj	_	start_char=21|end_char=22
 10	。	。	PU	PU	_	6	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_flirt-39
+# text = 待到你和对方已经建立了轻松友好的聊天伙伴关系，就可以稍稍再进一步，偶尔用适当的话挑逗对方一下了。
 1	待到	待到	VV	VV	_	19	dep	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	1	dobj	_	start_char=3|end_char=4
 3	和	和	P	P	_	4	case	_	start_char=5|end_char=6
@@ -867,6 +956,8 @@
 29	了	了	SP	SP	_	26	discourse	_	start_char=74|end_char=75
 30	。	。	PU	PU	_	19	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_whow_flirt-40
+# text = 但是一定要谨记，聊天的气氛依然要保持轻松。
 1	但是	但是	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	一定	一定	AD	AD	_	4	advmod	_	start_char=3|end_char=5
 3	要	要	VV	VV	_	4	xcomp	_	start_char=6|end_char=7
@@ -881,6 +972,8 @@
 12	轻松	轻松	VA	VA	_	11	advmod:rcomp	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	4	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_whow_flirt-41
+# text = 一个通用规则是，你和对方越熟，你的话就可以尺度越大一些。
 1	一	一	CD	CD	_	4	nummod	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	通用	通用	NR	NR	_	4	compound:nn	_	start_char=4|end_char=6
@@ -904,6 +997,8 @@
 21	一些	一些	AD	AD	_	20	advmod	_	start_char=45|end_char=47
 22	。	。	PU	PU	_	11	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_flirt-42
+# text = 即使是挑逗，也要注意分寸。
 1	即使	即使	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	3	cop	_	start_char=3|end_char=4
 3	挑逗	挑逗	VV	VV	_	7	dep	_	start_char=5|end_char=7
@@ -914,6 +1009,8 @@
 8	分寸	分寸	NN	NN	_	7	dobj	_	start_char=17|end_char=19
 9	。	。	PU	PU	_	7	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_whow_flirt-43
+# text = 首先，避免提及涉嫌窥探对方隐私的话题，其次，也不要拿对方的职业、梦想等等开玩笑。
 1	首先	首先	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	避免	避免	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -941,6 +1038,8 @@
 25	玩笑	玩笑	NN	NN	_	24	dobj	_	start_char=61|end_char=63
 26	。	。	PU	PU	_	3	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_whow_flirt-44
+# text = 是调情还是骚扰有时候区别就在一线之间，因此，不确定的时候，方法还是保守一些为妙。
 1	是	是	VC	VC	_	2	cop	_	start_char=0|end_char=1
 2	调情	调情	NN	NN	_	23	dep	_	start_char=2|end_char=4
 3	还是	还是	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -969,6 +1068,8 @@
 26	妙	妙	VA	VA	_	23	conj	_	start_char=63|end_char=64
 27	。	。	PU	PU	_	23	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_whow_flirt-45
+# text = 过一会再想一个好玩笑发过去，总比你弄得对方不自在，然后又试图给自己解释要容易得多。
 1	过	过	VV	VV	_	4	dep	_	start_char=0|end_char=1
 2	一会	一会	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	再	再	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -1000,6 +1101,8 @@
 29	多	多	VA	VA	_	22	ccomp	_	start_char=67|end_char=68
 30	。	。	PU	PU	_	4	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_whow_flirt-46
+# text = 还是用上文提到的例子，如果你这样说，是在开对方玩笑：“啥？
 1	还是	还是	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	用	用	P	P	_	3	case	_	start_char=3|end_char=4
 3	上文	上文	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -1022,6 +1125,8 @@
 20	啥	啥	PN	PN	_	17	dobj	_	start_char=46|end_char=47
 21	？	？	PU	PU	_	15	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_flirt-47
+# text = 你喜欢那个乐队，看不出来啊……”
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	喜欢	喜欢	VV	VV	_	12	dep	_	start_char=2|end_char=4
 3	那	那	DT	DT	_	5	det	_	start_char=5|end_char=6
@@ -1035,6 +1140,8 @@
 11	……	……	PU	PU	_	12	punct	_	start_char=23|end_char=25
 12	”	”	PU	PU	_	0	root	_	start_char=26|end_char=27
 
+# sent_id = gcdt_whow_flirt-48
+# text = 而如果你说“那个乐队很装逼，他们的粉丝也很差劲”对方就很可能会生气了。
 1	而	而	AD	AD	_	17	advmod	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	4	advmod	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -1062,12 +1169,16 @@
 25	了	了	SP	SP	_	24	discourse	_	start_char=57|end_char=58
 26	。	。	PU	PU	_	17	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_whow_flirt-49
+# text = 5 学会使用表情。
 1	5	5	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	学会	学会	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	使用	使用	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	表情	表情	NN	NN	_	3	dobj	_	start_char=8|end_char=10
 5	。	。	PU	PU	_	3	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_whow_flirt-50
+# text = 利用通讯工具调情的一大好处就是你可以使用表情，而其他一些方式，如电子邮件，则不方便这么做。
 1	利用	利用	VV	VV	_	8	acl	_	start_char=0|end_char=2
 2	通讯	通讯	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	工具	工具	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -1099,6 +1210,8 @@
 29	做	做	VV	VV	_	27	ccomp	_	start_char=71|end_char=72
 30	。	。	PU	PU	_	13	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_whow_flirt-51
+# text = 有了表情符号的帮助，你想表达的意思也会更加明确、生动。
 1	有	有	VE	VE	_	16	dep	_	start_char=0|end_char=1
 2	了	了	AS	AS	_	1	aux:asp	_	start_char=2|end_char=3
 3	表情	表情	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -1119,6 +1232,8 @@
 18	生动	生动	VA	VA	_	16	dep	_	start_char=41|end_char=43
 19	。	。	PU	PU	_	16	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_flirt-52
+# text = 挑逗对方的时候，可以多用用眨眼和吐舌头这样的表情。
 1	挑逗	挑逗	VV	VV	_	4	acl	_	start_char=0|end_char=2
 2	对方	对方	PN	PN	_	1	dobj	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	1	mark	_	start_char=6|end_char=7
@@ -1136,6 +1251,8 @@
 15	表情	表情	NN	NN	_	8	dobj	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	8	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_whow_flirt-53
+# text = 使用聊天工具的内置表情即可，这样既可以让你的目的既呼之欲出，又稍稍有所保留。
 1	使用	使用	VV	VV	_	6	acl	_	start_char=0|end_char=2
 2	聊天	聊天	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	工具	工具	NN	NN	_	1	dobj	_	start_char=6|end_char=8
@@ -1161,6 +1278,8 @@
 23	保留	保留	VV	VV	_	21	ccomp	_	start_char=57|end_char=59
 24	。	。	PU	PU	_	7	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_whow_flirt-54
+# text = 同时要注意，不要滥用表情符号。
 1	同时	同时	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	要	要	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
 3	注意	注意	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1172,6 +1291,8 @@
 9	符号	符号	NN	NN	_	7	dobj	_	start_char=20|end_char=22
 10	。	。	PU	PU	_	3	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_flirt-55
+# text = 表情符号就像糖一样，点到即可，可以让你表达的意思更加清楚。
 1	表情	表情	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	符号	符号	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	就	就	AD	AD	_	6	advmod	_	start_char=6|end_char=7
@@ -1192,6 +1313,8 @@
 18	清楚	清楚	VA	VA	_	12	ccomp	_	start_char=43|end_char=45
 19	。	。	PU	PU	_	6	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_whow_flirt-56
+# text = 而如果你用得太多，就显得幼稚、让人厌烦了。
 1	而	而	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	7	advmod	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	7	nsubj	_	start_char=5|end_char=6
@@ -1210,6 +1333,8 @@
 16	了	了	AS	AS	_	15	aux:asp	_	start_char=34|end_char=35
 17	。	。	PU	PU	_	11	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_whow_flirt-57
+# text = 6 如果收效显著，那么就可以趁热打铁了。
 1	6	6	CD	CD	_	9	dep	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	4	advmod	_	start_char=2|end_char=4
 3	收效	收效	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1222,6 +1347,8 @@
 10	了	了	SP	SP	_	11	discourse	_	start_char=26|end_char=27
 11	。	。	PU	PU	_	0	root	_	start_char=28|end_char=29
 
+# sent_id = gcdt_whow_flirt-58
+# text = 要是你发给对方的笑话和调侃的话对方也用幽默的语言来回应，那么你就可以趁机更进一步。
 1	要是	要是	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	发给	发给	VV	VV	_	26	dep	_	start_char=5|end_char=7
@@ -1250,6 +1377,8 @@
 26	进一步	进一步	VA	VA	_	0	root	_	start_char=62|end_char=65
 27	。	。	PU	PU	_	26	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_flirt-59
+# text = 记住，动作一定要轻，不要从轻松的调情一下子进入限制级内容模式。
 1	记住	记住	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	1	punct	_	start_char=3|end_char=4
 3	动作	动作	NN	NN	_	6	nsubj	_	start_char=5|end_char=7
@@ -1270,6 +1399,8 @@
 18	模式	模式	NN	NN	_	15	dobj	_	start_char=45|end_char=47
 19	。	。	PU	PU	_	1	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_flirt-60
+# text = 相反，要擅用含蓄的表达。
 1	相反	相反	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	要	要	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -1279,6 +1410,8 @@
 7	表达	表达	NN	NN	_	4	dobj	_	start_char=15|end_char=17
 8	。	。	PU	PU	_	4	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_whow_flirt-61
+# text = 这种方法其实不论是在聊天工具的交流中还是现实世界的交流中，都很有帮助。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	方法	方法	NN	NN	_	22	nsubj	_	start_char=4|end_char=6
@@ -1304,6 +1437,8 @@
 23	帮助	帮助	NN	NN	_	22	dobj	_	start_char=54|end_char=56
 24	。	。	PU	PU	_	22	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_whow_flirt-62
+# text = 不要把气氛搞得太严肃，一定要自始至终保持轻松的聊天气氛。
 1	不	不	AD	AD	_	8	neg	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	8	xcomp	_	start_char=2|end_char=3
 3	把	把	BA	BA	_	8	aux:ba	_	start_char=4|end_char=5
@@ -1323,6 +1458,8 @@
 17	气氛	气氛	NN	NN	_	13	dobj	_	start_char=41|end_char=43
 18	。	。	PU	PU	_	8	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_whow_flirt-63
+# text = 其实任何调情行为都有点自作聪明的意味，所以你也就不用显得一本正经，或者一副志在必得的模样，这样也会让你显得更坦诚，而不是更猥琐。
 1	其实	其实	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	任何	任何	DT	DT	_	4	det	_	start_char=3|end_char=5
 3	调情	调情	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -1366,6 +1503,8 @@
 41	猥琐	猥琐	VA	VA	_	31	conj	_	start_char=101|end_char=103
 42	。	。	PU	PU	_	31	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_whow_flirt-64
+# text = 还是用我们提到的乐队的例子，如果对方说他/她说觉得一首歌很不错，曲调撩人，歌词暧昧，你就既可以假装严肃地回应道：“严肃点，严肃点，咳咳”或者说：“不是吧？”
 1	还是	还是	AD	AD	_	37	advmod	_	start_char=0|end_char=2
 2	用	用	P	P	_	8	case	_	start_char=3|end_char=4
 3	我们	我	PN	PN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1424,6 +1563,8 @@
 56	？	？	PU	PU	_	34	punct	_	start_char=131|end_char=132
 57	”	”	PU	PU	_	34	punct	_	start_char=133|end_char=134
 
+# sent_id = gcdt_whow_flirt-65
+# text = 再配一个暧昧的表情符号。
 1	再	再	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	配	配	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	8	nummod	_	start_char=4|end_char=5
@@ -1434,6 +1575,8 @@
 8	符号	符号	NN	NN	_	2	dobj	_	start_char=16|end_char=18
 9	。	。	PU	PU	_	2	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_whow_flirt-66
+# text = 7 而如果对方显得不怎么积极，那么就知趣点及时收手吧。
 1	7	7	CD	CD	_	12	dep	_	start_char=0|end_char=1
 2	而	而	AD	AD	_	12	advmod	_	start_char=2|end_char=3
 3	如果	如果	CS	CS	_	8	advmod	_	start_char=4|end_char=6
@@ -1452,6 +1595,8 @@
 16	吧	吧	SP	SP	_	17	discourse	_	start_char=39|end_char=40
 17	。	。	PU	PU	_	0	root	_	start_char=41|end_char=42
 
+# sent_id = gcdt_whow_flirt-67
+# text = 不论是用何种方式试图和他人调情，被拒绝都是一种可能。
 1	不论	不论	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	7	cop	_	start_char=3|end_char=4
 3	用	用	P	P	_	6	case	_	start_char=5|end_char=6
@@ -1472,6 +1617,8 @@
 18	可能	可能	NN	NN	_	0	root	_	start_char=40|end_char=42
 19	。	。	PU	PU	_	18	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_whow_flirt-68
+# text = 利用社交网络进行调情成本低，又没有面对面交流时拉不下脸的问题，其实被拒绝的概率更高。
 1	利用	利用	VV	VV	_	25	dep	_	start_char=0|end_char=2
 2	社交	社交	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	网络	网络	NN	NN	_	1	dobj	_	start_char=6|end_char=8
@@ -1499,6 +1646,8 @@
 25	高	高	VA	VA	_	0	root	_	start_char=64|end_char=65
 26	。	。	PU	PU	_	25	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_flirt-69
+# text = 如果你使劲浑身解数都只是剃头挑子一头热，那么就趁早作罢，礼貌地结束话题。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	使劲	使劲	VV	VV	_	8	dep	_	start_char=5|end_char=7
@@ -1519,6 +1668,8 @@
 18	话题	话题	NN	NN	_	17	dobj	_	start_char=50|end_char=52
 19	。	。	PU	PU	_	13	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_whow_flirt-70
+# text = 你可以说你有事要去忙了，工作、学习、睡觉都可以当做借口。
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	可以	可以	VV	VV	_	3	aux:modal	_	start_char=2|end_char=4
 3	说	说	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -1540,6 +1691,8 @@
 19	借口	借口	NN	NN	_	18	dobj	_	start_char=43|end_char=45
 20	。	。	PU	PU	_	3	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_whow_flirt-71
+# text = 用什么具体的借口不重要，重要的是这么做表明你尊重对方的意愿，不会强行把谈话进行下去让两方都尴尬。
 1	用	用	P	P	_	5	case	_	start_char=0|end_char=1
 2	什么	什么	DT	DT	_	5	det	_	start_char=2|end_char=4
 3	具体	具体	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -1574,6 +1727,8 @@
 32	尴尬	尴尬	VA	VA	_	28	ccomp	_	start_char=76|end_char=78
 33	。	。	PU	PU	_	13	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_whow_flirt-72
+# text = 举例说，如果你提到一首具体的歌，而对方说这是他/她另一半最喜欢的歌，那么过一会你就可以不动声色地说，“我有事先下线了，以后聊。”
 1	举例	举例	VV	VV	_	2	compound:vc	_	start_char=0|end_char=2
 2	说	说	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -1624,6 +1779,8 @@
 48	。	。	PU	PU	_	2	punct	_	start_char=109|end_char=110
 49	”	”	PU	PU	_	2	punct	_	start_char=111|end_char=112
 
+# sent_id = gcdt_whow_flirt-73
+# text = 8 记得做先结束对话的那个人。
 1	8	8	CD	CD	_	2	nsubj	_	start_char=0|end_char=1
 2	记得	记得	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	做	做	VV	VV	_	2	ccomp	_	start_char=5|end_char=6
@@ -1636,6 +1793,8 @@
 10	人	人	NN	NN	_	2	dobj	_	start_char=21|end_char=22
 11	。	。	PU	PU	_	2	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_flirt-74
+# text = 在线调情的一个好方法，就是要让对方回味无穷，这一点在线下同样适用。
 1	在线	在线	VV	VV	_	2	compound:vc	_	start_char=0|end_char=2
 2	调情	调情	VV	VV	_	7	acl	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
@@ -1661,6 +1820,8 @@
 23	适用	适用	VV	VV	_	12	conj	_	start_char=52|end_char=54
 24	。	。	PU	PU	_	12	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_whow_flirt-75
+# text = 在虚拟世界的调情中，先结束对话的方法可以是在对话即将失去热度时简短地说再见。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	虚拟	虚拟	JJ	JJ	_	3	amod	_	start_char=2|end_char=4
 3	世界	世界	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=7
@@ -1687,6 +1848,8 @@
 24	再见	再见	VV	VV	_	23	ccomp	_	start_char=58|end_char=60
 25	。	。	PU	PU	_	23	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_whow_flirt-76
+# text = 这样一来，对方在这段对话中得到的只有乐趣和充满趣味回忆，而不是聊天聊到强弩之末，你却没有结束的意思，对方只能绞尽脑汁找话说的尴尬。
 1	这样一来	这样一来	AD	AD	_	12	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	12	punct	_	start_char=5|end_char=6
 3	对方	对方	PN	PN	_	9	nsubj	_	start_char=7|end_char=9
@@ -1731,6 +1894,8 @@
 42	尴尬	尴尬	VA	VA	_	36	conj	_	start_char=103|end_char=105
 43	。	。	PU	PU	_	12	punct	_	start_char=106|end_char=107
 
+# sent_id = gcdt_whow_flirt-77
+# text = 如果对方一直都对你积极回应，那么就可以想办法给对方留下一个难忘的告别了。
 1	如果	如果	CS	CS	_	8	advmod	_	start_char=0|end_char=2
 2	对方	对方	PN	PN	_	8	nsubj	_	start_char=3|end_char=5
 3	一直	一直	AD	AD	_	8	advmod	_	start_char=6|end_char=8
@@ -1756,6 +1921,8 @@
 23	了	了	SP	SP	_	24	discourse	_	start_char=56|end_char=57
 24	。	。	PU	PU	_	13	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_whow_flirt-78
+# text = 这个时候，表情就又派上用场了。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	时候	时候	NN	NN	_	8	nmod:topic	_	start_char=4|end_char=6
@@ -1767,6 +1934,8 @@
 9	了	了	SP	SP	_	10	discourse	_	start_char=21|end_char=22
 10	。	。	PU	PU	_	0	root	_	start_char=23|end_char=24
 
+# sent_id = gcdt_whow_flirt-79
+# text = 例如，给对方发“晚安”可能显得很平淡，而晚安后面配一个表情，就生动得多，也显得贴心得多。
 1	例如	例如	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	给	给	P	P	_	4	case	_	start_char=5|end_char=6
@@ -1800,14 +1969,20 @@
 31	多	多	VA	VA	_	12	conj	_	start_char=72|end_char=73
 32	。	。	PU	PU	_	12	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_whow_flirt-80
+# text = 方法2
 1	方法	方法	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	2	2	CD	CD	_	1	dep	_	start_char=3|end_char=4
 
+# sent_id = gcdt_whow_flirt-81
+# text = 不该做什么
 1	不	不	AD	AD	_	3	neg	_	start_char=0|end_char=1
 2	该	该	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
 3	做	做	VV	VV	_	0	root	_	start_char=4|end_char=5
 4	什么	什么	PN	PN	_	3	dobj	_	start_char=6|end_char=8
 
+# sent_id = gcdt_whow_flirt-82
+# text = 1 不要说妄自菲薄的话。
 1	1	1	CD	CD	_	4	dep	_	start_char=0|end_char=1
 2	不	不	AD	AD	_	4	neg	_	start_char=2|end_char=3
 3	要	要	VV	VV	_	4	xcomp	_	start_char=4|end_char=5
@@ -1817,6 +1992,8 @@
 7	话	话	NN	NN	_	4	dobj	_	start_char=15|end_char=16
 8	。	。	PU	PU	_	4	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_whow_flirt-83
+# text = 自信是最有魅力的。
 1	自信	自信	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	4	cop	_	start_char=3|end_char=4
 3	最	最	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -1825,6 +2002,8 @@
 6	的	的	SP	SP	_	7	discourse	_	start_char=12|end_char=13
 7	。	。	PU	PU	_	0	root	_	start_char=14|end_char=15
 
+# sent_id = gcdt_whow_flirt-84
+# text = 这一点在现实世界中要比虚拟世界里还重要，但是聊天工具的使用中，也要注意保持自信。
 1	这	这	DT	DT	_	14	dep	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	点	点	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1854,6 +2033,8 @@
 27	自信	自信	NN	NN	_	26	dobj	_	start_char=63|end_char=65
 28	。	。	PU	PU	_	14	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_whow_flirt-85
+# text = 例如，不要总是说些自黑的玩笑，偶尔一个就足够了，而不要一而再再而三地拿自己开涮，不然很快对话中的调情意味就被你的不自信和缺乏安全感给淹没了。
 1	例如	例如	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	不	不	AD	AD	_	6	neg	_	start_char=5|end_char=6
@@ -1904,6 +2085,8 @@
 48	了	了	AS	AS	_	47	aux:asp	_	start_char=115|end_char=116
 49	。	。	PU	PU	_	6	punct	_	start_char=117|end_char=118
 
+# sent_id = gcdt_whow_flirt-86
+# text = 另一方面，也不要黑别人来开玩笑，不然就显得你既心眼不好又小家子气。
 1	另	另	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	方面	方面	NN	NN	_	7	nsubj	_	start_char=4|end_char=6
@@ -1929,6 +2112,8 @@
 23	小家子气	小家子气	VV	VV	_	21	conj	_	start_char=50|end_char=54
 24	。	。	PU	PU	_	7	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_whow_flirt-87
+# text = 所有对自己或者别人的消极评价都要避免。
 1	所有	所有	DT	DT	_	8	det	_	start_char=0|end_char=2
 2	对	对	P	P	_	5	case	_	start_char=3|end_char=4
 3	自己	自己	PN	PN	_	5	conj	_	start_char=5|end_char=7
@@ -1942,6 +2127,8 @@
 11	避免	避免	VV	VV	_	0	root	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	11	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_whow_flirt-88
+# text = 2 不要过于殷勤。
 1	2	2	CD	CD	_	5	dep	_	start_char=0|end_char=1
 2	不	不	AD	AD	_	5	neg	_	start_char=2|end_char=3
 3	要	要	VV	VV	_	5	xcomp	_	start_char=4|end_char=5
@@ -1949,12 +2136,16 @@
 5	殷勤	殷勤	VA	VA	_	0	root	_	start_char=9|end_char=11
 6	。	。	PU	PU	_	5	punct	_	start_char=12|end_char=13
 
+# sent_id = gcdt_whow_flirt-89
+# text = 调情重在乐趣。
 1	调情	调情	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	重	重	VA	VA	_	0	root	_	start_char=3|end_char=4
 3	在	在	VV	VV	_	2	advmod:rcomp	_	start_char=5|end_char=6
 4	乐趣	乐趣	NN	NN	_	2	dobj	_	start_char=7|end_char=9
 5	。	。	PU	PU	_	2	punct	_	start_char=10|end_char=11
 
+# sent_id = gcdt_whow_flirt-90
+# text = 对大多数人来说，适当听听恭维话感觉很爽，但是太多了就尴尬了。
 1	对	对	P	P	_	3	case	_	start_char=0|end_char=1
 2	大多数	大多数	CD	CD	_	3	dep	_	start_char=2|end_char=5
 3	人	人	NN	NN	_	11	nmod:prep	_	start_char=6|end_char=7
@@ -1976,6 +2167,8 @@
 19	了	了	SP	SP	_	18	discourse	_	start_char=46|end_char=47
 20	。	。	PU	PU	_	11	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_whow_flirt-91
+# text = 这么做也会让对方质疑你的动机，让人觉得你是别有所图才想接近对方。
 1	这么	这么	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	做	做	VV	VV	_	5	dep	_	start_char=3|end_char=4
 3	也	也	AD	AD	_	5	advmod	_	start_char=5|end_char=6
@@ -1999,6 +2192,8 @@
 21	对方	对方	PN	PN	_	20	dobj	_	start_char=49|end_char=51
 22	。	。	PU	PU	_	5	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_whow_flirt-92
+# text = 此外，在对话框里说再多好听的话也是廉价的，而且越多越适得其反。
 1	此外	此外	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	在	在	P	P	_	4	case	_	start_char=5|end_char=6
@@ -2022,6 +2217,8 @@
 21	适得其反	适得其反	VV	VV	_	19	conj	_	start_char=46|end_char=50
 22	。	。	PU	PU	_	14	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_whow_flirt-93
+# text = 语气把心思花在没完没了地恭维上，不如用心和对方进行真诚有趣的交流。
 1	语气	语气	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	把	把	BA	BA	_	4	aux:ba	_	start_char=3|end_char=4
 3	心思	心思	NN	NN	_	4	dep	_	start_char=5|end_char=7
@@ -2042,6 +2239,8 @@
 18	交流	交流	NN	NN	_	14	dobj	_	start_char=47|end_char=49
 19	。	。	PU	PU	_	4	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_whow_flirt-94
+# text = 你的原则应该是“表现重于表达”。
 1	你	你	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	原则	原则	NN	NN	_	8	nsubj	_	start_char=4|end_char=6
@@ -2054,6 +2253,8 @@
 10	”	”	PU	PU	_	8	punct	_	start_char=23|end_char=24
 11	。	。	PU	PU	_	8	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_whow_flirt-95
+# text = 也就是说，通过用心的交流态度向对方表达你的尊重和欣赏，而不是直白地说出来。
 1	也就是说	也就是说	AD	AD	_	10	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	10	punct	_	start_char=5|end_char=6
 3	通过	通过	P	P	_	7	case	_	start_char=7|end_char=9

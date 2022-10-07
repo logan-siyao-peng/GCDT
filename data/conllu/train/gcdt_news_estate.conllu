@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_estate
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2008-12-05
+# meta::dateModified = 2009-02-04
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%8A%A0%E5%A4%A7%E5%8A%9B%E5%BA%A6%E6%89%AD%E8%BD%AC%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A2%93%E5%8A%BF
+# meta::speakerCount = 0
+# meta::title = 美国考虑加大力度扭转房地产颓势
+# meta::shortTitle = estate
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_estate-1
+# text = 美国考虑加大力度扭转房地产颓势
 1	美国	美国	NR	NR	_	2	nsubj	_	start_char=0|end_char=2
 2	考虑	考虑	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	加大	加大	VV	VV	_	2	ccomp	_	start_char=6|end_char=8
@@ -6,6 +19,8 @@
 6	房地产	房地产	NN	NN	_	7	compound:nn	_	start_char=15|end_char=18
 7	颓势	颓势	NN	NN	_	5	dobj	_	start_char=19|end_char=21
 
+# sent_id = gcdt_news_estate-2
+# text = 【2008年12月5日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2008年	2008年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	12月	12月	NT	NT	_	5	dep	_	start_char=8|end_char=11
@@ -13,6 +28,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_estate-3
+# text = 多种新的经济数据显示，美国经济疲软的程度还在加深。
 1	多	多	CD	CD	_	6	nummod	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	新	新	JJ	JJ	_	6	amod	_	start_char=4|end_char=5
@@ -31,6 +48,8 @@
 16	加深	加深	VV	VV	_	7	ccomp	_	start_char=37|end_char=39
 17	。	。	PU	PU	_	7	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_news_estate-4
+# text = 美国政府正在考虑加大力度扭转房地产市场继续恶化的势头，从根源上缓解经济困境。
 1	美国	美国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	政府	政府	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	正在	正在	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -53,6 +72,8 @@
 20	困境	困境	NN	NN	_	18	dobj	_	start_char=54|end_char=56
 21	。	。	PU	PU	_	4	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_news_estate-5
+# text = 美国经济衰退虽然已经持续了一年，但多种新的经济数据显示，情况不仅没有好转的迹象，反而还在恶化。
 1	美国	美国	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	经济	经济	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	衰退	衰退	NN	NN	_	6	nsubj	_	start_char=6|end_char=8
@@ -85,6 +106,8 @@
 30	恶化	恶化	VV	VV	_	18	ccomp	_	start_char=73|end_char=75
 31	。	。	PU	PU	_	30	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_news_estate-6
+# text = 美国经济的最糟糕的局面可能还在后面。
 1	美国	美国	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	经济	经济	NN	NN	_	7	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -98,12 +121,16 @@
 11	后面	后面	NN	NN	_	10	dobj	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	10	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_news_estate-7
+# text = 工厂定单下跌零售额减少
 1	工厂	工厂	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	定单	定单	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	下跌	下跌	VV	VV	_	0	root	_	start_char=6|end_char=8
 4	零售额	零售额	NN	NN	_	5	nsubj	_	start_char=9|end_char=12
 5	减少	减少	VV	VV	_	3	conj	_	start_char=13|end_char=15
 
+# sent_id = gcdt_news_estate-8
+# text = 商务部报告说，10月份的工厂定单猛跌了5.1%，跌幅之大是8年来之最，超过了9月份的跌幅。
 1	商务部	商务部	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	报告	报告	NN	NN	_	3	nsubj	_	start_char=4|end_char=6
 3	说	说	VV	VV	_	0	root	_	start_char=7|end_char=8
@@ -133,12 +160,16 @@
 27	跌幅	跌幅	NN	NN	_	23	dobj	_	start_char=68|end_char=70
 28	。	。	PU	PU	_	3	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_news_estate-9
+# text = 9月下跌了3.1%。
 1	9月	9月	NT	NT	_	2	nmod:tmod	_	start_char=0|end_char=2
 2	下跌	下跌	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=6|end_char=7
 4	3.1%	3.1%	NN	NN	_	2	dobj	_	start_char=8|end_char=12
 5	。	。	PU	PU	_	2	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_news_estate-10
+# text = 定单减少的范围非常广泛，从金属、电脑、机械到运输设备等几乎所有的行业。
 1	定单	定单	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	减少	减少	VV	VV	_	4	acl	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
@@ -162,6 +193,8 @@
 21	行业	行业	NN	NN	_	6	nmod:prep	_	start_char=52|end_char=54
 22	。	。	PU	PU	_	6	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_news_estate-11
+# text = 耐用品定单减少了约7%，是2006年10月以来最大的。
 1	耐用品	耐用品	NN	NN	_	3	nsubj	_	start_char=0|end_char=3
 2	定单	定单	AD	AD	_	3	advmod	_	start_char=4|end_char=6
 3	减少	减少	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -177,6 +210,8 @@
 13	的	的	SP	SP	_	12	discourse	_	start_char=37|end_char=38
 14	。	。	PU	PU	_	3	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_news_estate-12
+# text = 飞机、军事设备等资本商品下跌5%。
 1	飞机	飞机	NN	NN	_	4	conj	_	start_char=0|end_char=2
 2	、	、	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	军事	军事	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -188,6 +223,8 @@
 9	5%	5%	CD	CD	_	8	nmod:range	_	start_char=22|end_char=24
 10	。	。	PU	PU	_	8	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_news_estate-13
+# text = 工厂定单的大幅度减少表示企业的生产活动将在今后几个月里进一步放慢。
 1	工厂	工厂	NN	NN	_	5	nsubj	_	start_char=0|end_char=2
 2	定单	定单	VV	VV	_	5	advmod:dvp	_	start_char=3|end_char=5
 3	的	的	DEV	DEV	_	2	mark	_	start_char=6|end_char=7
@@ -209,6 +246,8 @@
 19	放慢	放慢	VV	VV	_	6	ccomp	_	start_char=48|end_char=50
 20	。	。	PU	PU	_	6	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_news_estate-14
+# text = 在零售业，情况显然非常不妙。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	零售业	零售业	NN	NN	_	7	nmod:prep	_	start_char=2|end_char=5
 3	，	，	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -218,6 +257,8 @@
 7	不妙	不妙	VA	VA	_	0	root	_	start_char=17|end_char=19
 8	。	。	PU	PU	_	7	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_news_estate-15
+# text = 虽然黑色星期五商店拥挤不堪，网上销售在随后的星期一也出现强劲增长，但就整个11月的零售表现来看，情况非常糟糕。
 1	虽然	虽然	CS	CS	_	5	advmod	_	start_char=0|end_char=2
 2	黑色	黑色	JJ	JJ	_	4	amod	_	start_char=3|end_char=5
 3	星期五	星期五	NT	NT	_	5	nmod:tmod	_	start_char=6|end_char=9
@@ -250,6 +291,8 @@
 30	糟糕	糟糕	VA	VA	_	15	conj	_	start_char=81|end_char=83
 31	。	。	PU	PU	_	30	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_news_estate-16
+# text = 高盛/国际采购中心协会的销售指数在11月下跌2.7%，是1969年这项指数设立以来最差的，跌幅大大高于一些预测机构预测的下跌1%。
 1	高盛	高盛	NR	NR	_	12	nmod:topic	_	start_char=0|end_char=2
 2	/	/	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	国际	国际	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -286,6 +329,8 @@
 34	1%	1%	CD	CD	_	27	nmod:range	_	start_char=95|end_char=97
 35	。	。	PU	PU	_	12	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_news_estate-17
+# text = 领取失业救济人数26年来最高
 1	领取	领取	VV	VV	_	9	dep	_	start_char=0|end_char=2
 2	失业	失业	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	救济	救济	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -296,6 +341,8 @@
 8	最	最	AD	AD	_	9	advmod	_	start_char=19|end_char=20
 9	高	高	VA	VA	_	0	root	_	start_char=21|end_char=22
 
+# sent_id = gcdt_news_estate-18
+# text = 劳工部报告的上个星期首次申请失业补贴的人数出人意外地减少了2.1万人。
 1	劳工部	劳工部	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	报告	报告	VV	VV	_	13	acl	_	start_char=4|end_char=6
 3	的	的	DEC	DEC	_	2	mark	_	start_char=7|end_char=8
@@ -317,6 +364,8 @@
 19	人	人	NN	NN	_	16	dobj	_	start_char=51|end_char=52
 20	。	。	PU	PU	_	16	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_estate-19
+# text = 但是持续领取这项补贴一个星期以上的人数却增加了6250人，总数达到52.4万人。
 1	但是	但是	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	持续	持续	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	领取	领取	VV	VV	_	12	acl	_	start_char=6|end_char=8
@@ -341,6 +390,8 @@
 22	人	人	NN	NN	_	20	dobj	_	start_char=59|end_char=60
 23	。	。	PU	PU	_	14	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_news_estate-20
+# text = 根据劳工部的数据，在11月22日截止的那个星期，总共有4百零9万被解雇的美国人持续领取政府发放的失业救济金，是过去26年来最多的。
 1	根据	根据	P	P	_	4	case	_	start_char=0|end_char=2
 2	劳工部	劳工部	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
@@ -380,6 +431,8 @@
 37	的	的	SP	SP	_	36	discourse	_	start_char=99|end_char=100
 38	。	。	PU	PU	_	16	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_news_estate-21
+# text = 新的数据跟美联储公布的反映全国各地区经济状况的褐皮书所描述的情况是一致的。
 1	新	新	JJ	JJ	_	3	amod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	数据	数据	NN	NN	_	21	nsubj	_	start_char=4|end_char=6
@@ -404,6 +457,8 @@
 22	的	的	SP	SP	_	23	discourse	_	start_char=56|end_char=57
 23	。	。	PU	PU	_	0	root	_	start_char=58|end_char=59
 
+# sent_id = gcdt_news_estate-22
+# text = 褐皮书说，在过去6个星期里，“美联储管辖的各个地区的经济活动总体上看比上次报告时进一步走软”。
 1	褐皮书	褐皮书	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -435,6 +490,8 @@
 29	”	”	PU	PU	_	28	punct	_	start_char=73|end_char=74
 30	。	。	PU	PU	_	2	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_news_estate-23
+# text = 大部分地区都报告说，零售、汽车销售等都大幅度下滑。
 1	大	大	JJ	JJ	_	3	amod	_	start_char=0|end_char=1
 2	部分	部分	CD	CD	_	3	dep	_	start_char=2|end_char=4
 3	地区	地区	NN	NN	_	6	nsubj	_	start_char=5|end_char=7
@@ -452,6 +509,8 @@
 15	下滑	下滑	VV	VV	_	6	ccomp	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	6	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_news_estate-24
+# text = 旅游开支收紧，服务业、制造业都在收缩，新定单也非常疲软。
 1	旅游	旅游	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	开支	开支	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	收紧	收紧	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -470,6 +529,8 @@
 16	疲软	疲软	VA	VA	_	10	conj	_	start_char=40|end_char=42
 17	。	。	PU	PU	_	3	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_news_estate-25
+# text = 借贷收紧，房价下滑。
 1	借贷	借贷	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	收紧	收紧	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -477,12 +538,16 @@
 5	下滑	下滑	VV	VV	_	2	conj	_	start_char=11|end_char=13
 6	。	。	PU	PU	_	2	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_news_estate-26
+# text = 消费者储蓄上升消费减少
 1	消费者	消费者	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	储蓄	储蓄	NN	NN	_	3	nsubj	_	start_char=4|end_char=6
 3	上升	上升	VV	VV	_	0	root	_	start_char=7|end_char=9
 4	消费	消费	NN	NN	_	5	nsubj	_	start_char=10|end_char=12
 5	减少	减少	VV	VV	_	3	conj	_	start_char=13|end_char=15
 
+# sent_id = gcdt_news_estate-27
+# text = 总部设在科罗拉多州Boulder市的经济咨询公司“行动经济学”的首席经济学家麦克·恩格伦德在接受采访的时候说，新的数据显示，经济正在进入一个盘旋下滑的通道：“总体上说，经济数据相当一致地显示，经济已经进入一个相当强劲的盘旋下滑的通道。
 1	总部	总部	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	设	设	VV	VV	_	18	acl	_	start_char=3|end_char=4
 3	在	在	P	P	_	6	case	_	start_char=5|end_char=6
@@ -548,6 +613,8 @@
 63	通道	通道	NN	NN	_	54	dobj	_	start_char=176|end_char=178
 64	。	。	PU	PU	_	24	punct	_	start_char=179|end_char=180
 
+# sent_id = gcdt_news_estate-28
+# text = 从九月中旬以来，消费者和企业都在加紧‘去杠杆化’，也就是收缩开支，结果导致股市大幅度下跌，工厂定单下滑，失业人数大增，零售大幅滑坡。”
 1	从	从	P	P	_	3	case	_	start_char=0|end_char=1
 2	九月	九月	NT	NT	_	3	compound:nn	_	start_char=2|end_char=4
 3	中旬	中旬	NT	NT	_	13	nmod:prep	_	start_char=5|end_char=7
@@ -589,6 +656,8 @@
 39	。	。	PU	PU	_	13	punct	_	start_char=103|end_char=104
 40	”	”	PU	PU	_	13	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_news_estate-29
+# text = 恩格伦德指出，这一轮经济下滑中，最主要的因素是消费者心理和行为发生了重大的变化。
 1	恩格伦德	恩格伦德	NR	NR	_	2	nsubj	_	start_char=0|end_char=4
 2	指出	指出	VV	VV	_	0	root	_	start_char=5|end_char=7
 3	，	，	PU	PU	_	2	punct	_	start_char=8|end_char=9
@@ -615,6 +684,8 @@
 24	变化	变化	NN	NN	_	20	dobj	_	start_char=60|end_char=62
 25	。	。	PU	PU	_	2	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_news_estate-30
+# text = 从80年以来，无论经济遇到什么困难，企业会收缩，但消费者的行为一直没有大的变化。
 1	从	从	P	P	_	2	case	_	start_char=0|end_char=1
 2	80年	80年	NT	NT	_	13	nmod:prep	_	start_char=2|end_char=5
 3	以来	以来	LC	LC	_	2	case	_	start_char=6|end_char=8
@@ -640,6 +711,8 @@
 23	变化	变化	NN	NN	_	20	dobj	_	start_char=59|end_char=61
 24	。	。	PU	PU	_	13	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_news_estate-31
+# text = 消费开支跟收入的比例几十年来都相当稳定。
 1	消费	消费	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	开支	开支	NN	NN	_	4	conj	_	start_char=3|end_char=5
 3	跟	跟	CC	CC	_	4	cc	_	start_char=6|end_char=7
@@ -654,6 +727,8 @@
 12	稳定	稳定	VA	VA	_	0	root	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	12	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_news_estate-32
+# text = 但是在过去的8到10个星期里，情况发生了变化，储蓄率迅速上升，这是1980以来从来没有见过的。
 1	但是	但是	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	9	case	_	start_char=3|end_char=4
 3	过去	过去	NT	NT	_	9	nmod	_	start_char=5|end_char=7
@@ -685,6 +760,8 @@
 29	的	的	SP	SP	_	27	discourse	_	start_char=73|end_char=74
 30	。	。	PU	PU	_	13	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_news_estate-33
+# text = 消费者感到了恐慌，把自己的钱从其它地方收回来，放到银行里。
 1	消费者	消费者	NN	NN	_	2	nsubj	_	start_char=0|end_char=3
 2	感到	感到	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=7|end_char=8
@@ -705,6 +782,8 @@
 18	里	里	LC	LC	_	17	case	_	start_char=44|end_char=45
 19	。	。	PU	PU	_	2	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_news_estate-34
+# text = 恩格伦德说，只要消费者紧缩开支，增加储蓄，经济下滑的势头就不会停止。
 1	恩格伦德	恩格伦德	NR	NR	_	2	nsubj	_	start_char=0|end_char=4
 2	说	说	VV	VV	_	0	root	_	start_char=5|end_char=6
 3	，	，	PU	PU	_	2	punct	_	start_char=7|end_char=8
@@ -726,6 +805,8 @@
 19	停止	停止	VV	VV	_	2	ccomp	_	start_char=49|end_char=51
 20	。	。	PU	PU	_	2	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_news_estate-35
+# text = 制定计划解决房地产衰退根源
 1	制定	制定	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	计划	计划	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	解决	解决	VV	VV	_	1	conj	_	start_char=6|end_char=8
@@ -733,6 +814,8 @@
 5	衰退	衰退	NN	NN	_	6	compound:nn	_	start_char=13|end_char=15
 6	根源	根源	NN	NN	_	3	dobj	_	start_char=16|end_char=18
 
+# sent_id = gcdt_news_estate-36
+# text = 针对经济全面下滑的情况，美联储主席伯南克发表讲话，表示政府正在制定新的计划，加强对衰退源头房地产市场问题的治理。
 1	针对	针对	P	P	_	6	case	_	start_char=0|end_char=2
 2	经济	经济	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	全面	全面	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -765,6 +848,8 @@
 30	治理	治理	NN	NN	_	22	dobj	_	start_char=82|end_char=84
 31	。	。	PU	PU	_	11	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_news_estate-37
+# text = 伯南克说，房地产市场是这次衰退的起因，但现在情况越来越复杂，信贷紧缩、失业扩大，零售下滑等各种问题反过来又给房地产市场增加了很大的压力，造成了更多的房主失去自己的房屋。
 1	伯南克	伯南克	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -820,6 +905,8 @@
 53	房屋	房屋	NN	NN	_	50	dobj	_	start_char=133|end_char=135
 54	。	。	PU	PU	_	2	punct	_	start_char=136|end_char=137
 
+# sent_id = gcdt_news_estate-38
+# text = 而房地产市场形势的恶化又加快了衰退的速度。
 1	而	而	AD	AD	_	8	advmod	_	start_char=0|end_char=1
 2	房地产	房地产	NN	NN	_	4	compound:nn	_	start_char=2|end_char=5
 3	市场	市场	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -834,6 +921,8 @@
 12	速度	速度	NN	NN	_	8	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	8	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_news_estate-39
+# text = 为了打破房地产市场和其它行业衰退之间的恶性循环，伯南克表示，政府正在研究新的计划，阻止失赎房屋数量的增加。
 1	为了	为了	P	P	_	2	case	_	start_char=0|end_char=2
 2	打破	打破	VV	VV	_	15	nmod:prep	_	start_char=3|end_char=5
 3	房地产	房地产	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -865,6 +954,8 @@
 29	增加	增加	NN	NN	_	24	dobj	_	start_char=78|end_char=80
 30	。	。	PU	PU	_	15	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_news_estate-40
+# text = 具体做法虽然还在研究之中，但伯南克表示，努力方向是和房贷机构协商降低房贷利率，减轻遇到困难的房主每月还贷的压力，同时刺激买房需求。
 1	具体	具体	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	做法	做法	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	虽然	虽然	CS	CS	_	5	advmod	_	start_char=6|end_char=8
@@ -904,6 +995,8 @@
 37	需求	需求	NN	NN	_	35	dobj	_	start_char=98|end_char=100
 38	。	。	PU	PU	_	11	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_news_estate-41
+# text = 金融信息服务网站Bankrate的金融分析师格雷格·麦克布莱德（Greg McBride）在接受媒体采访的时候对政府的新的做法予以肯定：“降低房贷利率的目的是增加那些打算买房子的人腰包里的购买力。
 1	金融	金融	NN	NN	_	4	compound:nn	_	start_char=0|end_char=2
 2	信息	信息	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	服务	服务	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -952,6 +1045,8 @@
 46	购买力	购买力	NN	NN	_	36	dobj	_	start_char=138|end_char=141
 47	。	。	PU	PU	_	26	punct	_	start_char=142|end_char=143
 
+# sent_id = gcdt_news_estate-42
+# text = 只要你想买房子，你就会得到好处。
 1	只要	只要	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	10	dep	_	start_char=5|end_char=6
@@ -965,6 +1060,8 @@
 11	好处	好处	NN	NN	_	10	dobj	_	start_char=23|end_char=25
 12	。	。	PU	PU	_	10	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_news_estate-43
+# text = 这同时也有利于那些要卖房子的人。”
 1	这	这	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	同时	同时	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	也	也	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -978,6 +1075,8 @@
 11	。	。	PU	PU	_	4	punct	_	start_char=25|end_char=26
 12	”	”	PU	PU	_	4	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_news_estate-44
+# text = 美联储最近公布了要大量购买房贷融资公司房利美、房地美和Ginnie Mae的房贷支持债券等计划，和采取零利率的意向，这些动作在房贷市场引起了积极的反应。
 1	美联储	美联储	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	最近	最近	NT	NT	_	3	nmod:tmod	_	start_char=4|end_char=6
 3	公布	公布	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -1020,6 +1119,8 @@
 40	反应	反应	NN	NN	_	36	dobj	_	start_char=111|end_char=113
 41	。	。	PU	PU	_	3	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_news_estate-45
+# text = 上周的30年期抵押贷款固定利率平均水平从前一周的5.99%下降到5.47%，达到2005年6月以来的最低点。
 1	上	上	DT	DT	_	11	dep	_	start_char=0|end_char=1
 2	周	周	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	1	case	_	start_char=4|end_char=5
@@ -1049,6 +1150,8 @@
 27	最低点	最低点	NN	NN	_	22	dobj	_	start_char=76|end_char=79
 28	。	。	PU	PU	_	18	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_news_estate-46
+# text = 房贷申请数量大幅度增加。
 1	房贷	房贷	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	申请	申请	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	数量	数量	NN	NN	_	5	nsubj	_	start_char=6|end_char=8
@@ -1056,6 +1159,8 @@
 5	增加	增加	VV	VV	_	0	root	_	start_char=13|end_char=15
 6	。	。	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_news_estate-47
+# text = 购房抵押贷款申请和再融资贷款申请活动都异常活跃。
 1	购房	购房	NN	NN	_	9	compound:nn	_	start_char=0|end_char=2
 2	抵押	抵押	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	贷款	贷款	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -1070,6 +1175,8 @@
 12	活跃	活跃	VA	VA	_	0	root	_	start_char=32|end_char=34
 13	。	。	PU	PU	_	12	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_news_estate-48
+# text = 经济学家恩格伦德也认为，政府在刺激购房需求方面还有很大的运做空间。
 1	经济学家	经济学家	NN	NN	_	2	appos	_	start_char=0|end_char=4
 2	恩格伦德	恩格伦德	NR	NR	_	4	nsubj	_	start_char=5|end_char=9
 3	也	也	AD	AD	_	4	advmod	_	start_char=10|end_char=11
@@ -1090,6 +1197,8 @@
 18	空间	空间	NN	NN	_	13	dobj	_	start_char=47|end_char=49
 19	。	。	PU	PU	_	4	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_estate-49
+# text = 一方面可以通过税收结构的调整，给购屋者提供优惠，另一方面可以利用政府目前对房利美和房地美等房贷融资机构的控制来降低房贷利率。
 1	一	一	CD	CD	_	2	dep	_	start_char=0|end_char=1
 2	方面	方面	NN	NN	_	12	nsubj	_	start_char=2|end_char=4
 3	可以	可以	VV	VV	_	12	aux:modal	_	start_char=5|end_char=7

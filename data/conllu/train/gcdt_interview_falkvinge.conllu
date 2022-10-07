@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_falkvinge
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2020-11-24
+# meta::dateModified = 2020-12-16
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E7%B6%AD%E5%9F%BA%E6%96%B0%E8%81%9E%E5%B0%88%E8%A8%AA%E7%91%9E%E5%85%B8%E6%B5%B7%E7%9B%9C%E9%BB%A8%E9%A0%98%E8%A2%96%E9%87%8C%E5%8D%A1%E5%BE%B7%C2%B7%E7%A6%8F%E7%88%BE%E5%85%8B%E6%96%87
+# meta::speakerCount = 2
+# meta::title = 维基新闻专访瑞典海盗党领袖里卡德·福尔克文
+# meta::shortTitle = falkvinge
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_falkvinge-1
+# text = 维基新闻专访瑞典海盗党领袖里卡德·福尔克文
 1	维基	维基	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	新闻	新闻	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	专访	专访	NN	NN	_	7	dep	_	start_char=6|end_char=8
@@ -6,6 +19,8 @@
 6	领袖	领袖	NN	NN	_	7	appos	_	start_char=16|end_char=18
 7	里卡德·福尔克文	里卡德·福尔克文	NR	NR	_	0	root	_	start_char=19|end_char=27
 
+# sent_id = gcdt_interview_falkvinge-2
+# text = 【2020年11月24日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2020年	2020年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	11月	11月	NT	NT	_	5	dep	_	start_char=8|end_char=11
@@ -13,6 +28,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=16|end_char=17
 6	】	】	PU	PU	_	5	punct	_	start_char=18|end_char=19
 
+# sent_id = gcdt_interview_falkvinge-3
+# text = 译者注：英文维基新闻在2006年6月20日首次出版此稿
 1	译者	译者	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	注	注	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	：	：	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -29,6 +46,8 @@
 14	此	此	DT	DT	_	15	det	_	start_char=38|end_char=39
 15	稿	稿	NN	NN	_	13	dobj	_	start_char=40|end_char=41
 
+# sent_id = gcdt_interview_falkvinge-4
+# text = 海盗党是是2006年1月份公开出现的瑞典新政党，该党希望将使用互联网分享音乐、电影和其他版权内容的行为合法化。
 1	海盗党	海盗党	NR	NR	_	11	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	11	cop	_	start_char=4|end_char=5
 3	是	是	VC	VC	_	11	cop	_	start_char=6|end_char=7
@@ -60,6 +79,8 @@
 29	合法化	合法化	VV	VV	_	17	conj	_	start_char=79|end_char=82
 30	。	。	PU	PU	_	11	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_interview_falkvinge-5
+# text = 一小群理想主义者的努力看似注定要失败，但却引起了媒体的极大关注，部分原因是警方曾突袭了极受欢迎的BitTorrent追踪器海盗湾（见维基新闻报道）。
 1	一	一	CD	CD	_	5	nummod	_	start_char=0|end_char=1
 2	小	小	JJ	JJ	_	5	amod	_	start_char=2|end_char=3
 3	群	群	M	M	_	1	mark:clf	_	start_char=4|end_char=5
@@ -104,6 +125,8 @@
 42	）	）	PU	PU	_	41	punct	_	start_char=113|end_char=114
 43	。	。	PU	PU	_	8	punct	_	start_char=115|end_char=116
 
+# sent_id = gcdt_interview_falkvinge-6
+# text = 海盗湾（The Pirate Bay）允许人们使用BitTorrent协议下载其数据库中列出的内容（包括最新的好莱坞电影或电脑游戏），并获得了某种国际崇拜的地位，部分原因是其对来自大公司版权律师的法律威胁的公开和不敬的回应。
 1	海盗湾	海盗湾	NR	NR	_	7	nsubj	_	start_char=0|end_char=3
 2	（	（	PU	PU	_	5	punct	_	start_char=4|end_char=5
 3	The	The	P	P	_	5	case	_	start_char=6|end_char=9
@@ -164,6 +187,8 @@
 58	回应	回应	NN	NN	_	7	conj	_	start_char=164|end_char=166
 59	。	。	PU	PU	_	7	punct	_	start_char=167|end_char=168
 
+# sent_id = gcdt_interview_falkvinge-7
+# text = 该网站在荷兰服务器被突袭后几天重新开放（但现在又回到了瑞典）。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	网站	网站	NN	NN	_	12	nsubj	_	start_char=2|end_char=4
 3	在	在	P	P	_	5	case	_	start_char=5|end_char=6
@@ -186,6 +211,8 @@
 20	）	）	PU	PU	_	17	punct	_	start_char=48|end_char=49
 21	。	。	PU	PU	_	12	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_interview_falkvinge-8
+# text = 盗版党领袖里卡德·福尔克文（Rickard Falkvinge）认为，无论此案的法律结果如何，该网站都表明目前形式的版权法是不可持续的。
 1	盗版党	盗版党	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=3
 2	领袖	领袖	NN	NN	_	3	appos	_	start_char=4|end_char=6
 3	里卡德·福尔克文	里卡德·福尔克文	NR	NR	_	8	nsubj	_	start_char=7|end_char=15
@@ -218,6 +245,8 @@
 30	的	的	SP	SP	_	29	discourse	_	start_char=94|end_char=95
 31	。	。	PU	PU	_	8	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_interview_falkvinge-9
+# text = 该党采用了被人诟病的“网络海盗”的绰号，主张大幅限制版权法的范围和执行，废除专利法，并在其认为的“控制和监视社会”中保护隐私。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	党	党	NN	NN	_	3	nsubj	_	start_char=2|end_char=3
 3	采用	采用	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -261,6 +290,8 @@
 41	隐私	隐私	NN	NN	_	40	dobj	_	start_char=100|end_char=102
 42	。	。	PU	PU	_	3	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_interview_falkvinge-10
+# text = 该党希望在9月的选举中获得足够的选票，成为下届瑞典议会中一个小而重要的派系。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	党	党	NN	NN	_	3	nsubj	_	start_char=2|end_char=3
 3	希望	希望	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -289,6 +320,8 @@
 26	派系	派系	NN	NN	_	14	dobj	_	start_char=60|end_char=62
 27	。	。	PU	PU	_	3	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_interview_falkvinge-11
+# text = 里卡德·福尔克文在采访和党务工作的间隙，抽出一些时间回答了英文维基新闻的问题。
 1	里卡德·福尔克文	里卡德·福尔克文	NR	NR	_	10	nsubj	_	start_char=0|end_char=8
 2	在	在	P	P	_	8	case	_	start_char=9|end_char=10
 3	采访	采访	NN	NN	_	6	conj	_	start_char=11|end_char=13
@@ -310,6 +343,8 @@
 19	问题	问题	NN	NN	_	13	dobj	_	start_char=54|end_char=56
 20	。	。	PU	PU	_	10	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_interview_falkvinge-12
+# text = 有传言称，瑞典政府是间接代表美国美国电影协会（MPAA）关闭该网站。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	传言	传言	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	称	称	VV	VV	_	1	ccomp	_	start_char=5|end_char=6
@@ -331,6 +366,8 @@
 19	网站	网站	NN	NN	_	17	dobj	_	start_char=49|end_char=51
 20	。	。	PU	PU	_	1	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_interview_falkvinge-13
+# text = 你觉得你的政府对美国的利益负责吗？
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	觉得	觉得	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	5	nmod:assmod	_	start_char=5|end_char=6
@@ -344,6 +381,8 @@
 11	吗	吗	SP	SP	_	12	discourse	_	start_char=25|end_char=26
 12	？	？	PU	PU	_	2	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_interview_falkvinge-14
+# text = 哦，MPAA自己在新闻稿中也说了，这不仅仅是一个谣言。
 1	哦	哦	IJ	IJ	_	9	dep	_	start_char=0|end_char=1
 2	，	，	PU	PU	_	9	punct	_	start_char=2|end_char=3
 3	MPAA	MPAA	NN	NN	_	4	compound:nn	_	start_char=4|end_char=8
@@ -364,6 +403,8 @@
 18	谣言	谣言	NN	NN	_	9	ccomp	_	start_char=41|end_char=43
 19	。	。	PU	PU	_	9	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_interview_falkvinge-15
+# text = 看看他们的新闻稿《瑞典当局击沉海盗湾》。
 1	看看	看看	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	他们	他	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -376,6 +417,8 @@
 10	》	》	PU	PU	_	8	punct	_	start_char=27|end_char=28
 11	。	。	PU	PU	_	1	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_interview_falkvinge-16
+# text = 是的，这一特定事实在瑞典引起了一些骚动。
 1	是	是	VC	VC	_	10	dep	_	start_char=0|end_char=1
 2	的	的	SP	SP	_	1	discourse	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	10	punct	_	start_char=4|end_char=5
@@ -391,6 +434,8 @@
 13	骚动	骚动	NN	NN	_	10	dobj	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	10	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_interview_falkvinge-17
+# text = 人们普遍认为，瑞典当局或多或少是受外国势力的命令，对一个根据瑞典法律最差也是处于法律灰色地带的实体采取强硬行动。
 1	人们	人	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	普遍	普遍	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	认为	认为	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -426,6 +471,8 @@
 33	行动	行动	NN	NN	_	31	dobj	_	start_char=85|end_char=87
 34	。	。	PU	PU	_	3	punct	_	start_char=88|end_char=89
 
+# sent_id = gcdt_interview_falkvinge-18
+# text = 今次突袭一定提高了你的知名度。
 1	今	今	NT	NT	_	3	compound:nn	_	start_char=0|end_char=1
 2	次	次	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	突袭	突袭	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -437,6 +484,8 @@
 9	知名度	知名度	NN	NN	_	5	dobj	_	start_char=19|end_char=22
 10	。	。	PU	PU	_	5	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_interview_falkvinge-19
+# text = 你们目前有多少成员，以及你们的筹款努力到目前为止有多成功？
 1	你们	你们	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	目前	目前	NT	NT	_	3	nmod:tmod	_	start_char=3|end_char=5
 3	有	有	VE	VE	_	0	root	_	start_char=6|end_char=7
@@ -456,6 +505,8 @@
 17	成功	成功	VA	VA	_	15	ccomp	_	start_char=42|end_char=44
 18	？	？	PU	PU	_	3	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_interview_falkvinge-20
+# text = 我们的会员人数是6540人，不，6541人，不，等等，6543人……嗯，你懂的。
 1	我们	我	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	会员	会员	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -483,6 +534,8 @@
 25	的	的	SP	SP	_	24	discourse	_	start_char=62|end_char=63
 26	。	。	PU	PU	_	7	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_interview_falkvinge-21
+# text = 我们的会员在以电子方式支付会员费后，在我们的网站上注册，这有助于大大减少我们的管理负担。
 1	我们	我	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	会员	会员	NN	NN	_	17	nsubj	_	start_char=5|end_char=7
@@ -511,6 +564,8 @@
 26	负担	负担	NN	NN	_	22	dobj	_	start_char=66|end_char=68
 27	。	。	PU	PU	_	17	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_interview_falkvinge-22
+# text = 筹款带来了10.8万瑞典克朗（编者注：约14700美元），足够购买300万张选票，这是某种至少我们不会挨饿的最低标准。
 1	筹款	筹款	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	带来	带来	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=6|end_char=7
@@ -546,6 +601,8 @@
 33	标准	标准	NN	NN	_	2	conj	_	start_char=88|end_char=90
 34	。	。	PU	PU	_	2	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_interview_falkvinge-23
+# text = 我们没有吃饱，但也没有挨饿。
 1	我们	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	没有	没有	AD	AD	_	3	neg	_	start_char=3|end_char=5
 3	吃饱	吃饱	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -556,6 +613,8 @@
 8	挨饿	挨饿	VV	VV	_	3	conj	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	3	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_falkvinge-24
+# text = 在突袭海盗湾之后，我们又收到了5万块钱的捐款。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	突袭	突袭	VV	VV	_	8	nmod:prep	_	start_char=2|end_char=4
 3	海盗湾	海盗湾	NR	NR	_	2	dobj	_	start_char=5|end_char=8
@@ -572,6 +631,8 @@
 14	捐款	捐款	NN	NN	_	8	dobj	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	8	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_interview_falkvinge-25
+# text = 我真诚地感谢每一位想要帮助我们的人；我们现在正在研究获得更多的选票，以确保我们不会在选举日用完。
 1	我	我	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	真诚	真诚	VA	VA	_	4	advmod:dvp	_	start_char=2|end_char=4
 3	地	地	DEV	DEV	_	2	mark	_	start_char=5|end_char=6
@@ -605,6 +666,8 @@
 31	用完	用完	VV	VV	_	25	ccomp	_	start_char=75|end_char=77
 32	。	。	PU	PU	_	4	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_interview_falkvinge-26
+# text = （1000万张选票是我们最初的满分目标）
 1	（	（	PU	PU	_	10	punct	_	start_char=0|end_char=1
 2	1000万	1000万	CD	CD	_	4	nummod	_	start_char=2|end_char=7
 3	张	张	M	M	_	2	mark:clf	_	start_char=8|end_char=9
@@ -617,6 +680,8 @@
 10	目标	目标	NN	NN	_	0	root	_	start_char=26|end_char=28
 11	）	）	PU	PU	_	10	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_interview_falkvinge-27
+# text = 你认为你是否有能力支付未来的广播和电视广告等费用？
 1	你	你	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	认为	认为	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -634,6 +699,8 @@
 15	费用	费用	NN	NN	_	7	dobj	_	start_char=36|end_char=38
 16	？	？	PU	PU	_	2	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_interview_falkvinge-28
+# text = 在突袭海盗湾后，我们的会员人数增加了三倍，我们不需要广告了，上周全国电视台几乎每个新闻时段都提到了我们的名字。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	突袭	突袭	VV	VV	_	10	nmod:prep	_	start_char=2|end_char=4
 3	海盗湾	海盗湾	NR	NR	_	2	dobj	_	start_char=5|end_char=8
@@ -671,6 +738,8 @@
 35	名字	名字	NN	NN	_	31	dobj	_	start_char=86|end_char=88
 36	。	。	PU	PU	_	10	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_interview_falkvinge-29
+# text = 而且，在我们成功之后，老牌政党也开始转向了。
 1	而且	而且	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	在	在	P	P	_	5	case	_	start_char=5|end_char=6
@@ -686,6 +755,8 @@
 13	了	了	AS	AS	_	12	aux:asp	_	start_char=32|end_char=33
 14	。	。	PU	PU	_	12	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_interview_falkvinge-30
+# text = 代表近半数民选议会的党派，现在都在描述今天的版权状况是行不通的。
 1	代表	代表	VV	VV	_	7	acl	_	start_char=0|end_char=2
 2	近	近	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	半数	半数	CD	CD	_	5	dep	_	start_char=5|end_char=7
@@ -709,6 +780,8 @@
 21	的	的	SP	SP	_	18	discourse	_	start_char=50|end_char=51
 22	。	。	PU	PU	_	12	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_interview_falkvinge-31
+# text = 不过他们还是不明白为什么，他们只是在呼应我们说的话，却不明白这些话的意思。
 1	不过	不过	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	他们	他	PN	PN	_	5	nsubj	_	start_char=3|end_char=5
 3	还是	还是	AD	AD	_	5	advmod	_	start_char=6|end_char=8
@@ -735,6 +808,8 @@
 24	意思	意思	NN	NN	_	20	dobj	_	start_char=57|end_char=59
 25	。	。	PU	PU	_	5	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_interview_falkvinge-32
+# text = 我们会去教他们──他们和选民都一样。
 1	我们	我	PN	PN	_	4	nsubj	_	start_char=0|end_char=2
 2	会	会	VV	VV	_	4	aux:modal	_	start_char=3|end_char=4
 3	去	去	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -748,6 +823,8 @@
 11	一样	一样	VA	VA	_	4	ccomp	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	4	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_interview_falkvinge-33
+# text = 对于不关注瑞典媒体的人来说，这可能很难理解，但我们已经引起了很大的轰动。
 1	对于	对于	P	P	_	7	case	_	start_char=0|end_char=2
 2	不	不	AD	AD	_	3	neg	_	start_char=3|end_char=4
 3	关注	关注	VV	VV	_	7	acl	_	start_char=5|end_char=7
@@ -774,6 +851,8 @@
 24	轰动	轰动	NN	NN	_	19	dobj	_	start_char=56|end_char=58
 25	。	。	PU	PU	_	14	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_interview_falkvinge-34
+# text = 今天，我们的司法部长被引用说，他对修改版权法，使文件共享合法化持开放态度，标题是《博德斯特伦（他的名字）对文件共享翻脸》。
 1	今天	今天	NT	NT	_	9	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	我们	我	PN	PN	_	6	nmod:assmod	_	start_char=5|end_char=7
@@ -813,6 +892,8 @@
 37	》	》	PU	PU	_	36	punct	_	start_char=95|end_char=96
 38	。	。	PU	PU	_	9	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_interview_falkvinge-35
+# text = 紧接着是海盗党对他建议的评论。
 1	紧接着	紧接着	AD	AD	_	8	advmod	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	8	cop	_	start_char=4|end_char=5
 3	海盗党	海盗党	NR	NR	_	6	nsubj	_	start_char=6|end_char=9
@@ -823,6 +904,8 @@
 8	评论	评论	NN	NN	_	0	root	_	start_char=19|end_char=21
 9	。	。	PU	PU	_	8	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_interview_falkvinge-36
+# text = 我们再来看看：当一个部长发表关于文件共享的声明时，媒体就会打电话给我们征求意见，并在声明旁边发表。
 1	我们	我	PN	PN	_	4	nsubj	_	start_char=0|end_char=2
 2	再	再	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	来	来	VV	VV	_	4	xcomp	_	start_char=5|end_char=6
@@ -857,6 +940,8 @@
 32	发表	发表	VV	VV	_	21	conj	_	start_char=77|end_char=79
 33	。	。	PU	PU	_	4	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_interview_falkvinge-37
+# text = 自从突袭海盗湾之后，我们就变得这么大了。
 1	自从	自从	P	P	_	2	case	_	start_char=0|end_char=2
 2	突袭	突袭	VV	VV	_	8	nmod:prep	_	start_char=3|end_char=5
 3	海盗湾	海盗湾	NR	NR	_	2	dobj	_	start_char=6|end_char=9
@@ -870,6 +955,8 @@
 11	了	了	SP	SP	_	12	discourse	_	start_char=28|end_char=29
 12	。	。	PU	PU	_	8	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_interview_falkvinge-38
+# text = 司法部长后来向报道此事的媒体否认发表过该声明。
 1	司法	司法	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	部长	部长	NN	NN	_	10	nsubj	_	start_char=3|end_char=5
 3	后来	后来	AD	AD	_	10	advmod	_	start_char=6|end_char=8
@@ -886,6 +973,8 @@
 14	声明	声明	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	10	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_interview_falkvinge-39
+# text = 在我看来，我们将永远无法支付电视广告费用。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	我	我	PN	PN	_	9	nmod:prep	_	start_char=2|end_char=3
 3	看来	看来	LC	LC	_	2	case	_	start_char=4|end_char=6
@@ -900,6 +989,8 @@
 12	费用	费用	NN	NN	_	9	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	9	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_interview_falkvinge-40
+# text = 除非有一个非常富有的捐赠者上台。
 1	除非	除非	CS	CS	_	2	advmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	8	nummod	_	start_char=5|end_char=6
@@ -911,6 +1002,8 @@
 9	上台	上台	VV	VV	_	2	ccomp	_	start_char=21|end_char=23
 10	。	。	PU	PU	_	2	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_interview_falkvinge-41
+# text = （如果有这样的人在读这篇文章，我们已经计划好了如何在选举之前，以一种成本效益高的方式，在捐款出现的情况下，花费高达37.5万美元。
 1	（	（	PU	PU	_	41	punct	_	start_char=0|end_char=1
 2	如果	如果	CS	CS	_	3	advmod	_	start_char=2|end_char=4
 3	有	有	VE	VE	_	41	dep	_	start_char=5|end_char=6
@@ -956,6 +1049,8 @@
 43	美元	美元	M	M	_	42	mark:clf	_	start_char=104|end_char=106
 44	。	。	PU	PU	_	41	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_interview_falkvinge-42
+# text = 这笔支出仍然不包括任何电视广告）
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	笔	笔	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	支出	支出	NN	NN	_	6	nsubj	_	start_char=4|end_char=6
@@ -967,6 +1062,8 @@
 9	广告	广告	NN	NN	_	6	dobj	_	start_char=21|end_char=23
 10	）	）	PU	PU	_	6	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_interview_falkvinge-43
+# text = 你是否知道其他国家有类似的举措？
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	是否	是否	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	知道	知道	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -978,6 +1075,8 @@
 9	举措	举措	NN	NN	_	6	dobj	_	start_char=21|end_char=23
 10	？	？	PU	PU	_	3	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_interview_falkvinge-44
+# text = 有些国家正在尝试，但没有一个国家像我们这样取得必要的势头和临界质量。
 1	有些	有些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	国家	国家	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	正在	正在	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -1000,6 +1099,8 @@
 20	质量	质量	NN	NN	_	14	dobj	_	start_char=50|end_char=52
 21	。	。	PU	PU	_	4	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_interview_falkvinge-45
+# text = 我们期望一旦我们进入瑞典议会，并显示出这是可以做到的，这种势头就会发生。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	期望	期望	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	一旦	一旦	CS	CS	_	5	advmod	_	start_char=6|end_char=8
@@ -1025,6 +1126,8 @@
 23	发生	发生	VV	VV	_	2	ccomp	_	start_char=55|end_char=57
 24	。	。	PU	PU	_	2	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_interview_falkvinge-46
+# text = “盗版党”这个名字似乎将该党与目前被定义为犯罪的行为联系在一起：盗版软件、电影、音乐等。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	盗版党	盗版党	NR	NR	_	6	nmod	_	start_char=2|end_char=5
 3	”	”	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -1056,6 +1159,8 @@
 29	等	等	ETC	ETC	_	28	etc	_	start_char=70|end_char=71
 30	。	。	PU	PU	_	19	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_interview_falkvinge-47
+# text = 既然“盗版党”这样的标签被如此负面地使用，那么“盗版党”这样的名字会不会引起选民的反感呢？
 1	既然	既然	CS	CS	_	12	advmod	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	盗版党	盗版党	NR	NR	_	7	nmod:assmod	_	start_char=5|end_char=8
@@ -1086,6 +1191,8 @@
 28	呢	呢	SP	SP	_	29	discourse	_	start_char=70|end_char=71
 29	？	？	PU	PU	_	0	root	_	start_char=72|end_char=73
 
+# sent_id = gcdt_interview_falkvinge-48
+# text = 国外那些主张建立更平衡的版权制度的潜在盟友呢，比如电子前沿基金会（Electronic Frontier Foundation）或创意共享组织（Creative Commons）？
 1	国外	国外	NN	NN	_	12	compound:nn	_	start_char=0|end_char=2
 2	那些	那些	DT	DT	_	12	det	_	start_char=3|end_char=5
 3	主张	主张	VV	VV	_	12	acl	_	start_char=6|end_char=8
@@ -1119,6 +1226,8 @@
 31	）	）	PU	PU	_	30	punct	_	start_char=115|end_char=116
 32	？	？	PU	PU	_	27	punct	_	start_char=117|end_char=118
 
+# sent_id = gcdt_interview_falkvinge-49
+# text = 哦，这是一种犯罪。
 1	哦	哦	IJ	IJ	_	7	dep	_	start_char=0|end_char=1
 2	，	，	PU	PU	_	7	punct	_	start_char=2|end_char=3
 3	这	这	PN	PN	_	7	nsubj	_	start_char=4|end_char=5
@@ -1128,6 +1237,8 @@
 7	犯罪	犯罪	NN	NN	_	0	root	_	start_char=12|end_char=14
 8	。	。	PU	PU	_	7	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_interview_falkvinge-50
+# text = 这才是问题的核心！
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	才	才	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	6	cop	_	start_char=4|end_char=5
@@ -1136,6 +1247,8 @@
 6	核心	核心	NN	NN	_	0	root	_	start_char=11|end_char=13
 7	！	！	PU	PU	_	6	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_interview_falkvinge-51
+# text = 问题的关键在于，20%的选民所做的事情是非法的，要受到坐牢的惩罚。
 1	问题	问题	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	关键	关键	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1159,6 +1272,8 @@
 21	惩罚	惩罚	NN	NN	_	18	dobj	_	start_char=50|end_char=52
 22	。	。	PU	PU	_	4	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_interview_falkvinge-52
+# text = 这就是我们要改变的。
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	6	cop	_	start_char=4|end_char=5
@@ -1168,6 +1283,8 @@
 7	的	的	SP	SP	_	8	discourse	_	start_char=14|end_char=15
 8	。	。	PU	PU	_	0	root	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_falkvinge-53
+# text = 既定政党说选民坏了，我们却说是法律坏了。
 1	既定	既定	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	政党	政党	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	说	说	VV	VV	_	0	root	_	start_char=6|end_char=7
@@ -1184,6 +1301,8 @@
 14	了	了	SP	SP	_	13	discourse	_	start_char=31|end_char=32
 15	。	。	PU	PU	_	3	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_interview_falkvinge-54
+# text = 另外，这也是收回一个词的方式。
 1	另外	另外	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	11	punct	_	start_char=3|end_char=4
 3	这	这	PN	PN	_	11	nsubj	_	start_char=5|end_char=6
@@ -1197,6 +1316,8 @@
 11	方式	方式	NN	NN	_	0	root	_	start_char=22|end_char=24
 12	。	。	PU	PU	_	11	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_interview_falkvinge-55
+# text = 媒体集团一直对我们指指点点，说我们是海盗，想让我们感到某种程度上的羞耻。
 1	媒体	媒体	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	集团	集团	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	一直	一直	AD	AD	_	6	advmod	_	start_char=6|end_char=8
@@ -1221,10 +1342,14 @@
 22	羞耻	羞耻	NN	NN	_	16	dobj	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	6	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_interview_falkvinge-56
+# text = 这没有用。
 1	这	这	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	没有用	没有用	VV	VV	_	0	root	_	start_char=2|end_char=5
 3	。	。	PU	PU	_	2	punct	_	start_char=6|end_char=7
 
+# sent_id = gcdt_interview_falkvinge-57
+# text = 我们穿着写着“海盗”的衣服，穿着鲜艳的颜色上街。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	穿	穿	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	着	着	AS	AS	_	2	aux:asp	_	start_char=5|end_char=6
@@ -1244,6 +1369,8 @@
 17	上街	上街	VV	VV	_	12	conj	_	start_char=37|end_char=39
 18	。	。	PU	PU	_	2	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_interview_falkvinge-58
+# text = 是的，我们是海盗，我们也很自豪。
 1	是	是	VC	VC	_	6	dep	_	start_char=0|end_char=1
 2	的	的	SP	SP	_	1	discourse	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	6	punct	_	start_char=4|end_char=5
@@ -1257,6 +1384,8 @@
 11	自豪	自豪	VV	VV	_	6	conj	_	start_char=23|end_char=25
 12	。	。	PU	PU	_	6	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_interview_falkvinge-59
+# text = 此外，这个词在瑞典并不那么负面，这要归功于海盗局（Piratbyrån）的出色工作，他们自2003年以来一直致力于教育公众。
 1	此外	此外	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	10	punct	_	start_char=3|end_char=4
 3	这	这	DT	DT	_	5	det	_	start_char=5|end_char=6
@@ -1289,6 +1418,8 @@
 30	公众	公众	NN	NN	_	28	dobj	_	start_char=88|end_char=90
 31	。	。	PU	PU	_	10	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_interview_falkvinge-60
+# text = 如果你当选，并有机会成为瑞典下一届政府的一部分，你是否打算只关注你的纲领中的问题（知识产权法和隐私）？
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	你	你	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	当选	当选	VV	VV	_	20	dep	_	start_char=5|end_char=7
@@ -1325,6 +1456,8 @@
 34	）	）	PU	PU	_	33	punct	_	start_char=82|end_char=83
 35	？	？	PU	PU	_	20	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_interview_falkvinge-61
+# text = 我们目前的计划是在议会中支持政府，但不参与其中。
 1	我们	我	PN	PN	_	4	dep	_	start_char=0|end_char=2
 2	目前	目前	NT	NT	_	4	nmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -1342,6 +1475,8 @@
 15	其中	其中	NN	NN	_	14	dobj	_	start_char=35|end_char=37
 16	。	。	PU	PU	_	9	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_interview_falkvinge-62
+# text = 如果我们是它的一部分，那就意味着我们得到了既得利益，不能推翻它，如果他们开始违背我们的利益，就会使我们处于较弱的地位。
 1	如果	如果	CS	CS	_	7	advmod	_	start_char=0|end_char=2
 2	我们	我	PN	PN	_	7	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	7	cop	_	start_char=6|end_char=7
@@ -1384,6 +1519,8 @@
 40	地位	地位	NN	NN	_	36	dobj	_	start_char=95|end_char=97
 41	。	。	PU	PU	_	11	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_interview_falkvinge-63
+# text = 总的来说，我们的策略是实现权力平衡，左右两块都需要我们的选票来实现多数，然后支持哪一个同意推动我们议题的政府的议题最强。
 1	总的来说	总的来说	AD	AD	_	7	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	7	punct	_	start_char=5|end_char=6
 3	我们	我	PN	PN	_	5	nmod:assmod	_	start_char=7|end_char=9
@@ -1424,6 +1561,8 @@
 38	强	强	VA	VA	_	25	ccomp	_	start_char=95|end_char=96
 39	。	。	PU	PU	_	7	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_interview_falkvinge-64
+# text = 基本上，我们把我们在其他议题上的选票卖给出价最高的人，以换取他们推动我们的议题。
 1	基本上	基本上	AD	AD	_	12	advmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	12	punct	_	start_char=4|end_char=5
 3	我们	我	PN	PN	_	12	nsubj	_	start_char=6|end_char=8

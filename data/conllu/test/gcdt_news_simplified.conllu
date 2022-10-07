@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_simplified
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2006-03-23
+# meta::dateModified = 2016-08-07
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E9%99%88%E7%AB%A0%E5%A4%AA%E8%AF%B4%EF%BC%9A2008%E5%B9%B4%E8%B5%B7%E8%81%94%E5%90%88%E5%9B%BD%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%AD%E6%96%87%E4%B8%80%E5%BE%8B%E7%94%A8%E7%AE%80%E4%BD%93%E5%AD%97
+# meta::speakerCount = 0
+# meta::title = 陈章太说：2008年起联合国使用的中文一律用简体字
+# meta::shortTitle = simplified
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = test
+# sent_id = gcdt_news_simplified-1
+# text = 陈章太说：2008年起联合国使用的中文一律用简体字
 1	陈章太	陈章太	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
 3	：	：	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -11,6 +24,8 @@
 11	用	用	VV	VV	_	2	ccomp	_	start_char=31|end_char=32
 12	简体字	简体字	NN	NN	_	11	dobj	_	start_char=33|end_char=36
 
+# sent_id = gcdt_news_simplified-2
+# text = 【2006年3月23日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2006年	2006年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	3月	3月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -18,6 +33,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_simplified-3
+# text = 昨天在教育部举行的纪念国务院发布《汉字简化方案》和《关于推广普通话的指示》发布50周年的记者见面会上，中国应用语言学会会长、原国家语委副主任陈章太在回答《香港东方日报》记者时透露，“据联合国一个决定，从2008年后联合国使用的中文一律使用简体字。
 1	昨天	昨天	NT	NT	_	22	nmod:tmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	27	case	_	start_char=3|end_char=4
 3	教育部	教育部	NN	NN	_	4	nsubj	_	start_char=5|end_char=8
@@ -88,6 +105,8 @@
 68	简体字	简体字	NN	NN	_	67	dobj	_	start_char=186|end_char=189
 69	。	。	PU	PU	_	50	punct	_	start_char=190|end_char=191
 
+# sent_id = gcdt_news_simplified-4
+# text = 现在是两种文本，繁体字和简体字都有。”
 1	现在	现在	NT	NT	_	5	nmod:tmod	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	5	cop	_	start_char=3|end_char=4
 3	两	两	CD	CD	_	5	nummod	_	start_char=5|end_char=6
@@ -102,6 +121,8 @@
 12	。	。	PU	PU	_	5	punct	_	start_char=28|end_char=29
 13	”	”	PU	PU	_	5	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_news_simplified-5
+# text = 对大陆以外中文地区的影响
 1	对	对	P	P	_	2	case	_	start_char=0|end_char=1
 2	大陆	大陆	NN	NN	_	5	dep	_	start_char=2|end_char=4
 3	以外	以外	LC	LC	_	2	case	_	start_char=5|end_char=7
@@ -110,11 +131,15 @@
 6	的	的	DEG	DEG	_	5	case	_	start_char=14|end_char=15
 7	影响	影响	NN	NN	_	0	root	_	start_char=16|end_char=18
 
+# sent_id = gcdt_news_simplified-6
+# text = 对台湾的影响
 1	对	对	P	P	_	2	case	_	start_char=0|end_char=1
 2	台湾	台湾	NR	NR	_	4	nmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
 4	影响	影响	NN	NN	_	0	root	_	start_char=7|end_char=9
 
+# sent_id = gcdt_news_simplified-7
+# text = 对于台湾地区，著名语言学家周有光先生在记者会上说，“简化问题本来台湾也是赞成的，后来人家反对，没有办法，不能推行了。
 1	对于	对于	P	P	_	3	case	_	start_char=0|end_char=2
 2	台湾	台湾	NR	NR	_	3	nmod:assmod	_	start_char=3|end_char=5
 3	地区	地区	NN	NN	_	12	nmod:prep	_	start_char=6|end_char=8
@@ -151,6 +176,8 @@
 34	了	了	AS	AS	_	33	aux:asp	_	start_char=89|end_char=90
 35	。	。	PU	PU	_	12	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_news_simplified-8
+# text = 在清朝末年简化就有许多人提倡，可是也遇到了很多阻力，一直到50年代新中国成立后才能实现，所以中国简化是清朝末年就有提倡了，但是真正执行是50年代开始的，是一个逐步的过程。”
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	清朝	清朝	NR	NR	_	3	nmod:assmod	_	start_char=2|end_char=4
 3	末年	末年	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -206,6 +233,8 @@
 53	。	。	PU	PU	_	6	punct	_	start_char=136|end_char=137
 54	”	”	PU	PU	_	6	punct	_	start_char=138|end_char=139
 
+# sent_id = gcdt_news_simplified-9
+# text = 他还说：“台湾反对简化字起初不是这么厉害，后来台湾把文字改革的问题和政治问题挂钩。
 1	他	他	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	还	还	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
@@ -233,6 +262,8 @@
 25	挂钩	挂钩	VV	VV	_	13	conj	_	start_char=62|end_char=64
 26	。	。	PU	PU	_	3	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_news_simplified-10
+# text = 所以简化目前主要阻力是在台湾。
 1	所以	所以	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	简化	简化	VV	VV	_	7	dep	_	start_char=3|end_char=5
 3	目前	目前	NT	NT	_	5	compound:nn	_	start_char=6|end_char=8
@@ -243,6 +274,8 @@
 8	台湾	台湾	NR	NR	_	7	dobj	_	start_char=19|end_char=21
 9	。	。	PU	PU	_	7	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_news_simplified-11
+# text = 可是这个事情我想不必着急，慢慢会改变，因为联合国正在准备所有的中文文件都用简化字，因为用两种字体是没有必要的。
 1	可是	可是	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	4	det	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -279,6 +312,8 @@
 34	的	的	SP	SP	_	32	discourse	_	start_char=86|end_char=87
 35	。	。	PU	PU	_	6	punct	_	start_char=88|end_char=89
 
+# sent_id = gcdt_news_simplified-12
+# text = 联合国的这个规定也证明简化的方向是正确的，也得到了多数人的同意。”
 1	联合国	联合国	NR	NR	_	5	nmod:assmod	_	start_char=0|end_char=3
 2	的	的	DEG	DEG	_	1	case	_	start_char=4|end_char=5
 3	这	这	DT	DT	_	5	det	_	start_char=6|end_char=7
@@ -303,6 +338,8 @@
 22	。	。	PU	PU	_	7	punct	_	start_char=52|end_char=53
 23	”	”	PU	PU	_	7	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_news_simplified-13
+# text = 北京大学中国语言文学系教授，中国语言学会副会长陆俭明举例说：“台湾自己现在也在简，“台湾”这两个字现在很多场合和我们的写法都一样。
 1	北京	北京	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	大学	大学	NN	NN	_	6	nmod:assmod	_	start_char=3|end_char=5
 3	中国	中国	NR	NR	_	5	compound:nn	_	start_char=6|end_char=8
@@ -344,6 +381,8 @@
 39	一样	一样	VA	VA	_	22	conj	_	start_char=100|end_char=102
 40	。	。	PU	PU	_	14	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_news_simplified-14
+# text = 至于香港、澳门、台湾，这个事情不能急，慢慢来，文字是使用的，使用过程中大家发现这个好，就用了。”
 1	至于	至于	P	P	_	6	case	_	start_char=0|end_char=2
 2	香港	香港	NR	NR	_	6	conj	_	start_char=3|end_char=5
 3	、	、	PU	PU	_	6	punct	_	start_char=6|end_char=7
@@ -381,6 +420,8 @@
 35	。	。	PU	PU	_	27	punct	_	start_char=80|end_char=81
 36	”	”	PU	PU	_	27	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_news_simplified-15
+# text = 此前，据新华网转引《国际先驱导报》的报道，中国国民党主席马英九在日内瓦出席一项会议时曾表示，大陆采用及积极推动简体中文字，会让繁体中文字居于相对弱势，最后甚至可能被人遗忘。
 1	此前	此前	AD	AD	_	26	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	26	punct	_	start_char=3|end_char=4
 3	据	据	P	P	_	5	case	_	start_char=5|end_char=6
@@ -432,6 +473,8 @@
 49	遗忘	遗忘	VV	VV	_	37	conj	_	start_char=131|end_char=133
 50	。	。	PU	PU	_	26	punct	_	start_char=134|end_char=135
 
+# sent_id = gcdt_news_simplified-16
+# text = 报道还说，马英九曾经尝试向联合国教科文组织申请把“繁体字”列为文化保护遗产，但却因台湾不是联合国成员而遭拒绝。
 1	报道	报道	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	还	还	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	说	说	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -466,11 +509,15 @@
 32	拒绝	拒绝	NN	NN	_	31	dobj	_	start_char=83|end_char=85
 33	。	。	PU	PU	_	3	punct	_	start_char=86|end_char=87
 
+# sent_id = gcdt_news_simplified-17
+# text = 对香港的影响
 1	对	对	P	P	_	2	case	_	start_char=0|end_char=1
 2	香港	香港	NR	NR	_	4	nmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
 4	影响	影响	NN	NN	_	0	root	_	start_char=7|end_char=9
 
+# sent_id = gcdt_news_simplified-18
+# text = 对于香港使用简化字方面，国家督学，国家语委咨询委员会委员傅永和强调，“简化汉字有一个政策，就是在我们内地简化汉字也是适用于现代汉语用字，古汉语用字不在其内。
 1	对于	对于	P	P	_	5	case	_	start_char=0|end_char=2
 2	香港	香港	NR	NR	_	3	nsubj	_	start_char=3|end_char=5
 3	使用	使用	VV	VV	_	5	acl	_	start_char=6|end_char=8
@@ -517,6 +564,8 @@
 44	其内	其内	NN	NN	_	41	dobj	_	start_char=118|end_char=120
 45	。	。	PU	PU	_	16	punct	_	start_char=121|end_char=122
 
+# sent_id = gcdt_news_simplified-19
+# text = 至于在香港，因为一国两制的关系，所以香港是不是使用简化字要由香港特区政府来决定。”
 1	至于	至于	P	P	_	3	case	_	start_char=0|end_char=2
 2	在	在	P	P	_	3	case	_	start_char=3|end_char=4
 3	香港	香港	NR	NR	_	26	nmod:prep	_	start_char=5|end_char=7
@@ -546,6 +595,8 @@
 27	。	。	PU	PU	_	26	punct	_	start_char=65|end_char=66
 28	”	”	PU	PU	_	26	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_news_simplified-20
+# text = 陆俭明也说：“据我所知，已经有相当多的学校使用简化字，虽然特区政府没有明确的政策，但是在民间实际上已经推行了。
 1	陆俭明	陆俭明	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	也	也	AD	AD	_	3	advmod	_	start_char=4|end_char=5
 3	说	说	VV	VV	_	0	root	_	start_char=6|end_char=7
@@ -583,6 +634,8 @@
 35	了	了	AS	AS	_	34	aux:asp	_	start_char=87|end_char=88
 36	。	。	PU	PU	_	3	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_news_simplified-21
+# text = 汉字从甲骨文到篆书到现代不断简化，这是文字发展的必然趋势，我们简化汉字的目的就是为了让老百姓好认、好写、好记。”
 1	汉字	汉字	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	从	从	P	P	_	3	case	_	start_char=3|end_char=4
 3	甲骨文	甲骨文	NR	NR	_	4	nmod:prep	_	start_char=5|end_char=8
@@ -622,6 +675,8 @@
 37	。	。	PU	PU	_	4	punct	_	start_char=90|end_char=91
 38	”	”	PU	PU	_	4	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_news_simplified-22
+# text = 周有光说：“其实简化以后还要进一步的规范化，规范化更重要，所以我们做的这个事情是正确的，是进步的，一定会逐步推广，香港也会慢慢采用。
 1	周有光	周有光	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
 3	：	：	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -666,6 +721,8 @@
 42	采用	采用	VV	VV	_	12	conj	_	start_char=104|end_char=106
 43	。	。	PU	PU	_	2	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_news_simplified-23
+# text = 现在香港和中国大陆虽然是一个国家，可是因为一国两制的关系，来往还不是很多，将来的往来会越来越多。
 1	现在	现在	NT	NT	_	32	nmod:tmod	_	start_char=0|end_char=2
 2	香港	香港	NR	NR	_	4	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	4	cc	_	start_char=6|end_char=7
@@ -700,6 +757,8 @@
 32	多	多	VA	VA	_	0	root	_	start_char=77|end_char=78
 33	。	。	PU	PU	_	32	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_news_simplified-24
+# text = 同时我们国家在国际上的影响越来越大，世界各国学汉语的人也逐步在增加，在这个形势之下，简化字慢慢会变成中文唯一的标准，那个时候香港也会喜欢用简化字。
 1	同时	同时	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	我们	我	PN	PN	_	3	nmod:poss	_	start_char=3|end_char=5
 3	国家	国家	NN	NN	_	8	dep	_	start_char=6|end_char=8
@@ -749,6 +808,8 @@
 47	简化字	简化字	NN	NN	_	46	dobj	_	start_char=115|end_char=118
 48	。	。	PU	PU	_	10	punct	_	start_char=119|end_char=120
 
+# sent_id = gcdt_news_simplified-25
+# text = 所以不必勉强他们也不必着急。
 1	所以	所以	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	不必	不必	AD	AD	_	7	advmod	_	start_char=3|end_char=5
 3	勉强	勉强	AD	AD	_	7	advmod	_	start_char=6|end_char=8
@@ -758,6 +819,8 @@
 7	着急	着急	VV	VV	_	0	root	_	start_char=17|end_char=19
 8	。	。	PU	PU	_	7	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_news_simplified-26
+# text = 联合国准备用简化字这个事情就说明方向是对的。”
 1	联合国	联合国	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	准备	准备	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	用	用	P	P	_	7	case	_	start_char=7|end_char=8
@@ -774,12 +837,18 @@
 14	。	。	PU	PU	_	2	punct	_	start_char=34|end_char=35
 15	”	”	PU	PU	_	2	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_news_simplified-27
+# text = 各方观点
 1	各方	各方	PN	PN	_	2	compound:nn	_	start_char=0|end_char=2
 2	观点	观点	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_news_simplified-28
+# text = 学者反应
 1	学者	学者	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	反应	反应	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_news_simplified-29
+# text = 中央社报道说，此举对港、台使用的繁体字将造成冲击。
 1	中央社	中央社	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	报道	报道	VV	VV	_	3	compound:vc	_	start_char=4|end_char=6
 3	说	说	VV	VV	_	0	root	_	start_char=7|end_char=8
@@ -798,6 +867,8 @@
 16	冲击	冲击	NN	NN	_	15	dobj	_	start_char=37|end_char=39
 17	。	。	PU	PU	_	3	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_news_simplified-30
+# text = 香港浸会大学中文系助理教授宗静航表示，现在仍有不少古典书籍仍未有简体字版，担心简体字若成单一标准，将使中国文化研究出现断层。
 1	香港	香港	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	浸会	浸会	NR	NR	_	3	compound:nn	_	start_char=3|end_char=5
 3	大学	大学	NN	NN	_	6	nmod:assmod	_	start_char=6|end_char=8
@@ -835,6 +906,8 @@
 35	断层	断层	NN	NN	_	34	dobj	_	start_char=93|end_char=95
 36	。	。	PU	PU	_	8	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_news_simplified-31
+# text = 香港理工大学中文及双语学系副教授吴东英也表示，语言文字总是不断演变，并趋向愈来愈简单抽象，但文字过于简化可能造成语意混淆。
 1	香港	香港	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	理工	理工	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	大学	大学	NN	NN	_	7	nmod:assmod	_	start_char=6|end_char=8
@@ -868,6 +941,8 @@
 31	混淆	混淆	NN	NN	_	29	dobj	_	start_char=88|end_char=90
 32	。	。	PU	PU	_	10	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_news_simplified-32
+# text = 他说，政府总喜欢制订标准，但文字使用更多依靠习惯和文化，她建议港府不要强制推行简体字，文字简化也要循序渐进。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	说	说	VV	VV	_	0	root	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -902,9 +977,13 @@
 32	循序渐进	循序渐进	VV	VV	_	6	conj	_	start_char=80|end_char=84
 33	。	。	PU	PU	_	2	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_news_simplified-33
+# text = 网友观点
 1	网友	网友	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	观点	观点	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_news_simplified-34
+# text = 对此，有一些网友并不表示赞同，批评道：“经历了国内文化大革命的破坏后，现在我们还要在国际上破坏自己的传统文化吗？ 请不要再打击本来已经被摧残过的中国传统历史文化了，繁体字毕竟是正体字，作为现代中国人不认识和书写不了繁体字是国之悲哀，自己优秀的传统文化不去保全还有何脸面奢谈中华文化复兴！”
 1	对	对	P	P	_	2	case	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	4	nmod:prep	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	4	punct	_	start_char=4|end_char=5
@@ -999,6 +1078,8 @@
 92	！	！	PU	PU	_	4	punct	_	start_char=232|end_char=233
 93	”	”	PU	PU	_	4	punct	_	start_char=234|end_char=235
 
+# sent_id = gcdt_news_simplified-35
+# text = 他们认为，“国际上通用简体字，便于交流。
 1	他们	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	认为	认为	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -1012,6 +1093,8 @@
 11	交流	交流	NN	NN	_	10	dobj	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	2	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_news_simplified-36
+# text = 但同时，使世人不能够了解中国的繁体字，不知道繁体字孕育着多少中华的的精髓。
 1	但	但	AD	AD	_	4	advmod	_	start_char=0|end_char=1
 2	同时	同时	AD	AD	_	4	advmod	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	4	punct	_	start_char=5|end_char=6
@@ -1036,6 +1119,8 @@
 22	精髓	精髓	NN	NN	_	16	dobj	_	start_char=55|end_char=57
 23	。	。	PU	PU	_	4	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_news_simplified-37
+# text = 国内应该倡导大家繁体字简体字同用，让子孙后代把繁体字永远保留下去。”
 1	国内	国内	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	应该	应该	VV	VV	_	3	aux:modal	_	start_char=3|end_char=5
 3	倡导	倡导	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1055,6 +1140,8 @@
 17	。	。	PU	PU	_	3	punct	_	start_char=48|end_char=49
 18	”	”	PU	PU	_	3	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_simplified-38
+# text = 但是也有网友却认为，“联合国用简体字不代表消灭繁体字，繁体字可以作为一种文化的象征，或者是一们学科。
 1	但是	但是	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	也有	也有	AD	AD	_	5	advmod	_	start_char=3|end_char=5
 3	网友	网友	NN	NN	_	5	nsubj	_	start_char=6|end_char=8
@@ -1085,6 +1172,8 @@
 28	学科	学科	NN	NN	_	18	dobj	_	start_char=74|end_char=76
 29	。	。	PU	PU	_	5	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_news_simplified-39
+# text = 而简体字则侧重于生活实用，这也是很好的事情。”
 1	而	而	AD	AD	_	4	advmod	_	start_char=0|end_char=1
 2	简体字	简体字	NN	NN	_	4	nsubj	_	start_char=2|end_char=5
 3	则	则	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -1102,6 +1191,8 @@
 15	。	。	PU	PU	_	4	punct	_	start_char=35|end_char=36
 16	”	”	PU	PU	_	4	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_news_simplified-40
+# text = 同时，一些支持者认为，联合国使用中文简体字是因为使用的范围大，更便于联合国的工作。
 1	同时	同时	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	一些	一些	CD	CD	_	4	dep	_	start_char=5|end_char=7
@@ -1126,6 +1217,8 @@
 22	工作	工作	NN	NN	_	19	dobj	_	start_char=59|end_char=61
 23	。	。	PU	PU	_	5	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_news_simplified-41
+# text = 但是这不代表联合国很关心中国有五千年的文化传承。
 1	但是	但是	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	这	这	PN	PN	_	4	nsubj	_	start_char=3|end_char=4
 3	不	不	AD	AD	_	4	neg	_	start_char=5|end_char=6
@@ -1142,6 +1235,8 @@
 14	传承	传承	NN	NN	_	9	dobj	_	start_char=34|end_char=36
 15	。	。	PU	PU	_	4	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_news_simplified-42
+# text = 也有网友说：“简体汉字作为中国和联合国正式使用的汉字，是完全必要的。
 1	也有	也有	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	网友	网友	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	说	说	VV	VV	_	0	root	_	start_char=6|end_char=7
@@ -1164,6 +1259,8 @@
 20	的	的	SP	SP	_	19	discourse	_	start_char=51|end_char=52
 21	。	。	PU	PU	_	3	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_simplified-43
+# text = 这对中国，对各国之间的交流合作，非常有益。
 1	这	这	PN	PN	_	14	nsubj	_	start_char=0|end_char=1
 2	对	对	P	P	_	3	case	_	start_char=2|end_char=3
 3	中国	中国	NR	NR	_	14	nmod:prep	_	start_char=4|end_char=6
@@ -1180,6 +1277,8 @@
 14	有益	有益	VA	VA	_	0	root	_	start_char=31|end_char=33
 15	。	。	PU	PU	_	14	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_news_simplified-44
+# text = 但同时，繁体汉字也有继续存在的价值。
 1	但	但	AD	AD	_	7	advmod	_	start_char=0|end_char=1
 2	同时	同时	AD	AD	_	7	advmod	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	7	punct	_	start_char=5|end_char=6
@@ -1193,6 +1292,8 @@
 11	价值	价值	NN	NN	_	7	dobj	_	start_char=25|end_char=27
 12	。	。	PU	PU	_	7	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_news_simplified-45
+# text = 它是汉字的本体（当然也是历史发展变化的产物），在非正式场合，作为非工作时的文字，以及艺术（书法等）的文字，也应允许使用，在海外华侨、港澳台地区，应顺其自然，自由选择使用简体或繁体。
 1	它	它	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	5	cop	_	start_char=2|end_char=3
 3	汉字	汉字	NN	NN	_	5	nmod:assmod	_	start_char=4|end_char=6
@@ -1255,6 +1356,8 @@
 60	繁体	繁体	NN	NN	_	57	dobj	_	start_char=146|end_char=148
 61	。	。	PU	PU	_	5	punct	_	start_char=149|end_char=150
 
+# sent_id = gcdt_news_simplified-46
+# text = 什么事情都不要一刀切，单元思考。”
 1	什么	什么	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	事情	事情	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	都	都	AD	AD	_	6	advmod	_	start_char=6|end_char=7
@@ -1267,6 +1370,8 @@
 10	。	。	PU	PU	_	6	punct	_	start_char=24|end_char=25
 11	”	”	PU	PU	_	6	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_news_simplified-47
+# text = 还有人建议，“为了照顾目前还在使用繁体字的地区和人的习惯,希望国家文字改革委员会，适时推出一种简---繁之间十分容易相互转换的软件,使得在一台计算机里的中文转换只敲一键就可迅速转换,使用中文的任何人都可以自由选取，满足不同背景的人的阅读和书写的需要”。
 1	还	还	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	0	root	_	start_char=2|end_char=3
 3	人	人	NN	NN	_	4	nsubj	_	start_char=4|end_char=5

@@ -1,4 +1,4 @@
-<text id="gum_zh_academic_rabies" author="Qianfen Wang" dateCollected="2022-01-02" dateCreated="2018-07-24" dateModified="XXXX-XX-XX" shortTitle="rabies" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=31385" speakerCount="0" speakerList="none" title="狂犬病疫苗研究进展" type="academic"/>
+<text id="gum_zh_academic_rabies" author="Qianfen Wang" dateCollected="2022-01-02" dateCreated="2018-07-24" dateModified="XXXX-XX-XX" shortTitle="rabies" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=31385" speakerCount="0" speakerList="none" title="狂犬病疫苗研究进展" genre="academic"/>
 狂犬病疫苗研究进展
 
 <section/>

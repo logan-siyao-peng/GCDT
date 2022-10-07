@@ -8,7 +8,7 @@ In each format, files are separated into train/, dev/ and test/ (and double/ if 
 * conllu/ - automatically stanza parsed Universal Dependencies from gold tokenized/ using https://github.com/logan-siyao-peng/GCDT/blob/main/utils/parse_dependencies.py
 * rs3/ - constituency styled RST annotations for 50 documents and 5 additional double annotations on the test set
 * rs3_extracted_edus/ - text files with one EDU per line automatically extracted from annotated rs3 files using https://github.com/logan-siyao-peng/GCDT/blob/main/utils/extract_edu_from_rs3.py 
-* autotrans_rs3/ - constituency styled rs3 files with automatic EDU-level Chinese --> English Google translations appended to the end of each EDU using https://github.com/logan-siyao-peng/GCDT/blob/main/utils/autotrans_rs3.py
+* autotrans_rs3/ - constituency styled rs3 files with automatic EDU-level Chinese --> English Google translations appended to the end of each EDU using https://github.com/logan-siyao-peng/GCDT/blob/main/utils/autotrans_rs3.py; each EDU occurs in the format "ZH // EN" and we use the spacy to tokenize the English portion
 * autotrans_extracted_edus	- one EDU per line automatically extracted from translation-appended rs3 files using https://github.com/logan-siyao-peng/GCDT/blob/main/utils/extract_edu_from_rs3.py
 * rsd - automatically coverted from rs3 files using https://github.com/amir-zeldes/gum/blob/master/_build/utils/rst2dep.py
 * dis - automatically coverted from rs3 files using https://github.com/amir-zeldes/gum/blob/master/_build/utils/rst2dis.py

@@ -1,4 +1,4 @@
-<text id="gum_zh_academic_aging" author="Meijuan Ning" dateCollected="2022-01-02" dateCreated="2018-12-14" dateModified="XXXX-XX-XX" shortTitle="aging" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=28037" speakerCount="0" speakerList="none" title="老龄化对言语感知的影响" type="academic"/>
+<text id="gum_zh_academic_aging" author="Meijuan Ning" dateCollected="2022-01-02" dateCreated="2018-12-14" dateModified="XXXX-XX-XX" shortTitle="aging" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=28037" speakerCount="0" speakerList="none" title="老龄化对言语感知的影响" genre="academic"/>
 老龄化对言语感知的影响
 
 <section/>

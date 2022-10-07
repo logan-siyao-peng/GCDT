@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_bubble
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2021-03-07
+# meta::dateModified = 2021-03-14
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E6%93%9A%E5%A0%B1%E5%8F%B0%E7%81%A3%E8%88%87%E5%B8%9B%E7%90%89%E7%9A%84%E3%80%8C%E6%97%85%E9%81%8A%E6%B3%A1%E6%B3%A1%E3%80%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E9%80%B2%E5%B1%95
+# meta::speakerCount = 0
+# meta::title = 据报台湾与帕劳的“旅游泡泡”有重大进展
+# meta::shortTitle = bubble
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_bubble-1
+# text = 据报台湾与帕劳的“旅游泡泡”有重大进展
 1	据报	据报	VV	VV	_	8	acl	_	start_char=0|end_char=2
 2	台湾	台湾	NR	NR	_	4	conj	_	start_char=3|end_char=5
 3	与	与	CC	CC	_	4	cc	_	start_char=6|end_char=7
@@ -11,6 +24,8 @@
 11	重大	重大	JJ	JJ	_	12	amod	_	start_char=25|end_char=27
 12	进展	进展	NN	NN	_	10	dobj	_	start_char=28|end_char=30
 
+# sent_id = gcdt_news_bubble-2
+# text = 【2021年3月7日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2021年	2021年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	3月	3月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -18,6 +33,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=14|end_char=15
 6	】	】	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_news_bubble-3
+# text = 据报台湾与帕劳之间讨论已久的“旅游泡泡”将有重大进展。
 1	据报	据报	VV	VV	_	12	acl	_	start_char=0|end_char=2
 2	台湾	台湾	NR	NR	_	4	conj	_	start_char=3|end_char=5
 3	与	与	CC	CC	_	4	cc	_	start_char=6|end_char=7
@@ -37,6 +54,8 @@
 17	进展	进展	NN	NN	_	15	dobj	_	start_char=40|end_char=42
 18	。	。	PU	PU	_	15	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_news_bubble-4
+# text = 据报旅游业者传出，帕劳总统预计15日来台宣布相关措施，双方打算每周各飞8次，指挥中心将在2、3天内讨论相关细节。
 1	据报	据报	JJ	JJ	_	3	amod	_	start_char=0|end_char=2
 2	旅游	旅游	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	业者	业者	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -75,6 +94,8 @@
 36	细节	细节	NN	NN	_	34	dobj	_	start_char=88|end_char=90
 37	。	。	PU	PU	_	4	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_news_bubble-5
+# text = 苹果日报引述消息报道，若研议顺利，最快3月中旬即可开放“旅游泡泡”。
 1	苹果	苹果	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	引述	引述	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -98,6 +119,8 @@
 21	”	”	PU	PU	_	20	punct	_	start_char=52|end_char=53
 22	。	。	PU	PU	_	3	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_news_bubble-6
+# text = 中央社引述旅游业者报道，目前台帛“旅游泡泡”计划是采用“团进团出”，双方每周各飞8班。
 1	中央社	中央社	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	引述	引述	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	旅游	旅游	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -128,6 +151,8 @@
 28	班	班	M	M	_	27	mark:clf	_	start_char=68|end_char=69
 29	。	。	PU	PU	_	2	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_news_bubble-7
+# text = 中华航空每周6班，长荣航空每周2班，帕劳太平洋航空每周8班，由台湾虎航湿租。
 1	中华	中华	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	航空	航空	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	每	每	DT	DT	_	5	dep	_	start_char=6|end_char=7
@@ -156,6 +181,8 @@
 26	湿租	湿租	VV	VV	_	5	conj	_	start_char=60|end_char=62
 27	。	。	PU	PU	_	5	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_news_bubble-8
+# text = 湿租是指航空公司向另一家公司租赁飞机以及机组人员。
 1	湿租	湿租	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	3	cop	_	start_char=3|end_char=4
 3	指	指	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -173,6 +200,8 @@
 15	人员	人员	NN	NN	_	11	dobj	_	start_char=36|end_char=38
 16	。	。	PU	PU	_	3	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_news_bubble-9
+# text = 苹果日报引述知情人士报道，每架飞机只搭载7成旅客。
 1	苹果	苹果	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	引述	引述	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -189,6 +218,8 @@
 14	旅客	旅客	NN	NN	_	12	dobj	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	3	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_news_bubble-10
+# text = 计划前往帕劳的旅客，必须在飞行前3天提供核酸测试（PCR）阴性报告，在帕劳机场再接受1次采检。
 1	计划	计划	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	前往	前往	VV	VV	_	5	acl	_	start_char=3|end_char=5
 3	帕劳	帕劳	NR	NR	_	2	dobj	_	start_char=6|end_char=8
@@ -220,6 +251,8 @@
 29	采检	采检	NN	NN	_	26	dobj	_	start_char=72|end_char=74
 30	。	。	PU	PU	_	13	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_news_bubble-11
+# text = 不过旅客回台后仍需居家检疫5天，检疫结束前会再进行PCR采检。
 1	不过	不过	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	旅客	旅客	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	回台	回台	VV	VV	_	6	advcl:loc	_	start_char=6|end_char=8
@@ -241,6 +274,8 @@
 19	采检	采检	NN	NN	_	17	dobj	_	start_char=46|end_char=48
 20	。	。	PU	PU	_	6	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_news_bubble-12
+# text = 而旅客入境帕劳后，必须在当地机场接受检；报道指由于帕劳现有的检验量难以承受，盼台湾能够支援当地。
 1	而	而	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	旅客	旅客	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	入境	入境	VV	VV	_	11	advcl:loc	_	start_char=5|end_char=7
@@ -271,6 +306,8 @@
 28	当地	当地	NN	NN	_	27	dobj	_	start_char=72|end_char=74
 29	。	。	PU	PU	_	11	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_news_bubble-13
+# text = 联合报引述旅游业者报道，台帛“旅游泡泡”一直在谈，但“一直压着等帕劳总统来才会宣布”。
 1	联合报	联合报	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	引述	引述	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	旅游	旅游	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -302,6 +339,8 @@
 29	”	”	PU	PU	_	28	punct	_	start_char=69|end_char=70
 30	。	。	PU	PU	_	2	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_news_bubble-14
+# text = 报道称，业界传出3月15日访台时将拍板。
 1	报道	报道	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	称	称	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -315,6 +354,8 @@
 11	拍板	拍板	VV	VV	_	5	ccomp	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	2	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_news_bubble-15
+# text = 但细节仍在规划中，尚未完全定案。
 1	但	但	AD	AD	_	11	advmod	_	start_char=0|end_char=1
 2	细节	细节	NN	NN	_	11	nsubj	_	start_char=2|end_char=4
 3	仍	仍	AD	AD	_	11	advmod	_	start_char=5|end_char=6
@@ -328,6 +369,8 @@
 11	定案	定案	VV	VV	_	0	root	_	start_char=23|end_char=25
 12	。	。	PU	PU	_	11	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_news_bubble-16
+# text = 中央社引述旅游业者的话说，帕劳受限于机场，只能起降100座以上的单走道飞机，旅客量不多，但总算是个好的开始，希望未来能有更多旅游泡泡。
 1	中央社	中央社	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	引述	引述	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	旅游	旅游	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -372,6 +415,8 @@
 42	泡泡	泡泡	NN	NN	_	38	dobj	_	start_char=105|end_char=107
 43	。	。	PU	PU	_	2	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_news_bubble-17
+# text = 苹果日报引述知情人士报道，帕劳旅游泡泡原计划周三（3月10日）由指挥中心召开会议讨论防疫细节。
 1	苹果	苹果	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	引述	引述	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -399,6 +444,8 @@
 25	细节	细节	NN	NN	_	23	dobj	_	start_char=68|end_char=70
 26	。	。	PU	PU	_	3	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_news_bubble-18
+# text = 如果一切顺利，将于3月15日正式启动，3月20日左右会有首航。
 1	如果	如果	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	一切	一切	PN	PN	_	3	nsubj	_	start_char=3|end_char=5
 3	顺利	顺利	VA	VA	_	10	dep	_	start_char=6|end_char=8
@@ -418,6 +465,8 @@
 17	首航	首航	NN	NN	_	16	dobj	_	start_char=44|end_char=46
 18	。	。	PU	PU	_	10	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_news_bubble-19
+# text = 前往帕劳的旅客，在结束5天或7天的行程后返回台湾，帕劳总统惠恕仁也将搭乘此班机前往台湾，宣示两国友好关系，重启旅游泡沫，振兴两国旅游经济。
 1	前往	前往	VV	VV	_	4	acl	_	start_char=0|end_char=2
 2	帕劳	帕劳	NR	NR	_	1	dobj	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	1	mark	_	start_char=6|end_char=7
@@ -462,6 +511,8 @@
 42	经济	经济	NN	NN	_	39	dobj	_	start_char=107|end_char=109
 43	。	。	PU	PU	_	16	punct	_	start_char=110|end_char=111
 
+# sent_id = gcdt_news_bubble-20
+# text = 不过，苹果日报引述知情人士表示，双方对上述方案仍有少许分歧。
 1	不过	不过	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	苹果	苹果	NR	NR	_	4	compound:nn	_	start_char=5|end_char=7
@@ -481,6 +532,8 @@
 17	分歧	分歧	NN	NN	_	15	dobj	_	start_char=43|end_char=45
 18	。	。	PU	PU	_	5	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_news_bubble-21
+# text = 例如，有台湾专家认为，旅客在抵达帕劳前已提供PCR阴性报告，没有必要在帕劳机场再做一次采检；另外，也有专家认为，由于双方没有社区感染，疫情控制顺利，回台后没有必要进行采检，甚至没有必要进行居家检疫，称自主健康管理即可。
 1	例如	例如	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	0	root	_	start_char=5|end_char=6
@@ -548,6 +601,8 @@
 65	即可	即可	VV	VV	_	61	ccomp	_	start_char=170|end_char=172
 66	。	。	PU	PU	_	3	punct	_	start_char=173|end_char=174
 
+# sent_id = gcdt_news_bubble-22
+# text = 报道指这些不同的意见都将在周三的会议上进行讨论和整合，所有的计划还需要指挥中心最后确定。
 1	报道	报道	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	指	指	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	这些	这些	DT	DT	_	6	det	_	start_char=5|end_char=7
@@ -577,6 +632,8 @@
 27	确定	确定	VV	VV	_	23	ccomp	_	start_char=67|end_char=69
 28	。	。	PU	PU	_	2	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_news_bubble-23
+# text = 苹果日报引述消息称，如果回台后检疫期满前需要检疫，目前计划在北、中、南、东等地选择几家医院，检疫费用也将从目前的7000元新台币降至5500或5000元，以降低旅客成本。
 1	苹果	苹果	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	日报	日报	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	引述	引述	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -632,6 +689,8 @@
 53	成本	成本	NN	NN	_	51	dobj	_	start_char=134|end_char=136
 54	。	。	PU	PU	_	3	punct	_	start_char=137|end_char=138
 
+# sent_id = gcdt_news_bubble-24
+# text = 中央流行疫情指挥中心发言人庄人祥今天（3月7日）在记者会上表示，帕劳旅游泡泡。
 1	中央	中央	NN	NN	_	5	compound:nn	_	start_char=0|end_char=2
 2	流行	流行	JJ	JJ	_	5	amod	_	start_char=3|end_char=5
 3	疫情	疫情	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8
@@ -654,6 +713,8 @@
 20	泡泡	泡泡	NN	NN	_	16	dobj	_	start_char=55|end_char=57
 21	。	。	PU	PU	_	16	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_news_bubble-25
+# text = 此前已派防疫医生到帕劳了解开放日程等细节。
 1	此前	此前	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	已	已	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	派	派	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -668,6 +729,8 @@
 12	细节	细节	NN	NN	_	8	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	3	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_news_bubble-26
+# text = 2至3天内将进行更详细的讨论，讨论后将公布。
 1	2	2	CD	CD	_	3	dep	_	start_char=0|end_char=1
 2	至	至	CC	CC	_	3	cc	_	start_char=2|end_char=3
 3	3	3	CD	CD	_	7	advmod:loc	_	start_char=4|end_char=5
@@ -686,6 +749,8 @@
 16	公布	公布	VV	VV	_	7	conj	_	start_char=34|end_char=36
 17	。	。	PU	PU	_	7	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_news_bubble-27
+# text = 不过指最终的计划还没有确定下来。
 1	不过	不过	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	指	指	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	最终	最终	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -697,6 +762,8 @@
 9	下来	下来	VV	VV	_	8	advmod:rcomp	_	start_char=21|end_char=23
 10	。	。	PU	PU	_	8	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_news_bubble-28
+# text = 庄人祥解释说，之前暂停讨论帕劳旅游泡泡，主要是因为2月28日的秋冬专案。
 1	庄人祥	庄人祥	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	解释	解释	VV	VV	_	3	compound:vc	_	start_char=4|end_char=6
 3	说	说	VV	VV	_	0	root	_	start_char=7|end_char=8
@@ -718,6 +785,8 @@
 19	专案	专案	NN	NN	_	13	nmod:prep	_	start_char=51|end_char=53
 20	。	。	PU	PU	_	3	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_news_bubble-29
+# text = 目前当地的当地医疗、检验由均由新光医院支援，也只对台湾的航班开放，不存在因其他因素而耽搁的情况。
 1	目前	目前	NT	NT	_	13	nmod:tmod	_	start_char=0|end_char=2
 2	当地	当地	NN	NN	_	7	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -751,6 +820,8 @@
 31	情况	情况	NN	NN	_	24	dobj	_	start_char=75|end_char=77
 32	。	。	PU	PU	_	13	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_news_bubble-30
+# text = 帕劳当地从未发生疫情，目前只开放台湾的飞机可以前往当地。
 1	帕劳	帕劳	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	当地	当地	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	从	从	P	P	_	5	case	_	start_char=6|end_char=7
@@ -769,6 +840,8 @@
 16	当地	当地	NN	NN	_	15	dobj	_	start_char=40|end_char=42
 17	。	。	PU	PU	_	5	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_news_bubble-31
+# text = 指台湾对当地情况的掌控度很高，双方的疫情讯息也相当透明。
 1	指	指	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	台湾	台湾	NR	NR	_	7	nmod	_	start_char=2|end_char=4
 3	对	对	P	P	_	5	case	_	start_char=5|end_char=6
@@ -788,6 +861,8 @@
 17	透明	透明	VA	VA	_	9	conj	_	start_char=41|end_char=43
 18	。	。	PU	PU	_	1	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_news_bubble-32
+# text = 至于帕劳总统是否来台，庄人祥说：“这要问外交部，指挥中心并不清楚。”
 1	至于	至于	P	P	_	5	case	_	start_char=0|end_char=2
 2	帕劳	帕劳	NR	NR	_	3	compound:nn	_	start_char=3|end_char=5
 3	总统	总统	NN	NN	_	5	nsubj	_	start_char=6|end_char=8
@@ -810,6 +885,8 @@
 20	。	。	PU	PU	_	8	punct	_	start_char=51|end_char=52
 21	”	”	PU	PU	_	8	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_bubble-33
+# text = 帕劳当地没有社区感染者。
 1	帕劳	帕劳	NR	NR	_	3	nmod:topic	_	start_char=0|end_char=2
 2	当地	当地	NN	NN	_	3	dep	_	start_char=3|end_char=5
 3	没有	没有	VE	VE	_	0	root	_	start_char=6|end_char=8
@@ -817,6 +894,8 @@
 5	感染者	感染者	NN	NN	_	3	dobj	_	start_char=12|end_char=15
 6	。	。	PU	PU	_	3	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_news_bubble-34
+# text = 对于从帕劳返台的民众是否只需管理自己的健康，庄仁祥表示，这部分还在讨论中，相关配套设施还在讨论中。
 1	对于	对于	P	P	_	6	case	_	start_char=0|end_char=2
 2	从	从	P	P	_	3	case	_	start_char=3|end_char=4
 3	帕劳	帕劳	NR	NR	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -850,6 +929,8 @@
 31	中	中	LC	LC	_	30	case	_	start_char=77|end_char=78
 32	。	。	PU	PU	_	16	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_news_bubble-35
+# text = 至于帕劳目前对入境的外国人采取的检疫措施，庄仁祥表示，据他了解，帕劳目前要求入境后至少要检疫5天，检疫期满后，检疫为阴性再进行自主健康管理。
 1	至于	至于	P	P	_	11	case	_	start_char=0|end_char=2
 2	帕劳	帕劳	NR	NR	_	11	nmod	_	start_char=3|end_char=5
 3	目前	目前	NT	NT	_	8	nmod:tmod	_	start_char=6|end_char=8
@@ -894,6 +975,8 @@
 42	管理	管理	NN	NN	_	39	dobj	_	start_char=108|end_char=110
 43	。	。	PU	PU	_	14	punct	_	start_char=111|end_char=112
 
+# sent_id = gcdt_news_bubble-36
+# text = 中央社引述中央流行疫情指挥中心副指挥官陈宗彦指，指挥中心先前曾针对部分国家研议开放旅游泡，并曾派两名医师到当地了解情况，但后来因疫情等因素而延滞。
 1	中央社	中央社	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	引述	引述	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	中央	中央	NN	NN	_	7	compound:nn	_	start_char=7|end_char=9
@@ -938,6 +1021,8 @@
 42	延滞	延滞	VV	VV	_	26	conj	_	start_char=111|end_char=113
 43	。	。	PU	PU	_	2	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_news_bubble-37
+# text = 但他坦言，近期确实有重启旅游泡泡的计划，预计未来两三天会召开会议，讨论延续之前的计划，相关的开放细节和时程要等到会议结束后才会有一个比较明确的结论。
 1	但	但	AD	AD	_	3	advmod	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	坦言	坦言	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -988,6 +1073,8 @@
 48	结论	结论	NN	NN	_	42	dobj	_	start_char=118|end_char=120
 49	。	。	PU	PU	_	3	punct	_	start_char=121|end_char=122
 
+# sent_id = gcdt_news_bubble-38
+# text = 观光局长张锡聪低调回应，一切听从指挥中心的规划和安排。
 1	观光	观光	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	局长	局长	NN	NN	_	3	appos	_	start_char=3|end_char=5
 3	张锡聪	张锡聪	NR	NR	_	5	nsubj	_	start_char=6|end_char=9
@@ -1004,6 +1091,8 @@
 14	安排	安排	NN	NN	_	8	dobj	_	start_char=37|end_char=39
 15	。	。	PU	PU	_	5	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_news_bubble-39
+# text = 有旅游业者表示，今年1月赴帕劳参加当地总统就职典礼的外交部长吴钊燮在接受当地媒体采访时，表示看好台湾与帕劳之间建立旅游泡泡，但提到其中有挑战。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	旅游	旅游	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	业者	业者	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1046,6 +1135,8 @@
 40	挑战	挑战	NN	NN	_	39	dobj	_	start_char=107|end_char=109
 41	。	。	PU	PU	_	1	punct	_	start_char=110|end_char=111
 
+# sent_id = gcdt_news_bubble-40
+# text = 外交部也在1月的记者会上表示，政府将继续致力于推动台湾与帕劳之间的安全旅游泡沫，同时确保防疫工作到位。
 1	外交部	外交部	NN	NN	_	8	nsubj	_	start_char=0|end_char=3
 2	也	也	AD	AD	_	8	advmod	_	start_char=4|end_char=5
 3	在	在	P	P	_	6	case	_	start_char=6|end_char=7
@@ -1076,6 +1167,8 @@
 28	到位	到位	VV	VV	_	25	ccomp	_	start_char=75|end_char=77
 29	。	。	PU	PU	_	8	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_news_bubble-41
+# text = 中央社引述帕劳媒体报道，帕劳新任总统惠恕仁（SurangelWhipps）极力主张与台湾建立台湾与帕劳“无菌廊道”（sterile corridor），以恢复和加强两国在医药、商业等领域的交流与合作，并重振受疫情影响的旅游业。
 1	中央社	中央社	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	引述	引述	VV	VV	_	0	root	_	start_char=4|end_char=6
 3	帕劳	帕劳	NR	NR	_	4	compound:nn	_	start_char=7|end_char=9
@@ -1131,6 +1224,8 @@
 53	旅游业	旅游业	NN	NN	_	48	dobj	_	start_char=160|end_char=163
 54	。	。	PU	PU	_	2	punct	_	start_char=164|end_char=165
 
+# sent_id = gcdt_news_bubble-42
+# text = 惠恕仁在1月21日的揭牌仪式上致辞时表示，“无菌廊道”一旦成功建立，台湾和帕劳将是世界上第一个首例。
 1	惠恕仁	惠恕仁	NR	NR	_	11	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	7	case	_	start_char=4|end_char=5
 3	1月	1月	NT	NT	_	4	compound:nn	_	start_char=6|end_char=8
@@ -1163,6 +1258,8 @@
 30	首例	首例	NN	NN	_	11	ccomp	_	start_char=76|end_char=78
 31	。	。	PU	PU	_	11	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_news_bubble-43
+# text = 帕劳，又称帛琉，是位于西太平洋的岛屿国家，四季皆为夏天。
 1	帕劳	帕劳	NR	NR	_	4	nsubj	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	又	又	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -1184,6 +1281,8 @@
 19	夏天	夏天	NT	NT	_	13	conj	_	start_char=43|end_char=45
 20	。	。	PU	PU	_	4	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_news_bubble-44
+# text = 帕劳也是台湾邦交国之一，台湾与帕劳相互给予对方90天入境免签待遇。
 1	帕劳	帕劳	NR	NR	_	6	nsubj	_	start_char=0|end_char=2
 2	也	也	AD	AD	_	6	advmod	_	start_char=3|end_char=4
 3	是	是	VC	VC	_	6	cop	_	start_char=5|end_char=6
@@ -1204,6 +1303,8 @@
 18	待遇	待遇	NN	NN	_	16	dobj	_	start_char=47|end_char=49
 19	。	。	PU	PU	_	6	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_bubble-45
+# text = 台湾由出发到帕劳只需4小时的飞行时间，当地比台湾快1小时。
 1	台湾	台湾	NR	NR	_	7	nsubj	_	start_char=0|end_char=2
 2	由	由	P	P	_	3	case	_	start_char=3|end_char=4
 3	出发	出发	VV	VV	_	7	nmod:prep	_	start_char=5|end_char=7
@@ -1225,6 +1326,8 @@
 19	小时	小时	NN	NN	_	7	conj	_	start_char=44|end_char=46
 20	。	。	PU	PU	_	7	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_news_bubble-46
+# text = 左临菲律宾，右靠是关岛，上方为菲律宾海。
 1	左临	左临	VV	VV	_	6	dep	_	start_char=0|end_char=2
 2	菲律宾	菲律宾	NR	NR	_	1	dobj	_	start_char=3|end_char=6
 3	，	，	PU	PU	_	1	punct	_	start_char=7|end_char=8

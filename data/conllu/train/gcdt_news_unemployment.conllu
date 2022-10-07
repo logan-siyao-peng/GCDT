@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_unemployment
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2021-01-20
+# meta::dateModified = 2021-01-27
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E9%A6%99%E6%B8%AF%E6%9C%80%E6%96%B0%E5%A4%B1%E6%A5%AD%E7%8E%87%E5%89%B5%E5%8D%81%E5%85%AD%E5%B9%B4%E4%BE%86%E9%AB%98%E4%BD%8D
+# meta::speakerCount = 0
+# meta::title = 香港最新失业率创十六年来高位
+# meta::shortTitle = unemployment
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_unemployment-1
+# text = 香港最新失业率创十六年来高位
 1	香港	香港	NR	NR	_	3	nmod	_	start_char=0|end_char=2
 2	最新	最新	JJ	JJ	_	3	amod	_	start_char=3|end_char=5
 3	失业率	失业率	NN	NN	_	4	nsubj	_	start_char=6|end_char=9
@@ -7,6 +20,8 @@
 7	来	来	LC	LC	_	5	case	_	start_char=17|end_char=18
 8	高位	高位	NN	NN	_	4	dobj	_	start_char=19|end_char=21
 
+# sent_id = gcdt_news_unemployment-2
+# text = 【2021年1月20日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2021年	2021年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	1月	1月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -14,6 +29,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_unemployment-3
+# text = 根据政府统计处今日（1月19日）发表的最新劳动人口统计数码（即2020年10月至12月的临时数字），经季节性调整的失业率由2020年9月至11月的6.3%上升至2020年10月至12月的6.6%。
 1	根据	根据	P	P	_	24	case	_	start_char=0|end_char=2
 2	政府	政府	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	统计处	统计处	NN	NN	_	7	compound:nn	_	start_char=6|end_char=9
@@ -62,6 +79,8 @@
 46	6.6%	6.6%	CD	CD	_	39	nmod:prep	_	start_char=138|end_char=142
 47	。	。	PU	PU	_	39	punct	_	start_char=143|end_char=144
 
+# sent_id = gcdt_news_unemployment-4
+# text = 就业不足率在该两段期间则保持不变，维持于3.4%的水平。
 1	就业	就业	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	不足率	不足率	NN	NN	_	9	nsubj	_	start_char=3|end_char=6
 3	在	在	P	P	_	7	case	_	start_char=7|end_char=8
@@ -81,6 +100,8 @@
 17	水平	水平	NN	NN	_	13	nmod:prep	_	start_char=41|end_char=43
 18	。	。	PU	PU	_	9	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_news_unemployment-5
+# text = “与二零二零年九月至十一月比较，在二零二零年十月至十二月期间，大多数主要经济行业的失业率（不经季节性调整）均见上升，其中零售、住宿及膳食服务业有相对明显的上升。
 1	“	“	PU	PU	_	29	punct	_	start_char=0|end_char=1
 2	与	与	P	P	_	6	case	_	start_char=2|end_char=3
 3	二零二零年	二零二零年	NT	NT	_	6	compound:nn	_	start_char=4|end_char=9
@@ -126,6 +147,8 @@
 43	上升	上升	NN	NN	_	39	dobj	_	start_char=119|end_char=121
 44	。	。	PU	PU	_	29	punct	_	start_char=122|end_char=123
 
+# sent_id = gcdt_news_unemployment-6
+# text = 就业不足率方面，下跌主要见于货仓及运输辅助活动业，而上升主要见于零售业。
 1	就业	就业	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	不足率	不足率	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	方面	方面	NN	NN	_	7	nmod:topic	_	start_char=7|end_char=9
@@ -146,6 +169,8 @@
 18	零售业	零售业	NN	NN	_	17	dobj	_	start_char=49|end_char=52
 19	。	。	PU	PU	_	7	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_unemployment-7
+# text = 总就业人数由二零二零年九月至十一月的3 650 100人，下跌至二零二零年十月至十二月的3 647 700人，减少约2 400人。
 1	总	总	JJ	JJ	_	3	amod	_	start_char=0|end_char=1
 2	就业	就业	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	人数	人数	NN	NN	_	13	nsubj	_	start_char=5|end_char=7
@@ -174,6 +199,8 @@
 26	人	人	NN	NN	_	23	dobj	_	start_char=83|end_char=84
 27	。	。	PU	PU	_	13	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_news_unemployment-8
+# text = 二零二零年十月至十二月的总劳动人口为3 893 400人，与二零二零年九月至十一月的数码（3 894 400人）大致相若。
 1	二零二零年	二零二零年	NT	NT	_	4	compound:nn	_	start_char=0|end_char=5
 2	十月	十月	NT	NT	_	4	conj	_	start_char=6|end_char=8
 3	至	至	CC	CC	_	4	cc	_	start_char=9|end_char=10
@@ -201,6 +228,8 @@
 25	相若	相若	VV	VV	_	11	conj	_	start_char=78|end_char=80
 26	。	。	PU	PU	_	11	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_news_unemployment-9
+# text = 失业人数（不经季节性调整）由二零二零年九月至十一月的244 300人上升至二零二零年十月至十二月的245 800人，增加约1 500人。
 1	失业	失业	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	人数	人数	NN	NN	_	17	nsubj	_	start_char=3|end_char=5
 3	（	（	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -233,6 +262,8 @@
 30	人	人	NN	NN	_	27	dobj	_	start_char=92|end_char=93
 31	。	。	PU	PU	_	17	punct	_	start_char=94|end_char=95
 
+# sent_id = gcdt_news_unemployment-10
+# text = 同期的就业不足人数亦由133 100人上升至133 800人，增加约700人。”
 1	同期	同期	NN	NN	_	5	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	就业	就业	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -254,12 +285,16 @@
 19	。	。	PU	PU	_	10	punct	_	start_char=54|end_char=55
 20	”	”	PU	PU	_	10	punct	_	start_char=56|end_char=57
 
+# sent_id = gcdt_news_unemployment-11
+# text = ——新闻稿上写道
 1	——	——	PU	PU	_	5	punct	_	start_char=0|end_char=2
 2	新闻	新闻	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	稿	稿	NN	NN	_	5	advmod:loc	_	start_char=6|end_char=7
 4	上	上	LC	LC	_	3	case	_	start_char=8|end_char=9
 5	写道	写道	VV	VV	_	0	root	_	start_char=10|end_char=12
 
+# sent_id = gcdt_news_unemployment-12
+# text = 劳工及福利局局长罗致光评论最新失业数字时表示，香港第四波疫情在11月后期开始爆发，导致劳工市场再度恶化。
 1	劳工	劳工	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	及	及	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	福利局	福利局	NN	NN	_	4	compound:nn	_	start_char=5|end_char=8
@@ -289,6 +324,8 @@
 27	恶化	恶化	VV	VV	_	23	ccomp	_	start_char=75|end_char=77
 28	。	。	PU	PU	_	11	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_news_unemployment-13
+# text = 经季节性调整的失业率在2020年10月至十12月较2020年9月至11月上升0.3个百分点至6.6%，为16年来的高位，就业不足率则维持于3.4%不变。
 1	经	经	P	P	_	5	case	_	start_char=0|end_char=1
 2	季节性	季节性	JJ	JJ	_	3	amod	_	start_char=2|end_char=5
 3	调整	调整	NN	NN	_	5	nmod:assmod	_	start_char=6|end_char=8
@@ -328,6 +365,8 @@
 37	变	变	VV	VV	_	33	nmod:prep	_	start_char=110|end_char=111
 38	。	。	PU	PU	_	33	punct	_	start_char=112|end_char=113
 
+# sent_id = gcdt_news_unemployment-14
+# text = 同时，总就业人数较上一个期间微跌0.1%至3 647 700人，失业人数增加0.6%至245 800人。
 1	同时	同时	AD	AD	_	11	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	11	punct	_	start_char=3|end_char=4
 3	总	总	JJ	JJ	_	5	amod	_	start_char=5|end_char=6
@@ -353,6 +392,8 @@
 23	人	人	NN	NN	_	19	dobj	_	start_char=69|end_char=70
 24	。	。	PU	PU	_	11	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_news_unemployment-15
+# text = 按行业分析，与消费及旅游相关行业（即零售、住宿及膳食服务业）合计的失业率在2020年10月至12月较2020年9月至11月回升0.5个百分点至10.6%。
 1	按	按	P	P	_	2	case	_	start_char=0|end_char=1
 2	行业	行业	NN	NN	_	3	nmod:prep	_	start_char=2|end_char=4
 3	分析	分析	VV	VV	_	33	nmod:prep	_	start_char=5|end_char=7
@@ -393,6 +434,8 @@
 38	10.6%	10.6%	CD	CD	_	33	nmod:range	_	start_char=108|end_char=113
 39	。	。	PU	PU	_	33	punct	_	start_char=114|end_char=115
 
+# sent_id = gcdt_news_unemployment-16
+# text = 其中，餐饮服务活动业的失业率升至13.8%。
 1	其中	其中	NN	NN	_	8	nmod:topic	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	8	punct	_	start_char=3|end_char=4
 3	餐饮	餐饮	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -405,6 +448,8 @@
 10	13.8%	13.8%	CD	CD	_	8	dep	_	start_char=25|end_char=30
 11	。	。	PU	PU	_	8	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_news_unemployment-17
+# text = 多个其他行业的失业率亦上升。
 1	多	多	CD	CD	_	4	nummod	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	其他	其他	DT	DT	_	4	det	_	start_char=4|end_char=6
@@ -415,6 +460,8 @@
 8	上升	上升	VV	VV	_	0	root	_	start_char=18|end_char=20
 9	。	。	PU	PU	_	8	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_news_unemployment-18
+# text = 展望未来，罗致光说，由于本地第四波疫情继续影响本地消费气氛及干扰经济活动，劳工市场在短期内仍将显著受压。
 1	展望	展望	VV	VV	_	5	dep	_	start_char=0|end_char=2
 2	未来	未来	NT	NT	_	1	dobj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	5	punct	_	start_char=6|end_char=7
@@ -447,6 +494,8 @@
 30	受压	受压	VV	VV	_	5	ccomp	_	start_char=78|end_char=80
 31	。	。	PU	PU	_	5	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_news_unemployment-19
+# text = 称政府最近已推出针对性措施，为受重创的行业提供进一步支援，将继续密切留意相关情况。
 1	称	称	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	政府	政府	NN	NN	_	5	nsubj	_	start_char=2|end_char=4
 3	最近	最近	NT	NT	_	5	nmod:tmod	_	start_char=5|end_char=7
@@ -472,6 +521,8 @@
 23	情况	情况	NN	NN	_	21	dobj	_	start_char=60|end_char=62
 24	。	。	PU	PU	_	1	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_news_unemployment-20
+# text = “大家知道，政府刚刚公布二零二零年十月至十二月的三个月经季节性调整的失业率，由二零二零年九月至十一月经季节性调整的失业率6.3%，上升至6.6%。
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	大家	大家	PN	PN	_	3	nsubj	_	start_char=2|end_char=4
 3	知道	知道	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -510,6 +561,8 @@
 36	6.6%	6.6%	URL	URL	_	34	dobj	_	start_char=103|end_char=107
 37	。	。	PU	PU	_	3	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_news_unemployment-21
+# text = 当然，我想在此与大家先谈一个稍为技术的问题，让大家明白有关数字。
 1	当然	当然	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	我	我	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -534,6 +587,8 @@
 22	数字	数字	NN	NN	_	20	dobj	_	start_char=50|end_char=52
 23	。	。	PU	PU	_	4	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_unemployment-22
+# text = 大家知道，因为十二月正值第四波疫情的高峰期，加上‘保就业’计划结束，失业率上升，我相信是大家预期之内。
 1	大家	大家	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	知道	知道	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -565,6 +620,8 @@
 29	之内	之内	LC	LC	_	28	case	_	start_char=76|end_char=78
 30	。	。	PU	PU	_	2	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_news_unemployment-23
+# text = 不过在技术上希望大家明白，刚才说的数字是经季节性调整的数字。
 1	不过	不过	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	3	case	_	start_char=3|end_char=4
 3	技术	技术	NN	NN	_	5	nmod:prep	_	start_char=5|end_char=7
@@ -585,6 +642,8 @@
 18	数字	数字	NN	NN	_	7	ccomp	_	start_char=44|end_char=46
 19	。	。	PU	PU	_	5	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_news_unemployment-24
+# text = 过往而言，历年十二月香港的经济一般比较旺盛，所以失业率在十二月有机会向下调整；所以相反而言，当今次十二月因疫情关系、‘保就业’计划结束，当失业率上升，经季节性调整的失业率会较实际情况大。
 1	过往而言	过往而言	VV	VV	_	0	root	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	1	punct	_	start_char=5|end_char=6
 3	历年	历年	NT	NT	_	4	compound:nn	_	start_char=7|end_char=9
@@ -639,6 +698,8 @@
 52	大	大	VA	VA	_	10	conj	_	start_char=142|end_char=143
 53	。	。	PU	PU	_	1	punct	_	start_char=144|end_char=145
 
+# sent_id = gcdt_news_unemployment-25
+# text = 因为季节性调整是以过往的趋势调整月份的偏差而不会出现太大波幅，但今次十二月与过往的十二月有明显差距，故经季节性调整后就会出现较大差异。
 1	因为	因为	P	P	_	16	case	_	start_char=0|end_char=2
 2	季节性	季节性	JJ	JJ	_	3	amod	_	start_char=3|end_char=6
 3	调整	调整	NN	NN	_	16	nsubj	_	start_char=7|end_char=9
@@ -683,6 +744,8 @@
 42	差异	差异	NN	NN	_	40	dobj	_	start_char=105|end_char=107
 43	。	。	PU	PU	_	16	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_news_unemployment-26
+# text = 所以如果大家留意公布的数字，另一个数字是二零二零年十月至十二月的平均失业人数升了1 500人，等于什么数字？
 1	所以	所以	AD	AD	_	22	advmod	_	start_char=0|end_char=2
 2	如果	如果	CS	CS	_	4	advmod	_	start_char=3|end_char=5
 3	大家	大家	PN	PN	_	4	nsubj	_	start_char=6|end_char=8
@@ -714,6 +777,8 @@
 29	数字	数字	NN	NN	_	27	dobj	_	start_char=78|end_char=80
 30	？	？	PU	PU	_	22	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_news_unemployment-27
+# text = 即等于就业人口的约0.04%，但经季节性调整的失业率则升了0.3个百分点，这是一个很明显的差距。
 1	即	即	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	等于	等于	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	就业	就业	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -745,6 +810,8 @@
 29	差距	差距	NN	NN	_	2	conj	_	start_char=73|end_char=75
 30	。	。	PU	PU	_	2	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_news_unemployment-28
+# text = 希望大家明白如何理解这些数字，就是基于技术上经季节性调整，以致一个明显的增幅，而偏离实际失业人数的增加，即仅1 500人这个数字。”
 1	希望	希望	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	大家	大家	PN	PN	_	3	nsubj	_	start_char=3|end_char=5
 3	明白	明白	VV	VV	_	1	ccomp	_	start_char=6|end_char=8
@@ -787,9 +854,13 @@
 40	。	。	PU	PU	_	1	punct	_	start_char=102|end_char=103
 41	”	”	PU	PU	_	1	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_news_unemployment-29
+# text = ——罗致光
 1	——	——	PU	PU	_	2	punct	_	start_char=0|end_char=2
 2	罗致光	罗致光	NR	NR	_	0	root	_	start_char=3|end_char=6
 
+# sent_id = gcdt_news_unemployment-30
+# text = 罗致光称：“创造就业方面，政府已开设约30 000个临时职位。
 1	罗致光	罗致光	NR	NR	_	2	nsubj	_	start_char=0|end_char=3
 2	称	称	VV	VV	_	0	root	_	start_char=4|end_char=5
 3	：	：	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -808,6 +879,8 @@
 16	职位	职位	NN	NN	_	11	dobj	_	start_char=42|end_char=44
 17	。	。	PU	PU	_	2	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_news_unemployment-31
+# text = 可以给大家知道一些最新数字，大约半数在政府中，另外半数则在非政府机构。
 1	可以	可以	VV	VV	_	4	aux:modal	_	start_char=0|end_char=2
 2	给	给	P	P	_	3	case	_	start_char=3|end_char=4
 3	大家	大家	PN	PN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -831,6 +904,8 @@
 21	机构	机构	NN	NN	_	18	dobj	_	start_char=52|end_char=54
 22	。	。	PU	PU	_	4	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_news_unemployment-32
+# text = 截至去年十二月底，超过14 000人已入职，余下17 000个职位中，大部分在招聘中，部分则快进行有关招聘工作，即暂时政府建立的临时职位有17 000个尚待招聘。”
 1	截至	截至	P	P	_	3	case	_	start_char=0|end_char=2
 2	去年	去年	NT	NT	_	3	compound:nn	_	start_char=3|end_char=5
 3	十二月	十二月	NT	NT	_	6	nmod:prep	_	start_char=6|end_char=9
@@ -878,6 +953,8 @@
 45	。	。	PU	PU	_	6	punct	_	start_char=121|end_char=122
 46	”	”	PU	PU	_	6	punct	_	start_char=123|end_char=124
 
+# sent_id = gcdt_news_unemployment-33
+# text = 罗致光在记者会回答问题指，对于未来一、两个月的失业情况也不乐观。
 1	罗致光	罗致光	NR	NR	_	6	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	5	case	_	start_char=4|end_char=5
 3	记者会	记者会	NN	NN	_	5	compound:nn	_	start_char=6|end_char=9
@@ -900,6 +977,8 @@
 20	乐观	乐观	VA	VA	_	6	ccomp	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	6	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_news_unemployment-34
+# text = 他提到较早前接受电视台节目采访时说“二元优惠计划可能要调高金额至三元”的讲法，称这不是政府的立场，希望不要引起一些不必要的误会。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	提到	提到	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	较早前	较早前	AD	AD	_	4	advmod	_	start_char=5|end_char=8
@@ -942,6 +1021,8 @@
 40	误会	误会	NN	NN	_	35	dobj	_	start_char=100|end_char=102
 41	。	。	PU	PU	_	2	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_news_unemployment-35
+# text = 不少政党建议政府推出失业援助金。
 1	不少	不少	CD	CD	_	2	dep	_	start_char=0|end_char=2
 2	政党	政党	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	建议	建议	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -951,6 +1032,8 @@
 7	援助金	援助金	NN	NN	_	5	dobj	_	start_char=18|end_char=21
 8	。	。	PU	PU	_	3	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_news_unemployment-36
+# text = 行政长官林郑月娥表示，该建议难以落实，她正与劳工及福利局研究放宽在职家庭津贴（职津）的申请门槛，让只能做散工、工作时数不多的市民可以申请。
 1	行政	行政	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	长官	长官	NN	NN	_	3	appos	_	start_char=3|end_char=5
 3	林郑月娥	林郑月娥	NR	NR	_	4	nsubj	_	start_char=6|end_char=10
@@ -994,6 +1077,8 @@
 41	申请	申请	VV	VV	_	29	ccomp	_	start_char=106|end_char=108
 42	。	。	PU	PU	_	4	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_news_unemployment-37
+# text = 林郑指，失业援助涉及大量公帑，政府对这个建议的态度是一贯的。
 1	林郑	林郑	NR	NR	_	2	nsubj	_	start_char=0|end_char=2
 2	指	指	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -1015,6 +1100,8 @@
 19	的	的	SP	SP	_	18	discourse	_	start_char=46|end_char=47
 20	。	。	PU	PU	_	2	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_news_unemployment-38
+# text = 她表示，政府有很多计划帮助失业或就业不足的人。
 1	她	她	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	表示	表示	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -1031,6 +1118,8 @@
 14	人	人	NN	NN	_	8	dobj	_	start_char=34|end_char=35
 15	。	。	PU	PU	_	2	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_news_unemployment-39
+# text = 她表示，会继续创造就业机会，研究减少职津工作时间。
 1	她	她	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	表示	表示	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -1047,6 +1136,8 @@
 14	时间	时间	NN	NN	_	11	dobj	_	start_char=35|end_char=37
 15	。	。	PU	PU	_	2	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_news_unemployment-40
+# text = 目前，职津的要求分为三个等级。
 1	目前	目前	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	职津	职津	NN	NN	_	5	nmod:assmod	_	start_char=5|end_char=7
@@ -1058,6 +1149,8 @@
 9	等级	等级	NN	NN	_	6	dobj	_	start_char=20|end_char=22
 10	。	。	PU	PU	_	6	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_news_unemployment-41
+# text = 对于非单亲家庭，可申请基本津贴，每月至少工作144小时；单亲家庭至少需要36小时。
 1	对于	对于	P	P	_	4	case	_	start_char=0|end_char=2
 2	非	非	JJ	JJ	_	4	amod	_	start_char=3|end_char=4
 3	单亲	单亲	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
@@ -1083,6 +1176,8 @@
 23	小时	小时	NN	NN	_	21	dobj	_	start_char=60|end_char=62
 24	。	。	PU	PU	_	7	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_news_unemployment-42
+# text = 补贴金额从500元到1400港元不等。
 1	补贴	补贴	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	金额	金额	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	从	从	P	P	_	7	case	_	start_char=6|end_char=7
@@ -1094,6 +1189,8 @@
 9	不等	不等	VV	VV	_	0	root	_	start_char=24|end_char=26
 10	。	。	PU	PU	_	9	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_news_unemployment-43
+# text = 劳动保障局局长罗致光表示，职津的设计特点是“多劳多得”。
 1	劳动	劳动	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	保障局	保障局	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	局长	局长	NN	NN	_	4	appos	_	start_char=7|end_char=9
@@ -1113,6 +1210,8 @@
 17	”	”	PU	PU	_	13	punct	_	start_char=42|end_char=43
 18	。	。	PU	PU	_	5	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_news_unemployment-44
+# text = 疫情期间，部分市民就业不足，收入减少，同时失去高额补贴。
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	期间	期间	NN	NN	_	7	nmod:topic	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	7	punct	_	start_char=6|end_char=7
@@ -1130,6 +1229,8 @@
 15	补贴	补贴	NN	NN	_	13	dobj	_	start_char=39|end_char=41
 16	。	。	PU	PU	_	7	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_news_unemployment-45
+# text = 罗致光还提到，有一些工种的月薪超过了职津收入上限，但当没有开工时，就无法满足职津的要求。
 1	罗致光	罗致光	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	还	还	AD	AD	_	3	advmod	_	start_char=4|end_char=5
 3	提到	提到	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1159,6 +1260,8 @@
 27	要求	要求	NN	NN	_	24	dobj	_	start_char=67|end_char=69
 28	。	。	PU	PU	_	3	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_news_unemployment-46
+# text = 他表示，政府正在探讨如何处理，待构思成熟后会公布方案。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	表示	表示	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	，	，	PU	PU	_	2	punct	_	start_char=5|end_char=6
@@ -1177,6 +1280,8 @@
 16	方案	方案	NN	NN	_	15	dobj	_	start_char=39|end_char=41
 17	。	。	PU	PU	_	2	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_news_unemployment-47
+# text = 社会福利署同日（19日）发表最新的领取综援个案数字。
 1	社会	社会	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	福利署	福利署	NN	NN	_	7	nsubj	_	start_char=3|end_char=6
 3	同日	同日	AD	AD	_	7	advmod	_	start_char=7|end_char=9
@@ -1192,6 +1297,8 @@
 13	数字	数字	NN	NN	_	7	dobj	_	start_char=35|end_char=37
 14	。	。	PU	PU	_	7	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_news_unemployment-48
+# text = 2020年12月份整体领取综援的个案较11月份增加476宗，按月升幅为0.2%。
 1	2020年	2020年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	12月份	12月份	NT	NT	_	4	nmod:tmod	_	start_char=6|end_char=10
 3	整体	整体	AD	AD	_	4	advmod	_	start_char=11|end_char=13
@@ -1212,6 +1319,8 @@
 18	0.2%	0.2%	CD	CD	_	16	dep	_	start_char=52|end_char=56
 19	。	。	PU	PU	_	10	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_news_unemployment-49
+# text = 罗致光亦就法定假日数量逐渐增加称：“我们认为一定可以解决十多年来关于法定假日与公众假期接轨的矛盾或争议案。
 1	罗致光	罗致光	NR	NR	_	9	nsubj	_	start_char=0|end_char=3
 2	亦	亦	AD	AD	_	9	advmod	_	start_char=4|end_char=5
 3	就	就	P	P	_	6	case	_	start_char=6|end_char=7
@@ -1245,6 +1354,8 @@
 31	案	案	NN	NN	_	16	dobj	_	start_char=81|end_char=82
 32	。	。	PU	PU	_	9	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_news_unemployment-50
+# text = 会在咨询人力事务委员会后，进行立法程序。
 1	会	会	VV	VV	_	9	aux:modal	_	start_char=0|end_char=1
 2	在	在	P	P	_	6	case	_	start_char=2|end_char=3
 3	咨询	咨询	NN	NN	_	6	compound:nn	_	start_char=4|end_char=6
@@ -1258,6 +1369,8 @@
 11	程序	程序	NN	NN	_	9	dobj	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	9	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_news_unemployment-51
+# text = 当我们完成内部程序后，我们会向立法会提交条例草案。”
 1	当	当	P	P	_	3	case	_	start_char=0|end_char=1
 2	我们	我	PN	PN	_	3	nsubj	_	start_char=2|end_char=4
 3	完成	完成	VV	VV	_	12	nmod:prep	_	start_char=5|end_char=7
@@ -1275,6 +1388,8 @@
 15	。	。	PU	PU	_	12	punct	_	start_char=38|end_char=39
 16	”	”	PU	PU	_	12	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_news_unemployment-52
+# text = 载列最新劳工统计数字的统计表可于政府统计处网站下载。
 1	载列	载列	VV	VV	_	7	acl	_	start_char=0|end_char=2
 2	最新	最新	JJ	JJ	_	3	amod	_	start_char=3|end_char=5
 3	劳工	劳工	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8

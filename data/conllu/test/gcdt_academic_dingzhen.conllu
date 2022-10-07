@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_dingzhen
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2021-08-12
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=44511
+# meta::speakerCount = 0
+# meta::title = 狂欢与凝视：颜值消费与田园回归——以“藏族小伙丁真爆红”事件为例
+# meta::shortTitle = dingzhen
+# meta::author = Siyi Zhang, Sinuo Zhang, Yuan Meng
+# meta::genre = academic
+# meta::partition = test
+# sent_id = gcdt_academic_dingzhen-1
+# text = 狂欢与凝视：颜值消费与田园回归——以“藏族小伙丁真爆红”事件为例
 1	狂欢	狂欢	NN	NN	_	3	conj	_	start_char=0|end_char=2
 2	与	与	CC	CC	_	3	cc	_	start_char=3|end_char=4
 3	凝视	凝视	NN	NN	_	9	dep	_	start_char=5|end_char=7
@@ -19,10 +32,14 @@
 19	为	为	VC	VC	_	9	conj	_	start_char=48|end_char=49
 20	例	例	NN	NN	_	19	dobj	_	start_char=50|end_char=51
 
+# sent_id = gcdt_academic_dingzhen-2
+# text = 1. 事件背景
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	事件	事件	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	背景	背景	NN	NN	_	0	root	_	start_char=6|end_char=8
 
+# sent_id = gcdt_academic_dingzhen-3
+# text = 2020年11月，摄影师胡波在抖音上发布了一条不到10秒的短视频，视频中的藏族小伙丁真凭借原生态的肤色、纯真的笑容、清澈的眼神，成了网友心中的“甜野男孩”。
 1	2020年	2020年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	11月	11月	NT	NT	_	9	nmod:tmod	_	start_char=6|end_char=9
 3	，	，	PU	PU	_	9	punct	_	start_char=10|end_char=11
@@ -74,6 +91,8 @@
 49	”	”	PU	PU	_	48	punct	_	start_char=124|end_char=125
 50	。	。	PU	PU	_	9	punct	_	start_char=126|end_char=127
 
+# sent_id = gcdt_academic_dingzhen-4
+# text = 尤其在宣传片《丁真的世界》发布后，围绕丁真的各种话题迅速占据各大社交平台，理塘也成为当时网友讨论度最高的旅游目的地之一。
 1	尤其	尤其	AD	AD	_	19	advmod	_	start_char=0|end_char=2
 2	在	在	P	P	_	9	case	_	start_char=3|end_char=4
 3	宣传片	宣传片	NN	NN	_	7	compound:nn	_	start_char=5|end_char=8
@@ -112,6 +131,8 @@
 36	之一	之一	NN	NN	_	27	dobj	_	start_char=92|end_char=94
 37	。	。	PU	PU	_	19	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_academic_dingzhen-5
+# text = 在新媒体语境下，主流媒体积极进行流量引导，成功用一个“网红事件”赋能旅游扶贫，为贫困地区的扶贫工作提供了新的思路。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	新	新	JJ	JJ	_	3	amod	_	start_char=2|end_char=3
 3	媒体	媒体	NN	NN	_	4	compound:nn	_	start_char=4|end_char=6
@@ -150,6 +171,8 @@
 36	思路	思路	NN	NN	_	32	dobj	_	start_char=89|end_char=91
 37	。	。	PU	PU	_	10	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_academic_dingzhen-6
+# text = 2. “狂欢理论”概述
 1	2.	2.	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	狂欢	狂欢	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -157,6 +180,8 @@
 5	”	”	PU	PU	_	4	punct	_	start_char=11|end_char=12
 6	概述	概述	NN	NN	_	0	root	_	start_char=13|end_char=15
 
+# sent_id = gcdt_academic_dingzhen-7
+# text = 狂欢理论，最早由苏联思想家巴赫金提出，其核心是“狂欢化”，即人们在与权力、官方等第一世界相对的第二世界中平等且尽情的交往、亲昵，没有任何界限和束缚。
 1	狂欢	狂欢	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	理论	理论	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	9	punct	_	start_char=6|end_char=7
@@ -204,6 +229,8 @@
 45	束缚	束缚	NN	NN	_	41	dobj	_	start_char=115|end_char=117
 46	。	。	PU	PU	_	9	punct	_	start_char=118|end_char=119
 
+# sent_id = gcdt_academic_dingzhen-8
+# text = 这一理论认为，人们在狂欢世界中一定程度地颠覆了现有的等级和秩序，暂时性地达到了乌托邦式的理想社会。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	理论	理论	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -235,6 +262,8 @@
 29	社会	社会	NN	NN	_	24	dobj	_	start_char=74|end_char=76
 30	。	。	PU	PU	_	4	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_academic_dingzhen-9
+# text = 狂欢理论主要包含四大意义。
 1	狂欢	狂欢	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	理论	理论	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	主要	主要	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -244,6 +273,8 @@
 7	意义	意义	NN	NN	_	4	dobj	_	start_char=16|end_char=18
 8	。	。	PU	PU	_	4	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_academic_dingzhen-10
+# text = 首先，狂欢理论尊重人自身的欲望，使得大众文化更多地获得大众支持；其次，对大众文化来说，其不断冲击着贵族文化、官方文化，同时也吸收着大众文化、官方文化的优势从而获得新的发展，文化和文化间的相互渗透，蕴含着更新与交替的精神；第三，在狂欢世界中，所有人平等地交往，颠覆原有秩序，蕴含着批判和反抗的精神；第四，狂欢理论通过对中世纪的一切形而上学的东西进行解构、主张确立民间狂欢文化的对等地位，具有解构精神。
 1	首先	首先	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	狂欢	狂欢	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -368,6 +399,8 @@
 122	精神	精神	NN	NN	_	120	dobj	_	start_char=317|end_char=319
 123	。	。	PU	PU	_	5	punct	_	start_char=320|end_char=321
 
+# sent_id = gcdt_academic_dingzhen-11
+# text = 3. “丁真”在不同社交媒体上的内容呈现
 1	3.	3.	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	丁真	丁真	NR	NR	_	12	nsubj	_	start_char=5|end_char=7
@@ -381,6 +414,8 @@
 11	内容	内容	NN	NN	_	12	nmod:prep	_	start_char=25|end_char=27
 12	呈现	呈现	VV	VV	_	0	root	_	start_char=28|end_char=30
 
+# sent_id = gcdt_academic_dingzhen-12
+# text = 2020年11月12日，一网名为“微笑收藏家·波哥”的网友发布了藏族小伙丁真的视频，随后该条视频一夜爆红。
 1	2020年	2020年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	11月	11月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=9
 3	12日	12日	NT	NT	_	13	nmod:tmod	_	start_char=10|end_char=13
@@ -410,6 +445,8 @@
 27	爆红	爆红	VV	VV	_	13	conj	_	start_char=76|end_char=78
 28	。	。	PU	PU	_	13	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_academic_dingzhen-13
+# text = 在随后的几天里，丁真也相继开通了抖音、微博、快手等社交平台。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	随后	随后	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -432,6 +469,8 @@
 20	平台	平台	NN	NN	_	11	dobj	_	start_char=46|end_char=48
 21	。	。	PU	PU	_	11	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_academic_dingzhen-14
+# text = 其中，热度最高、内容最具代表性的是抖音和微博平台。
 1	其中	其中	NN	NN	_	16	nmod:topic	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
 3	热度	热度	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -450,12 +489,16 @@
 16	平台	平台	NN	NN	_	0	root	_	start_char=37|end_char=39
 17	。	。	PU	PU	_	16	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_academic_dingzhen-15
+# text = (一) 抖音平台
 1	(	(	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	5	dep	_	start_char=2|end_char=3
 3	)	)	PU	PU	_	5	punct	_	start_char=4|end_char=5
 4	抖音	抖音	NN	NN	_	5	compound:nn	_	start_char=6|end_char=8
 5	平台	平台	NN	NN	_	0	root	_	start_char=9|end_char=11
 
+# sent_id = gcdt_academic_dingzhen-16
+# text = 2020年11月19日，“理塘丁真”在抖音平台首次发声，介绍了自己和他的小马珍珠，260.9万的播放量成为了丁真抖音中播放量最高的视频。
 1	2020年	2020年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	11月	11月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=9
 3	19日	19日	NT	NT	_	14	nmod:tmod	_	start_char=10|end_char=13
@@ -495,6 +538,8 @@
 37	视频	视频	NN	NN	_	28	dobj	_	start_char=101|end_char=103
 38	。	。	PU	PU	_	14	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_academic_dingzhen-17
+# text = “理塘丁真”更新的内容主要分为两大类：第一，是丁真自己的生活日常，这类视频占超过总视频的一半；第二，是宣传介绍自己的家乡理塘县。
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	理塘	理塘	NR	NR	_	3	compound:nn	_	start_char=2|end_char=4
 3	丁真	丁真	NR	NR	_	5	nsubj	_	start_char=5|end_char=7
@@ -538,6 +583,8 @@
 41	理塘县	理塘县	NR	NR	_	37	dobj	_	start_char=100|end_char=103
 42	。	。	PU	PU	_	9	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_academic_dingzhen-18
+# text = 除此之外，还会更新一些节日祝福、公益活动、作品宣传等内容。
 1	除此之外	除此之外	AD	AD	_	5	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	5	punct	_	start_char=5|end_char=6
 3	还	还	AD	AD	_	5	advmod	_	start_char=7|end_char=8
@@ -556,6 +603,8 @@
 16	内容	内容	NN	NN	_	5	dobj	_	start_char=41|end_char=43
 17	。	。	PU	PU	_	5	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_academic_dingzhen-19
+# text = 值得注意的是，抖音“理塘丁真”账号下的106条视频在拍摄、剪辑上体现出的水平并不高，但仍然收获了784.2万关注和6173万次点赞。
 1	值得	值得	VV	VV	_	27	nsubj	_	start_char=0|end_char=2
 2	注意	注意	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	1	mark	_	start_char=6|end_char=7
@@ -596,12 +645,16 @@
 38	点赞	点赞	NN	NN	_	31	dobj	_	start_char=100|end_char=102
 39	。	。	PU	PU	_	27	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_academic_dingzhen-20
+# text = (二) 微博平台
 1	(	(	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	二	二	CD	CD	_	5	dep	_	start_char=2|end_char=3
 3	)	)	PU	PU	_	5	punct	_	start_char=4|end_char=5
 4	微博	微博	NR	NR	_	5	dep	_	start_char=6|end_char=8
 5	平台	平台	NN	NN	_	0	root	_	start_char=9|end_char=11
 
+# sent_id = gcdt_academic_dingzhen-21
+# text = “理塘丁真”于2020年11月18日注册，目前发布微博134条、粉丝192万，虽然“理塘丁真”在微博平台的更新内容同样是生活日常、宣传理塘和其他内容这三大类，但更新更多的是图文内容而非视频内容，包括丁真在旅游或者宣传家乡时拍摄的写真照。
 1	“	“	PU	PU	_	3	punct	_	start_char=0|end_char=1
 2	理塘	理塘	NR	NR	_	3	compound:nn	_	start_char=2|end_char=4
 3	丁真	丁真	NR	NR	_	9	nsubj	_	start_char=5|end_char=7
@@ -673,6 +726,8 @@
 69	写真照	写真照	NN	NN	_	59	dobj	_	start_char=182|end_char=185
 70	。	。	PU	PU	_	9	punct	_	start_char=186|end_char=187
 
+# sent_id = gcdt_academic_dingzhen-22
+# text = 点赞量一直保持在5万至10万之间，评论量保持在5千至1万之间，热度较高。
 1	点赞量	点赞量	NN	NN	_	3	nsubj	_	start_char=0|end_char=3
 2	一直	一直	AD	AD	_	3	advmod	_	start_char=4|end_char=6
 3	保持	保持	VV	VV	_	0	root	_	start_char=7|end_char=9
@@ -695,6 +750,8 @@
 20	高	高	VA	VA	_	3	conj	_	start_char=53|end_char=54
 21	。	。	PU	PU	_	3	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_academic_dingzhen-23
+# text = 除了丁真及其团队自己的渠道外，主流媒体也是丁真爆火的一大推手。
 1	除了	除了	P	P	_	8	case	_	start_char=0|end_char=2
 2	丁真	丁真	NR	NR	_	5	conj	_	start_char=3|end_char=5
 3	及	及	CC	CC	_	5	cc	_	start_char=6|end_char=7
@@ -717,6 +774,8 @@
 20	推手	推手	NN	NN	_	0	root	_	start_char=47|end_char=49
 21	。	。	PU	PU	_	20	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_academic_dingzhen-24
+# text = 从央视新闻、人民日报等中央级主流媒体，到下到四川广播电视台等地方媒体，都对丁真有及时、紧密的报道，让受众对丁真的了解更加立体化、形象化。
 1	从	从	P	P	_	10	case	_	start_char=0|end_char=1
 2	央视	央视	NR	NR	_	6	compound:nn	_	start_char=2|end_char=4
 3	新闻	新闻	NN	NN	_	6	conj	_	start_char=5|end_char=7
@@ -760,6 +819,8 @@
 41	形象化	形象化	VV	VV	_	39	conj	_	start_char=104|end_char=107
 42	。	。	PU	PU	_	25	punct	_	start_char=108|end_char=109
 
+# sent_id = gcdt_academic_dingzhen-25
+# text = 在主流媒体和自媒体的共同推动下，丁真形成了引爆互联网狂欢的现实基础。
 1	在	在	P	P	_	8	case	_	start_char=0|end_char=1
 2	主流	主流	JJ	JJ	_	3	amod	_	start_char=2|end_char=4
 3	媒体	媒体	NN	NN	_	5	conj	_	start_char=5|end_char=7
@@ -781,6 +842,8 @@
 19	基础	基础	NN	NN	_	12	dobj	_	start_char=49|end_char=51
 20	。	。	PU	PU	_	12	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_academic_dingzhen-26
+# text = 4. “狂欢”与“凝视”视角下的“丁真爆红”
 1	4.	4.	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	“	“	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	狂欢	狂欢	NN	NN	_	14	conj	_	start_char=5|end_char=7
@@ -797,6 +860,8 @@
 14	爆红	爆红	NN	NN	_	0	root	_	start_char=31|end_char=33
 15	”	”	PU	PU	_	14	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_academic_dingzhen-27
+# text = IP，是Intellectual Property的缩写，是指知识产权。
 1	IP	IP	NN	NN	_	7	dep	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	是	是	VC	VC	_	7	cop	_	start_char=5|end_char=6
@@ -811,6 +876,8 @@
 12	产权	产权	NN	NN	_	10	dobj	_	start_char=43|end_char=45
 13	。	。	PU	PU	_	7	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_dingzhen-28
+# text = 这里的知识产权包括内容IP和人物IP。
 1	这里	这里	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	知识	知识	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -823,6 +890,8 @@
 10	IP	IP	NN	NN	_	5	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	5	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_academic_dingzhen-29
+# text = 网红IP即在网络上有较多受众追捧的人物或内容。
 1	网红	网红	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	IP	IP	NN	NN	_	7	nsubj	_	start_char=3|end_char=5
 3	即	即	AD	AD	_	7	advmod	_	start_char=6|end_char=7
@@ -840,6 +909,8 @@
 15	内容	内容	NN	NN	_	7	dobj	_	start_char=34|end_char=36
 16	。	。	PU	PU	_	7	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_academic_dingzhen-30
+# text = 在这次事件中，主流媒体抓住丁真走红这一契机，为当地政府的扶贫工作赋能添力，就是对人物IP价值的深度挖掘。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	这	这	DT	DT	_	4	det	_	start_char=2|end_char=3
 3	次	次	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -875,6 +946,8 @@
 33	挖掘	挖掘	NN	NN	_	9	conj	_	start_char=81|end_char=83
 34	。	。	PU	PU	_	9	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_academic_dingzhen-31
+# text = (一) 狂欢——田园回归，景观打造
 1	(	(	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	4	dep	_	start_char=2|end_char=3
 3	)	)	PU	PU	_	4	punct	_	start_char=4|end_char=5
@@ -886,6 +959,8 @@
 9	景观	景观	NN	NN	_	10	nsubj	_	start_char=20|end_char=22
 10	打造	打造	VV	VV	_	4	dep	_	start_char=23|end_char=25
 
+# sent_id = gcdt_academic_dingzhen-32
+# text = 在丁真走红后，主流媒体积极参与报道，把握了事件的话语权，发挥了议程设置的作用。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	丁真	丁真	NR	NR	_	3	nsubj	_	start_char=2|end_char=4
 3	走红	走红	VV	VV	_	9	nmod:prep	_	start_char=5|end_char=7
@@ -911,6 +986,8 @@
 23	作用	作用	NN	NN	_	18	dobj	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	9	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_academic_dingzhen-33
+# text = 主要有两方面：一方面，丁真虽然走红于独特纯真的外在形象，但主流媒体对他进行了更加全面、真实的介绍。
 1	主要	主要	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	两	两	CD	CD	_	4	dep	_	start_char=5|end_char=6
@@ -943,6 +1020,8 @@
 30	介绍	介绍	NN	NN	_	23	dobj	_	start_char=75|end_char=77
 31	。	。	PU	PU	_	2	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_dingzhen-34
+# text = 相较于一些自媒体的内容在讨论他的外貌和颜值，主流媒体则给我们带来了丁真更立体、丰富的形象，包括他的家庭，生活背景、经历以及他的小马珍珠等。
 1	相较于	相较于	VV	VV	_	19	dep	_	start_char=0|end_char=3
 2	一些	一些	CD	CD	_	5	dep	_	start_char=4|end_char=6
 3	自媒体	自媒体	JJ	JJ	_	5	amod	_	start_char=7|end_char=10
@@ -988,6 +1067,8 @@
 43	等	等	ETC	ETC	_	42	etc	_	start_char=109|end_char=110
 44	。	。	PU	PU	_	1	punct	_	start_char=111|end_char=112
 
+# sent_id = gcdt_academic_dingzhen-35
+# text = 还有一些具有大局意识的主流媒体则站在全局高度上，报道角度在于介绍丁真的家乡理塘。
 1	还	还	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	有	有	VE	VE	_	0	root	_	start_char=2|end_char=3
 3	一些	一些	CD	CD	_	9	dep	_	start_char=4|end_char=6
@@ -1013,6 +1094,8 @@
 23	理塘	理塘	NN	NN	_	19	dobj	_	start_char=59|end_char=61
 24	。	。	PU	PU	_	2	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_academic_dingzhen-36
+# text = 理塘是一个深度贫困县，长久以来进行着艰难的扶贫工作。
 1	理塘	理塘	NN	NN	_	7	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	7	cop	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	7	nummod	_	start_char=5|end_char=6
@@ -1031,6 +1114,8 @@
 16	工作	工作	NN	NN	_	11	dobj	_	start_char=38|end_char=40
 17	。	。	PU	PU	_	7	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_academic_dingzhen-37
+# text = 与此同时，在很多人眼中，理塘也是一个远离城市喧嚣的精神家园。
 1	与此同时	与此同时	AD	AD	_	18	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	18	punct	_	start_char=5|end_char=6
 3	在	在	P	P	_	6	case	_	start_char=7|end_char=8
@@ -1051,6 +1136,8 @@
 18	家园	家园	NN	NN	_	0	root	_	start_char=44|end_char=46
 19	。	。	PU	PU	_	18	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_academic_dingzhen-38
+# text = 主流媒体以此为契机，融合理塘县古老的元素，给受众提供了他们所需要的一种“额外的精神家园”，对当地旅游业的发展起到了重要作用，推动了“丁真爆红”事件的价值升华 -LSB-1-RSB-。
 1	主流	主流	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	媒体	媒体	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	以	以	P	P	_	4	case	_	start_char=6|end_char=7
@@ -1106,6 +1193,8 @@
 53	-RSB-	-RSB-	NN	NN	_	41	dobj	_	start_char=136|end_char=141
 54	。	。	PU	PU	_	5	punct	_	start_char=142|end_char=143
 
+# sent_id = gcdt_academic_dingzhen-39
+# text = 主流媒体在积极报道热点事件的同时，也践行着自己的原有优势和责任。
 1	主流	主流	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	媒体	媒体	NN	NN	_	12	nsubj	_	start_char=3|end_char=5
 3	在	在	P	P	_	9	case	_	start_char=6|end_char=7
@@ -1127,6 +1216,8 @@
 19	责任	责任	NN	NN	_	12	dobj	_	start_char=47|end_char=49
 20	。	。	PU	PU	_	12	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_academic_dingzhen-40
+# text = 例如，央视发表微博话题#关注丁真背后我们关注的是什么#，同时发表评论文章，希望大家能够把更多的目光放到丁真背后的家乡上，关注国家的扶贫脱坚工作。
 1	例如	例如	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	央视	央视	NR	NR	_	4	nsubj	_	start_char=5|end_char=7
@@ -1163,6 +1254,8 @@
 34	工作	工作	NN	NN	_	29	dobj	_	start_char=102|end_char=104
 35	。	。	PU	PU	_	4	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_academic_dingzhen-41
+# text = 主流媒体多形式多平台联动传播，配合当地政府打出了一套“组合拳”，使丁真成为了理塘人文景观中的一个符号和标签，为理塘带去了更大的流量。
 1	主流	主流	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	媒体	媒体	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	多	多	CD	CD	_	4	dep	_	start_char=6|end_char=7
@@ -1209,6 +1302,8 @@
 44	流量	流量	NN	NN	_	39	dobj	_	start_char=106|end_char=108
 45	。	。	PU	PU	_	8	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_academic_dingzhen-42
+# text = 此外，主流媒体充分利用自身资源优势，不仅搜集到了丁真本人相关的故事，还挖掘出了事件背后深层次的扶贫故事。
 1	此外	此外	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	主流	主流	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
@@ -1242,6 +1337,8 @@
 31	故事	故事	NN	NN	_	22	dobj	_	start_char=79|end_char=81
 32	。	。	PU	PU	_	6	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_academic_dingzhen-43
+# text = 前期扎实的采访、调查则为后续的议程设置做了铺垫 -LSB-2-RSB-。
 1	前期	前期	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	扎实	扎实	VA	VA	_	6	amod	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
@@ -1262,6 +1359,8 @@
 18	-RSB-	-RSB-	NN	NN	_	13	dobj	_	start_char=46|end_char=51
 19	。	。	PU	PU	_	13	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_academic_dingzhen-44
+# text = 例如，12月5日新周刊文章《丁真背后，一个贫困县低调的努力》，让受众看到了在艰难的条件下，我国扶贫工作给理塘当地带来的改变。
 1	例如	例如	AD	AD	_	20	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	20	punct	_	start_char=3|end_char=4
 3	12月	12月	NT	NT	_	4	compound:nn	_	start_char=5|end_char=8
@@ -1302,6 +1401,8 @@
 38	改变	改变	NN	NN	_	22	dobj	_	start_char=96|end_char=98
 39	。	。	PU	PU	_	20	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_academic_dingzhen-45
+# text = 这篇报道具有鼓舞人心的作用，让人们看到了我国扶贫工作开展的决心、努力以及成果，对扶贫工作更有信心，容易形成好的舆论，带动社会上下同心协力支持扶贫事业 -LSB-3-RSB-。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	篇	篇	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	报道	报道	NN	NN	_	4	nsubj	_	start_char=4|end_char=6
@@ -1352,6 +1453,8 @@
 48	-RSB-	-RSB-	NN	NN	_	38	dobj	_	start_char=127|end_char=132
 49	。	。	PU	PU	_	4	punct	_	start_char=133|end_char=134
 
+# sent_id = gcdt_academic_dingzhen-46
+# text = (二) 凝视——身体消费、视觉至上
 1	(	(	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	二	二	CD	CD	_	4	dep	_	start_char=2|end_char=3
 3	)	)	PU	PU	_	4	punct	_	start_char=4|end_char=5
@@ -1363,6 +1466,8 @@
 9	视觉	视觉	NN	NN	_	10	compound:nn	_	start_char=20|end_char=22
 10	至上	至上	NN	NN	_	4	dep	_	start_char=23|end_char=25
 
+# sent_id = gcdt_academic_dingzhen-47
+# text = 伴随着高度媒介化社会的到来，身体的审美价值脱离表现形态的桎梏，被普罗大众赋予符号意义，“身体”作为一种消费符号也具有了交换价值。
 1	伴随	伴随	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	着	着	AS	AS	_	1	aux:asp	_	start_char=3|end_char=4
 3	高度	高度	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -1403,6 +1508,8 @@
 38	价值	价值	NN	NN	_	35	dobj	_	start_char=98|end_char=100
 39	。	。	PU	PU	_	1	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_academic_dingzhen-48
+# text = 如今，网络上充斥着被美颜和化妆品包装的“小鲜肉”，这些大同小异的身体所体现的审美价值也日趋统一。
 1	如今	如今	NT	NT	_	5	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	网络	网络	NN	NN	_	5	advmod:loc	_	start_char=5|end_char=7
@@ -1434,6 +1541,8 @@
 29	统一	统一	VA	VA	_	5	conj	_	start_char=73|end_char=75
 30	。	。	PU	PU	_	5	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_academic_dingzhen-49
+# text = 此时，丁真独特的形象给了受众另一种不同的感受，这也侧面反映了受众对单一审美的疲劳和对多样美的期待。
 1	此时	此时	NT	NT	_	7	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	丁真	丁真	NR	NR	_	6	nmod	_	start_char=5|end_char=7
@@ -1468,6 +1577,8 @@
 32	期待	期待	NN	NN	_	20	dobj	_	start_char=77|end_char=79
 33	。	。	PU	PU	_	7	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_academic_dingzhen-50
+# text = 短视频拥有传播速度快、画面冲击感强的特点。
 1	短	短	JJ	JJ	_	2	amod	_	start_char=0|end_char=1
 2	视频	视频	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	拥有	拥有	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -1482,6 +1593,8 @@
 12	特点	特点	NN	NN	_	3	dobj	_	start_char=29|end_char=31
 13	。	。	PU	PU	_	3	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_academic_dingzhen-51
+# text = 通过观察可以发现，主流媒体在微博、抖音、B站等平台都积极运用了短视频的形式进行报道，丁真的形象也在短视频中的形态一步到位地被描画出来，呈现出一个与传统小鲜肉不一样的“身体”，以此迅速构建起大众心中丁真和他的家乡理塘县的形象，形成群体性的狂欢现象，从而吸引受众到理塘参观游览 -LSB-4-RSB-。
 1	通过	通过	P	P	_	2	case	_	start_char=0|end_char=2
 2	观察	观察	NN	NN	_	4	nmod:prep	_	start_char=3|end_char=5
 3	可以	可以	VV	VV	_	4	aux:modal	_	start_char=6|end_char=8
@@ -1572,6 +1685,8 @@
 88	-RSB-	-RSB-	NN	NN	_	85	dobj	_	start_char=229|end_char=234
 89	。	。	PU	PU	_	4	punct	_	start_char=235|end_char=236
 
+# sent_id = gcdt_academic_dingzhen-52
+# text = 因此，在社会化传播的背景下，地方应该善用短视频等网络平台进行宣传，吸引主流媒体、自媒体、个人等多主体的传播兴趣，理塘文体旅投资有限公司与丁真的签约也正是印证了这一点。
 1	因此	因此	AD	AD	_	12	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	12	punct	_	start_char=3|end_char=4
 3	在	在	P	P	_	7	case	_	start_char=5|end_char=6
@@ -1625,6 +1740,8 @@
 51	点	点	NN	NN	_	47	dobj	_	start_char=131|end_char=132
 52	。	。	PU	PU	_	47	punct	_	start_char=133|end_char=134
 
+# sent_id = gcdt_academic_dingzhen-53
+# text = 此前，成都借助IFS国际金融中心的“熊猫屁股”、重庆借助李子坝地铁站“轻轨穿楼”、广汉借助三星堆“外星人铜像”，通过图片、视频等方式，给予受众直观的视觉冲击，在国内外网络上爆火了一波，促成当地地方形象的提升，为后期的旅游业发展提供了坚实的基础。
 1	此前	此前	AD	AD	_	39	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	39	punct	_	start_char=3|end_char=4
 3	成都	成都	NR	NR	_	4	nsubj	_	start_char=5|end_char=7
@@ -1698,6 +1815,8 @@
 71	基础	基础	NN	NN	_	67	dobj	_	start_char=189|end_char=191
 72	。	。	PU	PU	_	4	punct	_	start_char=192|end_char=193
 
+# sent_id = gcdt_academic_dingzhen-54
+# text = 因此，地方政府也应该利用好自身资源的独特之处，借助流量加持，优化城市形象，带动脱贫或经济的进一步发展。
 1	因此	因此	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	7	punct	_	start_char=3|end_char=4
 3	地方	地方	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -1730,9 +1849,13 @@
 30	发展	发展	NN	NN	_	24	dobj	_	start_char=77|end_char=79
 31	。	。	PU	PU	_	7	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_academic_dingzhen-55
+# text = 5. 结语
 1	5.	5.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	结语	结语	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_dingzhen-56
+# text = 丁真的意外走红，引来了新媒体时代网上网下的一场视觉狂欢。
 1	丁真	丁真	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	意外	意外	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1752,6 +1875,8 @@
 17	狂欢	狂欢	NN	NN	_	6	dobj	_	start_char=41|end_char=43
 18	。	。	PU	PU	_	4	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_academic_dingzhen-57
+# text = 丁真的“美”满足了人们对于田园生活的向往和想象，并通过消费主义浪潮，使丁真成为了独具特色的审美对象，引来了互联网用户的“凝视”。
 1	丁真	丁真	NR	NR	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	“	“	PU	PU	_	4	punct	_	start_char=5|end_char=6
@@ -1794,6 +1919,8 @@
 40	”	”	PU	PU	_	39	punct	_	start_char=101|end_char=102
 41	。	。	PU	PU	_	6	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_academic_dingzhen-58
+# text = 在“狂欢”与“凝视”的共同作用下，政府的及时引导，使丁真获得了越来越多正向关注，也进一步推动了“丁真爆红”事件的价值升华。
 1	在	在	P	P	_	11	case	_	start_char=0|end_char=1
 2	“	“	PU	PU	_	7	punct	_	start_char=2|end_char=3
 3	狂欢	狂欢	NN	NN	_	7	conj	_	start_char=4|end_char=6

@@ -1,4 +1,4 @@
-<text id="gum_zh_academic_taoist" author="Meiyun Luo" dateCollected="2022-01-02" dateCreated="2021-08-12" dateModified="XXXX-XX-XX" shortTitle="taoist" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=44530" speakerCount="0" speakerList="none" title="道家生态美学思想及其当代价值" type="academic"/>
+<text id="gum_zh_academic_taoist" author="Meiyun Luo" dateCollected="2022-01-02" dateCreated="2021-08-12" dateModified="XXXX-XX-XX" shortTitle="taoist" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=44530" speakerCount="0" speakerList="none" title="道家生态美学思想及其当代价值" genre="academic"/>
 道家生态美学思想及其当代价值
 
 <section/>

@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_higuchi
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2020-09-21
+# meta::sourceURL = https://zh.wikipedia.org/w/index.php?title=%E6%A8%8B%E5%8F%A3%E4%B8%80%E8%91%89&oldid=61846593
+# meta::speakerCount = 0
+# meta::title = 樋口一叶
+# meta::shortTitle = higuchi
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_higuchi-1
+# text = 樋口一叶
 1	樋口一叶	樋口一叶	VV	VV	_	0	root	_	start_char=0|end_char=4
 
+# sent_id = gcdt_bio_higuchi-2
+# text = 樋口一叶（1872年5月2日－1896年11月23日），生于东京，原名樋口奈津或樋口夏子，是日本明治初期主要的女性小说家。
 1	樋口一叶	樋口一叶	VV	VV	_	12	dep	_	start_char=0|end_char=4
 2	（	（	PU	PU	_	9	punct	_	start_char=5|end_char=6
 3	1872年	1872年	NT	NT	_	5	compound:nn	_	start_char=7|end_char=12
@@ -29,6 +44,8 @@
 27	小说家	小说家	NN	NN	_	12	conj	_	start_char=83|end_char=86
 28	。	。	PU	PU	_	12	punct	_	start_char=87|end_char=88
 
+# sent_id = gcdt_bio_higuchi-3
+# text = 樋口一叶是日本平安时代一千余年后出现的第一位女作家。
 1	樋口一叶	樋口一叶	VV	VV	_	14	advmod	_	start_char=0|end_char=4
 2	是	是	VC	VC	_	14	cop	_	start_char=5|end_char=6
 3	日本	日本	NR	NR	_	5	nmod:assmod	_	start_char=7|end_char=9
@@ -45,6 +62,8 @@
 14	作家	作家	NN	NN	_	0	root	_	start_char=36|end_char=38
 15	。	。	PU	PU	_	14	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_bio_higuchi-4
+# text = 因肺结核病逝，得年24岁。-LSB-1-RSB-
 1	因	因	P	P	_	3	case	_	start_char=0|end_char=1
 2	肺结核	肺结核	NN	NN	_	3	nsubj	_	start_char=2|end_char=5
 3	病逝	病逝	VV	VV	_	5	nmod:prep	_	start_char=6|end_char=8
@@ -57,8 +76,12 @@
 10	1	1	CD	CD	_	11	dep	_	start_char=27|end_char=28
 11	-RSB-	-RSB-	X	X	_	5	dep	_	start_char=29|end_char=34
 
+# sent_id = gcdt_bio_higuchi-5
+# text = 生平
 1	生平	生平	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_higuchi-6
+# text = 樋口一叶出生于东京府（今东京都）。
 1	樋口一叶	樋口一叶	VV	VV	_	2	advmod	_	start_char=0|end_char=4
 2	出生	出生	VV	VV	_	0	root	_	start_char=5|end_char=7
 3	于	于	P	P	_	4	case	_	start_char=8|end_char=9
@@ -69,6 +92,8 @@
 8	）	）	PU	PU	_	7	punct	_	start_char=22|end_char=23
 9	。	。	PU	PU	_	2	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_bio_higuchi-7
+# text = 樋口一叶为家族五兄弟姊妹中的二女，父亲樋口则义是个从农民晋身的下级官吏，深明知识能改变命运的道理，期望儿女能学有所成，可惜母亲樋口多喜思想保守，认为女子无才便是德，所以樋口11岁还没念毕小学便被迫辍学。
 1	樋口一叶	樋口一叶	VV	VV	_	9	nsubj	_	start_char=0|end_char=4
 2	为	为	VC	VC	_	1	advmod:rcomp	_	start_char=5|end_char=6
 3	家族	家族	NN	NN	_	6	compound:nn	_	start_char=7|end_char=9
@@ -130,6 +155,8 @@
 59	辍学	辍学	VV	VV	_	55	conj	_	start_char=156|end_char=158
 60	。	。	PU	PU	_	1	punct	_	start_char=159|end_char=160
 
+# sent_id = gcdt_bio_higuchi-8
+# text = 14岁那年才在父亲的安排下学艺于当时军政要人等特权阶级的家眷才能入读的中岛歌子开设的萩舍。-LSB-1-RSB-
 1	14	14	CD	CD	_	11	dep	_	start_char=0|end_char=2
 2	岁	岁	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	那	那	DT	DT	_	11	dep	_	start_char=5|end_char=6
@@ -164,6 +191,8 @@
 32	1	1	CD	CD	_	11	dep	_	start_char=81|end_char=82
 33	-RSB-	-RSB-	PU	PU	_	11	punct	_	start_char=83|end_char=88
 
+# sent_id = gcdt_bio_higuchi-9
+# text = 1893年7月全家为生计搬至下谷区龙泉寺町（今 台东区竜泉一丁目）经营杂货店，店子虽然只经营了九个月，但此期间的生活与接触的人与事对她的写作历程影响最大，期间她经常到图书馆借阅研读古典文学著作如《万叶集》、《古今集》、《新古今集》等，为其文学修养打下基础。
 1	1893年	1893年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	7月	7月	NT	NT	_	6	nmod:tmod	_	start_char=6|end_char=8
 3	全家	全家	NN	NN	_	6	nsubj	_	start_char=9|end_char=11
@@ -242,6 +271,8 @@
 76	基础	基础	NN	NN	_	75	dobj	_	start_char=199|end_char=201
 77	。	。	PU	PU	_	6	punct	_	start_char=202|end_char=203
 
+# sent_id = gcdt_bio_higuchi-10
+# text = 樋口于1891年跟随朝日新闻的记者半井桃水学习写作技巧，并在同年秋天取“一叶”为笔名发表作品，两人并相恋，但终因保护名节而主动断绝了来往。
 1	樋口	樋口	NR	NR	_	10	nsubj	_	start_char=0|end_char=2
 2	于	于	P	P	_	3	case	_	start_char=3|end_char=4
 3	1891年	1891年	NT	NT	_	10	nmod:prep	_	start_char=5|end_char=10
@@ -285,6 +316,8 @@
 41	来往	来往	NN	NN	_	39	dobj	_	start_char=106|end_char=108
 42	。	。	PU	PU	_	10	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_bio_higuchi-11
+# text = 樋口在1895年9月于文艺俱乐部发表了多篇拟古文作品，获得高度评价，有“现代紫式部”之誉。-LSB-1-RSB-
 1	樋口	樋口	NR	NR	_	8	nsubj	_	start_char=0|end_char=2
 2	在	在	P	P	_	4	case	_	start_char=3|end_char=4
 3	1895年	1895年	NT	NT	_	4	compound:nn	_	start_char=5|end_char=10
@@ -315,6 +348,8 @@
 28	1	1	CD	CD	_	29	dep	_	start_char=77|end_char=78
 29	-RSB-	-RSB-	X	X	_	8	dep	_	start_char=79|end_char=84
 
+# sent_id = gcdt_bio_higuchi-12
+# text = 1894年3月左右樋口一家搬至本乡区丸山福山町（今 文京区西片一丁目）生活，樋口并开始发表受日本文坛注目的作品《青梅竹马》，作品细致描绘两名青春期男女若即若离的青涩爱情故事，极具美感；但樋口于1896年4月感到身体有异，8月接受诊断为肺结核，11月23日早上在本乡区家中逝世，结束了短暂而璀璨的一生，在日本文学史上被称为“奇迹十四个月”的作家生涯，死后葬于东京都杉并区家族墓中。-LSB-1-RSB-
 1	1894年	1894年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	3月	3月	NT	NT	_	7	advmod:loc	_	start_char=6|end_char=8
 3	左右	左右	LC	LC	_	2	case	_	start_char=9|end_char=11
@@ -426,6 +461,8 @@
 109	1	1	CD	CD	_	108	dep	_	start_char=301|end_char=302
 110	-RSB-	-RSB-	PU	PU	_	7	punct	_	start_char=303|end_char=308
 
+# sent_id = gcdt_bio_higuchi-13
+# text = 日本银行于2004年11月1日将樋口一叶选为新发行的5000日圆面额纸币上的肖像，樋口一叶成为日本纸币上的第一个女性人物。-LSB-1-RSB-
 1	日本	日本	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	银行	银行	NN	NN	_	9	nsubj	_	start_char=3|end_char=5
 3	于	于	P	P	_	6	case	_	start_char=6|end_char=7
@@ -461,9 +498,13 @@
 33	1	1	CD	CD	_	34	dep	_	start_char=98|end_char=99
 34	-RSB-	-RSB-	X	X	_	9	dep	_	start_char=100|end_char=105
 
+# sent_id = gcdt_bio_higuchi-14
+# text = 作品风格
 1	作品	作品	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	风格	风格	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_higuchi-15
+# text = 因为她的作品多为彷古文形式，而非白话文，较难看懂，加上其作品因为题材的关系没有列入日本学校教育之相关教材中（列入课本范文或参考介绍等），故不少日本民众对樋口的作品较陌生。
 1	因为	因为	P	P	_	8	case	_	start_char=0|end_char=2
 2	她	她	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -519,6 +560,8 @@
 53	陌生	陌生	VA	VA	_	8	conj	_	start_char=134|end_char=136
 54	。	。	PU	PU	_	8	punct	_	start_char=137|end_char=138
 
+# sent_id = gcdt_bio_higuchi-16
+# text = 她的作品多为感性描述在家父长制下的日本妇女，为生活而吃尽苦头的主题，内嵌上自己的亲身经历与所见所闻，再加上作者赋与的批判。
 1	她	她	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	作品	作品	NN	NN	_	7	nsubj	_	start_char=4|end_char=6
@@ -558,6 +601,8 @@
 37	批判	批判	NN	NN	_	33	dobj	_	start_char=94|end_char=96
 38	。	。	PU	PU	_	7	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_bio_higuchi-17
+# text = 故事于今细读也不觉过时，且寥寥数字却显笔触之细腻，体现她惊人的观察力，也让她成为女性文学的先驱作家。-LSB-来源请求-RSB-
 1	故事	故事	NN	NN	_	7	nsubj	_	start_char=0|end_char=2
 2	于	于	P	P	_	3	case	_	start_char=3|end_char=4
 3	今	今	NT	NT	_	4	nmod:prep	_	start_char=5|end_char=6
@@ -598,10 +643,14 @@
 38	请求	请求	NN	NN	_	39	compound:nn	_	start_char=94|end_char=96
 39	-RSB-	-RSB-	NN	NN	_	7	dep	_	start_char=97|end_char=102
 
+# sent_id = gcdt_bio_higuchi-18
+# text = 逝后百年
 1	逝后	逝后	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	百	百	CD	CD	_	1	nmod:range	_	start_char=3|end_char=4
 3	年	年	M	M	_	2	mark:clf	_	start_char=5|end_char=6
 
+# sent_id = gcdt_bio_higuchi-19
+# text = 1996年为纪念一叶逝世后百年，出版界重新编辑出版《樋口一叶全集》（和歌集、日记书信集、小说集，由筑摩书房出版），部分作品有日语白话文翻译本；在东京都台东区龙泉三丁目设立了“一叶纪念馆”，她亦成为了2004年11月发行的新版五千日圆纸币上的人物。
 1	1996年	1996年	NT	NT	_	12	nmod:tmod	_	start_char=0|end_char=5
 2	为	为	P	P	_	3	case	_	start_char=6|end_char=7
 3	纪念	纪念	VV	VV	_	12	nmod:prep	_	start_char=8|end_char=10
@@ -669,6 +718,8 @@
 65	人物	人物	NN	NN	_	53	dobj	_	start_char=184|end_char=186
 66	。	。	PU	PU	_	12	punct	_	start_char=187|end_char=188
 
+# sent_id = gcdt_bio_higuchi-20
+# text = 同年2月台湾洪范出版社出版由林文月翻译的首本樋口作品《十三夜》，另外樋口的一些作品，林文月翻译并发表至《联合文学》杂志中，如《比肩》（1998年1月）、《浊江》（1998年9月）。
 1	同年	同年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=2
 2	2月	2月	NT	NT	_	6	nmod:tmod	_	start_char=3|end_char=5
 3	台湾	台湾	NR	NR	_	5	compound:nn	_	start_char=6|end_char=8

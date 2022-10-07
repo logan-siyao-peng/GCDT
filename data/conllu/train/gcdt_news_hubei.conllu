@@ -1,3 +1,16 @@
+# newdoc id = gcdt_news_hubei
+# meta::dateCollected = 2022-01-04
+# meta::dateCreated = 2020-01-26
+# meta::dateModified = 2020-02-20
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E6%B9%96%E5%8C%97%E5%A4%9A%E5%9C%B0%E4%B8%BA%E7%96%AB%E6%83%85%E8%BF%9B%E8%A1%8C%E4%BA%A4%E9%80%9A%E7%AE%A1%E5%88%B6
+# meta::speakerCount = 0
+# meta::title = 据报台湾与帕劳的“旅游泡泡”有重大进展
+# meta::shortTitle = hubei
+# meta::author = Wikinews
+# meta::genre = news
+# meta::partition = train
+# sent_id = gcdt_news_hubei-1
+# text = 湖北多地为疫情进行交通管制
 1	湖北	湖北	NR	NR	_	6	nsubj	_	start_char=0|end_char=2
 2	多	多	VA	VA	_	6	dep	_	start_char=3|end_char=4
 3	地	地	DEV	DEV	_	2	mark	_	start_char=5|end_char=6
@@ -7,6 +20,8 @@
 7	交通	交通	NN	NN	_	8	compound:nn	_	start_char=15|end_char=17
 8	管制	管制	NN	NN	_	6	dobj	_	start_char=18|end_char=20
 
+# sent_id = gcdt_news_hubei-2
+# text = 【2020年1月26日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2020年	2020年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	1月	1月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -14,6 +29,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_news_hubei-3
+# text = 从1月23日开始至今，湖北省内已经有17个地区采取了交通限行措施。
 1	从	从	P	P	_	3	case	_	start_char=0|end_char=1
 2	1月	1月	NT	NT	_	3	compound:nn	_	start_char=2|end_char=4
 3	23日	23日	NT	NT	_	10	nmod:prep	_	start_char=5|end_char=8
@@ -34,6 +51,8 @@
 18	措施	措施	NN	NN	_	14	dobj	_	start_char=47|end_char=49
 19	。	。	PU	PU	_	10	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_news_hubei-4
+# text = 1月23日10时，武汉市关闭公交、地铁、轮渡、长途客车以及天河机场与火车站离汉通道，并劝告市民不要离开武汉。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	23日	23日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	10时	10时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -65,6 +84,8 @@
 29	武汉	武汉	NR	NR	_	28	dobj	_	start_char=79|end_char=81
 30	。	。	PU	PU	_	6	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_news_hubei-5
+# text = 同时，进出武汉周边的17条高速上的49个收费站相继采取交通管制措施，仅保留疫情防控物资的“绿色通道”。
 1	同时	同时	AD	AD	_	16	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	16	punct	_	start_char=3|end_char=4
 3	进出	进出	VV	VV	_	14	acl	_	start_char=5|end_char=7
@@ -97,6 +118,8 @@
 30	”	”	PU	PU	_	29	punct	_	start_char=78|end_char=79
 31	。	。	PU	PU	_	16	punct	_	start_char=80|end_char=81
 
+# sent_id = gcdt_news_hubei-6
+# text = 目前，除汉蔡高速索河、武汉机场高速黄花涝、武汉四环线中法城3个收费站出入口全部封闭外，其他收费站出口可以正常进出武汉市，但设有对入汉人员进行体温检测的临时检查点。
 1	目前	目前	NT	NT	_	29	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	29	punct	_	start_char=3|end_char=4
 3	除	除	P	P	_	21	case	_	start_char=5|end_char=6
@@ -141,6 +164,8 @@
 42	检查点	检查点	NN	NN	_	33	dobj	_	start_char=118|end_char=121
 43	。	。	PU	PU	_	29	punct	_	start_char=122|end_char=123
 
+# sent_id = gcdt_news_hubei-7
+# text = 1月23日11时20分，鄂州市封闭鄂州站离开鄂州通道。
 1	1月	1月	NT	NT	_	4	compound:nn	_	start_char=0|end_char=2
 2	23日	23日	NT	NT	_	4	compound:nn	_	start_char=3|end_char=6
 3	11时	11时	NT	NT	_	4	compound:nn	_	start_char=7|end_char=10
@@ -154,6 +179,8 @@
 11	通道	通道	NN	NN	_	9	dobj	_	start_char=34|end_char=36
 12	。	。	PU	PU	_	7	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_news_hubei-8
+# text = 16时，停运市区公交、农村客运、渡口渡船以及各长途车站离开鄂州通道，并在武汉至鄂州各通道采取严格筛查检测措施。
 1	16时	16时	NT	NT	_	27	nmod:tmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	27	punct	_	start_char=4|end_char=5
 3	停运	停运	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -187,6 +214,8 @@
 31	措施	措施	NN	NN	_	27	dobj	_	start_char=82|end_char=84
 32	。	。	PU	PU	_	3	punct	_	start_char=85|end_char=86
 
+# sent_id = gcdt_news_hubei-9
+# text = 1月25日14时30分，封闭全市所有高速公路出入口（沪渝高速汀祖、鄂州、蒲团、路口、庙岭出入口；汉鄂高速鄂州东、鄂州中、鄂州西、葛店出入口；黄鄂高速华蒲、华容、三江港出入口）、市域普通公路（106国道迎宾门、316国道新桥、112省道杨叶横堤、314省道牛石村与沼山村、高新大道短咀桥、凤凰大道梧桐湖、铁十线六十村、牛涂线官田村）。
 1	1月	1月	NT	NT	_	4	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	4	compound:nn	_	start_char=3|end_char=6
 3	14时	14时	NT	NT	_	4	compound:nn	_	start_char=7|end_char=10
@@ -271,6 +300,8 @@
 82	）	）	PU	PU	_	81	punct	_	start_char=245|end_char=246
 83	。	。	PU	PU	_	81	punct	_	start_char=247|end_char=248
 
+# sent_id = gcdt_news_hubei-10
+# text = 1月23日17时，仙桃市停运市内所有公交、渡轮、农村客运车，并在高速公路出口、火车站设置体温监测排查点。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	23日	23日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	17时	17时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -299,6 +330,8 @@
 26	排查点	排查点	NN	NN	_	23	dobj	_	start_char=73|end_char=76
 27	。	。	PU	PU	_	6	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_news_hubei-11
+# text = 1月25日0时，关闭仙桃境内所有高速公路，仙桃西站离开仙桃通道，进入仙桃人员必须进行体温检测，并关闭所有国省干线进出通道。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	22	nmod:tmod	_	start_char=7|end_char=9
@@ -333,6 +366,8 @@
 32	通道	通道	NN	NN	_	27	dobj	_	start_char=89|end_char=91
 33	。	。	PU	PU	_	22	punct	_	start_char=92|end_char=93
 
+# sent_id = gcdt_news_hubei-12
+# text = 1月23日22时，潜江市停运市际以上长途客运、农村客运、旅游客运、城市公交、扫墓公交专线、王拐渡口。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	23日	23日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	22时	22时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -361,6 +396,8 @@
 26	渡口	渡口	NN	NN	_	6	dobj	_	start_char=72|end_char=74
 27	。	。	PU	PU	_	6	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_news_hubei-13
+# text = 24日22时，关闭潜江站离开潜江通道。
 1	24日	24日	NT	NT	_	2	compound:nn	_	start_char=0|end_char=3
 2	22时	22时	NT	NT	_	4	nmod:tmod	_	start_char=4|end_char=7
 3	，	，	PU	PU	_	4	punct	_	start_char=8|end_char=9
@@ -371,6 +408,8 @@
 8	通道	通道	NN	NN	_	6	dobj	_	start_char=23|end_char=25
 9	。	。	PU	PU	_	4	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_news_hubei-14
+# text = 26日0时，关闭全市高速公路出口通道，封闭全市国、省干线进出口通道及周边县市相连的村级公路，暂停全市所有渡口运营。
 1	26日	26日	NT	NT	_	2	compound:nn	_	start_char=0|end_char=3
 2	0时	0时	NT	NT	_	27	nmod:tmod	_	start_char=4|end_char=6
 3	，	，	PU	PU	_	27	punct	_	start_char=7|end_char=8
@@ -404,6 +443,8 @@
 31	运营	运营	NN	NN	_	27	dobj	_	start_char=84|end_char=86
 32	。	。	PU	PU	_	27	punct	_	start_char=87|end_char=88
 
+# sent_id = gcdt_news_hubei-15
+# text = 1月24日0时，黄冈市暂停运营市区公交、长途客运，暂时关闭火车站、城铁站离开黄冈市区通道。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -428,6 +469,8 @@
 22	通道	通道	NN	NN	_	19	dobj	_	start_char=63|end_char=65
 23	。	。	PU	PU	_	6	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_news_hubei-16
+# text = 1月25日，封闭除绿色通道外的所有高速公路以及各县级单位出城路口以及全部国道、省道、县道、客运渡口。
 1	1月	1月	NT	NT	_	2	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	17	nmod:tmod	_	start_char=3|end_char=6
 3	，	，	PU	PU	_	17	punct	_	start_char=7|end_char=8
@@ -458,6 +501,8 @@
 28	渡口	渡口	NN	NN	_	17	dobj	_	start_char=74|end_char=76
 29	。	。	PU	PU	_	4	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_news_hubei-17
+# text = 1月24日0时，咸宁市暂停营运城际铁路及赤壁市公交、农村客运、省县级客运。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -479,6 +524,8 @@
 19	客运	客运	NN	NN	_	6	dobj	_	start_char=52|end_char=54
 20	。	。	PU	PU	_	6	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_news_hubei-18
+# text = 10时，关闭市区公交、班线客运，20时，封闭咸宁站、咸宁北站、赤壁站、赤壁北站进出咸宁通道。
 1	10时	10时	NT	NT	_	22	nmod:tmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	22	punct	_	start_char=4|end_char=5
 3	关闭	关闭	VV	VV	_	22	dep	_	start_char=6|end_char=8
@@ -505,6 +552,8 @@
 24	通道	通道	NN	NN	_	22	dobj	_	start_char=66|end_char=68
 25	。	。	PU	PU	_	22	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_news_hubei-19
+# text = 1月24日0时，恩施州暂停城区公交。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -515,6 +564,8 @@
 8	公交	公交	NN	NN	_	6	dobj	_	start_char=22|end_char=24
 9	。	。	PU	PU	_	6	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_news_hubei-20
+# text = 26日0时，对全州高速公路和普通公路实施交通管制，关闭全州除绿色通道外所有高速公路出入口（含建恩、宣鹤）、国省道州际出入口。
 1	26日	26日	NT	NT	_	2	compound:nn	_	start_char=0|end_char=3
 2	0时	0时	NT	NT	_	11	nmod:tmod	_	start_char=4|end_char=6
 3	，	，	PU	PU	_	11	punct	_	start_char=7|end_char=8
@@ -552,6 +603,8 @@
 35	出入口	出入口	NN	NN	_	33	dobj	_	start_char=92|end_char=95
 36	。	。	PU	PU	_	11	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_news_hubei-21
+# text = 1月24日0时，荆门市停运全市班线客运（包括定制班线）、包车客运、农村客运。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -574,6 +627,8 @@
 20	客运	客运	NN	NN	_	11	dobj	_	start_char=54|end_char=56
 21	。	。	PU	PU	_	6	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_news_hubei-22
+# text = 1月26日8时，在县与县、县与镇、镇与镇、镇与村、村与村之间设卡检查，另开辟绿色通道。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	26日	26日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	8时	8时	NT	NT	_	27	nmod:tmod	_	start_char=7|end_char=9
@@ -608,6 +663,8 @@
 32	通道	通道	NN	NN	_	30	dobj	_	start_char=71|end_char=73
 33	。	。	PU	PU	_	27	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_news_hubei-23
+# text = 并关闭全市高速公路出入口，在荆门北、钟祥、京山南出口设置绿色应急通道。
 1	并	并	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	关闭	关闭	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	全市	全市	JJ	JJ	_	5	amod	_	start_char=5|end_char=7
@@ -628,6 +685,8 @@
 18	通道	通道	NN	NN	_	15	dobj	_	start_char=49|end_char=51
 19	。	。	PU	PU	_	2	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_news_hubei-24
+# text = 在347国道传化公路港、348国道麻城、207国道团林、348国道深圳大道西、207国道安栈口设置绿色应急通道，其余道路全部关闭。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	347	347	CD	CD	_	3	dep	_	start_char=2|end_char=5
 3	国道	国道	NN	NN	_	4	nmod:prep	_	start_char=6|end_char=8
@@ -662,6 +721,8 @@
 32	关闭	关闭	VV	VV	_	0	root	_	start_char=93|end_char=95
 33	。	。	PU	PU	_	32	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_news_hubei-25
+# text = 1月24日10时，黄石市关闭全市道路客运站、上窑轮渡码头，关闭201省道黄石长江公路大桥通道，停开全市公交、农村客运、道路客运班线。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	10时	10时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -697,6 +758,8 @@
 33	班线	班线	NN	NN	_	24	dobj	_	start_char=95|end_char=97
 34	。	。	PU	PU	_	6	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_news_hubei-26
+# text = 1月25日14时，封闭沪渝高速黄石；大广高速黄石西、大冶金湖、阳新龙港；杭瑞高速阳新枫林、木港、排市；黄咸高速大冶陈贵、灵乡、金牛共10个出口（货运通道与绿色通道除外），对活禽运输车辆实施有效管控。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	14时	14时	NT	NT	_	54	nmod:tmod	_	start_char=7|end_char=10
@@ -755,6 +818,8 @@
 56	管控	管控	NN	NN	_	54	dobj	_	start_char=151|end_char=153
 57	。	。	PU	PU	_	54	punct	_	start_char=154|end_char=155
 
+# sent_id = gcdt_news_hubei-27
+# text = 黄石境内仅保留大广高速阳新三溪、殷祖出口正常通行。
 1	黄石	黄石	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=2
 2	境内	境内	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	仅	仅	AD	AD	_	4	advmod	_	start_char=6|end_char=7
@@ -770,6 +835,8 @@
 13	通行	通行	VV	VV	_	4	conj	_	start_char=34|end_char=36
 14	。	。	PU	PU	_	4	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_news_hubei-28
+# text = 1月24日12时，荆州市关闭荆州站离开荆州通道。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	12时	12时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -782,6 +849,8 @@
 10	通道	通道	NN	NN	_	8	dobj	_	start_char=30|end_char=32
 11	。	。	PU	PU	_	6	punct	_	start_char=33|end_char=34
 
+# sent_id = gcdt_news_hubei-29
+# text = 17时，关闭荆州市区所有公交车、道路客运班线、农村客运、渡口渡船，并在火车站、长途汽车站、客运码头、高速公路口等地按要求设置体温监测点。
 1	17时	17时	NT	NT	_	3	nmod:tmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	3	punct	_	start_char=4|end_char=5
 3	关闭	关闭	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -821,6 +890,8 @@
 37	监测点	监测点	NN	NN	_	35	dobj	_	start_char=100|end_char=103
 38	。	。	PU	PU	_	3	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_news_hubei-30
+# text = 1月25日14时，对中心城区高速公路实施交通管制，关闭沪渝高速沙市（锣场）互通（含丫角）、小北门互通、车马阵互通；沙公高速岑河互通；二广高速荆州中互通、荆州南、荆州长江大桥南北入口，但对涉及疫情防控应急救灾车辆、冷链运输车辆、重型载货车辆、绿色通道车辆优先放行。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	14时	14时	NT	NT	_	10	nmod:tmod	_	start_char=7|end_char=10
@@ -895,6 +966,8 @@
 72	放行	放行	VV	VV	_	10	conj	_	start_char=199|end_char=201
 73	。	。	PU	PU	_	10	punct	_	start_char=202|end_char=203
 
+# sent_id = gcdt_news_hubei-31
+# text = 1月24日13时，天门市关闭公交、渡口、码头、农村客运、长途客运、公路进出口通道（含国道、省道、县道、乡级道路、村级道路、组级道路），15时关闭全部高速公路离开天门通道，23时关闭高铁站、火车站出入口。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	13时	13时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -951,6 +1024,8 @@
 54	出入口	出入口	NN	NN	_	50	dobj	_	start_char=150|end_char=153
 55	。	。	PU	PU	_	6	punct	_	start_char=154|end_char=155
 
+# sent_id = gcdt_news_hubei-32
+# text = 1月24日22时，十堰市停运市区所有公交线路。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	24日	24日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	22时	22时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=10
@@ -963,6 +1038,8 @@
 10	线路	线路	NN	NN	_	6	dobj	_	start_char=29|end_char=31
 11	。	。	PU	PU	_	6	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_news_hubei-33
+# text = 1月25日1时，封闭全市所有高速公路、国道。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	1时	1时	NT	NT	_	5	nmod:tmod	_	start_char=7|end_char=9
@@ -976,6 +1053,8 @@
 11	国道	国道	NN	NN	_	5	dobj	_	start_char=29|end_char=31
 12	。	。	PU	PU	_	5	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_news_hubei-34
+# text = 1月26日，隔断村与村、组与组之间全部交通，进出道路必须封路。
 1	1月	1月	NT	NT	_	2	compound:nn	_	start_char=0|end_char=2
 2	26日	26日	NT	NT	_	19	nmod:tmod	_	start_char=3|end_char=6
 3	，	，	PU	PU	_	19	punct	_	start_char=7|end_char=8
@@ -997,6 +1076,8 @@
 19	封路	封路	VV	VV	_	4	conj	_	start_char=46|end_char=48
 20	。	。	PU	PU	_	19	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_news_hubei-35
+# text = 20时，封闭十堰站、武当山站、十堰东站、武当山西站、丹江口站进出十堰通道。
 1	20时	20时	NT	NT	_	15	nmod:tmod	_	start_char=0|end_char=3
 2	，	，	PU	PU	_	15	punct	_	start_char=4|end_char=5
 3	封闭	封闭	VV	VV	_	14	acl	_	start_char=6|end_char=8
@@ -1016,6 +1097,8 @@
 17	通道	通道	NN	NN	_	15	dobj	_	start_char=50|end_char=52
 18	。	。	PU	PU	_	15	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_news_hubei-36
+# text = 1月25日0时，随州市停运市区公交、长途客运站，关闭高铁站、火车站离开与进入随州通道，对316国道、240国道、346国道、262省道、263省道随州城区段进行管控，其他通道予以关闭。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -1064,6 +1147,8 @@
 46	关闭	关闭	NN	NN	_	45	dobj	_	start_char=134|end_char=136
 47	。	。	PU	PU	_	6	punct	_	start_char=137|end_char=138
 
+# sent_id = gcdt_news_hubei-37
+# text = 1月25日6时，宜昌市封闭全市所有高速公路入口、县城出口道路、县域间国省道、半高山以上农村公路，并关闭宜昌东站、当阳站、枝江北站进出站通道。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	6时	6时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -1103,6 +1188,8 @@
 37	通道	通道	NN	NN	_	28	dobj	_	start_char=103|end_char=105
 38	。	。	PU	PU	_	6	punct	_	start_char=106|end_char=107
 
+# sent_id = gcdt_news_hubei-38
+# text = 1月25日18时，神农架林区对全区普通干线公路及县道实施交通管制，停运全区所有客货运输站场、游客换乘中心、长途客车、城区公交、旅游直通车、农村客运班车，并进一步加强出租车监管力度。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	25日	25日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	18时	18时	NT	NT	_	14	nmod:tmod	_	start_char=7|end_char=10
@@ -1152,6 +1239,8 @@
 47	力度	力度	NN	NN	_	44	dobj	_	start_char=133|end_char=135
 48	。	。	PU	PU	_	14	punct	_	start_char=136|end_char=137
 
+# sent_id = gcdt_news_hubei-39
+# text = 1月26日0时，襄阳市停运省际、市际、县际、县内长途客运、农村客运、旅游包车。
 1	1月	1月	NT	NT	_	3	compound:nn	_	start_char=0|end_char=2
 2	26日	26日	NT	NT	_	3	compound:nn	_	start_char=3|end_char=6
 3	0时	0时	NT	NT	_	6	nmod:tmod	_	start_char=7|end_char=9
@@ -1175,6 +1264,8 @@
 21	包车	包车	NN	NN	_	6	dobj	_	start_char=56|end_char=58
 22	。	。	PU	PU	_	6	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_news_hubei-40
+# text = 襄阳刘集机场取消所有始发、到达客运航班。
 1	襄阳	襄阳	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	刘集	刘集	NR	NR	_	3	compound:nn	_	start_char=3|end_char=5
 3	机场	机场	NN	NN	_	4	nsubj	_	start_char=6|end_char=8

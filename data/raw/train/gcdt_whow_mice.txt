@@ -1,4 +1,4 @@
-<text id="gum_zh_whow_mice" type="whow" sourceURL="https://zh.wikihow.com/%E4%BB%A5%E8%87%AA%E7%84%B6%E6%96%B9%E6%B3%95%E9%A9%B1%E9%80%90%E8%80%81%E9%BC%A0" dateCreated="XXXX-XX-XX" dateCollected="2021-12-05" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何以自然方法驱逐老鼠" shortTitle="mice"/>
+<text id="gum_zh_whow_mice" genre="whow" sourceURL="https://zh.wikihow.com/%E4%BB%A5%E8%87%AA%E7%84%B6%E6%96%B9%E6%B3%95%E9%A9%B1%E9%80%90%E8%80%81%E9%BC%A0" author="wikiHow员工" dateCreated="XXXX-XX-XX" dateCollected="2021-12-05" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何以自然方法驱逐老鼠" shortTitle="mice"/>
 如何以自然方法驱逐老鼠
 
 家里有老鼠，既烦人又有害健康。

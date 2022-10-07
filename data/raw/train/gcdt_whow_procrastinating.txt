@@ -1,4 +1,4 @@
-<text id="gum_zh_whow_procrastinating" type="whow" sourceURL="https://zh.wikihow.com/%E5%81%9C%E6%AD%A2%E6%8B%96%E5%BB%B6" dateCreated="XXXX-XX-XX" dateCollected="2021-12-06" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何停止拖延" shortTitle="procrastinating"/>
+<text id="gum_zh_whow_procrastinating" genre="whow" sourceURL="https://zh.wikihow.com/%E5%81%9C%E6%AD%A2%E6%8B%96%E5%BB%B6" author="Sharon Lee" dateCreated="XXXX-XX-XX" dateCollected="2021-12-06" dateModified="XXXX-XX-XX" speakerCount="0" speakerList="none" title="如何停止拖延" shortTitle="procrastinating"/>
 如何停止拖延
 
 如果你是慢性拖延症患者，你一定知道把所有事情堆到最后一分钟来做的压力和痛苦。

@@ -38,32 +38,32 @@
 	<body>
 		<segment id="1" parent="316" relname="organization-heading">法治 视角 下 抖音 虚假 新闻 的 监管 机制 研究 // Research on the Supervision Mechanism of Douyin Fake News from the Perspective of the Rule of Law</segment>
 		<segment id="2" parent="237" relname="organization-heading">1. 引言 // 1 Introduction</segment>
-		<segment id="3" parent="4" relname="elaboration-attribute">2021年 1月 5日 ， 抖音 发布 的 // Posted by Douyin on January 5, 2021</segment>
-		<segment id="4" parent="219" relname="span">《 2020 抖音 数据 报告 》 显示 ， // The "2020 Douyin Data Report" shows that,</segment>
-		<segment id="5" parent="220" relname="joint-list">截至 2020年 8月 ， 抖音 日 活跃 用户 突破 6亿 ， // As of August 2020, Douyin's daily active users exceeded 600 million,</segment>
-		<segment id="6" parent="220" relname="joint-list">用户 人数 占 中国 网民 总 人数 的 63.82% 。 // The number of users accounts for 63.82% of the total number of netizens in China .</segment>
+		<segment id="3" parent="4" relname="elaboration-attribute">2021年 1月 5日 ， 抖音 发布 的 // Posted by Douyin on January 5 , 2021</segment>
+		<segment id="4" parent="219" relname="span">《 2020 抖音 数据 报告 》 显示 ， // The " 2020 Douyin Data Report " shows that ,</segment>
+		<segment id="5" parent="220" relname="joint-list">截至 2020年 8月 ， 抖音 日 活跃 用户 突破 6亿 ， // As of August 2020 , Douyin 's daily active users exceeded 600 million ,</segment>
+		<segment id="6" parent="220" relname="joint-list">用户 人数 占 中国 网民 总 人数 的 63.82% 。 // The number of users accounts for 63.82 % of the total number of netizens in China .</segment>
 		<segment id="7" parent="223" relname="same-unit">抖音 不仅 是 // Douyin is not only</segment>
 		<segment id="8" parent="9" relname="elaboration-attribute">用户 用于 记录 和 发布 自己 动态 的 // Used by users to record and publish their own news</segment>
 		<segment id="9" parent="222" relname="span">短 视频 平台 ， // short video platform ,</segment>
 		<segment id="10" parent="224" relname="same-unit">也 是 // Too</segment>
 		<segment id="11" parent="12" relname="elaboration-attribute">用户 接收 和 评论 信息 的 // Users receive and comment on information</segment>
-		<segment id="12" parent="225" relname="span">来源 ， // source,</segment>
+		<segment id="12" parent="225" relname="span">来源 ， // source ,</segment>
 		<segment id="13" parent="226" relname="same-unit">在 // exist</segment>
 		<segment id="14" parent="227" relname="elaboration-attribute">互联网 发达 的 // Internet developed</segment>
-		<segment id="15" parent="227" relname="span">现在 人人 都 可以 利用 “ 抖音 ” // Now everyone can use "Tik Tok"</segment>
+		<segment id="15" parent="227" relname="span">现在 人人 都 可以 利用 “ 抖音 ” // Now everyone can use " Tik Tok "</segment>
 		<segment id="16" parent="15" relname="purpose-goal">当 记者 // be a reporter</segment>
-		<segment id="17" parent="229" relname="joint-list">将 自己 的 “ 新闻 ” 上传 到 如此 庞大 观众 数量 和 活跃 规模 的 “ 演播室 ” 。 // Upload your own "news" to a "studio" with such a huge audience and active scale.</segment>
+		<segment id="17" parent="229" relname="joint-list">将 自己 的 “ 新闻 ” 上传 到 如此 庞大 观众 数量 和 活跃 规模 的 “ 演播室 ” 。 // Upload your own " news " to a " studio " with such a huge audience and active scale .</segment>
 		<segment id="18" parent="420" relname="span">正 因为 如此 ， // Therefore ,</segment>
 		<segment id="19" parent="231" relname="span">虚假 新闻 // fake news</segment>
 		<segment id="20" parent="19" relname="elaboration-attribute">经过 抖音 的 传播 // Spread through Douyin</segment>
 		<segment id="21" parent="232" relname="same-unit">往往 会 引发 大 规模 的 轰动 ， // often cause a massive stir ,</segment>
-		<segment id="22" parent="235" relname="span">对 抖音 虚假 新闻 的 监管 刻不容缓 ， // The supervision of Douyin fake news is urgent.</segment>
+		<segment id="22" parent="235" relname="span">对 抖音 虚假 新闻 的 监管 刻不容缓 ， // The supervision of Douyin fake news is urgent .</segment>
 		<segment id="23" parent="237" relname="span">本 文 立足于 法治 视角 对 如何 监管 抖音 虚假 新闻 进行 简析 。 // Based on the perspective of the rule of law , this article briefly analyzes how to supervise fake news on Douyin .</segment>
-		<segment id="24" parent="314" relname="organization-heading">2. 抖音 虚假 新闻 的 概念 和 特点 // 2. The concept and characteristics of Douyin fake news</segment>
-		<segment id="25" parent="257" relname="organization-heading">2.1. 抖音 虚假 新闻 的 概念 // 2.1. The concept of Douyin fake news</segment>
-		<segment id="26" parent="241" relname="same-unit">抖音 虚假 新闻 顾名思义 就 是 // Douyin fake news, as the name suggests, is</segment>
+		<segment id="24" parent="314" relname="organization-heading">2. 抖音 虚假 新闻 的 概念 和 特点 // 2 . The concept and characteristics of Douyin fake news</segment>
+		<segment id="25" parent="257" relname="organization-heading">2.1. 抖音 虚假 新闻 的 概念 // 2.1 . The concept of Douyin fake news</segment>
+		<segment id="26" parent="241" relname="same-unit">抖音 虚假 新闻 顾名思义 就 是 // Douyin fake news , as the name suggests , is</segment>
 		<segment id="27" parent="28" relname="elaboration-attribute">利用 抖音 这 一 平台 发布 的 // Posted on the platform Douyin</segment>
-		<segment id="28" parent="240" relname="span">虚假 新闻 ， // fake news,</segment>
+		<segment id="28" parent="240" relname="span">虚假 新闻 ， // fake news ,</segment>
 		<segment id="29" parent="246" relname="same-unit">主要 包括 // mainly include</segment>
 		<segment id="30" parent="31" relname="mode-means">利用 图片 // use pictures</segment>
 		<segment id="31" parent="242" relname="span">伪造 新闻 、 // fake news ,</segment>
@@ -76,149 +76,149 @@
 		<segment id="38" parent="247" relname="joint-list">抖音 虚假 新闻 短 视频 大多数 在 15 秒 内 ， // Most of the fake news short videos on Douyin are within 15 seconds .</segment>
 		<segment id="39" parent="247" relname="joint-list">配合 挑选 的 背景 音乐 // Match the selected background music</segment>
 		<segment id="40" parent="247" relname="joint-list">混 着 颜色 鲜明 的 字体 和 夸张 的 噱头 ， // Mixed with brightly colored fonts and exaggerated gimmicks ,</segment>
-		<segment id="41" parent="248" relname="joint-list">刺激 了 用户 的 视觉 和 听觉 系统 // Stimulates the user's visual and auditory systems</segment>
-		<segment id="42" parent="248" relname="joint-list">使 用户 记忆 深刻 ， // Make users memorable,</segment>
-		<segment id="43" parent="255" relname="joint-list">如此 短 的 时间 让 用户 无法 快速 反应 为 虚假 内容 ， // Such a short period of time makes it impossible for users to quickly respond to false content.</segment>
+		<segment id="41" parent="248" relname="joint-list">刺激 了 用户 的 视觉 和 听觉 系统 // Stimulates the user 's visual and auditory systems</segment>
+		<segment id="42" parent="248" relname="joint-list">使 用户 记忆 深刻 ， // Make users memorable ,</segment>
+		<segment id="43" parent="255" relname="joint-list">如此 短 的 时间 让 用户 无法 快速 反应 为 虚假 内容 ， // Such a short period of time makes it impossible for users to quickly respond to false content .</segment>
 		<segment id="44" parent="253" relname="span">而且 用户 使用 抖音 大多数 为 碎片化 时间 // And most users use Douyin for fragmented time</segment>
-		<segment id="45" parent="44" relname="purpose-goal">进行 消遣 ， // to have fun,</segment>
-		<segment id="46" parent="253" relname="adversative-concession">很少 会 去 专门 查实 一 个 新闻 ， // Rarely will go specifically to check a news,</segment>
+		<segment id="45" parent="44" relname="purpose-goal">进行 消遣 ， // to have fun ,</segment>
+		<segment id="46" parent="253" relname="adversative-concession">很少 会 去 专门 查实 一 个 新闻 ， // Rarely will go specifically to check a news ,</segment>
 		<segment id="47" parent="250" relname="same-unit">导致 // lead to</segment>
 		<segment id="48" parent="49" relname="elaboration-attribute">抖音 虚假 新闻 造成 的 // Douyin fake news</segment>
-		<segment id="49" parent="249" relname="span">不良 影响 极 大 。 // The adverse effects are great.</segment>
-		<segment id="50" parent="312" relname="organization-heading">2.2. 抖音 虚假 新闻 的 特点 // 2.2. Features of Douyin fake news</segment>
-		<segment id="51" parent="259" relname="joint-list">1) 传播 迅速 ， // 1) spread quickly,</segment>
+		<segment id="49" parent="249" relname="span">不良 影响 极 大 。 // The adverse effects are great .</segment>
+		<segment id="50" parent="312" relname="organization-heading">2.2. 抖音 虚假 新闻 的 特点 // 2.2 . Features of Douyin fake news</segment>
+		<segment id="51" parent="259" relname="joint-list">1) 传播 迅速 ， // 1 ) spread quickly ,</segment>
 		<segment id="52" parent="259" relname="joint-list">覆盖面 广 ， // Wide coverage ,</segment>
-		<segment id="53" parent="259" relname="joint-list">受众 群体 广 。 // A wide audience.</segment>
+		<segment id="53" parent="259" relname="joint-list">受众 群体 广 。 // A wide audience .</segment>
 		<segment id="54" parent="261" relname="span">抖音 虚假 新闻 的 裂变式 传播 数学 模型 往往 呈现 指数式 的 增长 ， // The mathematical model of the fission propagation of Douyin fake news tends to grow exponentially .</segment>
 		<segment id="55" parent="260" relname="joint-list">用户 可 对 抖音 的 虚假 新闻 进行 转发 ， // Users can retweet fake news on Douyin ,</segment>
 		<segment id="56" parent="260" relname="joint-list">成为 新 的 传播 链条 上 一 个个 节点 // Become a node on a new propagation chain</segment>
 		<segment id="57" parent="261" relname="explanation-evidence">-LSB- 1 -RSB- ， // -LSB- 1 -RSB- ,</segment>
 		<segment id="58" parent="264" relname="same-unit">而且 // and</segment>
 		<segment id="59" parent="60" relname="elaboration-attribute">用户 转发 和 评论 虚假 新闻 的 // Users retweet and comment on fake news</segment>
-		<segment id="60" parent="263" relname="span">数量 短 时间 内 增多 ， // The number increased in a short period of time,</segment>
-		<segment id="61" parent="265" relname="span">抖音 会 对 该 短 视频 进行 流量 扶持 ， // Douyin will provide traffic support for this short video.</segment>
+		<segment id="60" parent="263" relname="span">数量 短 时间 内 增多 ， // The number increased in a short period of time ,</segment>
+		<segment id="61" parent="265" relname="span">抖音 会 对 该 短 视频 进行 流量 扶持 ， // Douyin will provide traffic support for this short video .</segment>
 		<segment id="62" parent="267" relname="same-unit">一 条 // one</segment>
-		<segment id="63" parent="64" relname="elaboration-attribute">噱头 夸张 博人眼球 的 // gimmick, exaggerated, well-known</segment>
+		<segment id="63" parent="64" relname="elaboration-attribute">噱头 夸张 博人眼球 的 // gimmick , exaggerated , well - known</segment>
 		<segment id="64" parent="266" relname="span">虚假 新闻 可 在 抖音 平台 飞速 蔓延 ， // Fake news can spread rapidly on the Douyin platform ,</segment>
-		<segment id="65" parent="268" relname="joint-list">甚至 形成 病毒式 传播 。 // even go viral.</segment>
-		<segment id="66" parent="293" relname="span">2) 高发性 与 强 交互性 。 // 2) High incidence and strong interaction.</segment>
+		<segment id="65" parent="268" relname="joint-list">甚至 形成 病毒式 传播 。 // even go viral .</segment>
+		<segment id="66" parent="293" relname="span">2) 高发性 与 强 交互性 。 // 2 ) High incidence and strong interaction .</segment>
 		<segment id="67" parent="272" relname="span">抖音 作为 免费 的 信息 传播 媒介 工具 // Douyin as a free information dissemination medium</segment>
 		<segment id="68" parent="67" relname="explanation-evidence">-LSB- 2 -RSB- ， // -LSB- 2 -RSB- ,</segment>
 		<segment id="69" parent="273" relname="same-unit">用户 // user</segment>
 		<segment id="70" parent="71" relname="contingency-condition">只 需 注册 // Just register</segment>
-		<segment id="71" parent="274" relname="span">便 可 拥有 独立 账户 。 // You can have a separate account.</segment>
+		<segment id="71" parent="274" relname="span">便 可 拥有 独立 账户 。 // You can have a separate account .</segment>
 		<segment id="72" parent="276" relname="same-unit">而 现在 // and now</segment>
-		<segment id="73" parent="74" relname="elaboration-attribute">“ 流量 为 王 ” 的 // "Traffic is King"</segment>
-		<segment id="74" parent="275" relname="span">价值 导向 下 ， // value-oriented,</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">“ 流量 为 王 ” 的 // " Traffic is King "</segment>
+		<segment id="74" parent="275" relname="span">价值 导向 下 ， // Under the direction of value ,</segment>
 		<segment id="75" parent="76" relname="purpose-goal">为 赚取 流量 // to earn traffic</segment>
 		<segment id="76" parent="277" relname="span">发布 虚假 新闻 的 // publishing fake news</segment>
 		<segment id="77" parent="278" relname="span">用户 往往 会 注册 多 个 账号 // Users often register multiple accounts</segment>
 		<segment id="78" parent="279" relname="joint-list">持续 散播 假 新闻 ， // keep spreading fake news</segment>
 		<segment id="79" parent="281" relname="joint-list">成本 低 // low cost</segment>
-		<segment id="80" parent="281" relname="joint-list">呈 高发 态势 ； // showing a high incidence;</segment>
+		<segment id="80" parent="281" relname="joint-list">呈 高发 态势 ； // showing a high incidence ;</segment>
 		<segment id="81" parent="82" relname="context-background">在 依托 抖音 自身 关注 、 转发 、 评论 的 功能 之上 ， // Relying on Douyin 's own functions of following , forwarding and commenting ,</segment>
-		<segment id="82" parent="282" relname="span">虚假 新闻 创作者 不再 局限于 传统 假 新闻 单向 输出 的 模式 ， // Fake news creators are no longer limited to the traditional one-way output of fake news.</segment>
+		<segment id="82" parent="282" relname="span">虚假 新闻 创作者 不再 局限于 传统 假 新闻 单向 输出 的 模式 ， // Fake news creators are no longer limited to the traditional one - way output of fake news .</segment>
 		<segment id="83" parent="283" relname="joint-list">与 受众者 进行 交互 // Interact with the audience</segment>
 		<segment id="84" parent="284" relname="span">将 他们 对 虚假 新闻 的 评论 进行 二 次 创作 // recreate their comments on fake news</segment>
-		<segment id="85" parent="84" relname="purpose-goal">而 回答 受众 对于 假 新闻 的 疑惑 ， // To answer the audience's doubts about fake news,</segment>
+		<segment id="85" parent="84" relname="purpose-goal">而 回答 受众 对于 假 新闻 的 疑惑 ， // To answer the audience 's doubts about fake news ,</segment>
 		<segment id="86" parent="286" relname="same-unit">激发 // excitation</segment>
 		<segment id="87" parent="88" relname="elaboration-attribute">受众 传播 虚假 新闻 的 // audience spreading fake news</segment>
-		<segment id="88" parent="285" relname="span">积极性 ， // positivity,</segment>
-		<segment id="89" parent="289" relname="joint-list">受众 也 由 原来 的 被动 接收 变 为 主动 参与 传播 ， // The audience has also changed from passive reception to active participation in communication.</segment>
+		<segment id="88" parent="285" relname="span">积极性 ， // positivity ,</segment>
+		<segment id="89" parent="289" relname="joint-list">受众 也 由 原来 的 被动 接收 变 为 主动 参与 传播 ， // The audience has also changed from passive reception to active participation in communication .</segment>
 		<segment id="90" parent="289" relname="joint-list">更 有 甚者 也 介入 到 了 虚假 新闻 的 创作 。 // Even more involved in the creation of fake news .</segment>
-		<segment id="91" parent="311" relname="span">3) 虚假 新闻 私人 定制化 程度 高 。 // 3) Fake news is highly customized.</segment>
+		<segment id="91" parent="311" relname="span">3) 虚假 新闻 私人 定制化 程度 高 。 // 3 ) Fake news is highly customized .</segment>
 		<segment id="92" parent="295" relname="same-unit">抖音 平台 // Douyin Platform</segment>
 		<segment id="93" parent="94" relname="mode-means">基于 特定 的 算法 // based on a specific algorithm</segment>
 		<segment id="94" parent="294" relname="span">对 用户 画像 进行 精准化 定位 ， // Precise positioning of user portraits ,</segment>
 		<segment id="95" parent="296" relname="span">这 也 为 虚假 新闻 投放 的 精准度 提供 了 生存 空间 。 // This also provides a living space for the accuracy of fake news delivery .</segment>
-		<segment id="96" parent="297" relname="joint-sequence">如 近日 的 特斯拉 女 车主 维权 事件 在 抖音 上 持续 发酵 // For example, the recent Tesla female owner's rights protection incident continues to ferment on Douyin</segment>
+		<segment id="96" parent="297" relname="joint-sequence">如 近日 的 特斯拉 女 车主 维权 事件 在 抖音 上 持续 发酵 // For example , the recent Tesla female owner 's rights protection incident continues to ferment on Douyin</segment>
 		<segment id="97" parent="297" relname="joint-sequence">成为 热门 话题 ， // become a hot topic ,</segment>
 		<segment id="98" parent="299" relname="same-unit">许多 // many</segment>
 		<segment id="99" parent="100" relname="elaboration-attribute">关心 此 事件 的 // concerned about this event</segment>
 		<segment id="100" parent="298" relname="span">用户 也 收到 了 // users also received</segment>
-		<segment id="101" parent="102" relname="elaboration-attribute">“ 广东 不 允许 特斯拉 上 高速 ” 的 // "Guangdong does not allow Teslas to go on high-speed"</segment>
+		<segment id="101" parent="102" relname="elaboration-attribute">“ 广东 不 允许 特斯拉 上 高速 ” 的 // " Guangdong does not allow Teslas to go on high - speed "</segment>
 		<segment id="102" parent="300" relname="span">假 新闻 ， // False news ,</segment>
-		<segment id="103" parent="305" relname="causal-cause">由于 用户 本身 就 关心 维权 事件 的 后续 // Because users themselves are concerned about the follow-up of rights protection incidents</segment>
+		<segment id="103" parent="305" relname="causal-cause">由于 用户 本身 就 关心 维权 事件 的 后续 // Because users themselves are concerned about the follow - up of rights protection incidents</segment>
 		<segment id="104" parent="301" relname="joint-list">而 马上 接收 的 // and received immediately</segment>
 		<segment id="105" parent="301" relname="joint-list">不 允许 上 高速 的 // Not allowed on high speed</segment>
 		<segment id="106" parent="302" relname="span">虚假 新闻 就 误 以为 是 地方 政府 对 车企 的 强烈 回应 ， // Fake news is mistaken for a strong response from local governments to car companies .</segment>
-		<segment id="107" parent="305" relname="joint-list">进而 大 规模 转发 和 关注 ， // And then large-scale forwarding and attention,</segment>
+		<segment id="107" parent="305" relname="joint-list">进而 大 规模 转发 和 关注 ， // And then large - scale forwarding and attention ,</segment>
 		<segment id="108" parent="304" relname="same-unit">热度 // heat</segment>
 		<segment id="109" parent="110" relname="context-circumstance">直 至 官方 辟谣 // Until the official rumor</segment>
-		<segment id="110" parent="303" relname="span">才 下降 。 // just dropped.</segment>
-		<segment id="111" parent="418" relname="organization-heading">3. 抖音 虚假 新闻 监管 的 现状 及 问题 // 3. Status Quo and Problems of Douyin Fake News Supervision</segment>
-		<segment id="112" parent="342" relname="organization-heading">3.1. 抖音 虚假 新闻 监管 的 现状 // 3.1. Status Quo of Douyin Fake News Supervision</segment>
-		<segment id="113" parent="322" relname="context-background">抖音 虚假 新闻 管理 最 常见 的 是 短 视频 平台 的 自我 管理 ， // Douyin fake news management is the most common self-management of short video platforms.</segment>
+		<segment id="110" parent="303" relname="span">才 下降 。 // just dropped .</segment>
+		<segment id="111" parent="418" relname="organization-heading">3. 抖音 虚假 新闻 监管 的 现状 及 问题 // 3 . Status Quo and Problems of Douyin Fake News Supervision</segment>
+		<segment id="112" parent="342" relname="organization-heading">3.1. 抖音 虚假 新闻 监管 的 现状 // 3.1 . Status Quo of Douyin Fake News Supervision</segment>
+		<segment id="113" parent="322" relname="context-background">抖音 虚假 新闻 管理 最 常见 的 是 短 视频 平台 的 自我 管理 ， // Douyin fake news management is the most common self - management of short video platforms .</segment>
 		<segment id="114" parent="322" relname="span">抖音 平台 有 自己 的 内部 审核 团队 // Douyin platform has its own internal audit team</segment>
-		<segment id="115" parent="318" relname="adversative-contrast">以 形式 审核 为 主 ， // Mainly based on formal review,</segment>
-		<segment id="116" parent="318" relname="adversative-contrast">不 涉及 内容 的 实质 审核 ， // does not involve a substantive review of the content,</segment>
+		<segment id="115" parent="318" relname="adversative-contrast">以 形式 审核 为 主 ， // Mainly based on formal review ,</segment>
+		<segment id="116" parent="318" relname="adversative-contrast">不 涉及 内容 的 实质 审核 ， // does not involve a substantive review of the content ,</segment>
 		<segment id="117" parent="320" relname="same-unit">目的 是 过滤 掉 // The purpose is to filter out</segment>
 		<segment id="118" parent="119" relname="elaboration-attribute">形式 明显 违反 相关 法律 法规 的 // The form obviously violates the relevant laws and regulations .</segment>
-		<segment id="119" parent="319" relname="span">短 视频 。 // short video.</segment>
-		<segment id="120" parent="337" relname="joint-list">抖音 平台 的 监管 运行 模式 由 短 视频 发布 前 的 初期 形式 审核 和 发布 后 的 用户 投诉 、 举报 来 构成 ， // Douyin platform's supervisory operation mode consists of initial form review before short video release and user complaints and reports after release.</segment>
-		<segment id="121" parent="324" relname="adversative-contrast">主要 运行 逻辑 是 “ 用户 仅 提供 线索 ， // The main operating logic is "The user only provides clues,</segment>
-		<segment id="122" parent="324" relname="adversative-contrast">平台 全权 审核 ” ， // The platform is fully audited”,</segment>
-		<segment id="123" parent="325" relname="joint-list">其 用户 参与度 明显 不 够 ， // Its user participation is obviously not enough,</segment>
+		<segment id="119" parent="319" relname="span">短 视频 。 // short video .</segment>
+		<segment id="120" parent="337" relname="joint-list">抖音 平台 的 监管 运行 模式 由 短 视频 发布 前 的 初期 形式 审核 和 发布 后 的 用户 投诉 、 举报 来 构成 ， // Douyin platform 's supervisory operation mode consists of initial form review before short video release and user complaints and reports after release .</segment>
+		<segment id="121" parent="324" relname="adversative-contrast">主要 运行 逻辑 是 “ 用户 仅 提供 线索 ， // The main operating logic is " The user only provides clues ,</segment>
+		<segment id="122" parent="324" relname="adversative-contrast">平台 全权 审核 ” ， // The platform is fully audited ” ,</segment>
+		<segment id="123" parent="325" relname="joint-list">其 用户 参与度 明显 不 够 ， // Its user participation is obviously not enough ,</segment>
 		<segment id="124" parent="325" relname="joint-list">很 明显 这 种 监管 不 能 有效 阻止 虚假 新闻 快速 传播 。 // Obviously this kind of regulation is not effective in preventing the rapid spread of fake news .</segment>
-		<segment id="125" parent="341" relname="span">抖音 虚假 新闻 监管 处于 主导 地位 的 是 各 级 互联网 信息 主管 部门 的 监管 ， // Douyin fake news supervision is dominated by the supervision of Internet information authorities at all levels.</segment>
-		<segment id="126" parent="328" relname="same-unit">自 2017年 《 互联网 新闻 信息 服务 管理 规定 》 出台 ， 对 // Since the promulgation of the "Regulations on the Administration of Internet News Information Services" in 2017,</segment>
+		<segment id="125" parent="341" relname="span">抖音 虚假 新闻 监管 处于 主导 地位 的 是 各 级 互联网 信息 主管 部门 的 监管 ， // Douyin fake news supervision is dominated by the supervision of Internet information authorities at all levels .</segment>
+		<segment id="126" parent="328" relname="same-unit">自 2017年 《 互联网 新闻 信息 服务 管理 规定 》 出台 ， 对 // Since the promulgation of the " Regulations on the Administration of Internet News Information Services " in 2017 ,</segment>
 		<segment id="127" parent="128" relname="mode-means">利用 抖音 等 互联网 平台 // Use Internet platforms such as Douyin</segment>
 		<segment id="128" parent="326" relname="span">采编 或 报道 新闻 的 // editing or reporting news</segment>
-		<segment id="129" parent="327" relname="span">主体 义务 和 责任 进行 规范 ， // Subject obligations and responsibilities are regulated,</segment>
+		<segment id="129" parent="327" relname="span">主体 义务 和 责任 进行 规范 ， // Subject obligations and responsibilities are regulated ,</segment>
 		<segment id="130" parent="330" relname="attribution-positive">并 明确 // and clearly</segment>
 		<segment id="131" parent="330" relname="joint-list">相应 的 互联网 信息 主管 部门 对 其 负有 监管 义务 // The corresponding Internet information authority has the obligation to supervise it</segment>
 		<segment id="132" parent="332" relname="same-unit">和 拥有 // and owned</segment>
 		<segment id="133" parent="134" relname="elaboration-attribute">对 播报 虚假 新闻 的 主体 行政 惩戒 措施 的 // Administrative punitive measures for the subjects who broadcast false news .</segment>
 		<segment id="134" parent="331" relname="span">权力 ， // that power ,</segment>
-		<segment id="135" parent="335" relname="joint-list">这 对 抖音 虚假 新闻 的 监管 进程 起到 了 里程碑 作用 ， // This marks a milestone in the regulatory process of Douyin fake news .</segment>
+		<segment id="135" parent="335" relname="joint-list">这 对 抖音 虚假 新闻 的 监管 进程 起到 了 里程碑 作用 ， // This is a milestone in the regulatory process of Douyin fake news .</segment>
 		<segment id="136" parent="137" relname="attribution-positive">标志 着 // marked</segment>
 		<segment id="137" parent="334" relname="span">国家 行政 力量 更 深 介入 抖音 虚假 新闻 监管 。 // State administrative power is more deeply involved in Douyin fake news supervision .</segment>
 		<segment id="138" parent="336" relname="adversative-contrast">但是 抖音 虚假 新闻 的 监管 仍然 存在 亟待 解决 的 问题 。 // But the regulation of fake news on Douyin still has problems that need to be solved .</segment>
-		<segment id="139" parent="416" relname="organization-heading">3.2. 抖音 虚假 新闻 监管 的 问题 // 3.2. Issues of Douyin Fake News Supervision</segment>
+		<segment id="139" parent="416" relname="organization-heading">3.2. 抖音 虚假 新闻 监管 的 问题 // 3.2 . Issues of Douyin Fake News Supervision</segment>
 		<segment id="140" parent="345" relname="same-unit">抖音 虚假 新闻 // Douyin Fake News</segment>
 		<segment id="141" parent="142" relname="mode-means">利用 短 视频 平台 开放式 的 环境 ， // Using the open environment of the short video platform ,</segment>
 		<segment id="142" parent="344" relname="span">散布 大量 低俗 、 夸张 博人眼球 的 虚假 新闻 ， // Spread a lot of vulgar and exaggerated fake news ,</segment>
 		<segment id="143" parent="144" relname="causal-cause">由于 短 视频 的 虚拟 属性 ， // Due to the virtual nature of short videos ,</segment>
 		<segment id="144" parent="346" relname="span">监管 机制 存在 急需 解决 的 问题 ， // There are problems that need to be solved urgently in the supervision mechanism .</segment>
 		<segment id="145" parent="347" relname="span">其 主要 表现 在 以下 几 个 方面 ： // It is mainly manifested in the following aspects :</segment>
-		<segment id="146" parent="364" relname="span">1) 新闻 界定 不明 。 // 1) The definition of news is unclear.</segment>
-		<segment id="147" parent="351" relname="attribution-positive">依照 《 互联网 新闻 信息 服务 管理 规定 》 ， // In accordance with the "Regulations on the Administration of Internet News Information Services",</segment>
+		<segment id="146" parent="364" relname="span">1) 新闻 界定 不明 。 // 1 ) The definition of news is unclear .</segment>
+		<segment id="147" parent="351" relname="attribution-positive">依照 《 互联网 新闻 信息 服务 管理 规定 》 ， // In accordance with the " Regulations on the Administration of Internet News Information Services " ,</segment>
 		<segment id="148" parent="350" relname="organization-preparation">我国 互联网 新闻 主体 有 三 种 类型 ， // There are three types of Internet news subjects in our country .</segment>
-		<segment id="149" parent="350" relname="same-unit">即 新闻 单位 、 新闻 宣传 部门 主管 的 单位 和 // Namely the news unit , the unit in charge of the news propaganda department , and</segment>
+		<segment id="149" parent="350" relname="same-unit">即 新闻 单位 、 新闻 宣传 部门 主管 的 单位 和 // Namely the news unit , the unit in charge of the news and publicity department , and</segment>
 		<segment id="150" parent="151" relname="elaboration-attribute">符合 条件 的 // eligible</segment>
 		<segment id="151" parent="349" relname="span">互联网 新闻 信息 服务 提供者 。 // Internet news information service provider .</segment>
-		<segment id="152" parent="356" relname="span">抖音 作为 互联网 中 的 主要 即时 新闻 分享 传播 平台 ， 其 新闻 主体 身份 往往 重合 ， // As the main instant news sharing and dissemination platform in the Internet , Douyin often has overlapping news subject identities.</segment>
+		<segment id="152" parent="356" relname="span">抖音 作为 互联网 中 的 主要 即时 新闻 分享 传播 平台 ， 其 新闻 主体 身份 往往 重合 ， // As the main instant news sharing and dissemination platform in the Internet , Douyin often has overlapping news subject identities .</segment>
 		<segment id="153" parent="353" relname="same-unit">甚至 部分 账号 将 自己 包装 成 // Some accounts even package themselves as</segment>
 		<segment id="154" parent="155" relname="elaboration-attribute">正规 拥有 新闻 采播 权利 的 // Those who formally own the rights of news gathering and broadcasting</segment>
-		<segment id="155" parent="354" relname="span">媒体 ， // media,</segment>
+		<segment id="155" parent="354" relname="span">媒体 ， // media ,</segment>
 		<segment id="156" parent="353" relname="purpose-goal">让 在 监管 中 对于 主体 难以 界定 。 // Make it difficult to define the subject in supervision .</segment>
 		<segment id="157" parent="361" relname="span">同时 抖音 虚假 新闻 内容 也 存在 界定 难度 ， // At the same time , the content of Douyin fake news is also difficult to define .</segment>
 		<segment id="158" parent="357" relname="span">其 虚假 新闻 往往 隐藏 或 改编 在 真实 的 社会 热点 事件 里 // Its fake news is often hidden or adapted in real social hot events .</segment>
-		<segment id="159" parent="158" relname="causal-result">而 难以 被 识别 ， // and difficult to identify,</segment>
+		<segment id="159" parent="158" relname="causal-result">而 难以 被 识别 ， // and difficult to identify ,</segment>
 		<segment id="160" parent="161" relname="context-circumstance">在 经过 用户 的 转发 分享 后 // After being forwarded and shared by users</segment>
 		<segment id="161" parent="358" relname="span">形成 裂变 的 病毒 效果 ， // fission virus effect ,</segment>
 		<segment id="162" parent="358" relname="causal-result">很 难 从 源头 上 进行 排查 和 监管 。 // It is difficult to investigate and monitor at the source .</segment>
-		<segment id="163" parent="383" relname="span">2) 流量 扶持 不当 。 // 2) Improper flow support.</segment>
-		<segment id="164" parent="369" relname="context-background">抖音 平台 存在 大量 的 不 受 管控 的 非 官方 的 “ 流量 服务 ” ， // The Douyin platform has a large number of unregulated and unofficial "traffic services".</segment>
+		<segment id="163" parent="383" relname="span">2) 流量 扶持 不当 。 // 2 ) Improper flow support .</segment>
+		<segment id="164" parent="369" relname="context-background">抖音 平台 存在 大量 的 不 受 管控 的 非 官方 的 “ 流量 服务 ” ， // The Douyin platform has a large number of unregulated and unofficial " traffic services " .</segment>
 		<segment id="165" parent="369" relname="same-unit">虚假 新闻 制作者 // fake news maker</segment>
-		<segment id="166" parent="367" relname="span">可 购买 其 的 点赞 和 推广 服务 ， // You can purchase its likes and promotion services,</segment>
+		<segment id="166" parent="367" relname="span">可 购买 其 的 点赞 和 推广 服务 ， // You can purchase its likes and promotion services ,</segment>
 		<segment id="167" parent="166" relname="elaboration-attribute">让 制作 的 假 新闻 短 时间 内 流量 数据 暴涨 ， // Let the fake news produced skyrocket the traffic data in a short period of time ,</segment>
 		<segment id="168" parent="368" relname="span">来 获得 抖音 的 流量 扶持 ， // To get the traffic support of Douyin ,</segment>
 		<segment id="169" parent="375" relname="purpose-goal">达到 进一步 扩散 的 目的 ， // To achieve the purpose of further diffusion ,</segment>
 		<segment id="170" parent="366" relname="same-unit">或者 // or</segment>
-		<segment id="171" parent="172" relname="mode-means">利用 抖音 热门 话题 、 关键 字 // Use Douyin's trending topics and keywords</segment>
+		<segment id="171" parent="172" relname="mode-means">利用 抖音 热门 话题 、 关键 字 // Use Douyin 's trending topics and keywords</segment>
 		<segment id="172" parent="365" relname="span">发布 虚假 新闻 ， // publish fake news ,</segment>
 		<segment id="173" parent="371" relname="span">把 完全 没有 联系 的 话题 和 关键 字 与 虚假 新闻 进行 拼接 // Splicing completely unconnected topics and keywords with fake news</segment>
 		<segment id="174" parent="372" relname="explanation-evidence">-LSB- 3 -RSB- ， // -LSB- 3 -RSB- ,</segment>
-		<segment id="175" parent="373" relname="purpose-goal">以 获取 点击率 、 曝光度 。 // To get click-through rate , exposure .</segment>
-		<segment id="176" parent="376" relname="context-background">抖音 也 在 售卖 自己 的 流量 “ Dou+ ” ， // Douyin is also selling its own traffic "Dou+",</segment>
-		<segment id="177" parent="178" relname="context-circumstance">用户 购买 后 ， // After the user purchases,</segment>
-		<segment id="178" parent="376" relname="span">就 可以 在 主页 获得 持续 曝光 ， // You can get continuous exposure on the homepage,</segment>
+		<segment id="175" parent="373" relname="purpose-goal">以 获取 点击率 、 曝光度 。 // To get click - through rate , exposure .</segment>
+		<segment id="176" parent="376" relname="context-background">抖音 也 在 售卖 自己 的 流量 “ Dou+ ” ， // Douyin is also selling its own traffic " Dou+ " ,</segment>
+		<segment id="177" parent="178" relname="context-circumstance">用户 购买 后 ， // After the user purchases ,</segment>
+		<segment id="178" parent="376" relname="span">就 可以 在 主页 获得 持续 曝光 ， // You can get continuous exposure on the homepage ,</segment>
 		<segment id="179" parent="379" relname="same-unit">虚假 新闻 制作者 // fake news maker</segment>
 		<segment id="180" parent="377" relname="mode-means">通过 此 种 方式 // by this way</segment>
-		<segment id="181" parent="377" relname="joint-list">促进 热度 、 // promote heat,</segment>
-		<segment id="182" parent="377" relname="joint-list">牟取 不法 利益 。 // Seek illegitimate interests.</segment>
-		<segment id="183" parent="395" relname="span">3) 相关 法律 规范 不 完善 。 // 3) The relevant legal norms are not perfect.</segment>
+		<segment id="181" parent="377" relname="joint-list">促进 热度 、 // promote heat ,</segment>
+		<segment id="182" parent="377" relname="joint-list">牟取 不法 利益 。 // Seek illegitimate interests .</segment>
+		<segment id="183" parent="395" relname="span">3) 相关 法律 规范 不 完善 。 // 3 ) The relevant legal norms are not perfect .</segment>
 		<segment id="184" parent="386" relname="adversative-concession">《 互联网 新闻 信息 服务 管理 规定 》 在 一定 程度 上 限制 了 抖音 虚假 新闻 的 传播 ， // The Regulations on the Administration of Internet News Information Services have restricted the spread of Douyin fake news to a certain extent .</segment>
 		<segment id="185" parent="386" relname="same-unit">但 缺乏 对 // but lack</segment>
 		<segment id="186" parent="187" relname="elaboration-attribute">不 是 上述 新闻 主体 的 // not the subject of the above news</segment>
@@ -229,15 +229,15 @@
 		<segment id="191" parent="192" relname="elaboration-attribute">专门 规范 网络 新闻 领域 的 // Specialized in regulating the field of network news</segment>
 		<segment id="192" parent="387" relname="span">法律 ， 其 效用 还 需要 执法 人员 的 进一步 发挥 。 // Law , its effectiveness also needs the further development of law enforcement officers .</segment>
 		<segment id="193" parent="389" relname="span">同时 虚假 新闻 制作者 存在 时空 不一致性 ， // At the same time , the producers of fake news have inconsistencies in time and space .</segment>
-		<segment id="194" parent="193" relname="causal-result">相关 责任人 及 实际 违法地 难以 确定 ， // It is difficult to determine the relevant responsible person and the actual illegal location.</segment>
-		<segment id="195" parent="390" relname="joint-list">跨地域性 也 会 使得 管辖权 难 以 明确 ， // Transterritoriality also makes it difficult to define jurisdiction,</segment>
+		<segment id="194" parent="193" relname="causal-result">相关 责任人 及 实际 违法地 难以 确定 ， // It is difficult to determine the relevant responsible person and the actual illegal place .</segment>
+		<segment id="195" parent="390" relname="joint-list">跨地域性 也 会 使得 管辖权 难 以 明确 ， // Transterritoriality also makes it difficult to define jurisdiction ,</segment>
 		<segment id="196" parent="392" relname="span">同时 本法 的 责任 机关 不 是 常规 的 行政 治安 机关 // At the same time , the responsible agency of this law is not a conventional administrative and public security agency .</segment>
 		<segment id="197" parent="198" relname="context-circumstance">在 涉及 执法 管辖权 时 // when it comes to law enforcement jurisdiction</segment>
-		<segment id="198" parent="391" relname="span">往往 无法 进行 有效 沟通 。 // Often fails to communicate effectively.</segment>
-		<segment id="199" parent="414" relname="span">4) 相关 部门 监管 不力 。 // 4) Ineffective supervision by relevant departments.</segment>
+		<segment id="198" parent="391" relname="span">往往 无法 进行 有效 沟通 。 // Often fails to communicate effectively .</segment>
+		<segment id="199" parent="414" relname="span">4) 相关 部门 监管 不力 。 // 4 ) Ineffective supervision by relevant departments .</segment>
 		<segment id="200" parent="397" relname="same-unit">各级 互联网 信息 办公室 是 // Internet Information Offices at all levels are</segment>
 		<segment id="201" parent="202" relname="elaboration-attribute">负责 抖音 虚假 新闻 监督 管理 的 // Responsible for the supervision and management of Douyin fake news</segment>
-		<segment id="202" parent="396" relname="span">主管 部门 ， // competent department,</segment>
+		<segment id="202" parent="396" relname="span">主管 部门 ， // competent department ,</segment>
 		<segment id="203" parent="399" relname="same-unit">但 与 公安 部门 // But with the police department</segment>
 		<segment id="204" parent="205" relname="context-circumstance">在 监管 执法 时 // in regulatory enforcement</segment>
 		<segment id="205" parent="398" relname="span">存在 监管 执法 权力 交叉 和 双方 监管 信息 未 及时 共享 等 问题 。 // There are problems such as overlapping of regulatory and law enforcement powers and failure to share regulatory information between the two parties in a timely manner .</segment>
@@ -246,12 +246,12 @@
 		<segment id="208" parent="209" relname="mode-means">以 寻衅滋事 为 由 // On the grounds of picking quarrels and provoking trouble</segment>
 		<segment id="209" parent="401" relname="span">处以 行政 拘留 // administrative detention</segment>
 		<segment id="210" parent="404" relname="same-unit">而 没有 // without</segment>
-		<segment id="211" parent="212" relname="mode-means">按照 《 互联网 新闻 信息 服务 管理 规定 》 // According to "Internet News Information Service Management Regulations"</segment>
+		<segment id="211" parent="212" relname="mode-means">按照 《 互联网 新闻 信息 服务 管理 规定 》 // According to " Internet News Information Service Management Regulations "</segment>
 		<segment id="212" parent="403" relname="span">由 互联网 信息 办公室 处罚 。 // Penalized by the Internet Information Office .</segment>
 		<segment id="213" parent="409" relname="same-unit">主管 部门 // Competent department</segment>
 		<segment id="214" parent="407" relname="context-circumstance">在 面对 抖音 平台 上 每天 发布 海量 的 信息 // Publishing massive amounts of information every day on the Douyin platform</segment>
-		<segment id="215" parent="407" relname="adversative-contrast">仅 靠 传统 模式 逐个 进行 甄别 ， // Only rely on the traditional mode to screen one by one,</segment>
-		<segment id="216" parent="407" relname="adversative-contrast">而 不 有效 利用 “ 大 数据 ” 等 现代 互联网 技术 ， // Instead of making effective use of modern Internet technologies such as "big data",</segment>
+		<segment id="215" parent="407" relname="adversative-contrast">仅 靠 传统 模式 逐个 进行 甄别 ， // Only rely on the traditional mode to screen one by one ,</segment>
+		<segment id="216" parent="407" relname="adversative-contrast">而 不 有效 利用 “ 大 数据 ” 等 现代 互联网 技术 ， // Instead of making effective use of modern Internet technologies such as " big data " ,</segment>
 		<segment id="217" parent="410" relname="joint-list">则 势必 会 导致 监管 环节 的 薄弱 和 缺位 // It will inevitably lead to the weakness and absence of supervision links .</segment>
 		<segment id="218" parent="410" relname="joint-list">进而 给 执法 带来 重重 挑战 。 // This in turn brings many challenges to law enforcement .</segment>
 		<group id="219" type="span" parent="220" relname="attribution-positive"/>

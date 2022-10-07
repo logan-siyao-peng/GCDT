@@ -1,4 +1,4 @@
-<text id="gum_zh_academic_governance" author="Zhe Chen" dateCollected="2022-01-02" dateCreated="2021-01-12" dateModified="XXXX-XX-XX" shortTitle="governance" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=39705" speakerCount="0" speakerList="none" title="突发疫情下的政府治理研究——以新冠疫情为例" type="academic"/>
+<text id="gum_zh_academic_governance" author="Zhe Chen" dateCollected="2022-01-02" dateCreated="2021-01-12" dateModified="XXXX-XX-XX" shortTitle="governance" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=39705" speakerCount="0" speakerList="none" title="突发疫情下的政府治理研究——以新冠疫情为例" genre="academic"/>
 突发疫情下的政府治理研究——以新冠疫情为例
 
 <section/>

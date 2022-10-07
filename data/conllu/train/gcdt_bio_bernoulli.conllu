@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_bernoulli
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-02-22
+# meta::sourceURL = https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E4%BC%AF%E5%8A%AA%E5%88%A9
+# meta::speakerCount = 0
+# meta::title = 丹尼尔·伯努利
+# meta::shortTitle = bernoulli
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = train
+# sent_id = gcdt_bio_bernoulli-1
+# text = 丹尼尔·伯努利
 1	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	0	root	_	start_char=0|end_char=7
 
+# sent_id = gcdt_bio_bernoulli-2
+# text = 丹尼尔·伯努利（Daniel Bernoulli，1700年2月8日－1782年3月17日），生于荷兰格罗宁根，著名数学家，约翰·伯努利之子，为伯努利家族代表人物之一。
 1	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	15	nsubj	_	start_char=0|end_char=7
 2	（	（	PU	PU	_	4	punct	_	start_char=8|end_char=9
 3	Daniel	Daniel	NR	NR	_	4	name	_	start_char=10|end_char=16
@@ -33,6 +48,8 @@
 31	之一	之一	NN	NN	_	15	conj	_	start_char=110|end_char=112
 32	。	。	PU	PU	_	15	punct	_	start_char=113|end_char=114
 
+# sent_id = gcdt_bio_bernoulli-3
+# text = 其伯努利定律适用于沿着一条流线的稳定、非粘滞、不可压缩流，在流体力学和空气动力学中有关键性的作用。
 1	其	其	PN	PN	_	3	nmod:poss	_	start_char=0|end_char=1
 2	伯努利	伯努利	NR	NR	_	3	compound:nn	_	start_char=2|end_char=5
 3	定律	定律	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -63,8 +80,12 @@
 28	作用	作用	NN	NN	_	25	dobj	_	start_char=73|end_char=75
 29	。	。	PU	PU	_	4	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_bio_bernoulli-4
+# text = 生平
 1	生平	生平	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_bernoulli-5
+# text = 丹尼尔·伯努利出生于荷兰的格罗宁根，但一生大部分时间居住在瑞士巴塞尔。
 1	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	2	nsubj	_	start_char=0|end_char=7
 2	出生	出生	VV	VV	_	0	root	_	start_char=8|end_char=10
 3	于	于	P	P	_	4	case	_	start_char=11|end_char=12
@@ -84,6 +105,8 @@
 17	巴塞尔	巴塞尔	NR	NR	_	14	nmod:prep	_	start_char=47|end_char=50
 18	。	。	PU	PU	_	2	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_bernoulli-6
+# text = 他是约翰·伯努利的儿子、雅各布·伯努利的侄子。
 1	他是	他是	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	约翰·伯努利	约翰·伯努利	NR	NR	_	4	nmod:assmod	_	start_char=3|end_char=9
 3	的	的	DEG	DEG	_	2	case	_	start_char=10|end_char=11
@@ -94,6 +117,8 @@
 8	侄子	侄子	NN	NN	_	0	root	_	start_char=27|end_char=29
 9	。	。	PU	PU	_	8	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_bernoulli-7
+# text = 约翰·伯努利希望他经商，但是他仍然从事数学。
 1	约翰·伯努利	约翰·伯努利	NR	NR	_	2	nsubj	_	start_char=0|end_char=6
 2	希望	希望	VV	VV	_	0	root	_	start_char=7|end_char=9
 3	他	他	PN	PN	_	4	nsubj	_	start_char=10|end_char=11
@@ -106,6 +131,8 @@
 10	数学	数学	NN	NN	_	9	dobj	_	start_char=28|end_char=30
 11	。	。	PU	PU	_	2	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_bernoulli-8
+# text = 据说他和他父亲关系不好。
 1	据说	据说	AD	AD	_	8	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	8	nsubj	_	start_char=3|end_char=4
 3	和	和	P	P	_	5	case	_	start_char=5|end_char=6
@@ -116,6 +143,8 @@
 8	好	好	VA	VA	_	0	root	_	start_char=17|end_char=18
 9	。	。	PU	PU	_	8	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_bio_bernoulli-9
+# text = 在他们同时参加并试图获得巴黎大学的科学竞赛的第一名时，约翰因为不能承受和他的后代做比较的“羞耻”，把丹尼尔逐出他的家族。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	他们	他	PN	PN	_	4	nsubj	_	start_char=2|end_char=4
 3	同时	同时	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -157,6 +186,8 @@
 39	家族	家族	NN	NN	_	36	dobj	_	start_char=95|end_char=97
 40	。	。	PU	PU	_	36	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_bio_bernoulli-10
+# text = 约翰还曾试图盗窃丹尼尔的著作《Hydrodynamica》（流体力学）并把它重新命名为《Hydraulica》。
 1	约翰	约翰	NR	NR	_	4	nsubj	_	start_char=0|end_char=2
 2	还	还	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	曾	曾	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -183,6 +214,8 @@
 24	》	》	PU	PU	_	23	punct	_	start_char=77|end_char=78
 25	。	。	PU	PU	_	4	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_bio_bernoulli-11
+# text = 虽然丹尼尔试图妥协，他父亲至死不愿和解。
 1	虽然	虽然	CS	CS	_	3	advmod	_	start_char=0|end_char=2
 2	丹尼尔	丹尼尔	NR	NR	_	3	nsubj	_	start_char=3|end_char=6
 3	试图	试图	VV	VV	_	12	dep	_	start_char=7|end_char=9
@@ -197,6 +230,8 @@
 12	和解	和解	VV	VV	_	0	root	_	start_char=28|end_char=30
 13	。	。	PU	PU	_	12	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_bernoulli-12
+# text = 他是欧拉的同时代人，也是密友。
 1	他	他	PN	PN	_	7	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	7	cop	_	start_char=2|end_char=3
 3	欧拉	欧拉	NR	NR	_	7	nmod:assmod	_	start_char=4|end_char=6
@@ -210,6 +245,8 @@
 11	密友	密友	NN	NN	_	7	conj	_	start_char=22|end_char=24
 12	。	。	PU	PU	_	7	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_bio_bernoulli-13
+# text = 和欧拉在欧拉-伯努力栋梁方程上有过合作。
 1	和	和	P	P	_	2	case	_	start_char=0|end_char=1
 2	欧拉	欧拉	NR	NR	_	8	nmod:prep	_	start_char=2|end_char=4
 3	在	在	P	P	_	6	case	_	start_char=5|end_char=6
@@ -222,6 +259,8 @@
 10	合作	合作	NN	NN	_	8	dobj	_	start_char=26|end_char=28
 11	。	。	PU	PU	_	8	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_bio_bernoulli-14
+# text = 他于1724年前往圣彼得堡出任数学教授，但不喜欢那里。
 1	他	他	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	于	于	P	P	_	3	case	_	start_char=2|end_char=3
 3	1724年	1724年	NT	NT	_	4	nmod:prep	_	start_char=4|end_char=9
@@ -237,6 +276,8 @@
 13	那里	那里	PN	PN	_	12	dobj	_	start_char=36|end_char=38
 14	。	。	PU	PU	_	4	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_bio_bernoulli-15
+# text = 1733年一场短暂的病给了他离开那里的理由。
 1	1733年	1733年	NT	NT	_	7	nmod:tmod	_	start_char=0|end_char=5
 2	一	一	CD	CD	_	6	nummod	_	start_char=6|end_char=7
 3	场	场	M	M	_	2	mark:clf	_	start_char=8|end_char=9
@@ -252,6 +293,8 @@
 13	理由	理由	NN	NN	_	7	dobj	_	start_char=31|end_char=33
 14	。	。	PU	PU	_	7	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_bio_bernoulli-16
+# text = 他回到巴塞尔大学，在那里他曾陆续担任医学、形而上学和自然哲学的教授直至去世。
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	回到	回到	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	巴塞尔	巴塞尔	NR	NR	_	4	compound:nn	_	start_char=5|end_char=8
@@ -275,9 +318,13 @@
 21	去世	去世	VV	VV	_	11	conj	_	start_char=55|end_char=57
 22	。	。	PU	PU	_	2	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_bio_bernoulli-17
+# text = 学术成就
 1	学术	学术	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	成就	成就	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_bernoulli-18
+# text = 他最早的数学著作是《数学习题》（Exercitationes），它发表于1724年，包含了对里卡蒂方程的一个解法。
 1	他	他	PN	PN	_	5	dep	_	start_char=0|end_char=1
 2	最早	最早	JJ	JJ	_	5	amod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -307,6 +354,8 @@
 27	解法	解法	NN	NN	_	19	dobj	_	start_char=80|end_char=82
 28	。	。	PU	PU	_	8	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_bio_bernoulli-19
+# text = 两年后，他第一次指出求解复合运动经常需要把运动分解为平移和转动。
 1	两	两	CD	CD	_	8	advmod:loc	_	start_char=0|end_char=1
 2	年	年	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	后	后	LC	LC	_	1	case	_	start_char=4|end_char=5
@@ -329,6 +378,8 @@
 20	转动	转动	NN	NN	_	16	dobj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	8	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_bernoulli-20
+# text = 他的主要著作是《流体力学》（Hydrodynamique），发表于1738年；它类似于拉格朗日的《分析力学》，书中所有的结果都是一个原理的推论，也就是能量守恒。
 1	他	他	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	主要	主要	JJ	JJ	_	4	amod	_	start_char=4|end_char=6
@@ -375,6 +426,8 @@
 44	守恒	守恒	NN	NN	_	38	conj	_	start_char=120|end_char=122
 45	。	。	PU	PU	_	14	punct	_	start_char=123|end_char=124
 
+# sent_id = gcdt_bio_bernoulli-21
+# text = 随后他写了一部关于潮汐理论的论文集，和欧拉以及马克劳林的论文集一起获得了法国科学院的一个奖励：这三部论文集包含了该主题从牛顿的《自然哲学的数学原理》的发表和拉普拉斯的研究之间的所有成果。
 1	随后	随后	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	写	写	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -433,6 +486,8 @@
 56	成果	成果	NN	NN	_	33	dobj	_	start_char=145|end_char=147
 57	。	。	PU	PU	_	3	punct	_	start_char=148|end_char=149
 
+# sent_id = gcdt_bio_bernoulli-22
+# text = 伯努利也发表了大量关于不同机械问题的论文，特别是关于振动弦问题的，以及布鲁克·泰勒和达朗贝尔的解法。
 1	伯努利	伯努利	NR	NR	_	3	nsubj	_	start_char=0|end_char=3
 2	也	也	AD	AD	_	3	advmod	_	start_char=4|end_char=5
 3	发表	发表	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -460,6 +515,8 @@
 25	解法	解法	NN	NN	_	3	dobj	_	start_char=71|end_char=73
 26	。	。	PU	PU	_	3	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_bio_bernoulli-23
+# text = 他是最早试图采用数学方式表述分子运动论的人，而且他试图用这一方式解释波义耳定律，这是和波义耳以及马略特相关的定律。
 1	他	他	PN	PN	_	13	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	13	cop	_	start_char=2|end_char=3
 3	最早	最早	AD	AD	_	4	advmod	_	start_char=4|end_char=6
@@ -496,6 +553,8 @@
 34	定律	定律	NN	NN	_	13	conj	_	start_char=87|end_char=89
 35	。	。	PU	PU	_	13	punct	_	start_char=90|end_char=91
 
+# sent_id = gcdt_bio_bernoulli-24
+# text = 1760年,丹尼尔·伯努利曾怀疑静电的吸引行为遵循平方反比定律。-LSB-1-RSB-:51
 1	1760年	1760年	NT	NT	_	5	nmod:tmod	_	start_char=0|end_char=5
 2	,	,	PU	PU	_	5	punct	_	start_char=6|end_char=7
 3	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	5	nsubj	_	start_char=8|end_char=15
@@ -516,6 +575,8 @@
 18	:	:	X	X	_	19	dep	_	start_char=60|end_char=61
 19	51	51	CD	CD	_	5	dep	_	start_char=62|end_char=64
 
+# sent_id = gcdt_bio_bernoulli-25
+# text = 丹尼尔·伯努利也是1738年的“风险度量的新理论的讨论”的作者，（《经济学》第22卷（1954年），23-36页；《斯坦福哲学百科全书》），其中，圣彼得堡佯谬是风险趋避，风险贴水和效用的经济理论的基础。
 1	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	16	nsubj	_	start_char=0|end_char=7
 2	也	也	AD	AD	_	16	advmod	_	start_char=8|end_char=9
 3	是	是	VC	VC	_	16	cop	_	start_char=10|end_char=11
@@ -575,6 +636,8 @@
 57	基础	基础	NN	NN	_	16	conj	_	start_char=154|end_char=156
 58	。	。	PU	PU	_	16	punct	_	start_char=157|end_char=158
 
+# sent_id = gcdt_bio_bernoulli-26
+# text = “风险度量的新理论的讨论”值得注意的是它并非自然科学领域，是丹尼尔．伯努利一项开拓性贡献的经济理论。
 1	“	“	PU	PU	_	8	punct	_	start_char=0|end_char=1
 2	风险	风险	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	度量	度量	NN	NN	_	8	nmod:assmod	_	start_char=5|end_char=7
@@ -606,6 +669,8 @@
 29	理论	理论	NN	NN	_	19	conj	_	start_char=75|end_char=77
 30	。	。	PU	PU	_	19	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_bernoulli-27
+# text = “风险度量的新理论的讨论”，该文件是写在拉丁美洲，研究期刊则发表在圣彼得堡翰林院。
 1	“	“	PU	PU	_	8	punct	_	start_char=0|end_char=1
 2	风险	风险	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	度量	度量	NN	NN	_	8	nmod:assmod	_	start_char=5|end_char=7
@@ -632,6 +697,8 @@
 24	翰林院	翰林院	NN	NN	_	21	nmod:prep	_	start_char=60|end_char=63
 25	。	。	PU	PU	_	14	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_bio_bernoulli-28
+# text = 考虑一个游戏，不断地掷同一枚硬币，直到得到正面为止，如果你掷了X次才最终得到正面，你将获得2^(X-1)元。
 1	考虑	考虑	VV	VV	_	34	dep	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	4	nummod	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -670,6 +737,8 @@
 36	元	元	NN	NN	_	34	dobj	_	start_char=87|end_char=88
 37	。	。	PU	PU	_	34	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_bio_bernoulli-29
+# text = 游戏的报名费是100万元，就我们平常来看，这个游戏真的赚不了什么钱，也就不会去参加。
 1	游戏	游戏	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	报名费	报名费	NN	NN	_	4	nsubj	_	start_char=5|end_char=8
@@ -700,6 +769,8 @@
 28	参加	参加	VV	VV	_	4	conj	_	start_char=66|end_char=68
 29	。	。	PU	PU	_	4	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_bio_bernoulli-30
+# text = 不过，如果我们考虑到这个游戏的期望收益是无穷大，我们就应该参加。
 1	不过	不过	AD	AD	_	20	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	20	punct	_	start_char=3|end_char=4
 3	如果	如果	CS	CS	_	5	advmod	_	start_char=5|end_char=7
@@ -722,6 +793,8 @@
 20	参加	参加	VV	VV	_	0	root	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	20	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_bernoulli-31
+# text = 这就是所谓的圣彼得堡悖论。
 1	这	这	PN	PN	_	7	nsubj	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	7	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	7	cop	_	start_char=4|end_char=5
@@ -731,6 +804,8 @@
 7	悖论	悖论	NN	NN	_	0	root	_	start_char=16|end_char=18
 8	。	。	PU	PU	_	7	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_bio_bernoulli-32
+# text = 丹尼尔．伯努利提出一个理论解决了这个悖论，他得出了一条原理，“财富越多人越满足，然而随着财富的增加，满足程度的增加速度不断下降”。
 1	丹尼尔．伯努利	丹尼尔．伯努利	NR	NR	_	2	nsubj	_	start_char=0|end_char=7
 2	提出	提出	VV	VV	_	0	root	_	start_char=8|end_char=10
 3	一	一	CD	CD	_	5	nummod	_	start_char=11|end_char=12
@@ -773,6 +848,8 @@
 40	”	”	PU	PU	_	39	punct	_	start_char=102|end_char=103
 41	。	。	PU	PU	_	2	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_bio_bernoulli-33
+# text = 也就是现在我们所说的“边际效用递减”。
 1	也	也	AD	AD	_	12	advmod	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	12	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	12	cop	_	start_char=4|end_char=5
@@ -788,6 +865,8 @@
 13	”	”	PU	PU	_	12	punct	_	start_char=29|end_char=30
 14	。	。	PU	PU	_	12	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_bernoulli-34
+# text = 财富从无到有，和从有很多到有更多，效用是完全不一样的。
 1	财富	财富	NN	NN	_	20	nsubj	_	start_char=0|end_char=2
 2	从	从	P	P	_	5	dep	_	start_char=3|end_char=4
 3	无	无	VE	VE	_	5	dep	_	start_char=5|end_char=6
@@ -811,6 +890,8 @@
 21	的	的	SP	SP	_	20	discourse	_	start_char=45|end_char=46
 22	。	。	PU	PU	_	5	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_bio_bernoulli-35
+# text = 1766年，丹尼尔·伯努利第一次尝试用统计数据分析问题。
 1	1766年	1766年	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	6	punct	_	start_char=6|end_char=7
 3	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	6	nsubj	_	start_char=8|end_char=15
@@ -824,6 +905,8 @@
 11	问题	问题	NN	NN	_	10	dobj	_	start_char=35|end_char=37
 12	。	。	PU	PU	_	6	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_bernoulli-36
+# text = 当时的数据目前仍被保存着，这个数据被用来分析天花的传播和死亡率，并以此证明疫苗的效力。
 1	当时	当时	NT	NT	_	3	nmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	数据	数据	NN	NN	_	7	nsubj	_	start_char=5|end_char=7
@@ -854,6 +937,8 @@
 28	效力	效力	NN	NN	_	25	dobj	_	start_char=67|end_char=69
 29	。	。	PU	PU	_	7	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_bio_bernoulli-37
+# text = 现在一些经济学家认为“风险度量的新理论的讨论”可作为经济学的基础论。
 1	现在	现在	NT	NT	_	4	nmod:tmod	_	start_char=0|end_char=2
 2	一些	一些	CD	CD	_	3	dep	_	start_char=3|end_char=5
 3	经济学家	经济学家	NN	NN	_	4	nsubj	_	start_char=6|end_char=10
@@ -874,6 +959,8 @@
 18	基础论	基础论	NN	NN	_	15	dobj	_	start_char=47|end_char=50
 19	。	。	PU	PU	_	4	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_bio_bernoulli-38
+# text = 然而边际效用的这个想法在当时的100年后的捷文斯的眼里是不合时宜的，所以他建立了独立的预期效用理论。
 1	然而	然而	AD	AD	_	20	advmod	_	start_char=0|end_char=2
 2	边际	边际	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	效用	效用	NN	NN	_	7	nmod:assmod	_	start_char=6|end_char=8
@@ -908,6 +995,8 @@
 32	理论	理论	NN	NN	_	26	dobj	_	start_char=78|end_char=80
 33	。	。	PU	PU	_	26	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_bio_bernoulli-39
+# text = 200年后，数学家冯诺依曼和经济学家摩根斯坦发表了一个大著“博弈论与经济行为”。
 1	200	200	CD	CD	_	10	advmod:loc	_	start_char=0|end_char=3
 2	年	年	M	M	_	1	mark:clf	_	start_char=4|end_char=5
 3	后	后	LC	LC	_	1	case	_	start_char=6|end_char=7

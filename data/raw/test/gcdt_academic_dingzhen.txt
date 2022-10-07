@@ -1,4 +1,4 @@
-<text id="gum_zh_academic_dingzhen" author="Siyi Zhang, Sinuo Zhang, Yuan Meng" dateCollected="2022-01-02" dateCreated="2021-08-12" dateModified="XXXX-XX-XX" shortTitle="dingzhen" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=44511" speakerCount="0" speakerList="none" title="狂欢与凝视：颜值消费与田园回归——以“藏族小伙丁真爆红”事件为例" type="academic"/>
+<text id="gum_zh_academic_dingzhen" author="Siyi Zhang, Sinuo Zhang, Yuan Meng" dateCollected="2022-01-02" dateCreated="2021-08-12" dateModified="XXXX-XX-XX" shortTitle="dingzhen" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=44511" speakerCount="0" speakerList="none" title="狂欢与凝视：颜值消费与田园回归——以“藏族小伙丁真爆红”事件为例" genre="academic"/>
 狂欢与凝视：颜值消费与田园回归——以“藏族小伙丁真爆红”事件为例
 
 <section/>

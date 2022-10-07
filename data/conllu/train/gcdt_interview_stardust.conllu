@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_stardust
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = 2006-06-01
+# meta::dateModified = 2006-07-03
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E7%BB%B4%E5%9F%BA%E8%AE%B0%E8%80%85%E7%8B%AC%E5%AE%B6%E9%87%87%E8%AE%BF%E6%98%9F%E5%B0%98%E8%AE%A1%E5%88%92%E8%B4%9F%E8%B4%A3%E4%BA%BA
+# meta::speakerCount = 2
+# meta::title = 维基记者独家采访星尘计划负责人
+# meta::shortTitle = stardust
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_stardust-1
+# text = 维基记者独家采访星尘计划负责人
 1	维基	维基	NR	NR	_	2	compound:nn	_	start_char=0|end_char=2
 2	记者	记者	NN	NN	_	4	nsubj	_	start_char=3|end_char=5
 3	独家	独家	AD	AD	_	4	advmod	_	start_char=6|end_char=8
@@ -6,6 +19,8 @@
 6	计划	计划	NN	NN	_	7	compound:nn	_	start_char=15|end_char=17
 7	负责人	负责人	NN	NN	_	4	dobj	_	start_char=18|end_char=21
 
+# sent_id = gcdt_interview_stardust-2
+# text = 【2006年6月1日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2006年	2006年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	6月	6月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -13,6 +28,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=14|end_char=15
 6	】	】	PU	PU	_	5	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_stardust-3
+# text = 星尘是 NASA 发射的一艘用于采集深空中被称为 81P/Wild (也称为 Wild 2 ) 彗星样本的飞行器, 它已于2006年1月15日返回地球.
 1	星尘	星尘	NN	NN	_	13	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	13	cop	_	start_char=3|end_char=4
 3	NASA	NASA	NR	NR	_	4	nsubj	_	start_char=5|end_char=9
@@ -52,6 +69,8 @@
 37	地球	地球	NN	NN	_	36	dobj	_	start_char=100|end_char=102
 38	.	.	PU	PU	_	13	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_interview_stardust-4
+# text = 现在有一项与其相关的在线协作计划, 将 “检视” 星尘飞行器所采集到的细微样本. 
 1	现在	现在	NT	NT	_	2	nmod:tmod	_	start_char=0|end_char=2
 2	有	有	VE	VE	_	0	root	_	start_char=3|end_char=4
 3	一	一	CD	CD	_	24	nummod	_	start_char=5|end_char=6
@@ -78,6 +97,8 @@
 24	样本	样本	NN	NN	_	2	dobj	_	start_char=57|end_char=59
 25	.	.	PU	PU	_	2	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_interview_stardust-5
+# text = 这个计划的正式名称是 Stardust@home. 
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	计划	计划	NN	NN	_	6	nmod:assmod	_	start_char=4|end_char=6
@@ -88,6 +109,8 @@
 8	Stardust@home	Stardust@home	URL	URL	_	0	root	_	start_char=17|end_char=30
 9	.	.	PU	PU	_	8	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_interview_stardust-6
+# text = 不像如 SETI@home 那样的分布式计算计划, Stardust@home 完全依赖于人类的判断能力.
 1	不	不	AD	AD	_	2	neg	_	start_char=0|end_char=1
 2	像	像	P	P	_	9	case	_	start_char=2|end_char=3
 3	如	如	P	P	_	4	case	_	start_char=4|end_char=5
@@ -107,6 +130,8 @@
 17	能力	能力	NN	NN	_	13	dobj	_	start_char=62|end_char=64
 18	.	.	PU	PU	_	13	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_interview_stardust-7
+# text = Andrew Westphal 先生是 Stardust@home 计划的负责人，维基记者在2006年5月18日独家采访了他. 
 1	Andrew	Andrew	NR	NR	_	3	compound:nn	_	start_char=0|end_char=6
 2	Westphal	Westphal	NR	NR	_	3	compound:nn	_	start_char=7|end_char=15
 3	先生	先生	NN	NN	_	8	nsubj	_	start_char=16|end_char=18
@@ -128,6 +153,8 @@
 19	他	他	PN	PN	_	17	dobj	_	start_char=75|end_char=76
 20	.	.	PU	PU	_	8	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_interview_stardust-8
+# text = 如通常一样, 本次采访在 IRC 上举行, 有多人进行了发问.
 1	如	如	AD	AD	_	3	advmod	_	start_char=0|end_char=1
 2	通常	通常	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	一样	一样	VA	VA	_	0	root	_	start_char=5|end_char=7
@@ -147,6 +174,8 @@
 17	发问	发问	NN	NN	_	15	dobj	_	start_char=40|end_char=42
 18	.	.	PU	PU	_	3	punct	_	start_char=43|end_char=44
 
+# sent_id = gcdt_interview_stardust-9
+# text = 可能有些人仍然不太清楚星尘计划或 Stardust@home. 
 1	可能	可能	AD	AD	_	7	advmod	_	start_char=0|end_char=2
 2	有些	有些	DT	DT	_	3	det	_	start_char=3|end_char=5
 3	人	人	NN	NN	_	7	nsubj	_	start_char=6|end_char=7
@@ -160,6 +189,8 @@
 11	Stardust@home	Stardust@home	URL	URL	_	7	dep	_	start_char=26|end_char=39
 12	.	.	PU	PU	_	7	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_interview_stardust-10
+# text = 你能稍微给大家解释一下吗?
 1	你	你	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	能	能	VV	VV	_	6	aux:modal	_	start_char=2|end_char=3
 3	稍微	稍微	AD	AD	_	6	advmod	_	start_char=4|end_char=6
@@ -170,6 +201,8 @@
 8	吗	吗	SP	SP	_	9	discourse	_	start_char=18|end_char=19
 9	?	?	PU	PU	_	0	root	_	start_char=20|end_char=21
 
+# sent_id = gcdt_interview_stardust-11
+# text = 星尘计划是美国航空航天局(NASA)1999年启动的一项探索任务. 
 1	星尘	星尘	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	计划	计划	NN	NN	_	16	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	16	cop	_	start_char=6|end_char=7
@@ -188,6 +221,8 @@
 16	任务	任务	NN	NN	_	0	root	_	start_char=45|end_char=47
 17	.	.	PU	PU	_	16	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_interview_stardust-12
+# text = 该项任务实际包含两个部分. 
 1	该	该	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	项	项	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	任务	任务	NN	NN	_	5	nsubj	_	start_char=4|end_char=6
@@ -198,6 +233,8 @@
 8	部分	部分	NN	NN	_	5	dobj	_	start_char=17|end_char=19
 9	.	.	PU	PU	_	5	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_interview_stardust-13
+# text = 主要的科学任务是从太阳系内一颗古老的天体－即被称为 Wild2 (读作 "Vilt-2" -- 我想发现者是德国人)的彗星中采集样本. 
 1	主要	主要	JJ	JJ	_	4	amod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	科学	科学	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -236,6 +273,8 @@
 36	样本	样本	NN	NN	_	27	ccomp	_	start_char=94|end_char=96
 37	.	.	PU	PU	_	17	punct	_	start_char=97|end_char=98
 
+# sent_id = gcdt_interview_stardust-14
+# text = 这是美国自阿波罗任务后第一次进行这类 "带回样本" 任务, 同时也说第一次从比月球更远的星体进行此类任务. 
 1	这	这	PN	PN	_	10	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	10	cop	_	start_char=2|end_char=3
 3	美国	美国	NR	NR	_	10	nsubj	_	start_char=4|end_char=6
@@ -272,12 +311,16 @@
 34	任务	任务	NN	NN	_	31	dobj	_	start_char=80|end_char=82
 35	.	.	PU	PU	_	10	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_interview_stardust-15
+# text = 这里我解释一下. 
 1	这里	这里	PN	PN	_	3	nmod:topic	_	start_char=0|end_char=2
 2	我	我	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	解释	解释	VV	VV	_	0	root	_	start_char=5|end_char=7
 4	一下	一下	AD	AD	_	3	advmod	_	start_char=8|end_char=10
 5	.	.	PU	PU	_	3	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_interview_stardust-16
+# text = 我说的 "带回样本" 不只是将地球以外的物质带回来. 
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	说	说	VV	VV	_	5	dep	_	start_char=2|end_char=3
 3	的	的	DEC	DEC	_	2	mark	_	start_char=4|end_char=5
@@ -297,6 +340,8 @@
 17	回来	回来	VV	VV	_	16	advmod:rcomp	_	start_char=37|end_char=39
 18	.	.	PU	PU	_	16	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_interview_stardust-17
+# text = 而是第一次把 "固体" 样本带回地球 -- “起源号飞行器”(Genesis)在两年前曾把一些太阳气体样本带回过地球, 但星尘计划是第一次带回来自于本星际介质的固体样本 -- 简单来说就是来自本星系"银河"的样本. 
 1	而	而	AD	AD	_	10	advmod	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	10	cop	_	start_char=2|end_char=3
 3	第一	第一	OD	OD	_	10	dep	_	start_char=4|end_char=6
@@ -359,6 +404,8 @@
 60	样本	样本	NN	NN	_	10	conj	_	start_char=156|end_char=158
 61	.	.	PU	PU	_	10	punct	_	start_char=159|end_char=160
 
+# sent_id = gcdt_interview_stardust-18
+# text = 这是空前的, 我们对此非常期待. 
 1	这	这	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	3	cop	_	start_char=2|end_char=3
 3	空前	空前	VA	VA	_	0	root	_	start_char=4|end_char=6
@@ -371,6 +418,8 @@
 10	期待	期待	VV	VV	_	3	dep	_	start_char=21|end_char=23
 11	.	.	PU	PU	_	3	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_interview_stardust-19
+# text = 我还要附带推荐一下当时的发射视频 -- 发射使用的POV火箭视频你可以在喷气推进实验室(JPL)的星尘计划网站上找到 -- 高度推荐你看一看 -- 这是我所见过中间最好的 -- 可以从发射台的任意地方看到. 
 1	我	我	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	还	还	AD	AD	_	4	advmod	_	start_char=2|end_char=3
 3	要	要	VV	VV	_	4	xcomp	_	start_char=4|end_char=5
@@ -430,16 +479,22 @@
 57	看到	看到	VV	VV	_	45	conj	_	start_char=148|end_char=150
 58	.	.	PU	PU	_	4	punct	_	start_char=151|end_char=152
 
+# sent_id = gcdt_interview_stardust-20
+# text = 基本行星际的路线. 
 1	基本	基本	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	行星际	行星际	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
 4	路线	路线	NN	NN	_	0	root	_	start_char=9|end_char=11
 5	.	.	PU	PU	_	4	punct	_	start_char=12|end_char=13
 
+# sent_id = gcdt_interview_stardust-21
+# text = 绝对棒.
 1	绝对	绝对	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	棒	棒	VA	VA	_	0	root	_	start_char=3|end_char=4
 3	.	.	PU	PU	_	2	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_interview_stardust-22
+# text = 你是说视频对公众开放?
 1	你	你	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	3	cop	_	start_char=2|end_char=3
 3	说	说	VV	VV	_	0	root	_	start_char=4|end_char=5
@@ -449,10 +504,14 @@
 7	开放	开放	VV	VV	_	3	ccomp	_	start_char=14|end_char=16
 8	?	?	PU	PU	_	3	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_stardust-23
+# text = 是的. 
 1	是	是	VC	VC	_	3	dep	_	start_char=0|end_char=1
 2	的	的	SP	SP	_	3	discourse	_	start_char=2|end_char=3
 3	.	.	PU	PU	_	0	root	_	start_char=4|end_char=5
 
+# sent_id = gcdt_interview_stardust-24
+# text = OK, 我有点离题了. 
 1	OK	OK	VA	VA	_	0	root	_	start_char=0|end_char=2
 2	,	,	PU	PU	_	1	punct	_	start_char=3|end_char=4
 3	我	我	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -461,6 +520,8 @@
 6	了	了	SP	SP	_	5	dep	_	start_char=13|end_char=14
 7	.	.	PU	PU	_	1	punct	_	start_char=15|end_char=16
 
+# sent_id = gcdt_interview_stardust-25
+# text = 我们对这些星际尘埃粒子进行任何分析前所面临的第一个挑战, 是如何是找到它们! 
 1	我们	我	PN	PN	_	7	nsubj	_	start_char=0|end_char=2
 2	对	对	P	P	_	6	case	_	start_char=3|end_char=4
 3	这些	这些	DT	DT	_	6	det	_	start_char=5|end_char=7
@@ -485,6 +546,8 @@
 22	它们	它	PN	PN	_	21	dobj	_	start_char=55|end_char=57
 23	!	!	PU	PU	_	7	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_interview_stardust-26
+# text = 这实际上是个大问题, 因为这些尘埃太小了(正常情况是微米大小) 而在巨大的采集器里到处都是它们 (我们无法知道它在哪里) -- 采集器体积对于粒子的大小来说是巨大的 -- 大约有 0.1 平方米. 
 1	这	这	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	实际	实际	NN	NN	_	7	advmod:loc	_	start_char=2|end_char=4
 3	上	上	LC	LC	_	2	case	_	start_char=5|end_char=6
@@ -542,9 +605,13 @@
 55	平方米	平方米	M	M	_	54	mark:clf	_	start_char=139|end_char=142
 56	.	.	PU	PU	_	7	punct	_	start_char=143|end_char=144
 
+# sent_id = gcdt_interview_stardust-27
+# text = 所以...
 1	所以	所以	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	...	...	NN	NN	_	0	root	_	start_char=3|end_char=6
 
+# sent_id = gcdt_interview_stardust-28
+# text = 我们现在使用一个几年前我们开发用于核天体物理学的自动显微镜来检测采集器. 
 1	我们	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	现在	现在	NT	NT	_	3	nmod:tmod	_	start_char=3|end_char=5
 3	使用	使用	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -566,6 +633,8 @@
 19	采集器	采集器	NN	NN	_	18	dobj	_	start_char=50|end_char=53
 20	.	.	PU	PU	_	3	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_interview_stardust-29
+# text = 这个显微镜位于约翰逊太空中心31号楼的宇宙尘埃实验室. 
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	个	个	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	显微镜	显微镜	NN	NN	_	4	nsubj	_	start_char=4|end_char=7
@@ -581,6 +650,8 @@
 13	实验室	实验室	NN	NN	_	4	dobj	_	start_char=35|end_char=38
 14	.	.	PU	PU	_	4	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_interview_stardust-30
+# text = ARES小组负责掌管所有带回地球来的尘埃样本 (包括月球火箭, 起源号, 陨石甚至还有U2飞机在同温层搜集的行星际尘埃颗粒). 
 1	ARES	ARES	NR	NR	_	2	compound:nn	_	start_char=0|end_char=4
 2	小组	小组	NN	NN	_	3	nsubj	_	start_char=5|end_char=7
 3	负责	负责	VV	VV	_	0	root	_	start_char=8|end_char=10
@@ -614,6 +685,8 @@
 31	)	)	PU	PU	_	3	punct	_	start_char=88|end_char=89
 32	.	.	PU	PU	_	3	punct	_	start_char=90|end_char=91
 
+# sent_id = gcdt_interview_stardust-31
+# text = 显微镜在气凝胶采集器中拍摄下一幅幅数字图像, 然后按顺序把图像发给我们 -- 我们再把图像进行压缩并转换为适合 Stardust@home 项目的格式.
 1	显微镜	显微镜	NN	NN	_	6	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	4	case	_	start_char=4|end_char=5
 3	气凝胶	气凝胶	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -650,6 +723,8 @@
 34	格式	格式	NN	NN	_	28	dobj	_	start_char=101|end_char=103
 35	.	.	PU	PU	_	6	punct	_	start_char=104|end_char=105
 
+# sent_id = gcdt_interview_stardust-32
+# text = Stardust@home 是一个高度分布式的项目, 使用者通过使用网页上一架用 html 和 javascript 语言编写的 "虚拟显微镜" 进行检视 -- 不需要下载. 
 1	Stardust@home	Stardust@home	URL	URL	_	8	nsubj	_	start_char=0|end_char=13
 2	是	是	VC	VC	_	8	cop	_	start_char=14|end_char=15
 3	一	一	CD	CD	_	8	nummod	_	start_char=16|end_char=17
@@ -685,6 +760,8 @@
 33	下载	下载	VV	VV	_	28	conj	_	start_char=106|end_char=108
 34	.	.	PU	PU	_	8	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_interview_stardust-33
+# text = 这种设定在大部分网络浏览器上都可以使用. 
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	设定	设定	NN	NN	_	12	nsubj	_	start_char=4|end_char=6
@@ -699,6 +776,8 @@
 12	使用	使用	VV	VV	_	0	root	_	start_char=28|end_char=30
 13	.	.	PU	PU	_	12	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_interview_stardust-34
+# text = 志愿者可以通过这架虚拟显微镜, 找寻到采集器中星际尘埃粒子的轨迹.
 1	志愿者	志愿者	NN	NN	_	9	nsubj	_	start_char=0|end_char=3
 2	可以	可以	VV	VV	_	9	aux:modal	_	start_char=4|end_char=6
 3	通过	通过	P	P	_	7	case	_	start_char=7|end_char=9
@@ -718,6 +797,8 @@
 17	轨迹	轨迹	NN	NN	_	9	dobj	_	start_char=45|end_char=47
 18	.	.	PU	PU	_	9	punct	_	start_char=48|end_char=49
 
+# sent_id = gcdt_interview_stardust-35
+# text = 你们预期在这计划中能找到多少尘埃样本?
 1	你们	你们	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	预期	预期	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	在	在	P	P	_	5	case	_	start_char=6|end_char=7
@@ -731,12 +812,16 @@
 11	样本	样本	NN	NN	_	8	dobj	_	start_char=26|end_char=28
 12	?	?	PU	PU	_	2	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_interview_stardust-36
+# text = 很好的问题. 
 1	很	很	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	好	好	JJ	JJ	_	4	amod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
 4	问题	问题	NN	NN	_	0	root	_	start_char=6|end_char=8
 5	.	.	PU	PU	_	4	punct	_	start_char=9|end_char=10
 
+# sent_id = gcdt_interview_stardust-37
+# text = 简单来说我们不知道能找到多少. 
 1	简单来说	简单来说	AD	AD	_	4	advmod	_	start_char=0|end_char=4
 2	我们	我	PN	PN	_	4	nsubj	_	start_char=5|end_char=7
 3	不	不	AD	AD	_	4	neg	_	start_char=8|end_char=9
@@ -746,6 +831,8 @@
 7	多少	多少	CD	CD	_	6	nmod:range	_	start_char=18|end_char=20
 8	.	.	PU	PU	_	4	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_stardust-38
+# text = 准确来解释这一点有些复杂. 
 1	准确	准确	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	来	来	VV	VV	_	3	xcomp	_	start_char=3|end_char=4
 3	解释	解释	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -756,6 +843,8 @@
 8	复杂	复杂	VA	VA	_	3	ccomp	_	start_char=17|end_char=19
 9	.	.	PU	PU	_	3	punct	_	start_char=20|end_char=21
 
+# sent_id = gcdt_interview_stardust-39
+# text = 我告诉你我们知道的吧. 
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	告诉	告诉	VV	VV	_	8	dep	_	start_char=2|end_char=4
 3	你	你	PN	PN	_	2	dobj	_	start_char=5|end_char=6
@@ -765,6 +854,8 @@
 7	吧	吧	SP	SP	_	8	discourse	_	start_char=15|end_char=16
 8	.	.	PU	PU	_	0	root	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_stardust-40
+# text = 伽利略号和尤利西斯号等飞船上的尘埃探测器曾对太阳系尘埃做过一些测量, Eberhard Gruen 和他的同事分析过当时测定的星际尘埃通量. 
 1	伽利略号	伽利略号	NR	NR	_	3	conj	_	start_char=0|end_char=4
 2	和	和	CC	CC	_	3	cc	_	start_char=5|end_char=6
 3	尤利西斯号	尤利西斯号	NR	NR	_	5	nmod:assmod	_	start_char=7|end_char=12
@@ -799,6 +890,8 @@
 32	通量	通量	VV	VV	_	25	ccomp	_	start_char=95|end_char=97
 33	.	.	PU	PU	_	14	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_interview_stardust-41
+# text = (这是一种星际"风", 风的起因是由于我们的太阳系穿越过本星际介质而引起的.) 
 1	(	(	PU	PU	_	8	punct	_	start_char=0|end_char=1
 2	这	这	PN	PN	_	8	nsubj	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	8	cop	_	start_char=4|end_char=5
@@ -828,6 +921,8 @@
 27	.	.	PU	PU	_	8	punct	_	start_char=62|end_char=63
 28	)	)	PU	PU	_	8	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_interview_stardust-42
+# text = Markus Landgraf 对星尘号, 在两个行星际轨道阶段中, 所捕获的星际尘埃粒子也做过估算, 当时飞行器正在星际风中飞行. 
 1	Markus	Markus	NR	NR	_	2	name	_	start_char=0|end_char=6
 2	Landgraf	Landgraf	NR	NR	_	21	nsubj	_	start_char=7|end_char=15
 3	对	对	P	P	_	4	case	_	start_char=16|end_char=17
@@ -860,6 +955,8 @@
 30	飞行	飞行	VV	VV	_	21	conj	_	start_char=87|end_char=89
 31	.	.	PU	PU	_	21	punct	_	start_char=90|end_char=91
 
+# sent_id = gcdt_interview_stardust-43
+# text = 他估算的结果是大约有 45 个粒子, 但这个数字是很不确定的 -- 就算事实与这个相差很多我也不会吃惊. 
 1	他	他	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	估算	估算	VV	VV	_	4	acl	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	2	mark	_	start_char=5|end_char=6
@@ -895,6 +992,8 @@
 33	吃惊	吃惊	VV	VV	_	7	conj	_	start_char=76|end_char=78
 34	.	.	PU	PU	_	7	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_interview_stardust-44
+# text = 这就是我的回答! 
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	就	就	AD	AD	_	6	advmod	_	start_char=2|end_char=3
 3	是	是	VC	VC	_	6	cop	_	start_char=4|end_char=5
@@ -903,6 +1002,8 @@
 6	回答	回答	NN	NN	_	0	root	_	start_char=10|end_char=12
 7	!	!	PU	PU	_	6	punct	_	start_char=13|end_char=14
 
+# sent_id = gcdt_interview_stardust-45
+# text = 我必须指出的一件事情是...如同所有的研究一样, 我们研究的结果是很不确定的. 
 1	我	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	必须	必须	VV	VV	_	3	aux:modal	_	start_char=2|end_char=4
 3	指出	指出	VV	VV	_	7	acl	_	start_char=5|end_char=7
@@ -929,6 +1030,8 @@
 24	的	的	SP	SP	_	23	discourse	_	start_char=59|end_char=60
 25	.	.	PU	PU	_	14	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_interview_stardust-46
+# text = 这里我想引用爱因斯坦的名言 -- "如果我们知道我们正在做什么, 那它就不能成为 '研究', 难道不是这样吗?"
 1	这里	这里	PN	PN	_	3	dep	_	start_char=0|end_char=2
 2	我	我	PN	PN	_	3	nsubj	_	start_char=3|end_char=4
 3	想	想	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -964,6 +1067,8 @@
 33	?	?	PU	PU	_	3	punct	_	start_char=81|end_char=82
 34	"	《	PU	PU	_	3	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_interview_stardust-47
+# text = 这些样本会有多大?
 1	这些	这些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	样本	样本	NN	NN	_	6	nsubj	_	start_char=3|end_char=5
 3	会	会	VV	VV	_	6	aux:modal	_	start_char=6|end_char=7
@@ -972,6 +1077,8 @@
 6	大	大	VA	VA	_	0	root	_	start_char=12|end_char=13
 7	?	?	PU	PU	_	6	punct	_	start_char=14|end_char=15
 
+# sent_id = gcdt_interview_stardust-48
+# text = 我们期待的通常情况下, 这些粒子应该是微米大小(百万分之一米). 
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	期待	期待	VV	VV	_	5	acl	_	start_char=3|end_char=5
 3	的	的	DEC	DEC	_	2	mark	_	start_char=6|end_char=7
@@ -991,6 +1098,8 @@
 17	)	)	PU	PU	_	11	punct	_	start_char=45|end_char=46
 18	.	.	PU	PU	_	11	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_interview_stardust-49
+# text = 当人们通过虚拟显微镜进行搜索时, 他们将不会看见粒子本身, 相反的, 他们应该是去寻找粒子运动产生的轨迹, 轨迹可能相当大 -- 直径可能有好几微米. 
 1	当	当	P	P	_	6	case	_	start_char=0|end_char=1
 2	人们	人	NN	NN	_	6	nsubj	_	start_char=2|end_char=4
 3	通过	通过	P	P	_	5	case	_	start_char=5|end_char=7
@@ -1034,6 +1143,8 @@
 41	微米	微米	M	M	_	40	mark:clf	_	start_char=106|end_char=108
 42	.	.	PU	PU	_	14	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_interview_stardust-50
+# text = 就在昨天, 我们发布了一个新网站, 在这个新网站上有关于VM(虚拟显微镜)的演示. 
 1	就	就	AD	AD	_	6	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	昨天	昨天	NT	NT	_	6	nmod:prep	_	start_char=4|end_char=6
@@ -1063,6 +1174,8 @@
 27	演示	演示	NN	NN	_	19	dobj	_	start_char=62|end_char=64
 28	.	.	PU	PU	_	6	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_interview_stardust-51
+# text = 我邀请你们可以去看看. 
 1	我	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	邀请	邀请	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	你们	你们	PN	PN	_	2	dobj	_	start_char=5|end_char=7
@@ -1071,6 +1184,8 @@
 6	看看	看看	VV	VV	_	2	ccomp	_	start_char=13|end_char=15
 7	.	.	PU	PU	_	2	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_stardust-52
+# text = 演示中你看见的轨迹是用特制的粒子加速器将羰基铁亚微粒以超高速撞入气凝胶而产生, 这模拟了我们希望找的星际尘埃撞击效果.
 1	演示	演示	NN	NN	_	22	advmod:loc	_	start_char=0|end_char=2
 2	中	中	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	你	你	PN	PN	_	4	nsubj	_	start_char=5|end_char=6
@@ -1107,6 +1222,8 @@
 34	效果	效果	NN	NN	_	25	dobj	_	start_char=88|end_char=90
 35	.	.	PU	PU	_	22	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_interview_stardust-53
+# text = 是在 Stardust@home 主站上吗?
 1	是	是	VC	VC	_	2	conj	_	start_char=0|end_char=1
 2	在	在	VV	VV	_	7	dep	_	start_char=2|end_char=3
 3	Stardust@home	Stardust@home	NR	NR	_	4	nmod:assmod	_	start_char=4|end_char=17
@@ -1115,6 +1232,8 @@
 6	吗	吗	SP	SP	_	7	discourse	_	start_char=23|end_char=24
 7	?	?	PU	PU	_	0	root	_	start_char=25|end_char=26
 
+# sent_id = gcdt_interview_stardust-54
+# text = 是的.
 1	是	是	VC	VC	_	3	dep	_	start_char=0|end_char=1
 2	的	的	SP	SP	_	3	discourse	_	start_char=2|end_char=3
 3	.	.	PU	PU	_	0	root	_	start_char=4|end_char=5

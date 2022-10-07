@@ -12,6 +12,8 @@ In total, there are 62,905 tokens and  9,717 EDUs.
 
 We provide an 8:1:1 train:dev:test split for each genre as shown in the table below.
 
+The five test documents are double annotated and the second annotation version appears in the double/ partition.
+
 | Genre   |  #docs |  Avg #tokens/doc | Avg #EDUs/doc | Source | Dev doc | Test doc |
 |:----------:|:-------------:|------:|------:|:-------------:|:-------------:|:-------------:|
 | academic | 10 | 1416.8 | 203.3 | https://www.hanspub.org/ | gcdt_academic_peoples | gcdt_academic_dingzhen |

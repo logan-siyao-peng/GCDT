@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_cycle
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2008-03-17
+# meta::dateModified = 2016-08-07
+# meta::sourceURL = https://zh.wikinews.org/wiki/2008%E5%9C%8B%E9%9A%9B%E8%87%AA%E7%94%B1%E8%BB%8A%E7%92%B0%E5%8F%B0%E8%B3%BD_%E7%A6%AE%E5%84%80%E5%B0%8F%E5%A7%90%E6%9C%8D%E8%A3%9D%E8%A8%AD%E8%A8%88_%E8%AE%93%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E6%9B%B4%E5%9C%8B%E9%9A%9B%E5%8C%96
+# meta::speakerCount = 2
+# meta::title = 2008国际自由车环台赛 礼仪小姐服装设计 让颁奖典礼更国际化
+# meta::shortTitle = cycle
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_cycle-1
+# text = 2008国际自由车环台赛 礼仪小姐服装设计 让颁奖典礼更国际化
 1	2008	2008	CD	CD	_	6	dep	_	start_char=0|end_char=4
 2	国际	国际	NN	NN	_	6	compound:nn	_	start_char=5|end_char=7
 3	自由车	自由车	NN	NN	_	6	compound:nn	_	start_char=8|end_char=11
@@ -12,6 +25,8 @@
 12	更	更	AD	AD	_	13	advmod	_	start_char=36|end_char=37
 13	国际化	国际化	VV	VV	_	9	ccomp	_	start_char=38|end_char=41
 
+# sent_id = gcdt_interview_cycle-2
+# text = 【2008年3月17日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2008年	2008年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	3月	3月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -19,6 +34,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_cycle-3
+# text = 今年的国际自由车环台赛，在颁奖典礼上，有着焕然一新的设计，那就是“礼仪小姐”的部分。
 1	今年	今年	NT	NT	_	5	nmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	国际	国际	NN	NN	_	5	compound:nn	_	start_char=5|end_char=7
@@ -47,6 +64,8 @@
 26	部分	部分	NN	NN	_	12	conj	_	start_char=64|end_char=66
 27	。	。	PU	PU	_	12	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_interview_cycle-4
+# text = 为本次大会四大（台湾、亚洲、冲刺、总成绩）领骑衫设计的赞助商，同时也是台北国际自行车展的参展商─德懋国际，今年为了要让颁奖典礼的水平更国际化，特别为“礼仪小姐”，搭配四种不同颜色的领骑衫，量身打造专属的旗袍，在展览开幕前，成为环台赛各大媒体的瞩目焦点。
 1	为	为	P	P	_	19	case	_	start_char=0|end_char=1
 2	本次	本次	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	大会	大会	NN	NN	_	19	compound:nn	_	start_char=5|end_char=7
@@ -126,6 +145,8 @@
 77	焦点	焦点	NN	NN	_	70	dobj	_	start_char=199|end_char=201
 78	。	。	PU	PU	_	28	punct	_	start_char=202|end_char=203
 
+# sent_id = gcdt_interview_cycle-5
+# text = 而在这设计的背后，有隐藏什么样的概念与创意？
 1	而	而	AD	AD	_	8	advmod	_	start_char=0|end_char=1
 2	在	在	P	P	_	6	case	_	start_char=2|end_char=3
 3	这	这	DT	DT	_	4	det	_	start_char=4|end_char=5
@@ -142,6 +163,8 @@
 14	创意	创意	NN	NN	_	9	dobj	_	start_char=32|end_char=34
 15	？	？	PU	PU	_	8	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_interview_cycle-6
+# text = 为此，维基新闻记者Rico Shen（下简称WN）特别选在自行车展的第三天，也是环台赛南港馆站结束后，参访德懋国际的摊位，并请德懋国际的郑学博总经理（下简称Fma），来指点迷津。
 1	为	为	P	P	_	2	case	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	15	nmod:prep	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	15	punct	_	start_char=4|end_char=5
@@ -194,8 +217,12 @@
 50	迷津	迷津	VV	VV	_	49	compound:vc	_	start_char=134|end_char=136
 51	。	。	PU	PU	_	15	punct	_	start_char=137|end_char=138
 
+# sent_id = gcdt_interview_cycle-7
+# text = 专访
 1	专访	专访	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_interview_cycle-8
+# text = 想到与中华民国自由车协会合作，设计冠军领骑衫的原因？
 1	想到	想到	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	与	与	P	P	_	6	case	_	start_char=3|end_char=4
 3	中华	中华	NR	NR	_	4	compound:nn	_	start_char=5|end_char=7
@@ -211,6 +238,8 @@
 13	原因	原因	NN	NN	_	1	dobj	_	start_char=35|end_char=37
 14	？	？	PU	PU	_	1	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_interview_cycle-9
+# text = 我们（德懋国际）非常荣幸，能赞助这次的环台赛。
 1	我们	我	PN	PN	_	7	nsubj	_	start_char=0|end_char=2
 2	（	（	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	德懋	德懋	NR	NR	_	4	compound:nn	_	start_char=5|end_char=7
@@ -227,6 +256,8 @@
 14	环台赛	环台赛	NN	NN	_	10	dobj	_	start_char=32|end_char=35
 15	。	。	PU	PU	_	7	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_interview_cycle-10
+# text = 在此之前，（我们）都密集地和秘书长与副秘书长进行联系，并透过纺织产业界知名的研究单位─纺织产业综合研究所，进行新材质开发上的技术合作，并在应用新材质的基础上，与自由车协会的构想进行搭配。
 1	在此之前	在此之前	AD	AD	_	13	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	13	punct	_	start_char=5|end_char=6
 3	（	（	PU	PU	_	13	punct	_	start_char=7|end_char=8
@@ -283,6 +314,8 @@
 54	搭配	搭配	NN	NN	_	53	dobj	_	start_char=143|end_char=145
 55	。	。	PU	PU	_	13	punct	_	start_char=146|end_char=147
 
+# sent_id = gcdt_interview_cycle-11
+# text = 因为我们知道，这项（环台）比赛是国际知名的大型赛会，因此，我们很荣幸，借由这次难得的机会，把台湾的设计、品牌，行销全世界。
 1	因为	因为	P	P	_	3	case	_	start_char=0|end_char=2
 2	我们	我	PN	PN	_	3	nsubj	_	start_char=3|end_char=5
 3	知道	知道	VV	VV	_	16	nmod:prep	_	start_char=6|end_char=8
@@ -325,6 +358,8 @@
 40	世界	世界	NN	NN	_	38	dobj	_	start_char=97|end_char=99
 41	。	。	PU	PU	_	16	punct	_	start_char=100|end_char=101
 
+# sent_id = gcdt_interview_cycle-12
+# text = 除了领骑衫，今年有一项历年以来，前所未有的设计，就是“礼仪小姐”的旗袍装。
 1	除了	除了	P	P	_	2	case	_	start_char=0|end_char=2
 2	领骑衫	领骑衫	NN	NN	_	5	nmod:prep	_	start_char=3|end_char=6
 3	，	，	PU	PU	_	22	punct	_	start_char=7|end_char=8
@@ -349,6 +384,8 @@
 22	旗袍装	旗袍装	NN	NN	_	0	root	_	start_char=54|end_char=57
 23	。	。	PU	PU	_	22	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_interview_cycle-13
+# text = 我们知道，在以往，礼仪小姐大多都是在国际知名，如奥林匹克运动会之类的比赛才会派上用场。
 1	我们	我	PN	PN	_	2	nsubj	_	start_char=0|end_char=2
 2	知道	知道	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -376,6 +413,8 @@
 25	用场	用场	NN	NN	_	24	dobj	_	start_char=64|end_char=66
 26	。	。	PU	PU	_	2	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_interview_cycle-14
+# text = 那么，会想到设计旗袍装的原因？
 1	那么	那么	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	会	会	VV	VV	_	4	aux:modal	_	start_char=5|end_char=6
@@ -386,6 +425,8 @@
 8	原因	原因	NN	NN	_	4	dobj	_	start_char=19|end_char=21
 9	？	？	PU	PU	_	4	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_interview_cycle-15
+# text = 礼仪小姐旗袍装，主要是为了搭配颁奖典礼，所设计的服装，而在和自由车协会商议后，为了要搭配四个主要的冠军代表色，进而借由这样的设计，除了让颁奖典礼的内容更丰富，更能强化对外的印象。
 1	礼仪	礼仪	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	小姐	小姐	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	旗袍装	旗袍装	NN	NN	_	6	nsubj	_	start_char=6|end_char=9
@@ -444,6 +485,8 @@
 56	印象	印象	NN	NN	_	53	dobj	_	start_char=141|end_char=143
 57	。	。	PU	PU	_	53	punct	_	start_char=144|end_char=145
 
+# sent_id = gcdt_interview_cycle-16
+# text = 在此之前，是否与（自由车）协会合作，借由征选，来为这些礼仪小姐，打造专属的冠军旗袍装？
 1	在此之前	在此之前	AD	AD	_	9	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	9	punct	_	start_char=5|end_char=6
 3	是否	是否	VV	VV	_	9	xcomp	_	start_char=7|end_char=9
@@ -470,6 +513,8 @@
 24	旗袍装	旗袍装	NN	NN	_	20	dobj	_	start_char=62|end_char=65
 25	？	？	PU	PU	_	9	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_interview_cycle-17
+# text = 征选部分，是由自由车协会先行征选的，然后等到确认完成后，才进行量身订做的程序。
 1	征选	征选	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	部分	部分	NN	NN	_	9	dep	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	9	punct	_	start_char=6|end_char=7
@@ -495,6 +540,8 @@
 23	程序	程序	NN	NN	_	19	dobj	_	start_char=58|end_char=60
 24	。	。	PU	PU	_	19	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_interview_cycle-18
+# text = 打造前的一些协调程序？
 1	打造	打造	VV	VV	_	6	nmod	_	start_char=0|end_char=2
 2	前	前	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	1	case	_	start_char=5|end_char=6
@@ -503,6 +550,8 @@
 6	程序	程序	NN	NN	_	0	root	_	start_char=13|end_char=15
 7	？	？	PU	PU	_	6	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_cycle-19
+# text = 基本上是必须要与（自由车）协会进行多次协调的，因为这些设计在完成后，还要送交国际自由车总会进行审核，才能派上用场。
 1	基本上	基本上	AD	AD	_	10	advmod	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	10	cop	_	start_char=4|end_char=5
 3	必须	必须	VV	VV	_	10	aux:modal	_	start_char=6|end_char=8
@@ -540,6 +589,8 @@
 35	用场	用场	NN	NN	_	34	dobj	_	start_char=88|end_char=90
 36	。	。	PU	PU	_	25	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_interview_cycle-20
+# text = 在设计冠军领骑衫时，有否尝试进行产品相关方面的认证，或是去参与相关类型的征选活动？
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	设计	设计	NN	NN	_	4	compound:nn	_	start_char=2|end_char=4
 3	冠军	冠军	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -565,6 +616,8 @@
 23	活动	活动	NN	NN	_	18	dobj	_	start_char=60|end_char=62
 24	？	？	PU	PU	_	8	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_interview_cycle-21
+# text = 我们（德懋国际）在设计时，除了长时间地，与纺织产业综合研究所进行技术合作，进行新物料的开发，在原料上，都是经过认证以及品质上的多次测试，包含以不同布料，设计出相同功能的衣物，所进行的测试；因此，大致来说，所设计出来的成品，原料上已经符合产品认证的需求。
 1	我们	我	PN	PN	_	46	dep	_	start_char=0|end_char=2
 2	（	（	PU	PU	_	4	punct	_	start_char=3|end_char=4
 3	德懋	德懋	NR	NR	_	4	compound:nn	_	start_char=5|end_char=7
@@ -647,6 +700,8 @@
 80	需求	需求	NN	NN	_	76	dobj	_	start_char=202|end_char=204
 81	。	。	PU	PU	_	20	punct	_	start_char=205|end_char=206
 
+# sent_id = gcdt_interview_cycle-22
+# text = 其他针对这次设计的一些看法？
 1	其他	其他	DT	DT	_	8	det	_	start_char=0|end_char=2
 2	针对	针对	P	P	_	5	case	_	start_char=3|end_char=5
 3	这	这	DT	DT	_	5	det	_	start_char=6|end_char=7
@@ -657,6 +712,8 @@
 8	看法	看法	NN	NN	_	0	root	_	start_char=18|end_char=20
 9	？	？	PU	PU	_	8	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_interview_cycle-23
+# text = 或是，有何特别之处？
 1	或是	或是	AD	AD	_	3	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	3	punct	_	start_char=3|end_char=4
 3	有	有	VE	VE	_	0	root	_	start_char=5|end_char=6
@@ -666,6 +723,8 @@
 7	处	处	NN	NN	_	3	dobj	_	start_char=14|end_char=15
 8	？	？	PU	PU	_	3	punct	_	start_char=16|end_char=17
 
+# sent_id = gcdt_interview_cycle-24
+# text = 大家应该知道，中国各朝代的皇帝，以“黄袍加身”代表其尊爵，而我们的思维，则是希望能将科技，加入一种很特殊，很传统的元素，让外界一看就知道，这种设计很有台湾风格，在经过与多个设计师，不断地讨论后，就决定将具有文化传统，别具代表性的“龙”，纳入这项设计，象征这条龙盘踞在优胜者之上，以达到“龙盘虎踞”的效果，也希望一个很典型、神力的动物，让选手比赛时，更有精神，总而言之，希望这种结合现代与传统的设计，能更具代表性。
 1	大家	大家	PN	PN	_	3	nsubj	_	start_char=0|end_char=2
 2	应该	应该	VV	VV	_	3	aux:modal	_	start_char=3|end_char=5
 3	知道	知道	VV	VV	_	0	root	_	start_char=6|end_char=8

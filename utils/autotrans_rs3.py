@@ -1,16 +1,28 @@
 import io, re, os
 import argparse
+import spacy
 from glob import glob
 from time import time
 from deep_translator import GoogleTranslator
 
-
 from utils import read_text_file, get_basename_and_branch, write_lines_file, get_file_modified_time
+
+nlp = spacy.load("en_core_web_sm")
+
+def spacy_tokenize(str):
+	doc = nlp(str)
+	tokenized = " ".join([token.text for token in doc])
+	return tokenized
+
 
 def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 	# prepare directory and file
-	if not os.path.isdir(autotran_rs3_dir):
-		os.makedirs(autotran_rs3_dir)
+	division_dirs = [autotran_rs3_dir + "train/", autotran_rs3_dir + "dev/",
+	                 autotran_rs3_dir + "test/", autotran_rs3_dir + "double/"]
+	for division_dir in division_dirs:
+		if not os.path.isdir(division_dir):
+			os.makedirs(division_dir)
+	
 	basename, branch = get_basename_and_branch(rs3_file)
 	autotran_rs3_file = autotran_rs3_dir + branch + os.sep + basename + ".rs3"
 	
@@ -44,6 +56,7 @@ def auto_trans_rs3(rs3_file, autotran_rs3_dir):
 						m_trans = m_text
 				
 				m_trans = m_trans.replace(" & ", " &amp; ").strip()
+				m_trans = spacy_tokenize(m_trans)
 				
 				# rs3_lines[line_id] = rs3_lines[line_id].replace(">"+m_text+"<", ">"+m_trans+"<") # only translation
 				rs3_lines[line_id] = rs3_lines[line_id][:m_end] + " // " + m_trans + rs3_lines[line_id][m_end:] # both source and translations

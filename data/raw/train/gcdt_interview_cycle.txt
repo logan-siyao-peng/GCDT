@@ -1,4 +1,4 @@
-<text id="gum_zh_interview_cycle" type="interview" sourceURL="https://zh.wikinews.org/wiki/2008%E5%9C%8B%E9%9A%9B%E8%87%AA%E7%94%B1%E8%BB%8A%E7%92%B0%E5%8F%B0%E8%B3%BD_%E7%A6%AE%E5%84%80%E5%B0%8F%E5%A7%90%E6%9C%8D%E8%A3%9D%E8%A8%AD%E8%A8%88_%E8%AE%93%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E6%9B%B4%E5%9C%8B%E9%9A%9B%E5%8C%96" dateCreated="2008-03-17" dateModified="2016-08-07" dateCollected="2022-01-03" speakerCount="2" speakerList="#WN, #Fma" author="Wikinews" title="2008国际自由车环台赛 礼仪小姐服装设计 让颁奖典礼更国际化" shortTitle="cycle"/>
+<text id="gum_zh_interview_cycle" genre="interview" sourceURL="https://zh.wikinews.org/wiki/2008%E5%9C%8B%E9%9A%9B%E8%87%AA%E7%94%B1%E8%BB%8A%E7%92%B0%E5%8F%B0%E8%B3%BD_%E7%A6%AE%E5%84%80%E5%B0%8F%E5%A7%90%E6%9C%8D%E8%A3%9D%E8%A8%AD%E8%A8%88_%E8%AE%93%E9%A0%92%E7%8D%8E%E5%85%B8%E7%A6%AE%E6%9B%B4%E5%9C%8B%E9%9A%9B%E5%8C%96" dateCreated="2008-03-17" dateModified="2016-08-07" dateCollected="2022-01-03" speakerCount="2" speakerList="#WN, #Fma" author="Wikinews" title="2008国际自由车环台赛 礼仪小姐服装设计 让颁奖典礼更国际化" shortTitle="cycle"/>
 2008国际自由车环台赛 礼仪小姐服装设计 让颁奖典礼更国际化
 
 【2008年3月17日讯】

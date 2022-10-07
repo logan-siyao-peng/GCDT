@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_aging
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2018-12-14
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=28037
+# meta::speakerCount = 0
+# meta::title = 老龄化对言语感知的影响
+# meta::shortTitle = aging
+# meta::author = Meijuan Ning
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_aging-1
+# text = 老龄化对言语感知的影响
 1	老龄化	老龄化	NN	NN	_	6	dep	_	start_char=0|end_char=3
 2	对	对	P	P	_	4	case	_	start_char=4|end_char=5
 3	言语	言语	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -5,9 +18,13 @@
 5	的	的	DEG	DEG	_	4	case	_	start_char=12|end_char=13
 6	影响	影响	NN	NN	_	0	root	_	start_char=14|end_char=16
 
+# sent_id = gcdt_academic_aging-2
+# text = 1. 引言
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	引言	引言	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_aging-3
+# text = 随着科技和医疗卫生事业的发展进步，人口老龄化进程在世界范围内急剧发展，老龄化问题日益成为社会热点。
 1	随着	随着	P	P	_	9	case	_	start_char=0|end_char=2
 2	科技	科技	NN	NN	_	6	conj	_	start_char=3|end_char=5
 3	和	和	CC	CC	_	6	cc	_	start_char=6|end_char=7
@@ -36,6 +53,8 @@
 26	热点	热点	NN	NN	_	24	dobj	_	start_char=71|end_char=73
 27	。	。	PU	PU	_	19	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_academic_aging-4
+# text = 中国人口老龄化增速快于世界，老龄化进程正在加速发展。
 1	中国	中国	NR	NR	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	人口	人口	NN	NN	_	4	compound:nn	_	start_char=3|end_char=5
 3	老龄化	老龄化	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -50,6 +69,8 @@
 12	发展	发展	VV	VV	_	5	conj	_	start_char=34|end_char=36
 13	。	。	PU	PU	_	5	punct	_	start_char=37|end_char=38
 
+# sent_id = gcdt_academic_aging-5
+# text = 随着年龄增长，老年人在身体机能、神经系统各方面出现一定的退化和功能性障碍，对老年人的生活带来很大影响，其中老年人在言语交际能力方面存在的问题尤为显著。
 1	随着	随着	P	P	_	3	case	_	start_char=0|end_char=2
 2	年龄	年龄	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	增长	增长	NN	NN	_	14	nmod:prep	_	start_char=6|end_char=8
@@ -94,6 +115,8 @@
 42	显著	显著	VA	VA	_	14	conj	_	start_char=113|end_char=115
 43	。	。	PU	PU	_	14	punct	_	start_char=116|end_char=117
 
+# sent_id = gcdt_academic_aging-6
+# text = 语言是人类最重要的交际工具，是人们进行沟通的主要表达方式。
 1	语言	语言	NN	NN	_	8	nsubj	_	start_char=0|end_char=2
 2	是	是	VC	VC	_	8	cop	_	start_char=3|end_char=4
 3	人类	人类	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -113,6 +136,8 @@
 17	方式	方式	NN	NN	_	8	conj	_	start_char=42|end_char=44
 18	。	。	PU	PU	_	8	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_academic_aging-7
+# text = 老年人在言语交流上存在困难，尤其是言语感知上存在困难，导致与他人交流时有障碍，影响老年人的身心健康。
 1	老年人	老年人	NN	NN	_	6	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	4	case	_	start_char=4|end_char=5
 3	言语	言语	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -143,6 +168,8 @@
 28	健康	健康	NN	NN	_	24	dobj	_	start_char=74|end_char=76
 29	。	。	PU	PU	_	6	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_academic_aging-8
+# text = 因此，研究老年人言语感知特点和探索老年人言语感知策略，能为提高老年人言语感知能力提供参考，也能对老年人言语感知障碍的临床诊断治疗、老年人助听器的研发提供新思路，对于促进老年人与他人之间的交流沟通有着重要作用。
 1	因此	因此	AD	AD	_	41	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	41	punct	_	start_char=3|end_char=4
 3	研究	研究	VV	VV	_	41	dep	_	start_char=5|end_char=7
@@ -202,6 +229,8 @@
 57	作用	作用	NN	NN	_	54	dobj	_	start_char=157|end_char=159
 58	。	。	PU	PU	_	41	punct	_	start_char=160|end_char=161
 
+# sent_id = gcdt_academic_aging-9
+# text = 本文将综述老年人在不同层面的言语感知和理解中的困难以及相关影响因素，以期引起学界重视。
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	文	文	NN	NN	_	4	nsubj	_	start_char=2|end_char=3
 3	将	将	AD	AD	_	4	advmod	_	start_char=4|end_char=5
@@ -229,6 +258,8 @@
 25	重视	重视	NN	NN	_	23	dobj	_	start_char=64|end_char=66
 26	。	。	PU	PU	_	4	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_academic_aging-10
+# text = 2. 老年人言语感知障碍的特征
 1	2.	2.	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	老年人	老年人	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	言语	言语	NN	NN	_	4	nsubj	_	start_char=7|end_char=9
@@ -237,6 +268,8 @@
 6	的	的	DEG	DEG	_	5	case	_	start_char=16|end_char=17
 7	特征	特征	NN	NN	_	4	dobj	_	start_char=18|end_char=20
 
+# sent_id = gcdt_academic_aging-11
+# text = 语音结构包括音段结构(segmental structure)和超音段结构(suprasegmental structure)。
 1	语音	语音	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	结构	结构	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	包括	包括	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -255,6 +288,8 @@
 16	)	)	PU	PU	_	15	punct	_	start_char=75|end_char=76
 17	。	。	PU	PU	_	3	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_academic_aging-12
+# text = 音段指根据线性组合的先后顺序切分出来的语音单位，各占一定的时间段落。
 1	音段	音段	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	指	指	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	根据	根据	P	P	_	8	case	_	start_char=5|end_char=7
@@ -277,6 +312,8 @@
 20	段落	段落	NN	NN	_	16	dobj	_	start_char=50|end_char=52
 21	。	。	PU	PU	_	2	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_academic_aging-13
+# text = 语流中最小的音段是音位，因此音位也称音段音位(segmental phonemes)，即元音和辅音。
 1	语流	语流	NN	NN	_	4	advmod:loc	_	start_char=0|end_char=2
 2	中	中	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	最	最	AD	AD	_	4	advmod	_	start_char=5|end_char=6
@@ -303,6 +340,8 @@
 24	辅音	辅音	NN	NN	_	8	conj	_	start_char=69|end_char=71
 25	。	。	PU	PU	_	8	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_academic_aging-14
+# text = 超音段特征指语音问题中涉及超出单音音段以上的方面，超音段特征主要有音节、重音、声调和语调 -LSB-1-RSB- 。
 1	超音段	超音段	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	特征	特征	NN	NN	_	3	nsubj	_	start_char=4|end_char=6
 3	指	指	VV	VV	_	0	root	_	start_char=7|end_char=8
@@ -333,6 +372,8 @@
 28	-RSB-	-RSB-	NN	NN	_	18	dobj	_	start_char=77|end_char=82
 29	。	。	PU	PU	_	3	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_academic_aging-15
+# text = 下文将依次介绍老年人在音段、超音段和噪音背景下三个方面言语感知的表现和特点。
 1	下文	下文	NN	NN	_	4	nsubj	_	start_char=0|end_char=2
 2	将	将	AD	AD	_	4	advmod	_	start_char=3|end_char=4
 3	依次	依次	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -357,10 +398,14 @@
 22	特点	特点	NN	NN	_	4	dobj	_	start_char=56|end_char=58
 23	。	。	PU	PU	_	4	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_academic_aging-16
+# text = 2.1. 音段感知
 1	2.1.	2.1.	NR	NR	_	2	compound:nn	_	start_char=0|end_char=4
 2	音段	音段	NN	NN	_	3	compound:nn	_	start_char=5|end_char=7
 3	感知	感知	NN	NN	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_academic_aging-17
+# text = 元音方面，衰老影响了元音边界和元音中心对于识别元音的作用。
 1	元音	元音	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	方面	方面	NN	NN	_	5	nsubj	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	5	punct	_	start_char=6|end_char=7
@@ -379,6 +424,8 @@
 16	作用	作用	NN	NN	_	5	dobj	_	start_char=41|end_char=43
 17	。	。	PU	PU	_	5	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_academic_aging-18
+# text = 衰老降低了元音识别时对快速变化线索的处理能力。
 1	衰老	衰老	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	降低	降低	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=6|end_char=7
@@ -394,6 +441,8 @@
 13	能力	能力	NN	NN	_	2	dobj	_	start_char=32|end_char=34
 14	。	。	PU	PU	_	2	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_academic_aging-19
+# text = 相比位于元音边缘的共振峰转移，老年人可能更依赖位于元音中心的准稳态线索。
 1	相比	相比	VV	VV	_	7	case	_	start_char=0|end_char=2
 2	位于	位于	VV	VV	_	6	acl	_	start_char=3|end_char=5
 3	元音	元音	NN	NN	_	4	compound:nn	_	start_char=6|end_char=8
@@ -414,6 +463,8 @@
 18	线索	线索	NN	NN	_	12	dobj	_	start_char=50|end_char=52
 19	。	。	PU	PU	_	12	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_academic_aging-20
+# text = Donaldson等人 -LSB-2-RSB- 的研究对比了老年人在识别元音时分别使用元音边界和元音中心的不同。
 1	Donaldson	Donaldson	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=9
 2	等	等	ETC	ETC	_	1	etc	_	start_char=10|end_char=11
 3	人	人	NN	NN	_	6	compound:nn	_	start_char=12|end_char=13
@@ -440,6 +491,8 @@
 24	不同	不同	NN	NN	_	17	dobj	_	start_char=74|end_char=76
 25	。	。	PU	PU	_	9	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_academic_aging-21
+# text = 结果表明，当只提供来自元音中心简短的声学信息时，老年人比年轻人在声音感知上有更多的困难。
 1	结果	结果	AD	AD	_	2	nsubj	_	start_char=0|end_char=2
 2	表明	表明	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -469,6 +522,8 @@
 27	困难	困难	NN	NN	_	23	dobj	_	start_char=67|end_char=69
 28	。	。	PU	PU	_	2	punct	_	start_char=70|end_char=71
 
+# sent_id = gcdt_academic_aging-22
+# text = 然而，当为老年人提供元音中心的较长时长或元音边界的不同时长时，老年人的表现和年轻人相似。
 1	然而	然而	AD	AD	_	25	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	25	punct	_	start_char=3|end_char=4
 3	当	当	P	P	_	6	case	_	start_char=5|end_char=6
@@ -496,6 +551,8 @@
 25	相似	相似	VA	VA	_	0	root	_	start_char=65|end_char=67
 26	。	。	PU	PU	_	25	punct	_	start_char=68|end_char=69
 
+# sent_id = gcdt_academic_aging-23
+# text = 此外，衰老还影响老年人感知元音音质时处理动态感知线索的能力。
 1	此外	此外	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	衰老	衰老	NN	NN	_	5	nsubj	_	start_char=5|end_char=7
@@ -514,6 +571,8 @@
 16	能力	能力	NN	NN	_	11	dobj	_	start_char=42|end_char=44
 17	。	。	PU	PU	_	5	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_academic_aging-24
+# text = Fox等人 -LSB-3-RSB- 研究了处理动态信息以识别元音音质的年龄相关差异。
 1	Fox	Fox	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=3
 2	等	等	ETC	ETC	_	1	etc	_	start_char=4|end_char=5
 3	人	人	NN	NN	_	7	nsubj	_	start_char=6|end_char=7
@@ -535,6 +594,8 @@
 19	差异	差异	NN	NN	_	7	dobj	_	start_char=55|end_char=57
 20	。	。	PU	PU	_	7	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_aging-25
+# text = 该研究检查了使用动态声学信息的年龄相关差异，以识别CVC (辅音 + 元音 + 辅音)中的元音音质。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	研究	研究	NN	NN	_	3	nsubj	_	start_char=2|end_char=4
 3	检查	检查	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -564,6 +625,8 @@
 27	音质	音质	NN	NN	_	15	dobj	_	start_char=68|end_char=70
 28	。	。	PU	PU	_	3	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_academic_aging-26
+# text = 实验刺激是61个自然产生的、经常使用的单音节英语单词的两个版本：对照版本(未修改的整个单词)和中间无声段的版本(其中大约62%的中间元音被静音取代)。
 1	实验	实验	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	刺激	刺激	NN	NN	_	19	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	19	cop	_	start_char=6|end_char=7
@@ -611,6 +674,8 @@
 45	)	)	PU	PU	_	19	punct	_	start_char=117|end_char=118
 46	。	。	PU	PU	_	19	punct	_	start_char=119|end_char=120
 
+# sent_id = gcdt_academic_aging-27
+# text = 正常听力的年轻人(19~25岁)和老年人(61~75岁)识别这些语音。
 1	正常	正常	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	听力	听力	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -634,6 +699,8 @@
 21	语音	语音	NN	NN	_	19	dobj	_	start_char=52|end_char=54
 22	。	。	PU	PU	_	19	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_academic_aging-28
+# text = 发现老年人在识别中间元音以及在听中间无声段的声音时识别初始辅音和结尾辅音的表现都明显比年轻人差。
 1	发现	发现	VV	VV	_	27	dep	_	start_char=0|end_char=2
 2	老年人	老年人	NN	NN	_	27	nsubj	_	start_char=3|end_char=6
 3	在	在	P	P	_	4	case	_	start_char=7|end_char=8
@@ -663,6 +730,8 @@
 27	差	差	VA	VA	_	0	root	_	start_char=72|end_char=73
 28	。	。	PU	PU	_	27	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_academic_aging-29
+# text = 这些结果支持了在感知元音音质时处理动态感知线索的能力随着年龄增长而降低的假设。
 1	这些	这些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	结果	结果	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	支持	支持	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -687,6 +756,8 @@
 22	假设	假设	NN	NN	_	3	dobj	_	start_char=57|end_char=59
 23	。	。	PU	PU	_	3	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_aging-30
+# text = 辅音方面，Slawinski等人 -LSB-4-RSB- 研究了与年龄相关的闭塞音范畴性感知变化。
 1	辅音	辅音	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	方面	方面	NN	NN	_	10	nmod:topic	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	10	punct	_	start_char=6|end_char=7
@@ -708,6 +779,8 @@
 19	变化	变化	NN	NN	_	10	dobj	_	start_char=62|end_char=64
 20	。	。	PU	PU	_	10	punct	_	start_char=65|end_char=66
 
+# sent_id = gcdt_academic_aging-31
+# text = 该研究的重点是伴随年龄增长和听力状态变化而带来的位于单词词首闭塞音的范畴性感知变化。
 1	该	该	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	研究	研究	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -733,6 +806,8 @@
 23	变化	变化	NN	NN	_	0	root	_	start_char=61|end_char=63
 24	。	。	PU	PU	_	23	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_academic_aging-32
+# text = 发声和发音位置不同的单词词首闭塞音的识别依赖于多个声学线索，如嗓音起始时间(voice onset time, VOT)、第二和第三共振峰转折的起始频率和方向，其中嗓音起始时间是一种时长线索，指的是破裂音除阻到声带振动起始点之间经历的时间。
 1	发声	发声	NN	NN	_	4	conj	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	4	cc	_	start_char=3|end_char=4
 3	发音	发音	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -798,6 +873,8 @@
 63	时间	时间	NN	NN	_	12	conj	_	start_char=176|end_char=178
 64	。	。	PU	PU	_	12	punct	_	start_char=179|end_char=180
 
+# sent_id = gcdt_academic_aging-33
+# text = 四百名受试者，分为四个年龄组(20~85岁)和三个听力组，参加了需要识别音节-LSB-ba-RSB-或-LSB-pa-RSB-和-LSB-ba-RSB-、-LSB-da-RSB-或-LSB-ga-RSB-合成的连续统的实验。
 1	四百	四百	CD	CD	_	3	nsubj	_	start_char=0|end_char=2
 2	名	名	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	受	受	VV	VV	_	0	root	_	start_char=5|end_char=6
@@ -849,6 +926,8 @@
 49	实验	实验	NN	NN	_	21	dobj	_	start_char=157|end_char=159
 50	。	。	PU	PU	_	3	punct	_	start_char=160|end_char=161
 
+# sent_id = gcdt_academic_aging-34
+# text = 结果表明，-LSB-ba-pa-RSB-连续统的音素边界随着年龄增长和听力水平的退化而向更长的VOT移动。
 1	结果	结果	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	表明	表明	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -878,6 +957,8 @@
 27	移动	移动	NN	NN	_	2	ccomp	_	start_char=76|end_char=78
 28	。	。	PU	PU	_	2	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_academic_aging-35
+# text = 这种变化可能是由于老年人分析简短的声音信号的能力以及整合多个声学线索的能力都随着年龄增长而降低。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	种	种	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	变化	变化	NN	NN	_	28	nsubj	_	start_char=4|end_char=6
@@ -908,6 +989,8 @@
 28	降低	降低	VV	VV	_	0	root	_	start_char=72|end_char=74
 29	。	。	PU	PU	_	28	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_academic_aging-36
+# text = Gelfand等人 -LSB-5-RSB- 使用无意义音节测试(nonsense syllable test, NST)进行安静条件下的辅音识别，来探究衰老对正常听力者识别辅音的影响。
 1	Gelfand	Gelfand	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=7
 2	等	等	ETC	ETC	_	1	etc	_	start_char=8|end_char=9
 3	人	人	NN	NN	_	7	nsubj	_	start_char=10|end_char=11
@@ -946,6 +1029,8 @@
 36	影响	影响	NN	NN	_	28	dobj	_	start_char=119|end_char=121
 37	。	。	PU	PU	_	7	punct	_	start_char=122|end_char=123
 
+# sent_id = gcdt_academic_aging-37
+# text = 有三个听力水平，即最舒适水平、高于最舒适水平8 dB、低于最舒适水平8 dB。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	三	三	CD	CD	_	5	nummod	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -972,6 +1057,8 @@
 24	dB	dB	NN	NN	_	19	dobj	_	start_char=57|end_char=59
 25	。	。	PU	PU	_	1	punct	_	start_char=60|end_char=61
 
+# sent_id = gcdt_academic_aging-38
+# text = 20岁到65岁的正常听力者参加实验。
 1	20	20	CD	CD	_	4	nummod	_	start_char=0|end_char=2
 2	岁	岁	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	到	到	CC	CC	_	4	cc	_	start_char=5|end_char=6
@@ -984,6 +1071,8 @@
 10	实验	实验	NN	NN	_	9	dobj	_	start_char=24|end_char=26
 11	。	。	PU	PU	_	9	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_academic_aging-39
+# text = 因为被试是正常听力者，所以整体的辅音识别性能很高，但是年龄对表现水平的影响是显著的。
 1	因为	因为	P	P	_	5	case	_	start_char=0|end_char=2
 2	被试	被试	VV	VV	_	5	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	5	cop	_	start_char=6|end_char=7
@@ -1011,6 +1100,8 @@
 25	的	的	SP	SP	_	24	discourse	_	start_char=64|end_char=65
 26	。	。	PU	PU	_	14	punct	_	start_char=66|end_char=67
 
+# sent_id = gcdt_academic_aging-40
+# text = 这些研究结果表明，辅音识别表现随年龄的增长而降低，特别是声音低于最舒适听力水平时。
 1	这些	这些	DT	DT	_	3	det	_	start_char=0|end_char=2
 2	研究	研究	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	结果	结果	NN	NN	_	4	nsubj	_	start_char=6|end_char=8
@@ -1036,6 +1127,8 @@
 23	时	时	LC	LC	_	18	case	_	start_char=61|end_char=62
 24	。	。	PU	PU	_	4	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_academic_aging-41
+# text = 辨音混淆在不同级别和年龄组中是相似的。
 1	辨音	辨音	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	混淆	混淆	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	在	在	P	P	_	7	case	_	start_char=6|end_char=7
@@ -1049,6 +1142,8 @@
 11	的	的	SP	SP	_	10	discourse	_	start_char=27|end_char=28
 12	。	。	PU	PU	_	2	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_academic_aging-42
+# text = 正常听力的老年人在安静条件下的辅音识别能力随年龄增长而降低，但他们识别辅音与年轻人有相似的混淆错误。
 1	正常	正常	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	听力	听力	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -1080,6 +1175,8 @@
 29	错误	错误	NN	NN	_	25	dobj	_	start_char=75|end_char=77
 30	。	。	PU	PU	_	17	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_academic_aging-43
+# text = 在Gelfand等人 -LSB-6-RSB- 后续的研究中，再一次验证了这一结论。
 1	在	在	P	P	_	10	case	_	start_char=0|end_char=1
 2	Gelfand	Gelfand	NR	NR	_	4	nmod:assmod	_	start_char=2|end_char=9
 3	等	等	ETC	ETC	_	2	etc	_	start_char=10|end_char=11
@@ -1102,6 +1199,8 @@
 20	结论	结论	NN	NN	_	16	dobj	_	start_char=55|end_char=57
 21	。	。	PU	PU	_	16	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_aging-44
+# text = 21~68岁的基本上正常听力者参与了无意义音节测试，用以研究安静和噪声环境下的辅音识别。
 1	21	21	CD	CD	_	9	dep	_	start_char=0|end_char=2
 2	~	~	PU	PU	_	9	punct	_	start_char=3|end_char=4
 3	68	68	CD	CD	_	8	nummod	_	start_char=5|end_char=7
@@ -1128,6 +1227,8 @@
 24	识别	识别	NN	NN	_	15	dobj	_	start_char=64|end_char=66
 25	。	。	PU	PU	_	9	punct	_	start_char=67|end_char=68
 
+# sent_id = gcdt_academic_aging-45
+# text = 研究结果表明，基本上，正常的老年人在安静和嘈杂的环境下辅音识别能力随着年龄增长而降低，但他们音素混淆的情况与年轻人相似。
 1	研究	研究	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	结果	结果	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	表明	表明	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1164,6 +1265,8 @@
 34	相似	相似	VA	VA	_	3	ccomp	_	start_char=90|end_char=92
 35	。	。	PU	PU	_	3	punct	_	start_char=93|end_char=94
 
+# sent_id = gcdt_academic_aging-46
+# text = Helfer等人 -LSB-7-RSB- 测试无意义音节测试的识别准确度和错误模式。
 1	Helfer	Helfer	NR	NR	_	3	nmod:assmod	_	start_char=0|end_char=6
 2	等	等	ETC	ETC	_	1	etc	_	start_char=7|end_char=8
 3	人	人	NN	NN	_	6	compound:nn	_	start_char=9|end_char=10
@@ -1182,6 +1285,8 @@
 16	模式	模式	NN	NN	_	7	dobj	_	start_char=52|end_char=54
 17	。	。	PU	PU	_	7	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_academic_aging-47
+# text = 三组受试者(正常听力的年轻人，听力受损的老年人，听力损失较小的老年人)参加了实验，在安静、噪音、混响和混响加噪音四种情况下双耳识别刺激音。
 1	三	三	CD	CD	_	3	nummod	_	start_char=0|end_char=1
 2	组	组	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	受试者	受试者	NN	NN	_	19	dep	_	start_char=4|end_char=7
@@ -1225,6 +1330,8 @@
 41	刺激音	刺激音	NN	NN	_	40	dobj	_	start_char=105|end_char=108
 42	。	。	PU	PU	_	21	punct	_	start_char=109|end_char=110
 
+# sent_id = gcdt_academic_aging-48
+# text = 结果表明，老年受试者在识别辅音遇到的一些困难与听力损失的程度有关。
 1	结果	结果	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	表明	表明	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	2	punct	_	start_char=6|end_char=7
@@ -1245,6 +1352,8 @@
 18	有关	有关	VV	VV	_	2	ccomp	_	start_char=47|end_char=49
 19	。	。	PU	PU	_	2	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_academic_aging-49
+# text = 辅音识别困难在不同听力条件下也会有所不同，特别是对于鼻音和半元音的识别。
 1	辅音	辅音	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	识别	识别	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	困难	困难	NN	NN	_	11	nsubj	_	start_char=6|end_char=8
@@ -1267,6 +1376,8 @@
 20	识别	识别	NN	NN	_	14	dep	_	start_char=52|end_char=54
 21	。	。	PU	PU	_	11	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_academic_aging-50
+# text = 总体来看，在音段感知方面，老年人分析简短的声音信号的能力随着年龄增长而降低。
 1	总体	总体	NN	NN	_	10	advmod:loc	_	start_char=0|end_char=2
 2	来看	来看	LC	LC	_	1	case	_	start_char=3|end_char=5
 3	，	，	PU	PU	_	10	punct	_	start_char=6|end_char=7
@@ -1290,6 +1401,8 @@
 21	降低	降低	VV	VV	_	10	ccomp	_	start_char=55|end_char=57
 22	。	。	PU	PU	_	10	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_aging-51
+# text = 衰老降低了老年人元音识别时对快速变化线索的处理能力，也降低了其辅音识别能力。
 1	衰老	衰老	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	降低	降低	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=6|end_char=7

@@ -1,5 +1,20 @@
+# newdoc id = gcdt_bio_dvorak
+# meta::dateCollected = 2021-12-04
+# meta::dateCreated = XXXX-XX-XX
+# meta::dateModified = 2021-11-21
+# meta::sourceURL = https://zh.wikipedia.org/w/index.php?title=%E5%AE%89%E4%B8%9C%E5%AE%81%C2%B7%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B&oldid=68753495
+# meta::speakerCount = 0
+# meta::title = 安东宁·德沃夏克
+# meta::shortTitle = dvorak
+# meta::author = Wikipedia, The Free Encyclopedia
+# meta::genre = bio
+# meta::partition = test
+# sent_id = gcdt_bio_dvorak-1
+# text = 安东宁·德沃夏克
 1	安东宁·德沃夏克	安东宁·德沃夏克	NR	NR	_	0	root	_	start_char=0|end_char=8
 
+# sent_id = gcdt_bio_dvorak-2
+# text = 安东宁·利奥波德·德沃夏克（捷克语：Antonín Leopold Dvořák，1841年9月8日－1904年5月1日）生于布拉格（当时属于奥匈帝国，现属于捷克）附近的内拉霍奇夫斯镇伏尔塔瓦河旁的磨房内，卒于布拉格，是捷克民族乐派作曲家。
 1	安东宁·利奥波德·德沃夏克	安东宁·利奥波德·德沃夏克	NR	NR	_	17	nmod:topic	_	start_char=0|end_char=13
 2	（	（	PU	PU	_	3	punct	_	start_char=14|end_char=15
 3	捷克语	捷克语	NN	NN	_	17	nmod:topic	_	start_char=16|end_char=19
@@ -45,6 +60,8 @@
 43	作曲家	作曲家	NN	NN	_	37	conj	_	start_char=156|end_char=159
 44	。	。	PU	PU	_	37	punct	_	start_char=160|end_char=161
 
+# sent_id = gcdt_bio_dvorak-3
+# text = 追随着民族主义者斯美塔那，德沃夏克经常在他的作品中使用摩拉维亚和他的故乡波希米亚（当时属于奥匈帝国，现属捷克）的民谣音乐的风格。
 1	追随	追随	VV	VV	_	14	dep	_	start_char=0|end_char=2
 2	着	着	AS	AS	_	1	aux:asp	_	start_char=3|end_char=4
 3	民族	民族	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -80,6 +97,8 @@
 33	风格	风格	NN	NN	_	14	dobj	_	start_char=93|end_char=95
 34	。	。	PU	PU	_	14	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_bio_dvorak-4
+# text = 德沃夏克自己的风格经常被描述为“吸收了民歌的影响并找到有效的方式利用它们，用交响乐的传统最完满的再现了一个民族的特色”。-LSB-1-RSB-
 1	德沃夏克	德沃夏克	NR	NR	_	2	nmod:assmod	_	start_char=0|end_char=4
 2	自己	自己	PN	PN	_	4	nmod:assmod	_	start_char=5|end_char=7
 3	的	的	DEG	DEG	_	2	case	_	start_char=8|end_char=9
@@ -122,6 +141,8 @@
 40	1	1	CD	CD	_	7	dep	_	start_char=104|end_char=105
 41	-RSB-	-RSB-	PU	PU	_	7	punct	_	start_char=106|end_char=111
 
+# sent_id = gcdt_bio_dvorak-5
+# text = 其代表作有第九交响曲《新世界交响曲》、《B小调大提琴协奏曲 (德沃夏克)》、《斯拉夫舞曲》、歌剧《露莎卡》。
 1	其	其	PN	PN	_	2	compound:nn	_	start_char=0|end_char=1
 2	代表作	代表作	NN	NN	_	3	dep	_	start_char=2|end_char=5
 3	有	有	VE	VE	_	0	root	_	start_char=6|end_char=7
@@ -154,6 +175,8 @@
 30	》	》	PU	PU	_	29	punct	_	start_char=80|end_char=81
 31	。	。	PU	PU	_	3	punct	_	start_char=82|end_char=83
 
+# sent_id = gcdt_bio_dvorak-6
+# text = 他被认为“可能是他那个时代最多面手的作曲家”。-LSB-2-RSB-
 1	他	他	PN	PN	_	3	nsubjpass	_	start_char=0|end_char=1
 2	被	被	SB	SB	_	3	auxpass	_	start_char=2|end_char=3
 3	认为	认为	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -174,6 +197,8 @@
 18	2	2	CD	CD	_	19	dep	_	start_char=45|end_char=46
 19	-RSB-	-RSB-	NN	NN	_	3	conj	_	start_char=47|end_char=52
 
+# sent_id = gcdt_bio_dvorak-7
+# text = 美国教育心理学家暨德沃夏克键盘共同发明者奥古斯特·德沃夏克（August Dvorak）是安东宁·德沃夏克的远亲。
 1	美国	美国	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	教育	教育	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	心理学家	心理学家	NN	NN	_	8	conj	_	start_char=6|end_char=10
@@ -193,13 +218,19 @@
 17	远亲	远亲	NN	NN	_	0	root	_	start_char=69|end_char=71
 18	。	。	PU	PU	_	17	punct	_	start_char=72|end_char=73
 
+# sent_id = gcdt_bio_dvorak-8
+# text = 生平
 1	生平	生平	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_dvorak-9
+# text = 出生和年轻时代
 1	出生	出生	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	和	和	CC	CC	_	1	cc	_	start_char=3|end_char=4
 3	年轻	年轻	JJ	JJ	_	4	amod	_	start_char=5|end_char=7
 4	时代	时代	NN	NN	_	1	dep	_	start_char=8|end_char=10
 
+# sent_id = gcdt_bio_dvorak-10
+# text = 德沃夏克出生在布拉格附近的内拉霍奇夫斯镇，他的父亲František Dvořák经营祖传的客栈和肉店。
 1	德沃夏克	德沃夏克	NR	NR	_	2	nsubj	_	start_char=0|end_char=4
 2	出生	出生	VV	VV	_	0	root	_	start_char=5|end_char=7
 3	在	在	P	P	_	5	case	_	start_char=8|end_char=9
@@ -221,6 +252,8 @@
 19	肉店	肉店	NN	NN	_	14	dobj	_	start_char=66|end_char=68
 20	。	。	PU	PU	_	2	punct	_	start_char=69|end_char=70
 
+# sent_id = gcdt_bio_dvorak-11
+# text = 他的母亲Anna Zděnková是一名货物看守的女儿。
 1	他	他	PN	PN	_	3	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	母亲	母亲	NN	NN	_	5	dep	_	start_char=4|end_char=6
@@ -235,6 +268,8 @@
 12	女儿	女儿	NN	NN	_	0	root	_	start_char=35|end_char=37
 13	。	。	PU	PU	_	12	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_dvorak-12
+# text = 安东尼是他们第一个儿子，安东尼总共有八个弟弟。
 1	安东尼	安东尼	NR	NR	_	6	nsubj	_	start_char=0|end_char=3
 2	是	是	VC	VC	_	6	cop	_	start_char=4|end_char=5
 3	他们	他	PN	PN	_	6	compound:nn	_	start_char=6|end_char=8
@@ -250,6 +285,8 @@
 13	弟弟	弟弟	NN	NN	_	10	dobj	_	start_char=32|end_char=34
 14	。	。	PU	PU	_	6	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_bio_dvorak-13
+# text = 他6岁的时候在Nelahozeves上小学，在那里他第一次上小提琴课。
 1	他	他	PN	PN	_	5	dep	_	start_char=0|end_char=1
 2	6	6	CD	CD	_	5	nummod	_	start_char=2|end_char=3
 3	岁	岁	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -270,6 +307,8 @@
 18	课	课	NN	NN	_	16	dobj	_	start_char=50|end_char=51
 19	。	。	PU	PU	_	16	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_bio_dvorak-14
+# text = 1853年他迁往兹洛尼采学习德语。
 1	1853年	1853年	NT	NT	_	3	nmod:tmod	_	start_char=0|end_char=5
 2	他	他	PN	PN	_	3	nsubj	_	start_char=6|end_char=7
 3	迁往	迁往	VV	VV	_	0	root	_	start_char=8|end_char=10
@@ -278,6 +317,8 @@
 6	德语	德语	NN	NN	_	5	dobj	_	start_char=19|end_char=21
 7	。	。	PU	PU	_	3	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_bio_dvorak-15
+# text = 当时德语是波希米亚的生存之本。
 1	当时	当时	NT	NT	_	8	nmod:tmod	_	start_char=0|end_char=2
 2	德语	德语	NN	NN	_	8	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	8	cop	_	start_char=6|end_char=7
@@ -288,6 +329,8 @@
 8	本	本	NN	NN	_	0	root	_	start_char=20|end_char=21
 9	。	。	PU	PU	_	8	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_bio_dvorak-16
+# text = 在那里他跟随教堂唱诗班领唱Antonín Liehmann学习钢琴和管风琴。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	那里	那里	PN	PN	_	7	nmod:prep	_	start_char=2|end_char=4
 3	他	他	PN	PN	_	7	nsubj	_	start_char=5|end_char=6
@@ -303,6 +346,8 @@
 13	管风琴	管风琴	NN	NN	_	7	dobj	_	start_char=45|end_char=48
 14	。	。	PU	PU	_	7	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_bio_dvorak-17
+# text = 在此期间，他有时演奏管风琴补贴家计。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	3	compound:nn	_	start_char=2|end_char=3
 3	期间	期间	NN	NN	_	7	nmod:prep	_	start_char=4|end_char=6
@@ -315,6 +360,8 @@
 10	家计	家计	NN	NN	_	7	dobj	_	start_char=24|end_char=26
 11	。	。	PU	PU	_	7	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_bio_dvorak-18
+# text = 他还在他老师的乐队中演奏，并且开始作曲。
 1	他	他	PN	PN	_	9	nsubj	_	start_char=0|end_char=1
 2	还	还	AD	AD	_	9	advmod	_	start_char=2|end_char=3
 3	在	在	P	P	_	7	case	_	start_char=4|end_char=5
@@ -330,6 +377,8 @@
 13	作曲	作曲	VV	VV	_	9	conj	_	start_char=29|end_char=31
 14	。	。	PU	PU	_	9	punct	_	start_char=32|end_char=33
 
+# sent_id = gcdt_bio_dvorak-19
+# text = 有一个由来已久而且由一封伪造的满师证书所支持的传言，说德沃夏克的双亲强迫安东尼学习屠宰技术，但目前没有任何证据证明这个传言的真实性。
 1	有	有	VE	VE	_	0	root	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	16	nummod	_	start_char=2|end_char=3
 3	个	个	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -370,6 +419,8 @@
 38	真实性	真实性	NN	NN	_	33	dobj	_	start_char=99|end_char=102
 39	。	。	PU	PU	_	1	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_bio_dvorak-20
+# text = 1856年秋德沃夏克去了捷克卡梅尼采，据推测他是为了进修德语，并且准备到德语教学的布拉格管风琴学校上课。
 1	1856年	1856年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	秋	秋	NT	NT	_	4	nmod:tmod	_	start_char=6|end_char=7
 3	德沃夏克	德沃夏克	NR	NR	_	4	nsubj	_	start_char=8|end_char=12
@@ -398,6 +449,8 @@
 26	上课	上课	VV	VV	_	18	ccomp	_	start_char=74|end_char=76
 27	。	。	PU	PU	_	4	punct	_	start_char=77|end_char=78
 
+# sent_id = gcdt_bio_dvorak-21
+# text = 1857年10月他上了两年的管风琴学校，也在一所普通学校上过学，还作为中提琴手在一年登台两次的Cäcilien协会乐队中演出。
 1	1857年	1857年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	10月	10月	NT	NT	_	4	nmod:tmod	_	start_char=6|end_char=9
 3	他	他	PN	PN	_	4	nsubj	_	start_char=10|end_char=11
@@ -436,12 +489,16 @@
 36	演出	演出	VV	VV	_	4	conj	_	start_char=95|end_char=97
 37	。	。	PU	PU	_	4	punct	_	start_char=98|end_char=99
 
+# sent_id = gcdt_bio_dvorak-22
+# text = 职业音乐家的第一步
 1	职业	职业	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	音乐家	音乐家	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=6
 3	的	的	DEG	DEG	_	2	case	_	start_char=7|end_char=8
 4	第一	第一	OD	OD	_	0	root	_	start_char=9|end_char=11
 5	步	步	M	M	_	4	mark:clf	_	start_char=12|end_char=13
 
+# sent_id = gcdt_bio_dvorak-23
+# text = 德沃夏克本想谋一个管风琴师的职位，但失败了。
 1	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=0|end_char=4
 2	本	本	AD	AD	_	3	advmod	_	start_char=5|end_char=6
 3	想	想	VV	VV	_	0	root	_	start_char=7|end_char=8
@@ -457,6 +514,8 @@
 13	了	了	AS	AS	_	12	aux:asp	_	start_char=32|end_char=33
 14	。	。	PU	PU	_	3	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_bio_dvorak-24
+# text = 1859年夏天开始他就在Karl Komzák的乐队里面当中提琴手，在咖啡馆，或是公众场合演奏乐曲集锦，序曲和舞曲。
 1	1859年	1859年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	夏天	夏天	NT	NT	_	12	advmod:loc	_	start_char=6|end_char=8
 3	开始	开始	LC	LC	_	2	case	_	start_char=9|end_char=11
@@ -486,6 +545,8 @@
 27	舞曲	舞曲	NN	NN	_	12	dobj	_	start_char=80|end_char=82
 28	。	。	PU	PU	_	12	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_bio_dvorak-25
+# text = 德沃夏克这样过了十一年，其间没有发表作品。
 1	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=0|end_char=4
 2	这样	这样	AD	AD	_	3	advmod	_	start_char=5|end_char=7
 3	过	过	VV	VV	_	0	root	_	start_char=8|end_char=9
@@ -499,6 +560,8 @@
 11	作品	作品	NN	NN	_	10	dobj	_	start_char=28|end_char=30
 12	。	。	PU	PU	_	3	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_bio_dvorak-26
+# text = 从这段时间流出下来的作品判断，他是自学的作曲，而且可以说是按部就班的，从开始的莫扎特，经门德尔松和舒曼直到1870年代末的瓦格纳。
 1	从	从	P	P	_	4	case	_	start_char=0|end_char=1
 2	这	这	DT	DT	_	4	det	_	start_char=2|end_char=3
 3	段	段	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -540,6 +603,8 @@
 39	瓦格纳	瓦格纳	NR	NR	_	35	dobj	_	start_char=99|end_char=102
 40	。	。	PU	PU	_	15	punct	_	start_char=103|end_char=104
 
+# sent_id = gcdt_bio_dvorak-27
+# text = 刚开始他的重点是弦乐四重奏。
 1	刚	刚	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	开始	开始	VV	VV	_	5	acl	_	start_char=2|end_char=4
 3	他	他	PN	PN	_	2	dobj	_	start_char=5|end_char=6
@@ -550,6 +615,8 @@
 8	四重奏	四重奏	NN	NN	_	0	root	_	start_char=17|end_char=20
 9	。	。	PU	PU	_	8	punct	_	start_char=21|end_char=22
 
+# sent_id = gcdt_bio_dvorak-28
+# text = 1862起Komzák的乐队在新开的布拉格临时剧院登台，约在1865年升级为歌剧乐队。
 1	1862	1862	CD	CD	_	5	nummod	_	start_char=0|end_char=4
 2	起	起	M	M	_	1	mark:clf	_	start_char=5|end_char=6
 3	Komzák	Komzák	NR	NR	_	5	nmod:assmod	_	start_char=7|end_char=13
@@ -572,6 +639,8 @@
 20	乐队	乐队	NN	NN	_	17	dobj	_	start_char=59|end_char=61
 21	。	。	PU	PU	_	12	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_bio_dvorak-29
+# text = 在国家剧院落成之前，这座临时剧院是第一所捷克歌剧戏剧的用武之地。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	国家	国家	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	剧院	剧院	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -592,6 +661,8 @@
 18	用武之地	用武之地	NN	NN	_	0	root	_	start_char=44|end_char=48
 19	。	。	PU	PU	_	18	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_bio_dvorak-30
+# text = 其中斯美塔那贡献良多，他的《勃兰登堡人在波希米亚》和《被出卖的新嫁娘》1866年就是在此首演的。
 1	其中	其中	NN	NN	_	3	nmod:topic	_	start_char=0|end_char=2
 2	斯美塔那	斯美塔那	NR	NR	_	3	nsubj	_	start_char=3|end_char=7
 3	贡献	贡献	VV	VV	_	0	root	_	start_char=8|end_char=10
@@ -621,6 +692,8 @@
 27	的	的	SP	SP	_	26	discourse	_	start_char=72|end_char=73
 28	。	。	PU	PU	_	3	punct	_	start_char=74|end_char=75
 
+# sent_id = gcdt_bio_dvorak-31
+# text = 1865年起德沃夏克除在乐队的工作外，还开始在剧院教授钢琴。
 1	1865年	1865年	NT	NT	_	12	advmod:loc	_	start_char=0|end_char=5
 2	起	起	LC	LC	_	1	case	_	start_char=6|end_char=7
 3	德沃夏克	德沃夏克	NR	NR	_	12	nsubj	_	start_char=8|end_char=12
@@ -639,6 +712,8 @@
 16	钢琴	钢琴	NN	NN	_	0	root	_	start_char=42|end_char=44
 17	。	。	PU	PU	_	16	punct	_	start_char=45|end_char=46
 
+# sent_id = gcdt_bio_dvorak-32
+# text = 他的女学生有姐妹俩Josefina和Anna Čermáková。
 1	他	他	PN	PN	_	4	nmod:assmod	_	start_char=0|end_char=1
 2	的	的	DEG	DEG	_	1	case	_	start_char=2|end_char=3
 3	女	女	JJ	JJ	_	4	amod	_	start_char=4|end_char=5
@@ -651,6 +726,8 @@
 10	Čermáková	Čermáková	NR	NR	_	5	dobj	_	start_char=31|end_char=40
 11	。	。	PU	PU	_	5	punct	_	start_char=41|end_char=42
 
+# sent_id = gcdt_bio_dvorak-33
+# text = 当时德沃夏克爱上了17岁的Josefina，可惜未成眷属，但当时11岁的Anna，却在8年后即1873年11月17日与德沃夏克成婚。
 1	当时	当时	NT	NT	_	3	nmod:tmod	_	start_char=0|end_char=2
 2	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=3|end_char=7
 3	爱上	爱上	VV	VV	_	0	root	_	start_char=8|end_char=10
@@ -684,8 +761,12 @@
 31	成婚	成婚	VV	VV	_	3	conj	_	start_char=93|end_char=95
 32	。	。	PU	PU	_	3	punct	_	start_char=96|end_char=97
 
+# sent_id = gcdt_bio_dvorak-34
+# text = 成名
 1	成名	成名	VV	VV	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_bio_dvorak-35
+# text = 1870年德沃夏克写下第一部歌剧《阿尔弗雷德》，德语剧本，但歌剧在他生前都不曾获得上演机会，可以看作是一次练笔。
 1	1870年	1870年	NT	NT	_	3	nmod:tmod	_	start_char=0|end_char=5
 2	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=6|end_char=10
 3	写下	写下	VV	VV	_	0	root	_	start_char=11|end_char=13
@@ -719,6 +800,8 @@
 31	练笔	练笔	NN	NN	_	27	dobj	_	start_char=83|end_char=85
 32	。	。	PU	PU	_	3	punct	_	start_char=86|end_char=87
 
+# sent_id = gcdt_bio_dvorak-36
+# text = 第一部为观众所接受的作品是歌剧《国王与烧炭工》，Bernhard J. Lobeský写的捷克语剧本。
 1	第一	第一	OD	OD	_	8	nummod	_	start_char=0|end_char=2
 2	部	部	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	为	为	P	P	_	4	case	_	start_char=5|end_char=6
@@ -744,6 +827,8 @@
 23	剧本	剧本	NN	NN	_	18	dobj	_	start_char=68|end_char=70
 24	。	。	PU	PU	_	14	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_bio_dvorak-37
+# text = 1871年7月他辞去了乐队工作，只为了多点时间作曲。
 1	1871年	1871年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	7月	7月	NT	NT	_	4	nmod:tmod	_	start_char=6|end_char=8
 3	他	他	PN	PN	_	4	nsubj	_	start_char=9|end_char=10
@@ -760,6 +845,8 @@
 14	作曲	作曲	VV	VV	_	4	conj	_	start_char=36|end_char=38
 15	。	。	PU	PU	_	4	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_bio_dvorak-38
+# text = 在1871年到1873年，他发表了歌剧，室内乐和为合唱和乐队而写的赞美诗《白色山的遗产》，这些作品得到了热情的赞美与肯定。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	1871年	1871年	NT	NT	_	4	conj	_	start_char=2|end_char=7
 3	到	到	CC	CC	_	4	cc	_	start_char=8|end_char=9
@@ -797,6 +884,8 @@
 35	肯定	肯定	NN	NN	_	29	dobj	_	start_char=92|end_char=94
 36	。	。	PU	PU	_	7	punct	_	start_char=95|end_char=96
 
+# sent_id = gcdt_bio_dvorak-39
+# text = 只是其歌剧《国王与烧炭工》不尽如人意。
 1	只是	只是	AD	AD	_	10	advmod	_	start_char=0|end_char=2
 2	其	其	PN	PN	_	3	nmod:poss	_	start_char=3|end_char=4
 3	歌剧	歌剧	NN	NN	_	7	compound:nn	_	start_char=5|end_char=7
@@ -810,6 +899,8 @@
 11	人意	人意	VV	VV	_	0	root	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	11	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_bio_dvorak-40
+# text = 1873年临时剧院已经开始排演，但是不得不中断，据称原因是这部歌剧太难而不可能演唱。
 1	1873年	1873年	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=5
 2	临时	临时	JJ	JJ	_	3	amod	_	start_char=6|end_char=8
 3	剧院	剧院	NN	NN	_	6	nsubj	_	start_char=9|end_char=11
@@ -835,6 +926,8 @@
 23	演唱	演唱	VV	VV	_	6	conj	_	start_char=61|end_char=63
 24	。	。	PU	PU	_	6	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_bio_dvorak-41
+# text = 德沃夏克再次重新审视其曲风，并且抛弃了新德国学派的那一套重新作曲，1874年首演，结果是大获成功。
 1	德沃夏克	德沃夏克	NR	NR	_	4	nsubj	_	start_char=0|end_char=4
 2	再次	再次	AD	AD	_	4	advmod	_	start_char=5|end_char=7
 3	重新	重新	AD	AD	_	4	advmod	_	start_char=8|end_char=10
@@ -864,6 +957,8 @@
 27	成功	成功	NN	NN	_	26	dobj	_	start_char=72|end_char=74
 28	。	。	PU	PU	_	4	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_bio_dvorak-42
+# text = 1874年开始他开始到私立音乐学校授课，2月他得到了一个管风琴职位，在此位置上他一直工作到1877年。
 1	1874年	1874年	NT	NT	_	5	advmod:loc	_	start_char=0|end_char=5
 2	开始	开始	LC	LC	_	1	case	_	start_char=6|end_char=8
 3	他	他	PN	PN	_	5	nsubj	_	start_char=9|end_char=10
@@ -894,9 +989,13 @@
 28	1877年	1877年	NT	NT	_	26	dobj	_	start_char=72|end_char=77
 29	。	。	PU	PU	_	5	punct	_	start_char=78|end_char=79
 
+# sent_id = gcdt_bio_dvorak-43
+# text = 蜚声国际
 1	蜚声	蜚声	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	国际	国际	NN	NN	_	1	dobj	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_dvorak-44
+# text = 1874年到1877年间他都得到国家奖学金。
 1	1874年	1874年	NT	NT	_	3	conj	_	start_char=0|end_char=5
 2	到	到	CC	CC	_	3	cc	_	start_char=6|end_char=7
 3	1877年	1877年	NT	NT	_	7	advmod:loc	_	start_char=8|end_char=13
@@ -908,6 +1007,8 @@
 9	奖学金	奖学金	NN	NN	_	7	dobj	_	start_char=26|end_char=29
 10	。	。	PU	PU	_	7	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_dvorak-45
+# text = 爱德华·汉斯力克是这个评委会的成员，后来还有勃拉姆斯，后者成就了德沃夏克的决定性突破——通过与之友好的出版商西姆罗克，德沃夏克的二重唱合集《摩拉维亚之声》得以出版。
 1	爱德华·汉斯力克	爱德华·汉斯力克	NR	NR	_	7	nsubj	_	start_char=0|end_char=8
 2	是	是	VC	VC	_	7	cop	_	start_char=9|end_char=10
 3	这	这	DT	DT	_	5	det	_	start_char=11|end_char=12
@@ -950,6 +1051,8 @@
 40	出版	出版	VV	VV	_	33	conj	_	start_char=118|end_char=120
 41	。	。	PU	PU	_	7	punct	_	start_char=121|end_char=122
 
+# sent_id = gcdt_bio_dvorak-46
+# text = 同时，这也标志着两位大作曲家终身友谊的开始。
 1	同时	同时	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	这	这	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -966,9 +1069,13 @@
 14	开始	开始	NN	NN	_	5	dobj	_	start_char=32|end_char=34
 15	。	。	PU	PU	_	5	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_bio_dvorak-47
+# text = 出国旅游
 1	出国	出国	VV	VV	_	2	compound:vc	_	start_char=0|end_char=2
 2	旅游	旅游	VV	VV	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_dvorak-48
+# text = 1884年德沃夏克接受爱乐协会的邀请第一次前往伦敦。
 1	1884年	1884年	NT	NT	_	3	nmod:tmod	_	start_char=0|end_char=5
 2	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=6|end_char=10
 3	接受	接受	VV	VV	_	0	root	_	start_char=11|end_char=13
@@ -982,6 +1089,8 @@
 11	伦敦	伦敦	NR	NR	_	10	dobj	_	start_char=33|end_char=35
 12	。	。	PU	PU	_	3	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_bio_dvorak-49
+# text = 这两年内写成的《鬼新娘》（露莎卡，根据Karel Jaromír Erben的叙事诗写成）和《圣洁的鲁米那》是伯明翰和利兹的委托之作。
 1	这	这	DT	DT	_	5	advmod:loc	_	start_char=0|end_char=1
 2	两	两	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	年	年	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1019,6 +1128,8 @@
 35	作	作	NN	NN	_	0	root	_	start_char=97|end_char=98
 36	。	。	PU	PU	_	35	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_bio_dvorak-50
+# text = 第一次伦敦之行后，德沃夏克到普日布拉姆（Příbram）旁的维索卡山（Vysoka）避暑，在那里他可以充分远离城市享受大自然。
 1	第一	第一	OD	OD	_	4	nummod	_	start_char=0|end_char=2
 2	次	次	M	M	_	1	mark:clf	_	start_char=3|end_char=4
 3	伦敦	伦敦	NR	NR	_	4	nmod:assmod	_	start_char=5|end_char=7
@@ -1050,6 +1161,8 @@
 29	大自然	大自然	NN	NN	_	28	dobj	_	start_char=87|end_char=90
 30	。	。	PU	PU	_	19	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_bio_dvorak-51
+# text = 1877年起他的公众露面停息，只接受少量的委托，修改旧作，写作歌剧《雅各宾派人》。
 1	1877年	1877年	NT	NT	_	6	advmod:loc	_	start_char=0|end_char=5
 2	起	起	LC	LC	_	1	case	_	start_char=6|end_char=7
 3	他	他	PN	PN	_	5	nmod:assmod	_	start_char=8|end_char=9
@@ -1074,6 +1187,8 @@
 22	》	》	PU	PU	_	21	punct	_	start_char=60|end_char=61
 23	。	。	PU	PU	_	6	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_bio_dvorak-52
+# text = 1889年初德沃夏克应俄罗斯皇家音乐协会之邀到访莫斯科和圣彼得堡。
 1	1889年	1889年	NT	NT	_	11	advmod:loc	_	start_char=0|end_char=5
 2	初	初	LC	LC	_	1	case	_	start_char=6|end_char=7
 3	德沃夏克	德沃夏克	NR	NR	_	11	nsubj	_	start_char=8|end_char=12
@@ -1090,6 +1205,8 @@
 14	圣彼得堡	圣彼得堡	VV	VV	_	11	conj	_	start_char=41|end_char=45
 15	。	。	PU	PU	_	11	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_bio_dvorak-53
+# text = 在再一次的伦敦之旅后他回到布拉格，在那里他接受了卡尔斯大学荣誉博士头衔，1890年10月他成为音乐学院教授。
 1	在	在	P	P	_	8	case	_	start_char=0|end_char=1
 2	再	再	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	8	nummod	_	start_char=4|end_char=5
@@ -1123,6 +1240,8 @@
 31	教授	教授	NN	NN	_	28	dobj	_	start_char=81|end_char=83
 32	。	。	PU	PU	_	11	punct	_	start_char=84|end_char=85
 
+# sent_id = gcdt_bio_dvorak-54
+# text = 其实1889年一月他就收到聘任提议，但由于他当时事务繁忙不得不推掉。
 1	其实	其实	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	1889年	1889年	NT	NT	_	3	compound:nn	_	start_char=3|end_char=8
 3	一月	一月	NT	NT	_	6	nmod:tmod	_	start_char=9|end_char=11
@@ -1142,10 +1261,14 @@
 17	推掉	推掉	VV	VV	_	6	nmod:prep	_	start_char=47|end_char=49
 18	。	。	PU	PU	_	6	punct	_	start_char=50|end_char=51
 
+# sent_id = gcdt_bio_dvorak-55
+# text = 在新世界
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	新	新	JJ	JJ	_	3	amod	_	start_char=2|end_char=3
 3	世界	世界	NN	NN	_	0	root	_	start_char=4|end_char=6
 
+# sent_id = gcdt_bio_dvorak-56
+# text = 1892年至1895年间，德沃夏克到纽约市的美国国家音乐学院担任院长，年薪为当时的15000美元，这对德沃夏克的财政状况来说是非常具有吸引力的。-LSB-4-RSB-
 1	1892年	1892年	NT	NT	_	3	conj	_	start_char=0|end_char=5
 2	至	至	CC	CC	_	3	cc	_	start_char=6|end_char=7
 3	1895年	1895年	NT	NT	_	14	advmod:loc	_	start_char=8|end_char=13
@@ -1186,6 +1309,8 @@
 38	4	4	CD	CD	_	39	dep	_	start_char=114|end_char=115
 39	-RSB-	-RSB-	NN	NN	_	14	conj	_	start_char=116|end_char=121
 
+# sent_id = gcdt_bio_dvorak-57
+# text = 但他也要考虑到家庭团聚的问题，他的妻子，女儿Otilie和儿子Antonín陪同前往。
 1	但	但	AD	AD	_	5	advmod	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	5	nsubj	_	start_char=2|end_char=3
 3	也	也	AD	AD	_	5	advmod	_	start_char=4|end_char=5
@@ -1210,6 +1335,8 @@
 22	前往	前往	VV	VV	_	5	conj	_	start_char=61|end_char=63
 23	。	。	PU	PU	_	5	punct	_	start_char=64|end_char=65
 
+# sent_id = gcdt_bio_dvorak-58
+# text = 其他四个孩子只在1893年夏天来美国。
 1	其他	其他	DT	DT	_	4	det	_	start_char=0|end_char=2
 2	四	四	CD	CD	_	1	dep	_	start_char=3|end_char=4
 3	个	个	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -1222,6 +1349,8 @@
 10	美国	美国	NR	NR	_	9	dobj	_	start_char=25|end_char=27
 11	。	。	PU	PU	_	9	punct	_	start_char=28|end_char=29
 
+# sent_id = gcdt_bio_dvorak-59
+# text = 那时一家在爱荷华州的捷克移民村斯毕维里欢度美好时光。
 1	那时	那时	NT	NT	_	11	nmod:tmod	_	start_char=0|end_char=2
 2	一	一	CD	CD	_	9	nummod	_	start_char=3|end_char=4
 3	家	家	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -1237,6 +1366,8 @@
 13	时光	时光	NN	NN	_	11	dobj	_	start_char=35|end_char=37
 14	。	。	PU	PU	_	11	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_bio_dvorak-60
+# text = 聘任建议是由慈善家珍妮特·瑟伯夫人提出的，她想把美国从欧洲音乐一统天下的局面中解放出来，并且树立美国自己的艺术偶像。
 1	聘任	聘任	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	建议	建议	NN	NN	_	8	nsubj	_	start_char=3|end_char=5
 3	是	是	VC	VC	_	8	cop	_	start_char=6|end_char=7
@@ -1271,6 +1402,8 @@
 32	偶像	偶像	NN	NN	_	27	dobj	_	start_char=86|end_char=88
 33	。	。	PU	PU	_	8	punct	_	start_char=89|end_char=90
 
+# sent_id = gcdt_bio_dvorak-61
+# text = 她建议作曲家从美国诗人亨利·沃兹沃思·朗费罗的长诗《海华沙之歌》选取题材，写一部美国歌剧。-LSB-4-RSB-
 1	她	她	PN	PN	_	2	nsubj	_	start_char=0|end_char=1
 2	建议	建议	VV	VV	_	0	root	_	start_char=2|end_char=4
 3	作曲家	作曲家	NN	NN	_	2	dobj	_	start_char=5|end_char=8
@@ -1298,6 +1431,8 @@
 25	4	4	CD	CD	_	26	dep	_	start_char=74|end_char=75
 26	-RSB-	-RSB-	NN	NN	_	2	dep	_	start_char=76|end_char=81
 
+# sent_id = gcdt_bio_dvorak-62
+# text = 德沃夏克深深认同美国黑人和印第安人音乐应该是美国音乐的发展基石，认为通过它们将会找到美国音乐自己的风格。-LSB-5-RSB-
 1	德沃夏克	德沃夏克	NR	NR	_	3	nsubj	_	start_char=0|end_char=4
 2	深深	深深	AD	AD	_	3	advmod	_	start_char=5|end_char=7
 3	认同	认同	VV	VV	_	0	root	_	start_char=8|end_char=10
@@ -1330,6 +1465,8 @@
 30	5	5	CD	CD	_	31	dep	_	start_char=86|end_char=87
 31	-RSB-	-RSB-	NN	NN	_	3	dep	_	start_char=88|end_char=93
 
+# sent_id = gcdt_bio_dvorak-63
+# text = 德沃夏克在纽约遇到了他后来的学生哈里·布雷——最早的美国黑人作曲家之一。
 1	德沃夏克	德沃夏克	NR	NR	_	4	nsubj	_	start_char=0|end_char=4
 2	在	在	P	P	_	3	case	_	start_char=5|end_char=6
 3	纽约	纽约	NR	NR	_	4	nmod:prep	_	start_char=7|end_char=9
@@ -1350,6 +1487,8 @@
 18	之一	之一	NN	NN	_	4	dobj	_	start_char=50|end_char=52
 19	。	。	PU	PU	_	4	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_bio_dvorak-64
+# text = 他向德沃夏克介绍了美国黑人的传统灵歌。-LSB-6-RSB-
 1	他	他	PN	PN	_	4	nsubj	_	start_char=0|end_char=1
 2	向	向	P	P	_	3	case	_	start_char=2|end_char=3
 3	德沃夏克	德沃夏克	NR	NR	_	4	nmod:prep	_	start_char=4|end_char=8
@@ -1365,6 +1504,8 @@
 13	6	6	CD	CD	_	4	dep	_	start_char=36|end_char=37
 14	-RSB-	-RSB-	X	X	_	4	dep	_	start_char=38|end_char=43
 
+# sent_id = gcdt_bio_dvorak-65
+# text = 1893年，德沃夏克从《海华沙之歌》这个描写印第安人的伟大诗篇中找到灵感，再结合自己对印第安人和美国黑人音乐的研究，最终为纽约爱乐乐团写出了很出名的作品：第9号交响曲《来自新大陆》。
 1	1893年	1893年	NT	NT	_	18	nmod:tmod	_	start_char=0|end_char=5
 2	，	，	PU	PU	_	18	punct	_	start_char=6|end_char=7
 3	德沃夏克	德沃夏克	NR	NR	_	18	nsubj	_	start_char=8|end_char=12
@@ -1418,6 +1559,8 @@
 51	》	》	PU	PU	_	48	punct	_	start_char=139|end_char=140
 52	。	。	PU	PU	_	18	punct	_	start_char=141|end_char=142
 
+# sent_id = gcdt_bio_dvorak-66
+# text = 1893年12月16日，德沃夏克的朋友安东·塞德尔指挥纽约爱乐乐团在纽约著名的卡内基音乐厅首演了这部交响曲，获得热烈欢迎。-LSB-4-RSB-
 1	1893年	1893年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	12月	12月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=9
 3	16日	16日	NT	NT	_	19	nmod:tmod	_	start_char=10|end_char=13
@@ -1450,6 +1593,8 @@
 30	4	4	CD	CD	_	31	dep	_	start_char=95|end_char=96
 31	-RSB-	-RSB-	NN	NN	_	19	conj	_	start_char=97|end_char=102
 
+# sent_id = gcdt_bio_dvorak-67
+# text = 他在纽约还写有《感恩赞》和第12号弦乐四重奏，就是《美国弦乐四重奏》。
 1	他	他	PN	PN	_	5	nsubj	_	start_char=0|end_char=1
 2	在	在	P	P	_	3	case	_	start_char=2|end_char=3
 3	纽约	纽约	NR	NR	_	5	nmod:prep	_	start_char=4|end_char=6
@@ -1472,6 +1617,8 @@
 20	》	》	PU	PU	_	19	punct	_	start_char=52|end_char=53
 21	。	。	PU	PU	_	5	punct	_	start_char=54|end_char=55
 
+# sent_id = gcdt_bio_dvorak-68
+# text = 从中可看到美国的音乐元素的渗入，例如五声音阶，一个降低的导音和切分音的应用。
 1	从	从	P	P	_	2	case	_	start_char=0|end_char=1
 2	中	中	NR	NR	_	4	nmod:prep	_	start_char=2|end_char=3
 3	可	可	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -1498,6 +1645,8 @@
 24	应用	应用	NN	NN	_	4	dobj	_	start_char=58|end_char=60
 25	。	。	PU	PU	_	4	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_bio_dvorak-69
+# text = 德沃夏克在音乐学院的主要工作是作曲课，他的学生有鲁宾·高德马克。
 1	德沃夏克	德沃夏克	NR	NR	_	7	nmod	_	start_char=0|end_char=4
 2	在	在	P	P	_	4	case	_	start_char=5|end_char=6
 3	音乐	音乐	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -1516,10 +1665,14 @@
 16	鲁宾·高德马克	鲁宾·高德马克	NR	NR	_	15	dobj	_	start_char=39|end_char=46
 17	。	。	PU	PU	_	10	punct	_	start_char=47|end_char=48
 
+# sent_id = gcdt_bio_dvorak-70
+# text = 从美国归来
 1	从	从	P	P	_	2	case	_	start_char=0|end_char=1
 2	美国	美国	NR	NR	_	3	nmod:prep	_	start_char=2|end_char=4
 3	归来	归来	VV	VV	_	0	root	_	start_char=5|end_char=7
 
+# sent_id = gcdt_bio_dvorak-71
+# text = 本来他的任期为两年，后来延长两年，可是1895年4月德沃夏克就回国了，原因可能是赞助人Thurber经过一次经济危机后财政情况急剧恶化，导致德沃夏克被多次拖欠薪水。
 1	本来	本来	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	4	nmod:assmod	_	start_char=3|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -1566,6 +1719,8 @@
 44	薪水	薪水	NN	NN	_	43	dobj	_	start_char=122|end_char=124
 45	。	。	PU	PU	_	5	punct	_	start_char=125|end_char=126
 
+# sent_id = gcdt_bio_dvorak-72
+# text = 德沃夏克在维索卡山平静地度过了几个月，11月份再次到布拉格音乐学院上任。
 1	德沃夏克	德沃夏克	NR	NR	_	6	nsubj	_	start_char=0|end_char=4
 2	在	在	P	P	_	3	case	_	start_char=5|end_char=6
 3	维索卡山	维索卡山	NR	NR	_	6	nmod:prep	_	start_char=7|end_char=11
@@ -1586,6 +1741,8 @@
 18	上任	上任	VV	VV	_	14	conj	_	start_char=50|end_char=52
 19	。	。	PU	PU	_	6	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_bio_dvorak-73
+# text = 他曾打算过搬到维也纳，在那得到一个位置应该不成问题，但最后还是没有付诸现实。
 1	他	他	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	曾	曾	AD	AD	_	3	advmod	_	start_char=2|end_char=3
 3	打算	打算	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -1612,6 +1769,8 @@
 24	现实	现实	NN	NN	_	23	dobj	_	start_char=58|end_char=60
 25	。	。	PU	PU	_	3	punct	_	start_char=61|end_char=62
 
+# sent_id = gcdt_bio_dvorak-74
+# text = 期间诞生了他最后一部弦乐四重奏。
 1	期间	期间	NN	NN	_	2	nsubj	_	start_char=0|end_char=2
 2	诞生	诞生	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	了	了	AS	AS	_	2	aux:asp	_	start_char=6|end_char=7
@@ -1623,8 +1782,12 @@
 9	四重奏	四重奏	NN	NN	_	2	dobj	_	start_char=20|end_char=23
 10	。	。	PU	PU	_	2	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_bio_dvorak-75
+# text = 交响诗
 1	交响诗	交响诗	NN	NN	_	0	root	_	start_char=0|end_char=3
 
+# sent_id = gcdt_bio_dvorak-76
+# text = 1896年德沃夏克与绝对音乐划清界限。
 1	1896年	1896年	NT	NT	_	6	nmod:tmod	_	start_char=0|end_char=5
 2	德沃夏克	德沃夏克	NR	NR	_	5	conj	_	start_char=6|end_char=10
 3	与	与	CC	CC	_	5	cc	_	start_char=11|end_char=12
@@ -1634,6 +1797,8 @@
 7	界限	界限	NN	NN	_	6	dobj	_	start_char=22|end_char=24
 8	。	。	PU	PU	_	6	punct	_	start_char=25|end_char=26
 
+# sent_id = gcdt_bio_dvorak-77
+# text = 虽然他之前写过一些被称之为标题音乐的作品，如1889年的为钢琴而作的《诗意声乐画》，他称之为“标题音乐，但是是舒曼式的”，或是同年的Dumky三重奏（钢琴三重奏）。
 1	虽然	虽然	CS	CS	_	4	advmod	_	start_char=0|end_char=2
 2	他	他	PN	PN	_	4	advmod:loc	_	start_char=3|end_char=4
 3	之前	之前	LC	LC	_	2	case	_	start_char=5|end_char=7
@@ -1687,6 +1852,8 @@
 51	）	）	PU	PU	_	50	punct	_	start_char=130|end_char=131
 52	。	。	PU	PU	_	30	punct	_	start_char=132|end_char=133
 
+# sent_id = gcdt_bio_dvorak-78
+# text = 但现在他直接转向交响诗的创作。
 1	但	但	AD	AD	_	5	advmod	_	start_char=0|end_char=1
 2	现在	现在	NT	NT	_	5	nmod:tmod	_	start_char=2|end_char=4
 3	他	他	PN	PN	_	5	nsubj	_	start_char=5|end_char=6
@@ -1697,6 +1864,8 @@
 8	创作	创作	NN	NN	_	5	dobj	_	start_char=19|end_char=21
 9	。	。	PU	PU	_	5	punct	_	start_char=22|end_char=23
 
+# sent_id = gcdt_bio_dvorak-79
+# text = 这是一种音乐体裁，在李斯特和瓦格纳的新德国学派里，它是争论的焦点之一。
 1	这	这	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	6	cop	_	start_char=2|end_char=3
 3	一	一	CD	CD	_	6	nummod	_	start_char=4|end_char=5
@@ -1722,6 +1891,8 @@
 23	之一	之一	NN	NN	_	6	conj	_	start_char=54|end_char=56
 24	。	。	PU	PU	_	6	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_bio_dvorak-80
+# text = 这一年之内他写了《露莎卡》、《午时女巫》、《金纺车》和《野鸽》。
 1	这	这	DT	DT	_	6	advmod:loc	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	年	年	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1748,6 +1919,8 @@
 24	》	》	PU	PU	_	23	punct	_	start_char=53|end_char=54
 25	。	。	PU	PU	_	6	punct	_	start_char=55|end_char=56
 
+# sent_id = gcdt_bio_dvorak-81
+# text = 这些作品都是根据捷克诗人Karel Jaromír Erben的叙事诗集《Kytice》创作的。
 1	这些	这些	DT	DT	_	2	det	_	start_char=0|end_char=2
 2	作品	作品	NN	NN	_	17	nsubj	_	start_char=3|end_char=5
 3	都	都	AD	AD	_	17	advmod	_	start_char=6|end_char=7
@@ -1768,6 +1941,8 @@
 18	的	的	SP	SP	_	17	discourse	_	start_char=61|end_char=62
 19	。	。	PU	PU	_	17	punct	_	start_char=63|end_char=64
 
+# sent_id = gcdt_bio_dvorak-82
+# text = 他用散文式的音乐告诉听众这些故事的情节。
 1	他	他	PN	PN	_	6	nsubj	_	start_char=0|end_char=1
 2	用	用	P	P	_	5	case	_	start_char=2|end_char=3
 3	散文式	散文式	JJ	JJ	_	5	amod	_	start_char=4|end_char=7
@@ -1781,6 +1956,8 @@
 11	情节	情节	NN	NN	_	6	dobj	_	start_char=27|end_char=29
 12	。	。	PU	PU	_	6	punct	_	start_char=30|end_char=31
 
+# sent_id = gcdt_bio_dvorak-83
+# text = 下一年他还写了《英雄之歌》，虽然他并没有公开其大纲，但是他在一封信中却对之作了解释。
 1	下	下	DT	DT	_	6	dep	_	start_char=0|end_char=1
 2	一	一	CD	CD	_	1	dep	_	start_char=2|end_char=3
 3	年	年	M	M	_	2	mark:clf	_	start_char=4|end_char=5
@@ -1817,9 +1994,13 @@
 34	解释	解释	NN	NN	_	32	dobj	_	start_char=72|end_char=74
 35	。	。	PU	PU	_	6	punct	_	start_char=75|end_char=76
 
+# sent_id = gcdt_bio_dvorak-84
+# text = 最后岁月
 1	最后	最后	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	岁月	岁月	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_bio_dvorak-85
+# text = 此时的德沃夏克已经完成了其室内乐和管弦乐的创作。
 1	此时	此时	NT	NT	_	3	nmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	德沃夏克	德沃夏克	NR	NR	_	5	nsubj	_	start_char=5|end_char=9
@@ -1834,6 +2015,8 @@
 12	创作	创作	NN	NN	_	5	dobj	_	start_char=32|end_char=34
 13	。	。	PU	PU	_	5	punct	_	start_char=35|end_char=36
 
+# sent_id = gcdt_bio_dvorak-86
+# text = 在他最后的岁月里他只写歌剧：1898年《魔鬼与凯特》、1900年《露莎卡》和1902/3年的《阿米达》。
 1	在	在	P	P	_	5	case	_	start_char=0|end_char=1
 2	他	他	PN	PN	_	5	dep	_	start_char=2|end_char=3
 3	最后	最后	JJ	JJ	_	5	amod	_	start_char=4|end_char=6
@@ -1864,6 +2047,8 @@
 28	》	》	PU	PU	_	27	punct	_	start_char=77|end_char=78
 29	。	。	PU	PU	_	9	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_bio_dvorak-87
+# text = 在《阿米达》首演的时候，德沃夏克因腿疼而不得不中途离开。
 1	在	在	P	P	_	7	case	_	start_char=0|end_char=1
 2	《	《	PU	PU	_	3	punct	_	start_char=2|end_char=3
 3	阿米达	阿米达	NR	NR	_	5	nsubj	_	start_char=4|end_char=7
@@ -1881,6 +2066,8 @@
 15	离开	离开	VV	VV	_	0	root	_	start_char=39|end_char=41
 16	。	。	PU	PU	_	15	punct	_	start_char=42|end_char=43
 
+# sent_id = gcdt_bio_dvorak-88
+# text = 几天后因为感冒，只能在床上休息。
 1	几	几	CD	CD	_	11	advmod:loc	_	start_char=0|end_char=1
 2	天	天	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	后	后	LC	LC	_	1	case	_	start_char=4|end_char=5
@@ -1894,6 +2081,8 @@
 11	休息	休息	VV	VV	_	0	root	_	start_char=23|end_char=25
 12	。	。	PU	PU	_	11	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_bio_dvorak-89
+# text = 1904年5月1日他在家人的陪伴下悄然离世，死因是中风而去世，享寿62岁。
 1	1904年	1904年	NT	NT	_	3	compound:nn	_	start_char=0|end_char=5
 2	5月	5月	NT	NT	_	3	compound:nn	_	start_char=6|end_char=8
 3	1日	1日	NT	NT	_	11	nmod:tmod	_	start_char=9|end_char=11
@@ -1917,6 +2106,8 @@
 21	岁	岁	M	M	_	20	mark:clf	_	start_char=55|end_char=56
 22	。	。	PU	PU	_	11	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_bio_dvorak-90
+# text = 在逝世的第四天，捷克为他举行国葬。
 1	在	在	P	P	_	4	case	_	start_char=0|end_char=1
 2	逝世	逝世	VV	VV	_	4	dep	_	start_char=2|end_char=4
 3	的	的	DEC	DEC	_	2	mark	_	start_char=5|end_char=6
@@ -1930,6 +2121,8 @@
 11	国葬	国葬	NN	NN	_	10	dobj	_	start_char=24|end_char=26
 12	。	。	PU	PU	_	10	punct	_	start_char=27|end_char=28
 
+# sent_id = gcdt_bio_dvorak-91
+# text = 2005年6月捷克票选“最伟大的捷克人”（Největší Čech）中，他排名第八。
 1	2005年	2005年	NT	NT	_	2	compound:nn	_	start_char=0|end_char=5
 2	6月	6月	NT	NT	_	4	nmod:tmod	_	start_char=6|end_char=8
 3	捷克	捷克	NR	NR	_	4	nsubj	_	start_char=9|end_char=11

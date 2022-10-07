@@ -41,66 +41,66 @@
 		<segment id="3" parent="4" relname="context-background">随着 科技 和 医疗 卫生 事业 的 发展 进步 ， // With the development and progress of science and technology and medical and health services ,</segment>
 		<segment id="4" parent="222" relname="span">人口 老龄化 进程 在 世界 范围 内 急剧 发展 ， // The process of population aging is developing rapidly around the world ,</segment>
 		<segment id="5" parent="223" relname="span">老龄化 问题 日益 成为 社会 热点 。 // The problem of aging has become a social hotspot day by day .</segment>
-		<segment id="6" parent="224" relname="joint-list">中国 人口 老龄化 增速 快于 世界 ， // China's population aging is growing faster than the world's.</segment>
+		<segment id="6" parent="224" relname="joint-list">中国 人口 老龄化 增速 快于 世界 ， // China 's population aging is growing faster than the world 's .</segment>
 		<segment id="7" parent="224" relname="joint-list">老龄化 进程 正在 加速 发展 。 // The aging process is accelerating .</segment>
 		<segment id="8" parent="9" relname="context-background">随着 年龄 增长 ， // with age ,</segment>
 		<segment id="9" parent="226" relname="span">老年人 在 身体 机能 、 神经 系统 各 方面 出现 一定 的 退化 和 功能性 障碍 ， // The elderly have certain degeneration and functional impairment in various aspects of physical function and nervous system .</segment>
-		<segment id="10" parent="227" relname="span">对 老年人 的 生活 带来 很 大 影响 ， // have a great impact on the lives of the elderly,</segment>
+		<segment id="10" parent="227" relname="span">对 老年人 的 生活 带来 很 大 影响 ， // have a great impact on the lives of the elderly ,</segment>
 		<segment id="11" parent="229" relname="same-unit">其中 老年人 // Among the elderly</segment>
 		<segment id="12" parent="13" relname="elaboration-attribute">在 言语 交际 能力 方面 存在 的 // presence in verbal communication skills</segment>
 		<segment id="13" parent="228" relname="span">问题 尤为 显著 。 // The problem is particularly pronounced .</segment>
-		<segment id="14" parent="233" relname="same-unit">语言 是 人类 最 重要 的 交际 工具 ， // Language is the most important communication tool for human beings.</segment>
+		<segment id="14" parent="233" relname="same-unit">语言 是 人类 最 重要 的 交际 工具 ， // Language is the most important communication tool for human beings .</segment>
 		<segment id="15" parent="232" relname="same-unit">是 // Yes</segment>
 		<segment id="16" parent="17" relname="purpose-attribute">人们 进行 沟通 的 // people communicate</segment>
-		<segment id="17" parent="231" relname="span">主要 表达 方式 。 // main expression.</segment>
+		<segment id="17" parent="231" relname="span">主要 表达 方式 。 // main expression .</segment>
 		<segment id="18" parent="234" relname="span">老年人 在 言语 交流 上 存在 困难 ， // The elderly have difficulty in verbal communication ,</segment>
 		<segment id="19" parent="18" relname="elaboration-additional">尤其是 言语 感知 上 存在 困难 ， // In particular , there are difficulties in speech perception ,</segment>
 		<segment id="20" parent="236" relname="same-unit">导致 // lead to</segment>
 		<segment id="21" parent="22" relname="context-circumstance">与 他人 交流 时 // when communicating with others</segment>
-		<segment id="22" parent="235" relname="span">有 障碍 ， // have obstacles,</segment>
+		<segment id="22" parent="235" relname="span">有 障碍 ， // have obstacles ,</segment>
 		<segment id="23" parent="237" relname="joint-list">影响 老年人 的 身心 健康 。 // Affect the physical and mental health of the elderly .</segment>
 		<segment id="24" parent="241" relname="same-unit">因此 ， 研究 老年人 言语 感知 特点 和 探索 老年人 言语 感知 策略 ， 能 // Therefore , studying the characteristics of speech perception in the elderly and exploring the strategies of speech perception in the elderly can</segment>
 		<segment id="25" parent="26" relname="purpose-goal">为 提高 老年人 言语 感知 能力 // To improve the speech perception ability of the elderly</segment>
 		<segment id="26" parent="240" relname="span">提供 参考 ， // for reference ,</segment>
 		<segment id="27" parent="242" relname="joint-list">也 能 对 老年人 言语 感知 障碍 的 临床 诊断 治疗 、 老年人 助听器 的 研发 提供 新 思路 ， // It can also provide new ideas for the clinical diagnosis and treatment of speech perception disorders in the elderly and the research and development of hearing aids for the elderly .</segment>
 		<segment id="28" parent="29" relname="purpose-goal">对于 促进 老年人 与 他人 之间 的 交流 沟通 // For the promotion of communication between the elderly and others</segment>
-		<segment id="29" parent="243" relname="span">有 着 重要 作用 。 // has an important role.</segment>
-		<segment id="30" parent="244" relname="span">本 文 将 综述 老年人 在 不同 层面 的 言语 感知 和 理解 中 的 困难 以及 相关 影响 因素 ， // This article will review the difficulties in speech perception and comprehension of the elderly at different levels and related factors.</segment>
+		<segment id="29" parent="243" relname="span">有 着 重要 作用 。 // has an important role .</segment>
+		<segment id="30" parent="244" relname="span">本 文 将 综述 老年人 在 不同 层面 的 言语 感知 和 理解 中 的 困难 以及 相关 影响 因素 ， // This article will review the difficulties in speech perception and comprehension of the elderly at different levels and related factors .</segment>
 		<segment id="31" parent="30" relname="purpose-goal">以期 引起 学界 重视 。 // In order to attract the attention of the academic community .</segment>
-		<segment id="32" parent="424" relname="organization-heading">2. 老年人 言语 感知 障碍 的 特征 // 2. Characteristics of Speech Perception Impairment in the Elderly</segment>
+		<segment id="32" parent="424" relname="organization-heading">2. 老年人 言语 感知 障碍 的 特征 // 2 . Characteristics of Speech Perception Impairment in the Elderly</segment>
 		<segment id="33" parent="248" relname="span">语音 结构 包括 音段 结构 // The speech structure includes the segment structure</segment>
 		<segment id="34" parent="33" relname="restatement-partial">( segmental structure ) // ( segmental structure )</segment>
 		<segment id="35" parent="249" relname="span">和 超音段 结构 // and suprasegmental structure</segment>
-		<segment id="36" parent="35" relname="restatement-partial">( suprasegmental structure ) 。 // ( suprasegmental structure ).</segment>
+		<segment id="36" parent="35" relname="restatement-partial">( suprasegmental structure ) 。 // ( suprasegmental structure ) .</segment>
 		<segment id="37" parent="253" relname="same-unit">音段 指 // segment finger</segment>
 		<segment id="38" parent="39" relname="mode-manner">根据 线性 组合 的 先后 顺序 // According to the sequence of linear combination</segment>
 		<segment id="39" parent="251" relname="span">切分 出来 的 // cut out</segment>
-		<segment id="40" parent="252" relname="span">语音 单位 ， // phonetic unit,</segment>
-		<segment id="41" parent="253" relname="elaboration-additional">各 占 一定 的 时间 段落 。 // Each occupies a certain period of time.</segment>
-		<segment id="42" parent="255" relname="causal-cause">语流 中 最 小 的 音段 是 音位 ， // The smallest segment in the speech flow is the phoneme,</segment>
+		<segment id="40" parent="252" relname="span">语音 单位 ， // phonetic unit ,</segment>
+		<segment id="41" parent="253" relname="elaboration-additional">各 占 一定 的 时间 段落 。 // Each occupies a certain period of time .</segment>
+		<segment id="42" parent="255" relname="causal-cause">语流 中 最 小 的 音段 是 音位 ， // The smallest segment in the speech flow is the phoneme ,</segment>
 		<segment id="43" parent="255" relname="span">因此 音位 也 称 音段 音位 // So phoneme is also called segment phoneme</segment>
 		<segment id="44" parent="256" relname="restatement-repetition">( segmental phonemes ) ， // ( segmental phonemes ) ,</segment>
-		<segment id="45" parent="256" relname="restatement-repetition">即 元音 和 辅音 。 // Namely vowels and consonants.</segment>
+		<segment id="45" parent="256" relname="restatement-repetition">即 元音 和 辅音 。 // Namely vowels and consonants .</segment>
 		<segment id="46" parent="259" relname="same-unit">超音段 特征 指 // suprasegmental features</segment>
 		<segment id="47" parent="48" relname="elaboration-attribute">语音 问题 中 涉及 超出 单音 音段 以上 的 // Speech problems involving more than monophonic segments</segment>
 		<segment id="48" parent="258" relname="span">方面 ， // aspect ,</segment>
 		<segment id="49" parent="260" relname="joint-list">超音段 特征 主要 有 音节 、 重音 、 声调 和 语调 // The suprasegmental features are mainly syllable , stress , intonation and intonation</segment>
 		<segment id="50" parent="260" relname="explanation-evidence">-LSB- 1 -RSB- 。 // -LSB- 1 -RSB- .</segment>
-		<segment id="51" parent="265" relname="span">下文 将 依次 介绍 老年人 在 音段 、 超音段 和 噪音 背景 下 三 个 方面 言语 感知 的 表现 和 特点 。 // The following will introduce the performance and characteristics of speech perception of the elderly in three aspects: segmental, supra-segmental and noise background.</segment>
-		<segment id="52" parent="421" relname="organization-heading">2.1. 音段 感知 // 2.1. Phonological perception</segment>
-		<segment id="53" parent="267" relname="same-unit">元音 方面 ， 衰老 影响 了 // When it comes to vowels, aging affects</segment>
+		<segment id="51" parent="265" relname="span">下文 将 依次 介绍 老年人 在 音段 、 超音段 和 噪音 背景 下 三 个 方面 言语 感知 的 表现 和 特点 。 // The following will introduce the performance and characteristics of speech perception of the elderly in three aspects : segmental , supra - segmental and noise background .</segment>
+		<segment id="52" parent="421" relname="organization-heading">2.1. 音段 感知 // 2.1 . Phonological perception</segment>
+		<segment id="53" parent="267" relname="same-unit">元音 方面 ， 衰老 影响 了 // When it comes to vowels , aging affects</segment>
 		<segment id="54" parent="55" relname="elaboration-attribute">元音 边界 和 元音 中心 对于 识别 元音 的 // Vowel boundaries and vowel centers for vowel identification</segment>
-		<segment id="55" parent="266" relname="span">作用 。 // role.</segment>
+		<segment id="55" parent="266" relname="span">作用 。 // role .</segment>
 		<segment id="56" parent="269" relname="same-unit">衰老 降低 了 // Aging is reduced</segment>
 		<segment id="57" parent="58" relname="context-circumstance">元音 识别 时 // During vowel recognition</segment>
 		<segment id="58" parent="268" relname="span">对 快速 变化 线索 的 处理 能力 。 // Ability to handle rapidly changing leads .</segment>
 		<segment id="59" parent="273" relname="same-unit">相比 // compared to</segment>
 		<segment id="60" parent="61" relname="elaboration-attribute">位于 元音 边缘 的 // on the edge of a vowel</segment>
-		<segment id="61" parent="272" relname="span">共振峰 转移 ， // formant shift,</segment>
+		<segment id="61" parent="272" relname="span">共振峰 转移 ， // formant shift ,</segment>
 		<segment id="62" parent="270" relname="same-unit">老年人 可能 更 依赖 // Older people may be more dependent</segment>
 		<segment id="63" parent="64" relname="elaboration-attribute">位于 元音 中心 的 // at the center of the vowel</segment>
-		<segment id="64" parent="271" relname="span">准稳态 线索 。 // Quasi-steady state cues.</segment>
-		<segment id="65" parent="275" relname="span">Donaldson 等 人 // Donaldson et al.</segment>
+		<segment id="64" parent="271" relname="span">准稳态 线索 。 // Quasi - steady state cues .</segment>
+		<segment id="65" parent="275" relname="span">Donaldson 等 人 // Donaldson et al .</segment>
 		<segment id="66" parent="65" relname="explanation-evidence">-LSB- 2 -RSB- // -LSB- 2 -RSB-</segment>
 		<segment id="67" parent="276" relname="same-unit">的 研究 对比 了 老年人 // The study compared older adults</segment>
 		<segment id="68" parent="69" relname="context-circumstance">在 识别 元音 时 // when recognizing vowels</segment>
@@ -109,7 +109,7 @@
 		<segment id="71" parent="287" relname="attribution-positive">结果 表明 ， // the result shows ,</segment>
 		<segment id="72" parent="280" relname="same-unit">当 只 提供 // when only provided</segment>
 		<segment id="73" parent="74" relname="elaboration-attribute">来自 元音 中心 简短 的 // from vowel center short</segment>
-		<segment id="74" parent="279" relname="span">声学 信息 时 ， // When acoustic information is used,</segment>
+		<segment id="74" parent="279" relname="span">声学 信息 时 ， // When acoustic information is used ,</segment>
 		<segment id="75" parent="281" relname="span">老年人 比 年轻人 在 声音 感知 上 有 更 多 的 困难 。 // Older people have more difficulty in sound perception than younger people .</segment>
 		<segment id="76" parent="77" relname="context-circumstance">然而 ， 当 为 老年人 提供 元音 中心 的 较长 时长 或 元音 边界 的 不同 时长 时 ， // However , when older adults are provided with longer durations of vowel centers or different durations of vowel boundaries ,</segment>
 		<segment id="77" parent="282" relname="span">老年人 的 表现 和 年轻人 相似 。 // Older people behave similarly to younger ones .</segment>
@@ -117,14 +117,14 @@
 		<segment id="79" parent="80" relname="context-circumstance">感知 元音 音质 时 // When perceiving vowel quality</segment>
 		<segment id="80" parent="284" relname="span">处理 动态 感知 线索 的 // processing dynamic sensory cues</segment>
 		<segment id="81" parent="286" relname="span">能力 。 // ability .</segment>
-		<segment id="82" parent="289" relname="span">Fox 等 人 // Fox et al.</segment>
+		<segment id="82" parent="289" relname="span">Fox 等 人 // Fox et al .</segment>
 		<segment id="83" parent="82" relname="explanation-evidence">-LSB- 3 -RSB- // -LSB- 3 -RSB-</segment>
 		<segment id="84" parent="290" relname="same-unit">研究 了 // Researched</segment>
 		<segment id="85" parent="291" relname="span">处理 动态 信息 // Handling dynamic information</segment>
 		<segment id="86" parent="85" relname="purpose-goal">以 识别 元音 音质 的 年龄 相关 差异 。 // To identify age - related differences in vowel quality .</segment>
 		<segment id="87" parent="293" relname="same-unit">该 研究 检查 了 // The study examined</segment>
 		<segment id="88" parent="89" relname="elaboration-attribute">使用 动态 声学 信息 的 // using dynamic acoustic information</segment>
-		<segment id="89" parent="292" relname="span">年龄 相关 差异 ， // age-related differences,</segment>
+		<segment id="89" parent="292" relname="span">年龄 相关 差异 ， // age - related differences ,</segment>
 		<segment id="90" parent="294" relname="span">以 识别 CVC // to identify CVC</segment>
 		<segment id="91" parent="90" relname="restatement-partial">( 辅音 + 元音 + 辅音 ) // ( consonant + vowel + consonant )</segment>
 		<segment id="92" parent="295" relname="same-unit">中 的 元音 音质 。 // vowel quality in .</segment>
@@ -136,12 +136,12 @@
 		<segment id="98" parent="99" relname="elaboration-attribute">( 未 修改 的 // ( unmodified</segment>
 		<segment id="99" parent="300" relname="span">整个 单词 ) // whole word )</segment>
 		<segment id="100" parent="301" relname="span">和 中间 无声段 的 版本 // and a version with a silent middle section</segment>
-		<segment id="101" parent="100" relname="restatement-partial">( 其中 大约 62% 的 中间 元音 被 静音 取代 ) 。 // (about 62% of the middle vowels are replaced by silence).</segment>
+		<segment id="101" parent="100" relname="restatement-partial">( 其中 大约 62% 的 中间 元音 被 静音 取代 ) 。 // ( about 62 % of the middle vowels are replaced by silence ) .</segment>
 		<segment id="102" parent="306" relname="span">正常 听力 的 年轻人 // Young people with normal hearing</segment>
 		<segment id="103" parent="102" relname="restatement-partial">( 19 ~ 25 岁 ) // ( 19 ~ 25 years old )</segment>
 		<segment id="104" parent="305" relname="span">和 老年人 // and the elderly</segment>
 		<segment id="105" parent="104" relname="restatement-partial">( 61 ~ 75 岁 ) // ( 61 ~ 75 years old )</segment>
-		<segment id="106" parent="307" relname="same-unit">识别 这些 语音 。 // recognize these voices.</segment>
+		<segment id="106" parent="307" relname="same-unit">识别 这些 语音 。 // recognize these voices .</segment>
 		<segment id="107" parent="311" relname="attribution-positive">发现 // Find</segment>
 		<segment id="108" parent="311" relname="same-unit">老年人 // elderly</segment>
 		<segment id="109" parent="308" relname="joint-list">在 识别 中间 元音 // in identifying middle vowels</segment>
@@ -155,7 +155,7 @@
 		<segment id="117" parent="118" relname="contingency-condition">随着 年龄 增长 // with age</segment>
 		<segment id="118" parent="316" relname="span">而 降低 的 // and reduced</segment>
 		<segment id="119" parent="317" relname="span">假设 。 // Suppose .</segment>
-		<segment id="120" parent="319" relname="span">辅音 方面 ， Slawinski 等 人 // On consonants, Slawinski et al.</segment>
+		<segment id="120" parent="319" relname="span">辅音 方面 ， Slawinski 等 人 // On consonants , Slawinski et al .</segment>
 		<segment id="121" parent="120" relname="explanation-evidence">-LSB- 4 -RSB- // -LSB- 4 -RSB-</segment>
 		<segment id="122" parent="320" relname="same-unit">研究 了 // Researched</segment>
 		<segment id="123" parent="124" relname="elaboration-attribute">与 年龄 相关 的 // age related</segment>
@@ -166,80 +166,80 @@
 		<segment id="128" parent="323" relname="joint-list">位于 单词 词首 闭塞音 的 // at the beginning of a word with a closed sound</segment>
 		<segment id="129" parent="324" relname="span">范畴性 感知 变化 。 // Categorical perception changes .</segment>
 		<segment id="130" parent="131" relname="elaboration-attribute">发声 和 发音 位置 不同 的 // vocalization and pronunciation position are different</segment>
-		<segment id="131" parent="328" relname="span">单词 词首 闭塞音 的 识别 依赖于 多 个 声学 线索 ， 如 嗓音 起始 时间 // Recognition of word-initial occlusions relies on multiple acoustic cues such as voice onset timing</segment>
-		<segment id="132" parent="328" relname="restatement-partial">( voice onset time , VOT ) 、 // ( voice onset time , VOT ),</segment>
+		<segment id="131" parent="328" relname="span">单词 词首 闭塞音 的 识别 依赖于 多 个 声学 线索 ， 如 嗓音 起始 时间 // Recognition of word - initial occlusions relies on multiple acoustic cues such as voice onset timing</segment>
+		<segment id="132" parent="328" relname="restatement-partial">( voice onset time , VOT ) 、 // ( voice onset time , VOT ) ,</segment>
 		<segment id="133" parent="326" relname="same-unit">第二 和 第三 共振峰 转折 的 起始 频率 和 方向 ， // the onset frequencies and directions of the second and third formant transitions ,</segment>
-		<segment id="134" parent="331" relname="span">其中 嗓音 起始 时间 是 一 种 时长 线索 ， // Among them, the voice start time is a kind of duration clue.</segment>
+		<segment id="134" parent="331" relname="span">其中 嗓音 起始 时间 是 一 种 时长 线索 ， // Among them , the voice start time is a kind of duration clue .</segment>
 		<segment id="135" parent="330" relname="same-unit">指 的 是 // Refers</segment>
 		<segment id="136" parent="137" relname="elaboration-attribute">破裂音 除阻 到 声带 振动 起始点 之间 经历 的 // The experience between crack removal and the onset of vocal cord vibration</segment>
 		<segment id="137" parent="329" relname="span">时间 。 // time .</segment>
-		<segment id="138" parent="333" relname="span">四百 名 受 试者 ， 分为 四 个 年龄组 // Four hundred subjects, divided into four age groups</segment>
+		<segment id="138" parent="333" relname="span">四百 名 受 试者 ， 分为 四 个 年龄组 // Four hundred subjects , divided into four age groups</segment>
 		<segment id="139" parent="138" relname="restatement-partial">( 20 ~ 85 岁 ) // ( 20 ~ 85 years old )</segment>
-		<segment id="140" parent="334" relname="same-unit">和 三 个 听力组 ， // and three listening groups,</segment>
+		<segment id="140" parent="334" relname="same-unit">和 三 个 听力组 ， // and three listening groups ,</segment>
 		<segment id="141" parent="338" relname="same-unit">参加 了 // participated</segment>
 		<segment id="142" parent="336" relname="same-unit">需要 识别 // need to identify</segment>
 		<segment id="143" parent="144" relname="elaboration-attribute">音节 -LSB- ba -RSB- 或 -LSB- pa -RSB- 和 -LSB- ba -RSB- 、 -LSB- da -RSB- 或 -LSB- ga -RSB- 合成 的 // Syllables -LSB- ba -RSB- or -LSB- pa -RSB- and -LSB- ba -RSB- , -LSB- da -RSB- or -LSB- ga -RSB- synthesized</segment>
 		<segment id="144" parent="335" relname="span">连续统 的 // continuum</segment>
-		<segment id="145" parent="337" relname="span">实验 。 // experiment.</segment>
+		<segment id="145" parent="337" relname="span">实验 。 // experiment .</segment>
 		<segment id="146" parent="341" relname="attribution-positive">结果 表明 ， // the result shows ,</segment>
 		<segment id="147" parent="341" relname="same-unit">-LSB- ba - pa -RSB- 连续统 的 音素 边界 // -LSB- ba - pa -RSB- phoneme boundary of the continuum</segment>
 		<segment id="148" parent="149" relname="contingency-condition">随着 年龄 增长 和 听力 水平 的 退化 // Deterioration of hearing levels with age</segment>
-		<segment id="149" parent="340" relname="span">而 向 更 长 的 VOT 移动 。 // Instead, move to a longer VOT.</segment>
+		<segment id="149" parent="340" relname="span">而 向 更 长 的 VOT 移动 。 // Instead , move to a longer VOT .</segment>
 		<segment id="150" parent="346" relname="same-unit">这 种 变化 可能 是 由于 // This change may be due to</segment>
 		<segment id="151" parent="152" relname="purpose-attribute">老年人 分析 简短 的 声音 信号 的 // Analysis of brief sound signals by the elderly</segment>
 		<segment id="152" parent="343" relname="span">能力 以及 // ability and</segment>
 		<segment id="153" parent="154" relname="purpose-attribute">整合 多 个 声学 线索 的 // integrating multiple acoustic cues</segment>
 		<segment id="154" parent="344" relname="span">能力 都 // ability</segment>
 		<segment id="155" parent="156" relname="contingency-condition">随着 年龄 增长 // with age</segment>
-		<segment id="156" parent="345" relname="span">而 降低 。 // and decrease.</segment>
-		<segment id="157" parent="347" relname="span">Gelfand 等 人 // Gelfand et al.</segment>
+		<segment id="156" parent="345" relname="span">而 降低 。 // and decrease .</segment>
+		<segment id="157" parent="347" relname="span">Gelfand 等 人 // Gelfand et al .</segment>
 		<segment id="158" parent="157" relname="explanation-evidence">-LSB- 5 -RSB- // -LSB- 5 -RSB-</segment>
 		<segment id="159" parent="349" relname="span">使用 无 意义 音节 测试 // Use the nonsense syllable test</segment>
-		<segment id="160" parent="159" relname="restatement-partial">( nonsense syllable test , NST ) // (nonsense syllable test, NST)</segment>
+		<segment id="160" parent="159" relname="restatement-partial">( nonsense syllable test , NST ) // ( nonsense syllable test , NST )</segment>
 		<segment id="161" parent="348" relname="joint-list">进行 安静 条件 下 的 辅音 识别 ， // perform consonant recognition under quiet conditions ,</segment>
 		<segment id="162" parent="348" relname="purpose-goal">来 探究 衰老 对 正常 听力者 识别 辅音 的 影响 。 // To explore the effect of aging on the recognition of consonants in normal hearing subjects .</segment>
-		<segment id="163" parent="352" relname="organization-preparation">有 三 个 听力 水平 ， // There are three listening levels,</segment>
-		<segment id="164" parent="352" relname="joint-list">即 最 舒适 水平 、 // the most comfortable level,</segment>
-		<segment id="165" parent="352" relname="joint-list">高于 最 舒适 水平 8 dB 、 // 8 dB above maximum comfort level,</segment>
-		<segment id="166" parent="352" relname="joint-list">低于 最 舒适 水平 8 dB 。 // 8 dB below maximum comfort level.</segment>
+		<segment id="163" parent="352" relname="organization-preparation">有 三 个 听力 水平 ， // There are three listening levels ,</segment>
+		<segment id="164" parent="352" relname="joint-list">即 最 舒适 水平 、 // the most comfortable level ,</segment>
+		<segment id="165" parent="352" relname="joint-list">高于 最 舒适 水平 8 dB 、 // 8 dB above maximum comfort level ,</segment>
+		<segment id="166" parent="352" relname="joint-list">低于 最 舒适 水平 8 dB 。 // 8 dB below maximum comfort level .</segment>
 		<segment id="167" parent="354" relname="context-background">20 岁 到 65 岁 的 正常 听力者 参加 实验 。 // Normal hearing subjects aged 20 to 65 participated in the experiment .</segment>
-		<segment id="168" parent="169" relname="causal-cause">因为 被试 是 正常 听力者 ， // Because the subjects were normal hearing people,</segment>
-		<segment id="169" parent="354" relname="span">所以 整体 的 辅音 识别 性能 很 高 ， // So the overall consonant recognition performance is very high,</segment>
+		<segment id="168" parent="169" relname="causal-cause">因为 被试 是 正常 听力者 ， // Because the subjects were normal hearing people ,</segment>
+		<segment id="169" parent="354" relname="span">所以 整体 的 辅音 识别 性能 很 高 ， // So the overall consonant recognition performance is very high ,</segment>
 		<segment id="170" parent="356" relname="adversative-contrast">但是 年龄 对 表现 水平 的 影响 是 显著 的 。 // But the effect of age on performance levels is significant .</segment>
 		<segment id="171" parent="400" relname="attribution-positive">这些 研究 结果 表明 ， // The results of these studies show that</segment>
 		<segment id="172" parent="358" relname="same-unit">辅音 识别 表现 // Consonant recognition performance</segment>
 		<segment id="173" parent="174" relname="contingency-condition">随 年龄 的 增长 // with age</segment>
-		<segment id="174" parent="357" relname="span">而 降低 ， // while decreasing,</segment>
+		<segment id="174" parent="357" relname="span">而 降低 ， // while decreasing ,</segment>
 		<segment id="175" parent="358" relname="context-circumstance">特别是 声音 低于 最 舒适 听力 水平 时 。 // Especially when the sound is below the most comfortable listening level .</segment>
 		<segment id="176" parent="399" relname="span">辨音 混淆 在 不同 级别 和 年龄组 中 是 相似 的 。 // Phonetic confusion is similar across grades and age groups .</segment>
 		<segment id="177" parent="360" relname="adversative-contrast">正常 听力 的 老年人 在 安静 条件 下 的 辅音 识别 能力 // Consonant recognition ability in normal hearing aged people under quiet conditions</segment>
 		<segment id="178" parent="179" relname="contingency-condition">随 年龄 增长 // grow with age</segment>
-		<segment id="179" parent="361" relname="span">而 降低 ， // while decreasing,</segment>
+		<segment id="179" parent="361" relname="span">而 降低 ， // while decreasing ,</segment>
 		<segment id="180" parent="362" relname="span">但 他们 识别 辅音 与 年轻人 有 相似 的 混淆 错误 。 // But they identify consonants with similar confusion errors as young people .</segment>
-		<segment id="181" parent="363" relname="span">在 Gelfand 等 人 // in Gelfand et al.</segment>
+		<segment id="181" parent="363" relname="span">在 Gelfand 等 人 // in Gelfand et al .</segment>
 		<segment id="182" parent="181" relname="explanation-evidence">-LSB- 6 -RSB- // -LSB- 6 -RSB-</segment>
-		<segment id="183" parent="364" relname="same-unit">后续 的 研究 中 ， 再 一 次 验证 了 这 一 结论 。 // In the follow-up study, this conclusion was verified again.</segment>
-		<segment id="184" parent="365" relname="span">21 ~ 68 岁 的 基本上 正常 听力者 参与 了 无意义 音节 测试 ， // Basically normal hearing subjects aged 21 to 68 participated in the nonsense syllable test,</segment>
+		<segment id="183" parent="364" relname="same-unit">后续 的 研究 中 ， 再 一 次 验证 了 这 一 结论 。 // In the follow - up study , this conclusion was verified again .</segment>
+		<segment id="184" parent="365" relname="span">21 ~ 68 岁 的 基本上 正常 听力者 参与 了 无意义 音节 测试 ， // Basically normal hearing subjects between the ages of 21 and 68 participated in the nonsense syllable test .</segment>
 		<segment id="185" parent="184" relname="purpose-goal">用以 研究 安静 和 噪声 环境 下 的 辅音 识别 。 // To study consonant recognition in quiet and noisy environments .</segment>
 		<segment id="186" parent="370" relname="attribution-positive">研究 结果 表明 ， // Research indicates ,</segment>
-		<segment id="187" parent="367" relname="same-unit">基本上 ， 正常 的 老年人 // Basically, normal seniors</segment>
+		<segment id="187" parent="367" relname="same-unit">基本上 ， 正常 的 老年人 // Basically , normal seniors</segment>
 		<segment id="188" parent="189" relname="context-circumstance">在 安静 和 嘈杂 的 环境 下 // in quiet and noisy environments</segment>
 		<segment id="189" parent="368" relname="span">辅音 识别 能力 // Consonant recognition ability</segment>
 		<segment id="190" parent="191" relname="contingency-condition">随着 年龄 增长 // with age</segment>
-		<segment id="191" parent="366" relname="span">而 降低 ， // while decreasing,</segment>
+		<segment id="191" parent="366" relname="span">而 降低 ， // while decreasing ,</segment>
 		<segment id="192" parent="370" relname="adversative-contrast">但 他们 音素 混淆 的 情况 与 年轻人 相似 。 // But their phonemic confusion is similar to that of young people .</segment>
-		<segment id="193" parent="372" relname="span">Helfer 等 人 // Helfer et al.</segment>
+		<segment id="193" parent="372" relname="span">Helfer 等 人 // Helfer et al .</segment>
 		<segment id="194" parent="193" relname="explanation-evidence">-LSB- 7 -RSB- // -LSB- 7 -RSB-</segment>
 		<segment id="195" parent="373" relname="same-unit">测试 无意义 音节 测试 的 识别 准确度 和 错误 模式 。 // Testing the recognition accuracy and error patterns of nonsense syllables tests .</segment>
 		<segment id="196" parent="378" relname="span">三 组 受试者 // Three groups of subjects</segment>
 		<segment id="197" parent="198" relname="elaboration-attribute">( 正常 听力 的 // ( normal hearing</segment>
-		<segment id="198" parent="374" relname="span">年轻人 ， // young people,</segment>
+		<segment id="198" parent="374" relname="span">年轻人 ， // young people ,</segment>
 		<segment id="199" parent="200" relname="elaboration-attribute">听力 受损 的 // hearing impaired</segment>
-		<segment id="200" parent="376" relname="span">老年人 ， // elderly,</segment>
+		<segment id="200" parent="376" relname="span">老年人 ， // elderly ,</segment>
 		<segment id="201" parent="202" relname="elaboration-attribute">听力 损失 较小 的 // less hearing loss</segment>
-		<segment id="202" parent="377" relname="span">老年人 ) // elderly)</segment>
-		<segment id="203" parent="379" relname="same-unit">参加 了 实验 ， // participated in the experiment,</segment>
-		<segment id="204" parent="381" relname="joint-list">在 安静 、 噪音 、 混响 和 混响 加 噪音 四 种 情况 下 双耳 识别 刺激音 。 // Binaural recognition of stimuli in four conditions: quiet, noise, reverberation, and reverberation plus noise.</segment>
+		<segment id="202" parent="377" relname="span">老年人 ) // elderly )</segment>
+		<segment id="203" parent="379" relname="same-unit">参加 了 实验 ， // participated in the experiment ,</segment>
+		<segment id="204" parent="381" relname="joint-list">在 安静 、 噪音 、 混响 和 混响 加 噪音 四 种 情况 下 双耳 识别 刺激音 。 // Binaural recognition of stimuli in four conditions : quiet , noise , reverberation , and reverberation plus noise .</segment>
 		<segment id="205" parent="394" relname="attribution-positive">结果 表明 ， // the result shows ,</segment>
 		<segment id="206" parent="382" relname="same-unit">老年 受试者 // elderly subjects</segment>
 		<segment id="207" parent="208" relname="context-circumstance">在 识别 辅音 // in identifying consonants</segment>
@@ -247,12 +247,12 @@
 		<segment id="209" parent="384" relname="span">一些 困难 与 听力 损失 的 程度 有关 。 // Some difficulties are related to the degree of hearing loss .</segment>
 		<segment id="210" parent="386" relname="same-unit">辅音 识别 困难 // Consonant recognition difficulty</segment>
 		<segment id="211" parent="212" relname="context-circumstance">在 不同 听力 条件 下 // under different hearing conditions</segment>
-		<segment id="212" parent="385" relname="span">也 会 有所 不同 ， 特别是 对于 鼻音 和 半元音 的 识别 。 // Also makes a difference, especially for the recognition of nasals and half-vowels.</segment>
+		<segment id="212" parent="385" relname="span">也 会 有所 不同 ， 特别是 对于 鼻音 和 半元音 的 识别 。 // Also makes a difference , especially for the recognition of nasals and half - vowels .</segment>
 		<segment id="213" parent="389" relname="same-unit">总体 来看 ， 在 音段 感知 方面 ， // Overall , in terms of segment perception ,</segment>
 		<segment id="214" parent="215" relname="purpose-attribute">老年人 分析 简短 的 声音 信号 的 // Analysis of brief sound signals by the elderly</segment>
 		<segment id="215" parent="387" relname="span">能力 // ability</segment>
 		<segment id="216" parent="217" relname="contingency-condition">随着 年龄 增长 // with age</segment>
-		<segment id="217" parent="388" relname="span">而 降低 。 // and decrease.</segment>
+		<segment id="217" parent="388" relname="span">而 降低 。 // and decrease .</segment>
 		<segment id="218" parent="391" relname="same-unit">衰老 降低 了 老年人 // Aging reduces the elderly</segment>
 		<segment id="219" parent="220" relname="context-circumstance">元音 识别 时 // During vowel recognition</segment>
 		<segment id="220" parent="390" relname="span">对 快速 变化 线索 的 处理 能力 ， // Ability to handle rapidly changing leads ,</segment>

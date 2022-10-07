@@ -1,4 +1,4 @@
-<text id="gum_zh_academic_iconicity" author="Qi Huang, Tongquan Zhou" dateCollected="2022-01-02" dateCreated="2021-12-29" dateModified="XXXX-XX-XX" shortTitle="iconicity" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=47577" speakerCount="0" speakerList="none" title="英语中动态的象似性分析" type="academic"/>
+<text id="gum_zh_academic_iconicity" author="Qi Huang, Tongquan Zhou" dateCollected="2022-01-02" dateCreated="2021-12-29" dateModified="XXXX-XX-XX" shortTitle="iconicity" sourceURL="https://www.hanspub.org/journal/PaperInformation.aspx?paperID=47577" speakerCount="0" speakerList="none" title="英语中动态的象似性分析" genre="academic"/>
 英语中动态的象似性分析
 
 <section/>

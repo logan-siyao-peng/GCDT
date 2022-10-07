@@ -1,3 +1,16 @@
+# newdoc id = gcdt_academic_yun
+# meta::dateCollected = 2022-01-02
+# meta::dateCreated = 2019-08-20
+# meta::dateModified = XXXX-XX-XX
+# meta::sourceURL = https://www.hanspub.org/journal/PaperInformation.aspx?paperID=31775
+# meta::speakerCount = 0
+# meta::title = “云”在网络语言中的副词化特征
+# meta::shortTitle = yun
+# meta::author = Jinhui Chang
+# meta::genre = academic
+# meta::partition = train
+# sent_id = gcdt_academic_yun-1
+# text = “云”在网络语言中的副词化特征
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NR	NR	_	10	dep	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -9,9 +22,13 @@
 9	副词化	副词化	NN	NN	_	10	compound:nn	_	start_char=18|end_char=21
 10	特征	特征	NN	NN	_	0	root	_	start_char=22|end_char=24
 
+# sent_id = gcdt_academic_yun-2
+# text = 1. 引言
 1	1.	1.	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	引言	引言	NN	NN	_	0	root	_	start_char=3|end_char=5
 
+# sent_id = gcdt_academic_yun-3
+# text = “云”这一汉字的词义丰富，词性多样。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NR	NR	_	6	nmod	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -26,6 +43,8 @@
 12	多样	多样	VA	VA	_	9	conj	_	start_char=26|end_char=28
 13	。	。	PU	PU	_	9	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_academic_yun-4
+# text = 《现代汉语词典》 (第7版)中，“云”作为汉语常用字，最早来源于甲骨文，多用于名词，意为悬浮在空中由大量水滴、冰晶或兼由两者组成可见的聚合体。
 1	《	《	PU	PU	_	4	punct	_	start_char=0|end_char=1
 2	现代	现代	JJ	JJ	_	4	amod	_	start_char=2|end_char=4
 3	汉语	汉语	NN	NN	_	4	compound:nn	_	start_char=5|end_char=7
@@ -74,6 +93,8 @@
 46	体	体	NN	NN	_	41	dobj	_	start_char=113|end_char=114
 47	。	。	PU	PU	_	21	punct	_	start_char=115|end_char=116
 
+# sent_id = gcdt_academic_yun-5
+# text = 比如，“朝辞白帝彩云间” (《早发白帝城》李白)。
 1	比如	比如	AD	AD	_	13	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	13	punct	_	start_char=3|end_char=4
 3	“	“	PU	PU	_	13	punct	_	start_char=5|end_char=6
@@ -93,6 +114,8 @@
 17	)	)	PU	PU	_	13	punct	_	start_char=38|end_char=39
 18	。	。	PU	PU	_	13	punct	_	start_char=40|end_char=41
 
+# sent_id = gcdt_academic_yun-6
+# text = 后来由此引申出盛、多的意义，作形容词。
 1	后来	后来	AD	AD	_	4	advmod	_	start_char=0|end_char=2
 2	由	由	P	P	_	3	case	_	start_char=3|end_char=4
 3	此	此	PN	PN	_	4	nmod:prep	_	start_char=5|end_char=6
@@ -108,6 +131,8 @@
 13	形容词	形容词	NN	NN	_	12	dobj	_	start_char=27|end_char=30
 14	。	。	PU	PU	_	4	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_academic_yun-7
+# text = 比如，“齐子归止，其从如云” (《诗·齐风·敝笱》)，这里的云是“多”的意思，“云涛”，形容云起盛多如波涛汹涌。
 1	比如	比如	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	“	“	PU	PU	_	5	punct	_	start_char=5|end_char=6
@@ -147,6 +172,8 @@
 37	汹涌	汹涌	VV	VV	_	33	ccomp	_	start_char=88|end_char=90
 38	。	。	PU	PU	_	5	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_academic_yun-8
+# text = 同时，云也常做语气助词，动词，以及代词，多用于古代汉语，现代汉语并不常见。
 1	同时	同时	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	云	云	NN	NN	_	6	nsubj	_	start_char=5|end_char=6
@@ -172,6 +199,8 @@
 23	常见	常见	VA	VA	_	6	conj	_	start_char=56|end_char=58
 24	。	。	PU	PU	_	6	punct	_	start_char=59|end_char=60
 
+# sent_id = gcdt_academic_yun-9
+# text = 近年来，随着计算机技术的兴起，互联网的广泛应用，“云”的语义和语用发生了变化，起先，在专业计算机领域中，我们常常看到“云计算”，“云存储”，“云管家”这类专业名词。
 1	近年	近年	NT	NT	_	22	advmod:loc	_	start_char=0|end_char=2
 2	来	来	LC	LC	_	1	case	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	22	punct	_	start_char=5|end_char=6
@@ -228,6 +257,8 @@
 54	名词	名词	NN	NN	_	36	dobj	_	start_char=132|end_char=134
 55	。	。	PU	PU	_	22	punct	_	start_char=135|end_char=136
 
+# sent_id = gcdt_academic_yun-10
+# text = “云”在这里的词义不同于以往，“云”意为虚拟化资源的集合，用作副词，成为互联网，网络的一种比喻说法。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NN	NN	_	8	nsubj	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -262,6 +293,8 @@
 32	说法	说法	NN	NN	_	24	dobj	_	start_char=78|end_char=80
 33	。	。	PU	PU	_	8	punct	_	start_char=81|end_char=82
 
+# sent_id = gcdt_academic_yun-11
+# text = 后来，该用法不断泛化，成为网络上的一种常见用法，我们可以在网络上看到“云追星”，“云吸猫”，“云吃饭”等等一些流行网络语，它们是互联网时代的产物。
 1	后来	后来	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	该	该	DT	DT	_	4	det	_	start_char=5|end_char=6
@@ -311,9 +344,13 @@
 47	产物	产物	NN	NN	_	6	conj	_	start_char=116|end_char=118
 48	。	。	PU	PU	_	6	punct	_	start_char=119|end_char=120
 
+# sent_id = gcdt_academic_yun-12
+# text = 例如：
 1	例如	例如	AD	AD	_	0	root	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_academic_yun-13
+# text = 乌有之猫，云吸猫，迷群的认同与幻想。(出自硕士论文题目)
 1	乌有	乌有	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	之	之	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	猫	猫	NN	NN	_	6	nmod:topic	_	start_char=5|end_char=6
@@ -335,6 +372,8 @@
 19	题目	题目	NN	NN	_	15	dobj	_	start_char=43|end_char=45
 20	)	)	PU	PU	_	6	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_yun-14
+# text = 好饿，让我们一起云吃饭吧！(微博话题，配图为菜肴图片)
 1	好	好	AD	AD	_	2	advmod	_	start_char=0|end_char=1
 2	饿	饿	VA	VA	_	0	root	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -355,6 +394,8 @@
 18	图片	图片	NN	NN	_	15	dobj	_	start_char=41|end_char=43
 19	)	)	PU	PU	_	2	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_academic_yun-15
+# text = 今日的云吸猫，安排上了。(微博，配图为猫咪照片)
 1	今日	今日	NT	NT	_	3	nmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	云	云	NN	NN	_	4	nsubj	_	start_char=5|end_char=6
@@ -373,6 +414,8 @@
 16	照片	照片	NN	NN	_	13	dobj	_	start_char=36|end_char=38
 17	)	)	PU	PU	_	4	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_yun-16
+# text = 我要脱离云追星了，每天这样太耽误时间了。(微博，无配图)
 1	我	我	PN	PN	_	3	nsubj	_	start_char=0|end_char=1
 2	要	要	VV	VV	_	3	xcomp	_	start_char=2|end_char=3
 3	脱离	脱离	VV	VV	_	0	root	_	start_char=4|end_char=6
@@ -394,6 +437,8 @@
 19	配图	配图	NN	NN	_	18	dobj	_	start_char=43|end_char=45
 20	)	)	PU	PU	_	3	punct	_	start_char=46|end_char=47
 
+# sent_id = gcdt_academic_yun-17
+# text = 互联网和大数据时代不仅改变了我们的生活方式，还改变了我们的说话方式，语言方式，“云”这一字不再单纯地表示天上的云朵，而是衍生出了更多的意义。
 1	互联网	互联网	NN	NN	_	3	conj	_	start_char=0|end_char=3
 2	和	和	CC	CC	_	3	cc	_	start_char=4|end_char=5
 3	大数据	大数据	NN	NN	_	4	compound:nn	_	start_char=6|end_char=9
@@ -442,6 +487,8 @@
 46	意义	意义	NN	NN	_	40	dobj	_	start_char=112|end_char=114
 47	。	。	PU	PU	_	6	punct	_	start_char=115|end_char=116
 
+# sent_id = gcdt_academic_yun-18
+# text = 在互联网时代中，“云”的分布搭配，语义特征，语用功能已呈现出副词化特征。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	互联网	互联网	NN	NN	_	3	compound:nn	_	start_char=2|end_char=5
 3	时代	时代	NN	NN	_	19	nmod:prep	_	start_char=6|end_char=8
@@ -466,6 +513,8 @@
 22	特征	特征	NN	NN	_	19	dobj	_	start_char=54|end_char=56
 23	。	。	PU	PU	_	19	punct	_	start_char=57|end_char=58
 
+# sent_id = gcdt_academic_yun-19
+# text = 本文拟借鉴语言模因论，从全新的角度，对“云”这一词汇新的语义特征，语用功能的生成机制进行详细的阐释，从而有助于总结流行语发展和变化的规律。
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	文	文	NN	NN	_	4	nsubj	_	start_char=2|end_char=3
 3	拟	拟	AD	AD	_	4	advmod	_	start_char=4|end_char=5
@@ -511,6 +560,8 @@
 43	规律	规律	NN	NN	_	37	dobj	_	start_char=108|end_char=110
 44	。	。	PU	PU	_	4	punct	_	start_char=111|end_char=112
 
+# sent_id = gcdt_academic_yun-20
+# text = 本文的语料来源于北大语料库，及各大门户网站，新浪微博等新媒体平台。
 1	本	本	DT	DT	_	2	det	_	start_char=0|end_char=1
 2	文	文	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=3
 3	的	的	DEG	DEG	_	2	case	_	start_char=4|end_char=5
@@ -533,10 +584,14 @@
 20	平台	平台	NN	NN	_	5	dobj	_	start_char=49|end_char=51
 21	。	。	PU	PU	_	5	punct	_	start_char=52|end_char=53
 
+# sent_id = gcdt_academic_yun-21
+# text = 2. 副词化现象
 1	2.	2.	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	副词化	副词化	NN	NN	_	3	compound:nn	_	start_char=3|end_char=6
 3	现象	现象	NN	NN	_	0	root	_	start_char=7|end_char=9
 
+# sent_id = gcdt_academic_yun-22
+# text = 所谓副词化，是指原本不具有副词属性的汉字在特定的语言环境下可以做副词使用，修饰动词短语或形容词，目前，汉语中有字词如“果断”已呈现“副词化”特征(方艳，2019) -LSB-1-RSB- ，主要用作状语修饰动词和动词短语。
 1	所谓	所谓	JJ	JJ	_	2	amod	_	start_char=0|end_char=2
 2	副词化	副词化	NN	NN	_	5	nsubj	_	start_char=3|end_char=6
 3	，	，	PU	PU	_	5	punct	_	start_char=7|end_char=8
@@ -601,12 +656,18 @@
 62	短语	短语	NN	NN	_	58	dobj	_	start_char=167|end_char=169
 63	。	。	PU	PU	_	5	punct	_	start_char=170|end_char=171
 
+# sent_id = gcdt_academic_yun-23
+# text = 试比较：
 1	试	试	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	比较	比较	VV	VV	_	1	ccomp	_	start_char=2|end_char=4
 3	：	：	PU	PU	_	1	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_academic_yun-24
+# text = 果断
 1	果断	果断	VA	VA	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_academic_yun-25
+# text = a) 刚工作了两个月，果断买了这辆奔驰车。
 1	a)	a)	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	刚	刚	AD	AD	_	3	advmod	_	start_char=3|end_char=4
 3	工作	工作	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -624,6 +685,8 @@
 15	车	车	NN	NN	_	10	dobj	_	start_char=32|end_char=33
 16	。	。	PU	PU	_	3	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_academic_yun-26
+# text = b) 抚将士有恩，而明察果断，用法严峻(宋《资治通鉴》)
 1	b)	b)	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	抚	抚	VV	VV	_	0	root	_	start_char=3|end_char=4
 3	将士	将士	NN	NN	_	2	dobj	_	start_char=5|end_char=7
@@ -644,6 +707,8 @@
 18	》	》	PU	PU	_	17	punct	_	start_char=42|end_char=43
 19	)	)	PU	PU	_	2	punct	_	start_char=44|end_char=45
 
+# sent_id = gcdt_academic_yun-27
+# text = 从古代汉语到现代汉语，果断这一词语常规用作形容词，意为“有决断，不犹豫”，“果断”这一词语主要用来充当谓语和定语(如2b)。
 1	从	从	P	P	_	3	case	_	start_char=0|end_char=1
 2	古代	古代	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	汉语	汉语	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -687,6 +752,8 @@
 41	)	)	PU	PU	_	33	punct	_	start_char=100|end_char=101
 42	。	。	PU	PU	_	33	punct	_	start_char=102|end_char=103
 
+# sent_id = gcdt_academic_yun-28
+# text = 但是，近年来，“果断”作状语的搭配用法占主导趋势，其语义分布和搭配以及语用功能已经呈现出副词化特征(方艳，2019) -LSB-1-RSB- 。
 1	但是	但是	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	近年	近年	NT	NT	_	14	advmod:loc	_	start_char=5|end_char=7
@@ -727,6 +794,8 @@
 38	-RSB-	-RSB-	NN	NN	_	27	dobj	_	start_char=101|end_char=106
 39	。	。	PU	PU	_	14	punct	_	start_char=107|end_char=108
 
+# sent_id = gcdt_academic_yun-29
+# text = 除此以外，“神”作为修饰语的搭配用法呈现出不断扩展的趋势，在新时代下，它在网络用语和日常生活中，用法已经慢慢呈现出程度化和请状化的副词化特征(方艳，2017) -LSB-2-RSB- 。
 1	除此以外	除此以外	AD	AD	_	11	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	11	punct	_	start_char=5|end_char=6
 3	“	“	PU	PU	_	4	punct	_	start_char=7|end_char=8
@@ -779,10 +848,14 @@
 50	-RSB-	-RSB-	NN	NN	_	35	dobj	_	start_char=134|end_char=139
 51	。	。	PU	PU	_	11	punct	_	start_char=140|end_char=141
 
+# sent_id = gcdt_academic_yun-30
+# text = 试比较：
 1	试	试	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	比较	比较	VV	VV	_	1	ccomp	_	start_char=2|end_char=4
 3	：	：	PU	PU	_	1	punct	_	start_char=5|end_char=6
 
+# sent_id = gcdt_academic_yun-31
+# text = c) 这么快你就回来了，神速！
 1	c)	c)	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	这么	这么	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	快	快	VA	VA	_	6	dep	_	start_char=6|end_char=7
@@ -795,6 +868,8 @@
 10	速	速	VV	VV	_	6	conj	_	start_char=21|end_char=22
 11	！	！	PU	PU	_	6	punct	_	start_char=23|end_char=24
 
+# sent_id = gcdt_academic_yun-32
+# text = d) 又要交作业了，神烦。
 1	d)	d)	NN	NN	_	3	nsubj	_	start_char=0|end_char=2
 2	又要	又要	AD	AD	_	3	advmod	_	start_char=3|end_char=5
 3	交	交	VV	VV	_	8	dep	_	start_char=6|end_char=7
@@ -805,6 +880,8 @@
 8	烦	烦	VA	VA	_	0	root	_	start_char=17|end_char=18
 9	。	。	PU	PU	_	3	punct	_	start_char=19|end_char=20
 
+# sent_id = gcdt_academic_yun-33
+# text = “神”的本义是“与凡人相反，神仙，具有凡人无法拥有的能力。”
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	神	神	NN	NN	_	5	nmod:assmod	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -827,6 +904,8 @@
 20	。	。	PU	PU	_	10	punct	_	start_char=47|end_char=48
 21	”	”	PU	PU	_	10	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_academic_yun-34
+# text = 后来引申出“高超，惊人的”这一形容词语义，在“神” + 形容词类新词中，“神”又引申出表示“程度高”的副词性语义。
 1	后来	后来	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	引申	引申	VV	VV	_	0	root	_	start_char=3|end_char=5
 3	出	出	VV	VV	_	2	advmod:rcomp	_	start_char=6|end_char=7
@@ -866,6 +945,8 @@
 37	语义	语义	NN	NN	_	28	dobj	_	start_char=88|end_char=90
 38	。	。	PU	PU	_	2	punct	_	start_char=91|end_char=92
 
+# sent_id = gcdt_academic_yun-35
+# text = 如此可见，网络用语中的越来越多词汇创新导致了语法层面上的创新，不同词汇在使用上呈现出了副词化的特征，陈新仁(2017)提出对于词汇，语法创新，我们可以从模因论视角来解读，本文试从模因论理论出发，解读网络语言中“云”的副词化特征。
 1	如	如	AD	AD	_	4	advmod	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	4	nsubj	_	start_char=2|end_char=3
 3	可	可	VV	VV	_	4	aux:modal	_	start_char=4|end_char=5
@@ -938,6 +1019,8 @@
 70	特征	特征	NN	NN	_	61	dobj	_	start_char=180|end_char=182
 71	。	。	PU	PU	_	4	punct	_	start_char=183|end_char=184
 
+# sent_id = gcdt_academic_yun-36
+# text = “云”的语义演变——副词化
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NN	NN	_	6	nmod:assmod	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -947,6 +1030,8 @@
 7	——	——	PU	PU	_	8	punct	_	start_char=14|end_char=16
 8	副词化	副词化	NN	NN	_	6	parataxis:prnmod	_	start_char=17|end_char=20
 
+# sent_id = gcdt_academic_yun-37
+# text = 从古代汉语到现代汉语，“云”字的含义丰富且稳定。
 1	从	从	P	P	_	3	case	_	start_char=0|end_char=1
 2	古代	古代	NN	NN	_	3	compound:nn	_	start_char=2|end_char=4
 3	汉语	汉语	NN	NN	_	14	nmod:prep	_	start_char=5|end_char=7
@@ -965,6 +1050,8 @@
 16	稳定	稳定	VA	VA	_	14	conj	_	start_char=36|end_char=38
 17	。	。	PU	PU	_	14	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_yun-38
+# text = 比较常见的用法有：表示说话，引文(如2e)；用作文言助词；以及表示水汽上升遇冷凝聚成微小的水珠集合。
 1	比较	比较	AD	AD	_	2	advmod	_	start_char=0|end_char=2
 2	常见	常见	JJ	JJ	_	4	amod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
@@ -997,6 +1084,8 @@
 30	集合	集合	NN	NN	_	25	dobj	_	start_char=76|end_char=78
 31	。	。	PU	PU	_	7	punct	_	start_char=79|end_char=80
 
+# sent_id = gcdt_academic_yun-39
+# text = e) 云，山川气也。——《说文》
 1	e)	e)	VV	VV	_	10	dep	_	start_char=0|end_char=2
 2	云	云	NN	NN	_	1	dobj	_	start_char=3|end_char=4
 3	，	，	PU	PU	_	5	punct	_	start_char=5|end_char=6
@@ -1009,6 +1098,8 @@
 10	说文	说文	NN	NN	_	0	root	_	start_char=21|end_char=23
 11	》	》	PU	PU	_	10	punct	_	start_char=24|end_char=25
 
+# sent_id = gcdt_academic_yun-40
+# text = 同时，云也可做形容词，比喻甚多，比如：
 1	同时	同时	AD	AD	_	6	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	6	punct	_	start_char=3|end_char=4
 3	云	云	NR	NR	_	6	nsubj	_	start_char=5|end_char=6
@@ -1024,6 +1115,8 @@
 13	比如	比如	AD	AD	_	6	dep	_	start_char=28|end_char=30
 14	：	：	PU	PU	_	6	punct	_	start_char=31|end_char=32
 
+# sent_id = gcdt_academic_yun-41
+# text = f) 齐子归止，其从如云。——《诗·齐风·敞简》
 1	f)	f)	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	齐子	齐子	NN	NN	_	3	nsubj	_	start_char=3|end_char=5
 3	归止	归止	VV	VV	_	0	root	_	start_char=6|end_char=8
@@ -1038,6 +1131,8 @@
 12	诗·齐风·敞简	诗·齐风·敞简	VV	VV	_	3	conj	_	start_char=26|end_char=33
 13	》	》	PU	PU	_	12	punct	_	start_char=34|end_char=35
 
+# sent_id = gcdt_academic_yun-42
+# text = 后来，随着互联网兴起，计算机工作者开始用“云”的形状来表示电信网络，或是用来表示互联网和底层基础设施的抽象。
 1	后来	后来	AD	AD	_	17	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	17	punct	_	start_char=3|end_char=4
 3	随着	随着	P	P	_	5	case	_	start_char=5|end_char=7
@@ -1070,6 +1165,8 @@
 30	抽象	抽象	NN	NN	_	23	dobj	_	start_char=80|end_char=82
 31	。	。	PU	PU	_	17	punct	_	start_char=83|end_char=84
 
+# sent_id = gcdt_academic_yun-43
+# text = “云”本来是“小水滴的集合”，而这里，将它转喻为“虚拟资源的集合”。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NN	NN	_	10	nsubj	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -1097,6 +1194,8 @@
 25	”	”	PU	PU	_	24	punct	_	start_char=56|end_char=57
 26	。	。	PU	PU	_	10	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_yun-44
+# text = 在这里通过转喻，赋予“云”新的语义，形象，生动地表达了计算机领域的概念。
 1	在	在	P	P	_	2	case	_	start_char=0|end_char=1
 2	这里	这里	PN	PN	_	18	nmod:prep	_	start_char=2|end_char=4
 3	通过	通过	P	P	_	4	case	_	start_char=5|end_char=7
@@ -1122,9 +1221,13 @@
 23	概念	概念	NN	NN	_	18	dobj	_	start_char=55|end_char=57
 24	。	。	PU	PU	_	18	punct	_	start_char=58|end_char=59
 
+# sent_id = gcdt_academic_yun-45
+# text = 比如：
 1	比如	比如	AD	AD	_	0	root	_	start_char=0|end_char=2
 2	：	：	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_academic_yun-46
+# text = g) 云服务是基于“云计算”技术，实现各种终端设备之间的互联互通。
 1	g)	g)	NR	NR	_	3	compound:nn	_	start_char=0|end_char=2
 2	云	云	NN	NN	_	3	compound:nn	_	start_char=3|end_char=4
 3	服务	服务	NN	NN	_	12	nsubj	_	start_char=5|end_char=7
@@ -1147,6 +1250,8 @@
 20	互通	互通	NN	NN	_	12	dobj	_	start_char=48|end_char=50
 21	。	。	PU	PU	_	12	punct	_	start_char=51|end_char=52
 
+# sent_id = gcdt_academic_yun-47
+# text = 随着互联网信息时代的兴起，云的语义再一次被网民们赋予了新的意义。
 1	随着	随着	P	P	_	6	case	_	start_char=0|end_char=2
 2	互联网	互联网	NN	NN	_	4	compound:nn	_	start_char=3|end_char=6
 3	信息	信息	NN	NN	_	4	compound:nn	_	start_char=7|end_char=9
@@ -1167,6 +1272,8 @@
 18	意义	意义	NN	NN	_	14	dobj	_	start_char=46|end_char=48
 19	。	。	PU	PU	_	14	punct	_	start_char=49|end_char=50
 
+# sent_id = gcdt_academic_yun-48
+# text = “云”从“虚拟资源的集合”转化为“线上”，此时，“云”的语义顺应外部条件的变化，被赋予了新的语义特征，“云”在网络语言中被副词化，从专业领域进入到人们的日常生活当中。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NR	NR	_	11	nsubj	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -1226,6 +1333,8 @@
 57	当中	当中	LC	LC	_	56	case	_	start_char=136|end_char=138
 58	。	。	PU	PU	_	11	punct	_	start_char=139|end_char=140
 
+# sent_id = gcdt_academic_yun-49
+# text = 让我们一起云追星吧！(微博话题，配图为菜肴图片)
 1	让	让	VV	VV	_	0	root	_	start_char=0|end_char=1
 2	我们	我	PN	PN	_	1	dobj	_	start_char=2|end_char=4
 3	一起	一起	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -1243,6 +1352,8 @@
 15	图片	图片	NN	NN	_	12	dobj	_	start_char=35|end_char=37
 16	)	)	PU	PU	_	1	punct	_	start_char=38|end_char=39
 
+# sent_id = gcdt_academic_yun-50
+# text = 今日的云吸猫，安排上了。(微博，配图为猫咪照片)
 1	今日	今日	NT	NT	_	3	nmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	云	云	NN	NN	_	4	nsubj	_	start_char=5|end_char=6
@@ -1261,6 +1372,8 @@
 16	照片	照片	NN	NN	_	13	dobj	_	start_char=36|end_char=38
 17	)	)	PU	PU	_	4	punct	_	start_char=39|end_char=40
 
+# sent_id = gcdt_academic_yun-51
+# text = 总的来说，结合当今网络信息时代来看，“云”的使用情况来看，“云”的语义已经发生了一定的变化。
 1	总的来说	总的来说	AD	AD	_	24	advmod	_	start_char=0|end_char=4
 2	，	，	PU	PU	_	24	punct	_	start_char=5|end_char=6
 3	结合	结合	VV	VV	_	24	advcl:loc	_	start_char=7|end_char=9
@@ -1291,6 +1404,8 @@
 28	变化	变化	NN	NN	_	24	dobj	_	start_char=70|end_char=72
 29	。	。	PU	PU	_	24	punct	_	start_char=73|end_char=74
 
+# sent_id = gcdt_academic_yun-52
+# text = 语义的变化导致了语法，词汇属性的变化。
 1	语义	语义	NN	NN	_	3	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	变化	变化	NN	NN	_	4	nsubj	_	start_char=5|end_char=7
@@ -1304,6 +1419,8 @@
 11	变化	变化	NN	NN	_	4	dobj	_	start_char=26|end_char=28
 12	。	。	PU	PU	_	4	punct	_	start_char=29|end_char=30
 
+# sent_id = gcdt_academic_yun-53
+# text = “云”在网络语言和专有领域里出现了副词化特征。
 1	“	“	PU	PU	_	2	punct	_	start_char=0|end_char=1
 2	云	云	NN	NN	_	11	nsubj	_	start_char=2|end_char=3
 3	”	”	PU	PU	_	2	punct	_	start_char=4|end_char=5
@@ -1320,6 +1437,8 @@
 14	特征	特征	NN	NN	_	11	dobj	_	start_char=33|end_char=35
 15	。	。	PU	PU	_	11	punct	_	start_char=36|end_char=37
 
+# sent_id = gcdt_academic_yun-54
+# text = 从“云计算”到“云服务”这类计算机专有领域发展到“云聊天”，“云追星”这些网络用语，都已经呈现出了“云”的副词化特征。
 1	从	从	P	P	_	15	case	_	start_char=0|end_char=1
 2	“	“	PU	PU	_	4	punct	_	start_char=2|end_char=3
 3	云	云	NR	NR	_	4	nsubj	_	start_char=4|end_char=5

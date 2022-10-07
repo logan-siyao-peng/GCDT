@@ -1,3 +1,16 @@
+# newdoc id = gcdt_interview_exiderdome
+# meta::dateCollected = 2022-01-03
+# meta::dateCreated = 2007-09-14
+# meta::dateModified = 2016-08-07
+# meta::sourceURL = https://zh.wikinews.org/wiki/%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B1%95%E5%A4%96%E4%B8%80%E7%AB%A0_%E8%A5%BF%E9%96%80%E5%AD%90%E8%87%AA%E5%8B%95%E5%8C%96%E4%B9%8B%E5%9F%8E_%E5%B1%95%E7%8F%BE%E4%BC%81%E6%A5%AD%E5%BD%A2%E8%B1%A1
+# meta::speakerCount = 2
+# meta::title = 半导体展外一章 西门子自动化之城 展现企业形象
+# meta::shortTitle = exiderdome
+# meta::author = Wikinews
+# meta::genre = interview
+# meta::partition = train
+# sent_id = gcdt_interview_exiderdome-1
+# text = 半导体展外一章 西门子自动化之城 展现企业形象
 1	半导体	半导体	NN	NN	_	2	compound:nn	_	start_char=0|end_char=3
 2	展外	展外	NN	NN	_	8	compound:nn	_	start_char=4|end_char=6
 3	一	一	CD	CD	_	8	nummod	_	start_char=7|end_char=8
@@ -10,6 +23,8 @@
 10	企业	企业	NN	NN	_	11	compound:nn	_	start_char=26|end_char=28
 11	形象	形象	NN	NN	_	9	dobj	_	start_char=29|end_char=31
 
+# sent_id = gcdt_interview_exiderdome-2
+# text = 【2007年9月14日讯】
 1	【	【	PU	PU	_	5	punct	_	start_char=0|end_char=1
 2	2007年	2007年	NT	NT	_	5	dep	_	start_char=2|end_char=7
 3	9月	9月	NT	NT	_	5	dep	_	start_char=8|end_char=10
@@ -17,6 +32,8 @@
 5	讯	讯	VV	VV	_	0	root	_	start_char=15|end_char=16
 6	】	】	PU	PU	_	5	punct	_	start_char=17|end_char=18
 
+# sent_id = gcdt_interview_exiderdome-3
+# text = 台湾半导体设备暨材料展，今日进入最后一天的展期，参展厂商之一的西门子，为了配合半导体展，今年也首度从国外引进“自动化之城”（exiderdome）到台湾，透过双层货柜，在台北市信义区A13停车场架设的展区，让各相关产业人士了解德国西门子公司的企业运作与形象，并且体验自动化的强大优势。
 1	台湾	台湾	NR	NR	_	5	nmod:assmod	_	start_char=0|end_char=2
 2	半导体	半导体	NN	NN	_	5	compound:nn	_	start_char=3|end_char=6
 3	设备	设备	NN	NN	_	5	conj	_	start_char=7|end_char=9
@@ -95,6 +112,8 @@
 76	优势	优势	NN	NN	_	72	dobj	_	start_char=214|end_char=216
 77	。	。	PU	PU	_	31	punct	_	start_char=217|end_char=218
 
+# sent_id = gcdt_interview_exiderdome-4
+# text = 为此，维基新闻记者Brock，访问了西门子自动化暨驱动事业部的跨国专案经理黄文琪（Stephen Huang）与协理郑智峰（Ken Cheng），并借由展览的参访，让西门子介绍本次展出的特色，以下是针对本次特展所进行的访问内容。
 1	为	为	P	P	_	2	case	_	start_char=0|end_char=1
 2	此	此	PN	PN	_	9	nmod:prep	_	start_char=2|end_char=3
 3	，	，	PU	PU	_	9	punct	_	start_char=4|end_char=5
@@ -153,17 +172,23 @@
 56	内容	内容	NN	NN	_	9	conj	_	start_char=164|end_char=166
 57	。	。	PU	PU	_	9	punct	_	start_char=167|end_char=168
 
+# sent_id = gcdt_interview_exiderdome-5
+# text = 参观时间的访问
 1	参观	参观	NN	NN	_	2	compound:nn	_	start_char=0|end_char=2
 2	时间	时间	NN	NN	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
 4	访问	访问	NN	NN	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_interview_exiderdome-6
+# text = 选择台湾的原因？
 1	选择	选择	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	台湾	台湾	NR	NR	_	4	nmod:assmod	_	start_char=3|end_char=5
 3	的	的	DEG	DEG	_	2	case	_	start_char=6|end_char=7
 4	原因	原因	NN	NN	_	1	dobj	_	start_char=8|end_char=10
 5	？	？	PU	PU	_	1	punct	_	start_char=11|end_char=12
 
+# sent_id = gcdt_interview_exiderdome-7
+# text = 您好，很荣幸来到西门子的“exiderdome”，请教一下这次配合半导体展选择台湾进行展出的原因和机缘？
 1	您好	您好	AD	AD	_	5	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	5	punct	_	start_char=3|end_char=4
 3	很	很	AD	AD	_	5	advmod	_	start_char=5|end_char=6
@@ -191,6 +216,8 @@
 25	机缘	机缘	NN	NN	_	12	dobj	_	start_char=73|end_char=75
 26	？	？	PU	PU	_	5	punct	_	start_char=76|end_char=77
 
+# sent_id = gcdt_interview_exiderdome-8
+# text = 很荣幸接受您的访问，本人非常感激。
 1	很	很	AD	AD	_	3	advmod	_	start_char=0|end_char=1
 2	荣幸	荣幸	AD	AD	_	3	advmod	_	start_char=2|end_char=4
 3	接受	接受	VV	VV	_	0	root	_	start_char=5|end_char=7
@@ -203,6 +230,8 @@
 10	感激	感激	VV	VV	_	3	conj	_	start_char=23|end_char=25
 11	。	。	PU	PU	_	10	punct	_	start_char=26|end_char=27
 
+# sent_id = gcdt_interview_exiderdome-9
+# text = 其实，西门子这次来到台湾进行这项特展，是希望借由“自动化之城”的展示，让许多产业了解到企业自动化流程运作的优势，虽然本次展出恰巧也选在半导体展的期间，但实际上，西门子针对半导体产业的解决方案，其实仅有2~3%的比率，因为西门子在本次展示中，是希望将上下游厂商整合、产品生命周期转换的观念，让所有工业界了解到自动化的优势。
 1	其实	其实	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	西门子	西门子	NR	NR	_	6	nsubj	_	start_char=5|end_char=8
@@ -300,6 +329,8 @@
 95	优势	优势	NN	NN	_	91	dobj	_	start_char=251|end_char=253
 96	。	。	PU	PU	_	14	punct	_	start_char=254|end_char=255
 
+# sent_id = gcdt_interview_exiderdome-10
+# text = 这次选择台湾，是第一次也是唯一的一次，起因是西门子总部在台湾和其他产业合作，已有50年的历史，包括台北101照明、台湾地区的电力设备、台北捷运系统等，都有相当丰硕的成果，总部也希望借由台湾的展出，让产业界了解到企业流程的需求，并协助台湾企业的发展。
 1	这	这	DT	DT	_	3	dep	_	start_char=0|end_char=1
 2	次	次	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	选择	选择	VV	VV	_	10	dep	_	start_char=4|end_char=6
@@ -381,12 +412,16 @@
 79	发展	发展	NN	NN	_	75	dobj	_	start_char=199|end_char=201
 80	。	。	PU	PU	_	3	punct	_	start_char=202|end_char=203
 
+# sent_id = gcdt_interview_exiderdome-11
+# text = 产品生命周期的应对
 1	产品	产品	NN	NN	_	3	compound:nn	_	start_char=0|end_char=2
 2	生命	生命	NN	NN	_	3	compound:nn	_	start_char=3|end_char=5
 3	周期	周期	NN	NN	_	5	nmod:assmod	_	start_char=6|end_char=8
 4	的	的	DEG	DEG	_	3	case	_	start_char=9|end_char=10
 5	应对	应对	NN	NN	_	0	root	_	start_char=11|end_char=13
 
+# sent_id = gcdt_interview_exiderdome-12
+# text = 在周二的SEMI展前记者会中，部分厂商提到，现在的产品生命周期，因为消费者求新求变的需求，加上许多产品的人性化，衍生出不同的周期，而导致厂商必须获取新的物料与升级生产技术，面对这些趋势，西门子要如何应对这股潮流？
 1	在	在	P	P	_	6	case	_	start_char=0|end_char=1
 2	周二	周二	NT	NT	_	6	nmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -450,6 +485,8 @@
 61	潮流	潮流	NN	NN	_	58	dobj	_	start_char=163|end_char=165
 62	？	？	PU	PU	_	11	punct	_	start_char=166|end_char=167
 
+# sent_id = gcdt_interview_exiderdome-13
+# text = 西门子在工业上，是以服务提供者的角色，提供产业在各方面的解决方案，至今，现在的厂商，无论晶圆与精密产品，讲求的是以产品整合与少量多样为主，面对声明周期瞬息万变的趋势，厂商必须搜集好相关的资讯，在生产线方面，中央控制系统与产能的控制都显得重要许多，另外，厂商在生产过程中的用电负荷，也是值得去注意的，因此，西门子也有一套电力资讯的解决方案，让厂商可以了解到生产时消耗的相关成本（资金、电力、材料…等），进而达到最佳的生产效益。
 1	西门子	西门子	NR	NR	_	13	nsubj	_	start_char=0|end_char=3
 2	在	在	P	P	_	3	case	_	start_char=4|end_char=5
 3	工业	工业	NN	NN	_	13	nmod:prep	_	start_char=6|end_char=8
@@ -586,6 +623,8 @@
 134	效益	效益	NN	NN	_	130	dobj	_	start_char=342|end_char=344
 135	。	。	PU	PU	_	13	punct	_	start_char=345|end_char=346
 
+# sent_id = gcdt_interview_exiderdome-14
+# text = 因此，西门子就以全方位整合供电系统与全方位整合自动化作为主题，进行展出。
 1	因此	因此	AD	AD	_	14	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	14	punct	_	start_char=3|end_char=4
 3	西门子	西门子	NR	NR	_	14	nsubj	_	start_char=5|end_char=8
@@ -606,11 +645,15 @@
 18	展出	展出	NN	NN	_	17	dobj	_	start_char=50|end_char=52
 19	。	。	PU	PU	_	14	punct	_	start_char=53|end_char=54
 
+# sent_id = gcdt_interview_exiderdome-15
+# text = 西门子的其他投资
 1	西门子	西门子	NR	NR	_	4	nmod:assmod	_	start_char=0|end_char=3
 2	的	的	DEG	DEG	_	1	case	_	start_char=4|end_char=5
 3	其他	其他	DT	DT	_	4	det	_	start_char=6|end_char=8
 4	投资	投资	NN	NN	_	0	root	_	start_char=9|end_char=11
 
+# sent_id = gcdt_interview_exiderdome-16
+# text = 就本人所知，西门子除了工业解决方案，以往也在电信产业是很出名的，甚至还有和明基（佳士达电通）合作建立BenQ-Siemens的品牌，驰名于欧洲地区，为何在后来会舍弃电信产业这区块？
 1	就	就	P	P	_	4	case	_	start_char=0|end_char=1
 2	本人	本人	PN	PN	_	4	nsubj	_	start_char=2|end_char=4
 3	所	所	MSP	MSP	_	4	aux:prtmod	_	start_char=5|end_char=6
@@ -662,9 +705,13 @@
 49	区块	区块	NN	NN	_	45	dobj	_	start_char=135|end_char=137
 50	？	？	PU	PU	_	45	punct	_	start_char=138|end_char=139
 
+# sent_id = gcdt_interview_exiderdome-17
+# text = 影响？
 1	影响	影响	NN	NN	_	0	root	_	start_char=0|end_char=2
 2	？	？	PU	PU	_	1	punct	_	start_char=3|end_char=4
 
+# sent_id = gcdt_interview_exiderdome-18
+# text = 西门子以往在电信产业确实有一定的名气，但是在电信技术的趋势持续转变的状态下，电信界的龙头老大摩托罗拉就一直稳定成长，反之，西门子却出现衰退的情形，因此在后来，才会将这区块给放弃。
 1	西门子	西门子	NR	NR	_	7	nsubj	_	start_char=0|end_char=3
 2	以往	以往	NT	NT	_	7	nmod:tmod	_	start_char=4|end_char=6
 3	在	在	P	P	_	5	case	_	start_char=7|end_char=8
@@ -721,6 +768,8 @@
 54	放弃	放弃	VV	VV	_	7	conj	_	start_char=139|end_char=141
 55	。	。	PU	PU	_	7	punct	_	start_char=142|end_char=143
 
+# sent_id = gcdt_interview_exiderdome-19
+# text = 但是，并不影响到其他部门的运作，原先的电子产业，就持续地成长，我们所见到的台北101夜间照明、台北捷运列车、台湾的电力设备，都可以见到西门子的影子，所以这就是西门子可以立足电子业的关键。
 1	但是	但是	AD	AD	_	19	advmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	19	punct	_	start_char=3|end_char=4
 3	并不	并不	AD	AD	_	4	advmod	_	start_char=5|end_char=7
@@ -778,6 +827,8 @@
 55	关键	关键	NN	NN	_	19	conj	_	start_char=144|end_char=146
 56	。	。	PU	PU	_	19	punct	_	start_char=147|end_char=148
 
+# sent_id = gcdt_interview_exiderdome-20
+# text = 我们这次展出，的确有很多的解决方案，让各产业的生产过程标准化，是西门子现今发展的目标，进而使我们从竞争者转变成服务提供者的原因。
 1	我们	我	PN	PN	_	4	compound:nn	_	start_char=0|end_char=2
 2	这	这	DT	DT	_	4	det	_	start_char=3|end_char=4
 3	次	次	M	M	_	2	mark:clf	_	start_char=5|end_char=6
@@ -818,11 +869,15 @@
 38	原因	原因	NN	NN	_	29	dobj	_	start_char=98|end_char=100
 39	。	。	PU	PU	_	7	punct	_	start_char=101|end_char=102
 
+# sent_id = gcdt_interview_exiderdome-21
+# text = 特展的其他特色
 1	特展	特展	NN	NN	_	4	nmod:assmod	_	start_char=0|end_char=2
 2	的	的	DEG	DEG	_	1	case	_	start_char=3|end_char=4
 3	其他	其他	DT	DT	_	4	det	_	start_char=5|end_char=7
 4	特色	特色	NN	NN	_	0	root	_	start_char=8|end_char=10
 
+# sent_id = gcdt_interview_exiderdome-22
+# text = 除了您之前讲过的两项重点以外，这次的“exiderdome”来台展出，其他的特色内容还包含？
 1	除了	除了	P	P	_	8	case	_	start_char=0|end_char=2
 2	您	您	PN	PN	_	4	nmod:prep	_	start_char=3|end_char=4
 3	之前	之前	LC	LC	_	2	case	_	start_char=5|end_char=7
@@ -851,6 +906,8 @@
 26	包含	包含	VV	VV	_	0	root	_	start_char=68|end_char=70
 27	？	？	PU	PU	_	26	punct	_	start_char=71|end_char=72
 
+# sent_id = gcdt_interview_exiderdome-23
+# text = 这次展览当中，我们的解决方案就包含电力供应、RFID技术、自动感应器等三大项目，每一个产业都有专属的解决方案，另外，在多媒体馆内的影片导览中，我们在三面墙上设置了旋转镜面，以立体实境的方式，让参观者可以快速进入西门子提出的自动化世界，让参观者可以了解到自动化对企业的好处，也符合我们提出的“全方位整合自动化”方案。
 1	这	这	DT	DT	_	3	det	_	start_char=0|end_char=1
 2	次	次	M	M	_	1	mark:clf	_	start_char=2|end_char=3
 3	展览	展览	NN	NN	_	11	advmod:loc	_	start_char=4|end_char=6
@@ -948,10 +1005,14 @@
 95	方案	方案	NN	NN	_	86	dobj	_	start_char=248|end_char=250
 96	。	。	PU	PU	_	11	punct	_	start_char=251|end_char=252
 
+# sent_id = gcdt_interview_exiderdome-24
+# text = 西门子在台湾
 1	西门子	西门子	NR	NR	_	3	dep	_	start_char=0|end_char=3
 2	在	在	P	P	_	3	case	_	start_char=4|end_char=5
 3	台湾	台湾	NR	NR	_	0	root	_	start_char=6|end_char=8
 
+# sent_id = gcdt_interview_exiderdome-25
+# text = 在您走过这两层楼的展示后，其实可以见到西门子在台湾的形象与成果，台湾在北、中、南皆有据点，以台北为中心向各地扩展，西门子要提供的，是给各产业的解决方案，而配合世贸进行的半导体展览，我们也提供了相应的方案给有兴趣的客户，这是我们选择在信义商圈展出的原因。
 1	在	在	P	P	_	3	case	_	start_char=0|end_char=1
 2	您	您	PN	PN	_	3	nsubj	_	start_char=2|end_char=3
 3	走	走	VV	VV	_	15	nmod:prep	_	start_char=4|end_char=5
@@ -1041,8 +1102,12 @@
 87	原因	原因	NN	NN	_	15	conj	_	start_char=209|end_char=211
 88	。	。	PU	PU	_	15	punct	_	start_char=212|end_char=213
 
+# sent_id = gcdt_interview_exiderdome-26
+# text = 结论
 1	结论	结论	NN	NN	_	0	root	_	start_char=0|end_char=2
 
+# sent_id = gcdt_interview_exiderdome-27
+# text = 在台北世贸举行的部分国际大展，时常都可以见到某些厂商为了展现企业形象，选在周边或其他地方举行宣传性的展外展，或是商机洽谈的活动。
 1	在	在	P	P	_	8	case	_	start_char=0|end_char=1
 2	台北	台北	NR	NR	_	3	nmod:assmod	_	start_char=2|end_char=4
 3	世贸	世贸	NN	NN	_	4	nmod:prep	_	start_char=5|end_char=7
@@ -1081,6 +1146,8 @@
 36	活动	活动	NN	NN	_	27	dobj	_	start_char=96|end_char=98
 37	。	。	PU	PU	_	13	punct	_	start_char=99|end_char=100
 
+# sent_id = gcdt_interview_exiderdome-28
+# text = 往年，台北电信展中，部分国内大厂的比拼，甚至连台北东区都成为战场；国际电脑展呢？
 1	往年	往年	NT	NT	_	18	nmod:tmod	_	start_char=0|end_char=2
 2	，	，	PU	PU	_	18	punct	_	start_char=3|end_char=4
 3	台北	台北	NR	NR	_	4	nmod:assmod	_	start_char=5|end_char=7
@@ -1106,6 +1173,8 @@
 23	呢	呢	SP	SP	_	18	discourse	_	start_char=60|end_char=61
 24	？	？	PU	PU	_	18	punct	_	start_char=62|end_char=63
 
+# sent_id = gcdt_interview_exiderdome-29
+# text = 则是某些厂商把世贸商圈，用不同的型式互相拼场，有的是租下周边广告，有的则是在周边办活动拉人气，足以显见展外展对于正式展览的正面效应。
 1	则	则	AD	AD	_	14	advmod	_	start_char=0|end_char=1
 2	是	是	VC	VC	_	14	cop	_	start_char=2|end_char=3
 3	某些	某些	DT	DT	_	4	det	_	start_char=4|end_char=6
@@ -1148,6 +1217,8 @@
 40	效应	效应	NN	NN	_	33	dobj	_	start_char=102|end_char=104
 41	。	。	PU	PU	_	14	punct	_	start_char=105|end_char=106
 
+# sent_id = gcdt_interview_exiderdome-30
+# text = 而本次的半导体展中，参展商之一的西门子，将邻近新光商圈的停车场给租下来，并从国外引进货柜屋，进行这项产业解决方案的展示，着实地为展览加分，并达成了宣传效果，也确实将他们要呈现的技术成果发挥得淋漓尽致。
 1	而	而	AD	AD	_	19	advmod	_	start_char=0|end_char=1
 2	本次	本次	NN	NN	_	4	nmod:assmod	_	start_char=2|end_char=4
 3	的	的	DEG	DEG	_	2	case	_	start_char=5|end_char=6
@@ -1211,6 +1282,8 @@
 61	尽致	尽致	VA	VA	_	60	compound:vc	_	start_char=157|end_char=159
 62	。	。	PU	PU	_	19	punct	_	start_char=160|end_char=161
 
+# sent_id = gcdt_interview_exiderdome-31
+# text = 预料在未来，无论哪一项国际展览，类似的展外展比拼，仍就会成为各家媒体瞩目的焦点。
 1	预料	预料	VV	VV	_	0	root	_	start_char=0|end_char=2
 2	在	在	P	P	_	3	case	_	start_char=3|end_char=4
 3	未来	未来	NT	NT	_	19	nmod:prep	_	start_char=5|end_char=7

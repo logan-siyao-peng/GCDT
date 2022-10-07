@@ -1,11 +1,12 @@
 import os, io, re
 import argparse
 from glob import glob
+import xmltodict
 
 import stanza
 from stanza.utils.conll import CoNLL
 
-from utils import read_text_file, write_parsed_file, write_lines_file, get_basename_and_branch, get_file_modified_time
+from utils import read_text_file, write_lines_file, get_basename_and_branch, get_file_modified_time
 
 
 def set_up_nlp(has_gold_tokens=True, has_gold_sentences=True, use_onto_trained=True):
@@ -28,6 +29,31 @@ def parse_sentence(nlp, sentence):
 	tokens = " ".join([x[1] for x in conllu[0]])
 	conllu = "\n".join(['\t'.join(x) for x in conllu[0]])
 	return tokens, conllu
+
+
+def write_parsed_file(output_parse, text_lines, meta_header, basename, parsed_file):
+	assert len(output_parse) == len(text_lines)
+	with io.open(parsed_file, "w", encoding="utf8") as f_parsed:
+		f_parsed.write(meta_header)
+		for chunk_id in range(len(output_parse)):
+			f_parsed.write("# sent_id = %s-%d\n# text = %s\n%s\n\n"
+			               % (basename, chunk_id + 1, text_lines[chunk_id], output_parse[chunk_id]))
+
+
+def add_metadata(basename, branch):
+	raw_dir = "../data/raw/"
+	raw_lines = io.open(raw_dir + branch + os.sep + basename + ".txt", "r", encoding="utf8").read().strip().split("\n")
+	raw_header_line = raw_lines[0]
+	xml_dict = xmltodict.parse(raw_header_line, encoding="utf-8")["text"]
+	meta_header = "# newdoc id = %s\n# meta::dateCollected = %s\n# meta::dateCreated = %s\n# meta::dateModified = %s\n" \
+	              "# meta::sourceURL = %s\n# meta::speakerCount = %s\n# meta::title = %s\n" \
+	              "# meta::shortTitle = %s\n# meta::author = %s\n# meta::genre = %s\n# meta::partition = %s\n" \
+	              % (basename, xml_dict["@dateCollected"], xml_dict["@dateCreated"], xml_dict["@dateModified"],
+	                 xml_dict["@sourceURL"], xml_dict["@speakerCount"], xml_dict["@title"],
+	                 xml_dict["@shortTitle"], xml_dict["@author"], xml_dict["@genre"], branch)
+	text_lines = [x for x in raw_lines if x.strip()!="" and not x.startswith("<")]
+	return meta_header, text_lines
+	
 
 def parse_documents(parsed_output_dir, use_onto_trained=True, replace_existing = False):
 	# Set up nlp
@@ -61,9 +87,12 @@ def parse_documents(parsed_output_dir, use_onto_trained=True, replace_existing =
 		# Write or assert tokens
 		mismatches = [(idx, lines[idx], tokens_list[idx]) for idx in range(len(tokens_list)) if lines[idx]!=tokens_list[idx]]
 		assert tokens_list == lines
-			
+		
+		# add metadata into conllu
+		meta_header, text_lines = add_metadata(basename, branch)
+		
 		# Write parsed dependencies
-		write_parsed_file(conllu_list, parsed_doc)
+		write_parsed_file(conllu_list, text_lines, meta_header, basename, parsed_doc)
 		
 		print("o Done with parsing %s:%s" % (branch, basename))
 		
@@ -75,8 +104,11 @@ if __name__ == '__main__':
 	parser.add_argument("--use_onto_trained", choices=[True, False], default=True)
 	args = parser.parse_args()
 	
-	if not os.path.isdir(args.parsed_dir):
-		os.makedirs(args.parsed_dir)
+	# prepare directory and file
+	division_dirs = [args.parsed_dir + "train/", args.parsed_dir + "dev/", args.parsed_dir + "test/"]
+	for division_dir in division_dirs:
+		if not os.path.isdir(division_dir):
+			os.makedirs(division_dir)
 		
 	parse_documents(parsed_output_dir=args.parsed_dir,
                     use_onto_trained=args.use_onto_trained,

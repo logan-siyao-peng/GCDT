@@ -38,38 +38,38 @@
 	<body>
 		<segment id="1" parent="2" relname="purpose-goal">抗议 薪资 不公 // Protest against wage injustice</segment>
 		<segment id="2" parent="368" relname="span">天堂 执法者 亚裔 演员 走人 // Heaven Enforcer Asian Actor Gone</segment>
-		<segment id="3" parent="359" relname="context-circumstance">【 2017年 7月 11日 讯 】 // 【 July 11, 2017 News 】</segment>
+		<segment id="3" parent="359" relname="context-circumstance">【 2017年 7月 11日 讯 】 // 【 July 11 , 2017 News 】</segment>
 		<segment id="4" parent="195" relname="same-unit">上 星期 // last week</segment>
 		<segment id="5" parent="6" relname="elaboration-attribute">哥伦比亚 广播 公司 收视率 很 高 的 // CBS has high ratings</segment>
-		<segment id="6" parent="193" relname="span">警匪秀 “ 天堂 执法者 ” 的 主要 演员 ， 亚裔 的 丹尼尔·金 和 朴敏庆 爆出 // Daniel Kim and Park Min-kyung, the main cast of the cop show 'Paradise Law Enforcers', have been revealed</segment>
+		<segment id="6" parent="193" relname="span">警匪秀 “ 天堂 执法者 ” 的 主要 演员 ， 亚裔 的 丹尼尔·金 和 朴敏庆 爆出 // Daniel Kim and Park Min - kyung , the main cast of the cop show ' Paradise Law Enforcers ' , have been revealed</segment>
 		<segment id="7" parent="8" relname="elaboration-attribute">双双 退出 的 // double exit</segment>
 		<segment id="8" parent="194" relname="span">新闻 ， // news ,</segment>
 		<segment id="9" parent="195" relname="causal-result">引起 各 界 关注 。 // attracted attention from all walks of life .</segment>
 		<segment id="10" parent="198" relname="attribution-positive">观察家 指出 ， // Observers pointed out that</segment>
 		<segment id="11" parent="198" relname="same-unit">一些 // Some</segment>
-		<segment id="12" parent="13" relname="elaboration-attribute">在 好莱坞 已经 熬出 字号 的 // In Hollywood, the font size has already been boiled.</segment>
-		<segment id="13" parent="197" relname="span">亚裔 演员 依然 要 面对 许多 障碍 ， // Asian actors still have to face many obstacles.</segment>
-		<segment id="14" parent="15" relname="attribution-positive">据 报道 ， // According to reports,</segment>
+		<segment id="12" parent="13" relname="elaboration-attribute">在 好莱坞 已经 熬出 字号 的 // In Hollywood , the font size has already been boiled .</segment>
+		<segment id="13" parent="197" relname="span">亚裔 演员 依然 要 面对 许多 障碍 ， // Asian actors still have to face many obstacles .</segment>
+		<segment id="14" parent="15" relname="attribution-positive">据 报道 ， // According to reports ,</segment>
 		<segment id="15" parent="200" relname="span">导火线 是 他们 的 演出 酬劳 低于 电视 系列剧 的 另 两 个 白人 演员 。 // The trigger was that they were paid less for the show than the other two white actors in the TV series .</segment>
 		<segment id="16" parent="202" relname="same-unit">尽管 // although</segment>
 		<segment id="17" parent="18" relname="elaboration-attribute">以 夏威夷 为 背景 的 // with hawaii as the background</segment>
-		<segment id="18" parent="201" relname="span">“ 天堂 执法者 ” 以 多元化 的 演员 为 号召 ， // "Heaven's Enforcer" calls for a diverse cast,</segment>
+		<segment id="18" parent="201" relname="span">“ 天堂 执法者 ” 以 多元化 的 演员 为 号召 ， // " Heaven 's Enforcer " calls for a diverse cast ,</segment>
 		<segment id="19" parent="203" relname="span">丹尼尔·金 和 朴敏庆 却 可能 被 制片厂 视 为 两 个 白人 主演 的 配角 。 // Daniel Kim and Park Min Kyung might be seen by the studio as two white starring supporting roles .</segment>
 		<segment id="20" parent="208" relname="organization-preparation">今年 春天 有关 合同 谈判 陷入 僵局 ， // Contract negotiations stalled this spring ,</segment>
 		<segment id="21" parent="22" relname="attribution-positive">制作群 虽然 想 // Production group though want to</segment>
-		<segment id="22" parent="204" relname="span">把 两 个 亚裔 演员 拉 回来 ， // Bring back the two Asian actors,</segment>
+		<segment id="22" parent="204" relname="span">把 两 个 亚裔 演员 拉 回来 ， // Bring back the two Asian actors ,</segment>
 		<segment id="23" parent="206" relname="attribution-positive">但 报道 称 // But the report said</segment>
 		<segment id="24" parent="206" relname="same-unit">两 人 都 拒绝 接受 // Both refused to accept</segment>
 		<segment id="25" parent="26" relname="elaboration-attribute">比 白人 主演 少 的 // Fewer than white starring</segment>
-		<segment id="26" parent="205" relname="span">片酬 。 // remuneration.</segment>
+		<segment id="26" parent="205" relname="span">片酬 。 // remuneration .</segment>
 		<segment id="27" parent="28" relname="attribution-negative">哥伦比亚 广播 公司 和 节目 制作人 否认 // CBS and show producers deny</segment>
-		<segment id="28" parent="210" relname="span">丹尼尔·金 和 朴敏庆 被 不 公平 对待 。 // Daniel Kim and Park Min-kyung were treated unfairly.</segment>
-		<segment id="29" parent="211" relname="attribution-positive">一 个 消息 来源 说 ， // One source said,</segment>
-		<segment id="30" parent="211" relname="joint-list">丹尼尔·金 每 集 的 片酬 被 大幅 提高 到 十九万五千 美元 ， // Daniel King's pay per episode has been significantly increased to $195,000.</segment>
-		<segment id="31" parent="211" relname="joint-list">只 比 白人 主演 少 五千 美元 。 // Only five thousand dollars less than the white star.</segment>
-		<segment id="32" parent="343" relname="span">丹尼尔·金 从 “ 天堂 执法者 ” 2010年 首播 就 是 主要 角色 ， // Daniel King is the main character from the 2010 premiere of "The Enforcer of Heaven"</segment>
-		<segment id="33" parent="218" relname="attribution-positive">他 在 自己 的 脸书 上 说 ， // He said on his facebook,</segment>
-		<segment id="34" parent="213" relname="contingency-condition">身为 亚裔 演员 ， // As an Asian actor,</segment>
+		<segment id="28" parent="210" relname="span">丹尼尔·金 和 朴敏庆 被 不 公平 对待 。 // Daniel Kim and Park Min - kyung were treated unfairly .</segment>
+		<segment id="29" parent="211" relname="attribution-positive">一 个 消息 来源 说 ， // One source said ,</segment>
+		<segment id="30" parent="211" relname="joint-list">丹尼尔·金 每 集 的 片酬 被 大幅 提高 到 十九万五千 美元 ， // Daniel King 's pay per episode has been significantly increased to $ 195,000 .</segment>
+		<segment id="31" parent="211" relname="joint-list">只 比 白人 主演 少 五千 美元 。 // Only five thousand dollars less than the white star .</segment>
+		<segment id="32" parent="343" relname="span">丹尼尔·金 从 “ 天堂 执法者 ” 2010年 首播 就 是 主要 角色 ， // Daniel King is the main character from the 2010 premiere of " The Enforcer of Heaven "</segment>
+		<segment id="33" parent="218" relname="attribution-positive">他 在 自己 的 脸书 上 说 ， // He said on his facebook ,</segment>
+		<segment id="34" parent="213" relname="contingency-condition">身为 亚裔 演员 ， // As an Asian actor ,</segment>
 		<segment id="35" parent="36" relname="attribution-positive">他 亲身 体验 // He experienced it himself</segment>
 		<segment id="36" parent="213" relname="span">要 找到 任何 工作 机会 是 多么 困难 ， // how hard it is to find any job opportunity</segment>
 		<segment id="37" parent="217" relname="same-unit">更 不 用 说 能 演出 一 个 // Not to mention being able to perform one</segment>
@@ -77,22 +77,22 @@
 		<segment id="39" parent="215" relname="span">有 深度 的 、 真实 的 // deep , real</segment>
 		<segment id="40" parent="216" relname="span">角色 。 // Role .</segment>
 		<segment id="41" parent="42" relname="attribution-positive">但 他 最终 还是 决定 // But he finally decided</segment>
-		<segment id="42" parent="220" relname="span">离开 这 个 当红 的 秀 。 // Leave this popular show.</segment>
-		<segment id="43" parent="224" relname="attribution-positive">丹尼尔·金 在 脸书 上 表示 ， // Daniel King said on Facebook,</segment>
+		<segment id="42" parent="220" relname="span">离开 这 个 当红 的 秀 。 // Leave this popular show .</segment>
+		<segment id="43" parent="224" relname="attribution-positive">丹尼尔·金 在 脸书 上 表示 ， // Daniel King said on Facebook ,</segment>
 		<segment id="44" parent="45" relname="attribution-positive">尽管 他 表明 // Although he showed</segment>
-		<segment id="45" parent="221" relname="span">可以 回来 ， // can come back,</segment>
+		<segment id="45" parent="221" relname="span">可以 回来 ， // can come back ,</segment>
 		<segment id="46" parent="222" relname="span">但 哥伦比亚 广播 公司 和 他 未能 同意 新 合同 的 条件 ， // But CBS and he failed to agree to the terms of the new contract ,</segment>
-		<segment id="47" parent="48" relname="organization-preparation">所以 他 做出 艰难 的 选择 ， // So he makes a tough choice,</segment>
-		<segment id="48" parent="223" relname="span">不再 继续 。 // Do not continue.</segment>
-		<segment id="49" parent="228" relname="attribution-positive">“ 天堂 执法者 ” 的 执行 制片 比特·列诺科夫 则 指出 ， // "Paradise Enforcer" executive producer Bit Lenokov noted,</segment>
-		<segment id="50" parent="227" relname="context-background">两 位 演员 选择 不再 续约 ， // The two actors chose not to renew their contracts.</segment>
-		<segment id="51" parent="226" relname="span">哥伦比亚 广播 公司 在 续约 谈判 中 非常 慷慨 和 积极 主动 ， // CBS has been very generous and proactive in its renewal negotiations,</segment>
+		<segment id="47" parent="48" relname="organization-preparation">所以 他 做出 艰难 的 选择 ， // So he made a hard choice ,</segment>
+		<segment id="48" parent="223" relname="span">不再 继续 。 // Do not continue .</segment>
+		<segment id="49" parent="228" relname="attribution-positive">“ 天堂 执法者 ” 的 执行 制片 比特·列诺科夫 则 指出 ， // " Paradise Enforcer " executive producer Bit Lenokov noted ,</segment>
+		<segment id="50" parent="227" relname="context-background">两 位 演员 选择 不再 续约 ， // The two actors chose not to renew their contracts .</segment>
+		<segment id="51" parent="226" relname="span">哥伦比亚 广播 公司 在 续约 谈判 中 非常 慷慨 和 积极 主动 ， // CBS has been very generous and proactive in its renewal negotiations ,</segment>
 		<segment id="52" parent="51" relname="explanation-evidence">两 个 演员 都 可 获得 前所未有 的 加薪 ， // Both actors will receive an unprecedented raise ,</segment>
 		<segment id="53" parent="226" relname="adversative-concession">但 他们 最终 选择 离开 。 // But they eventually chose to leave .</segment>
-		<segment id="54" parent="360" relname="span">这 个 薪资 争议 激起 一些 演员 对 好莱坞 数十 年 来 各 种 不 公平 的 现象 发出 不平 之 鸣 。 // The salary dispute has prompted some actors to scoff at various injustices in Hollywood for decades .</segment>
+		<segment id="54" parent="360" relname="span">这 个 薪资 争议 激起 一些 演员 对 好莱坞 数十 年 来 各 种 不 公平 的 现象 发出 不平 之 鸣 。 // The salary dispute has prompted some actors to scold over decades of injustice in Hollywood .</segment>
 		<segment id="55" parent="56" relname="causal-cause">两 年 前 奥斯卡奖 出现 白人 演员 获得 压倒性 的 提名 ， // Two years ago , the oscars came out with overwhelming nominations for white actors ,</segment>
-		<segment id="56" parent="230" relname="span">引发 所谓 的 “ 奥斯卡 太 白 ” 运动 ， // sparked the so-called "Oscar too white" movement,</segment>
-		<segment id="57" parent="58" relname="context-circumstance">揭开 了 好莱坞 电影 工业 在 雇用 和 选角 方面 的 种族 问题 后 ， // After uncovering racial issues in the hollywood film industry in hiring and casting ,</segment>
+		<segment id="56" parent="230" relname="span">引发 所谓 的 “ 奥斯卡 太 白 ” 运动 ， // sparked the so - called " Oscar too white " movement ,</segment>
+		<segment id="57" parent="58" relname="context-circumstance">揭开 了 好莱坞 电影 工业 在 雇用 和 选角 方面 的 种族 问题 后 ， // After uncovering the racial issues in the Hollywood film industry in hiring and casting ,</segment>
 		<segment id="58" parent="231" relname="span">电影 和 电视 工业 近年 来 开始 重视 多元化 ， // The film and television industry has begun to value diversity in recent years ,</segment>
 		<segment id="59" parent="233" relname="same-unit">一些 // Some</segment>
 		<segment id="60" parent="61" relname="elaboration-attribute">由 少数 族裔 担纲 的 // led by ethnic minorities</segment>
@@ -102,75 +102,75 @@
 		<segment id="64" parent="237" relname="attribution-positive">有的 制片人 声称 // Some producers claim</segment>
 		<segment id="65" parent="237" relname="same-unit">“ 因为 // " because</segment>
 		<segment id="66" parent="67" relname="elaboration-attribute">来自 亚洲 的 // from Asia</segment>
-		<segment id="67" parent="236" relname="span">演员 英语 不 好 。 ” // The actor's English is not good. "</segment>
+		<segment id="67" parent="236" relname="span">演员 英语 不 好 。 ” // The actor 's English is not good . "</segment>
 		<segment id="68" parent="69" relname="elaboration-attribute">拜欧拉 大学 研究 种族 和 民族 的 // Biola University Research on Race and Ethnicity</segment>
-		<segment id="69" parent="240" relname="span">南西·王 教授 表示 ， // Professor Nancy Wang said,</segment>
-		<segment id="70" parent="241" relname="span">有 一 种 对 亚裔 美国人 的 偏见 ， // There is a prejudice against Asian Americans,</segment>
+		<segment id="69" parent="240" relname="span">南西·王 教授 表示 ， // Professor Nancy Wang said ,</segment>
+		<segment id="70" parent="241" relname="span">有 一 种 对 亚裔 美国人 的 偏见 ， // There is a prejudice against Asian Americans ,</segment>
 		<segment id="71" parent="246" relname="attribution-positive">她 说 ： // she says :</segment>
-		<segment id="72" parent="245" relname="span">“ 我 觉得 社会 看 不到 我们 ， // "I don't think society sees us,</segment>
-		<segment id="73" parent="242" relname="joint-list">我们 平板 单调 ， // Our flat monotonous,</segment>
+		<segment id="72" parent="245" relname="span">“ 我 觉得 社会 看 不到 我们 ， // " I do n't think society sees us ,</segment>
+		<segment id="73" parent="242" relname="joint-list">我们 平板 单调 ， // Our flat monotonous ,</segment>
 		<segment id="74" parent="242" relname="joint-list">既 不 存在于 场景 // neither exists in the scene</segment>
-		<segment id="75" parent="242" relname="joint-list">也 没有 对白 ， // There is no dialogue,</segment>
+		<segment id="75" parent="242" relname="joint-list">也 没有 对白 ， // There is no dialogue ,</segment>
 		<segment id="76" parent="77" relname="organization-preparation">从 某 方面 来说 // in a way</segment>
-		<segment id="77" parent="243" relname="span">是 去人性化 了 。 // It's dehumanized.</segment>
-		<segment id="78" parent="243" relname="explanation-justify">我们 只 是 布景 的 一 部分 。 ” // We are only part of the set. "</segment>
+		<segment id="77" parent="243" relname="span">是 去人性化 了 。 // It 's dehumanized .</segment>
+		<segment id="78" parent="243" relname="explanation-justify">我们 只 是 布景 的 一 部分 。 ” // We are only part of the set . "</segment>
 		<segment id="79" parent="250" relname="causal-result">亚裔 演员 近来 的 工作 机会 其实 增多 了 ， // The job opportunities for Asian actors have actually increased recently .</segment>
 		<segment id="80" parent="250" relname="same-unit">很 大 程度 上 是 因为 // largely because</segment>
 		<segment id="81" parent="82" relname="elaboration-attribute">来自 中国 的 // from China</segment>
-		<segment id="82" parent="249" relname="span">财源 。 // financial resources.</segment>
+		<segment id="82" parent="249" relname="span">财源 。 // financial resources .</segment>
 		<segment id="83" parent="84" relname="attribution-positive">中国 作为 世界 第二 大 的 电影 市场 ， 好莱坞 的 制片厂 老板 希望 // China , the world 's second largest film market , Hollywood studio bosses hope</segment>
-		<segment id="84" parent="252" relname="span">巩固 电影 在 中国 市场 的 前景 ， // to consolidate the film's prospects in the Chinese market,</segment>
-		<segment id="85" parent="253" relname="span">就 用 亚裔 演员 来 充数 ， // Just use Asian actors to recharge,</segment>
-		<segment id="86" parent="85" relname="adversative-concession">然而 那些 经常 是 背景 角色 。 // However those are often background characters.</segment>
+		<segment id="84" parent="252" relname="span">巩固 电影 在 中国 市场 的 前景 ， // to consolidate the film 's prospects in the Chinese market ,</segment>
+		<segment id="85" parent="253" relname="span">就 用 亚裔 演员 来 充数 ， // Just use Asian actors to recharge ,</segment>
+		<segment id="86" parent="85" relname="adversative-concession">然而 那些 经常 是 背景 角色 。 // However those are often background characters .</segment>
 		<segment id="87" parent="255" relname="attribution-positive">也 有 人 指出 ， // It was also pointed out that</segment>
-		<segment id="88" parent="89" relname="attribution-negative">那 是 因为 制片厂 老板 不 觉得 // That's because the studio boss doesn't think</segment>
-		<segment id="89" parent="255" relname="span">亚裔 符合 他们 心目 中 的 主角 形象 。 // Asians fit their protagonists.</segment>
+		<segment id="88" parent="89" relname="attribution-negative">那 是 因为 制片厂 老板 不 觉得 // That 's because the studio boss does n't think</segment>
+		<segment id="89" parent="255" relname="span">亚裔 符合 他们 心目 中 的 主角 形象 。 // Asians fit their protagonists .</segment>
 		<segment id="90" parent="91" relname="attribution-positive">美国 影视 演员 工会 的 亚太裔 媒体 委员会 主席 哈纳米 则 认为 // Hanami , chairman of the Asian Pacific American Media Committee of the Screen Actors Guild , believes that</segment>
-		<segment id="91" parent="257" relname="span">这 是 体制 问题 。 // It's a system issue.</segment>
-		<segment id="92" parent="260" relname="attribution-positive">她 表示 ， // she said,</segment>
-		<segment id="93" parent="258" relname="joint-list">制片厂 的 头头 多数 是 白人 ， // The studio heads are mostly white.</segment>
-		<segment id="94" parent="258" relname="joint-list">也 有些 女性 和 有色 人种 。 // There are also some women and people of color.</segment>
-		<segment id="95" parent="259" relname="joint-list">然后 是 节目 的 原创者 ， 大多 来自 写作 和 常春藤 盟校 ， // Then there are the show's original creators, mostly from writing and ivy league schools,</segment>
+		<segment id="91" parent="257" relname="span">这 是 体制 问题 。 // It 's a system issue .</segment>
+		<segment id="92" parent="260" relname="attribution-positive">她 表示 ， // she said ,</segment>
+		<segment id="93" parent="258" relname="joint-list">制片厂 的 头头 多数 是 白人 ， // The studio heads are mostly white .</segment>
+		<segment id="94" parent="258" relname="joint-list">也 有些 女性 和 有色 人种 。 // There are also some women and people of color .</segment>
+		<segment id="95" parent="259" relname="joint-list">然后 是 节目 的 原创者 ， 大多 来自 写作 和 常春藤 盟校 ， // Then there are the show 's original creators , mostly from writing and ivy league schools ,</segment>
 		<segment id="96" parent="260" relname="span">所有 决策者 其实 都 是 在 反映 自己 。 // All decision makers are actually reflecting on themselves .</segment>
 		<segment id="97" parent="267" relname="attribution-positive">南加州 大学 的 媒体 、 多元化 和 社会 变迁 项目 的 研究 发现 ， // A study by USC 's Media , Diversity and Social Change Project found that ,</segment>
 		<segment id="98" parent="263" relname="same-unit">在 所有 的 // in all the</segment>
 		<segment id="99" parent="100" relname="elaboration-attribute">有 对白 的 // with dialogue</segment>
-		<segment id="100" parent="262" relname="span">角色 里 ， 亚裔 美国人 特别 难得 见到 ， // Among the characters, Asian-Americans are particularly rare to see.</segment>
-		<segment id="101" parent="266" relname="same-unit">至少 半数 的 电影 和 电视 剧 ， 没有 一 个 // At least half of all movies and TV shows, none</segment>
+		<segment id="100" parent="262" relname="span">角色 里 ， 亚裔 美国人 特别 难得 见到 ， // Among the characters , Asian - Americans are particularly rare to see .</segment>
+		<segment id="101" parent="266" relname="same-unit">至少 半数 的 电影 和 电视 剧 ， 没有 一 个 // At least half of all movies and TV shows , none</segment>
 		<segment id="102" parent="264" relname="joint-disjunction">有 对白 的 // with dialogue</segment>
 		<segment id="103" parent="264" relname="joint-disjunction">或是 有 名字 的 // or have a name</segment>
-		<segment id="104" parent="265" relname="span">亚洲人 或 亚裔 美国人 的 角色 。 // Asian or Asian American characters.</segment>
+		<segment id="104" parent="265" relname="span">亚洲人 或 亚裔 美国人 的 角色 。 // Asian or Asian American characters .</segment>
 		<segment id="105" parent="106" relname="elaboration-attribute">曾 赢得 奥斯卡 短片 奖 的 // who won an oscar short film</segment>
-		<segment id="106" parent="269" relname="span">克里斯·田岛 说 ， // Chris Tajima says,</segment>
-		<segment id="107" parent="270" relname="organization-preparation">为什么 没有 出现 亚裔 大 明星 ？ // Why aren't there any big Asian stars?</segment>
+		<segment id="106" parent="269" relname="span">克里斯·田岛 说 ， // Chris Tajima says ,</segment>
+		<segment id="107" parent="270" relname="organization-preparation">为什么 没有 出现 亚裔 大 明星 ？ // Why are n't there any big Asian stars ?</segment>
 		<segment id="108" parent="270" relname="span">因为 你 必须 要 让 他们 有 戏 演 // Because you have to make them play</segment>
-		<segment id="109" parent="108" relname="causal-result">才 有 可能 。 // only possible.</segment>
+		<segment id="109" parent="108" relname="causal-result">才 有 可能 。 // only possible .</segment>
 		<segment id="110" parent="274" relname="same-unit">比起 // compared to</segment>
-		<segment id="111" parent="112" relname="elaboration-attribute">电影 “ 第凡 内 早餐 ” 里米基·鲁尼 扮演 大 暴牙 的 // "Breakfast in Tiffany" starring Rimiki Rooney as Big Fang</segment>
-		<segment id="112" parent="273" relname="span">日裔 的 时代 ， 好莱坞 的 电影 工业 已经 蜕变 的 更 有 包容性 ， // In the era of Japanese descent, the Hollywood film industry has transformed into a more inclusive one.</segment>
+		<segment id="111" parent="112" relname="elaboration-attribute">电影 “ 第凡 内 早餐 ” 里米基·鲁尼 扮演 大 暴牙 的 // " Breakfast in Tiffany " starring Rimiki Rooney as Big Fang</segment>
+		<segment id="112" parent="273" relname="span">日裔 的 时代 ， 好莱坞 的 电影 工业 已经 蜕变 的 更 有 包容性 ， // In the era of Japanese descent , the Hollywood film industry has transformed into a more inclusive one .</segment>
 		<segment id="113" parent="276" relname="same-unit">尽管 // although</segment>
-		<segment id="114" parent="115" relname="elaboration-attribute">亚裔 领衔 的 // Asian-led</segment>
-		<segment id="115" parent="275" relname="span">角色 仍然 有如 凤毛麟角 。 // The characters are still few and far between.</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">亚裔 领衔 的 // Asian - led</segment>
+		<segment id="115" parent="275" relname="span">角色 仍然 有如 凤毛麟角 。 // The characters are still few and far between .</segment>
 		<segment id="116" parent="281" relname="joint-list">南加州 大学 去年 就 400多 部 电影 和 电视 系列剧 做出 研究 ， // USC conducted research last year on more than 400 films and TV series ,</segment>
 		<segment id="117" parent="279" relname="attribution-positive">发现 // Find</segment>
 		<segment id="118" parent="279" relname="same-unit">里面 亚裔 演员 // Inside Asian Actor</segment>
 		<segment id="119" parent="120" relname="elaboration-attribute">有 对白 的 // with dialogue</segment>
-		<segment id="120" parent="278" relname="span">角色 只 占 百分之五 。 // Characters are only five percent.</segment>
+		<segment id="120" parent="278" relname="span">角色 只 占 百分之五 。 // Characters are only five percent .</segment>
 		<segment id="121" parent="291" relname="context-background">好莱坞 的 韩裔 演员 爱德华·金 演出 过 几十 部 电影 和 电视剧 ， // Hollywood actor Edward King has appeared in dozens of movies and TV shows ,</segment>
 		<segment id="122" parent="286" relname="attribution-positive">他 说 ： // He says :</segment>
-		<segment id="123" parent="287" relname="adversative-contrast">“ 好莱坞 有 很多 机会 ， // "Hollywood has a lot of opportunities,</segment>
+		<segment id="123" parent="287" relname="adversative-contrast">“ 好莱坞 有 很多 机会 ， // " Hollywood has a lot of opportunities ,</segment>
 		<segment id="124" parent="283" relname="same-unit">但 总是 些 // but always</segment>
 		<segment id="125" parent="126" relname="elaboration-attribute">只 有 一 句 对白 的 // only one line of dialogue</segment>
-		<segment id="126" parent="282" relname="span">小 角色 ， // small role,</segment>
-		<segment id="127" parent="128" relname="contingency-condition">如果 你 想 演 个 商店 老板 ， 指甲店 的 美容师 ， 或者 IT 技术 人员 ， // If you want to play a store owner, a beautician in a nail shop, or an IT technician,</segment>
+		<segment id="126" parent="282" relname="span">小 角色 ， // small role ,</segment>
+		<segment id="127" parent="128" relname="contingency-condition">如果 你 想 演 个 商店 老板 ， 指甲店 的 美容师 ， 或者 IT 技术 人员 ， // If you want to play a store owner , a beautician in a nail shop , or an IT technician ,</segment>
 		<segment id="128" parent="284" relname="span">这些 角色 都 有 ， // All of these roles have</segment>
-		<segment id="129" parent="285" relname="adversative-contrast">但 我们 难得 有 机会 担任 主角 。 ” // But we rarely get a chance to play the lead. "</segment>
+		<segment id="129" parent="285" relname="adversative-contrast">但 我们 难得 有 机会 担任 主角 。 ” // But we rarely get a chance to play the lead . "</segment>
 		<segment id="130" parent="289" relname="attribution-positive">爱德华·金 说 // Edward King says</segment>
-		<segment id="131" parent="289" relname="joint-list">自己 并不 愤世嫉俗 ， // I'm not cynical myself,</segment>
-		<segment id="132" parent="289" relname="joint-list">他 只是 实事求是 的 面对 作为 一 个 好莱坞 亚裔 演员 的 困境 。 // He's just realistic about his dilemma as an Asian Hollywood actor.</segment>
+		<segment id="131" parent="289" relname="joint-list">自己 并不 愤世嫉俗 ， // I 'm not cynical myself ,</segment>
+		<segment id="132" parent="289" relname="joint-list">他 只是 实事求是 的 面对 作为 一 个 好莱坞 亚裔 演员 的 困境 。 // He 's just realistic about his dilemma as an Asian Hollywood actor .</segment>
 		<segment id="133" parent="294" relname="attribution-positive">社交 媒体 上 有些 批评者 指出 ， // Some critics on social media pointed out ,</segment>
 		<segment id="134" parent="135" relname="attribution-positive">制片厂 强调 // studio highlights</segment>
-		<segment id="135" parent="292" relname="span">给 演员 大幅 加薪 ， // Give actors big raises,</segment>
+		<segment id="135" parent="292" relname="span">给 演员 大幅 加薪 ， // Give actors big raises ,</segment>
 		<segment id="136" parent="293" relname="same-unit">说明 了 // explained</segment>
 		<segment id="137" parent="294" relname="span">演员 这些 年 一直 薪资 过 低 。 // Actors have been underpaid all these years .</segment>
 		<segment id="138" parent="314" relname="span">薪资 争议 也 引起 政界 注意 。 // The wage dispute has also drawn political attention .</segment>
@@ -179,55 +179,55 @@
 		<segment id="141" parent="371" relname="span">说 ， // explain ,</segment>
 		<segment id="142" parent="298" relname="same-unit">两 名 亚裔 演员 的 片酬 少于 // Two Asian actors were paid less than</segment>
 		<segment id="143" parent="144" relname="elaboration-attribute">共同 演出 的 // co - performing</segment>
-		<segment id="144" parent="297" relname="span">白人 演员 ， 表明 // white actor, shows</segment>
+		<segment id="144" parent="297" relname="span">白人 演员 ， 表明 // white actor , shows</segment>
 		<segment id="145" parent="146" relname="elaboration-attribute">好莱坞 的 种族 不 平等 的 // racial inequality in hollywood</segment>
-		<segment id="146" parent="299" relname="span">现象 有待 解决 。 // Phenomenon to be resolved.</segment>
-		<segment id="147" parent="304" relname="attribution-positive">孟昭文 还 表示 ， // Meng Zhaowen also said,</segment>
+		<segment id="146" parent="299" relname="span">现象 有待 解决 。 // Phenomenon to be resolved .</segment>
+		<segment id="147" parent="304" relname="attribution-positive">孟昭文 还 表示 ， // Meng Zhaowen also said ,</segment>
 		<segment id="148" parent="302" relname="span">亚裔 美国人 在 好莱坞 已经 面对 许多 问题 ， // Asian Americans already face many problems in hollywood ,</segment>
-		<segment id="149" parent="148" relname="elaboration-additional">包括 刻板 角色 和 角色 白人化 ， 酬劳 不 平等 // Including stereotyped and whitened roles, unequal pay</segment>
-		<segment id="150" parent="303" relname="joint-list">更 加深 了 问题 ， // aggravating the problem,</segment>
-		<segment id="151" parent="303" relname="joint-list">为 亚裔 演员 在 娱乐业 制造 障碍 。 // Create barriers for Asian actors in the entertainment industry.</segment>
+		<segment id="149" parent="148" relname="elaboration-additional">包括 刻板 角色 和 角色 白人化 ， 酬劳 不 平等 // Including stereotyped and whitened roles , unequal pay</segment>
+		<segment id="150" parent="303" relname="joint-list">更 加深 了 问题 ， // aggravating the problem ,</segment>
+		<segment id="151" parent="303" relname="joint-list">为 亚裔 演员 在 娱乐业 制造 障碍 。 // Create barriers for Asian actors in the entertainment industry .</segment>
 		<segment id="152" parent="307" relname="attribution-positive">孟昭文 呼吁 // Meng Zhaowen called</segment>
 		<segment id="153" parent="307" relname="same-unit">好莱坞 制片厂 和 制作人 关注 // Hollywood studios and producers follow</segment>
-		<segment id="154" parent="155" relname="elaboration-attribute">片酬 不 平等 、 // Unequal pay,</segment>
+		<segment id="154" parent="155" relname="elaboration-attribute">片酬 不 平等 、 // Unequal pay ,</segment>
 		<segment id="155" parent="306" relname="span">伤人 的 刻板 印象 、 以及 亚裔 美国人 在 银幕 前后 的 代表性 不足 等 问题 。 // hurting stereotypes and underrepresentation of asian americans on and off screen .</segment>
 		<segment id="156" parent="157" relname="context-background">至于 好莱坞 的 亚裔 演员 是否 整体 遭受 低薪 待遇 ， // As for whether Asian American actors in Hollywood are generally underpaid ,</segment>
-		<segment id="157" parent="309" relname="span">演员 工会 并 没有 片酬 记录 ， // The Screen Actors Guild doesn't have pay records.</segment>
+		<segment id="157" parent="309" relname="span">演员 工会 并 没有 片酬 记录 ， // The Screen Actors Guild does n't have pay records .</segment>
 		<segment id="158" parent="311" relname="same-unit">因为 这 是 // because this is</segment>
 		<segment id="159" parent="160" relname="elaboration-attribute">制片厂 、 经纪人 和 个别 演员 间 不 公开 的 // undisclosed between studios , agents and individual actors</segment>
 		<segment id="160" parent="310" relname="span">信息 。 // information .</segment>
-		<segment id="161" parent="316" relname="attribution-positive">影剧圈 的 专家 表示 ， // Experts in the film and television industry said,</segment>
+		<segment id="161" parent="316" relname="attribution-positive">影剧圈 的 专家 表示 ， // Experts in the film and television industry said ,</segment>
 		<segment id="162" parent="316" relname="same-unit">天堂 执法者 的 片酬 争议 和 // The Pay Controversy for the Law Enforcers of Paradise and</segment>
 		<segment id="163" parent="164" relname="elaboration-attribute">丹尼尔·金 为 此 挺身而出 的 // Daniel King came forward for this</segment>
 		<segment id="164" parent="315" relname="span">表现 ， // Performance ,</segment>
 		<segment id="165" parent="316" relname="same-unit">可能 标志 了 一 个 转折点 。 // May mark a turning point .</segment>
-		<segment id="166" parent="319" relname="context-background">华裔 制片人 杨燕子 担任 奥斯卡 评委 15 年 ， // Chinese producer Yang Yanzi has been an Oscar judge for 15 years.</segment>
-		<segment id="167" parent="318" relname="context-circumstance">两 年 前 在 奥斯卡奖 演员 项目 全部 提名 白人 之后 ， // Two years ago, after all white nominees were nominated for the Oscars,</segment>
-		<segment id="168" parent="318" relname="span">她 参与 撰写 评论 《 好莱坞 大片 需要 颜色 》 // She co-authored the review "Hollywood Blockbusters Need Color"</segment>
+		<segment id="166" parent="319" relname="context-background">华裔 制片人 杨燕子 担任 奥斯卡 评委 15 年 ， // Chinese producer Yang Yanzi has been an Oscar judge for 15 years .</segment>
+		<segment id="167" parent="318" relname="context-circumstance">两 年 前 在 奥斯卡奖 演员 项目 全部 提名 白人 之后 ， // Two years ago , after all white nominees were nominated for the Oscars ,</segment>
+		<segment id="168" parent="318" relname="span">她 参与 撰写 评论 《 好莱坞 大片 需要 颜色 》 // She co - authored the review " Hollywood Blockbusters Need Color "</segment>
 		<segment id="169" parent="168" relname="elaboration-attribute">在 洛杉矶 时报 刊载 。 // Published in the Los Angeles Times .</segment>
-		<segment id="170" parent="321" relname="attribution-positive">杨燕子 问道 ： // Yang Yanzi asked:</segment>
-		<segment id="171" parent="321" relname="joint-list">“ 亚洲人 呢 ？ // "What about Asians?</segment>
-		<segment id="172" parent="321" relname="joint-list">拉丁人 呢 ？ // What about the Latins?</segment>
-		<segment id="173" parent="321" relname="joint-list">其他 中东人 呢 ？ ” // What about other Middle Easterners? "</segment>
+		<segment id="170" parent="321" relname="attribution-positive">杨燕子 问道 ： // Yang Yanzi asked :</segment>
+		<segment id="171" parent="321" relname="joint-list">“ 亚洲人 呢 ？ // " What about Asians ?</segment>
+		<segment id="172" parent="321" relname="joint-list">拉丁人 呢 ？ // What about the Latins ?</segment>
+		<segment id="173" parent="321" relname="joint-list">其他 中东人 呢 ？ ” // What about other Middle Easterners ? "</segment>
 		<segment id="174" parent="324" relname="attribution-positive">杨燕子 认为 // Yang Yanzi thinks</segment>
-		<segment id="175" parent="323" relname="adversative-concession">不论 从 票房 或者 美国 立国 精神 考虑 ， // No matter from the box office or the spirit of the founding of the United States ,</segment>
-		<segment id="176" parent="323" relname="joint-list">制片厂 都 应该 努力 多元化 ， // Studios should strive to diversify,</segment>
+		<segment id="175" parent="323" relname="adversative-concession">不论 从 票房 或者 美国 立国 精神 考虑 ， // Regardless of the box office or the spirit of the founding of the United States ,</segment>
+		<segment id="176" parent="323" relname="joint-list">制片厂 都 应该 努力 多元化 ， // Studios should strive to diversify ,</segment>
 		<segment id="177" parent="323" relname="joint-list">给 有色 人种 更 多 的 竞争 机会 。 // Give people of color more opportunities to compete .</segment>
 		<segment id="178" parent="326" relname="attribution-positive">她 认为 // she thinks</segment>
-		<segment id="179" parent="180" relname="attribution-positive">“ 奥斯卡 太 白 ” 运动 鼓励 了 // The "Oscar Too White" campaign encouraged</segment>
+		<segment id="179" parent="180" relname="attribution-positive">“ 奥斯卡 太 白 ” 运动 鼓励 了 // The " Oscar Too White " campaign encouraged</segment>
 		<segment id="180" parent="326" relname="span">亚裔 美国人 挺身 争取 自己 的 权利 。 // Asian Americans stand up for their rights .</segment>
 		<segment id="181" parent="328" relname="attribution-positive">她 说 ， // she says ,</segment>
-		<segment id="182" parent="328" relname="joint-list">非洲裔 美国人 社区 在 这 方面 领军 多 年 ， // The African American community has led the way for many years,</segment>
+		<segment id="182" parent="328" relname="joint-list">非洲裔 美国人 社区 在 这 方面 领军 多 年 ， // The African American community has led the way for many years ,</segment>
 		<segment id="183" parent="328" relname="joint-list">现在 扩大 到 其它 少数 族裔 。 // Now expanding to other minorities .</segment>
 		<segment id="184" parent="335" relname="attribution-positive">丹尼尔·金 在 脸书 上 结语 ： // Daniel King concluded on Facebook :</segment>
-		<segment id="185" parent="334" relname="adversative-concession">尽管 过度期 可能 困难 ， // Although the transition period can be difficult,</segment>
+		<segment id="185" parent="334" relname="adversative-concession">尽管 过度期 可能 困难 ， // Although the transition period can be difficult ,</segment>
 		<segment id="186" parent="333" relname="attribution-positive">他 鼓励 // he encouraged</segment>
-		<segment id="187" parent="333" relname="joint-list">大家 把 眼光 放远 ， // Everyone look far away,</segment>
-		<segment id="188" parent="333" relname="joint-list">超越 此 刻 的 失望 ， // beyond the disappointment of the moment,</segment>
+		<segment id="187" parent="333" relname="joint-list">大家 把 眼光 放远 ， // Everyone look far away ,</segment>
+		<segment id="188" parent="333" relname="joint-list">超越 此 刻 的 失望 ， // beyond the disappointment of the moment ,</segment>
 		<segment id="189" parent="333" relname="joint-list">看到 更 广阔 的 前景 。 // See the bigger picture .</segment>
 		<segment id="190" parent="338" relname="same-unit">他 说 ： // He says :</segment>
-		<segment id="191" parent="192" relname="elaboration-attribute">“ 通往 平等 的 // "Towards Equality</segment>
-		<segment id="192" parent="337" relname="span">道路 很少 是 平顺 的 。 ” // Roads are rarely smooth. "</segment>
+		<segment id="191" parent="192" relname="elaboration-attribute">“ 通往 平等 的 // " Towards Equality</segment>
+		<segment id="192" parent="337" relname="span">道路 很少 是 平顺 的 。 ” // Roads are rarely smooth . "</segment>
 		<group id="193" type="span" parent="195" relname="same-unit"/>
 		<group id="194" type="span" parent="195" relname="same-unit"/>
 		<group id="195" type="multinuc" parent="196" relname="span"/>

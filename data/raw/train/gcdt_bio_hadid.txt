@@ -1,4 +1,4 @@
-<text id="gum_zh_bio_hadid" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-11-14" shortTitle="hadid" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%96%A9%E5%93%88%C2%B7%E5%93%88%E5%B8%9D&oldid=68653107" speakerCount="0" speakerList="none" title="扎哈·哈迪德" type="bio"/>
+<text id="gum_zh_bio_hadid" author="Wikipedia, The Free Encyclopedia" dateCollected="2021-12-04" dateCreated="XXXX-XX-XX" dateModified="2021-11-14" shortTitle="hadid" sourceURL="https://zh.wikipedia.org/w/index.php?title=%E8%96%A9%E5%93%88%C2%B7%E5%93%88%E5%B8%9D&amp;oldid=68653107" speakerCount="0" speakerList="none" title="扎哈·哈迪德" genre="bio"/>
 扎哈·哈迪德
 
 扎哈·穆罕默德·哈迪德女爵士，DBE（英语：Dame Zaha Mohammad Hadid；阿拉伯语：زها حديد‎，1950年10月31日－2016年3月31日），香港译萨哈·哈帝，台湾译札哈·哈蒂，生于伊拉克巴格达，伊拉克裔英国建筑师，后来定居英国，于2004年成为首位获得普利兹克建筑奖的女性建筑师。-LSB-1-RSB-

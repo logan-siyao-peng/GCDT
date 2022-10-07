@@ -36,180 +36,180 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="2" relname="attribution-positive">史提芬·沃德 ： // Stephen Ward:</segment>
+		<segment id="1" parent="2" relname="attribution-positive">史提芬·沃德 ： // Stephen Ward :</segment>
 		<segment id="2" parent="175" relname="span">人们 开始 生活 在 虚假 的 现实 中 // People start living in a false reality</segment>
-		<segment id="3" parent="337" relname="context-circumstance">【 2020年 11月 18日 讯 】 // 【 News on November 18, 2020 】</segment>
+		<segment id="3" parent="337" relname="context-circumstance">【 2020年 11月 18日 讯 】 // 【 News on November 18 , 2020 】</segment>
 		<segment id="4" parent="177" relname="same-unit">地球 上 近 80亿 人 中 的 绝大多数 人 继续 // The vast majority of the nearly 8 billion people on earth continue to</segment>
 		<segment id="5" parent="6" relname="mode-means">通过 媒体 和 社交 网络 // through media and social networks</segment>
 		<segment id="6" parent="176" relname="span">获得 有关 新冠 病毒 传播 的 讯息 。 // Get information about the spread of the new coronavirus .</segment>
 		<segment id="7" parent="178" relname="joint-list">与此同时 ， 在 世界 不同 地区 ， 当局 、 记者 和 公民 对 大 流行 的 威胁 和 长期 隔离 的 经济 后果 有 不同 的 认识 。 // Meanwhile , in different parts of the world , authorities , journalists and citizens have different perceptions of the threat of the pandemic and the economic consequences of prolonged isolation .</segment>
-		<segment id="8" parent="179" relname="span">加拿大 新闻 学院 院长 、 英属哥伦比亚 大学 教授 史提芬·J·A·沃德 // Stephen J.A. Ward, Dean of the Canadian School of Journalism and Professor at the University of British Columbia</segment>
-		<segment id="9" parent="8" relname="restatement-partial">（ Stephen J. A. Ward ） ， // (Stephen J. A. Ward),</segment>
-		<segment id="10" parent="180" relname="same-unit">同时 也 是 威斯康星 大学 新闻 伦理 中心 的 创始 主任 ， // He is also the founding director of the Center for Journalism Ethics at the University of Wisconsin.</segment>
+		<segment id="8" parent="179" relname="span">加拿大 新闻 学院 院长 、 英属哥伦比亚 大学 教授 史提芬·J·A·沃德 // Stephen J.A. Ward , Dean of the Canadian School of Journalism and Professor at the University of British Columbia</segment>
+		<segment id="9" parent="8" relname="restatement-partial">（ Stephen J. A. Ward ） ， // ( Stephen J. A. Ward ) ,</segment>
+		<segment id="10" parent="180" relname="same-unit">同时 也 是 威斯康星 大学 新闻 伦理 中心 的 创始 主任 ， // He is also the founding director of the Center for Journalism Ethics at the University of Wisconsin .</segment>
 		<segment id="11" parent="12" relname="context-circumstance">他 在 接受 俄语 维基 新闻 采访 时 ， // In an interview with Russian Wikinews ,</segment>
 		<segment id="12" parent="181" relname="span">谈到 了 他 对 当前 新冠 大 流行病 报道 形势 的 看法 。 // Talked about his thoughts on the current state of coverage of the coronavirus pandemic .</segment>
-		<segment id="13" parent="185" relname="context-circumstance">在 采访 时 ， // During the interview,</segment>
+		<segment id="13" parent="185" relname="context-circumstance">在 采访 时 ， // During the interview ,</segment>
 		<segment id="14" parent="182" relname="span">作为 前 战地 记者 和 加拿大 记者 协会 // As a former war correspondent and Canadian Association of Journalists</segment>
-		<segment id="15" parent="14" relname="restatement-partial">（ CAJ ） // (CAJ)</segment>
-		<segment id="16" parent="184" relname="span">道德 委员会 的 负责人 罗马·巴拉宾 // Roman Barabine, head of the Ethics Committee</segment>
-		<segment id="17" parent="16" relname="restatement-partial">（ Roman Balabin ） ， // (Roman Balabin),</segment>
+		<segment id="15" parent="14" relname="restatement-partial">（ CAJ ） // ( CAJ )</segment>
+		<segment id="16" parent="184" relname="span">道德 委员会 的 负责人 罗马·巴拉宾 // Roman Barabine , head of the Ethics Committee</segment>
+		<segment id="17" parent="16" relname="restatement-partial">（ Roman Balabin ） ， // ( Roman Balabin ) ,</segment>
 		<segment id="18" parent="185" relname="span">沃德 教授 评价 了 目前 媒体 对 病毒 的 报道 。 // Professor Ward commented on the current media coverage of the virus .</segment>
-		<segment id="19" parent="198" relname="attribution-positive">2017年 ， 你 写道 ： // In 2017, you wrote:</segment>
-		<segment id="20" parent="196" relname="context-background">“ 互联网 曾经 风靡 一时 ， // "The internet was all the rage,</segment>
+		<segment id="19" parent="198" relname="attribution-positive">2017年 ， 你 写道 ： // In 2017 , you wrote :</segment>
+		<segment id="20" parent="196" relname="context-background">“ 互联网 曾经 风靡 一时 ， // " The internet was all the rage ,</segment>
 		<segment id="21" parent="190" relname="attribution-positive">我们 曾 称赞 // we have praised</segment>
-		<segment id="22" parent="190" relname="joint-list">它 ‘ 使 媒体 民主化 // It' democratized the media</segment>
-		<segment id="23" parent="190" relname="joint-list">并 使 “ 我们 人民 ” 一 词 成为 现实 ’ // and make the phrase 'we the people' a reality'</segment>
-		<segment id="24" parent="193" relname="same-unit">一 个 由 巨魔 、 黑客 、 种族 主义者 、 狂热 分子 、 阴谋论者 和 政府 // A community of trolls, hackers, racists, fanatics, conspiracy theorists and governments</segment>
+		<segment id="22" parent="190" relname="joint-list">它 ‘ 使 媒体 民主化 // It ' democratized the media</segment>
+		<segment id="23" parent="190" relname="joint-list">并 使 “ 我们 人民 ” 一 词 成为 现实 ’ // and make the phrase ' we the people ' a reality '</segment>
+		<segment id="24" parent="193" relname="same-unit">一 个 由 巨魔 、 黑客 、 种族 主义者 、 狂热 分子 、 阴谋论者 和 政府 // A community of trolls , hackers , racists , fanatics , conspiracy theorists and governments</segment>
 		<segment id="25" parent="26" relname="purpose-goal">为 操纵 社交 网络 ， // To manipulate social networks ,</segment>
 		<segment id="26" parent="192" relname="span">而 创造 // while creating</segment>
 		<segment id="27" parent="194" relname="joint-list">由 机器人 组成 的 ， // made up of robots</segment>
 		<segment id="28" parent="195" relname="span">喧闹 而 又 经常 危险 的 全球 环境 。 ” // Noisy and often dangerous global environment . "</segment>
 		<segment id="29" parent="30" relname="attribution-positive">你 认为 // Do you think</segment>
-		<segment id="30" parent="197" relname="span">从 那 以后 情况 有 变化 吗 ？ // Has the situation changed since then?</segment>
-		<segment id="31" parent="201" relname="joint-list">不 ， 情况 并 没有 改变 ， // No, the situation has not changed,</segment>
-		<segment id="32" parent="201" relname="joint-list">事实 上 它 已经 变得 更 糟 了 。 // In fact it has gotten worse.</segment>
+		<segment id="30" parent="197" relname="span">从 那 以后 情况 有 变化 吗 ？ // Has the situation changed since then ?</segment>
+		<segment id="31" parent="201" relname="joint-list">不 ， 情况 并 没有 改变 ， // No , the situation has not changed ,</segment>
+		<segment id="32" parent="201" relname="joint-list">事实 上 它 已经 变得 更 糟 了 。 // In fact it has gotten worse .</segment>
 		<segment id="33" parent="202" relname="span">社会 的 公共 讯息 渠道 // The public information channel of society</segment>
-		<segment id="34" parent="33" relname="elaboration-attribute">── 今天 相当于 他们 与 世界 或 “ 现实 ” 的 接触 被 扭曲 ， // ─ today's equivalent of their contact with the world or "reality" being distorted,</segment>
-		<segment id="35" parent="203" relname="same-unit">意味 着 他们 不仅 会 误解 问题 ， // means that they not only misunderstand the problem,</segment>
+		<segment id="34" parent="33" relname="elaboration-attribute">── 今天 相当于 他们 与 世界 或 “ 现实 ” 的 接触 被 扭曲 ， // ─ today 's equivalent of their contact with the world or " reality " being distorted ,</segment>
+		<segment id="35" parent="203" relname="same-unit">意味 着 他们 不仅 会 误解 问题 ， // means that they not only misunderstand the problem ,</segment>
 		<segment id="36" parent="204" relname="joint-list">而且 政府 和 其他 虚假 讯息 的 代理人 将 更 有 能力 操纵 他们 和 公众 舆论 。 // And the government and other agents of disinformation will be more capable of manipulating them and public opinion .</segment>
 		<segment id="37" parent="207" relname="same-unit">公众 开始 生活 在 一 个 // The public begins to live in a</segment>
 		<segment id="38" parent="205" relname="joint-list">由 意识 形态 主义者 、 冒充 民粹 主义者 的 // by ideologicalists , masquerading as populists</segment>
-		<segment id="39" parent="205" relname="joint-list">暴君 和 极右翼 团体 制造 的 // Made by tyrants and far-right groups</segment>
-		<segment id="40" parent="206" relname="span">虚假 现实 中 。 // in false reality.</segment>
+		<segment id="39" parent="205" relname="joint-list">暴君 和 极右翼 团体 制造 的 // Made by tyrants and far - right groups</segment>
+		<segment id="40" parent="206" relname="span">虚假 现实 中 。 // in false reality .</segment>
 		<segment id="41" parent="210" relname="same-unit">在 一 个 // in a</segment>
 		<segment id="42" parent="208" relname="joint-list">如此 相互 联系 // so connected</segment>
 		<segment id="43" parent="208" relname="joint-list">和 相互 依存 的 // and interdependent</segment>
-		<segment id="44" parent="209" relname="span">全球 世界 里 ， 我 想 不 出 // In a global world, I can't imagine</segment>
+		<segment id="44" parent="209" relname="span">全球 世界 里 ， 我 想 不 出 // In a global world , I ca n't imagine</segment>
 		<segment id="45" parent="46" relname="elaboration-attribute">比 这 更 危险 的 // more dangerous than this</segment>
 		<segment id="46" parent="211" relname="span">和平 共处 的 发展 了 。 // The development of peaceful coexistence .</segment>
 		<segment id="47" parent="213" relname="same-unit">只要 看看 // just look</segment>
 		<segment id="48" parent="49" relname="elaboration-attribute">围绕 COVID-19 流传 的 // Circumstances surrounding COVID-19</segment>
 		<segment id="49" parent="212" relname="span">错误 讯息 的 程度 // the extent of the error message</segment>
-		<segment id="50" parent="214" relname="span">就 知道 了 。 // Just know.</segment>
-		<segment id="51" parent="52" relname="causal-cause">我们 已经 将 我们 的 公共 渠道 “ 政治化 ” ， // We have "politicized" our public channels,</segment>
-		<segment id="52" parent="215" relname="span">以 至于 任何 人 都 难以 获得 合理 客观 、 非极化 的 讯息 。 // So that it is difficult for anyone to obtain reasonably objective and non-polarized information .</segment>
+		<segment id="50" parent="214" relname="span">就 知道 了 。 // Just know .</segment>
+		<segment id="51" parent="52" relname="causal-cause">我们 已经 将 我们 的 公共 渠道 “ 政治化 ” ， // We have " politicized " our public channels ,</segment>
+		<segment id="52" parent="215" relname="span">以 至于 任何 人 都 难以 获得 合理 客观 、 非极化 的 讯息 。 // So that it is difficult for anyone to obtain reasonably objective and non - polarized information .</segment>
 		<segment id="53" parent="216" relname="joint-list">维基 新闻 是 一 个 新闻 媒体 项目 ， // Wikinews is a news media project that</segment>
 		<segment id="54" parent="216" relname="joint-list">任何 人 都 可以 编辑 任何 文章 。 // Anyone can edit any article .</segment>
-		<segment id="55" parent="217" relname="span">这 是否 会 给 参与者 带来 任何 特殊 的 道德 问题 ？ // Does this raise any special ethical issues for the participants?</segment>
-		<segment id="56" parent="252" relname="organization-preparation">这 个 问题 围绕 着 “ 任何 人 ” 。 // The question revolves around "anyone".</segment>
+		<segment id="55" parent="217" relname="span">这 是否 会 给 参与者 带来 任何 特殊 的 道德 问题 ？ // Does this raise any special ethical issues for the participants ?</segment>
+		<segment id="56" parent="252" relname="organization-preparation">这 个 问题 围绕 着 “ 任何 人 ” 。 // The question revolves around " anyone " .</segment>
 		<segment id="57" parent="230" relname="mode-manner">就 像 任何 其他 维基 服务 的 用户 一样 ， // Just like any other wiki service user ,</segment>
 		<segment id="58" parent="59" relname="elaboration-attribute">我 看到 的 // what i saw</segment>
 		<segment id="59" parent="224" relname="span">文章 ， // article ,</segment>
-		<segment id="60" parent="224" relname="elaboration-attribute">（ 例如 在 维基 媒体 上 ） // (eg on Wikimedia)</segment>
-		<segment id="61" parent="226" relname="same-unit">是 关于 非 政治 主题 的 ， 例如 ， 哲学家 或 作家 ， // is about a non-political subject, for example, a philosopher or a writer,</segment>
+		<segment id="60" parent="224" relname="elaboration-attribute">（ 例如 在 维基 媒体 上 ） // ( eg on Wikimedia )</segment>
+		<segment id="61" parent="226" relname="same-unit">是 关于 非 政治 主题 的 ， 例如 ， 哲学家 或 作家 ， // is about a non - political subject , for example , a philosopher or a writer ,</segment>
 		<segment id="62" parent="227" relname="attribution-positive">我 知道 // I know</segment>
-		<segment id="63" parent="227" relname="joint-list">这些 文章 是 不 完整 的 ， // These articles are incomplete,</segment>
-		<segment id="64" parent="227" relname="joint-list">而且 似乎 是 倾斜 的 ， // And it seems to be sloping,</segment>
-		<segment id="65" parent="229" relname="adversative-contrast">但 我 并不 感到 惊讶 。 // But I'm not surprised.</segment>
+		<segment id="63" parent="227" relname="joint-list">这些 文章 是 不 完整 的 ， // These articles are incomplete ,</segment>
+		<segment id="64" parent="227" relname="joint-list">而且 似乎 是 倾斜 的 ， // And it seems to be sloping ,</segment>
+		<segment id="65" parent="229" relname="adversative-contrast">但 我 并不 感到 惊讶 。 // But I 'm not surprised .</segment>
 		<segment id="66" parent="233" relname="context-circumstance">但 当 涉及 到 新闻 时 ， // But when it comes to news ,</segment>
 		<segment id="67" parent="68" relname="elaboration-attribute">管理 维基 新闻 的 // management of wiki news</segment>
-		<segment id="68" parent="232" relname="span">人 需要 格外 警惕 ， // One needs to be extra vigilant,</segment>
-		<segment id="69" parent="234" relname="joint-list">检查 谁 在 写 文章 ， // Check who is writing the article,</segment>
-		<segment id="70" parent="236" relname="span">并 透明 地 提供 讯息 ， // and provide information transparently,</segment>
+		<segment id="68" parent="232" relname="span">人 需要 格外 警惕 ， // One needs to be extra vigilant ,</segment>
+		<segment id="69" parent="234" relname="joint-list">检查 谁 在 写 文章 ， // Check who is writing the article ,</segment>
+		<segment id="70" parent="236" relname="span">并 透明 地 提供 讯息 ， // and provide information transparently ,</segment>
 		<segment id="71" parent="72" relname="attribution-positive">说明 // illustrate</segment>
-		<segment id="72" parent="235" relname="span">为什么 这 个 人 有 能力 写 这 篇 文章 。 // Why does this person have the ability to write this article.</segment>
+		<segment id="72" parent="235" relname="span">为什么 这 个 人 有 能力 写 这 篇 文章 。 // Why does this person have the ability to write this article .</segment>
 		<segment id="73" parent="74" relname="attribution-negative">我 不 认为 // I do not think so</segment>
 		<segment id="74" parent="238" relname="span">维基 新闻 可以 保证 完全 的 客观性 或 公正性 ， // Wikinews can guarantee complete objectivity or impartiality ,</segment>
-		<segment id="75" parent="238" relname="adversative-concession">无论 这 意味 着 什么 ， // whatever that means,</segment>
+		<segment id="75" parent="238" relname="adversative-concession">无论 这 意味 着 什么 ， // whatever that means ,</segment>
 		<segment id="76" parent="241" relname="organization-preparation">但 他们 需要 采取 媒体 道德 的 基本 步骤 ： // But they need to take basic steps in media ethics :</segment>
-		<segment id="77" parent="241" relname="joint-list">负 责任 、 // responsible,</segment>
+		<segment id="77" parent="241" relname="joint-list">负 责任 、 // responsible ,</segment>
 		<segment id="78" parent="241" relname="joint-list">透明 、 // transparent ,</segment>
-		<segment id="79" parent="241" relname="joint-list">检查 文章 是否 有 偏见 或 不 完整 ， // Check articles for bias or incompleteness,</segment>
+		<segment id="79" parent="241" relname="joint-list">检查 文章 是否 有 偏见 或 不 完整 ， // Check articles for bias or incompleteness ,</segment>
 		<segment id="80" parent="242" relname="span">文章 要 接受 独立 媒体 专家 的 检查 // Articles subject to review by independent media experts</segment>
-		<segment id="81" parent="80" relname="restatement-partial">（ Review ） ， // (Review),</segment>
-		<segment id="82" parent="241" relname="joint-list">并 明确 阐述 他们 的 道德 准则 ， // and articulate their code of ethics,</segment>
-		<segment id="83" parent="243" relname="elaboration-additional">这 是 强制性 的 。 // This is mandatory.</segment>
+		<segment id="81" parent="80" relname="restatement-partial">（ Review ） ， // ( Review ) ,</segment>
+		<segment id="82" parent="241" relname="joint-list">并 明确 阐述 他们 的 道德 准则 ， // and articulate their code of ethics ,</segment>
+		<segment id="83" parent="243" relname="elaboration-additional">这 是 强制性 的 。 // This is mandatory .</segment>
 		<segment id="84" parent="245" relname="span">教授 克劳斯·梅耶 // Professor Klaus Meyer</segment>
-		<segment id="85" parent="84" relname="restatement-partial">（ Klaus Meyer ） // (Klaus Meyer)</segment>
+		<segment id="85" parent="84" relname="restatement-partial">（ Klaus Meyer ） // ( Klaus Meyer )</segment>
 		<segment id="86" parent="246" relname="span">和 温森克·维斯 // with Vincent Weiss</segment>
-		<segment id="87" parent="86" relname="restatement-partial">（ Vincenz Wyss ） // (Vincenz Wyss)</segment>
-		<segment id="88" parent="247" relname="same-unit">争论 ， // argue,</segment>
-		<segment id="89" parent="248" relname="span">在 2月 和 3月 初 ， 有关 COVID-19 流行病 的 新闻 “ 在 科学 估计 中 的 观点 多样性 和 偏见 很 少 得到 体现 ” 。 // In February and early March, news about the COVID-19 epidemic "had little representation of diversity of opinion and bias in scientific estimates".</segment>
+		<segment id="87" parent="86" relname="restatement-partial">（ Vincenz Wyss ） // ( Vincenz Wyss )</segment>
+		<segment id="88" parent="247" relname="same-unit">争论 ， // argue ,</segment>
+		<segment id="89" parent="248" relname="span">在 2月 和 3月 初 ， 有关 COVID-19 流行病 的 新闻 “ 在 科学 估计 中 的 观点 多样性 和 偏见 很 少 得到 体现 ” 。 // In February and early March , news about the COVID-19 epidemic " had little representation of diversity of opinion and bias in scientific estimates " .</segment>
 		<segment id="90" parent="249" relname="span">您 是否 同意 这 种 观点 ？ // Do you agree with this view ?</segment>
 		<segment id="91" parent="250" relname="joint-disjunction">覆盖 范围 大 部分 是 关键 的 // Coverage is mostly critical</segment>
-		<segment id="92" parent="250" relname="joint-disjunction">还是 非 关键 的 ？ // Or non-critical?</segment>
+		<segment id="92" parent="250" relname="joint-disjunction">还是 非 关键 的 ？ // Or non - critical ?</segment>
 		<segment id="93" parent="257" relname="adversative-concession">报道 科学 上 的 不确定性 总是 一 个 问题 ， // Reporting uncertainty in science is always a problem ,</segment>
-		<segment id="94" parent="256" relname="organization-preparation">公平 地 说 ， // To be fair,</segment>
+		<segment id="94" parent="256" relname="organization-preparation">公平 地 说 ， // To be fair ,</segment>
 		<segment id="95" parent="96" relname="elaboration-attribute">今 次 大 流行病 包含 的 // What this pandemic includes</segment>
-		<segment id="96" parent="256" relname="span">不确定性 超出 了 常规 。 // Uncertainty goes beyond the norm.</segment>
-		<segment id="97" parent="259" relname="contingency-condition">即使 是 世界 上 最 伟大 的 流行病 专家 ， // Even the world's greatest epidemiologist,</segment>
-		<segment id="98" parent="99" relname="attribution-negative">也 无法 确定 // can't be sure</segment>
+		<segment id="96" parent="256" relname="span">不确定性 超出 了 常规 。 // Uncertainty goes beyond the norm .</segment>
+		<segment id="97" parent="259" relname="contingency-condition">即使 是 世界 上 最 伟大 的 流行病 专家 ， // Even the world 's greatest epidemiologist ,</segment>
+		<segment id="98" parent="99" relname="attribution-negative">也 无法 确定 // ca n't be sure</segment>
 		<segment id="99" parent="259" relname="span">未来 会 发生 什么 。 // what will happen in the future .</segment>
-		<segment id="100" parent="261" relname="adversative-contrast">这 不 是 因为 缺乏 知识 ， // It's not for lack of knowledge,</segment>
-		<segment id="101" parent="263" relname="span">而 是 人类 不 可能 总是 预测 复杂 疾病 的 后果 。 // Rather , humans cannot always predict the consequences of complex diseases .</segment>
-		<segment id="102" parent="101" relname="causal-cause">有 这么 多 因素 。 // There are so many factors.</segment>
+		<segment id="100" parent="261" relname="adversative-contrast">这 不 是 因为 缺乏 知识 ， // It 's not for lack of knowledge ,</segment>
+		<segment id="101" parent="263" relname="span">而 是 人类 不 可能 总是 预测 复杂 疾病 的 后果 。 // Rather , humans can not always predict the consequences of complex diseases .</segment>
+		<segment id="102" parent="101" relname="causal-cause">有 这么 多 因素 。 // There are so many factors .</segment>
 		<segment id="103" parent="104" relname="attribution-positive">另 一 个 问题 是 ， 太 多 人 认为 // Another problem is that too many people think</segment>
-		<segment id="104" parent="264" relname="span">科学 是 “ 确定 ” 的 知识 ， // Science is "sure" knowledge,</segment>
+		<segment id="104" parent="264" relname="span">科学 是 “ 确定 ” 的 知识 ， // Science is " sure " knowledge ,</segment>
 		<segment id="105" parent="106" relname="attribution-positive">或者 说 // Or</segment>
-		<segment id="106" parent="265" relname="span">是 纯粹 的 事实 ， // is pure fact,</segment>
+		<segment id="106" parent="265" relname="span">是 纯粹 的 事实 ， // is pure fact ,</segment>
 		<segment id="107" parent="269" relname="same-unit">而 不 是 // instead of</segment>
 		<segment id="108" parent="109" relname="elaboration-attribute">基于 现有 最佳 证据 和 推理 模型 的 // based on the best available evidence and inference models</segment>
-		<segment id="109" parent="268" relname="span">可能 知识 。 // possible knowledge.</segment>
+		<segment id="109" parent="268" relname="span">可能 知识 。 // possible knowledge .</segment>
 		<segment id="110" parent="111" relname="attribution-positive">所以 ， 当 记者 报道 // So when reporters report</segment>
-		<segment id="111" parent="270" relname="span">科学家 对 某 件 事情 “ 不 确定 ” 时 ， // When a scientist is "not sure" about something,</segment>
+		<segment id="111" parent="270" relname="span">科学家 对 某 件 事情 “ 不 确定 ” 时 ， // When a scientist is " not sure " about something ,</segment>
 		<segment id="112" parent="273" relname="same-unit">太 多 人 就 会 得出 // too many people will draw</segment>
-		<segment id="113" parent="114" relname="attribution-negative">科学家 不 知道 // scientists don't know</segment>
+		<segment id="113" parent="114" relname="attribution-negative">科学家 不 知道 // scientists do n't know</segment>
 		<segment id="114" parent="271" relname="span">自己 在 说 什么 的 // what are you saying</segment>
 		<segment id="115" parent="272" relname="span">结论 ， // in conclusion ,</segment>
-		<segment id="116" parent="274" relname="joint-sequence">并 把 他们 和 非 专家 归 为 同 一 桶 。 // And put them in the same bucket as non-experts.</segment>
+		<segment id="116" parent="274" relname="joint-sequence">并 把 他们 和 非 专家 归 为 同 一 桶 。 // And put them in the same bucket as non - experts .</segment>
 		<segment id="117" parent="118" relname="attribution-positive">我 赞成 // I agree</segment>
 		<segment id="118" parent="277" relname="span">对 不确定性 进行 细致 入微 的 报道 ， // nuanced reporting of uncertainty ,</segment>
 		<segment id="119" parent="120" relname="attribution-positive">我 知道 // I know</segment>
-		<segment id="120" parent="278" relname="span">很多 报道 在 这 件 事 上 没有 做好 。 // A lot of reports don't do a good job on this.</segment>
+		<segment id="120" parent="278" relname="span">很多 报道 在 这 件 事 上 没有 做好 。 // A lot of reports do n't do a good job on this .</segment>
 		<segment id="121" parent="122" relname="attribution-positive">这 说明 // this means</segment>
 		<segment id="122" parent="279" relname="span">各 大 新闻 单位 需要 在 沟通 风险 和 不确定性 方面 进行 自我 宣传 ， // Major news organizations need to promote themselves in terms of communicating risks and uncertainties ,</segment>
-		<segment id="123" parent="281" relname="joint-list">这 是 我 多 年 来 一直 强调 的 。 // This is what I have been emphasizing over the years.</segment>
-		<segment id="124" parent="281" relname="joint-list">也好 ， 新闻 学院 应该 把 它 作为 教学 的 一 部分 。 // Well, journalism schools should make it part of their teaching.</segment>
-		<segment id="125" parent="288" relname="attribution-positive">克劳斯·梅耶 和 温森克·维斯 还 表示 ， // Klaus Meyer and Vincenk Weiss also said,</segment>
+		<segment id="123" parent="281" relname="joint-list">这 是 我 多 年 来 一直 强调 的 。 // This is what I have been emphasizing over the years .</segment>
+		<segment id="124" parent="281" relname="joint-list">也好 ， 新闻 学院 应该 把 它 作为 教学 的 一 部分 。 // Well , journalism schools should make it part of their teaching .</segment>
+		<segment id="125" parent="288" relname="attribution-positive">克劳斯·梅耶 和 温森克·维斯 还 表示 ， // Klaus Meyer and Vincenk Weiss also said ,</segment>
 		<segment id="126" parent="287" relname="context-circumstance">“ 德国 和 瑞士 的 媒体 在 报道 时 ， // " When the German and Swiss media reported ,</segment>
 		<segment id="127" parent="287" relname="span">基本 没有 距离感 // Basically no sense of distance</segment>
 		<segment id="128" parent="127" relname="explanation-justify">── 他们 的 资讯 与 联邦 和 州 的 官方 讯息 一致 。 ” // -- their information is consistent with official federal and state information . "</segment>
 		<segment id="129" parent="290" relname="span">你 同意 这 个 观点 吗 ？ // Do you agree with this point of view ?</segment>
-		<segment id="130" parent="291" relname="joint-disjunction">美国 和 加拿大 的 情况 是 相似 ， // The situation in the US and Canada is similar.</segment>
-		<segment id="131" parent="291" relname="joint-disjunction">还是 不同 ？ // Or different?</segment>
+		<segment id="130" parent="291" relname="joint-disjunction">美国 和 加拿大 的 情况 是 相似 ， // The situation in the US and Canada is similar .</segment>
+		<segment id="131" parent="291" relname="joint-disjunction">还是 不同 ？ // Or different ?</segment>
 		<segment id="132" parent="312" relname="organization-preparation">这 是 报道 健康 问题 和 严重 事态 发展 的 另 一 个 问题 。 // This is another issue with coverage of health problems and serious developments .</segment>
 		<segment id="133" parent="293" relname="attribution-positive">新闻 媒体 必须 告诉 人们 // The news media must tell people</segment>
-		<segment id="134" parent="293" relname="joint-list">他们 的 政府 和 相关 机构 在 说 什么 ， // What are their governments and related agencies saying,</segment>
-		<segment id="135" parent="293" relname="joint-list">做 什么 ， 对 事情 。 // do something right.</segment>
+		<segment id="134" parent="293" relname="joint-list">他们 的 政府 和 相关 机构 在 说 什么 ， // What are their governments and related agencies saying ,</segment>
+		<segment id="135" parent="293" relname="joint-list">做 什么 ， 对 事情 。 // do something right .</segment>
 		<segment id="136" parent="295" relname="span">有 一 个 巨大 的 讯息 真空 需要 填补 ， // There is a huge message vacuum that needs to be filled ,</segment>
-		<segment id="137" parent="136" relname="adversative-antithesis">而 这 个 真空 将 被 恐惧 和 错误 讯息 所 填补 ， 否则 。 // And that vacuum will be filled with fear and misinformation, otherwise.</segment>
+		<segment id="137" parent="136" relname="adversative-antithesis">而 这 个 真空 将 被 恐惧 和 错误 讯息 所 填补 ， 否则 。 // And that vacuum will be filled with fear and misinformation , otherwise .</segment>
 		<segment id="138" parent="296" relname="adversative-contrast">然而 ， 与此同时 ， 至关重要 的 是 ， 媒体 要 批判性 地 对待 官方 讯息 ， // At the same time , however , it is crucial that the media treat official messages critically ,</segment>
-		<segment id="139" parent="296" relname="adversative-contrast">而 不 是 简单 地 “ 接受 ” 所有 讯息 。 // rather than simply "accepting" all messages.</segment>
+		<segment id="139" parent="296" relname="adversative-contrast">而 不 是 简单 地 “ 接受 ” 所有 讯息 。 // rather than simply " accepting " all messages .</segment>
 		<segment id="140" parent="296" relname="restatement-partial">他们 需要 进行 自己 的 独立 调查 和 报道 。 // They need to conduct their own independent investigation and reporting .</segment>
 		<segment id="141" parent="302" relname="span">在 北美 ， 它 的 纪录 好坏 参半 。 // In North America it has a mixed record .</segment>
 		<segment id="142" parent="298" relname="same-unit">在 美国 ， 各 大 新闻 机构 都 对 特朗普 总统 及 // In the US , the major news organizations have been critical of President Trump and</segment>
 		<segment id="143" parent="144" relname="elaboration-attribute">其 政权 产生 的 // generated by its regime</segment>
 		<segment id="144" parent="297" relname="span">官方 路线 提出 了 严重 的 质疑 。 // The official line raises serious doubts .</segment>
 		<segment id="145" parent="299" relname="span">但 太 多 时候 ， 特朗普 每天 都 在 用 他 那 可笑 的 新闻 发布会 // But all too often trump uses his ridiculous press conferences every day</segment>
-		<segment id="146" parent="145" relname="purpose-goal">来 主导 报道 ， // to lead the report,</segment>
-		<segment id="147" parent="299" relname="elaboration-additional">病毒 怀疑论 是 主题 。 // Viral skepticism is the theme.</segment>
-		<segment id="148" parent="303" relname="span">在 加拿大 ， 加拿大 广播 公司 // In Canada, the Canadian Broadcasting Corporation</segment>
-		<segment id="149" parent="148" relname="restatement-partial">（ CBC ） // (CBC)</segment>
+		<segment id="146" parent="145" relname="purpose-goal">来 主导 报道 ， // to lead the report ,</segment>
+		<segment id="147" parent="299" relname="elaboration-additional">病毒 怀疑论 是 主题 。 // Viral skepticism is the theme .</segment>
+		<segment id="148" parent="303" relname="span">在 加拿大 ， 加拿大 广播 公司 // In Canada , the Canadian Broadcasting Corporation</segment>
+		<segment id="149" parent="148" relname="restatement-partial">（ CBC ） // ( CBC )</segment>
 		<segment id="150" parent="304" relname="same-unit">在 平衡 官方 和 非 官方 讯息 方面 做 得 很 好 ， // does a good job of balancing official and unofficial messaging ,</segment>
 		<segment id="151" parent="305" relname="joint-list">各 大 报纸 也 是 如此 。 // The same goes for major newspapers .</segment>
-		<segment id="152" parent="306" relname="attribution-positive">加拿大 的 主要 媒体 也 很 好 地 展示 了 // Canada's major media also showed it well</segment>
+		<segment id="152" parent="306" relname="attribution-positive">加拿大 的 主要 媒体 也 很 好 地 展示 了 // Canada 's major media also showed it well</segment>
 		<segment id="153" parent="306" relname="joint-list">加拿大 如何 反应 迟缓 ， // How Canada has been slow to respond</segment>
 		<segment id="154" parent="306" relname="joint-list">在 许多 方面 毫无 准备 。 // Unprepared in many ways .</segment>
-		<segment id="155" parent="156" relname="context-background">病死 人数 在 俄罗斯 媒体 上 基本 被 表述 为 “ 真实 事实 ” 。 // The death toll was basically presented as "true facts" in the Russian media.</segment>
-		<segment id="156" parent="317" relname="span">能否 如此 命名 ？ // Can it be so named?</segment>
-		<segment id="157" parent="310" relname="span">不 ， 它们 不 是 “ 真实 的 事实 ” ， // No, they are not "true facts",</segment>
+		<segment id="155" parent="156" relname="context-background">病死 人数 在 俄罗斯 媒体 上 基本 被 表述 为 “ 真实 事实 ” 。 // The death toll was basically presented as " true facts " in the Russian media .</segment>
+		<segment id="156" parent="317" relname="span">能否 如此 命名 ？ // Can it be so named ?</segment>
+		<segment id="157" parent="310" relname="span">不 ， 它们 不 是 “ 真实 的 事实 ” ， // No , they are not " true facts " ,</segment>
 		<segment id="158" parent="157" relname="contingency-condition">如果 这 意味 着 不容置疑 或 肯定 的话 。 // If it means beyond doubt or certainty .</segment>
-		<segment id="159" parent="330" relname="organization-preparation">人们 为什么 要 接受 这样 的 宣传 ？ // Why do people accept such propaganda?</segment>
+		<segment id="159" parent="330" relname="organization-preparation">人们 为什么 要 接受 这样 的 宣传 ？ // Why do people accept such propaganda ?</segment>
 		<segment id="160" parent="318" relname="same-unit">任何 一 个 // anyone</segment>
 		<segment id="161" parent="162" relname="elaboration-attribute">有 理智 的 // sensible</segment>
-		<segment id="162" parent="319" relname="span">人 都 知道 ， // Everyone knows,</segment>
+		<segment id="162" parent="319" relname="span">人 都 知道 ， // Everyone knows ,</segment>
 		<segment id="163" parent="320" relname="span">现有 的 关于 病毒 和 死亡 人数 等 数据 并不 完整 ， // Existing data on the virus and death toll is incomplete ,</segment>
-		<segment id="164" parent="321" relname="span">取决于 估计 ， // depends on the estimate,</segment>
+		<segment id="164" parent="321" relname="span">取决于 估计 ， // depends on the estimate ,</segment>
 		<segment id="165" parent="164" relname="elaboration-attribute">而 估计 又 取决于 检测 的 多少 。 // And the estimate depends on how much is detected .</segment>
 		<segment id="166" parent="167" relname="organization-preparation">而 俄罗斯 或 其他 地方 的 政府 ， 都 有 一 个 利益 // And governments in Russia or elsewhere have an interest</segment>
-		<segment id="167" parent="322" relname="span">就 是 让 事实 看起来 尽可能 的 好 。 // It's all about making the facts look as good as possible.</segment>
+		<segment id="167" parent="322" relname="span">就 是 让 事实 看起来 尽可能 的 好 。 // It 's all about making the facts look as good as possible .</segment>
 		<segment id="168" parent="324" relname="attribution-positive">这 就 是 为什么 媒体 报道 需要 说 // This is why media coverage needs to say</segment>
 		<segment id="169" parent="324" relname="same-unit">这 是 // This is</segment>
 		<segment id="170" parent="171" relname="elaboration-attribute">政府 公布 的 // published by the government</segment>
 		<segment id="171" parent="323" relname="span">数据 ， // data ,</segment>
 		<segment id="172" parent="325" relname="joint-sequence">然后 继续 指出 任何 不确定 因素 。 // Then go ahead and point out any uncertainties .</segment>
 		<segment id="173" parent="326" relname="adversative-contrast">例如 ， CBC 关于 病毒 的 网站 上 有 很多 关于 疾病 传播 的 图表 ； // For example , the CBC 's website on viruses has a lot of graphs on the spread of the disease ;</segment>
-		<segment id="174" parent="326" relname="adversative-contrast">但是 ， 在 网页 的 开头 ， 它 明确 指出 了 这些 数据 的 局限性 ， 例如 采样 的 测试 次数 。 // However, at the beginning of the page, it clearly states the limitations of these data, such as the number of tests sampled.</segment>
+		<segment id="174" parent="326" relname="adversative-contrast">但是 ， 在 网页 的 开头 ， 它 明确 指出 了 这些 数据 的 局限性 ， 例如 采样 的 测试 次数 。 // However , at the beginning of the page , it clearly states the limitations of these data , such as the number of tests sampled .</segment>
 		<group id="175" type="span" parent="338" relname="organization-heading"/>
 		<group id="176" type="span" parent="177" relname="same-unit"/>
 		<group id="177" type="multinuc" parent="178" relname="joint-list"/>

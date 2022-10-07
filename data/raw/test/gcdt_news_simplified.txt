@@ -1,4 +1,4 @@
-<text id="gum_zh_news_simplified" type="news" sourceURL="https://zh.wikinews.org/wiki/%E9%99%88%E7%AB%A0%E5%A4%AA%E8%AF%B4%EF%BC%9A2008%E5%B9%B4%E8%B5%B7%E8%81%94%E5%90%88%E5%9B%BD%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%AD%E6%96%87%E4%B8%80%E5%BE%8B%E7%94%A8%E7%AE%80%E4%BD%93%E5%AD%97" dateCreated="2006-03-23" dateModified="2016-08-07"  dateCollected="2022-01-04" speakerCount="0" speakerList="none" author="Wikinews" title="陈章太说：2008年起联合国使用的中文一律用简体字" shortTitle="simplified"/>
+<text id="gum_zh_news_simplified" genre="news" sourceURL="https://zh.wikinews.org/wiki/%E9%99%88%E7%AB%A0%E5%A4%AA%E8%AF%B4%EF%BC%9A2008%E5%B9%B4%E8%B5%B7%E8%81%94%E5%90%88%E5%9B%BD%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%AD%E6%96%87%E4%B8%80%E5%BE%8B%E7%94%A8%E7%AE%80%E4%BD%93%E5%AD%97" dateCreated="2006-03-23" dateModified="2016-08-07"  dateCollected="2022-01-04" speakerCount="0" speakerList="none" author="Wikinews" title="陈章太说：2008年起联合国使用的中文一律用简体字" shortTitle="simplified"/>
 陈章太说：2008年起联合国使用的中文一律用简体字
 
 【2006年3月23日讯】

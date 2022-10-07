@@ -37,206 +37,206 @@
 	</header>
 	<body>
 		<segment id="1" parent="208" relname="span">疫情 期间 主流 媒体 的 传播 策略 研究 // Research on the Communication Strategies of Mainstream Media During the Epidemic</segment>
-		<segment id="2" parent="1" relname="elaboration-additional">—— 以 人民 日报 抖音号 为 例 // ——Take the Douyin account of People’s Daily as an example</segment>
-		<segment id="3" parent="222" relname="organization-heading">1. 研究 背景 // 1. Research Background</segment>
-		<segment id="4" parent="209" relname="joint-sequence">2020年 ， 新冠 疫情 在 中国 爆发 ， // In 2020, the new crown epidemic broke out in China,</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">—— 以 人民 日报 抖音号 为 例 // — — Take the Douyin account of People ’s Daily as an example</segment>
+		<segment id="3" parent="222" relname="organization-heading">1. 研究 背景 // 1 . Research Background</segment>
+		<segment id="4" parent="209" relname="joint-sequence">2020年 ， 新冠 疫情 在 中国 爆发 ， // In 2020 , the new crown epidemic broke out in China ,</segment>
 		<segment id="5" parent="209" relname="joint-sequence">并 快速 蔓延 全球 。 // and spread rapidly around the world .</segment>
-		<segment id="6" parent="210" relname="span">中国 人民 在 党 和 政府 的 领导 下 进入 全民 抗疫 阻击战 和 疫情 防控 阻击战 。 // Under the leadership of the party and the government , the Chinese people have entered the national anti-epidemic battle and the epidemic prevention and control battle .</segment>
+		<segment id="6" parent="210" relname="span">中国 人民 在 党 和 政府 的 领导 下 进入 全民 抗疫 阻击战 和 疫情 防控 阻击战 。 // Under the leadership of the party and the government , the Chinese people have entered the national anti - epidemic battle and the epidemic prevention and control battle .</segment>
 		<segment id="7" parent="8" relname="context-circumstance">面对 疫情 对 现有 公共 话语 体系 的 冲击 ， // In the face of the impact of the epidemic on the existing public discourse system ,</segment>
 		<segment id="8" parent="211" relname="span">抖音 短 视频 平台 契合 了 信息 传播 的 需要 ， // The Douyin short video platform meets the needs of information dissemination .</segment>
 		<segment id="9" parent="212" relname="span">因此 ， 众多 政务号 获得 了 很 好 的 发展 机会 。 // Therefore , many government affairs accounts have obtained very good development opportunities .</segment>
-		<segment id="10" parent="214" relname="same-unit">人民 日报 作为 中国 最 重要 的 主流 媒体 之一 ， 在 疫情 期间 生产 // People's Daily, one of the most important mainstream media in China, produced during the epidemic</segment>
+		<segment id="10" parent="214" relname="same-unit">人民 日报 作为 中国 最 重要 的 主流 媒体 之一 ， 在 疫情 期间 生产 // People 's Daily , one of the most important mainstream media in China , produced during the epidemic</segment>
 		<segment id="11" parent="12" relname="elaboration-attribute">有关 疫情 的 // about the epidemic</segment>
 		<segment id="12" parent="213" relname="span">短 视频 新闻 ， // short video news ,</segment>
-		<segment id="13" parent="215" relname="joint-list">获得 了 大量 关注 。 // Got a lot of attention.</segment>
-		<segment id="14" parent="220" relname="same-unit">直 至 今天 的 新冠 疫情 常态化 防治 时期 ， 我们 看到 了 // Until today's period of normalized prevention and control of the new crown epidemic, we have seen</segment>
-		<segment id="15" parent="16" relname="elaboration-attribute">以 人民 日报 为 首 的 // led by the People's Daily</segment>
+		<segment id="13" parent="215" relname="joint-list">获得 了 大量 关注 。 // Got a lot of attention .</segment>
+		<segment id="14" parent="220" relname="same-unit">直 至 今天 的 新冠 疫情 常态化 防治 时期 ， 我们 看到 了 // Until today 's period of normalized prevention and control of the new crown epidemic , we have seen</segment>
+		<segment id="15" parent="16" relname="elaboration-attribute">以 人民 日报 为 首 的 // led by the People 's Daily</segment>
 		<segment id="16" parent="216" relname="span">我国 各 大 主流 媒体 // Major mainstream media in my country</segment>
 		<segment id="17" parent="18" relname="purpose-goal">应对 重大 公共 卫生 事件 // Responding to major public health events</segment>
 		<segment id="18" parent="217" relname="span">所 采取 的 // taken</segment>
-		<segment id="19" parent="218" relname="span">不同 传播 行动 。 // Different dissemination actions.</segment>
-		<segment id="20" parent="396" relname="organization-heading">2. 人民 日报 的 传播 策略 分析 // 2. Analysis of the communication strategy of People's Daily</segment>
-		<segment id="21" parent="315" relname="organization-heading">2.1. 人民 日报 的 成功 经验 // 2.1. The successful experience of People's Daily</segment>
-		<segment id="22" parent="224" relname="joint-list">2.1.1. 注重 平民 故事 ， // 2.1.1. Focus on civilian stories,</segment>
+		<segment id="19" parent="218" relname="span">不同 传播 行动 。 // Different dissemination actions .</segment>
+		<segment id="20" parent="396" relname="organization-heading">2. 人民 日报 的 传播 策略 分析 // 2 . Analysis of the communication strategy of People 's Daily</segment>
+		<segment id="21" parent="315" relname="organization-heading">2.1. 人民 日报 的 成功 经验 // 2.1 . The successful experience of People 's Daily</segment>
+		<segment id="22" parent="224" relname="joint-list">2.1.1. 注重 平民 故事 ， // 2.1.1 . Focus on civilian stories ,</segment>
 		<segment id="23" parent="224" relname="joint-list">触发 大众 共情 // Trigger mass empathy</segment>
 		<segment id="24" parent="25" relname="elaboration-attribute">来源于 民间 和 生活 的 // From folk and life</segment>
-		<segment id="25" parent="225" relname="span">信息 ， 是 短 视频 内容 的 最 核心 组成 。 // Information is the core component of short video content.</segment>
+		<segment id="25" parent="225" relname="span">信息 ， 是 短 视频 内容 的 最 核心 组成 。 // Information is the core component of short video content .</segment>
 		<segment id="26" parent="226" relname="span">民间化 视角 、 民间化 表达 、 民间化 立场 是 民间化 叙事 的 基本 内涵 。 // Folk perspective , folk expression and folk stand are the basic connotations of folk narration .</segment>
 		<segment id="27" parent="26" relname="explanation-evidence">-LSB- 1 -RSB- // -LSB- 1 -RSB-</segment>
 		<segment id="28" parent="227" relname="span">在 传播学 的 劝服 效果 理论 中 ， 诉诸 感情 // In the persuasive effect theory of communication , appeal to emotion</segment>
 		<segment id="29" parent="28" relname="adversative-antithesis">比 诉诸 理性 // than appeal to reason</segment>
-		<segment id="30" parent="228" relname="same-unit">可能 更 有 效果 。 // may be more effective.</segment>
+		<segment id="30" parent="228" relname="same-unit">可能 更 有 效果 。 // may be more effective .</segment>
 		<segment id="31" parent="228" relname="explanation-evidence">-LSB- 2 -RSB- // -LSB- 2 -RSB-</segment>
-		<segment id="32" parent="231" relname="joint-list">在 疫情 爆发 和 蔓延 时期 ， 人民 日报 报道 了 很多 基层 工作 人员 和 一线 医护 人员 的 故事 ， // During the outbreak and spread of the epidemic, the People's Daily reported many stories of grassroots workers and frontline medical staff,</segment>
-		<segment id="33" parent="34" relname="mode-means">通过 传递 抗疫 故事 // By delivering anti-epidemic stories</segment>
-		<segment id="34" parent="230" relname="span">共情 。 // Empathy.</segment>
-		<segment id="35" parent="232" relname="joint-list">让 大众 感受 到 在 疫情 肆虐 下 社会 的 温情 ， // Let the public feel the warmth of society under the raging epidemic,</segment>
+		<segment id="32" parent="231" relname="joint-list">在 疫情 爆发 和 蔓延 时期 ， 人民 日报 报道 了 很多 基层 工作 人员 和 一线 医护 人员 的 故事 ， // During the outbreak and spread of the epidemic , the People 's Daily reported many stories of grassroots workers and frontline medical staff ,</segment>
+		<segment id="33" parent="34" relname="mode-means">通过 传递 抗疫 故事 // By delivering anti - epidemic stories</segment>
+		<segment id="34" parent="230" relname="span">共情 。 // Empathy .</segment>
+		<segment id="35" parent="232" relname="joint-list">让 大众 感受 到 在 疫情 肆虐 下 社会 的 温情 ， // Let the public feel the warmth of society under the raging epidemic ,</segment>
 		<segment id="36" parent="232" relname="joint-list">激发 人们 对 生活 的 希望 。 // inspire hope in life .</segment>
-		<segment id="37" parent="233" relname="span">经 统计 ， 2020年 1月 20日 到 2月 29日 人民 日报 共 发布 了 288 条 抖音 ， // According to statistics, from January 20 to February 29, 2020, the People's Daily published a total of 288 Douyin.</segment>
-		<segment id="38" parent="234" relname="span">其中 和 疫情 有关 的 有 262 条 。 // Among them, 262 are related to the epidemic.</segment>
-		<segment id="39" parent="38" relname="elaboration-additional">在 262 条 中 ， 有 100 条 与 普通 人 的 抗疫 生活 有关 。 // Among the 262 articles, 100 are related to the anti-epidemic life of ordinary people.</segment>
-		<segment id="40" parent="236" relname="span">2020年 3月 1日 至 4月 30日 共 发布 了 322 条 抖音 ， // From March 1st to April 30th, 2020, a total of 322 Douyin were published.</segment>
+		<segment id="37" parent="233" relname="span">经 统计 ， 2020年 1月 20日 到 2月 29日 人民 日报 共 发布 了 288 条 抖音 ， // According to statistics , from January 20 to February 29 , 2020 , the People 's Daily published a total of 288 Douyin .</segment>
+		<segment id="38" parent="234" relname="span">其中 和 疫情 有关 的 有 262 条 。 // Among them , 262 are related to the epidemic .</segment>
+		<segment id="39" parent="38" relname="elaboration-additional">在 262 条 中 ， 有 100 条 与 普通 人 的 抗疫 生活 有关 。 // Among the 262 articles , 100 are related to the anti - epidemic life of ordinary people .</segment>
+		<segment id="40" parent="236" relname="span">2020年 3月 1日 至 4月 30日 共 发布 了 322 条 抖音 ， // From March 1st to April 30th , 2020 , a total of 322 Douyin were published .</segment>
 		<segment id="41" parent="42" relname="elaboration-attribute">和 疫情 有关 的 // related to the epidemic</segment>
-		<segment id="42" parent="235" relname="span">抖音 166 条 ， // Douyin 166,</segment>
-		<segment id="43" parent="235" relname="elaboration-additional">其中 有 92 条 抖音 与 普通 人 抗疫 生活 有关 。 // Among them, 92 Douyin are related to ordinary people's anti-epidemic life.</segment>
-		<segment id="44" parent="240" relname="span">2020年 5月 1日 至 9月 30日 共 有 532 条 抖音 发布 ， // From May 1st to September 30th, 2020, there were a total of 532 Douyin posts.</segment>
+		<segment id="42" parent="235" relname="span">抖音 166 条 ， // Douyin 166 ,</segment>
+		<segment id="43" parent="235" relname="elaboration-additional">其中 有 92 条 抖音 与 普通 人 抗疫 生活 有关 。 // Among them , 92 Douyin are related to ordinary people 's anti - epidemic life .</segment>
+		<segment id="44" parent="240" relname="span">2020年 5月 1日 至 9月 30日 共 有 532 条 抖音 发布 ， // From May 1st to September 30th , 2020 , there were a total of 532 Douyin posts .</segment>
 		<segment id="45" parent="46" relname="elaboration-attribute">和 疫情 有关 的 // related to the epidemic</segment>
-		<segment id="46" parent="239" relname="span">抖音 87 条 ， // Douyin 87,</segment>
-		<segment id="47" parent="239" relname="elaboration-additional">其中 有 25 条 与 普通 人 抗疫 生活 有关 。 // Among them, 25 are related to the anti-epidemic life of ordinary people.</segment>
+		<segment id="46" parent="239" relname="span">抖音 87 条 ， // Douyin 87 ,</segment>
+		<segment id="47" parent="239" relname="elaboration-additional">其中 有 25 条 与 普通 人 抗疫 生活 有关 。 // Among them , 25 are related to the anti - epidemic life of ordinary people .</segment>
 		<segment id="48" parent="49" relname="elaboration-attribute">与 疫情 有关 的 // related to the epidemic</segment>
-		<segment id="49" parent="242" relname="span">抖音 数量 的 减少 是 因为 国内 疫情 趋势 总体 向好 ， // The decrease in the number of Douyin is due to the overall positive trend of the domestic epidemic.</segment>
-		<segment id="50" parent="243" relname="joint-list">人们 对于 疫情 的 恐惧 和 消极 心理 减少 ， // People's fear and negativity about the epidemic have decreased,</segment>
-		<segment id="51" parent="243" relname="causal-result">因此 数量 总体 在 减小 。 // So the number is decreasing overall.</segment>
-		<segment id="52" parent="247" relname="same-unit">总体而言 ， 从 // Overall, from</segment>
-		<segment id="53" parent="54" relname="elaboration-attribute">2020年 1月 20日 到 9月 30日 发布 的 // Posted January 20 to September 30, 2020</segment>
-		<segment id="54" parent="246" relname="span">抖音 中 ， 有 42.1% 的 视频 是 关于 普通 人 在 疫情 期间 的 抗疫 生活 。 // In Douyin , 42.1% of the videos are about ordinary people's anti-epidemic life during the epidemic.</segment>
-		<segment id="55" parent="249" relname="span">在 1月 28日 ， 一 条 视频 // On January 28, a video</segment>
-		<segment id="56" parent="57" relname="purpose-goal">为 “ 妻子 驰援 武汉 ， // For "wife to help Wuhan,</segment>
+		<segment id="49" parent="242" relname="span">抖音 数量 的 减少 是 因为 国内 疫情 趋势 总体 向好 ， // The decrease in the number of Douyin is due to the overall positive trend of the domestic epidemic .</segment>
+		<segment id="50" parent="243" relname="joint-list">人们 对于 疫情 的 恐惧 和 消极 心理 减少 ， // People 's fear and negativity about the epidemic have decreased ,</segment>
+		<segment id="51" parent="243" relname="causal-result">因此 数量 总体 在 减小 。 // So the number is decreasing overall .</segment>
+		<segment id="52" parent="247" relname="same-unit">总体而言 ， 从 // Overall , from</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">2020年 1月 20日 到 9月 30日 发布 的 // Posted January 20 to September 30 , 2020</segment>
+		<segment id="54" parent="246" relname="span">抖音 中 ， 有 42.1% 的 视频 是 关于 普通 人 在 疫情 期间 的 抗疫 生活 。 // In Douyin , 42.1 % of the videos are about ordinary people 's anti - epidemic life during the epidemic .</segment>
+		<segment id="55" parent="249" relname="span">在 1月 28日 ， 一 条 视频 // On January 28 , a video</segment>
+		<segment id="56" parent="57" relname="purpose-goal">为 “ 妻子 驰援 武汉 ， // For " wife to help Wuhan ,</segment>
 		<segment id="57" parent="248" relname="span">丈夫 送别 时 // When the husband says goodbye</segment>
-		<segment id="58" parent="250" relname="same-unit">一 句 话 让 人 瞬间 泪目 ” // A sentence makes people cry instantly"</segment>
-		<segment id="59" parent="251" relname="joint-list">火遍 全网 。 // Fire all over the web.</segment>
-		<segment id="60" parent="253" relname="same-unit">视频 中 ， 丈夫 用 四川话 对 // In the video, the husband speaks in Sichuan dialect</segment>
+		<segment id="58" parent="250" relname="same-unit">一 句 话 让 人 瞬间 泪目 ” // A sentence makes people cry instantly "</segment>
+		<segment id="59" parent="251" relname="joint-list">火遍 全网 。 // Fire all over the web .</segment>
+		<segment id="60" parent="253" relname="same-unit">视频 中 ， 丈夫 用 四川话 对 // In the video , the husband speaks in Sichuan dialect</segment>
 		<segment id="61" parent="62" relname="elaboration-attribute">即将 去往 武汉 的 // about to go to Wuhan</segment>
-		<segment id="62" parent="252" relname="span">医护 妻子 喊话 ， // The doctor's wife shouted,</segment>
-		<segment id="63" parent="64" relname="context-circumstance">在 她 回家 之后 ， // After she got home,</segment>
-		<segment id="64" parent="254" relname="span">自己 包 一 年 的 家务活 。 // Take care of the housework for a year.</segment>
-		<segment id="65" parent="255" relname="evaluation-comment">这 种 平凡 又 不凡 的 情感 ， 令 人 动容 。 // This kind of ordinary and extraordinary emotion is touching.</segment>
-		<segment id="66" parent="261" relname="explanation-evidence">这 条 抖音 获得 了 127.7w 的 点赞量 ， 5.6w 的 评论量 和 2.8w 的 转发量 。 // This Douyin received 127.7w likes, 5.6w comments and 2.8w retweets.</segment>
-		<segment id="67" parent="259" relname="context-background">人民 日报 聚焦 普通 人 的 常态化 生活 ， // People's Daily focuses on the normal life of ordinary people,</segment>
+		<segment id="62" parent="252" relname="span">医护 妻子 喊话 ， // The doctor 's wife shouted ,</segment>
+		<segment id="63" parent="64" relname="context-circumstance">在 她 回家 之后 ， // After she got home ,</segment>
+		<segment id="64" parent="254" relname="span">自己 包 一 年 的 家务活 。 // Take care of the housework for a year .</segment>
+		<segment id="65" parent="255" relname="evaluation-comment">这 种 平凡 又 不凡 的 情感 ， 令 人 动容 。 // This kind of ordinary and extraordinary emotion is touching .</segment>
+		<segment id="66" parent="261" relname="explanation-evidence">这 条 抖音 获得 了 127.7w 的 点赞量 ， 5.6w 的 评论量 和 2.8w 的 转发量 。 // This Douyin received 127.7w likes , 5.6w comments and 2.8w retweets .</segment>
+		<segment id="67" parent="259" relname="context-background">人民 日报 聚焦 普通 人 的 常态化 生活 ， // People 's Daily focuses on the normal life of ordinary people ,</segment>
 		<segment id="68" parent="258" relname="same-unit">虽然 没有 // Although no</segment>
 		<segment id="69" parent="70" relname="elaboration-attribute">极 具 冲击力 的 // very impactful</segment>
 		<segment id="70" parent="257" relname="span">视觉 效果 ， // Visual effects ,</segment>
 		<segment id="71" parent="259" relname="adversative-contrast">但是 能够 使 大众 在 酸甜苦辣 中 感同 身受 。 // But it can make the public empathize with the ups and downs .</segment>
-		<segment id="72" parent="272" relname="joint-list">2.1.2. 巧用 素材 和 音乐 ， // 2.1.2. Use material and music wisely,</segment>
+		<segment id="72" parent="272" relname="joint-list">2.1.2. 巧用 素材 和 音乐 ， // 2.1.2 . Use material and music wisely ,</segment>
 		<segment id="73" parent="272" relname="joint-list">沉浸式 传播 信息 // Immersive dissemination of information</segment>
-		<segment id="74" parent="75" relname="elaboration-attribute">人民 日报 主要 采用 的 // People's Daily mainly uses</segment>
-		<segment id="75" parent="271" relname="span">视频 制作 方式 为 “ 同期声 + 视频 画面 + 音乐 ” 。 // The video production method is "simultaneous sound + video picture + music".</segment>
-		<segment id="76" parent="273" relname="joint-list">同期声 的 使用 增强 了 现场 感 ， // The use of simultaneous sound enhances the sense of presence,</segment>
+		<segment id="74" parent="75" relname="elaboration-attribute">人民 日报 主要 采用 的 // People 's Daily mainly uses</segment>
+		<segment id="75" parent="271" relname="span">视频 制作 方式 为 “ 同期声 + 视频 画面 + 音乐 ” 。 // The video production method is " simultaneous sound + video picture + music " .</segment>
+		<segment id="76" parent="273" relname="joint-list">同期声 的 使用 增强 了 现场 感 ， // The use of simultaneous sound enhances the sense of presence ,</segment>
 		<segment id="77" parent="273" relname="joint-list">让 观众 沉浸式 感受 视频 内容 ， // Let the audience experience the video content immersively ,</segment>
-		<segment id="78" parent="273" relname="joint-list">身临 其境 。 // Immersive.</segment>
+		<segment id="78" parent="273" relname="joint-list">身临 其境 。 // Immersive .</segment>
 		<segment id="79" parent="278" relname="attribution-positive">据 统计 ， // According to the statistics ,</segment>
 		<segment id="80" parent="275" relname="same-unit">在 // exist</segment>
 		<segment id="81" parent="82" relname="elaboration-attribute">全部 和 疫情 有关 的 // All related to the epidemic</segment>
 		<segment id="82" parent="274" relname="span">515 条 抖音 中 ， // Among 515 Douyin ,</segment>
-		<segment id="83" parent="276" relname="joint-list">来自 抗疫 现场 ， // From the anti-epidemic scene,</segment>
+		<segment id="83" parent="276" relname="joint-list">来自 抗疫 现场 ， // From the anti - epidemic scene ,</segment>
 		<segment id="84" parent="276" relname="joint-list">由 现场 的 人 拍摄 的 // Filmed by people on site</segment>
-		<segment id="85" parent="277" relname="span">视频 有 181 条 。 // There are 181 videos.</segment>
-		<segment id="86" parent="278" relname="joint-list">素材 来源 为 监控 的 有 8 条 。 // There are 8 sources of material for monitoring.</segment>
-		<segment id="87" parent="88" relname="elaboration-attribute">2020年 1月 30日 发布 的 // Posted on January 30, 2020</segment>
-		<segment id="88" parent="280" relname="span">“ 一 对 母女 在 火车站 悄悄 放下 十多 瓶 消毒液 ” ； “ 火神山 医院 病区 初具雏形 ” ； // "A pair of mother and daughter quietly put down more than ten bottles of disinfectant at the train station"; "The ward of Huoshenshan Hospital is beginning to take shape";</segment>
+		<segment id="85" parent="277" relname="span">视频 有 181 条 。 // There are 181 videos .</segment>
+		<segment id="86" parent="278" relname="joint-list">素材 来源 为 监控 的 有 8 条 。 // There are 8 sources of material for monitoring .</segment>
+		<segment id="87" parent="88" relname="elaboration-attribute">2020年 1月 30日 发布 的 // Posted on January 30 , 2020</segment>
+		<segment id="88" parent="280" relname="span">“ 一 对 母女 在 火车站 悄悄 放下 十多 瓶 消毒液 ” ； “ 火神山 医院 病区 初具雏形 ” ； // " A pair of mother and daughter quietly put down more than ten bottles of disinfectant at the train station " ; " The ward of Huoshenshan Hospital is beginning to take shape " ;</segment>
 		<segment id="89" parent="90" relname="elaboration-attribute">2月 10日 发布 的 // Posted on February 10th</segment>
-		<segment id="90" parent="281" relname="span">“ 武汉 方舱 医院 医生 患者 一起 打 太极 ” 等 视频 ， 都 用 // Videos such as "Wuhan Fangcang Cabin Hospital Doctors and Patients Do Tai Chi together" are all used</segment>
+		<segment id="90" parent="281" relname="span">“ 武汉 方舱 医院 医生 患者 一起 打 太极 ” 等 视频 ， 都 用 // Videos such as " Wuhan Fangcang Cabin Hospital Doctors and Patients Do Tai Chi together " are all used</segment>
 		<segment id="91" parent="92" relname="elaboration-attribute">适合 该 素材 的 // suitable for the material</segment>
 		<segment id="92" parent="282" relname="span">音乐 进行 气氛 渲染 和 情绪 引导 。 // Music for atmosphere rendering and emotional guidance .</segment>
 		<segment id="93" parent="284" relname="same-unit">让 受众 感受 到 // Let the audience feel</segment>
 		<segment id="94" parent="95" relname="elaboration-attribute">疫情 期间 医护 人员 在 一线 奋战 的 // Medical staff fighting on the front line during the epidemic</segment>
-		<segment id="95" parent="283" relname="span">大无畏 精神 ， // fearless spirit,</segment>
+		<segment id="95" parent="283" relname="span">大无畏 精神 ， // fearless spirit ,</segment>
 		<segment id="96" parent="97" relname="mode-means">配合 视频 画面 ， // With the video screen ,</segment>
 		<segment id="97" parent="285" relname="span">增强 报道 内容 的 可信度 // Enhance the credibility of the content of the report</segment>
 		<segment id="98" parent="288" relname="explanation-evidence">-LSB- 3 -RSB- 。 // -LSB- 3 -RSB- .</segment>
-		<segment id="99" parent="295" relname="joint-list">2.1.3. 使用 科技 手段 ， // 2.1.3. Using technological means,</segment>
+		<segment id="99" parent="295" relname="joint-list">2.1.3. 使用 科技 手段 ， // 2.1.3 . Using technological means ,</segment>
 		<segment id="100" parent="295" relname="joint-list">借 图表 直观 展示 疫情 // Visually display the epidemic with charts</segment>
-		<segment id="101" parent="102" relname="mode-means">疫情 期间 ， 在 人民 日报 抖音号 采取 图表 的 形式 ， // During the epidemic, the Douyin account of the People's Daily took the form of a chart,</segment>
+		<segment id="101" parent="102" relname="mode-means">疫情 期间 ， 在 人民 日报 抖音号 采取 图表 的 形式 ， // During the epidemic , the Douyin account of the People 's Daily took the form of a chart ,</segment>
 		<segment id="102" parent="296" relname="span">报道 每日 疫情 变动 的 信息 。 // Information reporting daily outbreak changes .</segment>
-		<segment id="103" parent="298" relname="elaboration-attribute">如 在 2020年 2月 9日 发布 的 // As posted on Feb 9, 2020</segment>
-		<segment id="104" parent="297" relname="joint-list">“ 湖北 以外 新增 确诊 病例 连续 5 天 下降 ！ // "The number of newly confirmed cases outside Hubei has dropped for 5 consecutive days!</segment>
-		<segment id="105" parent="297" relname="joint-list">小 黄线 ， 请 一路 向下 // Little yellow line, please go all the way down</segment>
-		<segment id="106" parent="297" relname="joint-list">别 回头 ！ // Don't look back!</segment>
-		<segment id="107" parent="297" relname="joint-list">小 紫线 和 小 橙线 也 请 跟 上 ！ // Please follow the little purple line and the little orange line too!</segment>
+		<segment id="103" parent="298" relname="elaboration-attribute">如 在 2020年 2月 9日 发布 的 // As posted on Feb 9 , 2020</segment>
+		<segment id="104" parent="297" relname="joint-list">“ 湖北 以外 新增 确诊 病例 连续 5 天 下降 ！ // " The number of newly confirmed cases outside Hubei has dropped for 5 consecutive days !</segment>
+		<segment id="105" parent="297" relname="joint-list">小 黄线 ， 请 一路 向下 // Little yellow line , please go all the way down</segment>
+		<segment id="106" parent="297" relname="joint-list">别 回头 ！ // Do n't look back !</segment>
+		<segment id="107" parent="297" relname="joint-list">小 紫线 和 小 橙线 也 请 跟 上 ！ // Please follow the little purple line and the little orange line too !</segment>
 		<segment id="108" parent="297" relname="joint-list">加油 ！ ” 的 // come on ! " of</segment>
-		<segment id="109" parent="298" relname="span">视频 ， 采用 了 折线 图 ， // video, using a line graph,</segment>
+		<segment id="109" parent="298" relname="span">视频 ， 采用 了 折线 图 ， // video , using a line graph ,</segment>
 		<segment id="110" parent="300" relname="joint-list">可视化 展示 疫情 的 最新 动向 。 // Visually display the latest trends in the epidemic .</segment>
 		<segment id="111" parent="302" relname="same-unit">将 疫情 情况 // the epidemic situation</segment>
 		<segment id="112" parent="113" relname="mode-means">利用 折线 图 // Use Line Charts</segment>
-		<segment id="113" parent="301" relname="span">展示 ， 不止 能够 让 观众 直观 地 看到 一 段 时间 内 的 疫情 变化 情况 ， // The display not only allows the audience to visually see the changes in the epidemic situation over a period of time,</segment>
+		<segment id="113" parent="301" relname="span">展示 ， 不止 能够 让 观众 直观 地 看到 一 段 时间 内 的 疫情 变化 情况 ， // The display not only allows the audience to visually see the changes in the epidemic situation over a period of time ,</segment>
 		<segment id="114" parent="303" relname="joint-list">还 能够 告诉 大众 目前 的 疫情 环境 和 当下 防疫 措施 的 实施 成果 。 // It can also tell the public the current epidemic environment and the implementation results of the current epidemic prevention measures .</segment>
 		<segment id="115" parent="304" relname="organization-preparation">此外 ， 对于 前线 的 医护 人员 和 基层 工作 人员 来说 ， // In addition , for frontline medical staff and grassroots workers ,</segment>
-		<segment id="116" parent="304" relname="joint-list">看到 折线 图 的 变化 也 给 了 他们 正 能量 ， // Seeing the change in the line chart also gave them positive energy,</segment>
+		<segment id="116" parent="304" relname="joint-list">看到 折线 图 的 变化 也 给 了 他们 正 能量 ， // Seeing the change in the line chart also gave them positive energy ,</segment>
 		<segment id="117" parent="311" relname="attribution-positive">让 他们 看到 了 // let them see</segment>
 		<segment id="118" parent="119" relname="elaboration-attribute">目前 所 做 的 // what is currently done</segment>
-		<segment id="119" parent="305" relname="span">一切 都 是 有效 的 ， // everything is valid,</segment>
-		<segment id="120" parent="311" relname="joint-list">是 他们 在 让 一切 变好 。 // They're making things better.</segment>
-		<segment id="121" parent="122" relname="organization-preparation">因 此 可 见 ， // Therefore, it can be seen that</segment>
+		<segment id="119" parent="305" relname="span">一切 都 是 有效 的 ， // everything is valid ,</segment>
+		<segment id="120" parent="311" relname="joint-list">是 他们 在 让 一切 变好 。 // They 're making things better .</segment>
+		<segment id="121" parent="122" relname="organization-preparation">因 此 可 见 ， // Therefore , it can be seen that</segment>
 		<segment id="122" parent="307" relname="span">图表化 疫情 信息 一举 多得 。 // Graphical information on the epidemic can serve multiple purposes .</segment>
-		<segment id="123" parent="318" relname="same-unit">2.2. // 2.2.</segment>
+		<segment id="123" parent="318" relname="same-unit">2.2. // 2.2 .</segment>
 		<segment id="124" parent="125" relname="elaboration-attribute">需要 调整 和 改正 的 // need to be adjusted and corrected</segment>
 		<segment id="125" parent="317" relname="span">问题 // question</segment>
-		<segment id="126" parent="327" relname="organization-heading">2.2.1. 同质化 现象 较 严重 // 2.2.1. The phenomenon of homogenization is more serious</segment>
-		<segment id="127" parent="128" relname="elaboration-attribute">人民 日报 所 发布 的 // Published by People's Daily</segment>
-		<segment id="128" parent="319" relname="span">一 部分 视频 ， 其 原 素材 已 被 多 个 政务号 二创 转载 ， // Some of the videos, the original material has been reprinted by a number of government affairs account Erchuang,</segment>
+		<segment id="126" parent="327" relname="organization-heading">2.2.1. 同质化 现象 较 严重 // 2.2.1 . The phenomenon of homogenization is more serious</segment>
+		<segment id="127" parent="128" relname="elaboration-attribute">人民 日报 所 发布 的 // Published by People 's Daily</segment>
+		<segment id="128" parent="319" relname="span">一 部分 视频 ， 其 原 素材 已 被 多 个 政务号 二创 转载 ， // Some of the videos , the original material has been reprinted by a number of government affairs account Erchuang ,</segment>
 		<segment id="129" parent="325" relname="span">但 人民 日报 仍 选择 发布 。 // But the People 's Daily still chose to publish it .</segment>
 		<segment id="130" parent="321" relname="same-unit">这些 政务号 有 // These government affairs numbers have</segment>
-		<segment id="131" parent="132" relname="elaboration-attribute">像 人民 日报 和 央视 新闻 一样 的 // like People's Daily and CCTV News</segment>
-		<segment id="132" parent="320" relname="span">全国性 官媒 ， // national media,</segment>
-		<segment id="133" parent="322" relname="joint-list">也 有 地区性 的 地方 媒体 和 消防 公安 政务号 ， // There are also regional local media and fire and public security administration accounts.</segment>
+		<segment id="131" parent="132" relname="elaboration-attribute">像 人民 日报 和 央视 新闻 一样 的 // like People 's Daily and CCTV News</segment>
+		<segment id="132" parent="320" relname="span">全国性 官媒 ， // national media ,</segment>
+		<segment id="133" parent="322" relname="joint-list">也 有 地区性 的 地方 媒体 和 消防 公安 政务号 ， // There are also regional local media and fire and public security administration accounts .</segment>
 		<segment id="134" parent="324" relname="same-unit">还 有 一些 抖音 博主 // There are also some Douyin bloggers</segment>
 		<segment id="135" parent="136" relname="purpose-goal">为 博 关注 // Follow for blog</segment>
 		<segment id="136" parent="323" relname="span">而 发布 。 // And publish .</segment>
 		<segment id="137" parent="326" relname="evaluation-comment">这 造成 了 一定 程度 上 的 资源 浪费 。 // This results in a certain degree of waste of resources .</segment>
-		<segment id="138" parent="331" relname="organization-heading">2.2.2. 很少 回复 大众 评论 // 2.2.2. Few replies to public comments</segment>
+		<segment id="138" parent="331" relname="organization-heading">2.2.2. 很少 回复 大众 评论 // 2.2.2 . Few replies to public comments</segment>
 		<segment id="139" parent="330" relname="span">在 人民 日报 的 评论区 ， 很少 看到 人民 日报 的 评论 回应 。 // In the comments section of the people 's daily , it is rare to see the people 's daily commentary response .</segment>
-		<segment id="140" parent="329" relname="adversative-contrast">很多 视频 的 第一 条 热评 来源于 各 地区 的 消防 公安 政务号 ， // The first hot comment of many videos comes from the fire, public security and government affairs accounts of various regions.</segment>
+		<segment id="140" parent="329" relname="adversative-contrast">很多 视频 的 第一 条 热评 来源于 各 地区 的 消防 公安 政务号 ， // The first hot comment of many videos comes from the fire , public security and government affairs accounts of various regions .</segment>
 		<segment id="141" parent="329" relname="adversative-contrast">普通 大众 的 评论 大部分 都 在 每 条 视频 的 第二 条 评论 之后 。 // Most of the comments from the general public come after the second comment on each video .</segment>
-		<segment id="142" parent="331" relname="restatement-repetition">评论区 很 难 见到 人民 日报 的 评论 回复 。 // It's hard to see replies to comments from People's Daily in the comment area.</segment>
-		<segment id="143" parent="333" relname="joint-list">2.2.3. 发布 数据 图 的 次数 较 少 ， // 2.2.3. Publishing data graphs less frequently,</segment>
+		<segment id="142" parent="331" relname="restatement-repetition">评论区 很 难 见到 人民 日报 的 评论 回复 。 // It 's hard to see replies to comments from People 's Daily in the comment area .</segment>
+		<segment id="143" parent="333" relname="joint-list">2.2.3. 发布 数据 图 的 次数 较 少 ， // 2.2.3 . Publishing data graphs less often ,</segment>
 		<segment id="144" parent="333" relname="joint-list">且 形式 较 单一 // And the form is relatively simple</segment>
-		<segment id="145" parent="334" relname="adversative-concession">纵观 500 条 抖音 ， // Looking at 500 Douyin,</segment>
-		<segment id="146" parent="334" relname="joint-list">只 有 2 条 抖音 发布 了 数据图 ， // Only 2 Douyin published data graphs,</segment>
-		<segment id="147" parent="334" relname="joint-list">且 都 在 疫情 爆发 时期 的 2020年 2月 初 。 // And all in early February 2020 during the outbreak.</segment>
-		<segment id="148" parent="336" relname="joint-other">后续 如 北京 新发地 ， 大连 等 地 的 疫情 也 没有 使用 数据 图表 。 // Subsequent outbreaks in places such as Beijing Xinfadi and Dalian did not use data charts.</segment>
-		<segment id="149" parent="341" relname="same-unit">3. // 3.</segment>
-		<segment id="150" parent="151" relname="elaboration-attribute">基于 人民 日报 传播 策略 的 // Based on the communication strategy of People's Daily</segment>
+		<segment id="145" parent="334" relname="adversative-concession">纵观 500 条 抖音 ， // Looking at 500 Douyin ,</segment>
+		<segment id="146" parent="334" relname="joint-list">只 有 2 条 抖音 发布 了 数据图 ， // Only 2 Douyin published data graphs ,</segment>
+		<segment id="147" parent="334" relname="joint-list">且 都 在 疫情 爆发 时期 的 2020年 2月 初 。 // And all in early February 2020 during the outbreak .</segment>
+		<segment id="148" parent="336" relname="joint-other">后续 如 北京 新发地 ， 大连 等 地 的 疫情 也 没有 使用 数据 图表 。 // Subsequent outbreaks in places such as Beijing Xinfadi and Dalian did not use data charts .</segment>
+		<segment id="149" parent="341" relname="same-unit">3. // 3 .</segment>
+		<segment id="150" parent="151" relname="elaboration-attribute">基于 人民 日报 传播 策略 的 // Based on the communication strategy of People 's Daily</segment>
 		<segment id="151" parent="340" relname="span">启发 // inspired</segment>
-		<segment id="152" parent="342" relname="joint-list">3.1. 应 多 发掘 故事 ， // 3.1. More stories should be discovered,</segment>
+		<segment id="152" parent="342" relname="joint-list">3.1. 应 多 发掘 故事 ， // 3.1 . More stories should be discovered ,</segment>
 		<segment id="153" parent="342" relname="joint-list">进行 多元化 报道 // Diversified reporting</segment>
-		<segment id="154" parent="356" relname="organization-preparation">疫情 期间 ， 政务号 视频 同质化 严重 。 // During the epidemic, the homogenization of government affairs videos was serious.</segment>
-		<segment id="155" parent="345" relname="joint-list">作为 媒体 ， 真实性 是 生命 ， // As a medium, authenticity is life,</segment>
+		<segment id="154" parent="356" relname="organization-preparation">疫情 期间 ， 政务号 视频 同质化 严重 。 // During the epidemic , the homogenization of government affairs videos was serious .</segment>
+		<segment id="155" parent="345" relname="joint-list">作为 媒体 ， 真实性 是 生命 ， // As a medium , authenticity is life ,</segment>
 		<segment id="156" parent="344" relname="same-unit">时效性 是 // Timeliness is</segment>
 		<segment id="157" parent="158" relname="elaboration-attribute">视频 是否 能够 受到 关注 的 // Whether the video can get attention</segment>
 		<segment id="158" parent="343" relname="span">关键 所 在 ， // The key is</segment>
-		<segment id="159" parent="346" relname="joint-list">但是 不 能够 盲目 跟从 爆火 视频 ， // But you can't blindly follow explosive videos,</segment>
+		<segment id="159" parent="346" relname="joint-list">但是 不 能够 盲目 跟从 爆火 视频 ， // But you ca n't blindly follow explosive videos ,</segment>
 		<segment id="160" parent="346" relname="joint-list">忘记 了 自身 的 使命 。 // Forgot its own mission .</segment>
 		<segment id="161" parent="350" relname="joint-list">主流 媒体 可以 派遣 记者 在 生活 中 寻找 选题 ， // Mainstream media can send reporters to find topics in life ,</segment>
 		<segment id="162" parent="349" relname="same-unit">也 可以 在 微博 等 平台 // You can also post on Weibo and other platforms</segment>
 		<segment id="163" parent="164" relname="mode-means">按照 关键 词 // by keyword</segment>
 		<segment id="164" parent="348" relname="span">搜索 信息 ， // Search Information ,</segment>
-		<segment id="165" parent="350" relname="purpose-goal">以 避免 同质化 选题 。 // To avoid homogeneous topic selection.</segment>
-		<segment id="166" parent="352" relname="joint-list">如果 这 个 同质化 的 选题 是 非常 棒 的 选题 ， // If this homogeneous topic is a great one,</segment>
-		<segment id="167" parent="352" relname="joint-list">不 想 更换 的话 ， // If you don't want to replace it,</segment>
-		<segment id="168" parent="169" relname="mode-means">可以 从 不同 的 角度 入手 ， // You can start from different angles,</segment>
+		<segment id="165" parent="350" relname="purpose-goal">以 避免 同质化 选题 。 // To avoid homogeneous topic selection .</segment>
+		<segment id="166" parent="352" relname="joint-list">如果 这 个 同质化 的 选题 是 非常 棒 的 选题 ， // If this homogeneous topic is a great one ,</segment>
+		<segment id="167" parent="352" relname="joint-list">不 想 更换 的话 ， // If you do n't want to replace it ,</segment>
+		<segment id="168" parent="169" relname="mode-means">可以 从 不同 的 角度 入手 ， // You can start from different angles ,</segment>
 		<segment id="169" parent="353" relname="span">减少 大众 视觉 疲劳 。 // Reduce public eye fatigue .</segment>
-		<segment id="170" parent="359" relname="joint-list">3.2. 应 借用 科技 手段 ， // 3.2. Technology should be borrowed,</segment>
+		<segment id="170" parent="359" relname="joint-list">3.2. 应 借用 科技 手段 ， // 3.2 . Technology should be borrowed ,</segment>
 		<segment id="171" parent="359" relname="joint-list">将 数据 可视化 呈现 // Visualize the data</segment>
-		<segment id="172" parent="367" relname="context-background">当代 社会 ， 有 着 众多 数据 统计 和 数据 分析 软件 。 // In contemporary society, there are many data statistics and data analysis software.</segment>
+		<segment id="172" parent="367" relname="context-background">当代 社会 ， 有 着 众多 数据 统计 和 数据 分析 软件 。 // In contemporary society , there are many data statistics and data analysis software .</segment>
 		<segment id="173" parent="361" relname="same-unit">不仅 是 // not only</segment>
 		<segment id="174" parent="175" relname="elaboration-attribute">前文 提到 的 // mentioned above</segment>
 		<segment id="175" parent="360" relname="span">折线 图 ， // line chart ,</segment>
-		<segment id="176" parent="362" relname="joint-list">“ 词云 ” 、 柱状 图 、 饼图 ， 都 可以 直观 地 展示 数据 变化 。 // "Word cloud", bar chart, pie chart, can all display data changes intuitively.</segment>
+		<segment id="176" parent="362" relname="joint-list">“ 词云 ” 、 柱状 图 、 饼图 ， 都 可以 直观 地 展示 数据 变化 。 // " Word cloud " , bar chart , pie chart , can all display data changes intuitively .</segment>
 		<segment id="177" parent="363" relname="joint-list">此外 ， 甚至 可以 结合 地理 行政 图 ， 人口 分布 图 等 地理 层面 的 地图 ， // In addition , it can even be combined with geographic administrative maps , population distribution maps and other geographic maps ,</segment>
-		<segment id="178" parent="363" relname="joint-list">分 地区 进行 数据 标记 。 // Data labelling by region.</segment>
-		<segment id="179" parent="364" relname="joint-list">这样 大众 不仅 可以 知道 疫情 数据 信息 ， // In this way, the public can not only know the epidemic data and information, but also</segment>
+		<segment id="178" parent="363" relname="joint-list">分 地区 进行 数据 标记 。 // Data labelling by region .</segment>
+		<segment id="179" parent="364" relname="joint-list">这样 大众 不仅 可以 知道 疫情 数据 信息 ， // In this way , the public can not only know the epidemic data and information , but also</segment>
 		<segment id="180" parent="366" relname="same-unit">还 可以 了解 到 疫情 和 // You can also learn about the epidemic and</segment>
 		<segment id="181" parent="182" relname="elaboration-attribute">自己 所 出 // by myself</segment>
-		<segment id="182" parent="365" relname="span">地区 和 自己 生活 圈 的 距离 。 // The distance between the region and one's own life circle.</segment>
-		<segment id="183" parent="376" relname="organization-heading">3.3. 应 重视 与 观众 的 评论 互动 // 3.3. Attention should be paid to the interaction with the audience's comments</segment>
+		<segment id="182" parent="365" relname="span">地区 和 自己 生活 圈 的 距离 。 // The distance between the region and one 's own life circle .</segment>
+		<segment id="183" parent="376" relname="organization-heading">3.3. 应 重视 与 观众 的 评论 互动 // 3.3 . Attention should be paid to the interaction with the audience 's comments</segment>
 		<segment id="184" parent="370" relname="adversative-concession">在 抖音 短 视频 平台 ， 人民 日报 很 少 在 评论区 和 观众 互动 。 // On the Douyin short video platform , People 's Daily rarely interacts with viewers in the comment section .</segment>
-		<segment id="185" parent="186" relname="attribution-positive">在 新 媒体 时代 ， 观众 很 希望 // In the age of new media, audiences hope</segment>
+		<segment id="185" parent="186" relname="attribution-positive">在 新 媒体 时代 ， 观众 很 希望 // In the age of new media , audiences hope</segment>
 		<segment id="186" parent="370" relname="span">自己 的 评论 可以 获得 视频 作者 的 认可 。 // Your own comments can be endorsed by the video author .</segment>
 		<segment id="187" parent="371" relname="span">如果 评论 被 官方 媒体 回应 ， // If comments are responded to by state media ,</segment>
-		<segment id="188" parent="187" relname="elaboration-additional">称 之 为 “ 被 翻牌子 ” ， // Call it "flipped",</segment>
-		<segment id="189" parent="372" relname="joint-list">会 更加 活跃 地 表达 自己 的 观点 ， // will be more active in expressing their views,</segment>
-		<segment id="190" parent="372" relname="joint-list">也 让 人民 日报 更 直观 看到 自己 的 舆论 引导 效果 。 // It also allows People's Daily to see the effect of its own public opinion guidance more intuitively .</segment>
-		<segment id="191" parent="373" relname="causal-result">因此 ， 加强 评论区 的 互动 ， 可以 更 好 的 引导 舆论 。 // Therefore, strengthening the interaction in the comment area can better guide public opinion.</segment>
-		<segment id="192" parent="392" relname="organization-heading">4. 结语 // 4. Conclusion</segment>
-		<segment id="193" parent="380" relname="organization-preparation">由 上 可 见 ， // As can be seen above,</segment>
-		<segment id="194" parent="380" relname="joint-list">互联网 的 飞速 发展 ， 视频 剪辑 技术 的 简单化 和 普及化 催生 了 各 类 短 视频 APP ， // The rapid development of the Internet and the simplification and popularization of video editing technology have spawned various short video APPs.</segment>
+		<segment id="188" parent="187" relname="elaboration-additional">称 之 为 “ 被 翻牌子 ” ， // Call it " flipped " ,</segment>
+		<segment id="189" parent="372" relname="joint-list">会 更加 活跃 地 表达 自己 的 观点 ， // will be more active in expressing their views ,</segment>
+		<segment id="190" parent="372" relname="joint-list">也 让 人民 日报 更 直观 看到 自己 的 舆论 引导 效果 。 // It also allows People 's Daily to see the effect of its own public opinion guidance more intuitively .</segment>
+		<segment id="191" parent="373" relname="causal-result">因此 ， 加强 评论区 的 互动 ， 可以 更 好 的 引导 舆论 。 // Therefore , strengthening the interaction in the comment area can better guide public opinion .</segment>
+		<segment id="192" parent="392" relname="organization-heading">4. 结语 // 4 . Conclusion</segment>
+		<segment id="193" parent="380" relname="organization-preparation">由 上 可 见 ， // As can be seen above ,</segment>
+		<segment id="194" parent="380" relname="joint-list">互联网 的 飞速 发展 ， 视频 剪辑 技术 的 简单化 和 普及化 催生 了 各 类 短 视频 APP ， // The rapid development of the Internet and the simplification and popularization of video editing technology have spawned various short video APPs .</segment>
 		<segment id="195" parent="381" relname="span">从而 影响 了 整个 新闻 媒体 发展 的 大 方向 ， // Thus affecting the general direction of the development of the entire news media ,</segment>
 		<segment id="196" parent="195" relname="restatement-partial">媒体 的 传播 方式 发生 了 改变 。 // The way the media spreads has changed .</segment>
-		<segment id="197" parent="390" relname="context-background">对 新型 冠状 肺炎 疫情 的 抗击 ， 是 对 媒体 信息 传播 治理 体系 和 能力 的 一 次 “ 大考 ” 。 // The fight against the novel coronavirus pneumonia epidemic is a "big test" for the management system and ability of media information dissemination.</segment>
-		<segment id="198" parent="199" relname="context-circumstance">我们 在 媒体 的 舆论 引领 下 ， // Under the guidance of the media's public opinion,</segment>
+		<segment id="197" parent="390" relname="context-background">对 新型 冠状 肺炎 疫情 的 抗击 ， 是 对 媒体 信息 传播 治理 体系 和 能力 的 一 次 “ 大考 ” 。 // The fight against the novel coronavirus pneumonia epidemic is a " big test " for the management system and ability of media information dissemination .</segment>
+		<segment id="198" parent="199" relname="context-circumstance">我们 在 媒体 的 舆论 引领 下 ， // Under the guidance of the media 's public opinion ,</segment>
 		<segment id="199" parent="383" relname="span">全球 人民 共同 抗疫 的 信心 。 // The confidence of people around the world to fight the epidemic together .</segment>
-		<segment id="200" parent="384" relname="joint-list">道阻且长 ， // The road is long and obstructed,</segment>
-		<segment id="201" parent="384" relname="joint-list">行则将至 。 // The line is coming.</segment>
+		<segment id="200" parent="384" relname="joint-list">道阻且长 ， // The road is long and obstructed ,</segment>
+		<segment id="201" parent="384" relname="joint-list">行则将至 。 // The line is coming .</segment>
 		<segment id="202" parent="203" relname="organization-preparation">在 报道 突发 公共 卫生 事件 上 ， // In reporting public health emergencies ,</segment>
 		<segment id="203" parent="385" relname="span">主流 媒体 仍 需 努力 学习 ， // The mainstream media still needs to study hard ,</segment>
 		<segment id="204" parent="386" relname="joint-list">积极 汲取 经验 和 教训 ， // Actively learn from experience and lessons ,</segment>

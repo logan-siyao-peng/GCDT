@@ -1,4 +1,5 @@
 *.torchsave
+adapted_DMRST/traning_logs/*
 adapted_DMRST/depth_mode/Savings/**/*
 
 # Byte-compiled / optimized / DLL files
