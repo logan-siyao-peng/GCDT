@@ -41,17 +41,17 @@ def write_parsed_file(output_parse, text_lines, meta_header, basename, parsed_fi
 
 
 def add_metadata(basename, branch):
-	raw_dir = "../data/raw/"
-	raw_lines = io.open(raw_dir + branch + os.sep + basename + ".txt", "r", encoding="utf8").read().strip().split("\n")
-	raw_header_line = raw_lines[0]
-	xml_dict = xmltodict.parse(raw_header_line, encoding="utf-8")["text"]
+	xml_dir = "../data/xml/"
+	xml_lines = io.open(xml_dir + branch + os.sep + basename + ".xml", "r", encoding="utf8").read().strip().split("\n")
+	xml_header_line = xml_lines[0]
+	xml_dict = xmltodict.parse(xml_header_line, encoding="utf-8")["text"]
 	meta_header = "# newdoc id = %s\n# meta::dateCollected = %s\n# meta::dateCreated = %s\n# meta::dateModified = %s\n" \
 	              "# meta::sourceURL = %s\n# meta::speakerCount = %s\n# meta::title = %s\n" \
 	              "# meta::shortTitle = %s\n# meta::author = %s\n# meta::genre = %s\n# meta::partition = %s\n" \
 	              % (basename, xml_dict["@dateCollected"], xml_dict["@dateCreated"], xml_dict["@dateModified"],
 	                 xml_dict["@sourceURL"], xml_dict["@speakerCount"], xml_dict["@title"],
 	                 xml_dict["@shortTitle"], xml_dict["@author"], xml_dict["@genre"], branch)
-	text_lines = [x for x in raw_lines if x.strip()!="" and not x.startswith("<")]
+	text_lines = [x for x in xml_lines if x.strip()!="" and not x.startswith("<")]
 	return meta_header, text_lines
 	
 

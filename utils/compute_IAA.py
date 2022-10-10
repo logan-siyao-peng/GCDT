@@ -17,11 +17,11 @@ def segmentation_agreement(y1, y2):
 	cohen_kappa_result = cohen_kappa_score(y1, y2)
 	confusion_matrix_result = confusion_matrix(y1, y2)
 	f1_score_result = f1_score(y1, y2)
-	raw_accuracy_result = accuracy_score(y1, y2)
+	accuracy_result = accuracy_score(y1, y2)
 	print("Cohen's kappa:	", cohen_kappa_result)
 	print("Confusion matrix:    ", confusion_matrix_result)
 	print("F1 score:    ", f1_score_result)
-	print("Raw accuracy:    ", raw_accuracy_result)
+	print("Accuracy:    ", accuracy_result)
 	
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()

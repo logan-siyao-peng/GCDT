@@ -2,12 +2,12 @@ import io, re, os
 
 def read_text_file(text_file, include_xml=True):
 	"""
-	Include .txt, .edu files (raw, token, and edu)
+	Include .xml, .txt, .edu files (xml, token, and edu)
 	:param text_file:
 	:return:
 	"""
 	with io.open(text_file, "r", encoding="utf8") as f_text:
-		text_lines = f_text.read().strip().split("\n")
+		text_lines = f_text.read().strip().replace("&amp;", "&").split("\n")
 	# Remove empty lines
 	text_lines = [x for x in text_lines if not re.match(r"^\s*$", x)]
 	if not include_xml:
@@ -18,7 +18,7 @@ def read_text_file(text_file, include_xml=True):
 		
 def write_lines_file(output_lines, lines_file):
 	"""
-	Include .txt, .edu files (raw, tokenized, and edu)
+	Include .xml, .txt, .edu files (xml, tokenized, and edu)
 	:param output_text:
 	:param text_file:
 	:return:

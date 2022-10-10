@@ -1,5 +1,8 @@
 import io, re, os
 import argparse
+import lxml
+import xmlschema
+
 from glob import glob
 from collections import Counter, defaultdict
 
@@ -55,11 +58,11 @@ def main_validator():
 def partition_validator():
 	dirs = os.listdir(args.data_dir)
 	for dir in dirs:
-		if dir in ['others', '.DS_Store']:
+		if dir in ['others', '.DS_Store', 'README.md']:
 			continue
 		subdirs = os.listdir(args.data_dir + dir + os.sep)
 		subdirs = [x for x in subdirs if not x.startswith(".")] # remove ".DS_Store" and/or other hidden files
-		if dir in ["raw", "tokenized", "conllu"]:
+		if dir in ["xml", "tokenized", "conllu"]:
 			assert sorted(subdirs) == ["dev", "test", "train"]
 		else:
 			assert sorted(subdirs) == ["dev", "double", "test", "train"]
@@ -78,20 +81,21 @@ def partition_validator():
 	
 	print("o Train/Dev/Test Partition Validation Completed!")
 
-def xml_validator(raw_lines):
+def xml_validator(xml_lines, xml_file):
+
 	xml_stack = []
-	for raw_line in raw_lines:
-		if re.match(r"^<.+/>$", raw_line.strip()):
+	for xml_line in xml_lines:
+		if re.match(r"^<.+/>$", xml_line.strip()):
 			continue
-		elif not raw_line.startswith("<"):
+		elif not xml_line.startswith("<"):
 			continue
-		elif re.match(r"^<[^/]+>$", raw_line.strip()):
-			xml_tag = re.findall(r"^<\S+[^ >]", raw_line.strip())
+		elif re.match(r"^<[^/].*[^/]>$", xml_line.strip()):
+			xml_tag = re.findall(r"^<\S+[^ >]", xml_line.strip())
 			assert len(xml_tag) == 1
 			xml_tag = xml_tag[0][1:]
 			xml_stack.append(xml_tag)
-		elif re.match(r"^</[^/]+>$", raw_line.strip()):
-			xml_tag = re.findall(r"^</\S+[^ >]", raw_line.strip())
+		elif re.match(r"^</[^/]+>$", xml_line.strip()):
+			xml_tag = re.findall(r"^</\S+[^ >]", xml_line.strip())
 			assert len(xml_tag) == 1
 			xml_tag = xml_tag[0][2:]
 			assert xml_stack[-1] == xml_tag
@@ -99,6 +103,8 @@ def xml_validator(raw_lines):
 		else:
 			assert False
 	assert xml_stack == []
+	
+	return
 			
 
 def tokenization_validator(basename, branch):
@@ -108,25 +114,30 @@ def tokenization_validator(basename, branch):
 	else:
 		token_file_branch = branch
 	token_file = args.data_dir + "tokenized" + os.sep + token_file_branch + os.sep  + basename + ".txt"
-	raw_file = args.data_dir + "raw" + os.sep + token_file_branch + os.sep  + basename + ".txt"
+	xml_file = args.data_dir + "xml" + os.sep + token_file_branch + os.sep  + basename + ".xml"
 	edu_lines = read_text_file(edu_file, include_xml=True)
 	token_lines = read_text_file(token_file, include_xml=True)
-	raw_lines = read_text_file(raw_file, include_xml=True)
+	xml_lines = read_text_file(xml_file, include_xml=True)
 	
-	# Validate xml in raw_lines
-	xml_validator(raw_lines)
+	# Validate xml in xml_lines
+	xml_validator(xml_lines, xml_file)
 	
-	# remove xml in raw
-	raw_lines = [x for x in raw_lines if not x.strip().startswith("<")]
+	# remove xml in xml
+	xml_lines = [x for x in xml_lines if not x.strip().startswith("<")]
 	
-	# Assert same no_space string across edu, token, raw files
-	assert  string_no_space("".join(edu_lines)) == string_no_space("".join(token_lines))
-	assert string_no_space("".join(edu_lines)) == string_no_space("".join(raw_lines))
+	# Assert same no_space string across edu, token, xml files
+	edu_lines_no_space = string_no_space("".join(edu_lines))
+	token_lines_no_space = string_no_space("".join(token_lines))
+	xml_lines_no_space = string_no_space("".join(xml_lines))
 	
-	# Assert no_space token line always contained in a no_space raw line
+	assert  edu_lines_no_space == token_lines_no_space
+	assert edu_lines_no_space ==  xml_lines_no_space
+	
+	# Assert no_space token line always contained in a no_space xml line
 	for token_line in token_lines:
 		assert token_line.strip() == token_line
-		assert substring_of_some_item(string_no_space(token_line), [string_no_space(x) for x in raw_lines])
+		token_line_no_space = string_no_space(token_line)
+		assert substring_of_some_item(token_line_no_space, [string_no_space(x) for x in xml_lines])
 	
 	# Assert edu line always contained in a token line (EDU never bigger than a sentence)
 	for edu_line in edu_lines:
