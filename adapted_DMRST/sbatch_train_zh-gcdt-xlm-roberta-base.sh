@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name="zh-gcdt-hfl-chinese-roberta"
-#SBATCH --output="training_logs/log-MUL-train-zh-gcdt-hfl-chinese-roberta_%j"
+#SBATCH --job-name="zh-gcdt-xlm-roberta-base"
+#SBATCH --output="training_logs/log-MUL-train-zh-gcdt-xlm-roberta-base_%j"
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --gres=gpu:1
