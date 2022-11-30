@@ -26,7 +26,7 @@ The five test documents are double annotated and the second annotation version a
 
 ## Citing
 
-To cite this corpus, please refer to the following article:
+Please cite the following for the source paper -- [GCDT: A Chinese RST Treebank for Multigenre and Multilingual Discourse Parsing](https://aclanthology.org/2022.aacl-short.47/):
 
 ```
 @inproceedings{peng_gcdt_2022,
@@ -46,7 +46,7 @@ To cite this corpus, please refer to the following article:
 }
 ```
 
-Please cite the following report for the [Chinese Discourse Annotation Reference Manual](https://hal.archives-ouvertes.fr/hal-03821884) :
+Please cite the following for the [Chinese Discourse Annotation Reference Manual](https://hal.archives-ouvertes.fr/hal-03821884):
 
 
 ```
