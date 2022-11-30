@@ -46,8 +46,7 @@ To cite this corpus, please refer to the following article:
 }
 ```
 
-Please cite the following report for the <em>Chinese Discourse Annotation Reference Manual</em>:
-
+Please cite the following report for the [Chinese Discourse Annotation Reference Manual](https://hal.archives-ouvertes.fr/hal-03821884) :
 
 
 ```
